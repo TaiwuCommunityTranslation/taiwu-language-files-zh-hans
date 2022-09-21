@@ -1,0 +1,60 @@
+#!/usr/bin/env ruby
+
+require "fileutils"
+require "rubygems"
+require "tempfile"
+
+require "active_support/inflector"
+require "lz4-ruby"
+
+require_relative "unity_bundle"
+require_relative "assets"
+
+LANGUAGE_CN_ASSET_BUNDLE="#{Dir.home}/.local/share/Steam/steamapps/common/The Scroll Of Taiwu/The Scroll of Taiwu_Data/GameResources/language_cn.uab"
+OUTPUT_DIR="zh-hans"
+
+class Lz4Uncompress
+  def initialize(uncompressed_size)
+    @uncompressed_size = uncompressed_size
+  end
+
+  def decode(compressed)
+    return compressed if compressed.bytesize == @uncompressed_size
+
+    uncompressed = LZ4::Raw::decompress(compressed, @uncompressed_size).first
+    raise StandardError, "expected #{@uncompressed_size} bytes, got #{uncompressed.length} bytes" if @uncompressed_size != uncompressed.length
+
+    uncompressed
+  end
+end
+
+def enum_to_string(type)
+  type.class_id.to_s.gsub(/\Aclass_id_unity_(.+)_[0-9a-f]{32}_\d+\z/, '\1').camelize
+end
+
+ub = UnityBundle.from_file(LANGUAGE_CN_ASSET_BUNDLE)
+ub_data = ub.blocks.map(&:data).join
+
+FileUtils.mkdir_p(OUTPUT_DIR)
+ub.block_info_and_directory.data.directory_info.each do |ub_info|
+  # a_name = ub_info.path
+  # puts "[+] update #{a_name}..."
+
+  a_data = ub_data[ub_info.offset, ub_info.size]
+  a_path = Tempfile.new
+  File.binwrite(a_path, a_data)
+  a = Assets.from_file(a_path)
+
+  a.metadata.objects.data.each do |object|
+    type = enum_to_string(object)
+    next unless type == "TextAsset"
+
+    data = object.data
+
+    name = data.m_name.data
+    text = data.m_script.data
+
+    puts "  [+] saving #{name}..."
+    File.binwrite(File.join(OUTPUT_DIR, "#{name}.txt"), text)
+  end
+end
