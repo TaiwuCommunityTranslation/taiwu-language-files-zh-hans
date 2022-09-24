@@ -250,6 +250,7 @@
 开拓传驿通路到…
 确定花费<color=#lightblue>{0}</color>时间、<color=#yellow>{1}</color>银钱、<color=#darkpurple>{2}</color>威望旅行到<color=#darkbrown>{3}</color>的<color=#lightbrown>「{4}」</color>吗？
 沿途需要开通驿站的区域：
+需要开通附近的驿站才能开通此传驿通路…
 {0}你可知有何深意？作何解释？
 {0}最容易不过，且听我解来你听！
 {0}如此高深，难道你当真懂得？！
@@ -775,7 +776,7 @@
 地点人物
 人物
 敌人
-商人
+商队
 坟墓
 未知区域
 文化
@@ -982,7 +983,7 @@
 搜集补给会导致本时节停留在原地
 换取补给
 可交换补给：{0}
-地区恩义：{0}
+地区恩义：{0}%
 门派支持：{0}%
 <color=#red>建设空间不足…</color>
 打开仓库
@@ -1188,9 +1189,9 @@
 相枢降世
 相枢真身降世，日月黯淡无光…\n\n所有门派的支持上限：<color=#8FBAE7FF>100%</color>。\n所有地区的恩义上限：<color=#8FBAE7FF>100%</color>。\n所有商人的好感上限：<color=#6DB75FFF>100%</color>。\n\n即令<color=#E4504DFF>最尊贵之人</color>也可能被相枢夺取心神…\n即令<color=#E4504DFF>最尊贵之人</color>也愿意成为太吾的同道…
 剑冢异动
-太吾村附近的“{0}”剑冢接连显现出可怕的异象，似乎有什么东西将要破冢而出！
+太吾村附近的{0}接连显现出可怕的异象，似乎有什么东西将要破冢而出！
 破冢而出
-一名自称“相枢化身”的强敌已从太吾村附近的“{0}”剑冢之中破冢而出！径直向太吾村而来！
+一名自称“相枢化身”的强敌已从太吾村附近的{0}之中破冢而出！径直向太吾村而来！
 行囊负重不足
 行囊中存放的物品总重量超过了最大负重！\n在地图上进行移动时所需消耗的时间额外增加<color=#red>{0}%</color>！\n<color=#red>会因此在月份更替时丢失若干物品！</color>
 仓库空间不足
@@ -1351,6 +1352,8 @@
 公开秘闻
 {0} 的秘闻
 {0} 的见闻
+牵涉其中
+与己无关
 此秘闻将在{0}月后被人遗忘……
 知晓人数到达{0}后，此秘闻将会公开……
 传播此秘闻需要消耗{0}
@@ -1370,6 +1373,9 @@
 进攻
 守御
 机略
+进攻越高，人物在战斗中作为出战同道时，就能越频繁地出现出战、催发、攻击、掠阵指令…
+守御越高，人物在战斗中作为出战同道时，就能越频繁地出现防御、还护、解穴、警示指令…
+机略越高，人物在战斗中作为出战同道时，就能越频繁地出现迅进、拉回、疗伤、驱毒、真气指令…\n机略的高低决定着战斗、较艺的先手后情况…\n机略越高，人物在战斗中就能使用越多的物品…\n机略越高，人物在较艺开始时就能探明越多较艺的主题…
 攻防
 膂力
 灵敏
@@ -1379,6 +1385,7 @@
 悟性
 生育
 喜恶
+已消耗的属性会在每次月份更替时得到一定程度的恢复…
 称号
 由于人物的各种成就而获得的称号…\n\n
 人物的姓名…\n\n<color=#pinkyellow>·某些情况下，人物的姓名可能并非其真名</color>
@@ -1390,7 +1397,7 @@
 身份
 人物在所属城镇或门派中的身份或地位…\n\n<color=#pinkyellow>·身份或地位越高的人物，越难结交\n·身份或地位共有从低到高九个级别：\n<color=#GradeColor_0>灰</color>、<color=#GradeColor_1>白</color>、<color=#GradeColor_2>绿</color>、<color=#GradeColor_3>蓝</color>、<color=#GradeColor_4>青</color>、<color=#GradeColor_5>紫</color>、<color=#GradeColor_6>黄</color>、<color=#GradeColor_7>橙</color>、<color=#GradeColor_8>红</color></color>
 立场
-处世立场代表人物最根本的处世态度和观念…\n<color=#pinkyellow>·立场差别越大的两个人，越难相处\n·不同的立场能够发起的行为不尽相同\n·不同的立场在许多事件中获得的结果不尽相同\n\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_0><color=#BehaviorType_Egoistic>唯我</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_1><color=#BehaviorType_Rebel>叛逆</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_2><color=#BehaviorType_Even>中庸</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_3><color=#BehaviorType_Kind>仁善</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_4><color=#BehaviorType_Just>刚正</color></color>
+处世立场代表人物最根本的处世态度和观念…\n<color=#pinkyellow>·立场差别越大的两个人，越难相处\n·不同的立场能够发起的行为不尽相同\n·不同的立场在许多事件中获得的结果不尽相同\n\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_4><color=#BehaviorType_Egoistic>唯我</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_3><color=#BehaviorType_Rebel>叛逆</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_2><color=#BehaviorType_Even>中庸</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_1><color=#BehaviorType_Kind>仁善</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_0><color=#BehaviorType_Just>刚正</color></color>
 名誉
 名誉代表世人对人物的看法，与人物的善恶无关。\n\n<color=#pinkyellow>·名誉的高低会影响他人对人物的好感\n·名誉低至「<color=#FameType_Worse>千夫所指</color>」时，会遭遇侠士们的袭击\n·名誉从低到高：\n\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_0><color=#FameType_Worst>妖魔鬼怪</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_1><color=#FameType_Worse>千夫所指</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_2><color=#FameType_Bad>名声败坏</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_3><color=#FameType_Normal>默默无闻</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_4><color=#FameType_Good>立身扬名</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_5><color=#FameType_Better>声驰千里</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_6><color=#FameType_Best>誉满天下</color></color>
 <color=#FameType_Worst>妖魔鬼怪</color>
@@ -1422,8 +1429,8 @@
 次
 功法资质
 技艺资质
-提气速度
-架势速度
+提气恢复
+架势恢复
 移动速度
 步伐稳健
 施展速度
@@ -2042,7 +2049,8 @@
 耐力-{0}
 斗性-{0}
 耐久-{0}
-还可以使用{0}次……
+还可以与人谈论{0}次……
+与见闻出于同个地区的人物谈论该见闻的效果下降…\n与见闻出于不同地区的人物谈论该见闻的效果上升…
 零
 壹
 贰
@@ -2303,6 +2311,7 @@
 涉世未深，前路未明
 继续未完成的旅途…
 \n\n已收服此外道巢穴，可派遣村民至此监管……
+再次点击物品以确认选择
 道具获得提示
 获得了\n{0}
 出现了重复的事件组Key：{0}
