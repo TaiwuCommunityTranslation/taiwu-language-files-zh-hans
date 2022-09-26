@@ -1,8 +1,10 @@
 #!/usr/bin/env ruby
 
 require "fileutils"
+require "json"
 require "rubygems"
 require "tempfile"
+require "yaml"
 
 require "active_support/inflector"
 require "lz4-ruby"
@@ -10,6 +12,7 @@ require "lz4-ruby"
 require_relative "unity_bundle"
 require_relative "assets"
 
+MANAGED_ASSEMBLY="#{Dir.home}/.local/share/Steam/steamapps/common/The Scroll Of Taiwu/The Scroll of Taiwu_Data/Managed/Assembly-CSharp.dll"
 LANGUAGE_CN_ASSET_BUNDLE="#{Dir.home}/.local/share/Steam/steamapps/common/The Scroll Of Taiwu/The Scroll of Taiwu_Data/GameResources/language_cn.uab"
 OUTPUT_DIR="zh-hans"
 
@@ -53,8 +56,22 @@ ub.block_info_and_directory.data.directory_info.each do |ub_info|
 
     name = data.m_name.data
     text = data.m_script.data
+    lines = text.split("\n")
+
+    abort "not a language file: #{name}" unless name.end_with?("_language")
 
     puts "  [+] saving #{name}..."
+    if name == "ui_language"
+      keys_yaml = `
+        ilspycmd -t LanguageKey '#{MANAGED_ASSEMBLY}' \
+          | awk '/private static readonly Dictionary<string, ushort> _filedIdMap = new Dictionary<string, ushort>/,/};/' \
+          | grep -E '\\{[^}]+\\}' -o | sed -E 's/^\\{ "([^"]+)", ([0-9]+) \\}$/\\1: \\2/g'
+      `
+      keys = YAML.safe_load(keys_yaml)
+      entries = keys.transform_values { |id| lines[id] }
+      next File.write(File.join(OUTPUT_DIR, "#{name}.json"), JSON.pretty_generate(entries))
+    end
+
     File.binwrite(File.join(OUTPUT_DIR, "#{name}.txt"), text)
   end
 end
