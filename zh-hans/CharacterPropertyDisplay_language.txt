@@ -1,5 +1,5 @@
 膂力
-膂力代表人物的力量、爆发力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_mingzhong_1_0>力道、<SpName=mousetip_huajie_0>卸力\n·增加需要<SpName=mousetip_zhuyao_0>膂力的功法、兵器、护具的发挥度\n·增加人物的装备、行囊负重\n·随着年龄的增长，膂力将更难恢复</color>
+膂力代表人物的力量、爆发力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_mingzhong_1_0>力道、<SpName=mousetip_huajie_0>卸力\n·增加需要<SpName=mousetip_zhuyao_0>膂力的功法、兵器、护具的发挥度\n·增加人物的装备负重\n·随着年龄的增长，膂力将更难恢复</color>
 灵敏
 灵敏代表人物的灵活度、协调力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_mingzhong_1_2>迅疾、<SpName=mousetip_huajie_2>闪避\n·增加需要<SpName=mousetip_zhuyao_1>灵敏的功法、兵器、护具的发挥度\n·随着年龄的增长，灵敏将更难恢复</color>
 定力
