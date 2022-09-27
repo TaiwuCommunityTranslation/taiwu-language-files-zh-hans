@@ -3,6 +3,7 @@
 require "fileutils"
 require "json"
 require "rubygems"
+require "set"
 require "tempfile"
 require "yaml"
 
@@ -12,8 +13,10 @@ require "lz4-ruby"
 require_relative "unity_bundle"
 require_relative "assets"
 
-MANAGED_ASSEMBLY="#{Dir.home}/.local/share/Steam/steamapps/common/The Scroll Of Taiwu/The Scroll of Taiwu_Data/Managed/Assembly-CSharp.dll"
-LANGUAGE_CN_ASSET_BUNDLE="#{Dir.home}/.local/share/Steam/steamapps/common/The Scroll Of Taiwu/The Scroll of Taiwu_Data/GameResources/language_cn.uab"
+GAME_DIR="#{Dir.home}/.local/share/Steam/steamapps/common/The Scroll Of Taiwu"
+MANAGED_ASSEMBLY="#{GAME_DIR}/The Scroll of Taiwu_Data/Managed/Assembly-CSharp.dll"
+LANGUAGE_CN_ASSET_BUNDLE="#{GAME_DIR}/The Scroll of Taiwu_Data/GameResources/language_cn.uab"
+EVENTS_DIR="#{GAME_DIR}/Event/EventLanguages"
 OUTPUT_DIR="zh-hans"
 
 class Lz4Uncompress
@@ -75,3 +78,42 @@ ub.block_info_and_directory.data.directory_info.each do |ub_info|
     File.binwrite(File.join(OUTPUT_DIR, "#{name}.txt"), text)
   end
 end
+
+def parse_events(file)
+  yaml = `
+    cat '#{file}' \
+      | tr -d '\\r' \
+      | sed -E 's/\\t- EventName(.*)/  EventName\\1\\n  EventData:/g' \
+      | sed -E 's/\\t\\t-- /    /g' \
+      | sed -E 's/(Group|GroupName|Language|EventGuid|EventName|EventData|EventContent|Option_[0-9]+) : (.*)$/\\1: "\\2"/' \
+      | sed 's/\\v/\\\\v/g'
+  `
+  events = YAML.safe_load(yaml)
+  abort "invalid events" unless events.is_a?(Array)
+  events.filter { |event| event["EventGuid"] }
+end
+
+puts "  [+] saving EventLanguages..."
+event_list = {}
+
+event_files = Dir["#{EVENTS_DIR}/*.txt"]
+event_files.each do |event_file|
+  puts "    [+] processing #{File.basename(event_file)}..."
+  parse_events(event_file).each do |event|
+    guid = event["EventGuid"]
+    event_list[guid] = event
+  end
+end
+
+event_language = {}
+event_list.sort_by(&:first).each do |guid, event|
+  name, data = event.values_at(*%w[EventName EventData])
+  abort "empty name for event #{guid}" if name.nil?
+  abort "empty data for event #{guid}" if data.nil?
+  event_language["GUID-#{guid}-EventName"] = name
+  data.each do |key, value|
+    event_language["GUID-#{guid}-#{key}"] = value
+  end
+end
+
+File.binwrite(File.join(OUTPUT_DIR, "event_language.json"), JSON.pretty_generate(event_language))
