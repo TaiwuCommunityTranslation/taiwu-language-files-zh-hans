@@ -1,10 +1,13 @@
-﻿using ICSharpCode.Decompiler;
+﻿using System.Text.RegularExpressions;
+
+using ICSharpCode.Decompiler;
 using ICSharpCode.Decompiler.CSharp;
 using ICSharpCode.Decompiler.CSharp.Syntax;
 using ICSharpCode.Decompiler.Metadata;
 using ICSharpCode.Decompiler.TypeSystem;
 using Kaitai;
 using Newtonsoft.Json;
+using YamlDotNet.Serialization;
 
 const string OUTPUT_DIR = "zh-hans";
 
@@ -115,3 +118,44 @@ uab.BlockInfoAndDirectory.Data.DirectoryInfo.ForEach(directoryInfo =>
     File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.txt"), text);
   });
 });
+
+var eventsDirectory = Path.Join(gameDirectory, "Event", "EventLanguages");
+if (!Directory.Exists(eventsDirectory))
+{
+  Console.Error.WriteLine($"Invalid events directory: {eventsDirectory}!");
+  Environment.Exit(1);
+}
+
+Console.WriteLine("[+] saving EventLanguages...");
+var eventsList = new SortedDictionary<string, Dictionary<string, string>>();
+
+var yamlDeserializer = new Deserializer();
+
+var eventFiles = Directory.GetFiles(eventsDirectory);
+Array.ForEach(eventFiles, eventFile =>
+{
+  Console.WriteLine($"  [+] processing {Path.GetFileName(eventFile)}...");
+
+  var data = File.ReadAllText(eventFile);
+
+  var yaml = data.Replace("\r", "").Replace("\v", @"\v");
+  yaml = Regex.Replace(yaml, @"^- (Group|GroupName|Language) :.*$", "", RegexOptions.Multiline);
+  yaml = Regex.Replace(yaml, @"^- EventGuid : (.+)$", "GUID-$1:", RegexOptions.Multiline);
+  yaml = Regex.Replace(yaml, @"^\t+--? ([^ ]+) : (.*)$", @"  $1: ""$2""", RegexOptions.Multiline);
+
+  var events = yamlDeserializer.Deserialize<Dictionary<string, Dictionary<string, string>>>(yaml);
+  Array.ForEach(events.ToArray(), eventPair => eventsList[eventPair.Key] = eventPair.Value);
+});
+
+var eventLanguages = new Dictionary<string, string>();
+Array.ForEach(eventsList.ToArray(), eventPair =>
+{
+  var prefix = eventPair.Key;
+  Array.ForEach(eventPair.Value.ToArray(), entry =>
+  {
+    var key = $"{prefix}-{entry.Key}";
+    eventLanguages[key] = entry.Value;
+  });
+});
+
+File.WriteAllText(Path.Join(OUTPUT_DIR, $"event_language.json"), JsonConvert.SerializeObject(eventLanguages, Formatting.Indented));
