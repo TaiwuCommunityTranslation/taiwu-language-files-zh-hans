@@ -3,6 +3,7 @@ using ICSharpCode.Decompiler.CSharp;
 using ICSharpCode.Decompiler.CSharp.Syntax;
 using ICSharpCode.Decompiler.Metadata;
 using ICSharpCode.Decompiler.TypeSystem;
+using Kaitai;
 
 var cliArgs = Environment.GetCommandLineArgs();
 if (cliArgs.Length != 2)
@@ -43,6 +44,7 @@ var fieldDeclaration = (FieldDeclaration)typeDeclaration.Children.First(node => 
 var variableInitializer = (VariableInitializer)fieldDeclaration.Children.First(node => node is VariableInitializer);
 var objectCreateExpression = (ObjectCreateExpression)variableInitializer.Children.First(node => node is ObjectCreateExpression);
 var arrayInitializer = (ArrayInitializerExpression)objectCreateExpression.Children.First(node => node is ArrayInitializerExpression);
+
 var languageKeyToLineMapping = arrayInitializer.Children.Aggregate(new Dictionary<string, int>(), (acc, node) =>
 {
   if (!(node is ArrayInitializerExpression)) throw new Exception("invalid array node");
@@ -59,6 +61,26 @@ var languageKeyToLineMapping = arrayInitializer.Children.Aggregate(new Dictionar
   acc[key] = val;
 
   return acc;
+});
+
+var languageCnAssetBundle = Path.Join(gameDirectory, "The Scroll of Taiwu_Data", "GameResources", "language_cn.uab");
+if (!File.Exists(languageCnAssetBundle))
+{
+  Console.Error.WriteLine($"Invalid language_cn.uab: {languageCnAssetBundle}!");
+  Environment.Exit(1);
+}
+Console.WriteLine($"Using language_cn.uab: {languageCnAssetBundle}");
+
+var uab = UnityBundle.FromFile(languageCnAssetBundle);
+var uabData = uab.Blocks.Aggregate(new byte[0], (acc, block) =>
+{
+  return acc.Concat(block.Data).ToArray();
+});
+
+uab.BlockInfoAndDirectory.Data.DirectoryInfo.ForEach(directoryInfo =>
+{
+  var assetData = new byte[directoryInfo.Size];
+  Array.Copy(uabData, directoryInfo.Offset, assetData, 0, directoryInfo.Size);
 });
 
 Console.ReadKey();
