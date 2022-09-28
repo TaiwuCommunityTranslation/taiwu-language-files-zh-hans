@@ -16,3 +16,7 @@
 
 # VSCode
 .vscode/
+
+# C#
+/obj
+/bin
