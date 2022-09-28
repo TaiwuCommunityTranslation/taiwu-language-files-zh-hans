@@ -4,6 +4,9 @@ using ICSharpCode.Decompiler.CSharp.Syntax;
 using ICSharpCode.Decompiler.Metadata;
 using ICSharpCode.Decompiler.TypeSystem;
 using Kaitai;
+using Newtonsoft.Json;
+
+const string OUTPUT_DIR = "zh-hans";
 
 var cliArgs = Environment.GetCommandLineArgs();
 if (cliArgs.Length != 2)
@@ -18,7 +21,6 @@ if (!Directory.Exists(gameDirectory))
   Console.Error.WriteLine($"Invalid game directory: {gameDirectory}!");
   Environment.Exit(1);
 }
-Console.WriteLine($"Using game directory: {gameDirectory}");
 
 var managedAssembly = Path.Join(gameDirectory, "The Scroll of Taiwu_Data", "Managed", "Assembly-CSharp.dll");
 if (!File.Exists(managedAssembly))
@@ -26,7 +28,6 @@ if (!File.Exists(managedAssembly))
   Console.Error.WriteLine($"Invalid managed assembly: {managedAssembly}!");
   Environment.Exit(1);
 }
-Console.WriteLine($"Using managed assembly: {managedAssembly}");
 
 var module = new PEFile(managedAssembly);
 var resolver = new UniversalAssemblyResolver(managedAssembly, false, module.DetectTargetFrameworkId());
@@ -69,7 +70,6 @@ if (!File.Exists(languageCnAssetBundle))
   Console.Error.WriteLine($"Invalid language_cn.uab: {languageCnAssetBundle}!");
   Environment.Exit(1);
 }
-Console.WriteLine($"Using language_cn.uab: {languageCnAssetBundle}");
 
 var uab = UnityBundle.FromFile(languageCnAssetBundle);
 var uabData = uab.Blocks.Aggregate(new byte[0], (acc, block) =>
@@ -77,10 +77,41 @@ var uabData = uab.Blocks.Aggregate(new byte[0], (acc, block) =>
   return acc.Concat(block.Data).ToArray();
 });
 
+if (!Directory.Exists(OUTPUT_DIR)) Directory.CreateDirectory(OUTPUT_DIR);
 uab.BlockInfoAndDirectory.Data.DirectoryInfo.ForEach(directoryInfo =>
 {
   var assetData = new byte[directoryInfo.Size];
   Array.Copy(uabData, directoryInfo.Offset, assetData, 0, directoryInfo.Size);
-});
 
-Console.ReadKey();
+  var asset = new Assets(new KaitaiStream(assetData));
+  asset.Metadata.Objects.Data.ForEach((obj) =>
+  {
+    if (obj.ClassId != Assets.ClassId.UnityTextAsset3acc9e530e323df61040bf9358a9076c109 &&
+        obj.ClassId != Assets.ClassId.UnityTextAsset3acc9e530e323df61040bf9358a9076c49)
+    {
+      return;
+    }
+
+    var data = (Assets.UnityTextAsset3acc9e530e323df61040bf9358a9076c)obj.Data;
+
+    var name = data.MName.Data;
+    var text = data.MScript.Data;
+
+    Console.WriteLine($"[+] saving {name}...");
+    if (name == "ui_language")
+    {
+      var lines = text.Split("\n");
+      var entries = languageKeyToLineMapping.Aggregate(new Dictionary<string, string>(), (acc, pair) =>
+      {
+        acc[pair.Key] = lines[pair.Value];
+
+        return acc;
+      });
+      File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.json"), JsonConvert.SerializeObject(entries, Formatting.Indented));
+
+      return;
+    }
+
+    File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.txt"), text);
+  });
+});
