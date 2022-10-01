@@ -1,0 +1,206 @@
+PD·Bamboo
+尖刺
+神药
+药霜
+Poison Sand
+铁制机关
+Exotic Wp
+木制机关
+玉制令符
+Talisman
+织造令符
+铁制针匣
+Needle
+W·Needle
+石制针匣
+金银针匣
+藤制针匣
+玉制针匣
+铁制对刺
+对刺
+W·Dagger
+石制对刺
+金银对刺
+藤制对刺
+玉制对刺
+铁制暗器
+Hidden·Wp
+W·Dart
+石制暗器
+金银暗器
+藤制暗器
+玉制暗器
+铁制箫笛
+Flute
+W·Flute
+石制箫笛
+金银箫笛
+藤制箫笛
+玉制箫笛
+铁制掌套
+Hand guard
+木制掌套
+石制掌套
+毛皮掌套
+金银掌套
+藤制掌套
+玉制掌套
+织造掌套
+铁制短杵
+Club
+W·Club
+石制短杵
+金银短杵
+藤制短杵
+玉制短杵
+铁制剑
+Sword
+W·Sword
+石制剑
+金银剑
+藤制剑
+玉制剑
+铁制刀
+Blade
+W·Blade
+石制刀
+金银刀
+藤制刀
+玉制刀
+铁制长兵
+Polearm
+木制长兵
+石制长兵
+金银长兵
+藤制长兵
+玉制长兵
+铁制瑶琴
+Guqin
+W·Zither
+石制瑶琴
+金银瑶琴
+藤制瑶琴
+玉制瑶琴
+W·Whisk
+Whisk
+毛皮拂尘
+藤制拂尘
+T·Whisk
+W·Whip
+Whip
+毛皮长鞭
+藤制长鞭
+T·Whip
+铁制宝物
+Trinket
+木制宝物
+石制宝物
+毛皮宝物
+金银宝物
+藤制宝物
+玉制宝物
+织造宝物
+铁制冠饰
+Helmet
+W·Head
+石制冠饰
+毛皮冠饰
+金银冠饰
+藤制冠饰
+玉制冠饰
+织造冠饰
+铁制鞋子
+鞋子
+W·Shoe
+石制鞋子
+毛皮鞋子
+金银鞋子
+藤制鞋子
+玉制鞋子
+织造鞋子
+铁制护甲
+Armor
+W·Armor
+石制护甲
+毛皮护甲
+金银护甲
+藤制护甲
+玉制护甲
+织造护甲
+铁制护臂
+护臂
+木制护臂
+石制护臂
+毛皮护臂
+金银护臂
+藤制护臂
+玉制护臂
+织造护臂
+毛皮衣着
+衣着
+Clothing
+W·Vehicle
+Mount
+藤制代步
+口袋
+Rope
+F·Egg
+菜肴
+F·YunYing chicken
+F·ShaoXing duck
+F·Goose
+F·Blackbone chicken
+F·Quail
+F·Blue peacock
+F·Rabbit
+F·Mountain pig
+F·Eastern goat
+F·Blossom snake
+F·Deer
+F·Elephant trunk
+F·Black bear
+F·Wheat
+F·Soya bean
+F·Mushroom
+F·Asparagus
+F·Lotus
+F·Ginkgo
+F·Hericium
+F·Grass fish
+F·Shrimp
+F·Carp
+F·Crab
+F·Weever
+F·Abalone
+F·Dragonfish
+烈毒药
+Medicine
+郁毒药
+寒毒药
+赤毒药
+腐毒药
+幻毒药
+H·Sambucus
+H·Purple grass
+H·Millennium green
+H·Tiger bone
+H·Ginseng
+H·Snake gallbladder
+H·Storesin
+H·Frangipani
+H·Red honey
+H·Snake bone
+H·Lily
+H·Milkvetch Root
+H·Snowy
+H·Pearl core
+H·Pepper
+H·Wild ginger
+H·Ruby fruit
+H·Lead pill
+H·Hibiscus
+H·Crushed magnet
+H·Calamus
+H·Bezoar
+H·Musk
+H·Parasite
