@@ -1,0 +1,35 @@
+Lifespan
+The length of life span of all characters in the game. \n<color=#E3C66DFF> (The length of a character's life span does not affect the game's difficulty rating.) </color>
+Short
+Medium
+Long
+Epic
+Difficulty
+Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle.\n<color=#E3C66DFF>(The higher the difficulty, the stronger the enemy will be; the more intelligent enemies are; the more actions they will perform in battle)\n(For example: they will take better control of the distance and timing for attack and defence.)</color>
+Normal
+Hard
+Harder
+Deadly
+Outlaws Amount
+The number of enemies that exist in the world. How quickly their numbers increase.\n<color=#E3C66DFF>(encounter rate increases with higher difficulty)</color>
+Less
+More
+Overwhelming
+Invasion Speed
+Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean less preparation time, making it harder to defend the village.\n<color=#E3C66DFF>(The game is over if the Taiwu Village is destroyed.)</color>
+Slow
+Fast
+Faster
+World Condition
+A prosperous world will benefit the development of Taiwu.\nBut even the most barren world can gradually recover.\n<color=#E3C66DFF>(The world condition directly affects the recover speed of all kinds of resources in the world; The amount of resources gathered are likely to be different every time even in Wonderland world condition.)</color>
+Wonderland
+Poor
+Barren
+World Population
+Controls the maximum limit of concurrent NPCs in the game. The more NPCs there are, the more diverse the World of Taiwu will be.\n<color=#E3C66DFF>(Higher processing power is required for larger world population)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
+Restriction on Standpoint
+Choices made in events will be limited based on different standpoint restrictions, for a more realistic Taiwu world. (i.e., if you have chosen the Kind standpoint, you're limited to -------)
+On
+Off
+Random Heir
+When the Taiwu (player) dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir.\n<color=#E3C66DFF>(The game is over if no heir is assigned!)</color>\n<color=#E4504DFF> (This option cannot be changed after the game has started!) </color> 
