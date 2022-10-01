@@ -18,3 +18,6 @@ Translated portion in this repository is distributed under [CC BY 4.0](https://c
 1. Open up command prompt, shell, or other interface. 
 2. Run `.\taiwu-language-files-zh-hans.exe '<PATH_TO_YOUR_SCROLL_OF_TAIWU_INSTALL>'`
 3. (Optional) Push the changed files back to the repo to trigger Transifex auto-sync.
+
+# How to download files
+![image](https://user-images.githubusercontent.com/859018/193431477-179c952d-575a-4d41-8cff-e8773a51571e.png)
