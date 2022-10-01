@@ -1,0 +1,36 @@
+Encounter a mirage
+Encountered a mirage, leading to a rise in popularity
+Discover Savage
+Discovered a savage, leading to a rise in popularity
+Discover Animals
+Discovered animals, leading to a rise in popularity
+Discover Plants
+Discovered plants, leading to a rise in popularity
+Report Back
+Reported back, leading to a rise in popularity
+Discover a settlement
+Discovered a settlement, leading to a rise in popularity
+Read the weather
+Read the weather, leading to a rise in popularity
+Get Lost
+Got lost, leading to a loss of popularity
+Encounter thieves
+Encountered thieves, some goods were lost
+Hit a pothole
+Hit a pothole, some goods were lost
+Found the remains of a caravan
+Found the remains of a caravan, and obtained some goods
+Assist some travelers
+Assisted some travelers, resulting in decreased supplies
+Bad weather
+Encountered bad weather, resulting in decreased supplies
+Get Assistance
+Received assistance and increased supplies
+Occasional Wild Game
+Game was found and supplies increased
+Discover forest fruit
+Found the fruit forest and supplies could be foraged
+Discover a village
+Villages was found and supplies could be exchanged
+Meet a caravan
+When the two caravans met, supplies could be exchanged
