@@ -1,0 +1,657 @@
+Muscular
+此人魁梧奇伟，强壮有力，对敌不凭武力，也能以一身劲力制人。
+Robust as a beast
+手擒九牛，足踩虎尾。此人天生怪力，凶悍犹胜百兽，常人皆不敢随意招惹。
+Mountainous Strength
+此人天生神力，雄伟非凡，甚至可以徒手拔起大山，扛举重鼎。
+Weak and Feeble
+此人体弱无力，肩不可提，手不能扛，常常体力不支。
+Extremely Feeble
+此人身衰体虚，少气无力，若提担重物，徒步行远，则虚汗连连。
+Feeble as an Ant
+蚍蜉撼树，不自量力。此人虽具人形，然力微小，犹不及蚍蜉，在世间自处，常步履维艰。
+Physically Healthy
+从小便比常人强壮结实，且身体健康，鲜少生病。
+Vigorous as a Horse
+其人体格健硕，精神饱满，见之气宇轩昂，毫无颓靡之态。
+Godlike Constitution
+人之精气神，无一不足。精盛而气盈，神充而身强，所以寿命恒长。
+Thin as a willow
+自小便比常人瘦削娇小，且身体虚弱，偶有小患。
+Extremely Frail
+身娇体弱，不禁寒风。此人天生体虚衰弱，比较常人更易生病。
+Fated Early Death
+天生病体，药石无灵。常年病患不断，且不能根治，唯有依靠药石续命，然依旧时日无多。
+Excellent Senses of Hearing and Sight
+此人听觉灵敏、眼光锐利，可以发现常人不能发现的事物。
+As Swiftness as Running Water
+头脑清晰，行动敏捷。对事物的见解十分透彻，善于解决棘手的难题。
+Traceless
+人行诡变，潜没无踪。此人行为举止深不可测，言谈之间又能洞察人心，逢战对敌，常兵不血刃。
+Awkward Limbs
+天生手脚笨拙，肢体僵硬，常损坏物品，遇事又多有不济。
+Clumsy and Inarticular
+四肢粗笨，且不善言谈，故常常因为言语而得罪旁人。
+Dull as a Doll
+头脑笨拙，心思迟钝，对于旁人言谈常常反应不及，宛如泥偶一般。
+Miraculous Skeletal Structure
+天生根骨极佳，与常人不同，神态极是清朗。
+Spiritual Pure Essence
+此人得天独厚，生就形端体正，神明骨秀，似有仙人风骨。
+Immortal Vitality
+生来仙风道骨，夺人风采，人见之以为神仙。
+Qi fails to enter the Marrow
+天生根骨不佳，无法与体内运转的真气相互呼应。
+Obstruction of Seven Orifices
+此人根骨晦杂，七窍闭塞，无法感应到天地间的灵气。
+Qi Turbid as a Dog
+生来便是浊尘凡胎，虽似人形，却无人气。
+Shrewd
+头脑灵活，才思灵敏，常能出口成章，博得满堂喝彩。
+Sagacious
+天资聪慧，心思灵巧，对任何事物的理解都十分透彻。
+Unrivalled Wisdom
+智慧过人，当世无双，拥有常人所不及的聪明才智。
+Silliy Mind
+愚笨痴呆，傻里傻气，因为与人交流有碍，偶尔会做出一些出人意表的怪诞行为。
+Idiotic as a chicken
+常常自己坐在原地发呆，数个时辰一动不动，呆板死气，好似一只木鸡。
+Stupid as a Pig
+心思愚蠢，行为笨拙，其心智蒙昧，甚至无法与人正常交流。
+Indomitable Will
+此人性格刚毅武勇，坚固隐忍。遇事常常三思后行，不因一时意气而冲动误事。
+Serene Mind
+心思透彻，情意明达，对人对物自有见解，逢难遇事亦常迎刃而解。
+Exquisite Jade of Autumn Frost
+为人秉性如琨玉与秋霜般坚贞不屈，内心不因任何事物而轻易动摇。
+Loose-minded
+此人心思散漫，流荡不羁。遇事常常不能坚持，正如猿马一般难以控制。
+Irresolute
+行为犹豫，难以果断，每到抉择之时常常左右为难，因此错失良机。
+Destined Loneliness
+其人心智不坚，行为放荡，或为色诱，或为财走，常无定性。
+Talented
+自小天赋异禀，不论习文练武，常能融会贯通，举一反三。
+Extraordinary Genius
+才具非凡，当世罕有。拥有常人所不及的天赋，若以善用，或成不世之功。
+Harmony of Original Qi
+天元一气，地物相同，人命得此，位列三公。
+Impure Root
+天生形体不佳，心性不纯，不论习文练武，常半途而废，无法长久。
+Misshapen limbs
+手足或生畸变，四肢难以协调，学习事物常常要付出比常人百倍的努力，尚且不及。
+Collapsing Internal Universe
+先天发育不全，后天心智残缺，而致文武不济，生活狼藉。
+Understanding
+天生心思聪慧，善于理解他人，与人交谈言辞妥善，常令对方感到舒心适意。
+Considerate from Every Aspect
+行为处事圆滑通透，待人接物面面俱到，凭借独特的魅力，常能博得旁人的青睐。
+Transcendental
+脱凡离俗，超乎常人。此人心性高洁，不流与俗众，凡有人与之交，则无不被其魅力折服。
+Fickle and Inconstant
+忽喜忽怒，态度变化无常，时常令身边的人感到莫名其妙，难以深交。
+Sarcastic and Annoying
+言谈刁钻带刺，行为冷漠刻薄，常因自己的言行而与人发生冲突。
+Arrogant and Cruel
+其人举止狂妄，乖戾自大，人常对其避之不及，不愿与之交谈。
+Illuminated by Lucky Star
+自出生开始便十分幸运，即使遭遇灾难也能平安化解，好似有福星护佑。
+Blessed Divination
+得禄马同乡命格之人，则财官同处，一生富贵。
+Heavenly Bestowed Fortune
+福运命禄，如天所至。此人命理千年难遇，不论日后际遇如何，终能修得善果，甚至遗惠子孙。
+Jinx
+一生财官，终有破失，纵能把握良机，也必损财禄运势。
+Cursed Divination
+得背禄逐马之命格，则禄马俱失，一生穷途。
+Disastrous Destiny
+灾星转世，凶神下凡。此人生来命中带煞，甚至遗祸亲友，人常避之如蛇蝎。
+Tough Bones and Skin
+皮糙肉厚，骨骼坚硬，棍棒拳掌不能轻易对其造成伤害。
+Bones and Tendons like Steel
+其人筋骨刚硬，意志坚定，不惧寻常兵刃。
+Unbreakable
+此人拥有不坏的身躯，坚固的心性，无论何种神兵利器，皆难致其死命。
+Lustreless Face
+此人面色苍白，身单力薄，逢战对敌，仅凭棍棒拳掌，便能将其重创。
+Refractory Wound
+生来便阳气不足，身体比常人更为虚弱，常因小伤而生大患。
+Tenuous Hold on Life
+纤纤弱质，玉体轻柔，其人身虚气衰，便如琉璃一般极易损坏。
+Harmony of Six Meridians
+此人脉搏沉稳，内气和顺，无有凝阻，身体状况极佳。
+Everlasting Circulation of Qi
+此人生来气血自通，经络循环，所以气行血活，病祛强身。
+Unity of the Individual and Universe
+天人贯通，生生不息。此人与天地并生，能通过自身与万物产生感应，终于合于自然。
+Blockage of Meridians
+此人经脉虚浮，气息不顺，常有滞痛，身体状况不佳。
+Yin Deficiency and Qi Shortage
+此人生来五脏阴虚，气短不接，所以体质衰弱，呼吸艰难。
+Dead Pulse
+天生脉弱，元气衰竭。此人经络五脏具有损伤，因此常致病邪侵体，而有性命之危。
+Lustrous Complexion
+其人不仅筋骨强健，且内息和畅，所以时时红光满面，神采奕奕。
+Lively as a Tiger
+此人体魄强劲，活力充盈，行动便腾如蛟龙，纵若猛虎，永远生气勃勃。
+Immune to Diseases
+正气存内，邪不可干。天生正气旺盛，气海充盈，六邪难以侵入，所以百病不生。
+Sickly
+自小身体衰弱，常易患病，每逢换季，便汤药不断，且难以治愈。
+Seven Injuries of Entrails
+时常血气不顺，筋骨劳累，且五脏虚损，人之形神便逐渐衰竭。
+Haunted by Hundreds of Diseases
+外感六淫，内伤七情。天生阴盛阳衰，气海虚微，而致邪气淫佚，所以百病缠身。
+Self-possessed
+克己修身，敬事慎行。遇事常常自省，三思而定决断。
+Calm and Decisive
+沉谋重虑，果断剖决。思索时条分缕析，面面俱到，决策时遵循规律，态度坚定。
+Stable as a Huge Rock
+任凭风浪，磐石无转。可谓泰山崩顶而不改色，惊涛骇浪而不扰心，能在绝大逆境中沉着前行。
+Impulsive and Emotional
+常受一时意气驱使，而忘所行所为后果，偶尔做出后悔之事。
+Rampageous
+做事不计后果，全凭一股莽撞精神，乱冲乱闯。
+Presumptuous
+随心所欲，恣意忘形，少端正合理之言谈，多出人意表之妄行。
+Confluence of Triple Sources
+此人体内三元之气不需导引，便能汇聚一处，以供驭使。
+Congenital Abundance of Qi
+身具先天之气，不增不减，空而不空，故而有生生不息之气源可用，似神似妙。
+Shone by Marvellous Light
+天生异能，可将天地之气收入体内，不论清浊，自化为精纯元气，便见玉精气体，表生华光。
+Disharmony of Fire and Water
+心火不降，肾水不承，难以交通相济，因此导气不畅，偶有阻塞。
+Mutual Restraint of Five Qi
+体内五气更立，不见相生，唯有冲克，不仅难以调节化用，更常淤堵于关键枢要处。
+Crumbling Source
+真元溃散，无以结气，此人元精、元气、元神皆处混沌中，散而难聚，无处收放。
+Peaceful Mind
+心无挂碍，神思放松，于是心平气和，善与自然沟通往来。
+Unity of Qi and Mind
+经脉强健，气息通泰，而见精神融融，身体与内心皆十分和谐。
+Unobstructive Eight Meridians
+奇经八脉，似受先天打通，经脉气息能与天地化归一处，有所思便有所至。
+Irritable
+心思常浮动，易受风吹草动所扰，诸般行为常常因此中断，内气躁动不安。
+Anxiety Causing Qi Stagnation
+凡有忧思，必念念不忘，常此以往，郁气内积，而沉于心底，再难排解。
+Sanjiao Converse
+三焦所通元气，于此身中，或逆行，或紊乱，不见章法，于是体内诸气无主持，乃成大乱。
+Calm and Silent
+沉着安静，而少言辞，寻常事物似乎难以打动其内心。
+Unaffected by Dilemma
+此人若逢变乱，不见惊慌，能守本心于飘摇之中，自能应事态变化。
+Carefree and Graceful
+自若以处，以度天下，能因时势而妥善调节，纵瞬息万变亦有闲庭信步之雅姿。
+Stressed
+心神不定，常常为小事忧惧惶恐，耽误所思所为。
+Indiscreet
+此人因心绪起伏而轻易言行举止，不善自制，往往于紧要关头崩溃。
+Hyperactive
+此人多动不安，手足似不由自身控制，四处触碰动作，逢乱更乱，终生不得安定。
+Meticulous
+为人细致，思索行事时能观察到微小末节，从而有所准备。
+Insightful
+看事看物十分透彻清晰，如同观火，照亮一切细微之处，无有错漏。
+Piecing Eyes
+天生一副火眼金睛，观察事物不止纤毫毕现，更能透过表相察觉到不为人知的本相。
+Hesitant
+不察细微，徒生疑虑，因此判断时犹豫不决，迟迟难下决定。
+Paranoid
+遇事多疑，常似遇鬼，观察时常常一惊一乍，怀疑一切，却抓不住任何细节。
+Upside Down Dressed
+急促忙乱，思虑失序，常常观此失彼，大量遗漏，亦不知如何做出反应。
+Faster than the eyes can track
+眼神锐利，手脚快速，能以所察所觉飞快作出合适的反应。
+Whisper from Wind
+双耳十分敏锐，能听到空中细小风声，并辨别出其方位，就好似多生了一双眼睛。
+Elusive as Shadow
+此人行迹诡秘，双足好似永远踏于影中，身形好似永远藏于物后，极难被他人发现。
+Slow Reaction Time
+感官似乎比常人迟钝，对危险的发现和反应总是慢了一拍。
+Confuses Left with Right
+不能分辨方位，常常指东为西，指左为右，有时可能自行撞到危险方向。
+Discord of Mind and Body
+内心本已反应不及，奈何身体更是不随心动，身心俱乱，无处躲闪，常常陷于困境之中。
+Adventurous
+胆大于身，义气拂云，此人勇武和力气均胜过常人。
+Dauntless
+似乎天生不知何为畏惧，且因其勇猛，诸事亦无可怕，向来勇往直前。
+Risking Life Unhesitatingly
+其勇武处，不计生死，不仅平时勇猛非凡，临危更不惧，反而激发豪壮胸怀，奋不顾身。
+Weak-willed
+性情软弱，容易畏惧，此人勇武和力气均不及常人。
+Discouraged and Depressed
+颓废丧气，精神不振，大部分事物都无法激发出其勇气。
+Cowardly as a Rat
+胆小如鼠，战战兢兢，时常受到惊吓，没有一丝胆量。
+Man of Means
+此人能适应时机的变化，并产生恰当的反应，从而妥善处理变化之事。
+Observing before Acting
+心中藏着万千机谋，而观时势变化，寻求契机，乃是化被动为主动，筹备在早。
+Master of Strategy
+心中所想与世间的诸多妙理不谋而合，能观察到一切的根源，并化作己用。
+Frank but Dull
+木讷笨拙，遭遇变化之事往往难以变通。
+Incautious and Impetuous
+粗心大意，行动草率，遇事不察其细节、不思其根本，胡乱而为，常有错而无从改悔。
+Reckless as a Tiger
+此人常行无谋之事，譬如无舟便渡河，无网便捉虎，每每陷自身于险境，无法解脱。
+Move as a Running Rabit
+行动快速，如脱逃之兔，比常人更多几分敏捷。
+Move in a Flash
+此人行动迅速，干净利落，举手投足只在电光石火之间便能完成。
+Swiftness as Immortals
+行时如风，飘逸无尘，此人就算纵跃、奔行，也不会扬起一分尘埃。
+Indolent
+懒懒散散，反应迟缓，偶尔因此耽误事情。
+Extremely Indolent
+十分拖延懈怠，凡事总要磨蹭到最后，亦未见着急。
+Completely Indolent
+身似千钧重，神思昏沉沉，对一切事都提不起精神，不愿产生任何变化。
+Filled with Murderous Qi
+天生带有凶恶杀气，令人望而生畏。
+Merciless
+面对他人疾苦，心中不会产生一丝同情。
+Fierce as a Rakshasa
+犹如罗刹鬼附身，面容可畏，亦常有食人血肉的欲念。
+Tenderhearted
+心中柔和，面上软弱，若无必要，不愿出手伤人。
+Merciful to Enemies
+过分仁慈，即便面对敌人亦心慈手软，常常因此引狼养虎，误人误己。
+Sympethetic to Flowers
+对世上一切人事物充满怜惜，不愿造成一丝损伤，否则心中必会为此哀痛不已。
+Might Pulse
+此人脉象平稳扎实，活力充沛，内力运转雄壮有力。
+Profusion of Qihai
+膻中部位宗气聚集，充盈有数，稍加导引，便可化成较强悍的内劲。
+Pure Genuine Qi
+此人先天精气淳厚，后天化气亦无杂质，因此体内真气精良纯粹。
+Floating Pulse
+此人脉象虚弱轻浮，难以安定，内力时有时无。
+Void of Qihao
+体内真气难以集聚，气海空空，所发内劲外强中干，后继无力。
+Impure Genuine Qi
+体内真气极易消散混杂，无论如何努力，亦难动用内劲功力之万一。
+Complete Five Elements
+此人五脏远比常人康健，一呼一吸自成法度。
+Supreme Harmony of Qi
+阴阳相汇，灵气冲和，此人天赋异禀，吸气则自然化为功力，吐气则自然修弥内损。
+Unity of Nadis
+有特异之人，通天地之气，自身便为天地之窍，此窍不生不灭，此人亦无欠无余。
+Disorder of Spirit
+心思不定，精神游离，此人不能内观以调周身之气。
+Obstruction of Life Gate
+命门乃诸神精之所舍，原气之所系，命门不开，则天生虚损。
+Iron Embryo
+顽石铁胎，昏沉不纳，此人五脏六腑之间经脉不通，气血时停时行，呼吸时有时无。
+Flying Pace
+此人行动矫健，步履如飞，无论处在何种境地，均能一往无前。
+Mighty Stride
+此人视而高远，行而阔步，往往能在行动中洞察先机，快人一步。
+Leap as a Dragon
+姿态纵横，声势浩大。此人行动大开大阖，身姿夭矫如龙腾虎跃，甚至涉渊渡水。
+Tottering
+此人腿脚不便，行动蹒跚，走路时一瘸一拐，常有摔倒的危险。
+Teetering
+此人身倾体斜，不论何时，行动都歪歪倒倒，好似饮醉，便在平地行走也常常摔伤。
+Slow as a Snail
+天生怠惰，事无所成。此人行动慢条斯理，举止迟缓犹如蜗牛爬行，老牛慢步。
+Distinctive Constitution
+此人体质特殊，不论任何恶疾、伤势，都能极快的康复、愈合。
+Jade Bone and Clear Heart
+其身无瑕如玉，其心清明如冰，仿佛不曾沾染人世的杂尘秽质。
+Immune to Toxins
+此人体质不与常人相同，世间万物都难以引起其身体之变化。
+Invaded by Evil Qi
+常有邪气侵入其体内，对身体造成损害。
+Chaos of Qi and Blood
+此人气息涣散，血液凝滞，故常感不适。
+Congenital Diseases
+天生患有隐疾，不为常人所知，对生活有极大影响。
+Long-limbed
+此人手脚比常人更长，行动之时十分灵活，仿佛猿猴。
+Very Long-limbed
+此人身材纤长，亭亭仿若鹤立，行动翩然，神采非凡。
+Extremely Long-limbed
+细腰如蜂，窄背若猿。此人天生异态，行动迅捷，速快堪比蜂猿。
+Top-heavy
+此人双足无力，难于行走，若行久远，便觉头昏脑胀。
+Odd-looking
+此人形态古怪，不仅行动笨拙，举止亦是十分滑稽。
+Deformed
+肢体异变，模样奇诡。此人天生异态，行动僵硬，甚至影响正常生活。
+Faithful
+此人心志坚定，对待所爱之人与事物，心意始终如一。
+Extremely Faithful
+其情不知所起，一往而深。此人一旦喜爱一人一物，一生如是。
+Completely Faithful
+忠贞不二，矢志不渝。无论任何事物，均不能动摇此人心意。
+Faithless
+此人行事犹疑，常对自己的想法产生动摇，对待人或事物难以专一。
+Extremely Faithless
+心意不坚，常生变化。此人对待任何人与事物，都难以长久。
+Completely Faithless
+生性反复，变化无常。无论任何事物，均能对此人心意产生动摇。
+Eunuch
+天生残缺，不能人道，无法生育……
+Infertile
+天生石芯，不能人道，无法生育……
+Chaos of Yin and Yang
+双性共生，雌雄一体，生育艰难……
+Writing brush
+This character was easily attracted by calligraphy in infancy and grabed a writing brush at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Doll
+This character was keen on playing with toys in infancy and grabed a doll at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Plane
+This character often stared at furnitures and houses in infancy and grabed a plane at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Jade flute
+This character was interested in music in infancy and grabed a jade flute at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Herb
+This character was keen on playing with flowers in infancy and grabed a herb at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Whisk
+This character often stared at the sky in infancy and grabed a whisk at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Dice
+This character often cried for their elders' attention in infancy and grabed a dice at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Jade Pendant
+This character showed a good taste in infancy and grabed a jade pendant at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Soil
+This character often rolled on the ground in infancy and grabed a lump of soil at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Knife
+This character was keen on breaking things in infancy and grabed a knife at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Beads
+This character often smiled with a thoughtful look in infancy and grabed a string of beads at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Rouge
+This character was fond of gorgeous items in infancy and grabed a box of rouge at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+生于寅月
+出生于众生凋敝的寅月，清日无辉，寒衾冷被中不畏世间辛苦。
+生于卯月
+出生于和风渐暖的卯月，冰澌溶泄，当知万物好时仍需待。
+生于辰月
+出生于水暖风轻的辰月，百花盛开，喜爱与自然万物相亲。
+生于巳月
+出生于土膏脉肥的巳月，雨茶香春，悠悠然得一片平和宁静。
+生于午月
+出生于雨盈河丰的午月，谷粒初浆，只待经历暑期后必得盈满。
+生于未月
+出生于炎热日长的未月，趁白日早，正是习练用功落汗如雨时。
+生于申月
+出生于阳收阴长的申月，水潦盛昌，神定心静而得无上清凉。
+生于酉月
+出生于水老秋凉的酉月，鸿雁归来，青高天上纳来凌云壮志。
+生于戌月
+出生于月冷风肃的戌月，梧叶飘黄，登山临水送青归。
+生于亥月
+出生于草木零落的亥月，柿红如火，遂知丰收之喜贮满仓。
+生于子月
+出生于蓄冷积阴的子月，北风吹寒，动物安眠待来年。
+生于丑月
+出生于数九算寒的丑月，觅得归宿，团团饮食祀祖庆祝往来。
+Pure YinYang
+Impure YinYang
+Pregnancy
+This character is pregnant and defenceless.
+Forced to Serve
+This character was forced to serve the Taiwu.
+Loyal Servant
+This character is a loyal servant bestowed by the Fulong Altar.
+Scripture blessing
+Blessed people are immune to natural disasters……
+Potential Radiance
+Potential Radiance - Increases your Success Rate for breakthroughs in the Artistic and Crafting Talents, +20 points of Patience and Fortitude. 
+Convergence Of Sharp Blade
+Convergence of sharp blade - Increases your Success Rate for breakthroughs for Combat and Inner Art Skills, +20 points of Patience and Fortitude. 
+Narcissus In Dream
+Narcissus in dream - You are extremely attractive.
+PC·Enthralled
+因阅读了奇书宝典，大受震撼……\n<color=#E3C66DFF>（入邪者时常疑神疑鬼，好感度极难提升……）</color>
+PC·Possessed
+心神受奇书宝典的影响行将崩毁，偶尔会失去理智伤人害物……\n<color=#E3C66DFF>（入魔者始终疑神疑鬼，好感度极难提升……）</color>
+Bludgeon 300
+Taken 300 hits from staff for breaking the rules of Shaolin, it is forbidden to use qi to protect yourself during the punishment, as a result this person is severely injured, and will not recover for the rest of the life……
+Damaged Meridians
+All Meridians were destroyed as Xuannyu punishment, although they can skill live as a normal person, they won't be able to balance their flow of Qi for the rest of their life, gaining Qi instability……
+Forced Infertility
+The starting point of the middle Meridian —— has been severely injured by vicious techniques and has become dysfunctional, it is a dreadful punishment of the Vajrayana Sect……
+Spinal Cord Poisoned
+A Gu was inserted into the marrow of the spine, it activates whenever the host is poisoned, strengthening the toxins, the Gu cannot be removed for the rest of their life, this is the heaviest punishment from the 5 Immortals Sect……
+Heavenly Reincarnation
+经由天人道转世轮回之人，终生无忧无虑，可享天人之福报……
+Humanic Reincarnation
+经由人间道转世轮回之人，生而有喜有忧，有爱有恨，或享福报，或受恶果，因个人行止而异……
+Demonic Reincarnation
+经由非天道转世轮回之人，虽有天人之福报，但亦负阿修罗之罪业，若此生无德，终无善终……
+Infernal Reincarnation
+经由地狱道转世轮回之人，饱受十八层地狱之惩，纵得转回转世，亦难得半分喜乐……
+Ghostly Reincarnation
+经由饿鬼道转世轮回之人，受贪嫉，欺诳所累，难以脱于世间众欲，恒常怨苦……
+Beastly Reincarnation
+经由傍生道转世轮回之人，乃世间众生之杂畜，虽具人形，不得人智，譬如猪狗牛羊……
+Peaceful Mind and Soul
+Enthralled by XiangShu
+心神已逐渐为相枢所感，脑中已尽为邪佞想法所据……\n<color=#E3C66DFF>（入邪者的处世立场将不可控制的暂时转变为叛逆！）</color>
+Possessed
+心神已被相枢完全占据，仅剩的最后一丝理智也行将消灭……\n<color=#E3C66DFF>（入魔者的处世立场将不可控制的暂时转变为唯我！）</color>
+Avatar of XiangShu
+Avatar of XiangShu, Incarnation of evil phases……
+Goddess Counterattack
+莫女者，又名鸟灵医，是天帝之女。\n那时长江之南有座大山，名叫不氏山，山中有鸟却不鸣叫，莫女便于此山中独住，山中鸟类见她便就飞落到她肩头哭泣，莫女知道这些鸟儿常饮山中一处潭水，饮的多了才失了歌鸣之能。于是，莫女就寻到那处潭水，发现有个容形清瘦的人长年于此潭水边上采集一种千年才长一寸的三色灵铁——蝉壳子——用以铸剑。\n那人对莫女说：这潭水之下有个妖魔，常食蝉壳子以做修炼，又于潭水之中施了恶毒，以叫害它之人不可入到潭水深处，我在此处铸剑，便是要以此剑除它。\n莫女听他之言，却不相信，于是将那人所铸之剑扔入了潭水之中，再将那人赶走，又用了些奇妙草药医治这山中的鸟儿，令使这山中雀鸟尽皆恢复了鸣叫之能。\n但是后来，真如那铸剑之人所言，那潭水之下果真有个妖魔，铸剑之人离开不过一个月，它便出了深潭，为祸山中。\n莫女追悔不已，便不顾妖魔之恶，舍身入到那潭水之下，受冰寒刺骨之苦，忍妖灵蚀体之痛，终于取回了那柄被她扔弃之剑，且用衣衫包裹，叫这山中鸟儿衔飞而去，还给那位铸剑之人，请他来此斩妖除魔，然而不久，莫女便因受了潭水之毒所害而死。\n后来，那位铸剑之人持此灵剑除了妖魔，因受莫女舍身还剑之义所感，便称那柄灵剑为莫女衣，据说，莫女衣的灵气可解百千毒。\n此后，莫女的尸体躺在不氏山上永远不见腐败。
+Evil-Vanquisher
+早古之时，西方之界有个神人，名称大岳瑶常。\n大岳瑶常的“父亲”是钦槐。钦槐是大禹的“儿子”。\n大岳瑶常于世上只存七百年：头一百年，大岳瑶常于南方黑水之中杀了众多妖龙恶蛟；后两百年，大岳瑶常于西荒赤水之下斩了许多炎旱魍魉；再一百年，大岳瑶常于北面寒苦之地灭了无数霜怪雪精；又一百年，大岳瑶常去到东方海天之界降伏了百千地灵鬼仙；最后的两百年，大岳瑶常便是在昆仑山下坐等羽化。\n他羽化之后，便留下了一身尸骨，天地间的妖魔鬼怪皆不敢残其遗骸，这些尸骨受岁月风蚀于是凝聚在一起，便就化成了镇狱伏邪石。
+Glacial Aura
+洪荒之始，炎帝与赤水的姑娘听妖结合，生炎居。炎居后来生节并，节并又生戏器，戏器生了祝融，祝融乃生共工。\n共工是司水之神，蛇身人面，头发火红。他与黄帝相斗，意欲争夺帝位，却始终不能取胜。\n共工心中积愤，便怒而撞不周之山。\n不周山乃是天之支柱，共工怒而相撞，竟使其断，天空于是向西北倾斜，大地亦是朝东南塌陷下去，漫天的星辰便开始自东南向西北移动，神州之内江河之水无不由西北往东南大肆奔流。\n那时，东南之地有座山谷，名叫后泽。后泽之处有角民。\n角民与寻常人无多异处，数目多以万计，却从不出到后泽之外。角民之中有个名叫九寒的男子，因他生来便能驱奇寒之气，却又不可自控，一出生便就冻死了双亲，因此，后泽之处的角民就将他一人赶到了后泽西边的一座雪山上，不叫他接触人畜，更不叫他入到后泽之地。\n后来，九寒娶了雪山上的雪女，冬季一过，雪女寿短，便就化成了雪水，九寒心中伤悲，于是常取水凝结做冰。\n共工撞不周山后，江河东南而流，后泽便逢莫大洪灾，九寒不忍见角民受难，竟以一已之力，将那千万顷汹涌而来的洪水尽数凝成冰雪，便是化成了一座高入云际的冰山，而他自己却也被深埋冰山之下。此后，角民为了记念九寒，便称那座冰山为九寒山，据说，九寒死后，那九寒山里便常有雪女呤唱哀伤的歌曲，而九寒山上的冰雪便是太阳真火也烤不化。
+七文五彩
+凤凰分雄雌，雄者称为凤，雌者叫做凰。\n黄帝当政之时，曾问天老：何为凤凰。\n天老便答：凤凰是神鸟，其首似大雁，其身若麒麟，颈像蛇颈，尾似鱼尾，下颌像是燕的下颌，嘴如鸡嘴，身上有五彩斑斓的花纹，头上的花纹象征“德”，腹下的花纹象征“信”，背上的花纹象征“礼”，胸口的花纹象征“仁”，翅上的花纹象征“义”，脚踏着“正”，尾系着“武”。它若鸣叫，小则似是磕金震玉，大则若是擂鼓惊天，当其昂首展翅之时，五彩缤纷，好不绚丽。\n相传凤凰乃不死，但其每个生命周期却只有四千六百日。凤凰身上生着无数赤目金蚕，赤目金蚕每四千六百日便就吞丝结茧包绕凤凰，又过四千六百日方才茧破，凤凰得出，又获重生。
+Matchless Beauty
+青丘国在朝阳之谷的北面，朝阳之谷是水伯天吴的居所，生活在青丘国的人皆以丝帛为衣，食生的五谷，因为青丘国人不善用火，青丘国的火种便都灭息了。\n青丘国的王名叫竖方，他的父亲是一株槐树，他是天吴的臣子，竖方共有十七个女儿，她们都陆续嫁给了水伯，只有最小的衣以候留在竖方的身边。\n因为衣以候的容貌太过美丽，当时青丘国的大夫都斋父便为她卜卦，卦言：其美，其美，天倾地覆，绝断四时，三方甲士乃举兵戈，山江尽赤上下数祸，此至败相（她的美貌啊，连天都塌陷下来、连地都翻转过来，想要投入她的怀中，四季因她而不再运转，无数的国家因她而燃起战火，山河都被血染红了，天上地下从此多祸劫，这是大凶的卦相）。\n竖方闻此卦意，惊吓不已，只得忍下心痛，命人残毁了衣以候的面容，但谁知衣以候伤愈之后竟又恢复如初，试了三次，皆如这般。竖方无法，便教衣以候从小穿着男装，扮做男儿的模样，以为可以避祸。后来，衣以候长到十九岁，美貌再也掩盖不住，竖方便将她送至青丘国外与九尾之狐为伴。\n九尾狐中有只年轻的灵狐，只有七尾，故而为其它九尾之狐称为丑狐，它教衣以候用血取四象之火。\n衣以候与它相爱，便就嫁给了它做了它的妻子。人们自此知道，衣以候原来是女儿之身啊。她的美貌一时传遍了周边大小的国家，人们只要听到衣以候的名字便就心醉不已。水伯天吴也来迎娶衣以候。竖方畏惧天吴的神力，便叫都斋父前去召回衣以候。\n都斋父见到独自在河边浣洗衣物的衣以候，便对她说，你的丈夫成了神仙，已去了天上，衣以候跑回家去，看到满屋都是迷幻的云雾，果真寻不到丑狐了。因为都斋父早将丑狐引到了焚神山上，用一颗桃木做成的大钉杀死了丑狐。\n衣以候伤心欲绝，心灰意冷，就这样随都斋父回了青丘国。\n到了出嫁那日，天吴迎亲的队伍载着衣以候从焚神山下经过，焚神山上竟刹时燃起了冲天的火光，火势之巨，骇人至极，直烧到九重天外。衣以候泪若雨洒，知道是丑狐在这焚神山上，便跑进了山中，随行的竖方与都斋父前去追赶，结果都被大火烧成了灰烬，后来，焚神山上的火渐见熄灭，却不见烧毁一草寸木。
+Dragonborn
+太古之时，海外之界有个无启国，无启国的人没有子孙后嗣。\n无启国外有座钟山，钟山之神名为烛阴，它长着人的面孔，蛇的身躯，长千里，遍体赤红，它睁开眼，就是白天，闭上眼，就是黑夜，它的呼吸就能化为风，他一吹气世上便为冬，他一呼气世上便为夏，它不饮、不食，居住在无启国的东边，那时钟山脚下有个怪人，名叫服常居合。\n服常居合是盘古的腑脏所化，能食金石，尤其喜好吃蛇，他生来就有六臂三首，三年就长了三千丈高，他见到龙便以为是大蛇，而把龙吞进了腹中，如此总共吃了一百条九天内外的神龙。\n烛阴看到服常居合，知道服常居合要吃他，于是转身要走，却被服常居合一口咬断了他的尾巴，烛阴痛的晕死了过去，服常居合就高兴的抓起烛阴尾部受伤的那一端往怀里拖拽，哪知烛阴的身子长达千里，又不止千里，服常居合过了十年还是没有找到烛阴的头首，便就饿死在了钟山下。\n后来，无启国中有个名叫卫起的神人从服常居合的身旁经过，服常居合竟又站了起来，只对卫起说腹中饥饿。卫起便把身上的食物喂给服常居合吃了，服常居合吃完之后却又哭泣起来，卫起于是对他说：你若仍饿，便把我吃了罢。服常居合听后竟真将卫起放入了口中，吞下肚去，这才倒下再又死去了。\n自此过去七十年后，闪电劈开了服常居合的肚子，卫起竟然未死，还在服常居合的腹中寻到了烛阴的断尾，不想那断尾已化为铁石，聚百龙之神，凝做不世之兵。
+Animator of Jade
+“建木”生长在神洲之内东南以西的弱水河畔，其状似牛，又大上不止千百倍，其叶如同罗网一般，而其果实与乐木的果实极是相像。\n建木乃是天帝以神土“息壤”所种植，是为通天之梯，无论凡人神鬼若要入到天界，唯有自此树而上。\n有个神人，名叫以向，无甚法力，却善养玉。有一日，以向东去玩乐，有个少年看到天上现出青碧之色，知道以向要从其家门之前经过，便放了一块巨大的白色玉石于路上，愿以此稀罕珍贵之物将以向拦下，求养玉之法。\n果然，以向至此便不再前行，他见那少年便说：此玉虽好，可惜是死玉，你可拿血养它，再行一万里去到那建木之下深埋十年，亦要以血浇种，恐尚有一线生机。以向说完便就走了，少年听入心中，当真照着去做。便经八年难苦，终于将那巨大的白色玉石带到了建木之下，又依那以向之说，在那建木之下每日滴血入土待了十年。\n十年之后，少年再将那块白玉挖出，不曾想，那玉之中竟然生了血脉，称是活玉，形状亦变，如是一把宝剑，隐现不定，更生智慧，神力不凡。\n这时，以向忽然从天外而来，欢声唱道：玉活，玉活，溶去息壤凝作魂，玉活，玉活，如是孩童初见人，玉活，玉活，羞与人望常常隐。
+Octobrachial Octopod
+蚩尤勇猛异常，他有八十一个兄弟，个个都是铜头铁额，头上生有坚利的角，耳边长有剑一般的毛发，以沙石、金铁为食，善于制造各种锋利的兵器，具有无比巨大的神力。\n黄帝和蚩尤之间爆发了一场大战。蚩尤发动自己的弟兄和南方部族以及山林水泽间的怪神，杀向黄帝所在之地涿鹿，黄帝则调协四方鬼神各种野兽及中原一些部族迎战。战斗异常激烈，蚩尤变幻多端，征风召雨，喷烟吐雾，把黄帝军队团团围在大雾之中。直到黄帝的臣子风后制作了指南车，黄帝军队才冲出大雾的包围。黄帝请来应龙，企图以大雨淹死敌人。蚩尤也请来风伯、雨师，刮起一起更猛烈的大风雨，使得黄帝军队四散溃逃。黄帝又叫他的女儿魃上阵参战，暴雨刹那间消失，应龙等伺机杀去，使蚩尤受挫。黄帝又用神兽夔的皮制成一面大鼓，用雷神的骨头作鼓槌。鼓声惊天动地，五百里外也能听到，蚩尤军队丧魂落魄。黄帝又布列了变化莫测的阵图，把蚩尤军队重重包围起来，蚩尤终于兵败被俘。\n蚩尤被杀于涿鹿，他手脚上的枷铐抛掷后化为一片颜色鲜红的枫林，那是蚩尤斑斑的血迹。
+Celestial Edict
+皇顾伯是应龙之后。\n早古三皇时期，应龙为黄帝之臣。蚩尤与黄帝战时，黄帝便命应龙于冀州之野蓄水攻打蚩尤。蚩尤便就请来风伯雨师兴风纵雨而使应龙不能再蓄水。于是黄帝又派遣名叫魃的天女下界相助，天女魃一到，她的旱气就把雨水冲散了，应龙便杀掉了蚩尤。\n相传应龙杀了蚩尤后又杀死了夸父，故而不得复上天宫，从此去往南方居住，因此南方便多雨水，所以皇顾伯也一样不可以再回到天上。\n这个皇顾伯生来喜爱雨水，尤其喜好布虹。当时南方有个道士，名叫术方，也善采霞布虹之法，术法无比神通。皇顾伯便就化做一个美貌的女子前去窃探术方的法术，不料被术方一眼就识破了。术方见他心地诚挚，便也就不责怪于他，反以真言相授，只说：虹者，光雾之霞。霞为日月所引，日虹霞炫，为耀金之霞；月虹霞盈，是满玉之霞，此二都不过凡虹，而日月同引之霞方乃天上之虹，是鬼神之霞。\n皇顾伯听着，心动不可以止，但是日升月没之律由天已定，日月如何可以同隐同现，又当如何同引霞光以化为虹呢？皇顾伯心中想到一法，辞去术方之后，竟偷上了天宫，便是身犯大险，先与日母羲和借日，又向月母常羲借月，可惜皆未如愿，反被天帝发觉，施以重惩斩去了龙首。\n谁知那皇顾伯虽没了头颅，但心却不死，回到了下界之后，便躺在东海岸边，心中悲怨不已。\n术方见皇顾伯如此执着，于心不忍，也因自知泄露了天机，害他非轻，于是就取来一柄剑形的青铜古牌令，施起无上神通，竟引日月同现，东海也随之潮升万丈，化出雾幕，雾幕之中，更刹时生出九种色彩的长虹，虹光之美妙，令人心痴神醉。\n此霞九色不定，变幻无方，通鬼魅之力，染日月之神，挠天动地，无可比拟。皇顾伯以心为目，惊喜观望，虹光灭息之时，终于心死而眠，化成了一滩礁石。后人都称它为望霞。据说海上霞光一起，这石上便会生出眼目往霞中顾盼。\n而那术方也因施了逆天之法，遭天罚处，被化入了那柄青铜古牌令之内。
+Presence of XiangShu
+All beings and all faces, cores and connections……
+乌碑化生
+东海之外，柴山之上，曾有乌碑，乃是用于记述上古神话之物。\n乌碑不知以何物凿磨而成，坚顽无已，水火不侵，万物不能生其上，岁月不能留片痕，便连灰尘也不会沾染，乃是世上最为呆拙出世之物。
+天枢玄身
+以“天枢玄机”之法为根基，辅以众多法门，往梧桐木内灌注大量真气而成木头躯体。
+语茯化生
+帝昭语茯花，乃花中之神，曾被天帝养于玄圃之内，后为朱鸟啄食，遗落东海……
+紫竹化生
+紫竹乃世间最为有情、有灵之物，只待机缘巧至，便就化而为人……
+Elixir of the heaven
+Taking the elixir left behind by the immortals....
+Poison of the Spider Queen
+Bitten by the poisonous spider queen of the Five Immortals Sect……
+Septenary Recuperation of the Big Dipper
+Has gained a glimpse into the mysteries of the Big Dipper....
+Praise of Lion Face
+Your names has been spread by Lion Face……
+Eyes and Ears in pain
+眼耳遭到重创，受创者每第2次进行兵器攻击时的命中及受到兵器攻击时的化解大幅降低，且受创者头颈的内伤达到4层即视为头颈残毁，直到受创者治愈了所有头部的内伤，此重创才会消失。
+Eyes, Ears Injured
+眼耳遭到重创，受创者每第2次进行兵器攻击时的命中及受到兵器攻击时的化解大幅降低，且受创者头颈的外伤达到4层即视为头颈残毁，直到受创者治愈了所有头部的外伤，此重创才会消失。
+Chest pain
+胸背遭到重创，受创者的提气无法超过60%，且受创者胸背的内伤达到4层即视为胸背残毁，直到受创者治愈了所有胸背的内伤，此重创才会消失。
+Chest injured
+胸背遭到重创，受创者的提气无法超过60%，且受创者胸背的外伤达到4层即视为胸背残毁，直到受创者治愈了所有胸背的外伤，此重创才会消失。
+Waist pain
+腰腹遭到重创，受创者的架势无法超过60%，且受创者腰腹的内伤达到4层即视为腰腹残毁，直到受创者治愈了所有腰腹的内伤，此重创才会消失。
+Waist injured
+腰腹遭到重创，受创者的架势无法超过60%，且受创者腰腹的外伤达到4层即视为腰腹残毁，直到受创者治愈了所有腰腹的外伤，此重创才会消失。
+Shoulder pain
+肩臂遭到重创，受创者的蓄式无法超过6个，且受创者手臂的内伤达到4层即视为手臂残毁，直到受创者治愈了所有手臂的内伤，此重创才会消失。
+Shoulder injured
+肩臂遭到重创，受创者的蓄式无法超过6个，且受创者手臂的外伤达到4层即视为手臂残毁，直到受创者治愈了所有手臂的外伤，此重创才会消失。
+Heel pain
+膝踵遭到重创，受创者的最大身法值减半，且受创者腿足的内伤达到4层即视为腿足残毁，直到受创者治愈了所有腿足的内伤，此重创才会消失。
+Heel injured
+膝踵遭到重创，受创者的最大身法值减半，且受创者腿足的外伤达到4层即视为腿足残毁，直到受创者治愈了所有腿足的外伤，此重创才会消失。
+White Forehead Snake
+White forehead snake - You played with a White Forehead snake every day, and are now immune to poison
+天助善缘
+九世轮回，而成大果，易结善缘，子孙满堂。
+福深贵重
+九世轮回，而成大果，福根深重，富贵不凡。
+途坦无束
+九世轮回，而成大果，修养不凡，善始善终。
+心慈无病
+九世轮回，而成大果，心慈无忧，体健无恙。
+好生寿长
+九世轮回，而成大果，厚德护生，寿比南山。
+芦花赐啼
+受芦花鸡啼鸣赐福。\n芦花鸡因羽毛黑白相间、好似芦花而得名，它喜欢在河边行走，藏身于芦苇之间，啄食草籽树果、蝇蚁小虫等。
+麻鸡赐啼
+受麻鸡啼鸣赐福。\n麻鸡起源自唐末，相传乃家鸡与野鸡相配而育，因其背上有细小黑斑而得名。它常常于野外或田地中觅食，体型虽小，却健壮灵活。
+雉鸡赐啼
+受雉鸡啼鸣赐福。\n雉鸡头小尾长，善于藏匿，若见生人，常疾奔入灌丛之中。因“其不可诱之以食，慑之以威”，士人以为其有节义，相互拜访时常以雉鸡作为礼物。
+竹鸡赐啼
+受竹鸡啼鸣赐福。\n竹鸡又称“泥滑滑”，其呼声也恰似“泥滑滑”，常连鸣数十声，力尽方止。它羽毛颜色艳丽，却爱行走于草木竹林之中，易被发现，常常互相嬉闹打斗，并不畏人。
+黑羽赐啼
+受黑羽鸡啼鸣赐福。\n黑羽鸡冠鲜红，毛羽青黑发亮，身姿挺拔美观，只能于野外放养，以虫豸草药为食，其所生鸡蛋皆呈青绿色，奇香味美，旧时常常贡至皇宫之中。
+鹑尾赐啼
+受鹑尾啼鸣赐福。\n天星四象之南方朱雀，其中七宿之尾称为鹑尾，相传鹑尾鸡便是应于此宿而生。因此其头昂似鸡，尾短似鹑，奇异可爱，汉时有人以其形绘于铜镜之上以象朱雀。
+马鸡赐啼
+受马鸡啼鸣赐福。\n马鸡相貌奇特，头红体蓝，尾羽上翘，姿态健美，善奔走。只生长于高山之上，叫声洪亮，并不畏人，能自行掘土觅食，营巢于枯草之中。
+赤足赐啼
+受赤足鸡啼鸣赐福。\n此鸡状如山鸡，黑身赤足，能治肿病或皮肤干皱之症，《山海经》中名之曰“䳋渠”，可食草木鱼虫，可疾行于林野或湖泊之上。因其稀有，寻常人不可见。
+窗禽赐啼
+受窗禽啼鸣赐福。\n相传晋时，沛国宋处宗曾买得一只鸡，用笼子养在窗间，鸡能作人语，与处宗谈论，极有智慧，终日不停。后来世间偶有能言有智之鸡，人便名之为“窗禽”。
+元宝赐啼
+受元宝鸡啼鸣赐福。\n民间有谚云“元宝鸡，两头翘，耳边鸣，不觉闹”，元宝鸡体型娇小，腿短身肥，形似元宝，十分可爱，所以纵是在人耳边打鸣，也不会惹人厌烦。
+丹鸡赐啼
+受丹鸡啼鸣赐福。\n“丹鸡不须盟，我非儿女肠”，丹鸡声朗如潮，羽赤如火，古时人常以其盟誓或祭祀。其毛色鲜亮如身披华彩，双距坚硬锋芒毕露，神态威风凛凛，象征永不生变。
+虢国赐啼
+受虢国鸡啼鸣赐福。\n周朝时，祭祀礼专门设有鸡官，相传曾有鸡官言祭祀只应用虢国之鸡。虢国鸡身有红黑二色，身姿修长俊美，虢国地区世代饲养此鸡，从未断绝。
+祝祝赐啼
+受祝祝啼鸣赐福。\n《列仙传》记有祝鸡翁，此人养鸡百余年，鸡有千余头，欲引鸡则呼名，鸡皆依呼而至，后其所养之鸡卖至民间，流传开来。此鸡身羽黄白，昂首而立，且具灵性，常栖于树上，若主人唤“祝祝”，则随呼声而来。
+长尾赐啼
+受长尾鸡啼鸣赐福。\n《后汉书》：“有长尾鸡，尾长五尺”，长尾鸡旧时为珍贵贡物，贵人置高台以立之，其尾羽垂至地面，飘然贵美。因其珍贵，有人于墓室之中雕刻其形，作为陪葬。
+银锦赐啼
+受银锦鸡啼鸣赐福。\n“秋劲拒霜盛,峨冠锦羽鸡”，宋徽宗《芙蓉锦鸡图》所绘便是银锦鸡，此鸡枕冠狭长，颈、尾、腹有白羽，身有异彩，因此得名。文人常因其美貌而为其题画吟咏。
+金锦赐啼
+受金锦鸡啼鸣赐福。\n金锦鸡头顶呈纯金黄色，浑身五色俱全，光彩夺目，而得名“金锦”。相传其貌似凤凰，祥瑞不凡，因此其形象也常常作为帝王装饰之图样。
+琅琊赐啼
+受琅琊鸡啼鸣赐福。\n秦时，始皇为寻不老药，三巡琅琊台，徐福献海上仙物，与当地鸡一同炖煮。始皇发现此鸡鲜美竟不输仙物，以为其必有延寿之用，于是赐名“琅琊鸡”。
+碧鸡赐啼
+受碧鸡啼鸣赐福。\n“金马骋光而绝景，碧鸡倏忽而曜仪”，相传碧鸡乃神物，其所在处，有灵光奇景时时出现，见则得详。人常四处寻碧鸡之神，对其设坛祭祀，以求庇佑。
+梅林赐啼
+受梅林鸡啼鸣赐福。\n当青梅落地、虫食青梅之时，人们常见有鸡于梅林中啄食青梅与虫，便命名此鸡为梅林鸡。此鸡虽样貌寻常，身呈土黄色，然而或许因梅林之故，其肉质细嫩，带有甜味，颇显独特。
+孙枝赐啼
+受孙枝鸡啼鸣赐福。\n“饱饮菊花潭上水，鸡窠犹自拜孙枝”，孙枝鸡生于江南，颜色洁白，体小脚短，十分可爱。它喜爱筑巢于孙枝竹林之下，饮花树间潭水，身有花叶之清气。
+会稽赐啼
+受会稽公啼鸣赐福。\n世有鸡名曰会稽公，虽体大而壮，但无论雄雌皆不善啼鸣，因此旧时有人以此鸡嘲讽他人，道“会稽鸡，不能啼”；而那人以会稽公之勇猛，回道“不可啼，杀吴儿”。
+五黑赐啼
+受五黑鸡啼鸣赐福。\n此鸡因毛、皮、肉、骨、脏腑均为墨色，故得名五黑。五黑鸡多散养于山林之间，以野草、山虫为食。
+桃源赐啼
+受桃源鸡啼鸣赐福。\n晋太元中，武陵人捕鱼为业，缘溪行，误入桃花源。此人偶见其中鸡禽，形大而毛羽悦泽,与寻常家鸡多有不同，以为奇异，于是向当地百姓讨得鸡种归家。
+胡须赐啼
+受胡须鸡啼鸣赐福。\n胡须鸡头大颈粗，后躯丰满，而尾羽短小，其颔下羽毛张开，状似胡须，于是得名。
+鹿苑赐啼
+受鹿苑鸡啼鸣赐福。\n鹿苑鸡生长在吴王旧时养鹿之处，其身姿高大挺拔，浑身金羽，观之威风凛凛，好似“鸡将军”。
+峨眉赐啼
+受峨眉黑鸡啼鸣赐福。\n峨眉黑鸡体态浑圆，浑身黑羽着生紧密，又因生长于峨眉，故此得名。其梳羽丰厚，能御严寒；其羽翼强健，可以腾跃；其姿态矫捷，惯于避敌。
+烛夜赐啼
+受烛夜啼鸣赐福。\n“烛夜啼鸣，太白晖芒，火精光盛。”相传烛夜取食于地，行而在天，夜栖于树，乃古之神物。其啼鸣之声，可使天下长明，阳日不落。
+怀乡赐啼
+受怀乡鸡啼鸣赐福。\n怀乡鸡便于饲养，不论是拘于鸡圈栏舍之间，以谷米、番薯为食，还是放于崇山峻岭，河溪蜿蜒之处，以小虫、落叶为食，皆能生长。
+五灰赐啼
+受五灰鸡啼鸣赐福。\n五灰鸡因“皮灰、毛灰、脚灰、喙灰、冠灰”五灰而得名。此鸡多为农户放养于房前屋后、果园树林之中，以青草、蚂蚁、砂砾、落果为食。
+茶花赐啼
+受茶花鸡啼鸣赐福。\n茶花鸡体躯匀称，能飞善跑，它们常低飞于林间，以花叶、浆果为食。因其鸣叫时会发出“茶花朵朵”的声音，故称其为“茶花鸡”。
+固始赐啼
+受固始鸡啼鸣赐福。\n固始鸡体型细致，羽毛丰满，其尾羽多为黑色，形态卷曲，好似佛手，凡其奔跑，则尾羽迎风招摇，观之十分秀美。
+乌骨赐啼
+受乌骨鸡啼鸣赐福。\n乌骨鸡体态小巧，皮肉俱黑而身披银羽，鸡头有细毛高突蓬起，乃是所谓的十全禽：桑冠、缨头、绿耳、胡须、五爪、毛腿、丝毛、乌皮、乌骨、乌肉。
+约瓦赐啼
+受约瓦鸡啼鸣赐福。\n约瓦鸡产于云南，因其浑身白羽呈丝状，好似松针羊毛，于是当地夷族便以“约瓦”为其命名，意为“羊毛”。其喜食牧草，不善飞跃，于是常于草地、灌木之间筑巢。
+静宁赐啼
+受静宁鸡啼鸣赐福。\n西汉时，静宁作为军事要塞，始置兵马。鸡种随之传入静宁，其被放养于贫瘠的山川之中，与军马一同觅食奔走，常年如此，静宁鸡体态渐大，体质愈坚实。
+黑凤赐啼
+受黑凤鸡啼鸣赐福。\n黑凤周身黑羽，鸡首绒毛蓬起，如顶凤冠，故而得名“黑凤鸡”。相传黑凤鸡不是人间鸡禽，其鸡目、鸡血、以及脏腑，具为黑色，十分奇异。
+长鸣赐啼
+受长鸣都尉啼鸣赐福。\n“成帝时,交趾越嶲献长鸣鸡,伺鸡晨,即下漏验之,晷刻无差,鸡长鸣则一食顷不绝,长距善斗。”长鸣鸡高如幼子，啼鸣清朗而长，可终年不绝，为汉成帝所喜，封为都尉。
+略阳赐啼
+受略阳鸡啼鸣赐福。\n略阳鸡高大雄壮，胸宽而深，腿粗而长，十分善于在野外觅食，当地农户白日将其放养于山林之中，至夜晚，方呼其回笼。
+安南赐啼
+受安南鸡啼鸣赐福。\n安南鸡形态娇小，花色繁杂，因初为安南百姓所豢养，故以安南称之。其性格胆小，且不喜动，若有人从其身侧走过，它便缩头束身，仿佛静物。
+花尾赐啼
+受花尾啼鸣赐福。\n花尾翼短圆，不善飞，若遇惊吓，则隐蔽于松枝之间，人至亦不动，至人远走，方振翅而飞，飞时两翅鼓动作响，长久不绝。
+文昌赐啼
+受文昌鸡啼鸣赐福。\n相传文昌鸡以榕树上掉下的树果为食，久而久之，它们的体型竟愈发娇小，羽毛也更加光亮，只是自此便喜欢居于安静避光之处。
+雪鸡赐啼
+受雪鸡啼鸣赐福。\n雪鸡形如鹌鹑，体色浅灰，腹羽雪白，十分罕见，可生活于冰山之上，以雪水为食。
+白头赐啼
+受白头黑鸡啼鸣赐福。\n“黑鸡白头，食之病人”。相传白头黑鸡始生于南方瘴热之地，因常食沼泥、害虫而生有毒性，此鸡若为人食用，便会生疾，且难以治愈。
+六指赐啼
+受六指鸡啼鸣赐福。\n六指鸡形貌特异，其首雪白，其爪四距而六指，身有奇毒，性喜独居，食之可以害人。
+五色赐啼
+受五色鸡啼鸣赐福。\n五色鸡身具青、黄、赤、白、黑五色光华，唯有死前方才鸣叫，食之令人多生忧思。
+七彩赐啼
+受七彩雉啼鸣赐福。\n七彩雉身披七色，凡有光芒照耀，它常浴光而振翅，如凤凰朝阳，故人言其：见之如见祥瑞。然凡人难达其所居之地，故少有得见其真容之人。
+封川赐啼
+受封川鸡啼鸣赐福。\n封川鸡常放养于溪边竹林、山间松树之下，以野草虫蚁为食，其体短而骨细，乖巧可人。
+海陵赐啼
+受海陵鸡啼鸣赐福。\n海陵鸡喜欢生活在沿海滩涂之中，体态优美，惹人喜爱，有黑、白、黄三种，以白者最为稀少。
+上谷赐啼
+受上谷鸡啼鸣赐福。\n上谷鸡原产于塞北草原之中，尾羽较长，活泼好动，易于饲养，喜欢终日在草丛、田间行走。
+宁都赐啼
+受宁都鸡啼鸣赐福。\n宁都鸡黄羽、黄喙、黄脚，喜爱群居，不易染病，形如元宝，温驯亲人。
+青州赐啼
+受青州鸡啼鸣赐福。\n青州鸡黑羽白皮，身披金铁之光，眼大而灵动，相传齐地之人自周朝之时便已开始饲养。
+黔香赐啼
+受黔香鸡啼鸣赐福。\n黔香鸡羽带金彩，身怀奇香，多生长于高山林木之间，体格细小，行动灵活，故而常人难以发现。
+招财赐啼
+受招财鸡啼鸣赐福。\n招财鸡胫足短小，尾羽翘起，毛色亮丽，性情温顺，百姓爱之；若见贵重之物，则高鸣起舞，相传有招财之效，故而得名。
+越王赐啼
+受越王鸡啼鸣赐福。\n相传春秋之时，越王曾搜集国中良鸡，以供赏玩，久之，乃得越王鸡。此鸡羽色远望如玉，又好与人玩耍，饲主死时，往往泣下。
+金羽赐啼
+受金羽银耳啼鸣赐福。\n金羽银耳鸡体色如金，耳旁银叶宛若白桃花瓣，艳丽异常；其声抑扬顿挫，如通音律，如晓七情；其性似人，不分贵贱，皆可为友。
+建宁赐啼
+受建宁鸡啼鸣赐福。\n建宁鸡羽毛亮丽，体格健壮，行动敏捷，喜欢奔跑，无论是在山间还是平原都可以生活自如。
+云松赐啼
+受云松鸡啼鸣赐福。\n云松鸡喜食松针、嫩果、虫蚁，虽不善飞而有锐爪，腿力强健，长于掘地，其翼如刀，其声宏亮。
+突厥赐啼
+受突厥雀啼鸣赐福。\n突厥雀小如鸽鸠，飞行极快，常在沙漠之中随胡人逐水而居，新唐书云：“突厥雀者，南飞胡必至”。
+九真赐啼
+受九真鸡啼鸣赐福。\n九真鸡相传乃由九真郡传入，食量较大，每逢涨潮则鸣，其声清越，有如吹角，其距犹长，勇猛善斗。
+长安赐啼
+受长安鸡啼鸣赐福。\n长安鸡“金毫铁距，高冠昂尾”，体型魁梧，强悍善斗，相传唐玄宗曾命六军兵士蓄养此鸡，以效其勇武。
+昆仑赐啼
+受昆仑鸡啼鸣赐福。\n昆仑鸡原本生长于雪域冰原之上，唐以后乃由吐蕃传入，此鸡黑羽青足，不畏严寒，长翼好斗，可以奋飞。
+金足赐啼
+受金足鸡啼鸣赐福。\n金足鸡通体皆白，唯足赤金，趾爪锐利，宛如坚铁，其翼有力，可飞数十里而不坠，相传乃金乌后裔，是以不与常鸟为群。
+鹖鸡赐啼
+受鹖鸡啼鸣赐福。\n鹖鸡形如野雉，体色黄黑，鸡首褐色，上有毛角，形似冠冕；其性刚猛好斗，若遇同类被犯，则不死不休，古人感之，故常有歌咏传世。
+鶤鸡赐啼
+受鶤鸡啼鸣赐福。\n鶤鸡体高三尺，世间绝伦；长颔赤喙，猛力无匹；其色黄白，每斗必胜，朝饮醴泉，夜栖良木，相传乃凤凰之属，无鸟敢撄其锋。
+Corrupted
+闻恶而来，有恶即生……
+Demoniac
+憎良忌善，倒行逆施……
+FoulVisage
+罪孽引路，得窥恶神……
+EvilUprise
+乱念搜魂，妖心难掩……
+A·Sinster
+邪诡无忌，恶贯满盈……
+The·FN
+心堕九渊，天道难饶……
+The·C
+众生怪相，鬼魔踏歌……
+God·S
+阎王烧骨，煞神断命……
+The·NL
+玄尸夺魄，地狱收魂……
+大王赐啼
+受大王啼鸣赐福。\n大王身宽体阔，雄健异常，喜食香米，姿态高昂，也不知已活了多少岁月，乃是极受人敬爱之“大王”。
+Eaten Ganoderma and Jade
+服芝食玉，超凡入圣，你曾服食了许多仙芝灵玉，不仅天赋异禀，且寿命远高于常人。
+Zizhu avatar
+紫竹化身，乃是紫竹灵气凝聚神剑碎片中的记忆幻化而成之物……
+Living Dead
+因曾经服食过活死药，而被灭除了精神，变为行尸走肉……
