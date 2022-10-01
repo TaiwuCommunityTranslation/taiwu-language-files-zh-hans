@@ -13,8 +13,8 @@ The `Translation` folder contains the translated files for the Scroll Of Taiwu.
 
 Translated portion in this repository is distributed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-
-# Usage
-1. Run NuGet to get missing packages
-2. Build the file
-3. Run the build and pass your TaiWu Directory as the first param
+# Dump Generation Tool Usage
+0. VALIDATE YOUR GAME FILES. Otherwise the events.json will have English translations and won't work properly.
+1. Open up command prompt, shell, or other interface. 
+2. Run `.\taiwu-language-files-zh-hans.exe '<PATH_TO_YOUR_SCROLL_OF_TAIWU_INSTALL>'`
+3. (Optional) Push the changed files back to the repo to trigger Transifex auto-sync.
