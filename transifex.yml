@@ -1,8 +1,15 @@
 git:
   filters:
   - filter_type: dir
+    file_format: STRINGS
+    source_file_extension: strings
+    source_language: en
+    source_file_dir: locale/DirTest
+    translation_files_expression: 'Translations/<lang>'
+
+  - filter_type: dir
     file_format: KEYVALUEJSON
     source_file_extension: json
-    source_language: zh-hans
-    source_file_dir: zh-hans
-    translation_files_expression: 'translations/<lang>'```
+    source_language: en
+    source_file_dir: locale/DirTest
+    translation_files_expression: 'Translations/<lang>'
