@@ -115,7 +115,7 @@ uab.BlockInfoAndDirectory.Data.DirectoryInfo.ForEach(directoryInfo =>
       return;
     }
 
-    File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.txt"), text);
+     File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.txt"), text);
   });
 });
 

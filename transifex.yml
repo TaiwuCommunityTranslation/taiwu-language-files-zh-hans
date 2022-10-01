@@ -6,3 +6,10 @@ git:
     source_language: zh-hans
     source_file_dir: zh-hans
     translation_files_expression: 'Translations/<lang>'
+
+  - filter_type: dir
+    file_format: TXT
+    source_file_extension: txt
+    source_language: zh-hans
+    source_file_dir: zh-hans
+    translation_files_expression: 'Translations/<lang>'
