@@ -1,0 +1,44 @@
+Qi
+Start of this Breakthrough.
+End
+End of this Breakthrough. \nAll progress will be lost if you cannot reach this cell.
+Summary
+No Description
+Normal
+No special effect.
+Succession
+Success chance of connecting all the cells around this cell is increased by 30%.
+Flexibility
+Success chance of this cell is increased by 30% for each successfully connected cell around this cell.
+Perseverence
+For each failed connection around this cell, the success chance of this cell is increased by 60%.
+Foundation
+The connection success chance of this cell is reduced by 100%. \n The connection success rate of all cells around this cell is increased by 60%.
+Transition
+The next 1 attempt to connect cell to this one is guaranteed to be succesful.
+Inspiration
+Connecting to this cell does not cost an attempt.
+Refreshment
+The connection success chance of this cell is reduced by 30%. \n Connecting this frame increases your attempts by 1.
+Reversal
+The connection success chance of this cell is reduced by 60%. \n Connecting this cell increases your attempts by 2.
+Steady
+The connection success chance of this cell is increased by 60%. \n Connecting this cell increases cost 1 addition attempt.
+Hard Work
+The connection success chance of this cell is increased by 100%. \n Connecting this cell increases cost 2 addition attempts.
+Clairty
+Reveals some hidden cells.
+Challenge
+The success chance of this cell is reduced by 60%. \n If you succeed, can restore adjacent cells from failed to connected.
+Simplify
+The success chance of this cell is reduced by 30%. When you successfully connect to this cell, all "special" cells adjacent to this cell are converted to "basic" cells.
+Support
+When you connect to this cell, 1 unconnected adjected "special" cell will transfer its bonus to the "basic" cells around it.
+Culmination
+Connecting to this cell gives you 3 additional attempts. \n Randomly change 1 unconnected "special" cell to "basic". 
+Humility
+Increase the connection success chance for this cell and all adjacent cell, the less tries you have remaining.
+Ambition
+Increase the connection success chance for this cell and all adjacent cell, the more tries you have remaining.
+Advice
+Connecting to this cell costs one additional attempt. \n When connecting to this cell, automatically connect 1 "basic" cell.
