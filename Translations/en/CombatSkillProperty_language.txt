@@ -1,0 +1,48 @@
+Current Power
+Power Cap
+Cast Speed
+Stance/Inhale Cost
+Ext/Int Ratio
+Inner Conversation Rate
+内力总量
+获取内力
+Elemental Convertion
+Universal Slots
+Mobility Cost
+MOV·Spd
+Increase Might
+Increase Finesse
+Increase Swiftness
+增加动心
+Footwork Duration
+Footwork Cost
+Increase PhD
+Increase QiD
+Increase Diversion
+Increase Parry
+Increase Evasion
+Increase Focus
+Counterattack Power
+Ph Reflect
+Qi Reflect
+Reflection Range
+Duration
+Increase Attack
+Increase Hit Chance
+Might Ratio
+Fineness Ratio
+Swiftness Ratio
+Attack Range
+Attack Chest/Back
+Attack Waist/Stomach
+Attack Head
+Attack Hands
+Attack Foots
+封穴程度
+破绽程度
+Apply Acritoxin
+Apply Umbritoxin
+Apply Cryotoxin
+Apply Pyrotoxin
+Apply Necrotoxin
+Apply Oneirotoxin
