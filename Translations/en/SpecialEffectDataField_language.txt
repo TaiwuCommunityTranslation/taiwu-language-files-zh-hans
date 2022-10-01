@@ -1,0 +1,33 @@
+MIG
+FIN
+SWI
+HEA
+Phy.P
+Qi.P
+DIV
+PAR
+EVA
+FOC
+PhD
+QiD
+Stance Recovery
+Inhale Recovery
+MOV·Spd
+Ext. Recovery
+Cast Speed
+Int. Recovery
+Wp·Switch CD
+Attack Speed
+Int Ratio Bonus
+Internal Breath
+Acritoxin Res
+Umbritoxin Res
+Cryotoxin Res
+Pyrotoxin Res
+Necrotoxin Res
+Oneirotoxin Res
+External Injury
+Internal Injury
+Mood
+Amount of True Qi Obtained
+Movement Recovery Rate
