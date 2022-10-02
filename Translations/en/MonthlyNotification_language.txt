@@ -195,14 +195,14 @@ Resource Expansion
 Construction Damage
 {0}的{1}正在受损，规模等级正在下降。
 Construction Collapse
-{0}的{1}倾塌毁坏成一片废墟了。
+{1}’s {0} crumbled into debris.
 Construction Complete
-{0}的{1}建造完毕了。
+{1} has been constructed in {0}
 Expansion Complete
-{0}的{1}扩建完毕了。
+{1} has been upgraded in {0}
 Removal Complete
-{0}的{1}拆除完毕了。
-建筑收入
+{1} have been removed from {0}
+Building Revenue
 {0}的{1}有了新的收成。
 派遣就位
 被派遣前往{0}的{1}已在{0}就位。
