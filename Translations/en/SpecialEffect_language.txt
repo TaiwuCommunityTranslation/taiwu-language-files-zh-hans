@@ -484,7 +484,7 @@ For each type of compulsion applied to the enemy, the enemy's True Qi of a rando
 Ghost Included
 When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 "None" to the enemy for every 2 wound marks the enemy has.
 Sky Snake Bone Exchange
-The trauma markers of the user will be removed by themselves over time; when the total number of defeat markers of the user exceeds half of the defeat condition, the existing trauma of the user will only be aggravated by a more serious trauma to the same part of the body.
+The external injury of the user will be removed by themselves over time; when the total number of defeat markers of the user exceeds half of the defeat condition, the existing trauma of the user will only be aggravated by a more serious trauma to the same part of the body.
 Sky Bridge
 Remove all sealed points
 Whenever the total number of sealed points on the user's body is not less than 7, all the sealed points on the user's body will be released and no effect from the release of the sealed points will be triggered.
@@ -1031,7 +1031,7 @@ PhP Up
 Lowering the enemy's royal body
 This technique cannot be counter-shocked; when attacking an enemy with this technique, if the enemy's body is higher than the user's broken body, after this technique is performed, a gain status that increases the broken body is applied to the user and a reduced benefit status that decreases the body is applied to the enemy.
 Flood Dragon's\nWagging Tail
-At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress, and the number of trauma markers of the user increases the degree of external injury to the enemy, but the user also suffers a certain amount of trauma at the end of the performance of this technique. trauma
+At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress, and the number of external injury of the user increases the degree of external injury to the enemy, but the user also suffers a certain amount of trauma at the end of the performance of this technique. trauma
 Flood Dragon's\nRolling Kick
 Remove Debuff
 In the process of performing this technique, the user can advance up to 6 distances, and for every 1 distance the user advances, 1 injury mark and 1 impairment status will be removed from the user in the process of performing this technique
@@ -2729,7 +2729,7 @@ After this technique has exerted at least 10% of its power, the user gains 4 lev
 HU·9 Idiotic\nFragrant
 After this technique has reached 10% of its power, the user gains 9 levels of this effect: the damage dealt by the user's "Destruction" technique is greatly increased, but there is a high chance that the technique will be "interrupted" when it reaches 90% of its progress.
 HU·Black Water\nPoison
-When this technique is 10% powerful, the more poisonous markers the user has, the more random trauma markers will be added to the enemy.
+When this technique is 10% powerful, the more poisonous markers the user has, the more random external injury will be added to the enemy.
 HU·Nippy Fragrant\nof Hundreds Evil
 This technique increases the amount of poison applied to the enemy significantly, but there is a low chance that the user will be partially poisoned at the same time.
 HU·Flood Dragon's\nBlood
@@ -2813,7 +2813,7 @@ When you start to perform this technique, the toxin applied by the user to the e
 HU·Azure Spider\nHand
 After this technique has been used for 10% of its power: 1 enemy technique with the most power reduction is randomly selected; when the user starts to perform this technique, the power of this technique increases as much as the power reduction of the selected technique; whenever the enemy performs the selected technique, the user can also perform this technique without consumption from 50% of the performance progress.
 HU·Poison Palm\nof Red Toad
-When this technique is at ten percent power, the more red poison markers the user has, the more trauma markers will be added to the enemy in random areas.
+When this technique is at ten percent power, the more red poison markers the user has, the more external injury will be added to the enemy in random areas.
 HU·4 Colors Palm
 This technique increases the amount of poison applied to the enemy, but has a low chance of causing the user to be partially poisoned at the same time.
 HU·Soul Peeling\nHands
