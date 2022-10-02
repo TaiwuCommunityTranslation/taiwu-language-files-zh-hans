@@ -146,7 +146,7 @@ Storage
 Built in a cool, ventilated place, its design allows it to stay warm in winter, and cool in summer, which is convenient for storing many kinds of resources.
 Increases the maximum limit of resources that a location can store. The larger the Storage, the higher the limit.
 Prized Chicken Coop
-Yuan chicken house is built for raising precious kinds of Yuan chickens. This house is built with grass and wood ash as the base, covered with soft grass, which is warm in winter and cool in summer, free from moisture and insect pests.
+Built for raising precious all kinds of prized chickens. The coop is made using grass and wood ash as the base, then covered with soft grass, making it warm in winter and cool in summer, free from moisture and insect pests.
 It can increase the number of metaphorical chickens to be raised. The larger the \n scale of the metaphorical chicken house the more valuable metaphorical chickens can be adopted.
 Soul Bridges
 Six small bridges of different materials,  connecting five stone platforms. These bridges are believed the passage for metempsychosis.
