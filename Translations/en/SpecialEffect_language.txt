@@ -59,7 +59,7 @@ Convert the user's "Purple Haze" internal energy into "Pure Yang" internal energ
 Golden Scripture\nof Marrow-Regen
 The higher the ratio of "pure yang" internal energy of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 Wudang\nMixed Element
-Reduce direct trauma
+Reduce external injury
 If the enemy inflicts both direct external and direct internal wounds on the user, any direct external wounds inflicted by the enemy that exceed 3 direct internal wounds will be reduced.
 Divine One
 The higher the user's "Daoist" skill, the more wounds the user can heal in battle.
@@ -235,7 +235,7 @@ Heavy Stance
 Prevents repulsion
 When defending with this technique, the user will not move backward passively for any reason
 Iron Skin
-When an uninjured body part of the user receives direct trauma from the enemy, the degree of injury is reduced to 1
+When an uninjured body part of the user receives external injury from the enemy, the degree of injury is reduced to 1
 Golden Bell Sheild
 Reduce the extent of injury
 Remove WeakSpot
@@ -251,8 +251,8 @@ Avoid direct internal injuries
 When this technique is used for defense, all of the user's imperial qi is temporarily changed into imperial body, and the user is protected from any direct internal injuries and sealed points caused by the enemy as long as there are no sealed points in the area where the user is attacked by the enemy.
 Vajra Defence
 Changing the body to the air
-Protection from direct trauma
-When defending with this technique, all of the user's body will be temporarily changed into the imperial qi, and the user will be protected from any direct trauma or damage caused by the enemy as long as the part where the user is attacked by the enemy is not broken.
+Protection from external injury
+When defending with this technique, all of the user's body will be temporarily changed into the imperial qi, and the user will be protected from any external injury or damage caused by the enemy as long as the part where the user is attacked by the enemy is not broken.
 Emei Tiger Step
 When the "Light Spirit" True Qi of the wielder is higher than the "Light Spirit" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the wielder is reduced by 1 level
 Unintentional Mind
@@ -345,7 +345,7 @@ Gain extra true qi
 Avoid losing true qi
 When defending with this technique: the user will not lose true qi; if the user can gain true qi and is about to lose it, the user's true qi will not decrease but will increase exponentially
 Iron Head of Lion Phase
-When defending with this technique, any direct trauma to the head and neck caused by the enemy at once with a degree of not more than 4 is invalid.
+When defending with this technique, any external injury to the head and neck caused by the enemy at once with a degree of not more than 4 is invalid.
 Comrade Service
 Whenever an enemy deals direct damage to the user, the user's foot strength is restored
 lose rigidity and gain flexibility
@@ -417,8 +417,8 @@ When the "Qi Qiao" True Qi of the user is higher than the "Qi Qiao" True Qi of t
 3 Books of 9-Steps
 When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's power, subtlety, swiftness, and heartbeat will increase.
 Visceral Anatomy
-Increase in direct trauma
-When an enemy's uninjured body part receives direct trauma from the user, the degree of injury is increased by 1 level
+Increase in external injury
+When an enemy's uninjured body part receives external injury from the user, the degree of injury is increased by 1 level
 Anti-Poisoning
 Protection from toxins
 Exorcise your own toxins
@@ -476,7 +476,7 @@ When defending with this technique: the user will not be planted with compulsion
 Blood Dolls
 E·PhP Dn
 Transfer of injuries sustained
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a special status of Blood Puppet Break to the enemy and a reduced benefit status of enemy Body Break, causing the enemy to suffer the next direct trauma the user receives for the user.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a special status of Blood Puppet Break to the enemy and a reduced benefit status of enemy Body Break, causing the enemy to suffer the next external injury the user receives for the user.
 Ghost Breath
 When using this technique for defense, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of corrosive "poison" to the enemy.
 Silkworm Insanity
@@ -513,7 +513,7 @@ When defending with this technique: all direct internal injuries suffered by the
 Dragon Breakthrough
 The companions of the user's helper can use the "Swim" command more frequently to increase the user's strength, subtlety, and swiftness in a short period of time.
 Thunder Bone
-When defending with this technique, the degree of direct trauma inflicted on the user by the enemy is reduced by 3 levels
+When defending with this technique, the degree of external injury inflicted on the user by the enemy is reduced by 3 levels
 Medical Heart
 The more "collapsing" styles the user has, the more the user's power will increase; the more "point" styles the user has, the more the user's speed will increase; the more "holding" styles the user has, the more the user's subtlety will increase.
 Drunk A Thousand Year
@@ -526,7 +526,7 @@ Mud Stunt
 Descending the enemy to chase and break the body
 When defending with this technique: All direct injuries to the user are reduced by 2 levels, and the damage caused by the enemy's "chase" is greatly reduced.
 Chaos Qi
-The more disturbed the user's internal breath is, the higher the direct trauma caused by the user to the enemy
+The more disturbed the user's internal breath is, the higher the external injury caused by the user to the enemy
 Ghost Cry
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will have a lower chance of applying a "None" to the enemy for each of the enemy's attributes that are lower than the user's attributes, comparing the user's and the enemy's Calm, Smart, Passionate, Brave, and Steadfast attributes in that order.
 Blood Meal
@@ -707,8 +707,8 @@ Shatang's Watersteps
 Improve the subtlety of legwork
 The subtlety of the legwork performed by the user with this stance is greatly enhanced
 Skyline of Mt.Chai
-Reduce direct trauma
-The user has a higher chance of reducing the direct trauma caused by the enemy to the user during the execution of the leg technique with this stance.
+Reduce external injury
+The user has a higher chance of reducing the external injury caused by the enemy to the user during the execution of the leg technique with this stance.
 Flood Dragon Stirs Ocean
 Extra Kick
 As long as the user of this body technique to perform at least 10% of the power of the leg, the user will be able to continue to attack the enemy without consumption of other leg techniques of a slightly lower rank
@@ -790,7 +790,7 @@ Increasing leg trauma
 Direct trauma to the enemy caused by the leg technique performed by the user with this stance is increased by 2 additional levels.
 Flying Zombies
 Trauma cannot be reduced
-The direct trauma caused by this stance by the user on the enemy cannot be reduced by any effect.
+The external injury caused by this stance by the user on the enemy cannot be reduced by any effect.
 Little Leap
 When you move with this stance, you have a higher chance of not consuming your stance
 Mountain\nPushing Palm
@@ -841,7 +841,7 @@ Wild Blade
 Whenever the user deals direct damage to the enemy, the power of this technique will increase cumulatively until the end of the battle, and the cumulative increase in power of this technique cannot be transferred or eliminated by any effect
 Spear of Evil
 Access to attack opportunities
-After this technique plays at least 10% of its power, the user gains 3 levels of this effect: when the user receives direct trauma, the user gains 1 chance to attack
+After this technique plays at least 10% of its power, the user gains 3 levels of this effect: when the user receives external injury, the user gains 1 chance to attack
 Soul-Severed\nSpear of 5 Tigers
 When you start to perform this technique, the greater the maximum attack distance of the user than the maximum attack distance of the enemy, the more the power of this technique will increase
 8 Mother's\nSpear of Lion Phase
@@ -859,8 +859,8 @@ Reduces recoil damage
 When this technique is subjected to the enemy's recoil, the durability of the weapon of the user counteracts the recoil damage caused by the enemy to the user; after this technique has exerted at least 10% of its power, the user obtains 4 levels of this effect: when the user does not use the body technique, the user can quickly accumulate power to advance 1 distance at once without consumption
 Overlord Spear\nof Dragon
 Attack enemy companions
-Offsetting direct trauma
-When this technique is used at 10% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of trauma marks the user has taken as a result: the number of layers of this effect will offset the direct trauma marks the enemy has inflicted on the user.
+Offsetting external injury
+When this technique is used at 10% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of trauma marks the user has taken as a result: the number of layers of this effect will offset the external injury marks the enemy has inflicted on the user.
 Emotions
 Improve your own motivation
 After this technique has exerted at least 10% of its power, the user gains 8 levels of this effect: the fewer the remaining levels of this effect, the more the user's heartbeat will increase when the user attacks the enemy
@@ -908,7 +908,7 @@ After this technique plays at least 10% of the power, the user is close to the e
 Mysterious\nIce Finger
 When this technique exerts at least 10% of its power, the user gains 2 points of "Light Spirit" true qi
 Fallen Finger
-This technique will cause the same amount of direct trauma to both the enemy and us; the direct trauma caused by this technique cannot be reduced by any effect
+This technique will cause the same amount of external injury to both the enemy and us; the external injury caused by this technique cannot be reduced by any effect
 Peeling Move
 Remove E·Equipped
 When this technique exerts ten percent of its power, it has a certain chance to remove 1 piece of clothing or protective gear or treasure from the enemy, and apply a reduced benefit status to the enemy according to the level of the equipment removed.
@@ -925,7 +925,7 @@ Taoism-Trinity\nFinger
 When this technique is at least 10% powerful, the user takes 1 "point" from the enemy.
 Hook Clamp
 Breakage increases trauma
-When this technique is used at ten percent of its power, the enemy's attacked part of the breach will additionally increase the degree of direct trauma to the enemy
+When this technique is used at ten percent of its power, the enemy's attacked part of the breach will additionally increase the degree of external injury to the enemy
 5 Mantra\n5 Phases
 When attacking an enemy with this technique, the more of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, the more the user's hits will increase; when this technique is at least 10% more powerful than the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, at least 3 of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, 2 "None" will be applied to the enemy.
 Pivot Move
@@ -953,7 +953,7 @@ After this technique has been used for 10% of its power, the user gains 4 levels
 Swordsmanship\nof 9 Lights
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Qi Qiao", this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, and then this effect reverts to 0 levels.
 Swordsmanship\nof Yinyang Reversed
-Improving direct trauma
+Improving external injury
 When attacking an enemy with this technique, if this technique can cause direct internal damage and the user's broken Qi is lower than the enemy's imperial Qi, the user's broken body is greatly increased and the user's direct external damage to the enemy is greatly increased
 Origin\nSword Intent
 0 Inhale·Stance cost
@@ -970,7 +970,7 @@ Shocking Spell
 Force E·Escape
 If the enemy has no memory of this spell and the spell is at 10% of its power: If the enemy can escape, the lower the sum of the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, the higher the chance that the enemy will start escaping immediately; If the enemy cannot escape, the lower the sum of the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, the more "Nothing" will be added to the enemy.
 Summoning\nThunder
-If the enemy is equipped with weapons, protective gear, or treasures made of gold or iron when this spell is at 10% power, the enemy will receive additional non-direct trauma to random body parts
+If the enemy is equipped with weapons, protective gear, or treasures made of gold or iron when this spell is at 10% power, the enemy will receive additional non-external injury to random body parts
 Hexa-Jia Arcane\nBenediction
 Hetero to Ortho
 After this spell has become 10% more powerful, the user gains 2 levels of this effect: the "spell" technique performed by the user changes from reverse practice to positive practice, and the power of the "spell" technique transformed from reverse practice is greatly increased.
@@ -989,7 +989,7 @@ Seal the enemy's strange tricks
 Causes backlash damage
 When this incantation is at ten percent power, it will cause the enemy's 1 "odd body" technique that is not permanently sealed to be "sealed" for a long time; whenever the enemy performs any technique, the enemy will suffer the backlash damage of that "odd body" technique; after this incantation is finished, it will inevitably be temporarily "sealed".
 5 Animals Fist
-After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of injury of direct trauma suffered by the user is reduced by 1 level
+After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of injury of external injury suffered by the user is reduced by 1 level
 The Great Snow\nMountain Palm
 The more the current values of Brawn, Agility, Physique, Root and Bone, Perception and Stamina of the user are higher than those of the enemy, the more the power of the "Destruction" technique performed by the user will be increased.
 Blood Palm
@@ -1031,7 +1031,7 @@ PhP Up
 Lowering the enemy's royal body
 This technique cannot be counter-shocked; when attacking an enemy with this technique, if the enemy's body is higher than the user's broken body, after this technique is performed, a gain status that increases the broken body is applied to the user and a reduced benefit status that decreases the body is applied to the enemy.
 Flood Dragon's\nWagging Tail
-At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress, and the number of trauma markers of the user increases the degree of direct trauma to the enemy, but the user also suffers a certain amount of trauma at the end of the performance of this technique. trauma
+At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress, and the number of trauma markers of the user increases the degree of external injury to the enemy, but the user also suffers a certain amount of trauma at the end of the performance of this technique. trauma
 Flood Dragon's\nRolling Kick
 Remove Debuff
 In the process of performing this technique, the user can advance up to 6 distances, and for every 1 distance the user advances, 1 injury mark and 1 impairment status will be removed from the user in the process of performing this technique
@@ -1161,7 +1161,7 @@ After this technique has reached 10% of its power, the user gains 30 layers of t
 Mt.Tai Lock
 When this technique is used at 10% of its power, it immediately closes a number of acupuncture points on the enemy's legs equal to the number of "ki" styles possessed by the user, and consumes all of the user's "ki" styles; the closed acupuncture points caused by this technique cannot be enhanced by any effect, and the time it takes to close the acupuncture points is shorter.
 Mechanic Hawk
-After this technique has been used at 10% of its power, the user gains 6 levels of this effect: whenever the user inflicts a direct trauma on an enemy, if the user consumes an additional "machine" style, he will inflict 1 level of non-direct trauma on a random part of the enemy, and this trauma will immediately change to an old one that is more difficult to recover from.
+After this technique has been used at 10% of its power, the user gains 6 levels of this effect: whenever the user inflicts a external injury on an enemy, if the user consumes an additional "machine" style, he will inflict 1 level of non-external injury on a random part of the enemy, and this trauma will immediately change to an old one that is more difficult to recover from.
 The Impulse
 Transfer Injuries
 When this technique reaches 10% of its power, the user gains 1 level of this effect: When the total number of defeat marks of the user reaches the defeat condition, all of the user's removable wound marks are removed and a portion of the removed wound marks are transferred to the enemy, after which the technique will be inevitably "blocked" until the end of the battle.
@@ -1260,7 +1260,7 @@ Refining\nFire Palm
 Ignore E·Armor
 When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's physique and increases the user's body breaking and qi breaking
 Crazy Drunk Fist
-When this technique is at 10% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disturbed the user's internal breath is, the higher the direct trauma caused by this technique; if the user is drunk, the chance of performing this technique again increases significantly
+When this technique is at 10% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disturbed the user's internal breath is, the higher the external injury caused by this technique; if the user is drunk, the chance of performing this technique again increases significantly
 Great Colorful\nPalm
 When this technique starts, it transfers a portion of the power of the most powerful "body protection" technique of the user and the enemy to this technique and lasts until the end of the battle.
 Divine Fist\nof Jade Yang
@@ -1292,11 +1292,11 @@ Drunk Blade
 When you start to perform this technique, you can eliminate up to 2 unusable forms of the user, and if the user is drunk, you can eliminate up to 3 unusable forms of the user, and the more you eliminate, the more the power of this technique will increase.
 4 Slashes of\nDragontooth
 Force E·skill
-When you start to perform this technique, if the enemy has any "body protection" technique to perform, the enemy will start to perform it immediately, and the higher the rank of the "body protection" technique performed by the enemy, the more the direct trauma caused by this technique will be increased.
+When you start to perform this technique, if the enemy has any "body protection" technique to perform, the enemy will start to perform it immediately, and the higher the rank of the "body protection" technique performed by the enemy, the more the external injury caused by this technique will be increased.
 Blade of\nMindsets And Thoughts
 After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: all "Destroy" techniques performed by the user are affected by the continuous power enhancement effect of another "Destroy" technique of the user with the most continuous power enhancement, and if the user is drunk, the effect is significantly increased.
 81 Slashes of\nMadness Dragon
-After this technique has been used for ten percent of its power, the user gains 9 layers of this effect: the fewer layers of this effect remain, the more direct trauma the enemy receives from the parts hit by this technique
+After this technique has been used for ten percent of its power, the user gains 9 layers of this effect: the fewer layers of this effect remain, the more external injury the enemy receives from the parts hit by this technique
 The Great\nDrunk Blade of Yinyang
 When hitting an enemy with this technique, the degree of injury caused to the enemy directly by the user increases by a number of layers equal to half the number of trauma marks on the same part of the user, and if the user is drunk, the increase is doubled
 Dragonslayed\nBlade of Innocent Child
@@ -1311,13 +1311,13 @@ A gain status that enhances the body breakage is applied to the user according t
 Parami Palm
 When this technique exerts at least 10% of its power, the user gains 2 points of "body protection" true qi
 Vajra Black\nSand Palm
-When attacking an enemy with this technique: the armor of the user is greatly increased; according to the power of this technique, the user is given a gain status that increases direct trauma.
+When attacking an enemy with this technique: the armor of the user is greatly increased; according to the power of this technique, the user is given a gain status that increases external injury.
 Soul Heat Palm
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "body protection" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Vajra\nAnnihilation Hands
 If the user has at least 2 "Avalanche" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Avalanche" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 4 Divine Palm
-When this technique exerts at least 10% of its power, it accumulates 1 layer of effect, up to a maximum of 4 layers: accumulate 1 layer, the power of this technique increases significantly; accumulate 2 layers, the maximum attack distance of this technique increases; accumulate 3 layers, the direct trauma caused by this technique will not be reduced for any reason; accumulate 4 layers, at the end of the performance of this technique, all the stances consumed by the performance of this technique are restored
+When this technique exerts at least 10% of its power, it accumulates 1 layer of effect, up to a maximum of 4 layers: accumulate 1 layer, the power of this technique increases significantly; accumulate 2 layers, the maximum attack distance of this technique increases; accumulate 3 layers, the external injury caused by this technique will not be reduced for any reason; accumulate 4 layers, at the end of the performance of this technique, all the stances consumed by the performance of this technique are restored
 The Great Sun\nBuddha Palm
 Reduce Debuff
 When you start to perform this technique, the effect of all the user's negative status will be halved and the effect of all the positive status will be doubled until the end of this technique.
@@ -1325,7 +1325,7 @@ Vajra Blade
 When this technique is at least 10% of its power, the user takes 1 "slash" from the enemy.
 Rakkhasa Blade
 Blade of\nEvil Influence
-As long as this technique is not unloaded by the enemy, the direct trauma caused by this technique to the enemy is significantly increased and reduced or halved at most
+As long as this technique is not unloaded by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
 Blade of\nSoul Heat
 At the beginning of the battle, the user gains 0 layers of this effect: every time the user gains 1 point of true qi, this effect increases by 1 layer, the more layers of this effect, the more the power and attack range of this technique increases, but if the number of layers of this effect increases beyond 10 layers, the user will suffer the backlash damage of this technique, and then this effect is reduced to 0 layers
 Blade of\nVajra Fall
@@ -1346,7 +1346,7 @@ After this technique has reached 10% of its power, the user gains 3 levels of th
 Dharma\nProtector's Poke
 Enchanted
 When this technique is used at least 10% of its power, the pestle used by the user will be enchanted by "Guardian Vajra": as long as the user is holding this pestle, the degree of direct external injuries caused by the enemy to the user will be reduced by 1 level.
-Vajra Protector: As long as the user is holding this mortar and pestle, the degree of direct trauma inflicted by enemies on the user is reduced by 1 level.
+Vajra Protector: As long as the user is holding this mortar and pestle, the degree of external injury inflicted by enemies on the user is reduced by 1 level.
 Demon's Poke
 When this technique is performed, if the mortar and pestle used by the user is enchanted, the higher the enchantment level, the more trauma the technique will cause; after the technique is performed, the enchantment on the mortar and pestle used by the user will be removed.
 Vajra's Anger
@@ -1498,7 +1498,7 @@ After this technique has been used for ten percent of its power, the user will g
 Blood Hou's\nSand
 The red poison applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Shaolin\nLong Fist
-At the beginning of the battle, the user gains 0 levels of this effect: Each time the user receives direct trauma, this effect increases by 1 level, up to a maximum of 36 levels, with each level increasing the power of this technique
+At the beginning of the battle, the user gains 0 levels of this effect: Each time the user receives external injury, this effect increases by 1 level, up to a maximum of 36 levels, with each level increasing the power of this technique
 Shaolin\nVajra Palm
 Increase the ratio of internal power
 According to the percentage of power played by this technique, the ratio of internal power of this technique increases, when it reaches 100% internal power, the power of this technique increases significantly, and the direct damage caused to the enemy will not be reduced for any reason
@@ -1527,7 +1527,7 @@ As long as this technique is not dismantled by the enemy, the direct external da
 Great Finger\nof Vajra
 When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at ten percent of its power, it will change one hole and one sealed point in the enemy's attacked area to a trauma mark
 Whirling\nVajra Ring
-After this technique has reached 10% of its power, the user gains 6 layers of this effect: the degree of direct trauma suffered by the user is reduced by 2 layers, and the user is able to counter shock the direct trauma caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and the technique performed with this effect will not gain the number of layers of the destruction effect.
+After this technique has reached 10% of its power, the user gains 6 layers of this effect: the degree of external injury suffered by the user is reduced by 2 layers, and the user is able to counter shock the external injury caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and the technique performed with this effect will not gain the number of layers of the destruction effect.
 Shaolin\nDragon Claw
 When attacking the enemy with this technique: the armor of the user increases significantly; the more the armor of the user is higher than the toughness of the enemy, the more the body of the user is broken.
 Shaolin Staff\nof 6 Directions
@@ -1557,7 +1557,7 @@ Rejuvenation\nFinger
 Reduce enemy crisis
 This technique reduces the enemy's sense of crisis when it is unable to exert ten percent of its power
 12 Hands of\nSilk Fist
-As long as this technique is not dodged by the enemy, the direct trauma caused by this technique to the enemy is significantly increased and reduced or halved at most
+As long as this technique is not dodged by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
 White Ape's\nLong-Arm Fist
 Recovery of body time
 The duration of the "Lightness" technique will be restored to the user according to the power of the technique.
@@ -1584,7 +1584,7 @@ Lighten Finger
 The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user will knock back the enemy by 4 distance, and if the distance between the enemy and the user after being knocked back is not greater than 8, the user will deal the same damage to the enemy once again
 A Thousand\nHands
 Attacking weak areas
-This technique cannot be "blocked" or "interrupted"; when this technique exerts 10% of its power, it will automatically hit the part of the enemy with the weakest protection against direct trauma
+This technique cannot be "blocked" or "interrupted"; when this technique exerts 10% of its power, it will automatically hit the part of the enemy with the weakest protection against external injury
 The Great\nFinger of Mt.Light
 When you start to perform this technique, the power of this technique will be greatly increased if the internal energy of the user is "mixed element".
 Heavenly Spirit\nFinger
@@ -1597,7 +1597,7 @@ Swordsmanship\nof Hidden Swordmaster
 After this technique is at least 10% powerful, the user gains 4 levels of this effect: all "slashing" and "teasing" styles gained by the user are changed to "thrusting" styles
 Swordsmanship\nof White Eyebrow
 Swordsmanship\nof Lotus
-When this feat inflicts at least 2 levels of direct trauma to the enemy, it inflicts 1 additional higher level seal on the enemy's attacked area
+When this feat inflicts at least 2 levels of external injury to the enemy, it inflicts 1 additional higher level seal on the enemy's attacked area
 Swordsmanship\nof Yue Maiden
 Improve the chances of chasing
 After this technique has been used for ten percent of its power, the user gains seven levels of this effect: the user's chances of chasing the enemy are greatly increased.
@@ -1758,7 +1758,7 @@ Ban Atk Range
 After this technique has been used for ten percent of its power, the maximum distance between the enemy and me is reduced by 2, up to 8, and lasts until the end of the battle
 Holy White\nElephant With 6 Tusks
 Eliminate external wounds
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives direct trauma from an enemy with a wound level of not less than 2, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's trauma mark is removed, after which this effect reverts to 0 levels
+At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives external injury from an enemy with a wound level of not less than 2, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's trauma mark is removed, after which this effect reverts to 0 levels
 Swordsmanship\nof Arhat
 Recovery of attack opportunities
 If the weapon used by the user is "Sword" and can be switched to "Sword", the user immediately switches to "Sword" and regains 1 attack opportunity after this technique has been used for at least 10% of its power.
@@ -1873,7 +1873,7 @@ Reduces the need to use the "Lion's Gate" technique of the user
 Inverse-Thirteen Tai Bao cross practice
 When the user continuously attacks the enemy with the same technique in this battle, the damage dealt by the user will be increased each time, up to a maximum of 3 times.
 Inverse - Iron Tripod Golden Body Technique
-Significantly reduces the maximum number of breaches per part of the user's body, but if the user has at least 3 breaches, the direct trauma caused by the user is also reduced
+Significantly reduces the maximum number of breaches per part of the user's body, but if the user has at least 3 breaches, the external injury caused by the user is also reduced
 Inverse-Light Lion Power
 Significantly reduce the "brawn" consumption of the user
 Inverse-Nourishing the will method
