@@ -394,7 +394,7 @@ Mirror Flower Water Moon
 Directly defuse the attack
 When defending with this technique, the more "no" styles the enemy has, the higher the chance the user has of directly defeating the enemy's attack.
 Stance of Nuwa's Sky-Mending
-When defending with this technique: If the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's trauma marks will return to the number at the beginning of the defense with this technique
+When defending with this technique: If the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's external injury will return to the number at the beginning of the defense with this technique
 Skillful Hands
 When the user is equipped with 3 different types of weapons, the user's casting speed increases
 Wooden Armor
@@ -434,7 +434,7 @@ Gain Specific Force
 Whenever an enemy's toxicity strikes, the user receives twice the amount of "Qi" of the marker that caused the toxin to strike.
 Flood Dragon's Bone Regeneration
 Automatic healing of injuries
-When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all trauma marks of the user will be eliminated by themselves quickly with time
+When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all external injury of the user will be eliminated by themselves quickly with time
 9 Colored Jade Cicada
 When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Qi Qiao" true qi to randomly remove 9 wound markers of the user
 Go With The Flow
@@ -531,11 +531,11 @@ Ghost Cry
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will have a lower chance of applying a "None" to the enemy for each of the enemy's attributes that are lower than the user's attributes, comparing the user's and the enemy's Calm, Smart, Passionate, Brave, and Steadfast attributes in that order.
 Blood Meal
 Eliminate your own injuries
-Whenever the user inflicts 2 trauma marks at once in the form of direct damage to an enemy, it randomly removes 1 of the user's own trauma marks
+Whenever the user inflicts 2 external injury at once in the form of direct damage to an enemy, it randomly removes 1 of the user's own external injury
 The Great Spell of Soul Exchange
 Transfer Ext Inj
 Transfer of internal rest disorders
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 2 trauma marks and a portion of the user's internal breath disorder will be transferred to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 2 external injury and a portion of the user's internal breath disorder will be transferred to the enemy.
 Heart-Self Destroy Spell
 Obtain a large amount of true qi
 Whenever a partner of the user's helper reaches the defeat condition, the user will receive a large amount of true qi according to the amount of various types of true qi of that partner
@@ -860,7 +860,7 @@ When this technique is subjected to the enemy's recoil, the durability of the we
 Overlord Spear\nof Dragon
 Attack enemy companions
 Offsetting external injury
-When this technique is used at 10% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of trauma marks the user has taken as a result: the number of layers of this effect will offset the external injury marks the enemy has inflicted on the user.
+When this technique is used at 10% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of external injury the user has taken as a result: the number of layers of this effect will offset the external injury marks the enemy has inflicted on the user.
 Emotions
 Improve your own motivation
 After this technique has exerted at least 10% of its power, the user gains 8 levels of this effect: the fewer the remaining levels of this effect, the more the user's heartbeat will increase when the user attacks the enemy
@@ -920,7 +920,7 @@ Polaris Finger\nPoint
 Inactivated AcuPt
 When this technique is used, all parts of the enemy's body will be closed with 1 acupuncture point, and the level of the closed acupuncture point will be the same as the highest level of the enemy's body.
 The Great Moon\nFinger
-If you use this technique to inflict at least 3 trauma marks on an enemy at once, the enemy loses all "body protection" qi and a special status is applied to the enemy that reduces the amount of all qi increase.
+If you use this technique to inflict at least 3 external injury on an enemy at once, the enemy loses all "body protection" qi and a special status is applied to the enemy that reduces the amount of all qi increase.
 Taoism-Trinity\nFinger
 When this technique is at least 10% powerful, the user takes 1 "point" from the enemy.
 Hook Clamp
@@ -1054,7 +1054,7 @@ After this technique has exerted at least 10% of its power, the user gains 4 lev
 After this technique has reached 10% of its power, the user gains 9 levels of this effect: the damage dealt by the enemy's "Destruction" technique is greatly increased, but there is a high chance that it will be "interrupted" when it reaches 90% of its progress.
 Black Water\nPoison
 Deal Extra Dmg
-When this technique is used at ten percent of its power, the more the enemy is marked with poison, the more trauma marks are added to random parts of the enemy
+When this technique is used at ten percent of its power, the more the enemy is marked with poison, the more external injury are added to random parts of the enemy
 Nippy Fragrant\nof Hundreds Evil
 The poison applied to the enemy by this technique will change to a more difficult to dispel stubborn poison
 Flood Dragon's\nBlood
@@ -1187,7 +1187,7 @@ The rotten poison applied to the enemy by this technique will change into a more
 Soul Peeling\nHands
 When attacking an enemy with this technique, the deeper the enemy is poisoned with phantom poison, the more layers the degree of injury caused by this technique to the enemy's direct damage increases; the direct damage caused by this technique to the enemy's existing wounded parts will not be reduced for any reason
 Snake Insanity\nHands
-When this technique is at least 10% powerful, the more trauma marks on the attacked part of the enemy, the more compulsions the user can obtain.
+When this technique is at least 10% powerful, the more external injury on the attacked part of the enemy, the more compulsions the user can obtain.
 Red Insanity
 Plant Pre Gu
 Reduced attack hit
@@ -1298,7 +1298,7 @@ After this technique has been used for at least 10% of its power, the user gains
 81 Slashes of\nMadness Dragon
 After this technique has been used for ten percent of its power, the user gains 9 layers of this effect: the fewer layers of this effect remain, the more external injury the enemy receives from the parts hit by this technique
 The Great\nDrunk Blade of Yinyang
-When hitting an enemy with this technique, the degree of injury caused to the enemy directly by the user increases by a number of layers equal to half the number of trauma marks on the same part of the user, and if the user is drunk, the increase is doubled
+When hitting an enemy with this technique, the degree of injury caused to the enemy directly by the user increases by a number of layers equal to half the number of external injury on the same part of the user, and if the user is drunk, the increase is doubled
 Dragonslayed\nBlade of Innocent Child
 When you start to perform this technique, if the user is a child or a virgin, the power of this technique and the chance of hitting the enemy will be greatly increased.
 Hegemony\nBlade of 9 Dragons
