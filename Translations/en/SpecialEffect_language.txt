@@ -3428,7 +3428,7 @@ Worsen Int injuries
 It comes on when you consume Qi, and depending on the amount of toxin, it can cause up to 3 internal injuries to worsen.
 TA·Pyrotoxin
 Worsen Ext injuries
-When consuming the stance, it attacks, and depending on the amount of toxin derived from the rotten poison, it makes up to 3 traumas worse
+When consuming the stance, it attacks, and depending on the amount of toxin derived from the rotten poison, it makes up to 3 external injuries worse
 TA·Necrotoxin
 Negate Ext Heal
 It triggers in combat on healing External injury, which generates extra Acritoxin and reduces this healing effect
