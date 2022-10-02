@@ -159,7 +159,7 @@ The training hall is a place to practice martial arts. The building is spacious 
 Increases the efficiency of a character's martial arts "Practice" within the influence of the location the building resides in. The larger the Training Hall, the more the efficiency increases. Multiple training rooms will not stack benefits.
 Escort Agency
 The escort agency deals in the protection of important people or objects. To be successful one has to be connected with both good and bad forces in the martial world.
-This extension building must be built next to the "Training Hall". Needs to be operated by villagers to earn "Money", up to a maximum of three. The larger the Escort Agency, the more "Money" you earn.
+This extension building must be built next to the "Training Hall". Needs to be operated by up to 3 villagers to earn "Money". The larger the Escort Agency, the more "Money" you earn.
 Trial Peak
 The trial peaks is a series of obstacles built upon cliffs. While it certainly tests skills,  its the mental toughness which is most challenged.
 Using the "Nine Tests of Spiritual Refinement" as the core material, an extension building will be built next to the "Practice Room", which must be adjacent to the "Lone Peak", and villagers must be dispatched to operate it. \The building is located next to the "Lone Peak" and is operated by the villagers. The villagers will be able to find talented people who have excellent qualifications in gongfu.
