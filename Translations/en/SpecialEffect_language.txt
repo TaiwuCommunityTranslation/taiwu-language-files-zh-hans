@@ -521,7 +521,7 @@ When the user is drunk, the user's chance of being chased by enemies is greatly 
 Cover Sky
 Forcing companions off the field
 Anti-vibration of the whole enemy
-When you start to perform this technique, the user forces all the enemy's helpers on the field to leave the field; when defending with this technique, the traumatic recoil damage caused by the user to the enemy will be shared by all the enemy's characters, and the more enemy helpers there are, the greater the recoil damage shared
+When you start to perform this technique, the user forces all the enemy's helpers on the field to leave the field; when defending with this technique, the external recoil damage caused by the user to the enemy will be shared by all the enemy's characters, and the more enemy helpers there are, the greater the recoil damage shared
 Mud Stunt
 Descending the enemy to chase and break the body
 When defending with this technique: All direct injuries to the user are reduced by 2 levels, and the damage caused by the enemy's "chase" is greatly reduced.
@@ -893,8 +893,8 @@ After this technique has been used for at least 10% of its power, the user gains
 Cold Yin Palm
 Wounds inflicted by this technique on the enemy's waist and abdomen will change to old wounds that are more difficult to recover from
 9 Moves of\n9 Heavens
-Reduction of traumatic recoil
-After this technique has been performed at 10% of its power, the user will receive 9 levels of this effect: if all the "Destruction" techniques performed by the user are not performed at 10% of their power, the user will receive significantly less traumatic repercussions, and at the end of the technique, the user will receive a portion of the stance consumed by performing the technique.
+Reduction of external recoil
+After this technique has been performed at 10% of its power, the user will receive 9 levels of this effect: if all the "Destruction" techniques performed by the user are not performed at 10% of their power, the user will receive significantly less external repercussions, and at the end of the technique, the user will receive a portion of the stance consumed by performing the technique.
 Jade Tripot Fist
 Upgrading toxin levels
 After this technique has been used for 10% of its power, the user gains 10 levels of this effect: the cold poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
@@ -1338,7 +1338,7 @@ Blade of\n6 Mighty Powers
 If the user's "body protection" true qi is higher than the initial value and higher than the enemy's "body protection" true qi, this technique can be performed without consuming qi or stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of "body protection" true qi at the end of this technique
 Blade of\nMahakala
 Damage delayed effect
-During the process of performing this technique, all direct wounds received by the user will only take effect after this technique is performed; after this technique has become 10% powerful, the traumatic wounds that will take effect will not take effect, and the number of traumatic wounds that will take effect by the user will be the number of layers to obtain this effect: when the user causes direct traumatic wounds to the enemy, a maximum of 3 layers of this effect will be consumed to increase the degree of the direct traumatic wounds caused, but if If the number of layers of this effect exceeds 9, the effect will also enhance the enemy's
+During the process of performing this technique, all direct injuries received by the user will only take effect after this technique is performed; after this technique has become 10% powerful, the external injuries that will take effect will not take effect, and the number of external injuries that will take effect by the user will be the number of layers to obtain this effect: when the user causes direct external injuries to the enemy, a maximum of 3 layers of this effect will be consumed to increase the degree of the direct external injuries caused, but if If the number of layers of this effect exceeds 9, the effect will also enhance the enemy's
 Rock-Breaking\nPoke
 Increase your armor
 Damage to enemy's protective gear
@@ -1369,7 +1369,7 @@ After at least 10% of the power of this technique is exerted, the user gains 4 l
 Jade Well Hands
 When this technique is at 10% of its power, it will absorb 2 points of true qi from the enemy, and the type of true qi to be absorbed is the lowest amount of true qi of the user; if the user's true qi is still lower than its initial value after absorbing the enemy's true qi, the user will absorb an additional 3 points of this type of true qi from the enemy
 Latency Yin\nFinger
-After this technique has been used for ten percent of its power, the user gains 6 levels of this effect: the enemy has a higher chance of the traumatic injury being changed to an old injury that is more difficult to recover from.
+After this technique has been used for ten percent of its power, the user gains 6 levels of this effect: the enemy has a higher chance of the external injury being changed to an old injury that is more difficult to recover from.
 Thunderbolt\n7 Stars Finger
 When this technique is used at 10% of its power, the enemy will lose 6 points of "Destruction" true qi.
 Mysterious\nFinger
@@ -1655,7 +1655,7 @@ When the progress of this technique reaches 100%, the user will perform a "heali
 Vitality\nLosing Pinprick
 When this technique is used at 10% of its power, the enemy will lose 6 points of "Qi".
 Deadly Pinprick
-All traumatic injuries caused by this technique are not direct traumatic injuries, but will change to worsen the existing traumatic injuries to the enemy
+All external injuries caused by this technique are not direct external injuries, but will change to worsen the existing external injuries to the enemy
 9-Needle Strike
 The phantom poison applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Meridian\nBreaking Pinprick
@@ -2037,7 +2037,7 @@ Increase internal injury recoil
 When defending with this technique, the internal shock damage of this technique will be greatly increased as long as there are no sealed points in the area where the user is attacked by the enemy.
 HU·Vajra Defence
 Improving trauma recoil
-When defending with this technique, as long as the area where the user is attacked by the enemy is not broken, the traumatic recoil damage of this technique is greatly increased
+When defending with this technique, as long as the area where the user is attacked by the enemy is not broken, the external recoil damage of this technique is greatly increased
 HU·Emei Tiger Step
 When the "Light Spirit" True Qi of the wielder is twice as high as the "Light Spirit" True Qi of the enemy, the degree of injury of all direct damage inflicted by the wielder on the enemy is increased by 1 level
 HU·Unintentional Mind
