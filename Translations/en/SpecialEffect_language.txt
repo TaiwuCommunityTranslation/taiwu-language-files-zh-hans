@@ -484,7 +484,7 @@ For each type of compulsion applied to the enemy, the enemy's True Qi of a rando
 Ghost Included
 When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 "None" to the enemy for every 2 wound marks the enemy has.
 Sky Snake Bone Exchange
-The external injury of the user will be removed by themselves over time; when the total number of defeat markers of the user exceeds half of the defeat condition, the existing trauma of the user will only be aggravated by a more serious trauma to the same part of the body.
+The external injury of the user will be removed by themselves over time; when the total number of defeat markers of the user exceeds half of the defeat condition, the existing external injury of the user will only be aggravated by a more serious external injury to the same part of the body.
 Sky Bridge
 Remove all sealed points
 Whenever the total number of sealed points on the user's body is not less than 7, all the sealed points on the user's body will be released and no effect from the release of the sealed points will be triggered.
@@ -540,9 +540,9 @@ Heart-Self Destroy Spell
 Obtain a large amount of true qi
 Whenever a partner of the user's helper reaches the defeat condition, the user will receive a large amount of true qi according to the amount of various types of true qi of that partner
 12 Blood Child Formation
-The companion of the user's helper can only get the command of "substitute life" which can share a lot of trauma for the user in the battle.
+The companion of the user's helper can only get the command of "substitute life" which can share a lot of external injury for the user in the battle.
 Sky Demon
-Worsening enemy trauma
+Worsening enemy external injury
 When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 4 levels; whenever the user reacts to an enemy's attack, the user applies a large amount of red "poison" to the enemy, and at the same time worsens the external wounds of all parts of the enemy by 1 level
 Undead Body of Blood Child
 When the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder has not reached the absolute limit, the user's internal disorder will start to increase randomly, and the user cannot be defeated until the user's internal disorder reaches the absolute limit.
@@ -786,8 +786,8 @@ Ghost Move
 Improve leg swiftness
 The swiftness of the kicks performed by the user with this stance is greatly increased.
 Ghost Hou's Rage
-Increasing leg trauma
-Direct trauma to the enemy caused by the leg technique performed by the user with this stance is increased by 2 additional levels.
+Increasing leg external injury
+Direct external injury to the enemy caused by the leg technique performed by the user with this stance is increased by 2 additional levels.
 Flying Zombies
 Trauma cannot be reduced
 The external injury caused by this stance by the user on the enemy cannot be reduced by any effect.
@@ -924,7 +924,7 @@ If you use this technique to inflict at least 3 external injury on an enemy at o
 Taoism-Trinity\nFinger
 When this technique is at least 10% powerful, the user takes 1 "point" from the enemy.
 Hook Clamp
-Breakage increases trauma
+Breakage increases external injury
 When this technique is used at ten percent of its power, the enemy's attacked part of the breach will additionally increase the degree of external injury to the enemy
 5 Mantra\n5 Phases
 When attacking an enemy with this technique, the more of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, the more the user's hits will increase; when this technique is at least 10% more powerful than the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, at least 3 of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, 2 "None" will be applied to the enemy.
@@ -1031,7 +1031,7 @@ PhP Up
 Lowering the enemy's royal body
 This technique cannot be counter-shocked; when attacking an enemy with this technique, if the enemy's body is higher than the user's broken body, after this technique is performed, a gain status that increases the broken body is applied to the user and a reduced benefit status that decreases the body is applied to the enemy.
 Flood Dragon's\nWagging Tail
-At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress, and the number of external injury of the user increases the degree of external injury to the enemy, but the user also suffers a certain amount of trauma at the end of the performance of this technique. trauma
+At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress, and the number of external injury of the user increases the degree of external injury to the enemy, but the user also suffers a certain amount of external injury at the end of the performance of this technique. external injury
 Flood Dragon's\nRolling Kick
 Remove Debuff
 In the process of performing this technique, the user can advance up to 6 distances, and for every 1 distance the user advances, 1 injury mark and 1 impairment status will be removed from the user in the process of performing this technique
@@ -1161,7 +1161,7 @@ After this technique has reached 10% of its power, the user gains 30 layers of t
 Mt.Tai Lock
 When this technique is used at 10% of its power, it immediately closes a number of acupuncture points on the enemy's legs equal to the number of "ki" styles possessed by the user, and consumes all of the user's "ki" styles; the closed acupuncture points caused by this technique cannot be enhanced by any effect, and the time it takes to close the acupuncture points is shorter.
 Mechanic Hawk
-After this technique has been used at 10% of its power, the user gains 6 levels of this effect: whenever the user inflicts a external injury on an enemy, if the user consumes an additional "machine" style, he will inflict 1 level of non-external injury on a random part of the enemy, and this trauma will immediately change to an old one that is more difficult to recover from.
+After this technique has been used at 10% of its power, the user gains 6 levels of this effect: whenever the user inflicts a external injury on an enemy, if the user consumes an additional "machine" style, he will inflict 1 level of non-external injury on a random part of the enemy, and this external injury will immediately change to an old one that is more difficult to recover from.
 The Impulse
 Transfer Injuries
 When this technique reaches 10% of its power, the user gains 1 level of this effect: When the total number of defeat marks of the user reaches the defeat condition, all of the user's removable wound marks are removed and a portion of the removed wound marks are transferred to the enemy, after which the technique will be inevitably "blocked" until the end of the battle.
@@ -1283,7 +1283,7 @@ When this technique is used at least 10% of its power, the user gains 2 points o
 Divine Power\nof Red Blue Fire
 When this technique is used at 10% of its power, it imparts a gain status to the user that significantly increases the body breakage and a decrease in the benefit status to the body.
 Blood Burning
-When you start performing this technique, if the user has any new trauma, it will change 1 random new trauma of the user to an old one that is harder to recover from, and then the power and attack range of this technique will increase significantly
+When you start performing this technique, if the user has any new external injury, it will change 1 random new external injury of the user to an old one that is harder to recover from, and then the power and attack range of this technique will increase significantly
 9 Refining of\nThe Sun
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Destroy" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, after which this effect reverts to 0 levels.
 Blade of Fulong
@@ -1348,7 +1348,7 @@ Enchanted
 When this technique is used at least 10% of its power, the pestle used by the user will be enchanted by "Guardian Vajra": as long as the user is holding this pestle, the degree of direct external injuries caused by the enemy to the user will be reduced by 1 level.
 Vajra Protector: As long as the user is holding this mortar and pestle, the degree of external injury inflicted by enemies on the user is reduced by 1 level.
 Demon's Poke
-When this technique is performed, if the mortar and pestle used by the user is enchanted, the higher the enchantment level, the more trauma the technique will cause; after the technique is performed, the enchantment on the mortar and pestle used by the user will be removed.
+When this technique is performed, if the mortar and pestle used by the user is enchanted, the higher the enchantment level, the more external injury the technique will cause; after the technique is performed, the enchantment on the mortar and pestle used by the user will be removed.
 Vajra's Anger
 When this technique is used at least 10% of its power, the mortar and pestle used by the user is augmented by the "Enraged Vajra": as long as the user is holding this mortar and pestle, the level of direct external injuries inflicted by the user on the enemy is increased by 1 level.
 Raging Vajra: As long as the user is holding this Mortar and Pestle, the level of injury caused by the user to the enemy will be increased by 1 level.
@@ -1432,12 +1432,12 @@ When you start performing this technique, the user gains 6 levels of this effect
 Heartbreak Palm
 72 Hellbound\nFist
 Heel Injured
-When you start to perform this technique, the more parts of the enemy's leg that are "damaged", the more the power of this technique increases; when this technique reaches 10% of its power, it causes the enemy's externally injured leg and foot to be "damaged at the knee and heel"; "damaged at the knee and heel The maximum body magic value of the person with "Knee Heel Injury" is halved, and the trauma of the externally injured leg and foot reaches 4 levels, then the leg and foot will be considered as disabled.
+When you start to perform this technique, the more parts of the enemy's leg that are "damaged", the more the power of this technique increases; when this technique reaches 10% of its power, it causes the enemy's externally injured leg and foot to be "damaged at the knee and heel"; "damaged at the knee and heel The maximum body magic value of the person with "Knee Heel Injury" is halved, and the external injury of the externally injured leg and foot reaches 4 levels, then the leg and foot will be considered as disabled.
 Zombie\nPoison Palm
 After this technique has been used for 10% of its power, the user gains 10 levels of this effect: the poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Blood Evil Palm
 Chest injured
-When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts 10% of its power, it will cause the enemy's chest and back to be "damaged"; "damaged chest and back The person who has a "broken chest" cannot lift more than 60% of his Qi, and the trauma of the externally injured person's chest reaches 4 layers, which is considered as a broken chest, and this serious trauma will not disappear until the externally injured person has healed all the trauma of his chest.
+When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts 10% of its power, it will cause the enemy's chest and back to be "damaged"; "damaged chest and back The person who has a "broken chest" cannot lift more than 60% of his Qi, and the external injury of the externally injured person's chest reaches 4 layers, which is considered as a broken chest, and this serious external injury will not disappear until the externally injured person has healed all the external injury of his chest.
 Bone Melting\nGhost Palm
 If the user has at least 2 "take" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "take" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Sky Demon Palm
@@ -1447,15 +1447,15 @@ When attacking an enemy with this technique, the deeper the enemy is poisoned wi
 Poke Eye and\nCut Ear
 Eyes·ears injured
 Lower the hit to dissolve
-The more parts of the enemy that are "damaged" at the beginning of this technique, the more the power of this technique increases; when this technique is used at 10% of its power, the enemy's "eyes and ears are damaged"; the "eyes and ears are damaged "The hit of the second weapon attack and the resolution of the weapon attack will be greatly reduced, and the head and neck of the victim will be considered to be destroyed when the trauma of the head and neck reaches 4 levels.
+The more parts of the enemy that are "damaged" at the beginning of this technique, the more the power of this technique increases; when this technique is used at 10% of its power, the enemy's "eyes and ears are damaged"; the "eyes and ears are damaged "The hit of the second weapon attack and the resolution of the weapon attack will be greatly reduced, and the head and neck of the victim will be considered to be destroyed when the external injury of the head and neck reaches 4 levels.
 Lock Throat
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's waist and abdomen, the power of this technique increases and the progress of its execution increases at the beginning of its execution, and this effect accumulates up to 2 levels; when this technique exerts 10% of its power, it significantly depletes the enemy's stance
 Separation of\nBone And Muscle
 Shoulder injured
-When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts ten percent of its power, the enemy's arm with trauma will be "shoulder and arm damaged"; "shoulder and arm damaged The "shoulder arm injury" cannot be more than 6, and the trauma of the externally injured arm reaches 4 levels, then the arm will be regarded as disabled, and the trauma will not disappear until the externally injured person has healed all the trauma of the arm.
+When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts ten percent of its power, the enemy's arm with external injury will be "shoulder and arm damaged"; "shoulder and arm damaged The "shoulder arm injury" cannot be more than 6, and the external injury of the externally injured arm reaches 4 levels, then the arm will be regarded as disabled, and the external injury will not disappear until the externally injured person has healed all the external injury of the arm.
 Low-Body-Break\nFingers
 Waist Injured
-When you start to perform this technique, the more parts of the enemy that are "wounded", the more the power of this technique increases; when this technique is at its tenth power, it causes the enemy's waist and abdomen to be "wounded and destroyed"; the "wounded and destroyed waist and abdomen The "waist and abdomen injury" can not exceed 60%, and the trauma of the externally injured person's waist and abdomen reaches 4 layers, then the waist and abdomen is considered to be destroyed, until the externally injured person has healed all the trauma of the waist and abdomen, then this serious injury will disappear
+When you start to perform this technique, the more parts of the enemy that are "wounded", the more the power of this technique increases; when this technique is at its tenth power, it causes the enemy's waist and abdomen to be "wounded and destroyed"; the "wounded and destroyed waist and abdomen The "waist and abdomen injury" can not exceed 60%, and the external injury of the externally injured person's waist and abdomen reaches 4 layers, then the waist and abdomen is considered to be destroyed, until the externally injured person has healed all the external injury of the waist and abdomen, then this serious injury will disappear
 Poison Dragon\nClaw
 After this technique has been used for 10% of its power, the user gains 10 levels of this effect: the red poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Hade Finger
@@ -2036,7 +2036,7 @@ HU·Mixed Element In One
 Increase internal injury recoil
 When defending with this technique, the internal shock damage of this technique will be greatly increased as long as there are no sealed points in the area where the user is attacked by the enemy.
 HU·Vajra Defence
-Improving trauma recoil
+Improving external injury recoil
 When defending with this technique, as long as the area where the user is attacked by the enemy is not broken, the external recoil damage of this technique is greatly increased
 HU·Emei Tiger Step
 When the "Light Spirit" True Qi of the wielder is twice as high as the "Light Spirit" True Qi of the enemy, the degree of injury of all direct damage inflicted by the wielder on the enemy is increased by 1 level
@@ -2266,8 +2266,8 @@ When defending with this technique: all direct internal injuries suffered by the
 HU·Dragon Breakthrough
 When using the "Swim" command, the user's companion can increase the user's strength, subtlety, and swiftness even more.
 HU·Thunder Bone
-Increase in recoil trauma
-When defending with this technique, the degree of injury caused by the user to the enemy by recoil trauma is increased by 1 level
+Increase in recoil external injury
+When defending with this technique, the degree of injury caused by the user to the enemy by recoil external injury is increased by 1 level
 HU·Medical Heart
 The more "collapse" styles the user has, the more the user's unloading power increases; the more "point" styles the user has, the more the user's evasion increases; the more "take" styles the user has, the more the user's disarming power increases.
 HU·Drunk A Thousand Year
@@ -3838,19 +3838,19 @@ Fate - Infernal
 When attacking the enemy with this power, Zi Wu Xiang consumes all the effect layers of "Ninety Nine Life Creation" to greatly increase the power of this power; if Zi Wu Xiang has the effect layers of "San San Spirit Transformation" when this power is at ten percent of its power, Zi Wu Xiang immediately performs it without consumption "Spirit Scattering - Heaven, Earth, and Human" to attack the enemy, otherwise all the wounds of the enemy will be worsened by 2 levels.
 pecking at the pinnacle of a red phoenix
 Rapid application of divine power
-When you start to perform this power, Dragon Speak Por will cause 1 level of trauma to each of your arm parts with a trauma level lower than 4, and accordingly: increase the progress of this power; restore the energy and stance consumed by performing this power
+When you start to perform this power, Dragon Speak Por will cause 1 level of external injury to each of your arm parts with a external injury level lower than 4, and accordingly: increase the progress of this power; restore the energy and stance consumed by performing this power
 Red Geibik contending clothes
 Seize the power of the enemy
-When you start to perform this divine power, Dragon Speak Por deals 1 level of trauma to each of your own leg and foot parts with a trauma level below 4, and accordingly: transfer the continuously enhanced power of multiple feats suffered by the enemy to the power enhancement of this divine power, lasting until the end of the battle
+When you start to perform this divine power, Dragon Speak Por deals 1 level of external injury to each of your own leg and foot parts with a external injury level below 4, and accordingly: transfer the continuously enhanced power of multiple feats suffered by the enemy to the power enhancement of this divine power, lasting until the end of the battle
 Fire Dragon Burning Heart
 Destroy the enemy's destruction
-When this power starts to work, Dragon Speak Por inflicts 1 level of trauma to his neck area with a trauma level below 4, randomly changes the number of levels of the enemy's 3 "Destroy" feats to the lower limit, and causes the enemy to take the backlash damage from these "Destroy" feats
+When this power starts to work, Dragon Speak Por inflicts 1 level of external injury to his neck area with a external injury level below 4, randomly changes the number of levels of the enemy's 3 "Destroy" feats to the lower limit, and causes the enemy to take the backlash damage from these "Destroy" feats
 Fire pistil kills proud phoenix
-This power is not limited by the part of the crippled; if the dragon language Por any arm part of the trauma reached 4 levels: when you start to cast this power, this power from 100% progress, and restore all the power to cast this power consumed Qi, stance; during the process of casting this power, the enemy's arms as crippled
+This power is not limited by the part of the crippled; if the dragon language Por any arm part of the external injury reached 4 levels: when you start to cast this power, this power from 100% progress, and restore all the power to cast this power consumed Qi, stance; during the process of casting this power, the enemy's arms as crippled
 Geibi in Red
-The exercise of this power is not subject to the limitations of the parts of the crippled; if the trauma of any part of the legs and feet of the dragon language Por reached 4 levels: when you start to exercise this power, the enemy will be subject to all feats of continuous enhancement of the power of this power to enhance the power of this power, lasting until the end of the battle; during the exercise of this power, the enemy's legs as crippled
+The exercise of this power is not subject to the limitations of the parts of the crippled; if the external injury of any part of the legs and feet of the dragon language Por reached 4 levels: when you start to exercise this power, the enemy will be subject to all feats of continuous enhancement of the power of this power to enhance the power of this power, lasting until the end of the battle; during the exercise of this power, the enemy's legs as crippled
 red heart deters the demon dragon
-This power is not limited by the damage of the area; if the trauma of the neck area of the dragon language Por reaches 4 levels: when you start to apply this power, the enemy's 6 "destruction" techniques will be randomly changed to the lower level of the ongoing effect, and the enemy will suffer the backlash damage of these "destruction" techniques; during the process of applying this power, the enemy's neck is as disabled
+This power is not limited by the damage of the area; if the external injury of the neck area of the dragon language Por reaches 4 levels: when you start to apply this power, the enemy's 6 "destruction" techniques will be randomly changed to the lower level of the ongoing effect, and the enemy will suffer the backlash damage of these "destruction" techniques; during the process of applying this power, the enemy's neck is as disabled
 One Sword - Soluble Dust Hidden
 Eliminate your own attack and defense
 To the - solution
