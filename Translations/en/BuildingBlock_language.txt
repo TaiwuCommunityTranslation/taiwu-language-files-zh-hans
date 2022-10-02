@@ -155,7 +155,7 @@ Tea Caravans
 A business group formed from merchants who transport large quantities of goods and sell tea along the “Silk Road” in the Western Region and the Central Plains.
 Constructed using the 'Western Region Map' as the core material. By sending merchants westward, you can harvest exotic treasures.
 Training Hall
-This is the room used to practice martial arts. This room is usually spacious and airy,  and the light and darkness of the room can be arranged to suit the mood of the practitioner. There are various props for training in the room.
+The training hall is a place to practice martial arts. The building is spacious and airy, and the atmosphere of the room can be arranged to suit the mood of the practitioner. There are various props for training in the room.
 It can increase the efficiency of characters within the influence of the town and sect to which they belong when studying various "gongfu" secrets. \The larger the size of the training room, the more the efficiency will be increased, but the effect of multiple training rooms will not stack.
 Escort Agency
 The escort agency deals in the protection of important people or objects. To be successful one has to be connected with both good and bad forces in the wulin.
