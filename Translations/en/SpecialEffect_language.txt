@@ -789,7 +789,7 @@ Ghost Hou's Rage
 Increasing leg external injury
 Direct external injury to the enemy caused by the leg technique performed by the user with this stance is increased by 2 additional levels.
 Flying Zombies
-Trauma cannot be reduced
+External injuries cannot be reduced
 The external injury caused by this stance by the user on the enemy cannot be reduced by any effect.
 Little Leap
 When you move with this stance, you have a higher chance of not consuming your stance
