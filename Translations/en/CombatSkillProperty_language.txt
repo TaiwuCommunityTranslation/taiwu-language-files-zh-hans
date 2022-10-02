@@ -4,8 +4,8 @@ Cast Speed
 Stance/Inhale Cost
 Ext/Int Ratio
 Inner Conversation Rate
-内力总量
-获取内力
+Total Internal Force
+Gain Internal Force
 Elemental Convertion
 Universal Slots
 Mobility Cost
@@ -13,7 +13,7 @@ MOV·Spd
 Increase Might
 Increase Finesse
 Increase Swiftness
-增加动心
+Increase HEA
 Footwork Duration
 Footwork Cost
 Increase PhD
@@ -38,8 +38,8 @@ Attack Waist/Stomach
 Attack Head
 Attack Hands
 Attack Foots
-封穴程度
-破绽程度
+Severity of sealed acupoints
+Severity of flaws
 Apply Acritoxin
 Apply Umbritoxin
 Apply Cryotoxin
