@@ -148,7 +148,7 @@ Increases the maximum limit of resources that a location can store. The larger t
 Prized Chicken Coop
 Built for raising precious all kinds of prized chickens. The coop is made using grass and wood ash as the base, then covered with soft grass, making it warm in winter and cool in summer, free from moisture and insect pests.
 It can increase the number of prized chickens that can raised. The larger the scale of the Prized Chicken Coop, the more prized chickens that can be adopted.
-Soul Bridges
+Reincarnation Platform
 Six small bridges of different materials,  connecting five stone platforms. These bridges are believed the passage for metempsychosis.
 Constructed with the "six paths of the wheel of reincarnation" as the heart material, it can send wandering souls into reincarnation.
 Tea Caravans
