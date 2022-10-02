@@ -6,13 +6,13 @@ Rivers, lakes, oases and other water areas. These watery and fertile areas provi
 The Reservoir has a chance to grow and expand in the sixth month of each year.
 Stone Hills
 Hills formed by numerous rocks, rich in ore deposits such as copper and gold.
-石山在每年的戌月依赖矿井有机率增长。
+Stone Mountain is dependent on the mine for opportunistic growth in the eleventh month of the year.
 Woodlands
 An area where nature flourishes. Not only is there enough sunshine, but the rainfall is even, and there are many trees with excellent quality.
 The Woodlands has a chance to grow and expand in the second month of each year.
 Skyward Mountain
 A mountain that stands alone. Its peak soars into the clouds, surrounded by precipitous cliffs. Rich in ores and gems.
-孤峰在每年的酉月依赖石碑有机率增长。
+The lonely peak relies on the stone monument to have a chance to grow in the You month every year.
 Herb Paradise
 Rich soil and clear water with a gentle climate. The terrain is very complex, with many ravines and caves, suitable for the growth of various types of valuable herbs.
 The Herb Paradise has a chance to grow and expand in the sixth month of each year.
@@ -24,7 +24,7 @@ With its mild climate, the valley is covered by shrubs and numerous flower speci
 The Flower Valley has a chance to grow and expand in the fourth month of each year.
 Gem Deposit
 A deposit of rare colored stones and jade. The gemstones are crystal clear and brilliant, shining as jeweled treasures of the land.
-宝石在每年的丑月依赖宝井有机率增长。
+Gemstones have a chance to grow in the ugly month of the year depending on the treasure well.
 Fertile Plain
 A fertile land suitable for growing fruit trees and crops. The land is easy to develop with plenty of water and light, and very rich in its production of food and wood.
 The Fertile Plain has a chance to grow and expand in the fourth month of each year.
@@ -33,10 +33,10 @@ A region rich in meat and fur with a diverse ecological environment. Many kinds 
 The Wild Habitat has a chance to grow and expand in the second month of each year.
 Lava Pond
 Craters filled with lava and volcanic flame are scattered throughout the area. The heat is so intense geothermal flame often falls to the ground and burns for three days without going out. The area is filled with high quality gold and silver ore.
-火池在每年的申月依赖琉璃索月有机率增长。
+The fire pool has the chance to grow in the month of Shen, which depends on the month of Lurazo, every year.
 Meteor Crater
 The crater formed by a falling meteorite. It is scattered with special meteor-forged iron that only true forging masters are able to work with.
-陨铁坑在每年的亥月依赖火爆堆有机率增长。
+The crater has a chance to grow each year in the month of Ohio depending on the fire blast pile.
 Primeval Jungle
 A dense and untouched forest, full of exotic flowers and grasses. It is dark and humid, making the harvesting process very difficult.
 The Jungle has a chance to grow in the seventh month of each year, but does not expand naturally.
@@ -57,10 +57,10 @@ The breath of the dragon vein is hidden and nurtured, leading to a prosperous vi
 The Dragon Vein has a chance to grow in the third month of each year, but does not expand naturally.
 Ley Line
 The ley line is the core essence of the earth, made up of narrow underground caves filled with mysterious minerals and plants.
-灵脉在每年的丑月依赖秘陵有机率增长。
+Spiritual veins have a chance to grow in the ugly month of each year depending on the secret tomb.
 Eternal Ice
 Born in environments of extreme cold, the ice is formed after hundreds of millions of years. It's so tough that it cannot be broken by cutting and chopping, and it cannot be melted by fire of any sort.
-玄冰在每年的寅月依赖冰夷像有机率增长。
+Genghis Khan relies on the ice razor statue to have a chance to grow in the month of Yin every year.
 Weeds
 Amidst the dense foliage, numerous insects sing under the night sky.
 The Weeds have a chance to grow and expand in the third month of each year.
@@ -132,7 +132,7 @@ Four statues crafted in the image of the ice gods stand nine feet tall, pulling 
 Must be built next to the "Eternal Ice" using the "Oolite Saw" as the core material. Increases its yearly growth chance. You will need to send villagers to operate it. Jade materials for "Gemcutting" can be harvested, as well as the jade resource every month.
 Taiwu Village
 Taiwu village is the heart of the region, home to the ancient Taiwu clan and its people. It's a place of extreme environments and hardships, its people adhering to the way of being one with nature. Animals freely frolic the grounds, and the houses stay open without locks or guarded doors, revealing its peaceful nature different to the human world outside.
-You can display the promotion weaving for people to enjoy. \nThe larger the scale of Taigo Village, the more buildings can be built.
+You can display the promotion weaving for people to enjoy. \nThe larger the scale of Taiwo Village, the more buildings can be built.
 Ancestral Hall
 Incense and offerings burn inside its halls at all times, with people seen entering and exiting often to worship Taiwu's ancestors. It acts as a meeting place for the elders of the Taiwu family to discuss and educate their future generations.
 You can spend "Prestige" to instruct fellow members of the clan on martial and art techniques to improve their "Talent" by using the "Taiwu Clan Genealogy" as the heart material to build. The larger the Ancestral Hall, the more "Prestige" you will receive each month.
@@ -146,530 +146,530 @@ Storage
 Built in a cool, ventilated place, its design allows it to stay warm in winter, and cool in summer, which is convenient for storing many kinds of resources.
 Increases the maximum limit of resources that a location can store. The larger the Storage, the higher the limit.
 Prized Chicken Coop
-元鸡舍为饲养珍贵的各类元鸡而建设。此舍以草木灰打底，上铺柔软草料，冬暖夏凉，不沾潮气，不生虫害。
-可增加饲养元鸡的数量。\n规模越大的元鸡舍可收养越多珍贵的元鸡。
+Yuan chicken house is built for raising precious kinds of Yuan chickens. This house is built with grass and wood ash as the base, covered with soft grass, which is warm in winter and cool in summer, free from moisture and insect pests.
+It can increase the number of metaphorical chickens to be raised. The larger the \n scale of the metaphorical chicken house the more valuable metaphorical chickens can be adopted.
 Soul Bridges
 Six small bridges of different materials,  connecting five stone platforms. These bridges are believed the passage for metempsychosis.
-以「六道转轮」为心材建设，可将游荡的魂魄送入轮回。
+Constructed with the "six paths of the wheel of reincarnation" as the heart material, it can send wandering souls into reincarnation.
 Tea Caravans
 A business group consisting of merchants who transport large quantities of goods and sell tea along the “Silk Road” in the Western Region and the Central Plains.
-以「西域地图」为心材建设，通过派遣商队西行，可收获异域财宝。
+By sending merchants westward with the "Western Region Map" as the heart material, you can harvest exotic treasures.
 Training Room
 This is the room used to practice martial arts. This room is usually spacious and airy,  and the light and darkness of the room can be arranged to suit the mood of the practitioner. There are various props for training in the room.
-可提高所属城镇、门派影响范围内的人物在研读各类「功法」秘籍时的效率。\n规模越大的练功房，效率提高的越多，但多个练功房的效果不会叠加。
+It can increase the efficiency of characters within the influence of the town and sect to which they belong when studying various "gongfu" secrets. \The larger the size of the training room, the more the efficiency will be increased, but the effect of multiple training rooms will not stack.
 Escort Agency
 The escort agency deals in the protection of important people or objects. To be successful one has to be connected with both good and bad forces in the wulin.
-建造在「练功房」旁边的扩展建筑，需派遣村民经营。\n以走镖护院赚取「银钱」为主。
+The extension building built next to the "practice room" needs to be operated by sending villagers. \The main purpose of the building is to earn "silver money" by escorting the villagers.
 Trial Peak
 The trial peaks is a series of obstacles built upon cliffs. While it certainly tests skills,  its the mental toughness which is most challenged.
-以「炼神九试」为心材，建造在「练功房」旁边的扩展建筑，需与「孤峰」相临，需派遣村民经营。\n可发现在功法方面具备卓越资质的人才。
+Using the "Nine Tests of Spiritual Refinement" as the core material, an extension building will be built next to the "Practice Room", which must be adjacent to the "Lone Peak", and villagers must be dispatched to operate it. \The building is located next to the "Lone Peak" and is operated by the villagers. The villagers will be able to find talented people who have excellent qualifications in gongfu.
 Reception Room
 As the Successor of Taiwu cannot start his own school,  figuratively or literally,  the reception hall often takes the place of a school door. The reception hall is of very simple but age-tested construction and has good views of the area.
-建造在「练功房」旁边的扩展建筑，需派遣村民经营。\n以接待宾客获取「威望」为主。
+This is an extension building built next to the "practice room" and needs to be operated by sending villagers. \The main purpose of the building is to receive guests and gain "prestige".
 Ice Wall
-玄冰为壁，寒玉为台。玄冰壁是平息心火，灭除心魔的绝妙境地。于玄冰壁前修炼，则可激发潜力，一往无前。
-以「寒玉台」为心材，建造在「练功房」旁边的扩展建筑，需与「玄冰」相临。\n可增加所属城镇、门派影响范围内的人物在突破各类「功法」时的天资上限。
+Xuan ice is the wall, cold jade is the platform. Xuan ice wall is a wonderful place to calm the fire of the heart and destroy the demons of the heart. Practicing in front of the ice wall, you can stimulate the potential to go forward.
+An extension building built next to the "Practice Room" with "Cold Jade Terrace" as the core material, which needs to be adjacent to "Xuan Bing". \It can increase the upper limit of the talent of the characters within the influence of the town and sect to which it belongs when they break through the various "techniques".
 Silence Room
 The Silence Room is hidden in a quiet place. Black clothes are hung on the interior doors and windows to isolate the indoor and outdoor,  so that those who practice Inner Arts can concentrate on one’s mind and forget about the outter world.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「内功」时所需要的「历练」。
+An extended building built next to the "training room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "internal skills".
 Forest of Poles
 A large forest of poles,  with a huge number of extremely high stakes and stone piles. There is no other place to rest except those thin stakes and piles.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「身法」时所需要的「历练」。
+An extended building built next to the "practice room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "body techniques".
 Stunt Room
 The Stunt Room is built in a clean and uninhabited place. Although small in size,  it is guarded by strict garrison. It is the place to practice secret martial arts.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「绝技」时所需要的「历练」。
+An expansion building built next to the "training room". \n reduces the amount of "training" required for characters within the influence of the town or sect they belong to to practice and break through "jutsu".
 Wooden Dummies
 Equipped with sixty wooden dummies controlled by rail slings of subtle design. Practicing Fist with them is like practicing with 60 masters at the same time.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「拳掌」时所需要的「历练」。
+An extension building built next to the "training room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "kung fu palm".
 Bronze Dummies
 The Bronze Dummies are carefully crafted. Each bronze dummy has many acupoints which are connected to contraptions inside. When the acupoints are hit with different finger forces,  different sounds will be made.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「指法」时所需要的「历练」。
+An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "finger techniques".
 Mire
 The Mire is full of dense and heavy mud mixed with sand and iron,  and  the depth is just at the waist and abdomen position of ordinary people. One’s leg strength can be greatly advanced if he/she practice Kick here.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「腿法」时所需要的「历练」。
+An extended building built next to the "Training Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "legwork".
 Dart Range
 The Dart Range has seventy big wooden targets,  seventy small wooden targets,  seventy automatic targets and a number of moving birds and animals. It is a place dedicated to the practice of eyesight and flying needles.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「暗器」时所需要的「历练」。
+An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "concealed weapons".
 Swordplay Room
 The Swordplay Room is a place to specialize in Sword. Swordplay requires one to follow the heart so it’s important to keep a peace mind. Therefore,  the room is built in the open air at a high place,  away from noises.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「剑法」时所需要的「历练」。
+An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "sword techniques".
 Blade Room
 A place for specializing in Blade. There are all kinds of blades in the hall: long blades,  short blades,  double blades,  western blades and so on.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「刀法」时所需要的「历练」。
+An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "sword technique".
 Polearm Room
 The open space surrounded by low mud walls. Huge drums stand on the side of the central stage,  various long weapons are listed aside.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「长兵」时所需要的「历练」。
+An expansion building built next to the "Training Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "long armament".
 Trick Battle
 It is a place where all kinds of odd-shaped blades are collected and studied. It also has a number of rooms for practicers to share their opinions on Special martial arts.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「奇门」时所需要的「历练」。
+An extension building built next to the "practice room". \n can reduce the "training" required for characters in the area of influence of the town and sect they belong to when they practice and break through the "ki gong".
 Wind Room
 The wind room has a series of intricate gust generating mechanisms. A soft weapon practicioner must maintain his control in order not to hit himself.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「软兵」时所需要的「历练」。
+An extension building built next to the "Practice Room". \n reduces the amount of "training" required for characters within the influence of the town or sect to which they belong to practice and break through "soft arms".
 Contraptions Room
 Contraptions Room is a quiet and tidy workshop. The room is equipped with all kinds of clever instruments,  ranging from small awls,  tapers to large slings and lathes. Range weapon is the art of using contraptions to deal damage at a distance.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「御射」时所需要的「历练」。
+An extension building built next to the "Practice Room". \n reduces the "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "imperial shooting".
 Empty Valley
 This is a silent man-made valley,  surrounded by hills that reflects every sound musical instruments made inside them. No error,  large or small,  can escape the year.
-建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在修习、突破「乐器」时所需要的「历练」。
+An extension building built next to the "practice room". \n reduces the amount of "training" required for characters in the area of influence of the town and sect to which they belong to practice and break through "musical instruments".
 Isolated Tower
 The Isolated tower havs 9 levels,  symbolizing the 9 steps into immortality. There is only very spartan provisions inside the tower which help force practitioners concentrate.
-以「绝音石」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「内功」时的成功率。
+This is an extension building built next to the "Training Room" using the "Absolute Sound Stone" as the core material. \It can increase the success rate of "Inner Strength" for characters within the influence of the town and sect to which they belong.
 Cloud Stages
 The cloud stages are a series of small steps around a giant tree that extends for a hundred jiang from the ground. So small and weak are that steps that even birds are challenged to stand on it,  and more so for a footwork practitioner.
-以「麒麟凿」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「身法」时的成功率。
+This is an extension building built next to the "Practice Room" using "Kirin Chisel" as the core material. \It can increase the success rate of "Body Technique" for characters within the influence of the town and sect to which they belong.
 Secret Room
 Buried deep underground and reached only by hidden passageways,  this secret room keeps the practicing of stunts an absolute secret. Inside there are books and drawings that acts as study aids.
-以「风孔百机」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「绝技」时的成功率。
+This is an extension building built next to the "Practice Room" using "Wind Hole Hyakki" as the core material. \This building can increase the success rate of "Jutsu" for characters within the influence of the town and sect to which they belong.
 Tiger ring
 The tiger ring is just taller than the human body in all directions,  which makes escaping impossible. Only by training fist skills one can defeat the beasts that reside inside it.
-以「饲虎笼」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「拳掌」时的成功率。
+This is an extension building built next to the "Training Room" using the "Tiger Feeding Cage" as the core material. \It can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Fist and Palm".
 Cocoon Wall
 The cocoon wall has two layers - towards the practitioner is a stone wall,  and behind it are silk worm cocoons. Some finger skills is needed to break cocoons behind the wall only by fingering skills,  but true masters can break the wall without breaking any cocoon.
-以「长生茧」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「指法」时的成功率。
+An extension building built next to the "Practice Room" using "Everlasting Cocoon" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Finger Technique".
 Web Roof
 The roof of the web roof was covered by a net made of thick ropes. One put on strength and skill in his Kicks by keeping themselves hanging upside-down on their feet.
-以「龙骨金钩」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「腿法」时的成功率。
+An extension building built next to the "Training Room" with "Dragon Bone Golden Hook" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "legwork".
 Pitch Black
 There is no light in the dark room. A hidden weapon practioner need very good ears to hit the 24 sparrows inside this room with only a handful of cinnabar. The truly skillful can hit the birds without killing them.
-以「绝光壁」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「暗器」时的成功率。
+This is an extension building built next to the "Practice Room" using the "Absolute Light Wall" as the core material. \It can increase the success rate of the "Dark Weapon" for characters within the influence of the town and sect to which they belong.
 Swords Collection
 A swordsman can hold no sword if he sees them as anonymous sticks. Only by understanding the intention of thousands of swords one can truly be a swordsman. This mound of disused swords shows how the inner toil the swordsman had endured.
-以「葬剑石」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「剑法」时的成功率。
+An extension building built next to the "Practice Room" using "Burial Stone" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when breaking through the "Sword Technique".
 Shura House
 In the art of blades,  skills takes second place to momentum. Here a blade practitoner had clashed many blades together in order to train his mental state.
-以「镇刀石」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「刀法」时的成功率。
+This is an extension building built next to the "Practice Room" using the "Blade Calming Stone" as the core material. \It can increase the success rate of the "Blade Technique" for characters within the influence of the town and sect to which they belong.
 Iron Horses
-铁驹阵长五十丈，宽两丈。长阵两端各有铁甲战马十匹。阵法一经启动，铁马相互往返冲锋，声势惊人，非百战之躯不能抵挡。
-以「破阵铁驹」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「长兵」时的成功率。
+Iron pony formation is fifty feet long and two feet wide. Both ends of the long formation have ten iron armor war horses. Once the formation is started, the iron horses charge back and forth with each other, the sound is amazing, non-hundred battles of the body can not resist.
+An expansion building built next to the "Practice Room" with "Breaking Iron Pony" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when breaking through the "Long Soldier".
 Diagram Field
 The trickery of exotic weapons often leans on the five elements and the eight directions,  depending on the diagrams. This field is built upon the principle of diagrams and training exotic weapons inside means better understanding of its use.
-以「阵眼石」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「奇门」时的成功率。
+This is an extension building built next to the "Practice Room" using the "Formation Eye Stone" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "strange door".
 Web Alley
 The web alley is only one step wide and is covered by strips of cloth tranversing it,  looking like a spider’s web. Extreme control is needed for a soft weapon to attack into and retreat from it with ease.
-以「百转软索」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「软兵」时的成功率。
+This is an extension building built next to the "Practice Room" with "Hundred Turns of Soft Soldier" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Soft Soldier".
 Reflection Room
 The many gems studded into the walls of this room will reflect moonlight into a myriad of shapes and colours. This trickery can helps with concentration needed for ranged weapons.
-以「追光宝珠」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「御射」时的成功率。
+This is an extension building built next to the "Practice Room" using the "Light Chasing Pearl" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Royal Shot".
 Strings Hall
 Seven strings made of exotic materials and in rainbow colours hang in this hall. They resonate to the internal energy and the mood of the music practioner respectively - happiness,  angriness,  sadness,  thoughtfulness,  sadness,  worriness and scaredness.
-以「七色心弦」为心材，建造在「练功房」旁边的扩展建筑。\n可提高所属城镇、门派影响范围内的人物在突破「乐器」时的成功率。
+This is an extension building built next to the "practice room" using "seven-color heart strings" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through "musical instruments".
 Musical Room
 Elegant music room built beside a winding path,  surrounded by dense woods.  Various kinds of instruments available.
-可提高所属城镇、门派影响范围内的人物在研读「音律」书籍时的效率。\n规模越大的琴舍，效率提高的越多，但多个琴舍的效果不会叠加。
+It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Music" books. \The larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
 Concert Hall
 A leisure place where musicians gather. They play quite ceremonial music,  perform mostly elegant and refined dances and songs,  deeply loved by the literati.
-建造在「琴舍」旁边的扩展建筑，需派遣村民经营。\n以演奏乐曲赚取「银钱」为主。
+This is an extension building built next to the "piano house" and needs to be operated by the villagers. \The main purpose of the building is to earn "silver money" by playing music.
 Musical Academy
 A folk place for music teaching,  an elegant school for musicians to appreciate music,  exchange and impart music knowledge and performance techniques.
-以「识乐回音台」为心材，建造在「琴舍」旁边的扩展建筑，需派遣村民经营。\n可发现在「音律」方面具备卓越资质的人才。
+This is an extension building next to the Music House, using the "Echo Stage" as the core material, which requires the dispatch of villagers to operate. \You can find talented people who have excellent skills in "music".
 Theater
 The Theater brings together troupes and entertainers from all corners of the country. No tickets needed,  anyone can play at will. It’s a birth place of many popular tunes.
-建造在「琴舍」旁边的扩展建筑，需派遣村民经营。\n以创作戏曲获取「威望」为主。
+This is an extension building built next to the "piano house" and needs to be operated by the villagers. The main purpose of \n is to gain "prestige" by creating operas.
 Riverside Rest
 Built on the riverside,  looks like a small and delicate waterside pavilion. The surface of the water is undulating and mysterious,  providing an intangible feeling.
-以「潮信石」为心材，建造在「琴舍」旁边的扩展建筑，需与「水域」相临。\n可提高所属城镇、门派影响范围内的人物在研读「音律」书籍时「灵光乍现」的几率。
+An extension building built next to the "Music House" with "Tide Letter Stone" as the heart material, which must be adjacent to "Water". \This building will increase the chance of people within the influence of the town or sect to read "music" books.
 Wonderland
 A natural place far from the noises made from human activities,  just like a fairyland in the world. It is most suitable for training and practicing your comprehension ability.
-以「世外仙根」为心材，建造在「琴舍」旁边的扩展建筑，需与「长春涧」相临。\n可增加所属城镇、门派影响范围内的人物的「音律」造诣。
+Using "Worldly Immortal Root" as the heart material, an extension building is built next to the "Qin House", which needs to be adjacent to the "Evergreen Stream". \It can increase the "musical" attainments of the people within the influence of the town or sect to which it belongs.
 Phoenix Palace
 The Phoenix Palace is three feet high,  surrounded by green trees,  birds and flowers. It also refers to the magical scene of the fairy music fluttering on the stage.
-以「七彩梧桐架」为心材，建造在「琴舍」旁边的扩展建筑，需派遣村民经营。\n可在每月结束时大幅减少所属城镇、门派影响范围内的人物的内息紊乱。
+An extension building built next to the "Qin House" with "Seven Colorful Sycamore Frame" as the core material, which needs to be operated by dispatching villagers. \n can significantly reduce the internal breath disorder of characters within the influence of the town and sect to which they belong at the end of each month.
 Chess Room
 The Chess Room is surrounded by pines and cypresses. It is square,  simple in appearance and furnishings. On the indoor floor,  there are nineteen lines drawn in the vertical and horizontal directions,  and the chess table is placed on the central Tianyuan spot.
-可提高所属城镇、门派影响范围内的人物在研读「弈棋」书籍时的效率。\n规模越大的弈轩，效率提高的越多，但多个弈轩的效果不会叠加。
+It can improve the efficiency of characters within the influence of the town or sect to which they belong when studying the "Game Hen" book. \The larger the size of the game, the more the efficiency will be increased, but the effect of multiple game xuan will not be stacked.
 Chess Pavilion
 The Chess Pavillion is spacious and bright,  with large and small tables. Good players often come to this place to “hand talk” with friends. The servants are constantly delivering tea and the service is very thoughtful.
-建造在「弈轩」旁边的扩展建筑，需派遣村民经营。\n以开馆设弈赚取「银钱」为主。
+It is an extension building built next to the "game house" and needs to be operated by the villagers. \The main purpose of the building is to earn money by playing games.
 Chess Battle
 Come and have a chess battle on this open-air stone platform. The platform is located in a crowded area,  where lots of people come and enjoy watching the GO players play against each other.
-以「君子石盘」为心材，建造在「弈轩」旁边的扩展建筑，需派遣村民经营。\n可发现在「弈棋」方面具备卓越资质的人才。
+An extension building is built next to the "Game Hall" using the "Gentleman's Stone Plate" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent skills in "chess".
 Chess Library
 The Chess Library occupies a very wide area,  and there are a large number of ingeniously designed Go Chess Manuals in the garden. In order to protect the Go Chess Manuals,  they are often carved on the stone tablets and plates.
-建造在「弈轩」旁边的扩展建筑，需派遣村民经营。\n以展览棋谱获取「威望」为主。
+It is an extension building built next to "Yixuan" and needs to be operated by sending villagers. \The main purpose of the building is to exhibit chess games to gain "prestige".
 Glaze House
 This splendid house has seven floors. The chess room is located on the top floor. Around the period when the guilding was under construction,  there were many foreigners in the land of China. The Glaze House was a pavilion for entertaining and chatting with foreign chessers.
-以「宝石棋子」为心材，建造在「弈轩」旁边的扩展建筑，需与「宝石」相临。\n可提高所属城镇、门派影响范围内的人物在研读「弈棋」书籍时「灵光乍现」的几率。
+An extension building is built next to "Yixuan" with "gemstone chess pieces" as the core material, and must be adjacent to "gemstone". \This building will increase the chance of the characters within the influence of your town or sect to be able to read the book of "Game of Chess".
 Mirror Stage
 Like flowers in the mirror,  or the illusion of moon reflected by water. One may face rapidly changing situations during go chess games. It is important to overcome agitated feelings,  so you can have peace in mind.
-以「空明镜」为心材，建造在「弈轩」旁边的扩展建筑，需与「玄冰」相临。\n可增加所属城镇、门派影响范围内的人物的「弈棋」造诣。
+An extension building built next to "Yixuan" with "Empty Mirror" as the heart material, which needs to be adjacent to "Xuan Bing". \The building can increase the "game of chess" attainments of people within the influence of the town or sect to which it belongs.
 Strategy Room
 There are maps hanging on the wall,  long tables in the center,  and all kinds of informations are all there. The room where strategy can be formulated and various actions are planned.
-以「方略推演」为心材，建造在「弈轩」旁边的扩展建筑。\n可增加太吾同道的数量上限。
+This is an extension building built next to "Yixuan" with "Founder's Guide" as the core material. \n can increase the upper limit of the number of Taigo's fellow trainees.
 Study Room
 Books,  scrolls are on the shelves.The four treasures are on the desk: pen,  ink,  paper,  enamel. There are lights and tea,  as well as a number of antiques.
-可提高所属城镇、门派影响范围内的人物在研读「诗书」书籍时的效率。\n规模越大的书房，效率提高的越多，但多个书房的效果不会叠加。
+It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "poetry and books" books. \The larger the size of the study room, the more the efficiency will be increased, but the effect of multiple study rooms will not stack.
 Bookstore
 Bookstores are used to buy and sell books,  which is a shop frequented by literati. The books in the bookstore are mostly manuscripts,  and the content is very rich.
-建造在「书房」旁边的扩展建筑，需派遣村民经营。\n以买卖书籍赚取「银钱」为主。
+The extension building is built next to the "study room" and needs to be operated by the villagers. \The main purpose of the building is to earn "silver money" by buying and selling books.
 Academy
 The academy is an facility for private lectures and teaching. It is also an important institution for literature collection and research.
-以「名家碑刻」为心材，建造在「书房」旁边的扩展建筑，需派遣村民经营。\n可发现在「诗书」方面具备卓越资质的人才。
+An extension building is built next to the "study" with "famous inscriptions" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent qualifications in poetry and calligraphy.
 Scholar Office
 With extreamely rich collections,  it is the hall where the great confucians study ancient books and records.
-建造在「书房」旁边的扩展建筑，需派遣村民经营。\n以编撰典籍获取「威望」为主。
+The extension building is built next to the "study" and needs to be operated by sending villagers. \The main purpose of the building is to obtain "prestige" by compiling books.
 Poem Hill
-山上石碑林立，一眼望去，漫山都是驮着石碑伏在地上的“霸下”。石碑上的书法、字印无一相同，字里行间的“神，气，骨，血，肉”无不俊逸。
-以「神龟驼碑像」为心材，建造在「书房」旁边的扩展建筑，需与「石山」相临。\n可提高所属城镇、门派影响范围内的人物在研读「诗书」书籍时「灵光乍现」的几率。
+The mountain is full of stone monuments, and at a glance, the mountain is full of "Ba Xia" who are carrying stone monuments and lying on the ground. The calligraphy and character marks on the monuments are all the same, and the "God, Air, Bone, Blood and Flesh" between the lines are all handsome and elegant.
+An extension building built next to the "Study" using the "Turtle Hunchback Tablet Statue" as the heart material, which must be adjacent to the "Stone Mountain". \This building will increase the chance of people within the influence of your town or sect to have a "flash of light" when they read books on poetry.
 Everbright Room
 A small building decorated with a lot of white marble and strange crystal. The building is gleaming at night,  like a bright moon. There is no light in the building,  but the night here is still bright.
-以「照夜月光石」为心材，建造在「书房」旁边的扩展建筑，需与「灵脉」相临。\n可增加所属城镇、门派影响范围内的人物的「诗书」造诣。
+An extension building is built next to the "Study" with "Moonlight Stone" as the core material, and must be adjacent to the "Spiritual Vein". \It can increase the "poetry" attainment of the people within the influence of the town or sect to which it belongs.
 Library
 A private facility for collection,  maintenance and copying works for all types of books. It is strictly forbidden for outsiders to enter the Library,  which displays the essence of the various syllabuses and the secrets left by the sages of the past dynasties.
-以「千书万象柜」为心材，建造在「书房」旁边的扩展建筑，需派遣村民经营。\n可修补放置于其中的书籍残页。
+An extension building is built next to the "Study Room" with the "Cabinet of a Thousand Books" as the core material, and villagers must be dispatched to operate it. \You can mend the remaining pages of books placed in it.
 Art Attic
 The attic is three floors high,  hollow to hang a long roll of several feet. The outer wall of the attic is decorated with colorful paint,  which is in harmony with the studio on the top floor.
-可提高所属城镇、门派影响范围内的人物在研读「绘画」书籍时的效率。\n规模越大的画阁，效率提高的越多，但多个画阁的效果不会叠加。
+It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Painting" books. \The larger the size of the painting pavilion, the greater the increase in efficiency, but the effects of multiple painting pavilions do not stack.
 Paint Shop
 In the Paint Shop is separated into two zones by a black curtain. One is for selling the copies of famous paintings through the ages; the other one is for selling the original painting created by the owner.
-建造在「画阁」旁边的扩展建筑，需派遣村民经营。\n以买卖画作赚取「银钱」为主。
+An extension building built next to the "painting pavilion", which requires the dispatch of villagers to operate. \The main purpose of the building is to earn "silver money" by selling and buying paintings.
 Painting Hall
 The Painting Hall is home to a large number of talented people who like Paint. It is an elegant club that appreciates and exchanges paintings. There are no colours in the pavilion so as not to obstruct the viewing of the paintings.
-以「净色墙彩」为心材，建造在「画阁」旁边的扩展建筑，需派遣村民经营。\n可发现在「绘画」方面具备卓越资质的人才。
+An extension building is built next to the "painting pavilion" with the "Pure Color Wall Color" as the core material, and villagers must be dispatched to run it. \You can find talented people who have excellent qualifications in "painting".
 Garden of Art
 Beautiful garden with many pavilions and stages that were decorated by outstanding artists.
-建造在「画阁」旁边的扩展建筑，需派遣村民经营。\n以开设展览获取「威望」为主。
+This is an extension building built next to the "painting pavilion" that requires the dispatch of villagers to operate. \The main purpose of the building is to gain "prestige" by opening exhibitions.
 Pigment Workshop
 Take all kinds of exotic flowers and plants to make special pigments.
-以「百色研钵」为心材，建造在「画阁」旁边的扩展建筑，需与「花谷」相临。\n可提高所属城镇、门派影响范围内的人物在研读「绘画」书籍时「灵光乍现」的几率。
+An extension building built next to the "Painting Pavilion" with the "Hundred Colors Study Bowl" as the core material, which must be adjacent to the "Valley of Flowers". \This building will increase the chance that people within the influence of the town or sect to which it belongs will have a "flash of light" when studying "painting" books.
 Gallery
 A pavilion built with precious wood. This colorful pavilion is fragrant and elegant.
-以「百彩香木石」为心材，建造在「画阁」旁边的扩展建筑，需与「奇香原」相临。\n可增加所属城镇、门派影响范围内的人物的「绘画」造诣。
+An extension building built next to the "Painting Pavilion" with "Hundred Colorful Fragrant Wood Stone" as the core material, which must be adjacent to the "Chikyuwon". \The building will increase the "painting" attainment of the people within the influence of the town and sect to which it belongs.
 Makeup Room
 Where beauties do their make up. Very popular among ladies.
-以「玉镜花台」为心材，建造在「画阁」旁边的扩展建筑。\n可大幅提高与太吾初识者的好感度。
+An extension building built next to the "Painting Pavilion" using the "Jade Mirror Flower Terrace" as the heart material. \n can greatly increase the goodwill with Taigo's first acquaintance.
 Observatory
 A huge platform for observing the shadows of daylight and the stars of the night. In addition to observing the sun,  moon,  and stars,  it is also used to identify “the four periods and six qi” so as to predict the fortune.
-可提高所属城镇、门派影响范围内的人物在研读「术数」书籍时的效率。\n规模越大的观星台，效率提高的越多，但多个观星台的效果不会叠加。
+It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying books on "arts and mathematics". \The larger the size of the observatory, the greater the increase in efficiency, but the effects of multiple observatories do not stack.
 Divination Room
 A venue for divination. There are many forms of fortune telling,  such as bone reading,  face reading,  kau cim,  bazi,  plum flower coculation,  etc..
-建造在「观星台」旁边的扩展建筑，需派遣村民经营。\n以占卜相命赚取「银钱」为主。
+This is an extension building built next to the "Stargazer" and needs to be operated by the villagers. \The main purpose of the building is to earn "silver money" by divination.
 Necromancer Room
 A necromancer is a cultivator who is proficient in the five-elements technique,  a witch-like doctor and also an alchemy reasercher. This is the room that houses and supplies the necromancers.
-以「日晷星仪」为心材，建造在「观星台」旁边的扩展建筑，需派遣村民经营。\n可发现在「术数」方面具备卓越资质的人才。
+An extension building is built next to the "Stargazer" using the "Sundial Star Instrument" as the core material, and villagers must be dispatched to operate it. \You can find talented people who have excellent qualifications in the field of "arts and mathematics".
 High Altar
 A venue for grand ritual ceremonies. In the center of the square,  there is a high stone altar,  with a huge copper tripod,  as a prayer for heaven and earth.
-建造在「观星台」旁边的扩展建筑，需派遣村民经营。\n以祭祀祈福获取「威望」为主。
+The extension building built next to the "Stargazer" is to be operated by sending villagers. \The main purpose of the building is to obtain "prestige" through rituals and prayers.
 Star Pick
 The Star Pick is not only super tall,  but also built on a very high peak,  as if you can reach out to the clouds and pick up the stars with your own hand here.
-以「望星珠」为心材，建造在「观星台」旁边的扩展建筑，需与「孤峰」相临。\n可提高所属城镇、门派影响范围内的人物在研读「术数」书籍时「灵光乍现」的几率。
+An extension building built next to the "Stargazing Terrace" with the "Stargazing Pearl" as the core material, which must be adjacent to the "Lone Peak". \This building will increase the chance of people within the influence of your town or sect to have a "flash of light" when they study books on "arts and mathematics".
 Kunlun Tower
 A tower built with the rarest stones,  metals and woods collected from the five great mountains. The tower is dedicated to the “Kunlun Mountain God“,  which is believed the god of the Dragon Veins.
-以「昆仑山神像」为心材，建造在「观星台」旁边的扩展建筑，需与「风水龙穴」相临。\n可增加所属城镇、门派影响范围内的人物的「术数」造诣。
+An extension building built next to the "Stargazer" using the "Kunlun Mountain God Statue" as the heart material, which must be adjacent to the "Feng Shui Dragon Point". \This building will increase the "magic" attainments of the people within the influence of the town or sect to which it belongs.
 Life and Death Observatory
-“人有祸福，寿有长短。既生复灭，既灭复生”。生灭两星幡一正一反，一面画北斗七星，一面画南斗六星，两面随风而转，不时颠倒。
-以「生灭两星图」为心材，建造在「观星台」旁边的扩展建筑。\n可提高太吾的生平遗惠。
+"There are woes and blessings for people, and longevity. Both are born and perish again, and both perish and are born again". The two star streamers of birth and death are one positive and one negative, one side is painted with the seven stars of the Big Dipper and the other side with the six stars of the Southern Dipper, and the two sides turn with the wind and are reversed from time to time.
+This is an extension building built next to the "Stargazer" using the "Two Star Chart of Life and Death" as the core material. \n can improve Taigo's life legacy.
 Clarifier
 A small hall built in the deep well where the spring was excavated. In the Clarifier,  facilities for water purification are installed to optimize water quality.
-可提高所属城镇、门派影响范围内的人物在研读「品鉴」书籍时的效率。\n规模越大的甘泉厅，效率提高的越多，但多个甘泉厅的效果不会叠加。
+It increases the efficiency of characters within the area of influence of the town or sect to which they belong when studying "Tasting" books. \The larger the size of the Gansen Hall, the greater the increase in efficiency, but the effects of multiple Gansen Halls do not stack.
 Teahouse
 In addition to the area where ordinary people drink tea,  the teahouse also has elegant seats and a valuable tea sets for the riches.
-建造在「甘泉厅」旁边的扩展建筑，需派遣村民经营。\n以贩卖茶叶赚取「银钱」为主。
+This is an extension building built next to the "Gansen Hall" and needs to be operated by the villagers. \The main purpose of the building is to sell tea to earn money.
 Tavern
 The tarvern can store a large amount of fine wines. Beautiful women sell wine here day and night.
-建造在「甘泉厅」旁边的扩展建筑，需派遣村民经营。\n以贩卖酒水赚取「银钱」为主。
+This is an extension building built next to the "Gansen Hall" and needs to be operated by the villagers. \The main purpose of the building is to sell alcoholic beverages to earn "silver money".
 Aroma Park
 A private institution specializing in the identification of drinks and tea. Hosted by a respected celebrity.
-以「生香泥金炉」为心材，建造在「甘泉厅」旁边的扩展建筑，需派遣村民经营。\n可发现在「品鉴」方面具备卓越资质的人才。
+An extension building is built next to the "Gansen Hall" with the "Golden Furnace of Incense" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent qualifications in "tasting".
 Four-Seas Mansion
 This mansion is open seven days a year and is known as the “Four-Seas Club”. The host hire experts to collect the famous tea and wine in the world,  for the tea and wine masters to appreciate.
-建造在「甘泉厅」旁边的扩展建筑，需派遣村民经营。\n以品鉴茶酒获取「威望」为主。
+This is an extension building built next to the "Gansen Hall" and needs to be operated by the villagers. \The main purpose of the building is to gain "prestige" by tasting tea and wine.
 Floating Bar
 A bar run by northern barbarian tribes. You can enjoy exotic wine and the dancings performed by beautiful ladies.
-以「异域珍玩」为心材，建造在「甘泉厅」旁边的扩展建筑，需与「水域」相临。\n可提高所属城镇、门派影响范围内的人物在研读「品鉴」书籍时「灵光乍现」的几率。
+An extension building is built next to the "Gansen Hall" with "exotic treasures" as the core material, and must be adjacent to the "water area". \This building will increase the chance of people within the influence of the town or sect to read the book "Tasting".
 Mystic Garden
-“白鹤翠微里，黄精幽涧滨。始知世上客，不及山中人”。所谓人间仙境，莫过于这世外桃源的神仙苑。
-以「世外山水石」为心材，建造在「甘泉厅」旁边的扩展建筑，需与「长春涧」相临。\n可增加所属城镇、门派影响范围内的人物的「品鉴」造诣。
+"White cranes in the cuiwei, yellow essence of the quiet stream. I know that the world's guests are not as good as the people in the mountains". The so-called fairyland on earth is nothing more than this divine garden in the paradise of the world.
+Using "Worldly Landscape Stone" as the core material, an extension building is built next to "Ganquan Hall", which needs to be adjacent to "Changchun Stream". \This building will increase the attainment of the "character" of the people within the influence of the town and sect to which it belongs.
 Tea Garden
 The tea garden is built on the low slope of the north facing the fertile land. It is a garden for cultivating tea trees,  collecting raw tea and frying tea.
-以「云龙选青池」为心材，建造在「甘泉厅」旁边的扩展建筑，需与「沃野」相临，需派遣村民经营。\n可收获茶叶。
+An extension building is built next to the "Gansen Hall" with "Yunlong Chosen Green Pond" as the core material, which is adjacent to the "fertile field" and needs to be operated by dispatching villagers. \You can harvest tea leaves.
 Wine Steamer
 A workshop that uses special equipments to make strong and fragrant shochu.
-以「金玉承露盘」为心材，建造在「甘泉厅」旁边的扩展建筑，需与「沃野」相临，需派遣村民经营。\n可收获美酒。
+The building is located next to the "Gansen Hall" and is adjacent to the "fertile field" and is operated by the villagers. \The villagers must be dispatched to operate it.
 Forging Room
 Equipped with furnaces,  bellows and anvils.
-可制造、修理、精制金铁器具。\n可提高所属城镇、门派影响范围内的人物在研读「锻造」书籍时的效率。\n规模越大的火炼室，效率提高的越多，但多个火炼室的效果不会叠加。
+You can make, repair, and refine gold and iron tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Forge" books. \nThe larger the size of the fire refining room, the more efficiency is increased, but the effects of multiple fire refining rooms do not stack.
 Blacksmith
 To create and sell a variety of gold and iron appliances to make a living. Small as nail tools,  large as swords and armor,  can be bought in the blacksmith shop.
-建造在「火炼室」旁边的扩展建筑，需派遣村民经营。\n以贩卖金铁器具赚取「银钱」为主。
+This is an extension building built next to the "fire room" and needs to be operated by the villagers. \The main purpose of the building is to sell gold and iron tools to earn "silver money".
 Workshop
 A huge open-air foundry with many blacksmiths and apprentices.
-以「红炉锻打台」为心材，建造在「火炼室」旁边的扩展建筑，需派遣村民经营。\n可发现在「锻造」方面具备卓越资质的人才。
+An extension building is built next to the "Fire Room" with the "Red Furnace Forge" as the core material, and villagers must be dispatched to operate it. \You can find talented people who have excellent skills in "forging".
 Goldshop
 The gold shop is a shop that exchanges gold and silver or trading gold and silver appliances. Due to the value and importance of the gold shop,  only those of high prestige and prestige can host it.
-建造在「火炼室」旁边的扩展建筑，需派遣村民经营。\n以贩卖金铁器具获取「威望」为主。
+This is an extension building built next to the "fire room" and needs to be operated by the villagers. \The main purpose of the building is to sell gold and iron tools to gain "prestige".
 Hydraulic Bellow
 It is installed at the water’s edge,  and uses the water flow to pull the fan to open and close,  and conducts the blasting treatment device. Compared to the manpower blast,  the water drain is more powerful.
-建造在「火炼室」旁边的扩展建筑，需与「水域」相临。\n可提高所属城镇、门派影响范围内的人物在研读「锻造」书籍时「灵光乍现」的几率。
+The expansion building built next to the "Fire Refining Room" must be adjacent to the "Waters". \n increases the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying the "Forge" book.
 Meteor Pit
 The iron meteorite is extremely tough that water and fire can not invade. It requires a lot of efforts to refine it into a device.
-以「天铁犁」为心材，建造在「火炼室」旁边的扩展建筑，需与「陨铁坑」相临。\n可增加所属城镇、门派影响范围内的人物的「锻造」造诣。
+An extension building built next to the "Fire Refining Room" with the "Sky Iron Plow" as the core material, which must be adjacent to the "Meteorite Pit". \It can increase the "forging" attainments of the people within the influence of the town and sect to which it belongs.
 Washing Pond
 First,  collect the ore in the deposit that has been scattered by the wind and rain,  or that has been broken due to the mining process,  and then wash and re-select with water to obtain more goldstone.
-以「浣金砂」为心材，建造在「火炼室」旁边的扩展建筑，需与「石山」相临，需派遣村民经营。\n可收获「锻造」用的金银材料。
+The extension building is built next to the "fire room" using "coarse gold sand" as the core material, and is adjacent to the "stone hill". \You can harvest gold and silver materials for "forging".
 Refinary
 After the gold stone is burned into liquid,  impurities are removed by complex techniques,  then pure gold essence can be extracted.
-以「化火沉金池」为心材，建造在「火炼室」旁边的扩展建筑，需与「石山」相临，需派遣村民经营。\n可收获「锻造」用的铁质材料。
+An extension building is built next to the "Fire Refining Room" with the "Fire Sinking Pond" as the core material, and it must be adjacent to the "Stone Mountain", and villagers must be dispatched to operate it. \You can harvest iron materials for "forging".
 Mystic Water Treatment
 With seven stone well built in the name of seven stars as the Sun,  the Moon,  Venus,  Jupiter,  Mercury,  Mars and Saturn,  and water collected through them,  we can build the most spiritual weapons.
-以「龙王水府」为心材，建造在「火炼室」旁边的扩展建筑。\n可使其相邻的「火炼室」制造出品质更好的金铁器具。
+This is an extension building built next to the "Fire Refining Room" using the "Dragon King's Water House" as the core material. \It will enable the adjacent "Fire Refining Room" to produce better quality gold and iron tools.
 Inferno Furnace
 Built on the fire pool,  it is used to take the smelting iron of underground fire. The temperature in the furnace is extremely high,  that any stone is melted.
-以「神火炉薪」为心材，建造在「火炼室」旁边的扩展建筑，需与「火池」相临。\n可降低制造、修理、精制金铁器具时对「锻造」造诣的要求。
+This is an extension building built next to the "Fire Refining Room" with the "Fire Furnace" as the core material and adjacent to the "Fire Pond". \This building can reduce the requirement of "forging" skill in manufacturing, repairing and refining gold and iron tools.
 Carpenter
 Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all available in the Carpenter.
-可制造、修理、精制木质器具。\n可提高所属城镇、门派影响范围内的人物在研读「制木」书籍时的效率。\n规模越大的木工房，效率提高的越多，但多个木工房的效果不会叠加。
+You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Woodworking" books. \nThe larger the size of the woodworking room, the more the efficiency is increased, but the effects of multiple woodworking rooms do not stack.
 Woodwork
 The woodwork mainly deals in the trade of small items of carpentry,  like tables,  chairs,  utensils,  or lanterns.
-建造在「木工房」旁边的扩展建筑，需派遣村民经营。\n以贩卖木质器具赚取「银钱」为主。
+The extension building built next to the "carpentry house" needs to be operated by dispatching villagers. \The main purpose of the building is to sell wooden tools to earn money.
 The Seven Workshops
 The seven workshops are designed to the needs for seven different Carpentry trades used in public works as recorded in history. Its products include musical instruments,  weapons,  carts or ships.
-以「治木百宝」为心材，建造在「木工房」旁边的扩展建筑，需派遣村民经营。\n可发现在「制木」方面具备卓越资质的人才。
+An extension building is built next to the "Woodworking House" with the "Hakuho Woodworking" as the core material, and villagers must be dispatched to run it. \You can find people with excellent qualifications in "woodworking".
 Construction Team
 The construction team specializes in the construction of buildings,  though they can also help in building roads and bridges.
-建造在「木工房」旁边的扩展建筑，需派遣村民经营。\n以贩卖木质器具获取「威望」为主。
+An extension building built next to the "carpentry house" that requires the dispatch of villagers to operate. \The main purpose of the building is to sell wooden tools to gain "prestige".
 Black Oil Pool
 The Black Oil Pool collects oils and sap from neighbouring swamps for treating wood. Treated wood have more stable properties which makes them easier to be worked on.
-建造在「木工房」旁边的扩展建筑，需与「毒沼」相临。\n可提高所属城镇、门派影响范围内的人物在研读「制木」书籍时「灵光乍现」的几率。
+The expansion building built next to the "Woodworking Room" must be adjacent to the "Poison Swamp". \This building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "woodworking".
 Arboretum
 The Arboretum is a collection of exotic trees of all kinds,  in different shapes. By working on and looking at them,  A woodworker gains insight and advancement in skill.
-以「透色琼脂」为心材，建造在「木工房」旁边的扩展建筑，需与「密林」相临。\n可增加所属城镇、门派影响范围内的人物的「制木」造诣。
+An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". \This building will increase the "woodworking" skill of the people within the influence of the town or sect to which it belongs.
 Logging Camp
 When it comes to felling trees,  nothing beats organized work gangs armed with a full complement of tools at a logging camp.
-以「百人锯」为心材，建造在「木工房」旁边的扩展建筑，需与「树林」相临，需派遣村民经营。\n可收获「制木」用的木质材料。
+An extension building is built next to the "woodworking room" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. \Wooden materials for woodworking can be harvested.
 Forest Farm
 A forest farm regulates tree-felling in its area in order to protect the forest. It also cultivates and nurses trees worthy of protection.
-以「盘山水龙」为心材，建造在「木工房」旁边的扩展建筑，需与「树林」相临，需派遣村民经营。\n可收获「制木」用的藤竹材料。
+An extension building is built next to the "woodworking room" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. \You can harvest rattan and bamboo materials for "woodworking".
 Wood Treatment Klin
 This klin is designed so that it can dry up wood while keeping them cool. Wood treated in it is immune to heat or moisture and can last for a long time.
-以「银骨冷烟煤」为心材，建造在「木工房」旁边的扩展建筑。\n可使其相邻的「木工房」制造出品质更好的木质器具。
+An extension building built next to the "woodworking room" using "silver bone cold bituminous coal" as the core material. \This will enable the adjacent "woodworking room" to produce better quality wooden tools.
 Sacred Woods
 This is a diagram created by morphing the roots of sacred trees. As long as it grows from the ground,  when put inside the diagram,  all its properties will be magnified for all to be seen.
-以「神木根」为心材，建造在「木工房」旁边的扩展建筑，需与「孤峰」相临。\n可降低制造、修理、精制木质器具时对「制木」造诣的要求。
+The extension building is built next to the "woodworking room" with "sacred wood roots" as the core material, and must be adjacent to the "lonely peak". \This building will reduce the requirement for "woodworking" skills in the manufacture, repair and refinement of wooden instruments.
 Herbal Room
 Various medicinal materials are prepared by rolling,  frying,  concentrating,  etc.,  and are made into healing cream,  potions and pills.
-可制造丹药。\n可提高所属城镇、门派影响范围内的人物在研读「医术」书籍时的效率。\n规模越大的药房，效率提高的越多，但多个药房的效果不会叠加。
+Can make elixirs. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying books on "medical arts". \nThe larger the size of the dispensary, the more the efficiency is increased, but the effects of multiple dispensaries do not stack.
 Pharmacy
 Shops that prepare and sell medicine depending on prescriptions. In addition,  there are doctors in the old drugstores who can conduct on-site medical treatment,  massage,  needle application,  etc. It is a comprehensive medical house.
-建造在「药房」旁边的扩展建筑，需派遣村民经营。\n以贩卖丹药赚取「银钱」为主。
+This is an extension building built next to the "pharmacy" and needs to be operated by the villagers. \The main purpose of the building is to earn "silver money" by selling potions.
 Herbalist Hall
 A hall for experimenting and developing new drugs. It has dozens of apprentices and is also a place where prestigious physicians conduct consultations and discuss Medicine.
-以「红木药柜」为心材，建造在「药房」旁边的扩展建筑，需派遣村民经营。\n可发现在「医术」方面具备卓越资质的人才。
+An extension building is built next to the "pharmacy" with the "mahogany medicine cabinet" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent qualifications in the field of "medicine".
 Welfare Hospital
 The Welfare Hospital is a place to receive and relieve those who are poor and sick. Not only does it give away medicines,  but it also has a ward kitchen and provides simple accommodation.
-建造在「药房」旁边的扩展建筑，需派遣村民经营。\n以贩卖丹药获取「威望」为主。
+This is an extension building built next to the "pharmacy" and needs to be operated by sending villagers. \The main purpose of the building is to sell pills to gain "prestige".
 Animal Hospital
 A hospital that treats livestock and wildlife. Although veterinary halls are inconspicuous,  medical treatments are sometimes connected to human treatments,  and many brilliant medicines have experienced the process of birth and  verification here,  then played their part onto patients.
-建造在「药房」旁边的扩展建筑，需与「兽群」相临。\n可提高所属城镇、门派影响范围内的人物在研读「医术」书籍时「灵光乍现」的几率。
+An expansion building built next to the "Pharmacy", which needs to be adjacent to the "Beast". \It increases the chance that people within the influence of the town or sect to which it belongs will have a "flash of light" when studying books on "healing".
 Frozen Coffin
 Patient samples are especially important when studying Medicine. However,  human flesh is easy to break after dead,  so the Frozen Coffin is built to preserve the remains of the deceased,  which can be used for years without rot.
-以「寒玉冰棺」为心材，建造在「药房」旁边的扩展建筑，需与「玄冰」相临。\n可增加所属城镇、门派影响范围内的人物的「医术」造诣。
+Using "Cold Jade Ice Coffin" as the heart material, the extension building built next to "Pharmacy" needs to be adjacent to "Xuan Bing". \It can increase the "medical" attainments of the people within the influence of the town and sect to which it belongs.
 Herbal Garden
 A herbal plantation that is modeled after the living environment of wild herbs. The composition of the garden is very particular,  and it is necessary to plan depending on the “yin and yang,  cold and heat,  and five flavors” of the herbs.. 
-以「四时定光珠」为心材，建造在「药房」旁边的扩展建筑，需与「草药」相临，需派遣村民经营。\n可收获「医术」用的阳性药材。
+An extension building is built next to the "Pharmacy" with "Shikotsuki Tinggi beads" as the core material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \You can harvest Yang herbs for "healing".
 Cultivation Room
 The rarest herbs often associated with specific things. The so-called “medicine cultivation” is to raise those rare herbs with special items to achieve the purpose of cultivation and reproduction.
-以「通元百窍石」为心材，建造在「药房」旁边的扩展建筑，需与「草药」相临，需派遣村民经营。\n可收获「医术」用的阴性药材。
+An extension building is built next to the "Pharmacy" with "Tong Yuan Bai Qiao Stone" as the heart material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \It is necessary to dispatch villagers to operate it. You can harvest Yin herbs for "healing".
 Intellegent Cauldron
 A cauldron that can change the heating power to fit the nature of the medical materials. Let it boil the medical soup,  the heat can be just accurate.
-以「水火无烟炭」为心材，建造在「药房」旁边的扩展建筑。\n可使其相邻的「药房」制造出品质更好的丹药。
+An extension building is built next to the "Pharmacy" with "Water and Fire Smokeless Charcoal" as the core material. \This building will enable the "Pharmacy" adjacent to it to produce better quality pills.
 Shennong Ravine
 The Shennong Ravine is the most spiritual place in the world,  no matter what kind of vegetation,  after transplanted to Shennong Ravine,  it may or may not grow,  it will never die either.
-以「神农血」为心材，建造在「药房」旁边的扩展建筑，需与「长春涧」相临。\n可降低制造丹药时对「医术」造诣的要求。
+Using "Shennong's blood" as the heart material, an extension building is built next to the "Pharmacy", which needs to be adjacent to the "Everlasting Spring Stream". \n can reduce the requirement of "medical skill" when making potions.
 Cellar
 The cellar was built in the deep and cold underground. There are utensils for the preparation of poisons in the room,  which also breeds highly venomous snakes and plants.
-可制造毒药、给道具淬毒。\n可提高所属城镇、门派影响范围内的人物在研读「毒术」书籍时的效率。\n规模越大的幽室，效率提高的越多，但多个幽室的效果不会叠加。
+You can make poisons and quench poisons for props. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "poison" books. \The larger the size of the chamber, the greater the increase in efficiency, but the effects of multiple chambers do not stack.
 Poison Market
 The poison market sells common poisons such as arsenic which kills rats and has detailed sales records. However,  ordinary people do not know,  here also secretly sells other terrible poisons that hurt people.
-建造在「幽室」旁边的扩展建筑，需派遣村民经营。\n以贩卖毒药赚取「银钱」为主。
+This is an extension building built next to the "Yakuza" and needs to be operated by the villagers. \The main purpose of the building is to sell poisons to earn money.
 Oubliette
 A dungeon where sinners are imprisoned and tortured. The existence of dark prison is well known,  not a secret. The treacherous and wicked people often come here after the incident.
-以「刑戮架」为心材，建造在「幽室」旁边的扩展建筑，需派遣村民经营。\n可发现在「毒术」方面具备卓越资质的人才。
+This is an extension building built next to the "Chamber of Secrets" using the "Killing Frame" as the core material, which requires the dispatch of villagers to operate. \You can find people with excellent qualifications in the field of "poison".
 Mad Medic
 Mad Medics are different,  non-conventional,  and even less respected by the world. These secret doctors are happy with the most difficult diseases,  but not with saving lives.
-建造在「幽室」旁边的扩展建筑，需派遣村民经营。\n以贩卖毒药获取「威望」为主。
+This is an extension building built next to the "Pantheon", which requires the dispatch of villagers to operate. \The main purpose of the building is to sell poisons to gain "prestige".
 Animal Testing
 Secretly supporting livestock and beasts. Whenever a poisoner needs to test the toxicity of the poison,  hundreds of lives are cruelly killed here.
-建造在「幽室」旁边的扩展建筑，需与「兽群」相临。\n可提高所属城镇、门派影响范围内的人物在研读「毒术」书籍时「灵光乍现」的几率。
+The expansion building built next to the "Phantom Room" needs to be adjacent to the "Beast Herd". \n can increase the chance that characters within the influence of the town or sect they belong to will have a "flash of light" when studying "poison" books.
 Enclosed Chamber
 The process of poison refining is complicated and takes a long time. It is very easy for others to be injured by the poisonous gas mist produced in the process of refining,  and thus more troubles,  so this building is always hidden from the public.
-以「避人香」为心材，建造在「幽室」旁边的扩展建筑，需与「密林」相临。\n可增加所属城镇、门派影响范围内的人物的「毒术」造诣。
+An extension building built next to the "Secret Room" with "Incense of Avoidance" as the heart material, which must be adjacent to the "Secret Forest". \It can increase the "poison" skill of the people within the influence of the town and sect to which it belongs.
 Miasma Pool
 Condensing and refining poison from toxic pool. In addition to providing poisonous water for refining,  the miasma pool can also be used to breed flowers and insects that are susceptible to toxic infections.
-以「吞鬼化瘴炉」为心材，建造在「幽室」旁边的扩展建筑，需与「毒沼」相临，需派遣村民经营。\n可收获「毒术」用的阳性毒物。
+This is an extension building built next to the "Ghostly Miasma Furnace" and is adjacent to the "Poison Swamp". \You can harvest positive poisons for "poison magic".
 Infected Zone
 The ruins that people infected by plague live,  also the most ideal place for the toxic items to grow. The abandoned caves are dark,  and the bones are snarling,  stinking,  just like a hell on earth.
-以「饲人笼」为心材，建造在「幽室」旁边的扩展建筑，需与「毒沼」相临，需派遣村民经营。\n可收获「毒术」用的阴性毒物。
+It is built next to the "poison swamp" with the "human feeding cage" as the core material, and the villagers must be dispatched to operate it. \It is necessary to send villagers to operate it. You can harvest the poisonous poison for "poison magic".
 Blood Pool
 The blood pool is a scary stone pool filled with the blood of many animals and living human beings. Common toxic substances are often digested by blood pool and immediately become rare poisons.
-以「化血石」为心材，建造在「幽室」旁边的扩展建筑。\n可使其相邻的「幽室」制造出品质更好的毒药。
+This is an extension building built next to the "Pantheon Room" using "Bloodstone" as the core material. \This building will enable the adjacent room to produce better quality poisons.
 Dragon Spine
 A tall wooden column made of fragrant wood mixed with poison. The column core is hollow,  in which the mysterious dragon spine is burned,  and any poisonous snake that touches it will be tamed.
-以「奇香神龙木」为心材，建造在「幽室」旁边的扩展建筑，需与「玄蛇窟」相临。\n可降低制造毒药时对「毒术」造诣的要求。
+This is an extension of the "Mystery Room", which is built next to the "Cave of the Serpent", using the "Wonderful Scented Dragon Wood" as the core material. \This building can lower the requirement of "poison" skill when making poisons.
 Weaving Room
 The Weaving Room is small in size but has exquisite gardens and elegant furnishings. It is where the workers do the weavings,  stitchworks,  and designing.
-可制造、修理、精制织锦制品。\n可提高所属城镇、门派影响范围内的人物在研读「织锦」书籍时的效率。\n规模越大的绣楼，效率提高的越多，但多个绣楼的效果不会叠加。
+You can manufacture, repair, and refine brocade products. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "brocade weaving" books. \nThe larger the size of the embroidery house, the more the efficiency is increased, but the effect of multiple embroidery houses does not stack.
 Fabric Store
 In addition to selling finished fabrics and satin,  a Fabric Store also tailors,  sews and repairs all kinds of large and small textiles.
-建造在「绣楼」旁边的扩展建筑，需派遣村民经营。\n以贩卖织锦制品赚取「银钱」为主。
+This is an extension building built next to the "Embroidery House" and needs to be operated by the villagers. \The main purpose of the building is to sell brocade products to earn money.
 Fabric Workshop
 Fabric Workshop is divided into two areas of weaving and dyeing. There are 12 weavers in the Weaving area,  responsible for the textile and fur fabrics; there are 26 dyeing workers in the dyeing area,  responsible for bleaching or dyeing the fabric.
-以「织机染料」为心材，建造在「绣楼」旁边的扩展建筑，需派遣村民经营。\n可发现在「织锦」方面具备卓越资质的人才。
+An extension building is built next to the "Embroidery House" with "Loom Dye" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent qualifications in "brocade weaving".
 Fabric Exhibition
 A gorgeous loft with beautiful fabrics and brocades. At that time,  regardless of the rich or the poor,  the most attractive talent of woman is embroidery work. So the Fabric Exhibition often turned into a matchmaker for the talented women to meet their men.
-建造在「绣楼」旁边的扩展建筑，需派遣村民经营。\n以贩卖织锦制品获取「威望」为主。
+This is an extension building built next to the "Embroidery House" and needs to be operated by the villagers. \The main purpose of the building is to sell brocade products to gain "prestige".
 Stitchwork Room
 A place to decorate the splendid fabrics,  also called the Star Pavilion. The so-called “star” refers to the gems inlaid on the fabric. The decorated fabric is brilliant as if it’s covered by starlights.
-建造在「绣楼」旁边的扩展建筑，需与「宝石」相临。\n可提高所属城镇、门派影响范围内的人物在研读「织锦」书籍时「灵光乍现」的几率。
+The expansion building built next to the "Embroidery House" needs to be adjacent to the "Jewel". \n can increase the chance that characters within the influence of the town or sect to which it belongs will have a "flash of light" when studying "brocade" books.
 Snakebone Loom
 The snakebone loom has a incomparably clever structure,  and the efficiency is much higher than the ordinary machine. The mysterious snake bone is extremely tough,  and it can complete the Weaving technique that the ordinary machine can never complete.
-以「玄蛇细骨」为心材，建造在「绣楼」旁边的扩展建筑，需与「玄蛇窟」相临。\n可增加所属城镇、门派影响范围内的人物的「织锦」造诣。
+An extension building built next to the "Embroidery House" using "Gentoo Fine Bones" as the core material, which must be adjacent to the "Gentoo Cave". \This building can increase the "brocade" skill of the people in the area of the town and sect to which it belongs.
 Flowers Fall
 The Flowers Fall is a high and low artificial waterfall filled with pool water soaked with flowers. The waste fur thread washed in it immediately become fresh and beautiful.
-以「百花种子」为心材，建造在「绣楼」旁边的扩展建筑，需与「花谷」相临，需派遣村民经营。\n可收获「织锦」用的植物织物。
+An extension building is built next to the "Embroidery House" with "Hundred Flowers Seeds" as the core material, which is adjacent to the "Flower Valley" and needs to be operated by the villagers. \You can harvest plant fabrics for "brocade weaving".
 Fabric Park
 A natural garden surrounded by beautiful landscapes. In the garden,  a variety of famous flowers and worms are cultivated,  that rare fabrics can be made here. Various kinds of are and exotic animals are bred,  so that their precious fur can be taken.
-以「奇珍胎卵」为心材，建造在「绣楼」旁边的扩展建筑，需与「花谷」相临，需派遣村民经营。\n可收获「织锦」用的毛皮织物。
+An extension building is built next to the "Embroidery House" with "Exotic Fetal Eggs" as the core material, and it is adjacent to the "Flower Valley", and villagers must be dispatched to run it. \You can harvest fur fabric for "brocade weaving".
 KongSang Sect Field
 In the KongSang Sect field,  there are rare silkworms that can spit out colored silk. The color of the silk is mild and the touch is soft. If any fabric can be mixed with this kind of silk,  it will be radiant immediately.
-以「十二色彩蚕」为心材，建造在「绣楼」旁边的扩展建筑。\n可使其相邻的「绣楼」制造出品质更好的织锦制品。
+The extension building next to the "Embroidery Building" is built with "12-color silkworms" as the core material. \This will enable the adjacent "Embroidery Building" to produce better quality brocade products.
 Automatic Shuttle
 Made of fragrant grass and spar,  this kind of shuttle is magnetic to fabric,  so it can connect threads and transform them into fabric. Extremely amazing.
-以「神彩晶磁」为心材，建造在「绣楼」旁边的扩展建筑，需与「奇香原」相临。\n可降低制造、修理、精制织锦产物时对「织锦」造诣的要求。
+An extension building is built next to the "Embroidery Building" with "Divine Color Crystal Magnet" as the core material, and it needs to be adjacent to the "Chika Plain". \This building can reduce the requirement of "brocade" attainment when manufacturing, repairing and refining brocade products.
 Gemcutting
 A room filled with gems and jade,  full of complicated tools. Gemcutting processing is extremely sophisticated and requires a lot of elaborate tools.
-可制造、修理、精制玉石制品。\n可提高所属城镇、门派影响范围内的人物在研读「巧匠」书籍时的效率。\n规模越大的巧匠屋，效率提高的越多，但多个巧匠屋的效果不会叠加。
+You can manufacture, repair, and refine jade products. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Crafty Craftsmanship" books. \The larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
 Jewelry Shop
 Jewelry shop buys and sells a variety of valuable jewellery and jade objects,  and often repairs and recreates various damaged treasures too.
-建造在「巧匠屋」旁边的扩展建筑，需派遣村民经营。\n以贩卖玉石制品赚取「银钱」为主。
+This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \The main purpose of the building is to sell jade products to earn "silver money".
 Raw Gem Pile
 Raw Gem Pile is built in the open air and stores a large amount of stones. The stonemasons can select the required stone for a small amount of money. Therefore,  the skilled craftsmen are often able to make profits,  fame and fortune from it.
-以「三山毛石」为心材，建造在「巧匠屋」旁边的扩展建筑，需派遣村民经营。\n可发现在「巧匠」方面具备卓越资质的人才。
+An extension building is built next to the "Artisan House" using "Sanzan Mawashi" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent skills in "craftsmanship".
 Curios Shop
 There are many antique treasures in the shop. For most of the time only “treasure for treasure” exchanges are accepted here.
-建造在「巧匠屋」旁边的扩展建筑，需派遣村民经营。\n以贩卖玉石制品获取「威望」为主。
+This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \The main purpose of the building is to sell jade products to gain "prestige".
 Engraver
 Rubbing precious stones and jade with tools of various hardness tools. It can help craftsmen to better understand properties of the gems.
-建造在「巧匠屋」旁边的扩展建筑，需与「石山」相临。\n可提高所属城镇、门派影响范围内的人物在研读「巧匠」书籍时「灵光乍现」的几率。
+The expansion building built next to the "Crafty House" must be adjacent to the "Stone Mountain". \This building will increase the chance of people within the influence of your town or sect to have a "flash of light" when studying the "Craftsman" book.
 Blood Mirror
 The Blood Mirror is made of precious red stone spar,  built on the fire pool. When the mirror shines red light,  you can see the inside of gems and see the pros and cons of them.
-以「火池红晶」为心材，建造在「巧匠屋」旁边的扩展建筑，需与「火池」相临。\n可增加所属城镇、门派影响范围内的人物的「巧匠」造诣。
+An extension building is built next to the "Craft House" with "Fire Pond Red Crystal" as the core material, and must be adjacent to the "Fire Pond". \This building will increase the skill of "Craftsmanship" of the people within the influence of the town or sect to which it belongs.
 The Jewel Field
 It is filled with special mud and sand. The small stone embryos are buried in the field. After dozens of days,  the stone clothes will peel off,  showing the sparkling gems inside.
-以「浣宝砂」为心材，建造在「巧匠屋」旁边的扩展建筑，需与「宝石」相临，需派遣村民经营。\n可收获「巧匠」用的玉质材料。
+An extension building is built next to the "Craftsman's House" with "Rumbo Sand" as the core material, which is adjacent to the "Jewel" and requires the dispatch of villagers to operate. \You can harvest jade materials for "artisan".
 Diamond Cutting Table
-以金刚石所制成的解石台，也称金刚锯。金刚锯的硬度极高，可以用来切割任何刀枪不入，水火不侵的顽石。
-以「金刚锯」为心材，建造在「巧匠屋」旁边的扩展建筑，需与「宝石」相临，需派遣村民经营。\n可收获「巧匠」用的石质材料。
+A stone solving table made of diamond, also known as a diamond saw. The diamond saw is so hard that it can be used to cut any stubborn stone that is invulnerable to swords, fire and water.
+An extension building is built next to the "Craftsman's House" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. \You can harvest stone materials for the "Craftsman".
 Workbench
 A workbench designed by famous craftsmen,  and its structure and function are extremely ingenious. It can be used to refine and process the gemstones that are small like mosquitoes and flies.
-以「玲珑八宝」为心材，建造在「巧匠屋」旁边的扩展建筑。\n可使其相邻的「巧匠屋」制造出品质更好的玉石制品。
+An extension building is built next to the "Artisan House" using the "Lingering Eight Treasures" as the core material. \It will enable the adjacent "Craft House" to produce better quality jade products.
 God’s Light Wall
 The wall is six feet high and are made of millenium spar taken from the earth’s veins. It is also called “The Mother of Jade“. It is a treasure that can trigger the spirituality of gems.
-以「千年玉母」为心材，建造在「巧匠屋」旁边的扩展建筑，需与「灵脉」相临。\n可降低制造、修理、精制玉石制品时对「巧匠」造诣的要求。
+This is an extension building built next to the "Craft House" with "Millennium Jade Mother" as the core material, and it must be adjacent to the "Spirit Vein". \This building will reduce the requirement for "skillful craftsmanship" in the manufacture, repair and refinement of jade products.
 Cloud Room
 The Cloud Room is quiet and tidy,  with the fragrance of sandalwood lingering inside. It is the room where the monks live. The furnishings in the room are very simple,  the bookshelf desk,  the simple bed and the old incense burner are all we have here.
-可提高所属城镇、门派影响范围内的人物在研读「道法」书籍时的效率。\n规模越大的云房，效率提高的越多，但多个云房的效果不会叠加。
+It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Daoist" books. The larger the size of the \n cloud room, the more the efficiency will be increased, but the effect of multiple cloud rooms will not stack.
 Taoist Rites
 There are two areas of “yang” and “yin” in the place where Taoism prays for blessings. The Yang area is used for dispelling disasters,  exorcising evil spirits and praying for the world peace；  while the Yin area is used for exceeding the soul of the dead,  unraveling hatred between people and offering sacrifices to the ancestors.
-建造在「云房」旁边的扩展建筑，需派遣村民经营。\n以祈福法事接受供奉为主。
+The extension building built next to the "Cloud Room" is to be operated by dispatching villagers. \nThe main purpose of the building is to receive offerings for the blessing puja.
 Taoist Temple
 The Taoist temple is a quiet and natural place to cultivate Taoist priests.
-以「香火碑记」为心材，建造在「云房」旁边的扩展建筑，需派遣村民经营。\n可发现在「道法」方面具备卓越资质的人才。
+Using the "Incense Tablet" as the core material, you can build an extension building next to the "Cloud Room" and send villagers to run it. \You can find talented people with excellent qualifications in "Taoism".
 Sanqing Temple
 Sanqing Temple is a palace dedicated to the “Sanqing ancestor“: Yuqing Origin Primus,  Shangqing Treasure Primus and Taiqing Moral Primus. The structure of the Sanqing Temple is complex but orderly,  solemn and simple. Patterns of the classical Taoist treasures are painted on the top of the temple; the pillars are engraved with gems,  Taiji patterns and patterns of treasure fans.
-建造在「云房」旁边的扩展建筑，需派遣村民经营。\n以供人参拜获取「威望」为主。
+The extension building built next to the "Cloud Room" is to be operated by sending villagers. \The main purpose of the building is to gain "prestige" by paying homage to the villagers.
 Inedia Cliff
 A small settlement that was built on the cliff.  “Do not eat grains,  just suck the wind and drink the dew; take the cloud and dragons as your vehicles,  and travel around the world.“
-以「先师道藏」为心材，建造在「云房」旁边的扩展建筑，需与「孤峰」相临。\n可提高所属城镇、门派影响范围内的人物在研读「道法」书籍时「灵光乍现」的几率。
+An extension building built next to the "Cloud Room" with the "Dao Collection of the Master" as the core material, which must be adjacent to the "Lone Peak". \This building will increase the chance of people within the influence of your town or sect to have a "flash of light" when studying the "Dao" books.
 Chaoyuan Cave
 The treasure land that is conducive to the Taoist tainings. It symbolizes the highest realm of Taoist cultivation process.
-以「仙山云气」为心材，建造在「云房」旁边的扩展建筑，需与「风水龙穴」相临。\n可增加所属城镇、门派影响范围内的人物的「道法」造诣。
+The extension building built next to the "Cloud Room" with "Immortal Mountain Cloud Qi" as the core material needs to be adjacent to the "Feng Shui Dragon Point". \It increases the "Daoist" attainments of the people within the influence of the town or sect to which it belongs.
 Alchemy Room
 A room in which the so called “elixir of life” is made. It is the place to practice Taoist pills making.
-以「紫金炼丹炉」为心材，建造在「云房」旁边的扩展建筑。\n可为所属城镇、门派影响范围内的人物恢复寿元至丹房的规模等级。
+The "Purple Gold Alchemy Furnace" is used as the core material to build an extension building next to the "Cloud Room". \n can restore the longevity to the scale level of the dan room for the characters within the influence of the town and sect to which it belongs.
 Zen Room
 A living room for meditation practicing. The Zen Room is built between the grass and the trees. Quite small in size.
-可提高所属城镇、门派影响范围内的人物在研读「佛学」书籍时的效率。\n规模越大的禅房，效率提高的越多，但多个禅房的效果不会叠加。
+It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Buddhist Studies" books. \The larger the size of the meditation room, the greater the increase in efficiency, but the effects of multiple meditation rooms do not stack.
 Monastery
 The temple accepts the donation of the believers and will also help the needy. The giving of the monks to the world is not limited to property. For example,  depending on the myth,  Sakyamuni cut his own flesh to feed the eagle,  which was starving and chacing after a pigeon,  to prevent them both from death. The “giving” is the most important way of Buddhist cultivation.
-建造在「禅房」旁边的扩展建筑，需派遣村民经营。\n以祈福法事接受布施为主。
+The extension building built next to the "Zen room" is to be operated by dispatching villagers. \nThe main purpose of the building is to receive alms by praying for blessings and pujas.
 Buddhist Tower
 The seven-storey wooden tower that enshrines the “relic“. The constructing of Buddhist Tower is a supreme merit,  so is cleaning the tower. It is an important practice for Buddhist disciples to cleanse their souls and facilitate others.
-以「高僧舍利」为心材，建造在「禅房」旁边的扩展建筑，需派遣村民经营。\n可发现在「佛学」方面具备卓越资质的人才。
+An extension building is built next to the "meditation room" with the "relics of senior monks" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent qualifications in "Buddhism".
 Dhammasala
 Dhammasala is the lecture hall for monks. It also plays the role as an important library of Buddhism.
-建造在「禅房」旁边的扩展建筑，需派遣村民经营。\n以演说佛法获取「威望」为主。
+This is an extension building built next to the "meditation room" and needs to be operated by the villagers. \The main purpose of the building is to gain "prestige" by giving lectures on Buddhism.
 Peace Cave
 Buddhist doctors pay attention to “healing the heart.” They use decoction and medicine to calm people and eliminate their sense of misunderstanding; they also enlighten people with the “five methods” - uncleanness view,  mercy,  karma,  buddhism,  and counting.
-以「治心佛药」为心材，建造在「禅房」旁边的扩展建筑，需与「草药」相临。\n可提高所属城镇、门派影响范围内的人物在研读「佛学」书籍时「灵光乍现」的几率。
+An extension building built next to the "Meditation Room" with "Healing Buddha Medicine" as the heart material, which must be adjacent to the "Herbs". \This building will increase the chance of people within the influence of your town or sect to be able to read books on Buddhism.
 Vicissitude Stage
 The Vicissitude Stage was built between two trees,  and it was the place where the monks sit in meditation. The  scenery tells the view as “let it live,  and let it die“. It is extremely high level of Buddhism that one can look at everything in the world with a normal heart.
-以「枯荣双树」为心材，建造在「禅房」旁边的扩展建筑，需与「太始林」相临。\n可增加所属城镇、门派影响范围内的人物的「佛学」造诣。
+An extension building built next to the "Meditation Room" using the "Double Tree of Withering" as the heart material, which must be adjacent to the "Forest of Taishiki". \It can increase the "Buddhist" attainments of the people within the influence of the town or sect to which it belongs.
 Buddhist Library
 Belivers are copying and studying the scriptures and chanting in this small building. Any beliver can enter and and borrow the books at will. Therefore,  although the library is not as solemn as Dhammasala,  it is even more prominent in terms of spreading Buddhist spirits.
-以「三十五部真经」为心材，建造在「禅房」旁边的扩展建筑。\n可减少所有研读策略的悟性消耗。
+An extension building built next to the "Zen Room" using the "Thirty-Five True Sutras" as the core material. \n can reduce the consumption of enlightenment for all study strategies.
 Kitchen
 The upper floor of the Kitchen is for cooking while the lower floor is for temporary storage of ingredients.
-可制造菜肴。\n可提高所属城镇、门派影响范围内的人物在研读「厨艺」书籍时的效率。\n规模越大的食窖，效率提高的越多，但多个食窖的效果不会叠加。
+You can make dishes. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "cookery" books. \nThe larger the size of the food cellar, the more the efficiency is increased, but the effect of multiple food cellars does not stack.
 Restaurant
 The restaurant has two floors and a gorgeous gatehouse.  The first floor is occupied with scattered seats while the second floor provides a few chic small compartments.
-建造在「食窖」旁边的扩展建筑，需派遣村民经营。\n以贩卖菜肴赚取「银钱」为主。
+This is an extension building built next to the "food cellar" and needs to be operated by the villagers. \The main purpose of the building is to sell food to earn money.
 Folk Banquet
 Hosted by prestigious people,  a large-scale folk open-air banquet. Hundreds of chefs come and cook for countless people that sit around thousands of tables.
-以「百千碗盏」为心材，建造在「食窖」旁边的扩展建筑，需派遣村民经营。\n可发现在「厨艺」方面具备卓越资质的人才。
+An extension building is built next to the "Food Cellar" with "Hundred Thousand Bowls" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent qualifications in the field of "cooking".
 Cookery Contest
 The Cookery Contest is a meeting place where famous chefs from all over the world discuss cooking and appreciating dishes.
-建造在「食窖」旁边的扩展建筑，需派遣村民经营。\n以评比菜肴获取「威望」为主。
+This is an extension building built next to the "Food Cellar" and needs to be operated by the villagers. \The main purpose of the building is to gain "prestige" by evaluating dishes.
 Feeding Farm
 A farm that raises rare livestocks or wild animals for food material. The size of the farm is very large,  with hundreds of houses in it. There are sika deers,  jade face foxes,  black bears,  apes,  tigers,  leopards,  elephants,  camels and so on.
-建造在「食窖」旁边的扩展建筑，需与「兽群」相临。\n可提高所属城镇、门派影响范围内的人物在研读「厨艺」书籍时「灵光乍现」的几率。
+The expansion building built next to the "Food Cellar" needs to be adjacent to the "Beast Herd". \n can increase the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying "cookery" books.
 King Cauldron
 Made of a mixture of cooked copper and meteoric iron. This black cauldron has a bottom of thermal conductivity but also has body that is steadily cold,  so it requires extremely high cooking skills for the chiefs to cook with it.
-以「天铁玄鼎」为心材，建造在「食窖」旁边的扩展建筑，需与「陨铁坑」相临。\n可增加所属城镇、门派影响范围内的人物的「厨艺」造诣。
+An extension building built next to the "Food Cellar" with "Heavenly Iron Xuan Ding" as the core material, which must be adjacent to the "Meteorite Pit". \It can increase the "cooking" skill of the people within the influence of the town and sect to which it belongs.
 Seasons Park
 The Seasons Park has very peculiar structure. depending on the habits of the four seasons,  There are four layers of aerial gardens built in high and low levels depending on habits of the vegetables. No matter the winter of summer,  the garden is green like spring.
-以「四季流风」为心材，建造在「食窖」旁边的扩展建筑，需与「沃野」相临，需派遣村民经营。\n可收获「烹饪」用的素食、动物食材。
+The building is built next to the "Food Cellar" with "Four Seasons Wind" as the core material, and is adjacent to the "Fertile Field". \Vegetarian and animal ingredients for "cooking" can be harvested.
 Natural Village
 This village is built in ingenious structure and well planned,  that it actually forms a perfect ecosphere that provides all kinds of natural materials.
-以「天成化雨」为心材，建造在「食窖」旁边的扩展建筑，需与「沃野」相临，需派遣村民经营。\n可收获「烹饪」用的水产、禽类食材。
+The extension building is built next to the "Food Cellar" with "Tiancheng Huayu" as the core material, and it is adjacent to the "Fertile Field" and needs to be operated by the villagers. \You can harvest fish and poultry ingredients for "cooking".
 Spices Pavilion
 It is used to collect and cultivate various kinds of spices,  such as: licorice,  musk,  onion,  ginger,  pepper,  cinnamon and so on. Most of the spices need to be introduced from outside the domain,  such as: anise,  parsley,  pepper,  hematoxyl,  etc..
-以「双耳万国壶」为心材，建造在「食窖」旁边的扩展建筑。\n可使其相邻的「食窖」制造出品质更好的菜肴。
+This is an extension building built next to the "Food Cellar" using the "Amphibious Universal Pot" as the core material. \This will enable the adjacent "Food Cellar" to produce better quality dishes.
 Dragon Palace
 An igloo built entirely of ice bricks for storing foods that are extremely precious and prone to deterioration. Because it is like the Crystal Palace of the Dragon King,  it is called “Dragon Palace“.
-以「水晶冰砖」为心材，建造在「食窖」旁边的扩展建筑，需与「玄冰」相临。\n可降低制造菜肴时对「厨艺」造诣的要求。
+This is an extension building built next to the "food cellar" using "crystal ice bricks" as the core material, which must be adjacent to the "basalt ice". \This building will reduce the requirement of "cooking" skill when making dishes.
 Long Street
 Wide street full of shops. Long Street is located in the main road of transportation,  bringing together a large number of people from all walks of life.
-可提高所属城镇、门派影响范围内的人物在研读「杂学」书籍时的效率。\n规模越大的长街，效率提高的越多，但多个长街的效果不会叠加。
+It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Miscellaneous" books. The larger the \n scale of the long street, the more the efficiency will be increased, but the effect of multiple long streets will not stack.
 Fair
 The Fair is a place where merchants and sellers gather and sell all kinds of goods. In certain seasons,  special markets will be set up to sell seasonal goods.
-建造在「长街」旁边的扩展建筑，需派遣村民经营。\n以贩卖杂货赚取「银钱」为主。
+The extension building is built next to the "Long Street" and needs to be operated by the villagers. \The main purpose of the building is to sell groceries to earn "silver money".
 Wager Shop
 A place for the gambling games. There are various games as well as cock fighting,  dog racing,  thrush fighting  and Cricket fighting. The gambling money is huge,  so the bodyguards can be as many as a hundred people.
-建造在「长街」旁边的扩展建筑，需派遣村民经营。\n以开局设赌赚取「银钱」为主。
+The extension building is built next to the "Long Street" and needs to be operated by the villagers. \The main purpose is to earn money from gambling.
 Brothel
 The brothel mainly takes rich and famous men as patrons. Despite named as such,  most ladies their are employed there for their musical and artistic skills rather than their bodies.
-建造在「长街」旁边的扩展建筑，需派遣村民经营。\n以声色娱人赚取「银钱」为主。
+The extension building is built next to the "Long Street" and needs to be operated by the villagers. \The main purpose of the building is to earn "money" by entertaining people with sex.
 Floating Brothel
 The floating brothel is like a palace above the water,  very gorgeous that the non-celebrities can’t even board the ship. Celebrities enjoy the most elegent dances,  singings and ladies here.
-以「金装玉饰」为心材，建造在「长街」旁边的扩展建筑，需与「水域」相临，需派遣村民经营。\n可发现魅力较高的人物。
+An extension building is built next to the "Long Street" with "gold decorations" as the core material, which must be adjacent to the "Water" and must be operated by dispatching villagers. \You can find people with high charisma.
 Goulan Washe
 It is a place for civilians to entertain. There are storytelling,  artisans,  juggling and operas in the field,  which are very varied and lively.
-以「戏班行头」为心材，建造在「长街」旁边的扩展建筑，需派遣村民经营。\n可发现在「杂学」方面具备卓越资质的人才。
+An extension building is built next to the "Long Street" with the "troupe line" as the core material, and villagers must be dispatched to run it. \You can find talented people with excellent qualifications in "miscellaneous studies".
 Garden Park
 An ornamental garden for guests to enjoy. In the garden,  the landscape is picturesque,  and the plantings of grass and trees are carefully designed.
-建造在「长街」旁边的扩展建筑，需派遣村民经营。\n以供人游玩获取「威望」为主。
+The extension building built next to "Long Street" needs to be operated by dispatching villagers. \The main purpose of the building is to gain "prestige" for people to play.
 Mega Park
 Designed by the famous designers,  it is built in a large area with beautiful scenery. The Mega Park is like a small town with green mountains and rivers,  streets,  bridges,  pavilions and all.
-以「名园山水」为心材，建造在「长街」旁边的扩展建筑，需与「花谷」相临。\n可提高所属城镇、门派影响范围内的人物在研读「杂学」书籍时「灵光乍现」的几率。
+An extension building built next to "Long Street" with "Famous Garden and Landscape" as the core material, which must be adjacent to "Flower Valley". \This building will increase the chance of people within the influence of the town or sect to read books on "miscellaneous studies".
 Occult Field
 This field is full of strange flowers and stones,  and it is amazingly crafted everywhere.
-以「奇花异石」为心材，建造在「长街」旁边的扩展建筑，需与「长春涧」相临。\n可增加所属城镇、门派影响范围内的人物的「杂学」造诣。
+An extension building built next to "Long Street" with "exotic flowers and stones" as the core material needs to be adjacent to "Evergreen Stream". \The building will increase the attainment of "miscellaneous studies" of the people within the influence of the town and sect to which it belongs.
 Pawnshop
 A pawnshop is a place for people to trade in tools,  lands,  livestock or even servants as collateral for loans. Failure to repay the on times means forfeiture of the collateral.
-建造在「长街」旁边的扩展建筑，需派遣村民经营。\n可用「银钱」换取杂货。
+The extension building built next to the "Long Street" needs to be operated by sending villagers. \You can exchange "silver money" for groceries.
 Wisdom Guild
 The wisdom guild employs wise men to work under their masters. Wise men can mean anyone who has a useful skill,  have exceptional knowledge,  or can plan and execute plans.
-建造在「长街」旁边的扩展建筑，需派遣村民经营。\n可用「威望」招揽人才。
+The extension building built next to the "Long Street" needs to be operated by sending villagers. \You can use "Prestige" to recruit talents.
 Capital
 The Capital is the economic and political center of the Middle Kingdom,  croweded with the rich and powerful.
 Chengdu
@@ -748,7 +748,7 @@ Hundred Flowers Valley stays hidden from the world, undisturbed by the chaos out
 Seven Star Terrace
 "The rotation of the seven stars of the Big Dipper consist of 24 points of Qi, across twelve days, in twelve months". The Seven Stars Platform is built according to the star positions of Tianshu, Tianxuan, Tiangui, Tianquan, Yuheng, Kaiyang and Yaoguang. The platform is crowned at the top of Wudang and faces the heavens at over ten thousand feet. On the stage, if you focus your breath, the Qi in your body will naturally integrate with the heaven and the earth.
 Stone Prison
-In the chaotic times of the Sangha, the scholarly men gathered at Mount Yuan and built the Stone Prison. It is a dungeon for disciples who have violated the sect's precepts and those who have committed the most unforgivable crimes, and those who are guilty often face the wall and meditate for several years to get rid of their demons.
+In the chaotic times of the XiangShu, the scholarly men gathered at Mount Yuan and built the Stone Prison. It is a dungeon for disciples who have violated the sect's precepts and those who have committed the most unforgivable crimes, and those who are guilty often face the wall and meditate for several years to get rid of their demons.
 Lion King's Platform
 The Lion King's Platform is three feet high, nine feet wide, and the ring is carved on all sides with the head of the majestic golden mane lion. According to legend, when the ancestors of the Golden Lion Gate first arrived in Guangdong, they challenged martial artists atop the platform with the vow of life and death, sweeping the Guangzhou thirty-six halls. Since then, the platform located on Lotus Hill is used to challenge someone to battle of life and death.
 Clear Brilliant Pavilion
@@ -770,16 +770,16 @@ Golden Dragon Palace is built on the volcanic mountain pass. The True Dragon Anc
 Blood Pond
 The Blood Pond is the forbidden place of the Blood Cult, and those who do not have great support in the Cult are not allowed to enter. According to legend the pond is filled with the blood of tens of thousands of animals, evil spirits, and people, and a myriad of different kinds of poison. It is one of the world's most poisonous, most evil place, into which people thrown inside experience a fate worse than death, resulting in the birth of a demon.
 Cattle Caravans
-服牛帮乃是由乡间脚夫组织而成的行商队伍，在民间已流传数百年，售卖物品多为一些日常百货。
+Serving cattle gang is organized by the countryside footmen and become a team of merchants, in the folk have been passed down for hundreds of years, selling goods are mostly some daily department stores.
 WenShan Bookstore
-帝王蒙难，礼崩乐坏，前朝有识之士为存续文教，而建文山书海阁。文山书海阁收纳天下典籍，涉及百行百业。
+The emperor was in trouble, rituals and music collapse, the former dynasty of insightful people in order to survive the culture and education, and built the Wenshan Shuhai Pavilion. Wenshan Shuhai pavilion receives the world's canonical books, involving a hundred lines and a hundred industries.
 Penta-Lake Commerce
-五湖商会自乱世兴起，商人们南货北售，西货东卖，足迹遍布各地，所售物品流通四海，甚至远达西域。
+Since the rise of the Five Lakes Chamber of Commerce in the troubled times, merchants have been selling goods from the south to the north and from the west to the east, covering all over the world and selling goods to the four seas and even as far as the West.
 Champion Shop
-前朝残余八万余兵，或做匠人，或为行商，成立大武魁，专售各类刀枪剑戟、金丝玉甲，虽不能继续护卫黎民，却也算授人以渔？
+The remnants of the former dynasty more than 80,000 soldiers, or craftsmen, or merchants, the establishment of the Grand Martial Kui, specializing in the sale of all kinds of swords and spears, gold and jade armor, although not continue to protect the people, but also considered to teach people to fish?
 Rejuvenation Hall
-为救济乱世，天下药行共建回春堂，遣有医师数千人，研制丹药百种，其中或有秘药出售，外人鲜能知晓。
+For the relief of the chaotic world, the world's pharmaceutical companies together to build the Spring Hall, sent thousands of physicians, the development of a hundred kinds of elixirs, which may have a secret medicine for sale, few outsiders can know.
 Master Square
-公输坊始创于匠师之祖鲁班，后由其门人再建，至今百年。公输坊以机关术闻名遐迩，其所创制的各类建筑枢要，堪称巧夺天工。
+It was founded by Lu Ban, the ancestor of craftsmen, and then built again by his disciples for a hundred years. It is famous for its machine art, and the various kinds of architectural pivots created by it are considered to be ingenious.
 House of Odd
-奇货所聚，珍玩所积，故号奇货斋。奇货斋乃是由各地权贵扶持而建，其中收纳天下珍奇，绝无凡物俗品。
+Strange goods gathered, the accumulation of treasures, so the number of strange goods fast. The odd goods Zhai is built by the support of powerful people around the world, which receives the world's rare and exotic, absolutely no mundane goods.
