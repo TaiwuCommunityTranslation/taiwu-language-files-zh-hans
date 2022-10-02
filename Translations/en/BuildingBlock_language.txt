@@ -158,7 +158,7 @@ Training Hall
 The training hall is a place to practice martial arts. The building is spacious and airy, and the atmosphere of the room can be arranged to suit the mood of the practitioner. There are various props for training in the room.
 Increases the efficiency of a character's martial arts "Practice" within the influence of the location the building resides in. The larger the Training Hall, the more the efficiency increases. Multiple training rooms will not stack benefits.
 Escort Agency
-The escort agency deals in the protection of important people or objects. To be successful one has to be connected with both good and evil forces in the martial world.
+The escort agency deals in the protection of important people or objects. To be successful one has to be connected with both good and bad forces in the martial world.
 The extension building built next to the "practice room" needs to be operated by sending villagers. \The main purpose of the building is to earn "silver money" by escorting the villagers.
 Trial Peak
 The trial peaks is a series of obstacles built upon cliffs. While it certainly tests skills,  its the mental toughness which is most challenged.
