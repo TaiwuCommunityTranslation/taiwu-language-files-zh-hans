@@ -5,7 +5,7 @@ Wood·Violet Haze From East
 Water·Icy Cold
 “玄阴冰寒，鲲隐北溟”。\n\n「玄阴」类功法的威力提高30%。\n「纯阳」类功法的威力降低30%。\n每次使用「归元」类功法都会受到反噬伤害与内息紊乱。
 Fire·Pure as Flame
-“纯阳炽火，赤子不惑”。\n\n「纯阳」类功法的威力提高30%。\n「金刚」类功法的威力降低30%。\n每次使用「玄阴」类功法都会受到反噬伤害与内息紊乱。
+"Pure Yang Blazing Fire, Red Son Not Confused". The power of \n \n "Fire" type feats is increased by 30%. \nThe power of "Metal"-type feats is reduced by 30%. \nEvery time you use "Water" type feats, you will suffer backlash damage and internal breath disorder.
 Earth·Dust to Dust
 “归元化蕴，承天载物”。\n\n「归元」类功法的威力提高30%。\n「玄阴」类功法的威力降低30%。\n每次使用「紫霞」类功法都会受到反噬伤害与内息紊乱。
 Harmony·Ultra Unification
