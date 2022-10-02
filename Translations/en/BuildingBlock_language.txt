@@ -156,7 +156,7 @@ A business group formed from merchants who transport large quantities of goods a
 Constructed using the 'Western Region Map' as the core material. By sending merchants westward, you can harvest exotic treasures.
 Training Hall
 The training hall is a place to practice martial arts. The building is spacious and airy, and the atmosphere of the room can be arranged to suit the mood of the practitioner. There are various props for training in the room.
-It can increase the efficiency of characters within the influence of the town and sect to which they belong when studying various "gongfu" secrets. \The larger the size of the training room, the more the efficiency will be increased, but the effect of multiple training rooms will not stack.
+Increases the efficiency of a character's martial arts "Practice" within the influence of the location the building resides in. The larger the Training Hall, the more the efficiency increases. Multiple training rooms will not stack benefits.
 Escort Agency
 The escort agency deals in the protection of important people or objects. To be successful one has to be connected with both good and bad forces in the wulin.
 The extension building built next to the "practice room" needs to be operated by sending villagers. \The main purpose of the building is to earn "silver money" by escorting the villagers.
