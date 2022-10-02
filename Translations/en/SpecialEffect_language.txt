@@ -1181,7 +1181,7 @@ Binding Enemy's Kung Fu
 Exemption from exertion
 After this technique has been used for 10% of its power: randomly select one of the enemy's most powerful "Destruction" techniques; when the user starts to perform this technique, the power of this technique increases by the same amount as the power of the selected technique; whenever the enemy performs the selected technique, the user can also perform this technique from 50% of the performance progress without consumption
 Poison Palm\nof Red Toad
-When this technique is used at ten percent of its power, the more red poison markings the enemy has, the more trauma markings are added to random parts of the enemy
+When this technique is used at ten percent of its power, the more red poison markings the enemy has, the more external injuries are added to random parts of the enemy
 4 Colors Palm
 The rotten poison applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Soul Peeling\nHands
