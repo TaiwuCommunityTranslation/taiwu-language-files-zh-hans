@@ -408,7 +408,7 @@ Heavenly Armor
 When defending with this technique, if the grade of the weapon used by the enemy is not higher than the grade of the protective gear of the attacked part of the user, the degree of injury caused by the enemy to the user will be reduced by 4 levels.
 Exquisite 9
 Treasure Transformation True Qi
-When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability, and the user's true qi will be increased according to the grade of the treasure: gold and iron treasures will increase "Break" true qi; jade treasures will increase "Aegis" true qi; wooden treasures will increase "Quick" true qi; and brocade treasures will increase "qi" true qi.
+When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability, and the user's true qi will be increased according to the grade of the treasure: gold and iron treasures will increase "Break" true qi; jade treasures will increase "Aegis" true qi; wooden treasures will increase "Quick" true qi; and brocade treasures will increase "Nadis" true qi.
 Forge Mysterious Iron
 Arms become divine weapons
 When the total number of defeat marks of the user exceeds half of the defeat condition, the weapon currently used by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" cannot be damaged unless it is damaged by attacking "Divine Armor"; direct damage caused by attacking with "Divine Armor" cannot be reduced by any effect unless the enemy is protected by "Divine Armor"
