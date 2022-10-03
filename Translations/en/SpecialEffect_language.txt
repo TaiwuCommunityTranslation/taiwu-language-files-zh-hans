@@ -210,7 +210,7 @@ Increases the power limit of the user's "Blood Hollow Cult" techniques
 4 Methods of\nDark Corpse
 Increases the power of the user's "Earth" type techniques
 Evil Ghost
-When the internal power attribute of the user is "Return to the source", the direct damage and repercussion damage caused by the "Water" type techniques to the user will be reduced.
+When the internal power attribute of the user is "Earth", the direct damage and repercussion damage caused by the "Water" type techniques to the user will be reduced.
 3 Poisons of\nDarkness Spell
 The happier the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Moon Shape
