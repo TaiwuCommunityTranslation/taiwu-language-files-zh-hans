@@ -7,7 +7,7 @@ When the internal power attribute of the user is "Metal", the direct damage and 
 Formless Zen
 Significantly increase the upper limit of the user's "fixation"
 Bodhi\nMeditation
-Convert the "Xuan Yin" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
+Convert the "Water" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
 Za-A-Han\nScripture
 Converts the "reverse" effect of the user's "Metal" type techniques other than "internal" into a "positive" effect.
 Great Arahant\nExercises
@@ -70,7 +70,7 @@ Increases the power limit of the user's "Yuanshan School" techniques
 Lighter\nYuanshan Force
 The higher the ratio of the user's internal energy, the more the user's body and qi will be improved.
 Greater\nYuanshan Force
-The user's "Return to the Source" type of technique will cause more direct damage and repercussion damage to characters with "Xuan Yin" internal power attribute.
+The user's "Return to the Source" type of technique will cause more direct damage and repercussion damage to characters with "Water" internal power attribute.
 Silence Methods
 Convert the user's "Metal" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will be increased.
 Inscrutable\nRound
@@ -104,17 +104,17 @@ At the beginning of a battle, the user's "Nadis" true energy is increased signif
 Xuannyu\nMeditation
 Increases the power limit of the user's "Xuan Nui School" techniques
 Jade Bone\nCultivation
-The higher the percentage of "Xuan Yin" internal energy of the user, the more the user's body and qi will be improved.
+The higher the percentage of "Water" internal energy of the user, the more the user's body and qi will be improved.
 Moon Drive\nCultivation
-The user's "Xuan Yin" type of technique will cause more direct damage and backlash damage to characters with "Fire" internal power attribute
+The user's "Water" type of technique will cause more direct damage and backlash damage to characters with "Fire" internal power attribute
 Jade Mirror\nof Yin
 Significantly increase the "root bone" limit of the user
 Xihua\nScripture
-The higher the percentage of "Xuan Yin" internal power of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
+The higher the percentage of "Water" internal power of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 Holy Princess
-Convert the user's "Wood" internal energy into "Xuan Yin" internal energy, the more the conversion ratio, the more the user's "Xuan Yin" type power will increase.
+Convert the user's "Wood" internal energy into "Water" internal energy, the more the conversion ratio, the more the user's "Water" type power will increase.
 Nimbus Shower
-Significantly increases the power of the user's "Xuan Yin" type techniques
+Significantly increases the power of the user's "Water" type techniques
 Supreme\nGoddess Cultivation
 Increases Quick of Spirit
 At the beginning of a battle, the user's Light Spirit True Qi is increased significantly; the amount of Light Spirit True Qi gained during the battle is increased significantly; the amount of Light Spirit True Qi lost during the battle is decreased significantly.
@@ -169,7 +169,7 @@ Increases the power of the user's "Wood" type techniques
 Black\nImmortals Cultivation
 Significantly increases the amount of toxins that can be dispelled when the user performs "poison repelling" in battle
 Azure\nImmortals Cultivation
-Convert the user's "Xuan Yin" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
+Convert the user's "Water" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Soul Out\nMeditation
 The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect of a gain status that enhances the user's unleashing power, dismantling, dodge, and heart guard.
 The Great Evil\nBody
@@ -177,17 +177,17 @@ The more negative "characteristics" the user has, the more the power of all the 
 Jieqing 4\nImages
 Increases the power limit of the user's "Boundary Green Gate" technique
 Heaven\nMeditation
-Increases the power of the user's "Xuan Yin" type techniques
+Increases the power of the user's "Water" type techniques
 12 Scrolls\nof Eastwall
-When the internal power attribute of the user is "Xuan Yin", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
+When the internal power attribute of the user is "Water", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
 Step Sky
 Significantly increase the "sensitivity" limit of the user
 Mysterious\nScripture
-Convert the user's "Metal" internal energy into "Xuan Yin" internal energy, the more the conversion ratio, the more the user's "Xuan Yin" type power will increase.
+Convert the user's "Metal" internal energy into "Water" internal energy, the more the conversion ratio, the more the user's "Water" type power will increase.
 Posthumous Ginseng
-Change the "reverse" effect of the user's "Xuan Yin" type of kung fu other than "internal kung fu" into a "positive" effect
+Change the "reverse" effect of the user's "Water" type of kung fu other than "internal kung fu" into a "positive" effect
 Galaxy Map
-When the internal energy of the user is "Xuan Yin", it is more difficult to "block" or "interrupt" all of the user's techniques.
+When the internal energy of the user is "Water", it is more difficult to "block" or "interrupt" all of the user's techniques.
 Fire Paint\nTattoo
 Increases the power limit of the user's "Furyan" technique
 Fulong\nFire-Engulf
@@ -210,7 +210,7 @@ Increases the power limit of the user's "Blood Hollow Cult" techniques
 4 Methods of\nDark Corpse
 Increases the power of the user's "Return to the Source" type techniques
 Evil Ghost
-When the internal power attribute of the user is "Return to the source", the direct damage and repercussion damage caused by the "Xuan Yin" type techniques to the user will be reduced.
+When the internal power attribute of the user is "Return to the source", the direct damage and repercussion damage caused by the "Water" type techniques to the user will be reduced.
 3 Poisons of\nDarkness Spell
 The happier the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Moon Shape
@@ -1750,7 +1750,7 @@ In the process of performing this technique, the user can advance up to 6 distan
 The Great Vajra\nKick
 When attacking the enemy with this technique: the armor of the user is increased significantly; depending on the power of this technique, the enemy is knocked back up to 5 distances, and if the enemy is knocked back to the maximum distance of the enemy, 3 higher level breaks are randomly added to the enemy
 Kick of\nMove The Mountain
-When this technique is used at 10% of its power, the enemy's 3 "Xuan Yin" techniques will be "blocked" for a long time.
+When this technique is used at 10% of its power, the enemy's 3 "Water" techniques will be "blocked" for a long time.
 Cloud Dragon\n9 Kick
 After this technique has reached 10% of its power, the user will get this effect 8 times: every time the user advances 0.2 distance in a row, the number of layers of this effect will be reduced by 1. If the enemy is within the attack range of this technique, the user will immediately perform this technique again to attack the enemy from 50% of the progress of its performance.
 Divine Kick of\nAo King
@@ -1790,7 +1790,7 @@ When you start to perform this technique, the more weapons the user has that are
 Blade of Endless
 If the enemy is still within the range of the attack, the user will immediately perform another "Sword Technique" of a rank not exceeding this technique without consumption from 50% of the execution progress to attack the enemy.
 Heavenly Spirit\nBlade
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Xuan Yin", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Water", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Divine Blade\nof Mysterious
 Depending on the power of this technique and the amount of energy consumed by the user, the user can obtain up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be consumed instead of the stance, and the more it is consumed, the more the user's body and energy will be increased.
 Inverse-Quiet Meditation Kung Fu
@@ -1849,7 +1849,7 @@ Inverse - One Word Mixed Pile
 Recover Inhale
 When the user consumes only the stance, a portion of the energy will be restored.
 Inverse - Luo Tian Zhen Zhi Twelve Piles
-Convert the user's "Xuan Yin" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type kung fu will increase.
+Convert the user's "Water" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type kung fu will increase.
 Reversal - Golden Sutra of Marrow Washing
 The higher the percentage of "Fire" internal energy of the user, the more the user's power, subtlety, swiftness, and motivation will increase.
 Inverse - Wudang Mixed Element Kung Fu
@@ -1896,17 +1896,17 @@ At the beginning of a battle, significantly reduce the amount of Qi of the enemy
 Reversal - Xuan Nui Heart Skill
 Reduces the need to use the "Xuan Nui School" techniques of the user
 Inverse - Jade Bone
-The higher the percentage of "Xuan Yin" internal energy of the user, the more the user's body breaking and qi breaking will be improved.
+The higher the percentage of "Water" internal energy of the user, the more the user's body breaking and qi breaking will be improved.
 Inverse-Wang Shu Royal Moon Kung Fu
-The user's "Xuan Yin" type techniques will cause more direct damage and repercussion damage to characters whose internal power attribute is "Return to the Source".
+The user's "Water" type techniques will cause more direct damage and repercussion damage to characters whose internal power attribute is "Return to the Source".
 Inverse - Shao Yin Yi Ming Jue
 Significantly reduce the "root and bone" consumption of the user
 Reverse-Sihwajin Sutra
-The higher the percentage of "Xuan Yin" internal energy of the user, the more the user's power, subtlety, swiftness, and heart-movement will increase.
+The higher the percentage of "Water" internal energy of the user, the more the user's power, subtlety, swiftness, and heart-movement will increase.
 Inverse - Empress Goddess
 Convert the "Fire" internal energy of the user into "xuan yin" internal energy, the more the percentage of conversion, the more the power of the user's "xuan yin" type techniques will be increased.
 Reverse-Yaochi Immortal Bathing Method
-Significantly reduces the consumption of qi and stance of the user's "Xuan Yin" type techniques
+Significantly reduces the consumption of qi and stance of the user's "Water" type techniques
 Inverse - Taiyuan Jade Lady Kung Fu
 Reduced enemy light spirit true qi
 At the beginning of a battle, significantly reduce the amount of "Light Spirit" True Qi of the enemy and their helpers; significantly reduce the amount of "Light Spirit" True Qi gained by the enemy during the battle; significantly increase the amount of "Light Spirit" True Qi lost by the enemy during the battle
@@ -1969,17 +1969,17 @@ The more negative "characteristics" the enemy has, the more the power of all ene
 Inverse-Boundary Green Four Elephant Chart
 Reduces the user's need to use the "Boundary Green Gate" technique
 Inverse-Tian Yuan method of raising Qi
-Reduces the consumption of qi and stance of the user's "Xuan Yin" type techniques
+Reduces the consumption of qi and stance of the user's "Water" type techniques
 Reverse-The Twelve Scrolls of the Eastern Wall
-When the internal power attribute of the user is "Xuan Yin", the direct damage and repercussion damage caused by the "Return to Origin" type of technique to the user will be reduced.
+When the internal power attribute of the user is "Water", the direct damage and repercussion damage caused by the "Return to Origin" type of technique to the user will be reduced.
 Reverse-Bu Tian Ge
 Significantly reduce the "sensitive" consumption of users
 Reverse - Xuan Hei Zhen Jing
-Convert the user's "Returning Yuan" internal energy into "Xuan Yin" internal energy, the more the percentage of conversion, the more the user's "Xuan Yin" type power will be increased.
+Convert the user's "Returning Yuan" internal energy into "Water" internal energy, the more the percentage of conversion, the more the user's "Water" type power will be increased.
 Reverse-Esi Legacy
-Changing the "positive" effect of the user's "Xuan Yin" type of kung fu other than "internal kung fu" to "negative" effect
+Changing the "positive" effect of the user's "Water" type of kung fu other than "internal kung fu" to "negative" effect
 Inverse - Armillary Chart
-If the internal energy of the user is "Xuan Yin", even if the body part required to perform the technique is destroyed, the technique can still be performed, but the power of the technique is reduced.
+If the internal energy of the user is "Water", even if the body part required to perform the technique is destroyed, the technique can still be performed, but the power of the technique is reduced.
 Inverse - All-over fire painting method
 Reduces the user's need to use the "Furyan" technique
 Inverse - Fulong Swallowing Fire Kung Fu
@@ -2005,7 +2005,7 @@ When the internal power attribute of the user is "return to the source", it redu
 Inverse-Three Poisonous Ignorance Mantra
 The more painful the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Inverse - Taiyin Refining Form
-Convert the user's "Xuan Yin" internal energy into "Return to Origin" internal energy, the more the percentage of conversion, the more the power of the user's "Return to Origin" type techniques will increase.
+Convert the user's "Water" internal energy into "Return to Origin" internal energy, the more the percentage of conversion, the more the power of the user's "Return to Origin" type techniques will increase.
 Inverse - Five Yin Dada
 The higher the ratio of the user's "Returning Element" internal energy, the more the user's power, subtlety, swiftness, and heartbeat will increase.
 Inverse - Child's Blood Refining Method
@@ -3339,7 +3339,7 @@ In the process of performing this technique, the user can retreat up to 6 distan
 HU·The Great Vajra\nKick
 When attacking the enemy with this technique: the armor of the user is increased significantly; depending on the power of this technique, the enemy is brought closer by up to 5 distances, and if the enemy is brought closer to the minimum distance between us, 3 higher level breaks are randomly added to the enemy
 HU·Kick of\nMove The Mountain
-When this technique is used at 10% of its power, the power of the enemy's 3 "Xuan Yin" techniques is reduced and lasts until the end of the battle.
+When this technique is used at 10% of its power, the power of the enemy's 3 "Water" techniques is reduced and lasts until the end of the battle.
 HU·Cloud Dragon\n9 Kick
 After this technique has reached 10% of its power, the user will get this effect 8 times: every time the user continuously retreats 0.2 distance, the number of layers of this effect will be reduced by 1. If the enemy is within the attack range of this technique, the user will immediately perform this technique again to attack the enemy from 50% of the progress of its performance, and the technique performed with this effect will not gain the number of layers of the Break effect.
 HU·Divine Kick of\nAo King
@@ -3377,7 +3377,7 @@ When attacking an enemy with this technique, if the user uses a weapon other tha
 HU·Blade of Endless
 If the enemy is still within the attack range of the user, he/she will immediately attack the enemy with another "sword technique" of a rank no higher than this one, without consumption, starting from 50% of the execution progress.
 HU·Heavenly Spirit\nBlade
-If the enemy's internal power attribute is "Xuan Yin" when this technique is used at 10%, the direct damage caused by the user to the enemy will be increased by 3 levels.
+If the enemy's internal power attribute is "Water" when this technique is used at 10%, the direct damage caused by the user to the enemy will be increased by 3 levels.
 HU·Divine Blade\nof Mysterious
 Depending on the power of this technique and the amount of energy consumed by the user, the user will get up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be used instead of the stance consumption, and the more it is consumed, the more the enemy's body and energy will be reduced.
 DIV
@@ -3600,7 +3600,7 @@ The direct damage dealt by Dayue Yaochang to characters with the internal power 
 The Nine Netherworlds
 The direct damage dealt by Jiu Han to characters with internal energy attribute "Fire" is greatly increased; the direct damage dealt by characters with internal energy attribute "Return to Yuan" to Jiu Han is greatly increased
 Extra-Terrestrial True Fire
-The direct damage dealt by Jin Huo'er to characters with internal power attribute "Metal" is greatly increased; the direct damage dealt by characters with internal power attribute "Xuan Yin" to Jin Huo'er is greatly increased
+The direct damage dealt by Jin Huo'er to characters with internal power attribute "Metal" is greatly increased; the direct damage dealt by characters with internal power attribute "Water" to Jin Huo'er is greatly increased
 illusion
 Yi Yi Hou deals significantly more direct damage to characters whose heart is lower than his own; characters whose heart is higher than Yi Yi Hou's deal significantly more direct damage to Yi Yi Hou
 seek the law outside the body
@@ -3608,7 +3608,7 @@ Weiqi deals significantly more direct damage to characters with lower force or d
 play ghosts and collect gods
 The direct damage dealt by Ekai to a character whose Swiftness or Dodge is lower than his own is increased significantly; the direct damage dealt by a character whose Swiftness or Dodge is higher than Ekai to Ekai is increased significantly
 Gods and Earths
-The direct damage dealt by Blood Maple to characters with the internal power attribute "Xuan Yin" is greatly increased; the direct damage dealt by characters with the internal power attribute "Wood" to Blood Maple is greatly increased
+The direct damage dealt by Blood Maple to characters with the internal power attribute "Water" is greatly increased; the direct damage dealt by characters with the internal power attribute "Wood" to Blood Maple is greatly increased
 Distracted God Realm
 The direct damage dealt by the jutsu side to characters with lower subtlety or dismantling moves than their own is significantly increased; the direct damage dealt by characters with higher subtlety or dismantling moves than the jutsu side to the jutsu side is significantly increased
 Out-of-bounds Heart Swallowing
