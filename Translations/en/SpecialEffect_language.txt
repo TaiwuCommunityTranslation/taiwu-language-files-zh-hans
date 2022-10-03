@@ -1730,7 +1730,7 @@ Laojun Swipe
 At the beginning of the battle, the user gains 6 levels of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, this effect is consumed to remove the user's injuries; for every injury removed, 1 level of this effect is consumed; when this technique becomes 10% more powerful, 1 level of this effect is restored, up to a maximum of 3 levels
 Yin-Yang Invert
 Restraint Orthodox practice Nadis
-The direct injuries caused by this technique will be resisted by the enemy's imperial qi; during the execution of this technique, all of the enemy's Orthodox "Qi" techniques cannot be effective.
+The direct injuries caused by this technique will be resisted by the enemy's imperial qi; during the execution of this technique, all of the enemy's Orthodox "Nadis" techniques cannot be effective.
 The Ultra One\nSwipe
 The lower the disorder of the internal breath of the user when this technique exerts 10% of its power, the higher the number of sealed points caused by this technique to the enemy, and the higher the level of sealed points.
 Heavy Swipe
@@ -2176,12 +2176,12 @@ When the user's helper uses the "warning" command, it can increase the user's un
 HU·Heavenly Armor
 When defending with this technique, if the grade of the weapon used by the enemy is not higher than the grade of the protective gear of the attacked part, the degree of all direct internal injuries caused by the enemy to the user is reduced by 4 levels.
 HU·Exquisite 9
-When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability and reduce the enemy's true qi according to the treasure's rank: gold and iron treasures reduce "Break" true qi; jade treasures reduce "Aegis" true qi; wooden treasures reduce "Quick" true qi; brocade treasures reduce "qi" true qi
+When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability and reduce the enemy's true qi according to the treasure's rank: gold and iron treasures reduce "Break" true qi; jade treasures reduce "Aegis" true qi; wooden treasures reduce "Quick" true qi; brocade treasures reduce "Nadis" true qi
 HU·Forge Mysterious Iron
 Protective gear becomes divine armor
 When the total number of defeat marks of the user exceeds half of the defeat condition, the protective gear currently worn by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" will not be damaged unless it is damaged by the attack of "Divine Armor"; all direct damage resisted by "Divine Armor" cannot be increased by any effect unless the enemy attacks or performs a feat with "Divine Armor".
 HU·4 Finger Azure Cream
-When the "Qi" true qi of the user is twice as high as the "Qi" true qi of the enemy, the degree of injury of all direct damage the user inflicts on the enemy is increased by 1 level
+When the "Nadis" true qi of the user is twice as high as the "Nadis" true qi of the enemy, the degree of injury of all direct damage the user inflicts on the enemy is increased by 1 level
 HU·3 Books of 9-Steps
 When the distance between the user and the enemy is less than 5, the closer the enemy is to us, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 HU·Visceral Anatomy
@@ -2642,7 +2642,7 @@ If the enemy's internal power attribute is "Earth" when this technique is used a
 HU·Swordsmanship\nof Round-Trip
 When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "thrust" style.
 HU·Swordsmanship\nof Sanchin
-When this technique exerts at least 10% of its power, the enemy loses 2 points of "Qi" true qi.
+When this technique exerts at least 10% of its power, the enemy loses 2 points of "Nadis" true qi.
 HU·Flying Sword
 This feat increases the direct damage to the enemy's head and neck by 2 levels, but has a higher chance of attacking other parts of the enemy
 HU·Swordsmanship\nof Open-Close
@@ -2654,7 +2654,7 @@ At the beginning of the battle, the user gains 0 levels of this effect: every ti
 HU·Swordsmanship\nof Yinyang Reversed
 When attacking an enemy with this technique, if this technique can cause direct external injuries and the user's body break is lower than the enemy's imperial body, the user's broken qi is greatly increased and the user's direct internal injuries to the enemy are greatly increased
 HU·Origin\nSword Intent
-If the user's Qi Qi is lower than the initial value and lower than the enemy's Qi Qi, this technique can be performed without consuming Qi or stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Qi when the technique is finished.
+If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Qi or stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
 HU·Ever-Changing\n14 Swordmanship
 When attacking an enemy with this technique, the user only hits with the highest of its power, subtlety, and swiftness, and only attacks with the highest of its body-breaking and qi-breaking power; after this technique has reached 10% of its power, the user gains 3 levels of this effect: when an enemy performs any "break" technique that consumes the "slash", "stab", or "ruffle" style, if the user can use the "slash", "stab", or "ruffle" style style, the user will immediately use the power of this technique to attack the enemy without any consumption of the same technique, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 HU·Tripping Spell
@@ -3167,7 +3167,7 @@ HU·Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's qi breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's qi recovery speed is reduced.
 HU·Vajra Samadhi\nPalm
 Reduction of enemy's imperial energy
-This technique cannot be interrupted; this technique will definitely be 10% powerful, and the higher the enemy's imperial body, the more the enemy's imperial qi will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "qi", otherwise these effects will not take effect
+This technique cannot be interrupted; this technique will definitely be 10% powerful, and the higher the enemy's imperial body, the more the enemy's imperial qi will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Nadis", otherwise these effects will not take effect
 HU·Emei Eagle Claw
 Reduces the power of all the enemy's "Quick" techniques by the amount of power this technique exerts, and lasts until the end of the battle
 HU·Emei Finger Zen
@@ -3281,7 +3281,7 @@ When hitting the enemy with this technique, the enemy's protective gear cannot w
 HU·The 8 Trigrams\nPalm
 At the beginning of the battle, the user gets 0 layers of this effect: for every 1 distance the user moves, this effect increases by 1 layer, up to 5 layers, the higher the number of layers of this effect, the less Qi and stance the user needs to consume when performing this technique, the more the user's unloading, dismantling and evasion will increase; after the end of this technique, this effect decreases by 1 layer
 HU·The Ultra One\nUnfettered Palm
-The farther the user retreats, the more the power of this technique will increase. For every distance the user retreats, he/she will be able to gain 2 points of "Qi" true qi.
+The farther the user retreats, the more the power of this technique will increase. For every distance the user retreats, he/she will be able to gain 2 points of "Nadis" true qi.
 HU·Divine Fist
 When this technique is used at 10% of its power, the power of the enemy's 3 "Metal" techniques is reduced and lasts until the end of the battle.
 HU·Wudang\nPure Yang Fist
