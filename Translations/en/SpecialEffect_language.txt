@@ -116,7 +116,7 @@ Convert the user's "Purple Haze" internal energy into "Xuan Yin" internal energy
 Nimbus Shower
 Significantly increases the power of the user's "Xuan Yin" type techniques
 Supreme\nGoddess Cultivation
-Increases Lightness of Spirit
+Increases Quick of Spirit
 At the beginning of a battle, the user's Light Spirit True Qi is increased significantly; the amount of Light Spirit True Qi gained during the battle is increased significantly; the amount of Light Spirit True Qi lost during the battle is decreased significantly.
 Moon Jade
 Increase the upper limit of all major attributes of the user; if the user is a virgin, increase the power of all feats of the user, and make the user youthful
@@ -389,7 +389,7 @@ The duration of the disorientation marker suffered by the user is significantly 
 Formation of Scattered Flowers
 The partner of the user's helper can push and pull the user more frequently with the "swift advance" and "pull back" commands to change the distance between the user and the enemy.
 Rainbow Fairy Dress
-Dramatically increases the duration of the user's "Lightness" technique
+Dramatically increases the duration of the user's "Quick" technique
 Mirror Flower Water Moon
 Directly defuse the attack
 When defending with this technique, the more "no" styles the enemy has, the higher the chance the user has of directly defeating the enemy's attack.
@@ -938,7 +938,7 @@ Steal Buff
 When this technique starts, the user is temporarily affected by all the enemy's gain status, which lasts until the end of this technique.
 Sky Earth Finger
 Remove E·Buff
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Returning to the Source", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Returning to the Source", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
 Swordsmanship\nof Round-Trip
 When this technique is at least 10% powerful, the user takes 1 "stab" from the enemy.
 Swordsmanship\nof Sanchin
@@ -1019,7 +1019,7 @@ Eliminate the memory of the enemy
 When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memory of the battle; the enemy cannot attack with weapons, cannot perform feats that require stance consumption, until the enemy is attacked in any way
 Conversely\nBeating As Rocking Sky
 Attacks are not defended
-If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its Aegis; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Lightness" techniques will take effect when attacked by this technique
+If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its Aegis; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique
 One Step Turn
 Increase the casting progress
 During the enemy's performance of a feat, the user can perform this feat from 50% of the performance progress; after this feat has exerted at least 10% of its power, the user advances 2 distances, and this effect cannot be repeated during the enemy's performance of a feat
@@ -1267,7 +1267,7 @@ Divine Fist\nof Jade Yang
 Increase the number of effect layers
 If you consume 3 points of the user's "Destruction" true qi when this technique is used at 10% of its power, it will randomly change the number of levels of the duration effect of one of the user's "Destruction" techniques to the maximum.
 Fire Palm of\n6 Yang
-When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Vajra", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the ongoing effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Vajra", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the ongoing effect of the enemy's 3 "Destruction" techniques to 0 levels.
 Great Jade Yang\nFist
 When you start to perform this technique, the more the number of levels of the duration effect of all the "Destruction" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
 Dragon Palm
@@ -1515,7 +1515,7 @@ When attacking an enemy with this technique, if the user's brawn is higher than 
 Increase your own broken body
 When you start performing this technique, the power of this technique increases if the user's body is higher than the user's broken body; when you attack the enemy with this technique, the user's broken body is added to the user's body.
 Vajra Prajna\nPalm
-When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Purple Haze", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Purple Haze", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
 Demonhunt\nLight Fist
 Change E·Standpt
 When you start to perform this technique, the greater the difference between the enemy's worldly stance and benevolence, the more the attack range and power of this technique will increase; when this technique is at ten percent of its power, if the user's heart is higher than the enemy's heart, the enemy's worldly stance will change to benevolence, and if the enemy's worldly stance thus changes from non-benevolence to benevolence, the enemy will start to run away as soon as he can.
@@ -1560,7 +1560,7 @@ This technique reduces the enemy's sense of crisis when it is unable to exert te
 As long as this technique is not dodged by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
 White Ape's\nLong-Arm Fist
 Recovery of body time
-The duration of the "Lightness" technique will be restored to the user according to the power of the technique.
+The duration of the "Quick" technique will be restored to the user according to the power of the technique.
 Transfer Flower\nPicker
 Body to Qi
 Royal Body and Qi Change
@@ -1637,7 +1637,7 @@ For every 10% of the power of this technique, the user has a low chance of infli
 The Great\nFlower Finger of Mandala
 When you start to perform this technique, the deeper the enemy is poisoned by the illusion, the more the power of this technique will increase
 Flower Spirit\nMoon Finger
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Pure Yang", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Pure Yang", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
 A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all closed acupuncture points of the enemy
 8 Moves of\nBlood Red Flower
@@ -1677,7 +1677,7 @@ This technique removes one of the strongest impairment states of the user when i
 Burydeer Orchid
 When you start to perform this technique, the more "no" forms the user has, the more the power of this technique will increase; when this technique becomes 10% powerful, it will eliminate 2 "no" forms for the user.
 The World\nAmused
-When this technique exerts 10% of its power, it randomly and significantly increases the power of 1 "Destruction" technique, 1 "Aegis" technique, 1 "Lightness" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
+When this technique exerts 10% of its power, it randomly and significantly increases the power of 1 "Destruction" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
 Wudang\nLong Fist
 According to the power of this technique, it increases the power limit of all the "Nadis" techniques of the user, and lasts until the end of the battle.
 Wind Chasing\nPalm
@@ -1790,7 +1790,7 @@ When you start to perform this technique, the more weapons the user has that are
 Blade of Endless
 If the enemy is still within the range of the attack, the user will immediately perform another "Sword Technique" of a rank not exceeding this technique without consumption from 50% of the execution progress to attack the enemy.
 Heavenly Spirit\nBlade
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Xuan Yin", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Xuan Yin", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
 Divine Blade\nof Mysterious
 Depending on the power of this technique and the amount of energy consumed by the user, the user can obtain up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be consumed instead of the stance, and the more it is consumed, the more the user's body and energy will be increased.
 Inverse-Quiet Meditation Kung Fu
@@ -2159,7 +2159,7 @@ Enemies suffer a significant increase in the duration of the Disorientation Mark
 HU·Formation of Scattered Flowers
 When the user's helper uses the "swift advance" and "pull back" commands, the user can be pushed and pulled farther.
 HU·Rainbow Fairy Dress
-Significantly reduce the duration of the enemy's "Lightness" feat
+Significantly reduce the duration of the enemy's "Quick" feat
 HU·Mirror Flower Water Moon
 When defending with this technique, the more disorientation markers the enemy receives, the higher the chance the user has of directly neutralizing the enemy's attack
 HU·Stance of Nuwa's Sky-Mending
@@ -2702,7 +2702,7 @@ HU·Flood Dragon's\nIron Tentacle
 HU·No Harm Hands
 When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require qi, until the enemy is attacked in any way
 HU·Conversely\nBeating As Rocking Sky
-If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its imperial energy; the enemy will not try to defend against this technique, and the enemy's "Aegis" and "Lightness" techniques will not take effect when attacked by this technique
+If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its imperial energy; the enemy will not try to defend against this technique, and the enemy's "Aegis" and "Quick" techniques will not take effect when attacked by this technique
 HU·One Step Turn
 During the enemy's performance of a feat, the user can perform this feat from 50% of the performance progress; after this feat has exerted at least 10% of its power, the user retreats 2 distances, and this effect cannot be repeated during the enemy's performance of a feat
 HU·Cuckoo's\nPecking
@@ -2806,7 +2806,7 @@ HU·Scorpion Hand
 When you start to perform this technique, the deeper the depression poison the user is, the more the power of this technique will increase
 HU·Python Hand
 Ignore light effects
-When attacking an enemy with this technique, the special effect of the enemy's "Lightness" technique cannot take effect if the enemy's phantom poison attacks his heart
+When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's phantom poison attacks his heart
 HU·Blood Fluke\nPalm
 HU·Soul-Extinct\nPalm
 When you start to perform this technique, the toxin applied by the user to the enemy will change according to the one with the lowest amount of poisoning among the user's strong poison, red poison and rotten poison, and if the poison applied to the enemy after the change is still rotten poison, the power of this technique will be greatly increased
@@ -2887,7 +2887,7 @@ HU·Crazy Drunk Fist
 Increase direct internal injuries
 When this technique is at 10% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disordered the user's internal breath is, the higher the direct internal injury caused by this technique; if the user is drunk, the chance of performing this technique again is greatly increased
 HU·Great Colorful\nPalm
-When you start performing this technique, a portion of the power of the most powerful "Lightness" technique of the user and the enemy is transferred to this technique, and it lasts until the end of the battle.
+When you start performing this technique, a portion of the power of the most powerful "Quick" technique of the user and the enemy is transferred to this technique, and it lasts until the end of the battle.
 HU·Divine Fist\nof Jade Yang
 When this technique is used at 10% of its power, if 3 points of the user's "Destruction" true qi are consumed, it randomly changes the number of layers of the enemy's "Destruction" technique's lasting effect to the lower limit.
 HU·Fire Palm of\n6 Yang
@@ -3090,7 +3090,7 @@ HU·Ghost Poison\nSand
 Change E·style
 When this technique is used at least 10% of its power, it will change up to 2 of the enemy's available stances into "poison" stances.
 HU·Decayed Worm\nSand
-When attacking an enemy with this technique, the special effect of the enemy's "Lightness" technique cannot take effect if the enemy's poison attacks his heart.
+When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's poison attacks his heart.
 HU·Bone-Corrosion\nSand
 HU·Grave Sand
 When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 10% power, the user will get 2 layers of this effect: for every cumulative distance back, the user will perform this technique to attack the enemy without consumption starting from 50% of the performance progress, and this technique performed with this effect will not get the destruction effect layer
@@ -3201,7 +3201,7 @@ At the beginning of the battle, the user gains 0 layers of this effect: for ever
 HU·Divine\nSwordsmanship of Pure Girl
 During the execution of this technique, the user can perform any "Destruction" technique with at least 60% internal power without preparation, and continue to perform this technique after the "Destruction" technique or other techniques triggered by this technique have been performed and are at least 10% powerful.
 HU·Stab of\n5 Elements
-Based on the power of this technique, it will reduce the use requirement of all "Lightness" techniques of the user until the end of the battle.
+Based on the power of this technique, it will reduce the use requirement of all "Quick" techniques of the user until the end of the battle.
 HU·Stab of Lost Soul
 Counterattack hit by surrendering the enemy
 After this technique has been used for ten percent of its power, the user gains 2 levels of this effect: the hit rate of the enemy's counterattack on the user is greatly reduced.
@@ -3271,7 +3271,7 @@ HU·Burydeer Orchid
 Elimination of dyscalculia markers
 When you start to perform this technique, the more markers of disorientation the user receives, the more the power of this technique will increase; when this technique reaches 10% of its power, 2 markers of disorientation will be removed for the user
 HU·The World\nAmused
-When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Destruction" technique, 1 "Aegis" technique, 1 "Lightness" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
+When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Destruction" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
 HU·Wudang\nLong Fist
 Based on the power of this technique, the user's requirement for the use of all "Nadis" techniques will be reduced until the end of the battle.
 HU·Wind Chasing\nPalm
@@ -3356,7 +3356,7 @@ Whenever the weapon used by the user switches from a non-sword to a sword, the p
 HU·The Great\nSwordsmanship of Mercy
 HU·Swordsmanship\nof Manjusri's Wisdom
 Prohibition of enemy gain
-When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Lightness" techniques will not be effective.
+When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Quick" techniques will not be effective.
 HU·Skanda\nSwordsmanship of Defeat Demon
 If the enemy is still within the range of the attack, the user will start to use another "knife technique" of a rank no higher than this one to attack the enemy without consumption from 50% of the execution progress.
 HU·Swordsmanship\nof Supreme Bodhi
@@ -3373,7 +3373,7 @@ HU·Blade of\nTiger Step Extremely Far
 Whenever the weapon used by the user switches from a non-sword to a sword, the power of this technique increases dramatically and lasts until the user performs this technique.
 HU·Golden Blade\nof The Ultra One
 HU·Blade of 7 Star
-When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Lightness" techniques will not be effective.
+When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Quick" techniques will not be effective.
 HU·Blade of Endless
 If the enemy is still within the attack range of the user, he/she will immediately attack the enemy with another "sword technique" of a rank no higher than this one, without consumption, starting from 50% of the execution progress.
 HU·Heavenly Spirit\nBlade
@@ -3748,7 +3748,7 @@ When you start to perform this power, you will recover all your body and foot po
 When you start to use this power, you will regain all your body and foot power; when you attack the enemy with this power, the more foot power you have left, the more the power of this power will increase.
 soulless soul
 Promote hair protection light spirit
-When you start to use this power, you can use the "Aegis" and "Lightness" powers immediately and at the same time without the need to use them, and the power of these powers will be greatly increased until the end of these powers.
+When you start to use this power, you can use the "Aegis" and "Quick" powers immediately and at the same time without the need to use them, and the power of these powers will be greatly increased until the end of these powers.
 Heart to Heart
 During the application of this power, the chance of the enemy hitting the direction of the enemy is halved, and whenever the enemy fails to hit the direction of the enemy, the enemy randomly appears 4 sealed points
 During the application of this power, the chance of the enemy hitting the user is halved, and whenever the enemy fails to hit the user, the enemy randomly appears 4 sealed points
@@ -3819,7 +3819,7 @@ When you start to use this power: apply a gain status to Huanxin that increases 
 Sheltered light
 When this divine power starts to be exerted: the 2 minus states on Huanxin will change to gain states; the 2 plus states on the enemy will change to minus states; when this divine power is at 10% power, it will "block" all the enemy's "Aegis" techniques that are not permanently blocked for a short time
 Lost
-Sealing the Lightness of the Enemy
+Sealing the Quick of the Enemy
 When you start to exercise this power: apply a gain status to Huan Xin that increases body and qi breakage; apply a decrease status to the enemy that reduces body and qi breakage; when this power reaches 10% of its power, "block" all the enemy's "Light Spirit" techniques that are not permanently blocked for a short time
 Three-Three Spiritualization
 Absorbing the enemy's true qi
