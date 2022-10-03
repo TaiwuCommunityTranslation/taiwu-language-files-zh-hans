@@ -46,7 +46,7 @@ Improve healing effect
 Dramatically increases the number of wounds that can be healed when the user performs "healing" in battle
 Meridian\nEnhancement
 Resolve Up
-The more wound markers the user removes with "Heal" in battle, the stronger the effect of a gain status that enhances the user's unloading power, dismantling, dodge, and heart guard.
+The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that enhances the user's unloading power, dismantling, dodge, and heart guard.
 Ultra Harmony\nof Wudang
 Increase the power limit of the user's "Wudang School" techniques
 Vitality\nRetainin
@@ -275,7 +275,7 @@ Exempt from racking consumption
 When the user has 7 or more available stances, all "Break" type techniques performed by the user do not require the use of stances, and the more stances that are free from consumption, the more the power of the technique increases.
 Holy Light Inspiration
 Eliminate your mark
-When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 wound markers
+When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 injuries
 36 Moves of Needle Change
 Improving the hit of change of move
 Improves the power, subtlety, speed, and heartiness of the user's "move".
@@ -358,7 +358,7 @@ Lion Roar
 When the battle starts and the total number of defeat marks of the user exceeds half of the defeat condition, all the enemy's stances and kicks are eliminated
 Overlord's Armor Absorb
 E·Force Dn
-When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Body Protecting" True Qi will be depleted according to the number of wound markers inflicted by the enemy, and the user's depleted "Body Protecting" True Qi will change to "Destroying" True Qi
+When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Body Protecting" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the user's depleted "Body Protecting" True Qi will change to "Destroying" True Qi
 5 Ghosts Handling
 Exchange of broken qi for body
 When defending with this technique, if the user's body is lower than the enemy's broken aura, the user's body and broken aura will be temporarily exchanged with the enemy's.
@@ -436,7 +436,7 @@ Flood Dragon's Bone Regeneration
 Automatic healing of injuries
 When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all external injury of the user will be eliminated by themselves quickly with time
 9 Colored Jade Cicada
-When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 wound markers of the user
+When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 injuries of the user
 Go With The Flow
 Force Change·RNG
 Eliminate useless storage type
@@ -1727,7 +1727,7 @@ When attacking the enemy with this technique, this technique will directly attac
 Taichi Swipe
 After this technique has been used for 10% of its power, the user gains 2 levels of this effect: the "Whisk" technique performed by the user is transformed from Heterodox practice to Orthodox practice, and the power of the transformed Heterodox practice "Whisk" technique is greatly increased.
 Laojun Swipe
-At the beginning of the battle, the user gains 6 levels of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, this effect is consumed to remove the user's wound markers; for every injury removed, 1 level of this effect is consumed; when this technique becomes 10% more powerful, 1 level of this effect is restored, up to a maximum of 3 levels
+At the beginning of the battle, the user gains 6 levels of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, this effect is consumed to remove the user's injuries; for every injury removed, 1 level of this effect is consumed; when this technique becomes 10% more powerful, 1 level of this effect is restored, up to a maximum of 3 levels
 Yin-Yang Invert
 Restraint Orthodox practice Nadis
 The direct injuries caused by this technique will be resisted by the enemy's imperial qi; during the execution of this technique, all of the enemy's Orthodox "Qi" techniques cannot be effective.
@@ -1840,7 +1840,7 @@ Reverse - Inner Classic Ling Shu Chapter
 Reduced enemy healing effect
 Significantly reduces the number of wounds that can be healed when an enemy performs "healing" in combat
 Reversal - Golden Needle Vascularization Technique
-The more wound markers the user removes with "Heal" in battle, the stronger the effect of a gain status that increases the user's power, subtlety, swiftness, and motivation.
+The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that increases the user's power, subtlety, swiftness, and motivation.
 Inverse - Wudang Taihe Kung Fu
 Reduces the need to use the user's "Wudang School" techniques
 Reverse - Hold the Origin and Keep the One
@@ -2129,7 +2129,7 @@ The heavier the weapon of the user, the more direct damage the enemy will inflic
 HU·Lion Roar
 When the battle starts and the total number of defeat marks of the user exceeds half of the defeat condition, all the enemy's boosts and stances are removed
 HU·Overlord's Armor Absorb
-When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Destructive" True Qi will be depleted according to the number of wound markers inflicted by the enemy, and the "Destructive" True Qi depleted by the user will change to "Body Protective" True Qi
+When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Destructive" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the "Destructive" True Qi depleted by the user will change to "Body Protective" True Qi
 HU·5 Ghosts Handling
 Exchange of body-breaking imperial qi
 When defending with this technique, if the user's imperial qi is lower than the enemy's broken body, the imperial qi and broken body of the user and the enemy will be temporarily exchanged.
@@ -2148,7 +2148,7 @@ HU·Elephant Imitation
 Diverting enemy gain
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 3 levels; whenever the user reacts to an enemy attack, 1 enemy gain status is transferred to the user
 HU·Thousands Incarnation Return
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user's internal injury will be restored to the amount it was at the beginning of the defense with this technique, and half of the non-old internal wound markers removed by the restoration will be applied to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user's internal injury will be restored to the amount it was at the beginning of the defense with this technique, and half of the non-old internal injuries removed by the restoration will be applied to the enemy.
 HU·Pure Virgin
 The higher the charisma of the user, the higher the compliance of the user.
 HU·Reclamation Stance
@@ -2239,7 +2239,7 @@ For each type of compulsion applied to the user, the user's random type of true 
 HU·Ghost Included
 When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 Disorientation mark to the enemy for every 2 wound marks the enemy has
 HU·Sky Snake Bone Exchange
-The user's internal wound markers will be removed over time; when the total number of the user's defeat markers exceeds half of the defeat condition, the user's existing internal wounds will only be aggravated by more severe internal wounds to the same area.
+The user's internal injuries will be removed over time; when the total number of the user's defeat markers exceeds half of the defeat condition, the user's existing internal wounds will only be aggravated by more severe internal wounds to the same area.
 HU·Sky Bridge
 Eliminate all breakdowns
 Whenever the total number of broken spots in the whole body of the user is not less than 7, all the broken spots on the user's body will be eliminated, and no effect from the elimination of the broken spots will be triggered.
@@ -3501,7 +3501,7 @@ Spirit Smelting！
 When Yi Yi Hou is defeated for the first time, he will enter a new phase of the battle: as long as Yi Yi Hou has more styles available than the enemy has available, the direct damage dealt by Yi Yi Hou's divine power to the enemy will become 10 times greater, and cannot be recoiled.
 Dragonborn
 Draconic Anima！
-When Wei Qi is defeated for the first time, he will enter a new phase of the battle: Wei Qi's external and internal wound markers will quickly remove themselves with time
+When Wei Qi is defeated for the first time, he will enter a new phase of the battle: Wei Qi's external and internal injuries will quickly remove themselves with time
 Animator of Jade
 Anchorite！
 The first time Ezra is defeated, he will enter a new phase of the battle: the more Ezra's kick strength is left, the more Ezra's unloading, dismantling, dodging, and heart guarding will be improved
@@ -3542,7 +3542,7 @@ Injuries from changes
 During the duration of this divine power, all direct damage to the direction will be changed to the loss of body mana
 bleeding and sculling
 Increase the power of the gods
-The power of this divine power will increase dramatically with the number of wound markers of Blood Maple
+The power of this divine power will increase dramatically with the number of injuries of Blood Maple
 ride the light and cloak the haze
 When moving with this divine power, the operator needs to accumulate power. After accumulating power, the operator can appear at any distance without triggering various movement effects
 Magic I am free
