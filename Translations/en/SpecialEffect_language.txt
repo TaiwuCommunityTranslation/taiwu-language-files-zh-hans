@@ -22,7 +22,7 @@ Increase the power limit of the user's "Emei School" techniques
 Emei Pillar\nHolding
 The higher the percentage of "Wood" internal power of the user, the more the user's body and qi will be improved.
 Original Pure\nForce
-The user's "Wood" type technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Return to the Source".
+The user's "Wood" type technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Earth".
 Spirituality\nComprehension
 skill power up
 Whenever the user obtains an available style, the user has a very low chance of increasing the power of all the user's feats, which lasts until the end of the battle.
@@ -70,7 +70,7 @@ Increases the power limit of the user's "Yuanshan School" techniques
 Lighter\nYuanshan Force
 The higher the ratio of the user's internal energy, the more the user's body and qi will be improved.
 Greater\nYuanshan Force
-The user's "Return to the Source" type of technique will cause more direct damage and repercussion damage to characters with "Water" internal power attribute.
+The user's "Earth" type of technique will cause more direct damage and repercussion damage to characters with "Water" internal power attribute.
 Silence Methods
 Convert the user's "Metal" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will be increased.
 Inscrutable\nRound
@@ -208,7 +208,7 @@ Significantly increases the power of the user's "Fire" type techniques
 Hou Meditation
 Increases the power limit of the user's "Blood Hollow Cult" techniques
 4 Methods of\nDark Corpse
-Increases the power of the user's "Return to the Source" type techniques
+Increases the power of the user's "Earth" type techniques
 Evil Ghost
 When the internal power attribute of the user is "Return to the source", the direct damage and repercussion damage caused by the "Water" type techniques to the user will be reduced.
 3 Poisons of\nDarkness Spell
@@ -218,7 +218,7 @@ Convert the user's "Fire" internal energy into "Returning Energy" internal energ
 The Great 5 Yin
 The higher the ratio of the user's internal energy to the "Returning Element", the more the user's ability to disarm, dismantle, dodge, and guard the heart will increase.
 Children's\nBlood Sacrifice
-Significantly increases the power of the user's "Return to the Source" type techniques
+Significantly increases the power of the user's "Earth" type techniques
 Evil Scripture\nof Blood Hou
 When the internal energy attribute of the user is "Returning Energy", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 The Great Blood\nChild
@@ -1863,7 +1863,7 @@ Reduces the need to use the "GenSan School" techniques of the user
 Inverse - Xiao Yuan Shan Jin
 The higher the ratio of the user's "Returning Energy" internal energy, the more the user's body breaking and qi breaking will be improved.
 Inverse-Daewonsanjin
-The user's "Return to the Source" type of technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Wood".
+The user's "Earth" type of technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Wood".
 Inverse-No Mind Tricks
 Converts the user's "Wood" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will increase.
 Inverse-Hunyuan WuXiangGong
@@ -1898,7 +1898,7 @@ Reduces the need to use the "Xuan Nui School" techniques of the user
 Inverse - Jade Bone
 The higher the percentage of "Water" internal energy of the user, the more the user's body breaking and qi breaking will be improved.
 Inverse-Wang Shu Royal Moon Kung Fu
-The user's "Water" type techniques will cause more direct damage and repercussion damage to characters whose internal power attribute is "Return to the Source".
+The user's "Water" type techniques will cause more direct damage and repercussion damage to characters whose internal power attribute is "Earth".
 Inverse - Shao Yin Yi Ming Jue
 Significantly reduce the "root and bone" consumption of the user
 Reverse-Sihwajin Sutra
@@ -1999,7 +1999,7 @@ Significantly reduces the consumption of qi and stance in the "Fire" type of kun
 Inverse - Himalayan mother work
 Reduces the need to use the "Blood Hollow Cult" techniques of the user
 Reverse-Black Corpse Four Tips
-Reduces the consumption of qi and stance of the user's "Return to the Source" type of gong
+Reduces the consumption of qi and stance of the user's "Earth" type of gong
 Inverse - Evil Ghost Kung Fu
 When the internal power attribute of the user is "return to the source", it reduces the direct damage and repercussion damage caused by the "Wood" type techniques to the user.
 Inverse-Three Poisonous Ignorance Mantra
@@ -2852,7 +2852,7 @@ When the power of this technique is at 10%, part of the power of this technique 
 HU·Soul Chasing\nSwordsmanship
 The farther the user retreats, the more the power of this technique increases. For every distance the user retreats, the user can gain 2 points of "Light Spirit" true qi.
 HU·Holy Ruler\nSwordsmanship
-When this technique is used at 10% of its power, the power of the enemy's 3 "Return to the Source" techniques is reduced and lasts until the end of the battle.
+When this technique is used at 10% of its power, the power of the enemy's 3 "Earth" techniques is reduced and lasts until the end of the battle.
 HU·Swordsmanship\nof Azure Spider
 When this technique is used at 10% of its power, it halves the power of the enemy's 3 "Break" techniques whose internal power ratio is higher than the external power ratio, and lasts until this technique is performed by the enemy.
 HU·Snaking Whip
