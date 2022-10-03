@@ -1,15 +1,15 @@
 Zen\nMeditation
 Increases the power limit of the user's "Shaolin School" techniques
 Arhat\nMeditation
-Increases the power of the user's "Vajra" type techniques
+Increases the power of the user's "Metal" type techniques
 Spiritual Unity\nCultivation
-When the internal power attribute of the user is "Vajra", the direct damage and repercussion damage caused to the user by "Purple Haze" type techniques will be reduced.
+When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused to the user by "Purple Haze" type techniques will be reduced.
 Formless Zen
 Significantly increase the upper limit of the user's "fixation"
 Bodhi\nMeditation
-Convert the "Xuan Yin" internal energy of the user into "Vajra" internal energy, the more the percentage of conversion, the more the power of the user's "Vajra" type techniques will be increased.
+Convert the "Xuan Yin" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
 Za-A-Han\nScripture
-Converts the "reverse" effect of the user's "Vajra" type techniques other than "internal" into a "positive" effect.
+Converts the "reverse" effect of the user's "Metal" type techniques other than "internal" into a "positive" effect.
 Great Arahant\nExercises
 The higher the attainment of "Buddhism" of the user, the more wounds the user can heal during the battle.
 Tendon\nRenewal Sutra
@@ -72,7 +72,7 @@ The higher the ratio of the user's internal energy, the more the user's body and
 Greater\nYuanshan Force
 The user's "Return to the Source" type of technique will cause more direct damage and repercussion damage to characters with "Xuan Yin" internal power attribute.
 Silence Methods
-Convert the user's "Vajra" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will be increased.
+Convert the user's "Metal" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will be increased.
 Inscrutable\nRound
 Converts the "reverse" effect of the user's "rejuvenation" techniques other than "internal energy" into a "positive" effect.
 Stable Breath
@@ -145,21 +145,21 @@ The longer the remaining life span of the user, the more the power of all the fe
 Vajra-Hearted\nBuddha Meditation
 Increases the power limit of the user's "Vajra Sect" technique
 Internal Fire\nYoga
-The higher the percentage of "Vajra" internal power of the user, the more the user's body and qi will be improved.
+The higher the percentage of "Metal" internal power of the user, the more the user's body and qi will be improved.
 Trinity\nof Buddha
-The "Vajra" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Purple Haze".
+The "Metal" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Purple Haze".
 Aquarius\nMeditation
 The more types of true qi the user has that exceed his or her true qi limit, the more the power of all the user's feats will increase
 Vajra-Inherited\nMeditation
-The higher the ratio of "Vajra" internal power of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
+The higher the ratio of "Metal" internal power of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 The Great Sun\nScripture
-Convert the user's "Returning Energy" internal energy into "Vajra" internal energy, the more the percentage of conversion, the more the user's "Vajra" type power will be increased.
+Convert the user's "Returning Energy" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
 The Great Vajra\nScripture
-Significantly increases the power of the user's "Vajra" type techniques
+Significantly increases the power of the user's "Metal" type techniques
 Mahakala\nGuardian's Cultivation
 If the total number of defeat marks of the user exceeds half of the defeat condition, the user will no longer be broken
 Tantric Atiyoga
-When the internal power attribute of the user is "Vajra", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
+When the internal power attribute of the user is "Metal", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 Poisoning\nMethod
 Increase the power limit of the user's "Five Immortals" technique
 Yellow\nImmortals Cultivation
@@ -183,7 +183,7 @@ When the internal power attribute of the user is "Xuan Yin", the direct damage a
 Step Sky
 Significantly increase the "sensitivity" limit of the user
 Mysterious\nScripture
-Convert the user's "Vajra" internal energy into "Xuan Yin" internal energy, the more the conversion ratio, the more the user's "Xuan Yin" type power will increase.
+Convert the user's "Metal" internal energy into "Xuan Yin" internal energy, the more the conversion ratio, the more the user's "Xuan Yin" type power will increase.
 Posthumous Ginseng
 Change the "reverse" effect of the user's "Xuan Yin" type of kung fu other than "internal kung fu" into a "positive" effect
 Galaxy Map
@@ -193,7 +193,7 @@ Increases the power limit of the user's "Furyan" technique
 Fulong\nFire-Engulf
 The higher the percentage of "pure yang" internal energy of the user, the more the user's imperial body and qi will be improved.
 Pure Qi of Fire
-The user's "Pure Yang" type techniques will cause more direct damage and repercussion damage to characters with "Vajra" internal power attribute.
+The user's "Pure Yang" type techniques will cause more direct damage and repercussion damage to characters with "Metal" internal power attribute.
 Divine Jade\nYang
 Dramatically increase the amount of true qi gained by the user in battle
 Dragon Engulf\nElephant
@@ -1267,7 +1267,7 @@ Divine Fist\nof Jade Yang
 Increase the number of effect layers
 If you consume 3 points of the user's "Break" true qi when this technique is used at 10% of its power, it will randomly change the number of levels of the duration effect of one of the user's "Break" techniques to the maximum.
 Fire Palm of\n6 Yang
-When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Vajra", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the ongoing effect of the enemy's 3 "Break" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Metal", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the ongoing effect of the enemy's 3 "Break" techniques to 0 levels.
 Great Jade Yang\nFist
 When you start to perform this technique, the more the number of levels of the duration effect of all the "Break" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
 Dragon Palm
@@ -1689,7 +1689,7 @@ At the beginning of the battle, the user gains 0 layers of this effect: for ever
 The Ultra One\nUnfettered Palm
 In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique increases, and the user can gain 2 points of "qi" for every 1 distance.
 Divine Fist
-When this technique is used at 10% of its power, the enemy's 3 "Vajra" techniques will be "blocked" for a long time.
+When this technique is used at 10% of its power, the enemy's 3 "Metal" techniques will be "blocked" for a long time.
 Wudang\nPure Yang Fist
 When an enemy performs a "Break" technique with a higher percentage of internal energy, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of internal energy when this technique is at 10% of its power.
 Purple Yang\nUpright Fist
@@ -1796,15 +1796,15 @@ Depending on the power of this technique and the amount of energy consumed by th
 Inverse-Quiet Meditation Kung Fu
 Reduces the need to use the Shaolin School techniques of the user
 Inverse-Rohan Kung Fu
-Reduces the consumption of qi and stance of the "Vajra" type of kung fu by the user
+Reduces the consumption of qi and stance of the "Metal" type of kung fu by the user
 Inverse - Heart Qi Mixing Technique
-When the internal power attribute of the user is "Vajra", the direct damage and repercussion damage caused by "Pure Yang" type techniques to the user will be reduced.
+When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused by "Pure Yang" type techniques to the user will be reduced.
 Inverse - Colorless Zen Kung Fu
 Significantly reduce the consumption of "fixation" by the user
 Reverse-Bodhicitta Practice
-Convert the user's "Purple Haze" internal energy into "Vajra" internal energy, the more the percentage of conversion, the more the user's "Vajra" type power will be increased.
+Convert the user's "Purple Haze" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
 Reverse - Miscellaneous Aramaic Sutras
-Changing the "positive" effect of the user's "Vajra" type techniques other than "internal" to "negative" effect
+Changing the "positive" effect of the user's "Metal" type techniques other than "internal" to "negative" effect
 Inverse - Aloha Divine Kung Fu
 The higher the user's "Buddhism" attainment, the more toxins the user can dispel when performing "exorcism" in battle.
 Reverse-Ease of the Tendon
@@ -1817,12 +1817,12 @@ Reduces the need to use the "Emei School" techniques of the user
 Reverse-Emei Twelve Piles
 The higher the percentage of "Purple Haze" internal power of the user, the more the user's body breaking and qi breaking will be increased.
 Inverse - Innate One Element Qigong
-The "Purple Haze" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Vajra".
+The "Purple Haze" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Metal".
 Inverse - Spiritual Enlightenment
 Reducing the power of enemy feats
 Whenever the user obtains an available style, the user has a very low chance of reducing the power of all enemy feats until the end of the battle.
 Inverse-Lotus Tai Xuan Kung Fu
-Convert the user's "Vajra" internal energy into "Purple Haze" internal energy, the more the percentage of conversion, the more the user's "Purple Haze" type power will be increased.
+Convert the user's "Metal" internal energy into "Purple Haze" internal energy, the more the percentage of conversion, the more the user's "Purple Haze" type power will be increased.
 Reversal-Pu Yin Xin Jing
 The higher the percentage of "Purple Haze" internal power of the user, the more the user's power, subtlety, swiftness, and heart will increase.
 Inverse - Sitting and Forgetting
@@ -1881,7 +1881,7 @@ Reduces the need to use the "Ransan School" techniques of the user
 Inverse-Round Method
 When the user's position in the world is neutral, the power of all the user's techniques will be increased; when the user's position in the world is opposite to that of the enemy, the power of all the user's techniques will be increased.
 Inverse-Substantive Method
-When the internal power attribute of the user is "Purple Haze", it reduces the direct damage and repercussion damage caused by "Vajra" type techniques to the user.
+When the internal power attribute of the user is "Purple Haze", it reduces the direct damage and repercussion damage caused by "Metal" type techniques to the user.
 Reverse-Damage Method
 Significantly reduce the "enlightenment" consumption of the user
 Inverse-Sheng Shen Fa
@@ -1935,23 +1935,23 @@ Dramatically reduce the "body" consumption of the user
 Inverse-Jiu Ding Gong
 The shorter the remaining life span of the user, the more the power of all the feats of the user will be increased
 Reverse - Vajra Four Karmas
-Reduces the need to use the Vajra technique of the user
+Reduces the need to use the Metal technique of the user
 Inverse-Toom Kung Fu
-The higher the ratio of "Vajra" internal power of the user, the more the user's body breaking and qi breaking will be improved.
+The higher the ratio of "Metal" internal power of the user, the more the user's body breaking and qi breaking will be improved.
 Inverse-Three Secret Response Method
-The user's "Vajra" type techniques will cause more direct damage and repercussion damage to characters with "Pure Yang" internal power attribute.
+The user's "Metal" type techniques will cause more direct damage and repercussion damage to characters with "Pure Yang" internal power attribute.
 Inverse - Baobao Qi Gong Method
 The more true qi types an enemy has below its true qi limit, the more the power of all the feats of the applicator increases
 Reverse - Vajra Dzogchen
-The higher the percentage of "Vajra" internal power of the user, the more the user's power, subtlety, swiftness, and heartbeat will increase.
+The higher the percentage of "Metal" internal power of the user, the more the user's power, subtlety, swiftness, and heartbeat will increase.
 Reverse-Daishonin Sutra
 Convert the "pure yang" internal energy of the user into "vajra" internal energy, the more the percentage of conversion, the more the power of the user's "vajra" type techniques will be increased.
 Reverse - Vajradhara Sutra
-Significantly reduces the consumption of qi and stance of the "Vajra" type of kung fu by the user
+Significantly reduces the consumption of qi and stance of the "Metal" type of kung fu by the user
 Inverse-Mahakala Guardianship
 If the total number of defeat marks of the user exceeds half of the defeat condition, the user will not be closed again.
 Inverse - Supreme Yoga Method
-When the internal power attribute of the user is "Vajra", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
+When the internal power attribute of the user is "Metal", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Reverse-Poisoning Technique
 Reduces the need to use the "Five Immortals" technique of the user
 Reverse-Huang Xianfa
@@ -1989,7 +1989,7 @@ The user's "pure yang" type of technique will cause more direct damage and reper
 Reverse-Small Yu Yang Shen Gong
 Significantly reduce the amount of qi lost by the user in battle
 Reverse - Wild Dragon Swallowing Elephant Kung Fu
-Convert the user's "Vajra" internal energy into "Pure Yang" internal energy, the more the conversion ratio, the more the user's "Pure Yang" type power will increase.
+Convert the user's "Metal" internal energy into "Pure Yang" internal energy, the more the conversion ratio, the more the user's "Pure Yang" type power will increase.
 Inverse - Nine Dragons to One Kung Fu
 Change the "positive" effect of the "pure Yang" type of kung fu of the user other than "internal kung fu" to "negative" effect
 Inverse - Into the Magic Kung Fu
@@ -2891,7 +2891,7 @@ When you start performing this technique, a portion of the power of the most pow
 HU·Divine Fist\nof Jade Yang
 When this technique is used at 10% of its power, if 3 points of the user's "Break" true qi are consumed, it randomly changes the number of layers of the enemy's "Break" technique's lasting effect to the lower limit.
 HU·Fire Palm of\n6 Yang
-If the enemy's internal power attribute is "Vajra" when this technique is used at 10% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
+If the enemy's internal power attribute is "Metal" when this technique is used at 10% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
 HU·Great Jade Yang\nFist
 When you start to perform this technique, the more the number of levels of the enemy's "Break" technique's lasting effect is close to its lower limit, the more the power of this technique increases.
 HU·Dragon Palm
@@ -3283,7 +3283,7 @@ At the beginning of the battle, the user gets 0 layers of this effect: for every
 HU·The Ultra One\nUnfettered Palm
 The farther the user retreats, the more the power of this technique will increase. For every distance the user retreats, he/she will be able to gain 2 points of "Qi" true qi.
 HU·Divine Fist
-When this technique is used at 10% of its power, the power of the enemy's 3 "Vajra" techniques is reduced and lasts until the end of the battle.
+When this technique is used at 10% of its power, the power of the enemy's 3 "Metal" techniques is reduced and lasts until the end of the battle.
 HU·Wudang\nPure Yang Fist
 When an enemy performs a "Break" technique with a higher percentage of external power, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of external power when this technique is at 10% of its power.
 HU·Purple Yang\nUpright Fist
@@ -3594,13 +3594,13 @@ When defending with this divine power: the degree of injury of direct damage inf
 Di Zhao Xuan Huo Seal
 When defending with this divine power, the degree of injury caused by the Dragon Whispering Por to the enemy's recoil damage increases according to the number of injury marks on the attacked part of the Dragon Whispering Por
 Donglai Yiqi
-The direct damage inflicted by Mo Mui on characters with the internal power attribute of "Return to Yuan" is greatly increased; the direct damage inflicted by characters with the internal power attribute of "Vajra" on Mo Mui is greatly increased
+The direct damage inflicted by Mo Mui on characters with the internal power attribute of "Return to Yuan" is greatly increased; the direct damage inflicted by characters with the internal power attribute of "Metal" on Mo Mui is greatly increased
 Vajra Breaks Evil
 The direct damage dealt by Dayue Yaochang to characters with the internal power attribute "Zi Xia" is greatly increased; the direct damage dealt by characters with the internal power attribute "Pure Yang" to Dayue Yaochang is greatly increased
 The Nine Netherworlds
 The direct damage dealt by Jiu Han to characters with internal energy attribute "Pure Yang" is greatly increased; the direct damage dealt by characters with internal energy attribute "Return to Yuan" to Jiu Han is greatly increased
 Extra-Terrestrial True Fire
-The direct damage dealt by Jin Huo'er to characters with internal power attribute "Vajra" is greatly increased; the direct damage dealt by characters with internal power attribute "Xuan Yin" to Jin Huo'er is greatly increased
+The direct damage dealt by Jin Huo'er to characters with internal power attribute "Metal" is greatly increased; the direct damage dealt by characters with internal power attribute "Xuan Yin" to Jin Huo'er is greatly increased
 illusion
 Yi Yi Hou deals significantly more direct damage to characters whose heart is lower than his own; characters whose heart is higher than Yi Yi Hou's deal significantly more direct damage to Yi Yi Hou
 seek the law outside the body
