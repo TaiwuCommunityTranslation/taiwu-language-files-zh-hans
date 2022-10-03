@@ -5,7 +5,7 @@ Increases the power of the user's "Metal" type techniques
 Spiritual Unity\nCultivation
 When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused to the user by "Wood" type techniques will be reduced.
 Formless Zen
-Significantly increase the upper limit of the user's "fixation"
+Significantly increase the upper limit of the user's "Willpower"
 Bodhi\nMeditation
 Convert the "Water" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
 Za-A-Han\nScripture
@@ -1800,7 +1800,7 @@ Reduces the consumption of qi and stance of the "Metal" type of kung fu by the u
 Inverse - Heart Qi Mixing Technique
 When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
 Inverse - Colorless Zen Kung Fu
-Significantly reduce the consumption of "fixation" by the user
+Significantly reduce the consumption of "Willpower" by the user
 Reverse-Bodhicitta Practice
 Convert the user's "Wood" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
 Reverse - Miscellaneous Aramaic Sutras
