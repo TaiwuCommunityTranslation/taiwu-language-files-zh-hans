@@ -89,7 +89,7 @@ Increases the power limit of the user's "Ransan School" techniques
 Whirling Circle
 When the user's position in the world is neutral, the power of all the user's techniques will be increased; when the user's position in the world is not opposed to that of the enemy, the power of all the user's techniques will be increased.
 True Will\nCultivation
-When the internal power attribute of the user is "Wood", the direct damage and repercussion damage caused to the user by the "Return to Origin" type of technique will be reduced.
+When the internal power attribute of the user is "Wood", the direct damage and repercussion damage caused to the user by the "Earth" type of technique will be reduced.
 Focus Thought
 Significantly increase the upper limit of "enlightenment" of the user
 Activate Energy
@@ -1971,7 +1971,7 @@ Reduces the user's need to use the "Boundary Green Gate" technique
 Inverse-Tian Yuan method of raising Qi
 Reduces the consumption of qi and stance of the user's "Water" type techniques
 Reverse-The Twelve Scrolls of the Eastern Wall
-When the internal power attribute of the user is "Water", the direct damage and repercussion damage caused by the "Return to Origin" type of technique to the user will be reduced.
+When the internal power attribute of the user is "Water", the direct damage and repercussion damage caused by the "Earth" type of technique to the user will be reduced.
 Reverse-Bu Tian Ge
 Significantly reduce the "sensitive" consumption of users
 Reverse - Xuan Hei Zhen Jing
@@ -2005,11 +2005,11 @@ When the internal power attribute of the user is "return to the source", it redu
 Inverse-Three Poisonous Ignorance Mantra
 The more painful the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Inverse - Taiyin Refining Form
-Convert the user's "Water" internal energy into "Return to Origin" internal energy, the more the percentage of conversion, the more the power of the user's "Return to Origin" type techniques will increase.
+Convert the user's "Water" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the power of the user's "Earth" type techniques will increase.
 Inverse - Five Yin Dada
 The higher the ratio of the user's "Returning Element" internal energy, the more the user's power, subtlety, swiftness, and heartbeat will increase.
 Inverse - Child's Blood Refining Method
-Significantly reduces the consumption of qi and stance of the user's "Return to Origin" type of gong.
+Significantly reduces the consumption of qi and stance of the user's "Earth" type of gong.
 Reverse - Blood Hollow Evil Scripture
 When the internal energy attribute of the user is "return to the source", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Inverse - Blood Child Method
