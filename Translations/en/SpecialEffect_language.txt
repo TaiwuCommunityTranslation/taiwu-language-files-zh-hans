@@ -3,7 +3,7 @@ Increases the power limit of the user's "Shaolin School" techniques
 Arhat\nMeditation
 Increases the power of the user's "Metal" type techniques
 Spiritual Unity\nCultivation
-When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused to the user by "Purple Haze" type techniques will be reduced.
+When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused to the user by "Wood" type techniques will be reduced.
 Formless Zen
 Significantly increase the upper limit of the user's "fixation"
 Bodhi\nMeditation
@@ -20,18 +20,18 @@ Increase the upper limit of all major attributes of the user; if the user is a c
 Abdominal\nBreathing
 Increase the power limit of the user's "Emei School" techniques
 Emei Pillar\nHolding
-The higher the percentage of "Purple Haze" internal power of the user, the more the user's body and qi will be improved.
+The higher the percentage of "Wood" internal power of the user, the more the user's body and qi will be improved.
 Original Pure\nForce
-The user's "Purple Haze" type technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Return to the Source".
+The user's "Wood" type technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Return to the Source".
 Spirituality\nComprehension
 skill power up
 Whenever the user obtains an available style, the user has a very low chance of increasing the power of all the user's feats, which lasts until the end of the battle.
 Lotus\nMysterious
-Convert the "Pure Yang" internal energy of the user into "Purple Haze" internal energy, the more the percentage of conversion, the more the power of the user's "Purple Haze" type techniques will be increased.
+Convert the "Pure Yang" internal energy of the user into "Wood" internal energy, the more the percentage of conversion, the more the power of the user's "Wood" type techniques will be increased.
 Puxian\nScripture
-The higher the ratio of the "Purple Haze" internal power of the user, the more the user's unloading power, dismantling moves, dodging and heart guarding will be improved.
+The higher the ratio of the "Wood" internal power of the user, the more the user's unloading power, dismantling moves, dodging and heart guarding will be improved.
 Anatta
-Significantly increases the power of the user's "Purple Haze" type techniques
+Significantly increases the power of the user's "Wood" type techniques
 Great Nirvana
 The higher the "reputation" of the user's past lives, the more the power of all the user's feats will increase.
 Diagram of\nAcupunture Points
@@ -55,7 +55,7 @@ Horizontal Feet
 Stance Up
 When the user consumes only Qi, a portion of the stance will be restored.
 Celestial Pillar\nHolding
-Convert the user's "Purple Haze" internal energy into "Pure Yang" internal energy, the more the conversion ratio, the more the user's "Pure Yang" type power will be increased.
+Convert the user's "Wood" internal energy into "Pure Yang" internal energy, the more the conversion ratio, the more the user's "Pure Yang" type power will be increased.
 Golden Scripture\nof Marrow-Regen
 The higher the ratio of "pure yang" internal energy of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 Wudang\nMixed Element
@@ -89,7 +89,7 @@ Increases the power limit of the user's "Ransan School" techniques
 Whirling Circle
 When the user's position in the world is neutral, the power of all the user's techniques will be increased; when the user's position in the world is not opposed to that of the enemy, the power of all the user's techniques will be increased.
 True Will\nCultivation
-When the internal power attribute of the user is "Purple Haze", the direct damage and repercussion damage caused to the user by the "Return to Origin" type of technique will be reduced.
+When the internal power attribute of the user is "Wood", the direct damage and repercussion damage caused to the user by the "Return to Origin" type of technique will be reduced.
 Focus Thought
 Significantly increase the upper limit of "enlightenment" of the user
 Activate Energy
@@ -97,7 +97,7 @@ The power of all feats of the user will be continuously increased and accumulate
 Efficiency Gains
 Change the "reverse" effect of the user's "purple haze" type of kung fu other than "internal kung fu" into a "positive" effect
 Diffuse\nMomentum
-When the internal power attribute of the user is "Purple Haze", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
+When the internal power attribute of the user is "Wood", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 Ingenious\nMysterious
 Increases Qi in the odd body
 At the beginning of a battle, the user's "Nadis" true energy is increased significantly; the amount of "Nadis" true energy gained during the battle is increased significantly; the amount of "Nadis" true energy lost during the battle is decreased significantly.
@@ -112,7 +112,7 @@ Significantly increase the "root bone" limit of the user
 Xihua\nScripture
 The higher the percentage of "Xuan Yin" internal power of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 Holy Princess
-Convert the user's "Purple Haze" internal energy into "Xuan Yin" internal energy, the more the conversion ratio, the more the user's "Xuan Yin" type power will increase.
+Convert the user's "Wood" internal energy into "Xuan Yin" internal energy, the more the conversion ratio, the more the user's "Xuan Yin" type power will increase.
 Nimbus Shower
 Significantly increases the power of the user's "Xuan Yin" type techniques
 Supreme\nGoddess Cultivation
@@ -147,7 +147,7 @@ Increases the power limit of the user's "Vajra Sect" technique
 Internal Fire\nYoga
 The higher the percentage of "Metal" internal power of the user, the more the user's body and qi will be improved.
 Trinity\nof Buddha
-The "Metal" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Purple Haze".
+The "Metal" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Wood".
 Aquarius\nMeditation
 The more types of true qi the user has that exceed his or her true qi limit, the more the power of all the user's feats will increase
 Vajra-Inherited\nMeditation
@@ -165,11 +165,11 @@ Increase the power limit of the user's "Five Immortals" technique
 Yellow\nImmortals Cultivation
 Significantly increases the speed of the user's "poison removal" in battle
 Red Immortals\nCultivation
-Increases the power of the user's "Purple Haze" type techniques
+Increases the power of the user's "Wood" type techniques
 Black\nImmortals Cultivation
 Significantly increases the amount of toxins that can be dispelled when the user performs "poison repelling" in battle
 Azure\nImmortals Cultivation
-Convert the user's "Xuan Yin" internal energy into "Purple Haze" internal energy, the more the percentage of conversion, the more the user's "Purple Haze" type power will be increased.
+Convert the user's "Xuan Yin" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Soul Out\nMeditation
 The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect of a gain status that enhances the user's unleashing power, dismantling, dodge, and heart guard.
 The Great Evil\nBody
@@ -1331,7 +1331,7 @@ At the beginning of the battle, the user gains 0 layers of this effect: every ti
 Blade of\nVajra Fall
 When this technique is used at 10% of its power, the enemy will lose 6 points of "Aegis" true qi.
 Vajra Prajna\nBlade
-When this technique is used at 10% of its power, the enemy's 3 "Purple Haze" techniques will be "blocked" for a long time.
+When this technique is used at 10% of its power, the enemy's 3 "Wood" techniques will be "blocked" for a long time.
 Ruyibaolun\nBlade
 After this technique has reached 10% of its power, the user gains 2 levels of this effect: Whenever an enemy gains a gain status not due to this technique, the strength of the gain status that the enemy will gain is doubled and transferred to the user, and an opposing minus status is applied to the enemy.
 Blade of\n6 Mighty Powers
@@ -1515,7 +1515,7 @@ When attacking an enemy with this technique, if the user's brawn is higher than 
 Increase your own broken body
 When you start performing this technique, the power of this technique increases if the user's body is higher than the user's broken body; when you attack the enemy with this technique, the user's broken body is added to the user's body.
 Vajra Prajna\nPalm
-When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Purple Haze", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Wood", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Demonhunt\nLight Fist
 Change E·Standpt
 When you start to perform this technique, the greater the difference between the enemy's worldly stance and benevolence, the more the attack range and power of this technique will increase; when this technique is at ten percent of its power, if the user's heart is higher than the enemy's heart, the enemy's worldly stance will change to benevolence, and if the enemy's worldly stance thus changes from non-benevolence to benevolence, the enemy will start to run away as soon as he can.
@@ -1802,7 +1802,7 @@ When the internal power attribute of the user is "Metal", the direct damage and 
 Inverse - Colorless Zen Kung Fu
 Significantly reduce the consumption of "fixation" by the user
 Reverse-Bodhicitta Practice
-Convert the user's "Purple Haze" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
+Convert the user's "Wood" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
 Reverse - Miscellaneous Aramaic Sutras
 Changing the "positive" effect of the user's "Metal" type techniques other than "internal" to "negative" effect
 Inverse - Aloha Divine Kung Fu
@@ -1815,18 +1815,18 @@ Greatly reduce the consumption of all major attributes of the user; if the user 
 Inverse-Dantian Opening and Closing Gong
 Reduces the need to use the "Emei School" techniques of the user
 Reverse-Emei Twelve Piles
-The higher the percentage of "Purple Haze" internal power of the user, the more the user's body breaking and qi breaking will be increased.
+The higher the percentage of "Wood" internal power of the user, the more the user's body breaking and qi breaking will be increased.
 Inverse - Innate One Element Qigong
-The "Purple Haze" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Metal".
+The "Wood" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Metal".
 Inverse - Spiritual Enlightenment
 Reducing the power of enemy feats
 Whenever the user obtains an available style, the user has a very low chance of reducing the power of all enemy feats until the end of the battle.
 Inverse-Lotus Tai Xuan Kung Fu
-Convert the user's "Metal" internal energy into "Purple Haze" internal energy, the more the percentage of conversion, the more the user's "Purple Haze" type power will be increased.
+Convert the user's "Metal" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Reversal-Pu Yin Xin Jing
-The higher the percentage of "Purple Haze" internal power of the user, the more the user's power, subtlety, swiftness, and heart will increase.
+The higher the percentage of "Wood" internal power of the user, the more the user's power, subtlety, swiftness, and heart will increase.
 Inverse - Sitting and Forgetting
-Significantly reduces the consumption of qi and stance of the "Purple Haze" type of technique.
+Significantly reduces the consumption of qi and stance of the "Wood" type of technique.
 Reversal of the Great Nirvana Law
 The lower the "reputation" of the user in all previous lives, the more the power of the user's feats will increase.
 Reverse-Copper acupuncture point chart
@@ -1863,9 +1863,9 @@ Reduces the need to use the "GenSan School" techniques of the user
 Inverse - Xiao Yuan Shan Jin
 The higher the ratio of the user's "Returning Energy" internal energy, the more the user's body breaking and qi breaking will be improved.
 Inverse-Daewonsanjin
-The user's "Return to the Source" type of technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Purple Haze".
+The user's "Return to the Source" type of technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Wood".
 Inverse-No Mind Tricks
-Converts the user's "Purple Haze" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will increase.
+Converts the user's "Wood" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will increase.
 Inverse-Hunyuan WuXiangGong
 Changing the "positive" effect of the user's "rejuvenation" techniques other than "internal energy" into a "negative" effect
 Inverse-seal gas fixation method
@@ -1881,7 +1881,7 @@ Reduces the need to use the "Ransan School" techniques of the user
 Inverse-Round Method
 When the user's position in the world is neutral, the power of all the user's techniques will be increased; when the user's position in the world is opposite to that of the enemy, the power of all the user's techniques will be increased.
 Inverse-Substantive Method
-When the internal power attribute of the user is "Purple Haze", it reduces the direct damage and repercussion damage caused by "Metal" type techniques to the user.
+When the internal power attribute of the user is "Wood", it reduces the direct damage and repercussion damage caused by "Metal" type techniques to the user.
 Reverse-Damage Method
 Significantly reduce the "enlightenment" consumption of the user
 Inverse-Sheng Shen Fa
@@ -1889,7 +1889,7 @@ After each battle, the power of all feats of the user will be increased and accu
 Inverse-Subway Method
 Change the "positive" effect of the user's "Zixia" type of kung fu other than "internal" into a "negative" effect.
 Inverse-Dispersion Method
-When the internal power attribute of the user is "Purple Haze", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
+When the internal power attribute of the user is "Wood", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Inverse-Xuanwei True Art
 Reducing the enemy's qi
 At the beginning of a battle, significantly reduce the amount of Qi of the enemy and their helpers; significantly reduce the amount of Qi gained by the enemy during the battle; significantly increase the amount of Qi lost by the enemy during the battle
@@ -1957,11 +1957,11 @@ Reduces the need to use the "Five Immortals" technique of the user
 Reverse-Huang Xianfa
 Significantly reduces the speed of enemy "poisoning" in combat
 Inverse - Red Immortal Law
-Reduces the consumption of qi and stance of the user's "Purple Haze" type techniques
+Reduces the consumption of qi and stance of the user's "Wood" type techniques
 Inverse-Black Fairy Law
 Significantly reduces the amount of toxins that can be dispelled when an enemy performs "poison repelling" in battle
 Inverse - Green Immortal Law
-Converts the user's "Returning Yuan" internal energy into "Purple Haze" internal energy, the more the percentage of conversion, the more the user's "Purple Haze" type power will be increased.
+Converts the user's "Returning Yuan" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Reverse-Spirituality
 The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect will be to increase the user's power, subtlety, swiftness, and heart gain status.
 Inverse - Hundred Evil Body Technique
@@ -2001,7 +2001,7 @@ Reduces the need to use the "Blood Hollow Cult" techniques of the user
 Reverse-Black Corpse Four Tips
 Reduces the consumption of qi and stance of the user's "Return to the Source" type of gong
 Inverse - Evil Ghost Kung Fu
-When the internal power attribute of the user is "return to the source", it reduces the direct damage and repercussion damage caused by the "Purple Haze" type techniques to the user.
+When the internal power attribute of the user is "return to the source", it reduces the direct damage and repercussion damage caused by the "Wood" type techniques to the user.
 Inverse-Three Poisonous Ignorance Mantra
 The more painful the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Inverse - Taiyin Refining Form
@@ -2952,7 +2952,7 @@ At the beginning of the battle, the user gains 0 layers of this effect: every ti
 HU·Blade of\nVajra Fall
 When this technique is at 10% of its power, the user draws 3 points of "Aegis" qi from the enemy's body
 HU·Vajra Prajna\nBlade
-When this technique is used at 10% of its power, the power of the enemy's 3 "Purple Haze" techniques is reduced and lasts until the end of the battle.
+When this technique is used at 10% of its power, the power of the enemy's 3 "Wood" techniques is reduced and lasts until the end of the battle.
 HU·Ruyibaolun\nBlade
 After this technique has been used for 10% of its power, the user gains 2 levels of this effect: Whenever the user does not gain a reduced status because of this technique, the strength of the reduced status the user will gain is doubled and transferred to the enemy, and an opposite gain status is applied to the user
 HU·Blade of\n6 Mighty Powers
@@ -3116,7 +3116,7 @@ HU·18 Hands of\nDharma
 Increase your own broken Qi
 When you start to perform this technique, the power of this technique will increase if the user's imperial qi is higher than the user's broken qi; when you attack the enemy with this technique, the user's broken qi will additionally be added to the user's imperial qi
 HU·Vajra Prajna\nPalm
-If the enemy's internal power attribute is "Purple Haze" when this technique is used at 10%, the direct damage caused by the user to the enemy will be increased by 3 levels.
+If the enemy's internal power attribute is "Wood" when this technique is used at 10%, the direct damage caused by the user to the enemy will be increased by 3 levels.
 HU·Demonhunt\nLight Fist
 When you start to perform this technique, the greater the difference between the enemy's worldly position and rebellion, the more the attack range and power of this technique will increase; when this technique is at ten percent of its power, if the user's moving mind is higher than the enemy's guarding mind, the enemy's worldly position will change to rebellion, and if the enemy's worldly position changes from non-rebellion to rebellion as a result, the enemy will start to run away as soon as he can.
 HU·Shaolin\nTiger Claw
@@ -3608,7 +3608,7 @@ Weiqi deals significantly more direct damage to characters with lower force or d
 play ghosts and collect gods
 The direct damage dealt by Ekai to a character whose Swiftness or Dodge is lower than his own is increased significantly; the direct damage dealt by a character whose Swiftness or Dodge is higher than Ekai to Ekai is increased significantly
 Gods and Earths
-The direct damage dealt by Blood Maple to characters with the internal power attribute "Xuan Yin" is greatly increased; the direct damage dealt by characters with the internal power attribute "Purple Haze" to Blood Maple is greatly increased
+The direct damage dealt by Blood Maple to characters with the internal power attribute "Xuan Yin" is greatly increased; the direct damage dealt by characters with the internal power attribute "Wood" to Blood Maple is greatly increased
 Distracted God Realm
 The direct damage dealt by the jutsu side to characters with lower subtlety or dismantling moves than their own is significantly increased; the direct damage dealt by characters with higher subtlety or dismantling moves than the jutsu side to the jutsu side is significantly increased
 Out-of-bounds Heart Swallowing
