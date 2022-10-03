@@ -430,7 +430,7 @@ Blood Transfusion
 Increase direct toxicity
 Increases the direct poison caused by the user to the enemy in combat
 White Water Long Live Method
-Gain Specific Force
+Gain Nadis Force
 Whenever an enemy's toxicity strikes, the user receives twice the amount of "Nadis" of the marker that caused the toxin to strike.
 Flood Dragon's Bone Regeneration
 Automatic healing of injuries
