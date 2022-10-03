@@ -452,7 +452,7 @@ Enhancement of your own gain
 The initial strength of all gain states to which the user is subjected is increased, and the strength of the user's gain state is increased when it is enhanced.
 Mandala Mantra
 Gain Specific Force
-When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, the user gains 2 points of "Aegis" true qi for every wound marker the user inflicts on the enemy
+When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, the user gains 2 points of "Aegis" true qi for every injury the user inflicts on the enemy
 Vidya-Raja Fire
 Application of large amounts of toxins
 When defending with this technique, whenever the user disarms the enemy's attack, the user applies a large amount of strong "poison" to the enemy.
@@ -1727,7 +1727,7 @@ When attacking the enemy with this technique, this technique will directly attac
 Taichi Swipe
 After this technique has been used for 10% of its power, the user gains 2 levels of this effect: the "Whisk" technique performed by the user is transformed from Heterodox practice to Orthodox practice, and the power of the transformed Heterodox practice "Whisk" technique is greatly increased.
 Laojun Swipe
-At the beginning of the battle, the user gains 6 levels of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, this effect is consumed to remove the user's wound markers; for every wound marker removed, 1 level of this effect is consumed; when this technique becomes 10% more powerful, 1 level of this effect is restored, up to a maximum of 3 levels
+At the beginning of the battle, the user gains 6 levels of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, this effect is consumed to remove the user's wound markers; for every injury removed, 1 level of this effect is consumed; when this technique becomes 10% more powerful, 1 level of this effect is restored, up to a maximum of 3 levels
 Yin-Yang Invert
 Restraint Orthodox practice Nadis
 The direct injuries caused by this technique will be resisted by the enemy's imperial qi; during the execution of this technique, all of the enemy's Orthodox "Qi" techniques cannot be effective.
@@ -2148,7 +2148,7 @@ HU·Elephant Imitation
 Diverting enemy gain
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 3 levels; whenever the user reacts to an enemy attack, 1 enemy gain status is transferred to the user
 HU·Thousands Incarnation Return
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user's internal wound marker will be restored to the amount it was at the beginning of the defense with this technique, and half of the non-old internal wound markers removed by the restoration will be applied to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user's internal injury will be restored to the amount it was at the beginning of the defense with this technique, and half of the non-old internal wound markers removed by the restoration will be applied to the enemy.
 HU·Pure Virgin
 The higher the charisma of the user, the higher the compliance of the user.
 HU·Reclamation Stance
@@ -3523,7 +3523,7 @@ Purple bamboo spirit illusion birth!
 When Violet is defeated for the first time, she will enter a new stage of battle: Whenever Violet's "Destructive" kung fu technique becomes 10% powerful, she will add 1 death mark to the enemy, the more death marks there are, the more the power of all the enemy's kung fu techniques will be increased, once the enemy has 6 death marks, the enemy will be defeated and his health will be reduced to 0
 No change in blazing heart
 The language Porphyra phantom born!
-The first time the Dragon's Por is defeated, it will enter a new phase of the battle: the direct damage dealt by the Dragon's Por to different parts of the enemy increases according to the wound marker of the different parts of the Dragon's Por; the direct damage dealt by the enemy to different parts of the Dragon's Por decreases according to the wound marker of the different parts of the enemy
+The first time the Dragon's Por is defeated, it will enter a new phase of the battle: the direct damage dealt by the Dragon's Por to different parts of the enemy increases according to the injury of the different parts of the Dragon's Por; the direct damage dealt by the enemy to different parts of the Dragon's Por decreases according to the injury of the different parts of the enemy
 descend to the immortals
 When you move with this divine power, MoM needs to accumulate power, the more power you accumulate, the farther MoM will move, up to 12 distance
 Evil and Rebellion
@@ -3862,8 +3862,8 @@ Two swords - Mo female clothes
 Mok Girl - Solution
 Mok Girl - Robbery
 When you begin to cast this power, Dye Duster gains 9 levels of this effect: Whenever Dye Duster receives 1 Wound Mark, it removes 1 non-Wound Mark from itself; whenever Dye Duster receives 1 non-Wound Mark, it removes 1 Wound Mark from itself
-When Mok Maiden completes the Chapter of Unraveling, the enemy removes 1 random wound marker when Dye Dusty starts to perform this divine power
-When Mok Maiden completes the Chapter of Robbery and Dye Dusty begins to perform this divine power, the enemy receives 1 random old wound marker
+When Mok Maiden completes the Chapter of Unraveling, the enemy removes 1 random injury when Dye Dusty starts to perform this divine power
+When Mok Maiden completes the Chapter of Robbery and Dye Dusty begins to perform this divine power, the enemy receives 1 random old injury
 Three Swords - Voodoo Iron
 Attrition of the enemy
 Dayue Yao Chang - Solution
