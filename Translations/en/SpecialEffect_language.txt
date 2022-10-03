@@ -50,21 +50,21 @@ The more wound markers the user removes with "Heal" in battle, the stronger the 
 Ultra Harmony\nof Wudang
 Increase the power limit of the user's "Wudang School" techniques
 Vitality\nRetainin
-Increases the power of the user's "pure yang" type techniques
+Increases the power of the user's "Fire" type techniques
 Horizontal Feet
 Stance Up
 When the user consumes only Qi, a portion of the stance will be restored.
 Celestial Pillar\nHolding
 Convert the user's "Wood" internal energy into "Fire" internal energy, the more the conversion ratio, the more the user's "Fire" type power will be increased.
 Golden Scripture\nof Marrow-Regen
-The higher the ratio of "pure yang" internal energy of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
+The higher the ratio of "Fire" internal energy of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 Wudang\nMixed Element
 Reduce external injury
 If the enemy inflicts both direct external and direct internal wounds on the user, any direct external wounds inflicted by the enemy that exceed 3 direct internal wounds will be reduced.
 Divine One
 The higher the user's "Daoist" skill, the more wounds the user can heal in battle.
 Boundless\nPure Yang
-When the internal energy of the user is "pure yang", it is more difficult to "block" or "interrupt" all of the user's techniques.
+When the internal energy of the user is "Fire", it is more difficult to "block" or "interrupt" all of the user's techniques.
 Fresh Breath
 Increases the power limit of the user's "Yuanshan School" techniques
 Lighter\nYuanshan Force
@@ -125,7 +125,7 @@ Increases the power limit of the user's "Casting Sword Villa" technique
 Chap. Weave
 Increases the maximum performance of the "protective equipment" equipped by the user
 Chap. 5 Metals
-When the internal energy attribute of the user is "pure yang", the direct damage and repercussion damage caused by "Metal" type techniques to the user will be reduced.
+When the internal energy attribute of the user is "Fire", the direct damage and repercussion damage caused by "Metal" type techniques to the user will be reduced.
 Chap. Refining
 The more times you refine your "weapon", the less damage your enemy will do to you.
 Chap. Sacrifice
@@ -191,7 +191,7 @@ When the internal energy of the user is "Xuan Yin", it is more difficult to "blo
 Fire Paint\nTattoo
 Increases the power limit of the user's "Furyan" technique
 Fulong\nFire-Engulf
-The higher the percentage of "pure yang" internal energy of the user, the more the user's imperial body and qi will be improved.
+The higher the percentage of "Fire" internal energy of the user, the more the user's imperial body and qi will be improved.
 Pure Qi of Fire
 The user's "Fire" type techniques will cause more direct damage and repercussion damage to characters with "Metal" internal power attribute.
 Divine Jade\nYang
@@ -199,12 +199,12 @@ Dramatically increase the amount of true qi gained by the user in battle
 Dragon Engulf\nElephant
 Convert the user's "Returning Yuan" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type techniques will be increased.
 9 Dragons\nIn One
-Converts the "reverse" effect of the user's "pure yang" type of kung fu other than "internal kung fu" into a "positive" effect
+Converts the "reverse" effect of the user's "Fire" type of kung fu other than "internal kung fu" into a "positive" effect
 Demonization
 Reduce direct damage
 The more mutilated body parts the user has, the less direct damage the enemy can inflict on the user.
 The Great Jade\nYang
-Significantly increases the power of the user's "pure yang" type techniques
+Significantly increases the power of the user's "Fire" type techniques
 Hou Meditation
 Increases the power limit of the user's "Blood Hollow Cult" techniques
 4 Methods of\nDark Corpse
@@ -1421,7 +1421,7 @@ Killing style is considered a breakthrough
 Disrupt all killing styles
 When attacking an enemy with this technique, all the "kill" stances of the user are considered to be additional weaknesses in the enemy's attacked area; at the end of this technique, all the "kill" stances of the user are disrupted
 Swordsmanship\nof Netherworld
-When this technique is used at 10% of its power, the enemy's 3 "pure yang" techniques will be "blocked" for a long time.
+When this technique is used at 10% of its power, the enemy's 3 "Fire" techniques will be "blocked" for a long time.
 Perfect\nSwordsmanship of 7 Ends
 After this technique has been used at 10% of its power, the user gains 7 levels of this effect: whenever the user's "killing" styles change and are aligned together, if this technique is not blocked, the user will immediately perform a sixth-rank "sword technique" to attack the enemy without consumption from 100% of the performance progress, and for each additional "killing" style aligned together, the level of "sword techniques" the user can perform will also increase, up to a maximum of fourth-rank "sword techniques". Sword Technique"; when this effect takes effect, this technique will be inevitably blocked for a short time
 Mysterious\nSword Intent
@@ -1844,20 +1844,20 @@ The more wound markers the user removes with "Heal" in battle, the stronger the 
 Inverse - Wudang Taihe Kung Fu
 Reduces the need to use the user's "Wudang School" techniques
 Reverse - Hold the Origin and Keep the One
-Reduces the consumption of qi and stance of the user's "pure yang" type kung fu
+Reduces the consumption of qi and stance of the user's "Fire" type kung fu
 Inverse - One Word Mixed Pile
 Recover Inhale
 When the user consumes only the stance, a portion of the energy will be restored.
 Inverse - Luo Tian Zhen Zhi Twelve Piles
 Convert the user's "Xuan Yin" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type kung fu will increase.
 Reversal - Golden Sutra of Marrow Washing
-The higher the percentage of "pure yang" internal energy of the user, the more the user's power, subtlety, swiftness, and motivation will increase.
+The higher the percentage of "Fire" internal energy of the user, the more the user's power, subtlety, swiftness, and motivation will increase.
 Inverse - Wudang Mixed Element Kung Fu
 If the enemy inflicts both direct external and direct internal wounds on the user, any direct internal wounds inflicted by the enemy that exceed 3 direct external wounds are subtracted.
 Inverse - Taiyi Shen Gong
 The higher the "Daoist" skill of the user, the more toxins the user can dispel in battle.
 Inverse - Pure Yang Wuji Gong
-When the internal energy of the user is "pure yang", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
+When the internal energy of the user is "Fire", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Reverse-exhale and clear method
 Reduces the need to use the "GenSan School" techniques of the user
 Inverse - Xiao Yuan Shan Jin
@@ -1904,7 +1904,7 @@ Significantly reduce the "root and bone" consumption of the user
 Reverse-Sihwajin Sutra
 The higher the percentage of "Xuan Yin" internal energy of the user, the more the user's power, subtlety, swiftness, and heart-movement will increase.
 Inverse - Empress Goddess
-Convert the "pure yang" internal energy of the user into "xuan yin" internal energy, the more the percentage of conversion, the more the power of the user's "xuan yin" type techniques will be increased.
+Convert the "Fire" internal energy of the user into "xuan yin" internal energy, the more the percentage of conversion, the more the power of the user's "xuan yin" type techniques will be increased.
 Reverse-Yaochi Immortal Bathing Method
 Significantly reduces the consumption of qi and stance of the user's "Xuan Yin" type techniques
 Inverse - Taiyuan Jade Lady Kung Fu
@@ -1917,7 +1917,7 @@ Reduces the user's need to use the "Casting Sword Villa" technique
 Reverse- manifesting the Shi Nai service
 Reduces the need to use "protective gear" equipped by the user
 Reverse-Hardware Jiabing Chapter
-When the internal power attribute of the user is "pure yang", the direct damage and repercussion damage caused by "xuan yin" type techniques to the user will be reduced.
+When the internal power attribute of the user is "Fire", the direct damage and repercussion damage caused by "xuan yin" type techniques to the user will be reduced.
 Inverse - A Thousand Hammers
 The more times you refine your weapon, the more damage you can do to your enemy.
 Reverse - sacrifice the soul to create a powerful chapter
@@ -1945,7 +1945,7 @@ The more true qi types an enemy has below its true qi limit, the more the power 
 Reverse - Vajra Dzogchen
 The higher the percentage of "Metal" internal power of the user, the more the user's power, subtlety, swiftness, and heartbeat will increase.
 Reverse-Daishonin Sutra
-Convert the "pure yang" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
+Convert the "Fire" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
 Reverse - Vajradhara Sutra
 Significantly reduces the consumption of qi and stance of the "Metal" type of kung fu by the user
 Inverse-Mahakala Guardianship
@@ -1983,9 +1983,9 @@ If the internal energy of the user is "Xuan Yin", even if the body part required
 Inverse - All-over fire painting method
 Reduces the user's need to use the "Furyan" technique
 Inverse - Fulong Swallowing Fire Kung Fu
-The higher the percentage of "pure yang" internal energy of the user, the more the user's body breaking and qi breaking will be improved.
+The higher the percentage of "Fire" internal energy of the user, the more the user's body breaking and qi breaking will be improved.
 Inverse-Fire True Qi
-The user's "pure yang" type of technique will cause more direct damage and repercussion damage to characters with "xuan yin" internal power attribute
+The user's "Fire" type of technique will cause more direct damage and repercussion damage to characters with "xuan yin" internal power attribute
 Reverse-Small Yu Yang Shen Gong
 Significantly reduce the amount of qi lost by the user in battle
 Reverse - Wild Dragon Swallowing Elephant Kung Fu
@@ -1995,7 +1995,7 @@ Change the "positive" effect of the "pure Yang" type of kung fu of the user othe
 Inverse - Into the Magic Kung Fu
 The more mutilated body parts the user has, the higher the direct damage the user can inflict on the enemy.
 Inverse - Great Yu Yang Shen Gong
-Significantly reduces the consumption of qi and stance in the "pure yang" type of kung fu of the user
+Significantly reduces the consumption of qi and stance in the "Fire" type of kung fu of the user
 Inverse - Himalayan mother work
 Reduces the need to use the "Blood Hollow Cult" techniques of the user
 Reverse-Black Corpse Four Tips
@@ -3231,7 +3231,7 @@ For every 10% of the power of this technique, the user has a low chance of infli
 HU·The Great\nFlower Finger of Mandala
 When you start to perform this technique, the deeper the illusionary poison the user has, the more the power of this technique will increase
 HU·Flower Spirit\nMoon Finger
-If the enemy's internal energy attribute is "pure yang" when this technique is at 10% power, the direct damage caused by the user to the enemy will be increased by 3 levels.
+If the enemy's internal energy attribute is "Fire" when this technique is at 10% power, the direct damage caused by the user to the enemy will be increased by 3 levels.
 HU·A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all parts of the enemy that are broken
 HU·8 Moves of\nBlood Red Flower
