@@ -957,7 +957,7 @@ Improving external injury
 When attacking an enemy with this technique, if this technique can cause direct internal damage and the user's broken Qi is lower than the enemy's imperial Qi, the user's broken body is greatly increased and the user's direct external damage to the enemy is greatly increased
 Origin\nSword Intent
 0 Inhale·Stance cost
-If the user's Qi Qi is higher than the initial value and higher than the enemy's Qi Qi, this technique can be performed without consuming Qi and stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of Qi at the end of this technique.
+If the user's Nadis Qi is higher than the initial value and higher than the enemy's Nadis Qi, this technique can be performed without consuming Qi and stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of Nadis at the end of this technique.
 Ever-Changing\n14 Swordmanship
 Cast E·Skill
 When attacking an enemy with this technique, the enemy will only use the lowest of its Discharge, Dismantle, and Dodge to defuse, and the lowest of its Body and Qi to defend; after this technique has reached 10% of its power, the user gains 3 levels of this effect: if the enemy performs any "Destroy" technique that consumes the "Cleave", "Thrust", or "Tease" styles, if the user is able to use the "Cleave", "Thrust", or "Tease" styles If the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
