@@ -14,7 +14,7 @@ Great Arahant\nExercises
 The higher the attainment of "Buddhism" of the user, the more wounds the user can heal during the battle.
 Tendon\nRenewal Sutra
 Increases Body Protector True Qi
-At the beginning of a battle, the user's "Body Protection" True Qi is increased significantly; the amount of the user's "Body Protection" True Qi gained during the battle is increased significantly; the amount of the user's "Body Protection" True Qi lost during the battle is decreased significantly
+At the beginning of a battle, the user's "Aegis" True Qi is increased significantly; the amount of the user's "Aegis" True Qi gained during the battle is increased significantly; the amount of the user's "Aegis" True Qi lost during the battle is decreased significantly
 Sutra of Marrow\nRejuvenation
 Increase the upper limit of all major attributes of the user; if the user is a child, increase the power of all feats of the user, and make the user youthful
 Abdominal\nBreathing
@@ -228,7 +228,7 @@ Energizing\nPractice
 All backlash damage to the user is significantly reduced
 Lying Beside Tiger
 Reduce direct damage
-When the "Body Protection" True Qi of the user is higher than the "Body Protection" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
+When the "Aegis" True Qi of the user is higher than the "Aegis" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 18 Rollings
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a gain status that improves disarm, disarm, and dodge.
 Heavy Stance
@@ -551,7 +551,7 @@ Move Spd Up
 During the duration of this body technique, the movement speed of the user will be increased when the user uses the "Aegis" technique.
 Gecko's Crawling
 Increase Aegis power
-During the duration of this body technique, the power of the user's "Body Protection" technique increases and lasts until the end of the "Body Protection" technique.
+During the duration of this body technique, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
 Lighten Body
 Improve foot recovery
 When advancing with this stance, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of foot power recovery
@@ -559,7 +559,7 @@ The Great Flip
 Whenever the user hits an enemy with a "long weapon" during the duration of this stance, the user's kick strength is restored.
 9 Maps And 6 Statues
 Increase Aegis time
-During the duration of this body technique, the duration of the user's "Body Protection" technique increases, but the power of the "Body Protection" technique decreases and lasts until the end of the "Body Protection" technique.
+During the duration of this body technique, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
 Crossing The River With A Reed
 Immune Spd Dn
 During the duration of this stance: the enemy cannot eliminate the user's stance and foot power; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
@@ -736,7 +736,7 @@ Improves aura recovery
 Every time you move 1 distance with this stance, you apply a gain status to the user that increases your Qi recovery and stance recovery.
 Hundred Feet's Drill
 Attrition of the enemy's Aegis
-During the duration of this technique, when the user attacks an enemy, he/she will first hit the enemy with a swift attack that decreases with the number of times it is used. If the enemy fails to neutralize this swift attack, the remaining duration of the enemy's current "Body Protection" technique will be significantly reduced.
+During the duration of this technique, when the user attacks an enemy, he/she will first hit the enemy with a swift attack that decreases with the number of times it is used. If the enemy fails to neutralize this swift attack, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced.
 Sky Snake Rolling
 Antitoxin resistance
 When advancing with this stance, the user needs to accumulate power to move 3 distances at once, and then apply a reduced benefit status that reduces all toxin resistance to the enemy according to the distance moved
@@ -938,7 +938,7 @@ Steal Buff
 When this technique starts, the user is temporarily affected by all the enemy's gain status, which lasts until the end of this technique.
 Sky Earth Finger
 Remove E·Buff
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Returning to the Source", it will eliminate the enemy's "Body Protection" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Returning to the Source", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
 Swordsmanship\nof Round-Trip
 When this technique is at least 10% powerful, the user takes 1 "stab" from the enemy.
 Swordsmanship\nof Sanchin
@@ -980,7 +980,7 @@ Interrupting the performance of gongfu
 When this spell is used at 10% of its power, one of the enemy's "Light Spirit" techniques that is not permanently blocked will be "blocked" for a long time; all "Light Spirit" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
 The 7 Whites'\nExorcism
 Blocking the enemy's Aegis
-When this talisman is used at 10% of its power, it will cause one of the enemy's "Aegis" techniques to be "blocked" for a long time; depending on the full effect of the enemy's "Aegis" technique that is "blocked", it will reduce the enemy's Body Protection, Qi Protection, Power Discharge, Dismantling, Dodge, and Mind Protection; after this talisman is cast, it will inevitably be temporarily "blocked".
+When this talisman is used at 10% of its power, it will cause one of the enemy's "Aegis" techniques to be "blocked" for a long time; depending on the full effect of the enemy's "Aegis" technique that is "blocked", it will reduce the enemy's Aegis, Qi Protection, Power Discharge, Dismantling, Dodge, and Mind Protection; after this talisman is cast, it will inevitably be temporarily "blocked".
 Bless of\nThe Stars
 Reducing the health of the enemy
 When you start to cast this spell, the power of this spell will be greatly increased if the enemy is an evil person, and if the enemy is a demon, the power of this spell will be greatly increased; when this spell is 10% powerful, if the enemy is an evil person, the enemy's health will be reduced by 3 points, and if the enemy is a demon, the enemy's health will be reduced by 3 points.
@@ -1019,7 +1019,7 @@ Eliminate the memory of the enemy
 When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memory of the battle; the enemy cannot attack with weapons, cannot perform feats that require stance consumption, until the enemy is attacked in any way
 Conversely\nBeating As Rocking Sky
 Attacks are not defended
-If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its Aegis; the enemy will not try to defend against this technique, and neither the enemy's "Body Protection" nor "Lightness" techniques will take effect when attacked by this technique
+If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its Aegis; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Lightness" techniques will take effect when attacked by this technique
 One Step Turn
 Increase the casting progress
 During the enemy's performance of a feat, the user can perform this feat from 50% of the performance progress; after this feat has exerted at least 10% of its power, the user advances 2 distances, and this effect cannot be repeated during the enemy's performance of a feat
@@ -1094,7 +1094,7 @@ If the weapon used by the user is the "Zhan Lu Sword", the power of this techniq
 Unblocked: This sword can increase the power of all "sword techniques".
 Blade of General
 Power of descending enemy protection
-If the weapon used by the user is the "Xin Ting Hou Blade", when attacking the enemy with this technique, it reduces the power of the enemy's "Body Protection" technique, and after this technique has been used to 10% of its power, the "Xin Ting Hou Blade" can be unblocked, and this blade can reduce all "Blade Techniques". The sword can reduce the power of the enemy's "Body Protection" technique until the other weapons are unblocked or the battle is over.
+If the weapon used by the user is the "Xin Ting Hou Blade", when attacking the enemy with this technique, it reduces the power of the enemy's "Aegis" technique, and after this technique has been used to 10% of its power, the "Xin Ting Hou Blade" can be unblocked, and this blade can reduce all "Blade Techniques". The sword can reduce the power of the enemy's "Aegis" technique until the other weapons are unblocked or the battle is over.
 Unblocked: This blade can reduce the power of the enemy's "Aegis" techniques with all "blade techniques".
 Blade of\nMaster Ruan
 Countering weapon attacks
@@ -1267,7 +1267,7 @@ Divine Fist\nof Jade Yang
 Increase the number of effect layers
 If you consume 3 points of the user's "Destruction" true qi when this technique is used at 10% of its power, it will randomly change the number of levels of the duration effect of one of the user's "Destruction" techniques to the maximum.
 Fire Palm of\n6 Yang
-When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Vajra", it will eliminate the enemy's "Body Protection" and "Lightness" techniques and reduce the ongoing effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Vajra", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the ongoing effect of the enemy's 3 "Destruction" techniques to 0 levels.
 Great Jade Yang\nFist
 When you start to perform this technique, the more the number of levels of the duration effect of all the "Destruction" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
 Dragon Palm
@@ -1486,7 +1486,7 @@ Ghost Poison\nSand
 Change styles
 When this technique is used at least 10% of its power, it will change up to 2 of the user's unusable styles into "poison" styles.
 Decayed Worm\nSand
-When attacking an enemy with this technique, the special effect of the enemy's "Body Protection" technique cannot take effect if the enemy's poison attacks his heart.
+When attacking an enemy with this technique, the special effect of the enemy's "Aegis" technique cannot take effect if the enemy's poison attacks his heart.
 Bone-Corrosion\nSand
 Grave Sand
 Doing legwork to perform
@@ -1515,7 +1515,7 @@ When attacking an enemy with this technique, if the user's brawn is higher than 
 Increase your own broken body
 When you start performing this technique, the power of this technique increases if the user's body is higher than the user's broken body; when you attack the enemy with this technique, the user's broken body is added to the user's body.
 Vajra Prajna\nPalm
-When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Purple Haze", it will eliminate the enemy's "Body Protection" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Purple Haze", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
 Demonhunt\nLight Fist
 Change E·Standpt
 When you start to perform this technique, the greater the difference between the enemy's worldly stance and benevolence, the more the attack range and power of this technique will increase; when this technique is at ten percent of its power, if the user's heart is higher than the enemy's heart, the enemy's worldly stance will change to benevolence, and if the enemy's worldly stance thus changes from non-benevolence to benevolence, the enemy will start to run away as soon as he can.
@@ -1539,7 +1539,7 @@ When this technique is used at 10% of its power, the level of damage caused by t
 Yakkha Staff
 The maximum attack distance of this technique is increased by 2; when attacking the enemy with this technique, the closer the enemy and me are to the maximum attack distance of this technique, the more the power of this technique is increased
 Staff of\nSheep-Hunting Tigers
-The user can perform the "Body Protection" technique from 50% of its progress without using up the stance.
+The user can perform the "Aegis" technique from 50% of its progress without using up the stance.
 Shaolin Staff\nof Madness
 In the process of performing this technique, the user can make weapon attacks on the enemy, and the more times the enemy is hit, the more the user's body breakage will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
 Skanda Staff
@@ -1637,7 +1637,7 @@ For every 10% of the power of this technique, the user has a low chance of infli
 The Great\nFlower Finger of Mandala
 When you start to perform this technique, the deeper the enemy is poisoned by the illusion, the more the power of this technique will increase
 Flower Spirit\nMoon Finger
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Pure Yang", it will eliminate the enemy's "Body Protection" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Pure Yang", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
 A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all closed acupuncture points of the enemy
 8 Moves of\nBlood Red Flower
@@ -1677,7 +1677,7 @@ This technique removes one of the strongest impairment states of the user when i
 Burydeer Orchid
 When you start to perform this technique, the more "no" forms the user has, the more the power of this technique will increase; when this technique becomes 10% powerful, it will eliminate 2 "no" forms for the user.
 The World\nAmused
-When this technique exerts 10% of its power, it randomly and significantly increases the power of 1 "Destruction" technique, 1 "Body Protection" technique, 1 "Lightness" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
+When this technique exerts 10% of its power, it randomly and significantly increases the power of 1 "Destruction" technique, 1 "Aegis" technique, 1 "Lightness" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
 Wudang\nLong Fist
 According to the power of this technique, it increases the power limit of all the "Nadis" techniques of the user, and lasts until the end of the battle.
 Wind Chasing\nPalm
@@ -1790,7 +1790,7 @@ When you start to perform this technique, the more weapons the user has that are
 Blade of Endless
 If the enemy is still within the range of the attack, the user will immediately perform another "Sword Technique" of a rank not exceeding this technique without consumption from 50% of the execution progress to attack the enemy.
 Heavenly Spirit\nBlade
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Xuan Yin", it will eliminate the enemy's "Body Protection" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Xuan Yin", it will eliminate the enemy's "Aegis" and "Lightness" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
 Divine Blade\nof Mysterious
 Depending on the power of this technique and the amount of energy consumed by the user, the user can obtain up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be consumed instead of the stance, and the more it is consumed, the more the user's body and energy will be increased.
 Inverse-Quiet Meditation Kung Fu
@@ -2017,7 +2017,7 @@ Reduce the enemy to destroy the real Qi
 At the beginning of a battle, dramatically reduce the amount of Devastating True Qi of the enemy and their helpers; dramatically reduce the amount of Devastating True Qi gained by the enemy in battle; dramatically increase the amount of Devastating True Qi lost by the enemy in battle
 Inverse - Peiyang trick
 HU·Lying Beside Tiger
-When the user's "Body Protection" True Qi is twice as high as the enemy's "Body Protection" True Qi, the level of injury of all direct damage the user inflicts on the enemy is increased by 1 level
+When the user's "Aegis" True Qi is twice as high as the enemy's "Aegis" True Qi, the level of injury of all direct damage the user inflicts on the enemy is increased by 1 level
 HU·18 Rollings
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a reduced benefit status is applied to the enemy in the form of reduced unloading, dismantling, and dodging.
 HU·Heavy Stance
@@ -2297,17 +2297,17 @@ HU·Undead Body of Blood Child
 Whenever the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder does not reach extinction, the user's internal disorder will increase dramatically and randomly and immediately exchange all wounds with a partner of the user's helper who has not reached the defeat condition
 HU·Lift-Up Jumping
 Reduce enemy movement speed
-During the duration of this body technique, the movement speed of the enemy will be reduced when the user uses the "Body Protection" technique.
+During the duration of this body technique, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
 HU·Gecko's Crawling
 Reducing the power of enemy Aegis
-During the duration of this body technique, the power of the enemy's "Body Protection" technique is reduced and lasts until the end of the "Body Protection" technique.
+During the duration of this body technique, the power of the enemy's "Aegis" technique is reduced and lasts until the end of the "Aegis" technique.
 HU·Lighten Body
 When retreating with this stance, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of recovery of foot power
 HU·The Great Flip
 Whenever the user hits an enemy with a "long weapon" during the duration of this stance, the enemy's foot strength will be lost.
 HU·9 Maps And 6 Statues
 Increase the power of Aegis
-During the duration of this body technique, the duration of the user's "Body Protection" technique is reduced, but the power of the "Body Protection" technique is increased and lasts until the end of the "Body Protection" technique.
+During the duration of this body technique, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
 HU·Crossing The River With A Reed
 During the duration of this stance: the enemy cannot eliminate the stance and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
 HU·Shorten Distance
@@ -2346,11 +2346,11 @@ During the duration of this stance: the enemy's guarded heart will not be raised
 HU·5 Steps of Plum Poling
 During the duration of this stance, if the enemy attacks the user with a hit that is lower than the user's resolution, the chance of the enemy hitting the user is significantly reduced.
 HU·8 Trigrams Step
-During the duration of this body technique, if the user uses the "Body Protection" technique, the enemy's Qi recovery will be reduced.
+During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Qi recovery will be reduced.
 HU·Cloud Surround
 During the duration of this technique, whenever the user hits the enemy with a "duster" type weapon, the enemy's kick strength will be lost.
 HU·Big Dipper Step of Heavenly Spirit
-Every time you move 1 distance with this stance, depending on the amount of "Body Protection" True Qi the user has, the user gains "Light Spirit" True Qi, and when the effect of this stance ends or expires, the user loses all the "Light Spirit" True Qi gained in the process.
+Every time you move 1 distance with this stance, depending on the amount of "Aegis" True Qi the user has, the user gains "Light Spirit" True Qi, and when the effect of this stance ends or expires, the user loses all the "Light Spirit" True Qi gained in the process.
 HU·The One Step
 Lowering the enemy's internal power play
 During the duration of this technique: the enemy's internal power is significantly reduced; the more uneven the ratio of internal to external wounds of the enemy's "Destruction" technique, the more the power of this technique is reduced.
@@ -2670,7 +2670,7 @@ After this spell has become 10% powerful, the user gains 2 levels of this effect
 HU·The Puppet's\nSealing Spell
 When this spell is used at 10% of its power, the enemy's 2 "Light Spirit" techniques that are not permanently blocked will be "blocked" for a short period of time; all "Light Spirit" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
 HU·The 7 Whites'\nExorcism
-When this talisman is used at 10% of its power, it will cause the enemy's 2 "Aegis" techniques to be "blocked" for a short period of time; depending on the effect of the "Aegis" techniques blocked, it will reduce the enemy's Body Protection, Qi Protection, Power Discharge, Dismantling, Dodge, and Heart Protection; after this talisman is cast, it will inevitably be temporarily "blocked".
+When this talisman is used at 10% of its power, it will cause the enemy's 2 "Aegis" techniques to be "blocked" for a short period of time; depending on the effect of the "Aegis" techniques blocked, it will reduce the enemy's Aegis, Qi Protection, Power Discharge, Dismantling, Dodge, and Heart Protection; after this talisman is cast, it will inevitably be temporarily "blocked".
 HU·Bless of\nThe Stars
 When this spell is cast, the power of this spell will be greatly increased if the user is an evil person, and if the user is a demon, the power of this spell will be greatly increased; if the user is an evil person, the enemy's health will be reduced by 3 points when this spell is 10% powerful, and if the user is a demon, the enemy's health will be reduced by 3 points.
 HU·Almighty Spell
@@ -2702,7 +2702,7 @@ HU·Flood Dragon's\nIron Tentacle
 HU·No Harm Hands
 When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require qi, until the enemy is attacked in any way
 HU·Conversely\nBeating As Rocking Sky
-If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its imperial energy; the enemy will not try to defend against this technique, and the enemy's "Body Protection" and "Lightness" techniques will not take effect when attacked by this technique
+If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its imperial energy; the enemy will not try to defend against this technique, and the enemy's "Aegis" and "Lightness" techniques will not take effect when attacked by this technique
 HU·One Step Turn
 During the enemy's performance of a feat, the user can perform this feat from 50% of the performance progress; after this feat has exerted at least 10% of its power, the user retreats 2 distances, and this effect cannot be repeated during the enemy's performance of a feat
 HU·Cuckoo's\nPecking
@@ -3108,7 +3108,7 @@ According to the percentage of power played by this technique, the percentage of
 HU·The Great\nLong-Arm Fist
 The attack range of this technique is increased; after this technique exerts at least 10% of its power, the user gains 10 levels of this effect: the user's minimum attack distance is reduced by 1, and when this technique is performed again under this effect, the power of this technique is increased
 HU·68 Moves of\nArhat Fist
-This technique can be performed while the user is exercising the "Body Protection" technique; depending on the percentage of power exerted by this technique, the duration of the enemy's "Body Protection" technique will be greatly depleted.
+This technique can be performed while the user is exercising the "Aegis" technique; depending on the percentage of power exerted by this technique, the duration of the enemy's "Aegis" technique will be greatly depleted.
 HU·The Great Vajra\nFist
 Body Breaking to Qi Breaking
 When attacking an enemy with this technique, if the user's brawn is higher than the enemy's, a portion of the user's broken body will be transferred to broken qi; when this technique is 10% powerful, 10 points of the user's brawn will be consumed, and a gain status of increased broken qi and a reduced benefit status of decreased broken body will be applied to the user
@@ -3140,7 +3140,7 @@ When this technique is used at 10% of its power, for every 3 "tantalizing" stanc
 HU·Yakkha Staff
 The minimum attack distance of this technique is reduced by 2; when attacking the enemy with this technique, the closer the enemy and me are to the minimum attack distance of this technique, the more the power of this technique is increased
 HU·Staff of\nSheep-Hunting Tigers
-The user can perform the "Body Protection" technique from 50% of its progress without using up Qi.
+The user can perform the "Aegis" technique from 50% of its progress without using up Qi.
 HU·Shaolin Staff\nof Madness
 In the process of performing this technique, the user can attack the enemy with weapons, and the more times the enemy is hit, the more the user's broken gas will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
 HU·Skanda Staff
@@ -3271,7 +3271,7 @@ HU·Burydeer Orchid
 Elimination of dyscalculia markers
 When you start to perform this technique, the more markers of disorientation the user receives, the more the power of this technique will increase; when this technique reaches 10% of its power, 2 markers of disorientation will be removed for the user
 HU·The World\nAmused
-When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Destruction" technique, 1 "Body Protection" technique, 1 "Lightness" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
+When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Destruction" technique, 1 "Aegis" technique, 1 "Lightness" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
 HU·Wudang\nLong Fist
 Based on the power of this technique, the user's requirement for the use of all "Nadis" techniques will be reduced until the end of the battle.
 HU·Wind Chasing\nPalm
@@ -3356,7 +3356,7 @@ Whenever the weapon used by the user switches from a non-sword to a sword, the p
 HU·The Great\nSwordsmanship of Mercy
 HU·Swordsmanship\nof Manjusri's Wisdom
 Prohibition of enemy gain
-When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Body Protection" and "Lightness" techniques will not be effective.
+When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Lightness" techniques will not be effective.
 HU·Skanda\nSwordsmanship of Defeat Demon
 If the enemy is still within the range of the attack, the user will start to use another "knife technique" of a rank no higher than this one to attack the enemy without consumption from 50% of the execution progress.
 HU·Swordsmanship\nof Supreme Bodhi
@@ -3373,7 +3373,7 @@ HU·Blade of\nTiger Step Extremely Far
 Whenever the weapon used by the user switches from a non-sword to a sword, the power of this technique increases dramatically and lasts until the user performs this technique.
 HU·Golden Blade\nof The Ultra One
 HU·Blade of 7 Star
-When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Body Protection" and "Lightness" techniques will not be effective.
+When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Lightness" techniques will not be effective.
 HU·Blade of Endless
 If the enemy is still within the attack range of the user, he/she will immediately attack the enemy with another "sword technique" of a rank no higher than this one, without consumption, starting from 50% of the execution progress.
 HU·Heavenly Spirit\nBlade
@@ -3748,7 +3748,7 @@ When you start to perform this power, you will recover all your body and foot po
 When you start to use this power, you will regain all your body and foot power; when you attack the enemy with this power, the more foot power you have left, the more the power of this power will increase.
 soulless soul
 Promote hair protection light spirit
-When you start to use this power, you can use the "Body Protection" and "Lightness" powers immediately and at the same time without the need to use them, and the power of these powers will be greatly increased until the end of these powers.
+When you start to use this power, you can use the "Aegis" and "Lightness" powers immediately and at the same time without the need to use them, and the power of these powers will be greatly increased until the end of these powers.
 Heart to Heart
 During the application of this power, the chance of the enemy hitting the direction of the enemy is halved, and whenever the enemy fails to hit the direction of the enemy, the enemy randomly appears 4 sealed points
 During the application of this power, the chance of the enemy hitting the user is halved, and whenever the enemy fails to hit the user, the enemy randomly appears 4 sealed points
