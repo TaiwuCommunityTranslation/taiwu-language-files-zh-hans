@@ -1991,7 +1991,7 @@ Significantly reduce the amount of qi lost by the user in battle
 Reverse - Wild Dragon Swallowing Elephant Kung Fu
 Convert the user's "Metal" internal energy into "Fire" internal energy, the more the conversion ratio, the more the user's "Fire" type power will increase.
 Inverse - Nine Dragons to One Kung Fu
-Change the "positive" effect of the "pure Yang" type of kung fu of the user other than "internal kung fu" to "negative" effect
+Change the "positive" effect of the "Fire" type of kung fu of the user other than "internal kung fu" to "negative" effect
 Inverse - Into the Magic Kung Fu
 The more mutilated body parts the user has, the higher the direct damage the user can inflict on the enemy.
 Inverse - Great Yu Yang Shen Gong
