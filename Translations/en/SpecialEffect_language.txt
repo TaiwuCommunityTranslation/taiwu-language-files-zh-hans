@@ -431,7 +431,7 @@ Increase direct toxicity
 Increases the direct poison caused by the user to the enemy in combat
 White Water Long Live Method
 Gain Specific Force
-Whenever an enemy's toxicity strikes, the user receives twice the amount of "Qi" of the marker that caused the toxin to strike.
+Whenever an enemy's toxicity strikes, the user receives twice the amount of "Nadis" of the marker that caused the toxin to strike.
 Flood Dragon's Bone Regeneration
 Automatic healing of injuries
 When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all external injury of the user will be eliminated by themselves quickly with time
@@ -942,7 +942,7 @@ When you start attacking an enemy with this technique, if the enemy's internal e
 Swordsmanship\nof Round-Trip
 When this technique is at least 10% powerful, the user takes 1 "stab" from the enemy.
 Swordsmanship\nof Sanchin
-When this technique exerts at least 10% of its power, the user gains 2 points of "Qi" true energy.
+When this technique exerts at least 10% of its power, the user gains 2 points of "Nadis" true energy.
 Flying Sword
 Wounds inflicted by this technique on the enemy's head and neck will change to older wounds that are more difficult to recover from
 Swordsmanship\nof Open-Close
@@ -1653,7 +1653,7 @@ Bianque Pinprick
 Heal Injuries
 When the progress of this technique reaches 100%, the user will perform a "healing" on himself that does not consume the number of "healing" times, but also cannot cure old wounds, and the more wound marks this "healing" eliminates, the more the power of this technique increases.
 Vitality\nLosing Pinprick
-When this technique is used at 10% of its power, the enemy will lose 6 points of "Qi".
+When this technique is used at 10% of its power, the enemy will lose 6 points of "Nadis".
 Deadly Pinprick
 All external injuries caused by this technique are not direct external injuries, but will change to worsen the existing external injuries to the enemy
 9-Needle Strike
@@ -1687,7 +1687,7 @@ When hitting the enemy with this technique, the enemy's protective gear cannot w
 The 8 Trigrams\nPalm
 At the beginning of the battle, the user gains 0 layers of this effect: for every distance the user moves, this effect increases by 1 layer, up to a maximum of 5 layers. The higher the number of layers of this effect, the less qi and stance the user needs to consume when performing this technique, and the more the user's strength, subtlety and swiftness will increase; after the performance of this technique is finished, this effect decreases by 1 layer
 The Ultra One\nUnfettered Palm
-In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique increases, and the user can gain 2 points of "qi" for every 1 distance.
+In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique increases, and the user can gain 2 points of "Nadis" for every 1 distance.
 Divine Fist
 When this technique is used at 10% of its power, the enemy's 3 "Metal" techniques will be "blocked" for a long time.
 Wudang\nPure Yang Fist
@@ -1891,8 +1891,8 @@ Change the "Orthodox" effect of the user's "Zixia" type of kung fu other than "i
 Inverse-Dispersion Method
 When the internal power attribute of the user is "Wood", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Inverse-Xuanwei True Art
-Reducing the enemy's qi
-At the beginning of a battle, significantly reduce the amount of Qi of the enemy and their helpers; significantly reduce the amount of Qi gained by the enemy during the battle; significantly increase the amount of Qi lost by the enemy during the battle
+Reducing the enemy's Nadis
+At the beginning of a battle, significantly reduce the amount of Nadis of the enemy and their helpers; significantly reduce the amount of Nadis gained by the enemy during the battle; significantly increase the amount of Nadis lost by the enemy during the battle
 Reversal - Xuan Nui Heart Skill
 Reduces the need to use the "Xuan Nui School" techniques of the user
 Inverse - Jade Bone
@@ -2197,7 +2197,7 @@ HU·Blood Transfusion
 Poison Dmg UP
 Increases poison damage to enemies when they are poisoned
 HU·White Water Long Live Method
-Whenever a toxin attack occurs, the user receives twice the amount of "Qi" of the marker of the toxin attack.
+Whenever a toxin attack occurs, the user receives twice the amount of "Nadis" of the marker of the toxin attack.
 HU·Flood Dragon's Bone Regeneration
 When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all the internal injury marks of the user will be eliminated quickly by themselves with time
 HU·9 Colored Jade Cicada
@@ -3245,7 +3245,7 @@ When you start to perform this technique, the deeper the cold poison in the user
 HU·Bianque Pinprick
 When the execution progress of this technique reaches 100%, the user will perform 1 "Exorcism" that does not consume the number of "Exorcisms", but also cannot dispel stubborn poison.
 HU·Vitality\nLosing Pinprick
-When this technique is at 10% of its power, the user draws 3 points of "Qi" from the enemy's body.
+When this technique is at 10% of its power, the user draws 3 points of "Nadis" from the enemy's body.
 HU·Deadly Pinprick
 All internal injuries caused by this technique are not direct internal injuries, but will change to worsen the existing internal injuries of the enemy
 HU·9-Needle Strike
