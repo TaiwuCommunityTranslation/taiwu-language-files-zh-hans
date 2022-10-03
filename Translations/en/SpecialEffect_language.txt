@@ -3594,11 +3594,11 @@ When defending with this divine power: the degree of injury of direct damage inf
 Di Zhao Xuan Huo Seal
 When defending with this divine power, the degree of injury caused by the Dragon Whispering Por to the enemy's recoil damage increases according to the number of injury marks on the attacked part of the Dragon Whispering Por
 Donglai Yiqi
-The direct damage inflicted by Mo Mui on characters with the internal power attribute of "Return to Yuan" is greatly increased; the direct damage inflicted by characters with the internal power attribute of "Metal" on Mo Mui is greatly increased
+The direct damage inflicted by Mo Mui on characters with the internal power attribute of "Earth" is greatly increased; the direct damage inflicted by characters with the internal power attribute of "Metal" on Mo Mui is greatly increased
 Vajra Breaks Evil
 The direct damage dealt by Dayue Yaochang to characters with the internal power attribute "Zi Xia" is greatly increased; the direct damage dealt by characters with the internal power attribute "Fire" to Dayue Yaochang is greatly increased
 The Nine Netherworlds
-The direct damage dealt by Jiu Han to characters with internal energy attribute "Fire" is greatly increased; the direct damage dealt by characters with internal energy attribute "Return to Yuan" to Jiu Han is greatly increased
+The direct damage dealt by Jiu Han to characters with internal energy attribute "Fire" is greatly increased; the direct damage dealt by characters with internal energy attribute "Earth" to Jiu Han is greatly increased
 Extra-Terrestrial True Fire
 The direct damage dealt by Jin Huo'er to characters with internal power attribute "Metal" is greatly increased; the direct damage dealt by characters with internal power attribute "Water" to Jin Huo'er is greatly increased
 illusion
