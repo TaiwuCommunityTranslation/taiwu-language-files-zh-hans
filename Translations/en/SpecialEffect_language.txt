@@ -2001,7 +2001,7 @@ Reduces the need to use the "Blood Hollow Cult" techniques of the user
 Reverse-Black Corpse Four Tips
 Reduces the consumption of qi and stance of the user's "Earth" type of gong
 Inverse - Evil Ghost Kung Fu
-When the internal power attribute of the user is "return to the source", it reduces the direct damage and repercussion damage caused by the "Wood" type techniques to the user.
+When the internal power attribute of the user is "Earth", it reduces the direct damage and repercussion damage caused by the "Wood" type techniques to the user.
 Inverse-Three Poisonous Ignorance Mantra
 The more painful the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Inverse - Taiyin Refining Form
@@ -2011,7 +2011,7 @@ The higher the ratio of the user's "Returning Element" internal energy, the more
 Inverse - Child's Blood Refining Method
 Significantly reduces the consumption of qi and stance of the user's "Earth" type of gong.
 Reverse - Blood Hollow Evil Scripture
-When the internal energy attribute of the user is "return to the source", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
+When the internal energy attribute of the user is "Earth", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Inverse - Blood Child Method
 Reduce the enemy to destroy the real Qi
 At the beginning of a battle, dramatically reduce the amount of Devastating True Qi of the enemy and their helpers; dramatically reduce the amount of Devastating True Qi gained by the enemy in battle; dramatically increase the amount of Devastating True Qi lost by the enemy in battle
@@ -2638,7 +2638,7 @@ HU·The Great\nYinyang Hand
 Handover Debuff
 When this technique is performed, the enemy is temporarily affected by all of the user's reduced status until the technique is finished.
 HU·Sky Earth Finger
-If the enemy's internal power attribute is "return to the source" when this technique is used at 10% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
+If the enemy's internal power attribute is "Earth" when this technique is used at 10% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
 HU·Swordsmanship\nof Round-Trip
 When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "thrust" style.
 HU·Swordsmanship\nof Sanchin
