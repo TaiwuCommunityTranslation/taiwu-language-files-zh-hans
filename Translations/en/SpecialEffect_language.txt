@@ -72,7 +72,7 @@ The higher the ratio of the user's internal energy, the more the user's body and
 Greater\nYuanshan Force
 The user's "Earth" type of technique will cause more direct damage and repercussion damage to characters with "Water" internal power attribute.
 Silence Methods
-Convert the user's "Metal" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will be increased.
+Convert the user's "Metal" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the user's "Earth" type power will be increased.
 Inscrutable\nRound
 Converts the "reverse" effect of the user's "rejuvenation" techniques other than "internal energy" into a "positive" effect.
 Stable Breath
@@ -153,7 +153,7 @@ The more types of true qi the user has that exceed his or her true qi limit, the
 Vajra-Inherited\nMeditation
 The higher the ratio of "Metal" internal power of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 The Great Sun\nScripture
-Convert the user's "Returning Energy" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
+Convert the user's "Earth" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
 The Great Vajra\nScripture
 Significantly increases the power of the user's "Metal" type techniques
 Mahakala\nGuardian's Cultivation
@@ -214,13 +214,13 @@ When the internal power attribute of the user is "Earth", the direct damage and 
 3 Poisons of\nDarkness Spell
 The happier the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Moon Shape
-Convert the user's "Fire" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will be increased.
+Convert the user's "Fire" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the user's "Earth" type power will be increased.
 The Great 5 Yin
 The higher the ratio of the user's internal energy to the "Returning Element", the more the user's ability to disarm, dismantle, dodge, and guard the heart will increase.
 Children's\nBlood Sacrifice
 Significantly increases the power of the user's "Earth" type techniques
 Evil Scripture\nof Blood Hou
-When the internal energy attribute of the user is "Returning Energy", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
+When the internal energy attribute of the user is "Earth", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 The Great Blood\nChild
 Increases the Break of true qi
 At the beginning of a battle, the user's Break True Qi is increased significantly; the amount of Break True Qi gained during the battle is increased significantly; the amount of Break True Qi lost during the battle is decreased significantly.
@@ -1861,11 +1861,11 @@ When the internal energy of the user is "Fire", even if the body part required t
 Reverse-exhale and clear method
 Reduces the need to use the "GenSan School" techniques of the user
 Inverse - Xiao Yuan Shan Jin
-The higher the ratio of the user's "Returning Energy" internal energy, the more the user's body breaking and qi breaking will be improved.
+The higher the ratio of the user's "Earth" internal energy, the more the user's body breaking and qi breaking will be improved.
 Inverse-Daewonsanjin
 The user's "Earth" type of technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Wood".
 Inverse-No Mind Tricks
-Converts the user's "Wood" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will increase.
+Converts the user's "Wood" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the user's "Earth" type power will increase.
 Inverse-Hunyuan WuXiangGong
 Changing the "positive" effect of the user's "rejuvenation" techniques other than "internal energy" into a "negative" effect
 Inverse-seal gas fixation method
