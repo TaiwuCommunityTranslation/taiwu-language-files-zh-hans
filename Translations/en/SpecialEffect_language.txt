@@ -606,7 +606,7 @@ During the duration of this stance, if the hit of the user when attacking an ene
 8 Trigrams Step
 During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's stance will be reduced to recover.
 Cloud Surround
-Whenever the user hits an enemy with a "duster" type weapon during the duration of this body technique, the user's kick strength is restored.
+Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this body technique, the user's kick strength is restored.
 Big Dipper Step of Heavenly Spirit
 Gain Specific Force
 Every time you move 1 distance with this stance, the user gains "Quick" true energy according to the amount of "Break" true energy the user has, and when the effect of this stance ends or expires, the user loses all "Quick" true energy gained in the process.
@@ -2348,7 +2348,7 @@ During the duration of this stance, if the enemy attacks the user with a hit tha
 HU·8 Trigrams Step
 During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Qi recovery will be reduced.
 HU·Cloud Surround
-During the duration of this technique, whenever the user hits the enemy with a "duster" type weapon, the enemy's kick strength will be lost.
+During the duration of this technique, whenever the user hits the enemy with a "Whisk" type weapon, the enemy's kick strength will be lost.
 HU·Big Dipper Step of Heavenly Spirit
 Every time you move 1 distance with this stance, depending on the amount of "Aegis" True Qi the user has, the user gains "Quick" True Qi, and when the effect of this stance ends or expires, the user loses all the "Quick" True Qi gained in the process.
 HU·The One Step
