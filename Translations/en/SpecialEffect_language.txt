@@ -27,7 +27,7 @@ Spirituality\nComprehension
 skill power up
 Whenever the user obtains an available style, the user has a very low chance of increasing the power of all the user's feats, which lasts until the end of the battle.
 Lotus\nMysterious
-Convert the "Pure Yang" internal energy of the user into "Wood" internal energy, the more the percentage of conversion, the more the power of the user's "Wood" type techniques will be increased.
+Convert the "Fire" internal energy of the user into "Wood" internal energy, the more the percentage of conversion, the more the power of the user's "Wood" type techniques will be increased.
 Puxian\nScripture
 The higher the ratio of the "Wood" internal power of the user, the more the user's unloading power, dismantling moves, dodging and heart guarding will be improved.
 Anatta
@@ -55,7 +55,7 @@ Horizontal Feet
 Stance Up
 When the user consumes only Qi, a portion of the stance will be restored.
 Celestial Pillar\nHolding
-Convert the user's "Wood" internal energy into "Pure Yang" internal energy, the more the conversion ratio, the more the user's "Pure Yang" type power will be increased.
+Convert the user's "Wood" internal energy into "Fire" internal energy, the more the conversion ratio, the more the user's "Fire" type power will be increased.
 Golden Scripture\nof Marrow-Regen
 The higher the ratio of "pure yang" internal energy of the user, the more the user's unloading, dismantling, dodging and heart guarding will be improved.
 Wudang\nMixed Element
@@ -106,7 +106,7 @@ Increases the power limit of the user's "Xuan Nui School" techniques
 Jade Bone\nCultivation
 The higher the percentage of "Xuan Yin" internal energy of the user, the more the user's body and qi will be improved.
 Moon Drive\nCultivation
-The user's "Xuan Yin" type of technique will cause more direct damage and backlash damage to characters with "Pure Yang" internal power attribute
+The user's "Xuan Yin" type of technique will cause more direct damage and backlash damage to characters with "Fire" internal power attribute
 Jade Mirror\nof Yin
 Significantly increase the "root bone" limit of the user
 Xihua\nScripture
@@ -179,7 +179,7 @@ Increases the power limit of the user's "Boundary Green Gate" technique
 Heaven\nMeditation
 Increases the power of the user's "Xuan Yin" type techniques
 12 Scrolls\nof Eastwall
-When the internal power attribute of the user is "Xuan Yin", the direct damage and repercussion damage caused by "Pure Yang" type techniques to the user will be reduced.
+When the internal power attribute of the user is "Xuan Yin", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
 Step Sky
 Significantly increase the "sensitivity" limit of the user
 Mysterious\nScripture
@@ -193,11 +193,11 @@ Increases the power limit of the user's "Furyan" technique
 Fulong\nFire-Engulf
 The higher the percentage of "pure yang" internal energy of the user, the more the user's imperial body and qi will be improved.
 Pure Qi of Fire
-The user's "Pure Yang" type techniques will cause more direct damage and repercussion damage to characters with "Metal" internal power attribute.
+The user's "Fire" type techniques will cause more direct damage and repercussion damage to characters with "Metal" internal power attribute.
 Divine Jade\nYang
 Dramatically increase the amount of true qi gained by the user in battle
 Dragon Engulf\nElephant
-Convert the user's "Returning Yuan" internal energy into "Pure Yang" internal energy, the more the conversion ratio, the more the power of the user's "Pure Yang" type techniques will be increased.
+Convert the user's "Returning Yuan" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type techniques will be increased.
 9 Dragons\nIn One
 Converts the "reverse" effect of the user's "pure yang" type of kung fu other than "internal kung fu" into a "positive" effect
 Demonization
@@ -214,7 +214,7 @@ When the internal power attribute of the user is "Return to the source", the dir
 3 Poisons of\nDarkness Spell
 The happier the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Moon Shape
-Convert the user's "Pure Yang" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will be increased.
+Convert the user's "Fire" internal energy into "Returning Energy" internal energy, the more the percentage of conversion, the more the user's "Returning Energy" type power will be increased.
 The Great 5 Yin
 The higher the ratio of the user's internal energy to the "Returning Element", the more the user's ability to disarm, dismantle, dodge, and guard the heart will increase.
 Children's\nBlood Sacrifice
@@ -1637,7 +1637,7 @@ For every 10% of the power of this technique, the user has a low chance of infli
 The Great\nFlower Finger of Mandala
 When you start to perform this technique, the deeper the enemy is poisoned by the illusion, the more the power of this technique will increase
 Flower Spirit\nMoon Finger
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Pure Yang", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Fire", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all closed acupuncture points of the enemy
 8 Moves of\nBlood Red Flower
@@ -1798,7 +1798,7 @@ Reduces the need to use the Shaolin School techniques of the user
 Inverse-Rohan Kung Fu
 Reduces the consumption of qi and stance of the "Metal" type of kung fu by the user
 Inverse - Heart Qi Mixing Technique
-When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused by "Pure Yang" type techniques to the user will be reduced.
+When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
 Inverse - Colorless Zen Kung Fu
 Significantly reduce the consumption of "fixation" by the user
 Reverse-Bodhicitta Practice
@@ -1849,7 +1849,7 @@ Inverse - One Word Mixed Pile
 Recover Inhale
 When the user consumes only the stance, a portion of the energy will be restored.
 Inverse - Luo Tian Zhen Zhi Twelve Piles
-Convert the user's "Xuan Yin" internal energy into "Pure Yang" internal energy, the more the conversion ratio, the more the power of the user's "Pure Yang" type kung fu will increase.
+Convert the user's "Xuan Yin" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type kung fu will increase.
 Reversal - Golden Sutra of Marrow Washing
 The higher the percentage of "pure yang" internal energy of the user, the more the user's power, subtlety, swiftness, and motivation will increase.
 Inverse - Wudang Mixed Element Kung Fu
@@ -1939,7 +1939,7 @@ Reduces the need to use the Metal technique of the user
 Inverse-Toom Kung Fu
 The higher the ratio of "Metal" internal power of the user, the more the user's body breaking and qi breaking will be improved.
 Inverse-Three Secret Response Method
-The user's "Metal" type techniques will cause more direct damage and repercussion damage to characters with "Pure Yang" internal power attribute.
+The user's "Metal" type techniques will cause more direct damage and repercussion damage to characters with "Fire" internal power attribute.
 Inverse - Baobao Qi Gong Method
 The more true qi types an enemy has below its true qi limit, the more the power of all the feats of the applicator increases
 Reverse - Vajra Dzogchen
@@ -1989,7 +1989,7 @@ The user's "pure yang" type of technique will cause more direct damage and reper
 Reverse-Small Yu Yang Shen Gong
 Significantly reduce the amount of qi lost by the user in battle
 Reverse - Wild Dragon Swallowing Elephant Kung Fu
-Convert the user's "Metal" internal energy into "Pure Yang" internal energy, the more the conversion ratio, the more the user's "Pure Yang" type power will increase.
+Convert the user's "Metal" internal energy into "Fire" internal energy, the more the conversion ratio, the more the user's "Fire" type power will increase.
 Inverse - Nine Dragons to One Kung Fu
 Change the "positive" effect of the "pure Yang" type of kung fu of the user other than "internal kung fu" to "negative" effect
 Inverse - Into the Magic Kung Fu
@@ -3030,7 +3030,7 @@ If the enemy has at least 2 "kill" styles, the user will be able to perform the 
 HU·Swordsmanship\nof Kill
 When attacking an enemy with this technique, all the "kill" styles of the enemy that are aligned together will be considered as additional weaknesses in the enemy's attacked area; at the end of this technique, all the enemy's "kill" styles will be disrupted
 HU·Swordsmanship\nof Netherworld
-When this technique is used at 10% of its power, the power of the enemy's 3 "Pure Yang" techniques is reduced and lasts until the end of the battle.
+When this technique is used at 10% of its power, the power of the enemy's 3 "Fire" techniques is reduced and lasts until the end of the battle.
 HU·Perfect\nSwordsmanship of 7 Ends
 After this technique has been used at 10% of its power, the user gains 7 levels of this effect: Whenever the enemy's "killing" styles change and are aligned together, if this technique is not blocked, the user will immediately perform a sixth-rank "sword technique" to attack the enemy without consumption from 100% of the performance progress. "When this effect takes effect, this technique will inevitably be blocked for a short period of time.
 HU·Mysterious\nSword Intent
@@ -3596,9 +3596,9 @@ When defending with this divine power, the degree of injury caused by the Dragon
 Donglai Yiqi
 The direct damage inflicted by Mo Mui on characters with the internal power attribute of "Return to Yuan" is greatly increased; the direct damage inflicted by characters with the internal power attribute of "Metal" on Mo Mui is greatly increased
 Vajra Breaks Evil
-The direct damage dealt by Dayue Yaochang to characters with the internal power attribute "Zi Xia" is greatly increased; the direct damage dealt by characters with the internal power attribute "Pure Yang" to Dayue Yaochang is greatly increased
+The direct damage dealt by Dayue Yaochang to characters with the internal power attribute "Zi Xia" is greatly increased; the direct damage dealt by characters with the internal power attribute "Fire" to Dayue Yaochang is greatly increased
 The Nine Netherworlds
-The direct damage dealt by Jiu Han to characters with internal energy attribute "Pure Yang" is greatly increased; the direct damage dealt by characters with internal energy attribute "Return to Yuan" to Jiu Han is greatly increased
+The direct damage dealt by Jiu Han to characters with internal energy attribute "Fire" is greatly increased; the direct damage dealt by characters with internal energy attribute "Return to Yuan" to Jiu Han is greatly increased
 Extra-Terrestrial True Fire
 The direct damage dealt by Jin Huo'er to characters with internal power attribute "Metal" is greatly increased; the direct damage dealt by characters with internal power attribute "Xuan Yin" to Jin Huo'er is greatly increased
 illusion
