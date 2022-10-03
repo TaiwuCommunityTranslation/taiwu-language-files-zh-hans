@@ -100,7 +100,7 @@ Diffuse\nMomentum
 When the internal power attribute of the user is "Purple Haze", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 Ingenious\nMysterious
 Increases Qi in the odd body
-At the beginning of a battle, the user's "Qi Qiao" true energy is increased significantly; the amount of "Qi Qiao" true energy gained during the battle is increased significantly; the amount of "Qi Qiao" true energy lost during the battle is decreased significantly.
+At the beginning of a battle, the user's "Nadis" true energy is increased significantly; the amount of "Nadis" true energy gained during the battle is increased significantly; the amount of "Nadis" true energy lost during the battle is decreased significantly.
 Xuannyu\nMeditation
 Increases the power limit of the user's "Xuan Nui School" techniques
 Jade Bone\nCultivation
@@ -413,7 +413,7 @@ Forge Mysterious Iron
 Arms become divine weapons
 When the total number of defeat marks of the user exceeds half of the defeat condition, the weapon currently used by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" cannot be damaged unless it is damaged by attacking "Divine Armor"; direct damage caused by attacking with "Divine Armor" cannot be reduced by any effect unless the enemy is protected by "Divine Armor"
 4 Finger Azure Cream
-When the "Qi Qiao" True Qi of the user is higher than the "Qi Qiao" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
+When the "Nadis" True Qi of the user is higher than the "Nadis" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 3 Books of 9-Steps
 When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's power, subtlety, swiftness, and heartbeat will increase.
 Visceral Anatomy
@@ -436,7 +436,7 @@ Flood Dragon's Bone Regeneration
 Automatic healing of injuries
 When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all external injury of the user will be eliminated by themselves quickly with time
 9 Colored Jade Cicada
-When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Qi Qiao" true qi to randomly remove 9 wound markers of the user
+When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 wound markers of the user
 Go With The Flow
 Force Change·RNG
 Eliminate useless storage type
@@ -951,7 +951,7 @@ Swordsmanship\nof Water Beetle
 E·Resolves Dn
 After this technique has been used for 10% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's unloading, dismantling, dodging, and heart guarding cannot be higher than the user's force, subtlety, swiftness, and heart moving.
 Swordsmanship\nof 9 Lights
-At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Qi Qiao", this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, and then this effect reverts to 0 levels.
+At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Nadis", this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, and then this effect reverts to 0 levels.
 Swordsmanship\nof Yinyang Reversed
 Improving external injury
 When attacking an enemy with this technique, if this technique can cause direct internal damage and the user's broken Qi is lower than the enemy's imperial Qi, the user's broken body is greatly increased and the user's direct external damage to the enemy is greatly increased
@@ -1569,7 +1569,7 @@ Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's body breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's stance recovery speed is reduced.
 Vajra Samadhi\nPalm
 Reduction of Enemy's Royal Body
-This technique cannot be interrupted; this technique is bound to be 10% powerful, and the higher the enemy's imperial qi is, the more the enemy's imperial body will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Qi Qiao" true qi, otherwise these effects will not take effect
+This technique cannot be interrupted; this technique is bound to be 10% powerful, and the higher the enemy's imperial qi is, the more the enemy's imperial body will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Nadis" true qi, otherwise these effects will not take effect
 Chilling Pinprick
 Increase the power of all the "Light Spirit" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle
 Emei Finger Zen
@@ -1679,7 +1679,7 @@ When you start to perform this technique, the more "no" forms the user has, the 
 The World\nAmused
 When this technique exerts 10% of its power, it randomly and significantly increases the power of 1 "Destruction" technique, 1 "Body Protection" technique, 1 "Lightness" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
 Wudang\nLong Fist
-According to the power of this technique, it increases the power limit of all the "Qi Qiao" techniques of the user, and lasts until the end of the battle.
+According to the power of this technique, it increases the power limit of all the "Nadis" techniques of the user, and lasts until the end of the battle.
 Wind Chasing\nPalm
 After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "collapse" and "point" styles obtained by the user are changed to "take" styles
 Wudang Soft\nPalm
@@ -1698,7 +1698,7 @@ Taichi Fist
 Suppressing enemy attacks
 After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: when the user is attacked by an enemy's technique, if the enemy's broken qi is lower than the user's imperial body, the user's imperial body will additionally add the enemy's broken body; if the enemy's broken body is lower than the user's imperial qi, the user's imperial qi will additionally add the enemy's broken qi; after this technique is performed, it will change from positive practice to negative practice, and the power of this technique will accumulate increases until the end of the battle.
 Wudang\nSwordsmanship
-Increase the power of all of the "Qi Qiao" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle.
+Increase the power of all of the "Nadis" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle.
 Wudang\nSwordsmanship of Unfettered
 Advancement while operating
 In the process of performing this technique, the user can advance up to 4 distances
@@ -2201,7 +2201,7 @@ Whenever a toxin attack occurs, the user receives twice the amount of "Qi" of th
 HU·Flood Dragon's Bone Regeneration
 When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all the internal injury marks of the user will be eliminated quickly by themselves with time
 HU·9 Colored Jade Cicada
-When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Qi Qiao" true qi to randomly remove 9 non-injury markers of the user
+When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 non-injury markers of the user
 HU·Go With The Flow
 Whenever an enemy deals direct damage to the user, the user gains 2 points of a random type of true qi or loses 1 point of a random type of true qi, and loses 1 unusable style.
 HU·Take The Pulse
@@ -2650,7 +2650,7 @@ If the user's power, subtlety, swiftness, or heart is not lower than the enemy's
 HU·Swordsmanship\nof Water Beetle
 After this technique has been used to achieve 10% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the user's force, subtlety, swiftness, and heart will not be lower than the enemy's unloading, dismantling, dodging, and heart guarding.
 HU·Swordsmanship\nof 9 Lights
-At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Qi Qiao" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the performance progress, then this effect reverts to 0 levels
+At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Nadis" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the performance progress, then this effect reverts to 0 levels
 HU·Swordsmanship\nof Yinyang Reversed
 When attacking an enemy with this technique, if this technique can cause direct external injuries and the user's body break is lower than the enemy's imperial body, the user's broken qi is greatly increased and the user's direct internal injuries to the enemy are greatly increased
 HU·Origin\nSword Intent
@@ -3271,9 +3271,9 @@ HU·Burydeer Orchid
 Elimination of dyscalculia markers
 When you start to perform this technique, the more markers of disorientation the user receives, the more the power of this technique will increase; when this technique reaches 10% of its power, 2 markers of disorientation will be removed for the user
 HU·The World\nAmused
-When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Destruction" technique, 1 "Body Protection" technique, 1 "Lightness" technique, and 1 "Qi Qiao" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
+When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Destruction" technique, 1 "Body Protection" technique, 1 "Lightness" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
 HU·Wudang\nLong Fist
-Based on the power of this technique, the user's requirement for the use of all "Qi Qiao" techniques will be reduced until the end of the battle.
+Based on the power of this technique, the user's requirement for the use of all "Nadis" techniques will be reduced until the end of the battle.
 HU·Wind Chasing\nPalm
 When this technique is used at least 10% of its power, the user gains 2 "take" styles
 HU·Wudang Soft\nPalm
@@ -3292,7 +3292,7 @@ HU·Taichi Fist
 Suppressing the enemy's defense
 After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: when an enemy is attacked by the user's technique, if the enemy's imperial qi is lower than the user's broken body, the user's broken body will additionally add the enemy's imperial body; if the enemy's imperial body is lower than the user's broken body, the user's broken body will additionally add the enemy's imperial qi; after this technique is performed, it will change from reverse practice to positive practice, and the power of this technique will accumulate increases until the end of the battle.
 HU·Wudang\nSwordsmanship
-Reduces the power of all the enemy's "Qi Qiao" techniques according to the percentage of the power exerted by the technique, and lasts until the end of the battle.
+Reduces the power of all the enemy's "Nadis" techniques according to the percentage of the power exerted by the technique, and lasts until the end of the battle.
 HU·Wudang\nSwordsmanship of Unfettered
 In the process of performing this technique, the user can retreat up to 4 distances
 HU·Swordsmanship\nof Rainbow White
@@ -3320,7 +3320,7 @@ HU·Laojun Swipe
 At the beginning of the battle, the user gains 6 levels of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, this effect is consumed to remove the user's non-injury markers. 1 level of this effect is consumed for each non-injury marker removed; when this technique becomes 10% more powerful, 1 level of this effect is restored, up to a maximum of 3 levels.
 HU·Yin-Yang Invert
 Restraint against practicing strange tricks
-The direct internal injuries caused by this technique will be resisted by the enemy's imperial body instead; during the execution of this technique, all of the enemy's reverse training "Qi Qiao" techniques cannot take effect
+The direct internal injuries caused by this technique will be resisted by the enemy's imperial body instead; during the execution of this technique, all of the enemy's reverse training "Nadis" techniques cannot take effect
 HU·The Ultra One\nSwipe
 The higher the disorder of the enemy's internal breath, the higher the number of sealed points caused by this technique and the higher the level of sealed points when this technique exerts its tenth power
 HU·Heavy Swipe
