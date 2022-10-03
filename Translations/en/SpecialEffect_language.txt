@@ -1908,7 +1908,7 @@ Convert the "Fire" internal energy of the user into "Water" internal energy, the
 Reverse-Yaochi Immortal Bathing Method
 Significantly reduces the consumption of qi and stance of the user's "Water" type techniques
 Inverse - Taiyuan Jade Lady Kung Fu
-Reduced enemy light spirit true qi
+Reduced enemy Quick true qi
 At the beginning of a battle, significantly reduce the amount of "Quick" True Qi of the enemy and their helpers; significantly reduce the amount of "Quick" True Qi gained by the enemy during the battle; significantly increase the amount of "Quick" True Qi lost by the enemy during the battle
 Inverse-Taiyin Yiming Jue
 Greatly reduce the consumption of all major attributes of the user; if the user is a virgin, increase the power of all feats of the user, and make the user youthful
@@ -3747,7 +3747,7 @@ Swordless Sword
 When you start to perform this power, you will recover all your body and foot power; when you attack the enemy with this power, the more foot power you have left, the more the power of this power will increase.
 When you start to use this power, you will regain all your body and foot power; when you attack the enemy with this power, the more foot power you have left, the more the power of this power will increase.
 soulless soul
-Promote hair protection light spirit
+Promote hair protection Quick
 When you start to use this power, you can use the "Aegis" and "Quick" powers immediately and at the same time without the need to use them, and the power of these powers will be greatly increased until the end of these powers.
 Heart to Heart
 During the application of this power, the chance of the enemy hitting the direction of the enemy is halved, and whenever the enemy fails to hit the direction of the enemy, the enemy randomly appears 4 sealed points
