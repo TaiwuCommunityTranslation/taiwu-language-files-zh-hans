@@ -1,108 +1,108 @@
 Anti-Handguards
-如果敌人使用掌套，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If an enemy uses a palm set, attacks with this weapon or performs the Destruction Technique, the enemy's Diversion, Parry and Evasion are reduced by 20%.
 Anti-Sword
-如果敌人使用剑，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If the enemy uses a sword, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
 Anti-Blade
-如果敌人使用刀，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If the enemy uses a blade, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
 Anti-Poison
-如果敌人使用毒霜、毒砂，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If the enemy uses poisonous frost or poisonous sand,  attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
 Anti-Polearm
-如果敌人使用棍、枪，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If the enemy uses a polearm, attacks with this weaponor performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
 Anti-Soft·Wp
-如果敌人使用长鞭、拂尘，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If the enemy uses a Soft·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
 Anti-Hidden·Wp
-如果敌人使用机关、暗器、针匣，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If the enemy uses a Hidden·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
 Anti-Exotic·Wp
-如果敌人使用令符、对刺、短杵，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If the enemy uses a Exotic·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
 Anti-Melody
-如果敌人使用箫笛、瑶琴，以此兵器进行攻击或施展摧破功法时，敌人的卸力、拆招、闪避、守心降低20%。
+If the enemy uses a music instrument, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
 Anti-Metal
-如果敌人以金铁材质的护具抵挡此兵器的攻击或摧破功法，敌人的御体、御气降低20%。
+If the enemy uses Iron-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
 Anti-Wood
-如果敌人以竹木材质的护具抵挡此兵器的攻击或摧破功法，敌人的御体、御气降低20%。
+If the enemy uses Wood-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
 Anti-Gem
-如果敌人以玉石材质的护具抵挡此兵器的攻击或摧破功法，敌人的御体、御气降低20%。
-破锦
-如果敌人以织物材质的护具抵挡此兵器的攻击或摧破功法，敌人的御体、御气降低20%。
+If the enemy uses Gem-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Anti-Weaving
+If the enemy uses Fabric-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
 Sharp
-此兵器的破甲提高20%。
-火炼
-此兵器的坚韧提高20%。
-血刃
-此兵器的破甲提高50%，坚韧减少50%。
+This weapons armor-breaking abilities are increased by 20% 。
+Refined by fire
+Durability of this weapon is increased by 20%.
+Bloodbath
+This weapon is 50% better at breaking armor, but its durability is decreased by 50%.
 Blunt
-此兵器的坚韧提高50%，破甲减少50%。
-毒刺
+This weapon is 50% better at breaking armor, and its durability is increased by 50%.
+Venomous sting
 此兵器对敌人造成的毒害提高20%。
-灵用
-此兵器的使用需求降低20%
-血杀
-以此兵器进行攻击或施展摧破功法时，如果此兵器受到损坏，敌人受到的直接外伤增加1层。
-气杀
-以此兵器进行攻击或施展摧破功法时，如果此兵器受到损坏，敌人受到的直接内伤增加1层。
-化血
-以此兵器进行攻击或施展摧破功法时，攻击者受到的外伤反震伤害降低20%。
-化气
-以此兵器进行攻击或施展摧破功法时，攻击者受到的内伤反震伤害降低20%。
+Spiritual Use
+20% reduction in the requirement to use this weapon
+Blood Kills
+When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the enemy suffers 1 additional level of External Injury.
+Qi killing
+When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the enemy suffers 1 additional level of Internal Injury.
+Blood Transfusion
+When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the attacker takes 20% less External Injury.
+Qi Transformation
+When attacking with this weapon or performing the Destroy feat, the attacker takes 20% less internal Injury damage.
 Counter Handguards
-如果敌人使用掌套，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a palm glove, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Sword
-如果敌人使用剑，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a Sword, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Blade
-如果敌人使用刀，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a Blade, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Poison
-如果敌人使用毒霜、毒砂，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a poisonous attack,  if this guard is used to parry the enemy's attack or Break Skill, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% 
 Counter Polearm
-如果敌人使用棍、枪，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a Polearm, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Soft·Wp
-如果敌人使用长鞭、拂尘，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a Soft·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Hidden·Wp
-如果敌人使用机关、暗器、针匣，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a Hidden·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Exotic·Wp
-如果敌人使用令符、对刺、短杵，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a Exotic·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Melody
-如果敌人使用箫笛、瑶琴，以此护具抵挡敌人的攻击或摧破功法时，敌人的力道、精妙、迅疾、动心降低20%。
+If the enemy uses a music instrument, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Metal
-如果敌人使用金铁材质的兵器，以此护具抵挡敌人的攻击或摧破功法时，敌人的破体、破气降低20%。
+If the enemy uses a Metal weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
 Counter Wood
-如果敌人使用竹木材质的兵器，以此护具抵挡敌人的攻击或摧破功法时，敌人的破体、破气降低20%。
+If the enemy uses a Wood weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
 Counter Gem
-如果敌人使用玉石材质的兵器，以此护具抵挡敌人的攻击或摧破功法时，敌人的破体、破气降低20%。
-辟锦
-如果敌人使用织物材质的兵器，以此护具抵挡敌人的攻击或摧破功法时，敌人的破体、破气降低20%。
+If the enemy uses a Gem weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+Reflection of Weaving
+If the enemy uses a Fabric weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
 Hidden Sharpness
-此护具的破刃提高20%。
-雪炼
-此护具的坚韧提高20%。
-血衣
-此护具的破刃提高50%，坚韧减少50%。
+The breaking edge of this piece of gear is increased by 20%.
+Snow Refining
+Durability of this piece of gear is increased by 20%.
+Blood Coat
+This piece of gear has a 50% increase in blade breakage and a 50% reduction in Durability.
 Tenacious
-此护具的坚韧提高50%，破刃减少50%。
-此护具对敌人造成的毒害提高20%。
-此护具的使用需求降低20%
-护血
-以此护具抵挡敌人的攻击或摧破功法时，如果此护具受到损坏，敌人造成的直接外伤减少1层。
+This piece of gear has a 50% increase in blade breakage and a 50% increase in Durability.
+This piece of gear causes 20% more poison damage to enemies.
+20% reduction in the requirements to use this piece of gear.
+Physical Protection
+When using this piece of gear to defend against enemy attacks or Break Skill, if this gear is damaged, the External Injury inflicted by the enemy is reduced by 1 level.
 Qi·Protection
-以此护具抵挡敌人的攻击或摧破功法时，如果此护具受到损坏，敌人造成的直接内伤减少1层。
-震血
-以此护具抵挡敌人的攻击或摧破功法时，受击者造成的外伤反震伤害提高20%。
+When using this piece of gear to defend against enemy attacks or Break Skill, if this gear is damaged, the internal injury inflicted by the enemy is reduced by 1 level.
+Retributing Physical
+When using this piece of gear to defend against enemy attacks or break skill, the external injury damage inflicted by the recipient is increased by 20%.
 Retributing Qi
-以此护具抵挡敌人的攻击或摧破功法时，受击者造成的内伤反震伤害提高20%。
-加固
-此装备的耐久提高20%。
-平衡
-此装备的重量降低20%。
+When using this piece of gear to parry an enemy attack or Break Skill, the recipient deals 20% more Internal Injury.
+Reinforcement
+The durability of this equipment is increased by 20%.
+Balance
+The weight of this equipment has been reduced by 20%.
 Valuable
-此装备的价值提高30%。
-礼物
-此装备的喜爱提高30%。
+The value of this equipment is increased by 30%.
+Gift
+The popularity of this equipment is increased by 30%.
 Heavy
-此装备的耐久提高50%，重量提高50%。
+The durability of this equipment is increased by 50% and its weight is increased by 50%.
 Light
-此装备的重量降低50%，耐久降低50%。
-礼器
-此装备的价值提高75%，此装备的喜爱降低75%。
-珍玩
-此装备的喜爱提高75%，此装备的价值降低75%。
+The weight of this equipment is reduced by 50% and its durability is reduced by 50%.
+Ritual
+The value of this equipment is increased by 75% and its popularity is reduced by 75%.
+Collectible 
+The popularity of this equipment is increased by 75%, and its value is reduced by 75%.
 Made by Adoptive Father
 此兵器的耐久提高100%。
