@@ -222,7 +222,7 @@ Significantly increases the power of the user's "Return to the Source" type tech
 Evil Scripture\nof Blood Hou
 When the internal energy attribute of the user is "Returning Energy", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 The Great Blood\nChild
-Increases the destruction of true qi
+Increases the Break of true qi
 At the beginning of a battle, the user's Break True Qi is increased significantly; the amount of Break True Qi gained during the battle is increased significantly; the amount of Break True Qi lost during the battle is decreased significantly.
 Energizing\nPractice
 All backlash damage to the user is significantly reduced
@@ -244,7 +244,7 @@ Arhat's Stick Formation
 The user's helper can use the "defense" command more frequently to perform Aegis to defend the user against enemy attacks.
 Buddhism Lion Roar
 Attrition of enemy's foot power
-Whenever the user starts to perform a "destruction" type technique, if the enemy is within the user's attack range, all of the enemy's body and foot strength will be lost.
+Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's body and foot strength will be lost.
 Mixed Element In One
 Changing Qi to Body
 Avoid direct internal injuries
@@ -408,7 +408,7 @@ Heavenly Armor
 When defending with this technique, if the grade of the weapon used by the enemy is not higher than the grade of the protective gear of the attacked part of the user, the degree of injury caused by the enemy to the user will be reduced by 4 levels.
 Exquisite 9
 Treasure Transformation True Qi
-When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability, and the user's true qi will be increased according to the grade of the treasure: gold and iron treasures will increase "destruction" true qi; jade treasures will increase "Aegis" true qi; wooden treasures will increase "Quick" true qi; and brocade treasures will increase "qi" true qi.
+When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability, and the user's true qi will be increased according to the grade of the treasure: gold and iron treasures will increase "Break" true qi; jade treasures will increase "Aegis" true qi; wooden treasures will increase "Quick" true qi; and brocade treasures will increase "qi" true qi.
 Forge Mysterious Iron
 Arms become divine weapons
 When the total number of defeat marks of the user exceeds half of the defeat condition, the weapon currently used by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" cannot be damaged unless it is damaged by attacking "Divine Armor"; direct damage caused by attacking with "Divine Armor" cannot be reduced by any effect unless the enemy is protected by "Divine Armor"
@@ -748,7 +748,7 @@ During the duration of this body technique, if the weapon of the user is able to
 Carefree Step
 During the duration of this technique, whenever the user hits an enemy with a "concealed weapon" type weapon, the user's kick strength is restored.
 Sky River Walk
-During the duration of this stance, for every 1 distance the user advances, the user draws 1 point of "destruction" true qi from the enemy's body.
+During the duration of this stance, for every 1 distance the user advances, the user draws 1 point of "Break" true qi from the enemy's body.
 Take 5 Cars
 When advancing with this stance, the user needs to accumulate power to move 2 distances at once, and then recover the user's foot power
 Divine Rope
@@ -964,7 +964,7 @@ When attacking an enemy with this technique, the enemy will only use the lowest 
 Tripping Spell
 When this spell exerts ten percent of its power, the enemy's body and foot strength will be greatly depleted.
 Disable
-Blocking the destruction of the enemy
+Blocking the Break of the enemy
 When this spell is used at 10% of its power, one of the enemy's "Break" techniques that is not permanently blocked will be "blocked" for a long time; the power of the "blocked" technique will be greatly reduced and will last until the enemy finishes performing it; after this spell is cast, it will inevitably be temporarily "blocked".
 Shocking Spell
 Force E·Escape
@@ -1490,7 +1490,7 @@ When attacking an enemy with this technique, the special effect of the enemy's "
 Bone-Corrosion\nSand
 Grave Sand
 Doing legwork to perform
-When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 10% power, the user gets 2 layers of this effect: for every cumulative advance of 1 distance, the user will perform this technique to attack the enemy without consumption starting from 50% of the progress of the technique, and the technique performed with this effect will not get the destruction effect layer.
+When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 10% power, the user gets 2 layers of this effect: for every cumulative advance of 1 distance, the user will perform this technique to attack the enemy without consumption starting from 50% of the progress of the technique, and the technique performed with this effect will not get the Break effect layer.
 Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's broken body, the more the enemy's imperial body is reduced
 Lady Poison
@@ -1527,7 +1527,7 @@ As long as this technique is not dismantled by the enemy, the direct external da
 Great Finger\nof Vajra
 When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at ten percent of its power, it will change one hole and one sealed point in the enemy's attacked area to a external injury
 Whirling\nVajra Ring
-After this technique has reached 10% of its power, the user gains 6 layers of this effect: the degree of external injury suffered by the user is reduced by 2 layers, and the user is able to counter shock the external injury caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and the technique performed with this effect will not gain the number of layers of the destruction effect.
+After this technique has reached 10% of its power, the user gains 6 layers of this effect: the degree of external injury suffered by the user is reduced by 2 layers, and the user is able to counter shock the external injury caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and the technique performed with this effect will not gain the number of layers of the Break effect.
 Shaolin\nDragon Claw
 When attacking the enemy with this technique: the armor of the user increases significantly; the more the armor of the user is higher than the toughness of the enemy, the more the body of the user is broken.
 Shaolin Staff\nof 6 Directions
@@ -1620,7 +1620,7 @@ When this technique is used at 10% of its power, the enemy loses 6 points of "Li
 Divine Needle\nof Meditation Wisdom
 When this technique exerts ten percent of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the user increases significantly in the enemy's lost memories, lasting until the end of the battle
 Pure Girl's Stab
-After this technique has been used for ten percent of its power, the user gains 3 layers of this effect: whenever the user counters an enemy, the user gains 1 random available style, if the user counters an enemy successfully, the user immediately performs this technique to attack the enemy without consumption, and the power of this technique increases significantly, and this technique performed with this effect does not gain layers of destruction effect
+After this technique has been used for ten percent of its power, the user gains 3 layers of this effect: whenever the user counters an enemy, the user gains 1 random available style, if the user counters an enemy successfully, the user immediately performs this technique to attack the enemy without consumption, and the power of this technique increases significantly, and this technique performed with this effect does not gain layers of Break effect
 Immortal\nNeedle of Golden Top
 If the user has at least 2 "Stab" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Stab" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Needle Finger
@@ -1704,7 +1704,7 @@ Advancement while operating
 In the process of performing this technique, the user can advance up to 4 distances
 Swordsmanship\nof Rainbow White
 Extra Move
-After this technique is at least 10% powerful, the user will get 3 layers of this effect: whenever the enemy accumulates 2 distances back, the user will immediately advance 1 distance, when this effect layer is exhausted, if the enemy is within the user's attack range, the user will immediately perform this technique to attack the enemy without consumption from 50% of the progress of the application, the technique performed with this effect will not gain the destruction effect layer
+After this technique is at least 10% powerful, the user will get 3 layers of this effect: whenever the enemy accumulates 2 distances back, the user will immediately advance 1 distance, when this effect layer is exhausted, if the enemy is within the user's attack range, the user will immediately perform this technique to attack the enemy without consumption from 50% of the progress of the application, the technique performed with this effect will not gain the Break effect layer
 Swordsmanship\nof The Ultra One Mysterious
 When you start to perform this technique, the more root bones the user has not consumed, the more the power of this technique will increase
 Pure Yang\nSword-Conception
@@ -2031,7 +2031,7 @@ HU·Arhat's Stick Formation
 When a user's partner uses the "Defend" command, his or her body, aura, force, disarm, dodge, and guard heart are greatly increased when defending.
 HU·Buddhism Lion Roar
 Attrition of the enemy's momentum
-Whenever the user starts to perform a "destruction" type technique, if the enemy is within the user's attack range, all of the enemy's Qi and stance will be lost.
+Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's Qi and stance will be lost.
 HU·Mixed Element In One
 Increase internal injury recoil
 When defending with this technique, the internal shock damage of this technique will be greatly increased as long as there are no sealed points in the area where the user is attacked by the enemy.
@@ -2176,7 +2176,7 @@ When the user's helper uses the "warning" command, it can increase the user's un
 HU·Heavenly Armor
 When defending with this technique, if the grade of the weapon used by the enemy is not higher than the grade of the protective gear of the attacked part, the degree of all direct internal injuries caused by the enemy to the user is reduced by 4 levels.
 HU·Exquisite 9
-When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability and reduce the enemy's true qi according to the treasure's rank: gold and iron treasures reduce "destruction" true qi; jade treasures reduce "Aegis" true qi; wooden treasures reduce "Quick" true qi; brocade treasures reduce "qi" true qi
+When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability and reduce the enemy's true qi according to the treasure's rank: gold and iron treasures reduce "Break" true qi; jade treasures reduce "Aegis" true qi; wooden treasures reduce "Quick" true qi; brocade treasures reduce "qi" true qi
 HU·Forge Mysterious Iron
 Protective gear becomes divine armor
 When the total number of defeat marks of the user exceeds half of the defeat condition, the protective gear currently worn by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" will not be damaged unless it is damaged by the attack of "Divine Armor"; all direct damage resisted by "Divine Armor" cannot be increased by any effect unless the enemy attacks or performs a feat with "Divine Armor".
@@ -2660,7 +2660,7 @@ When attacking an enemy with this technique, the user only hits with the highest
 HU·Tripping Spell
 When this spell is used at ten percent of its power, it can greatly restore the user's body and foot strength.
 HU·Disable
-When this spell is used at 10% of its power, it will cause the enemy's 2 "destruction" techniques that are not permanently blocked to be "blocked" for a short period of time; the power of the blocked techniques will be reduced and will last until the enemy finishes performing them; after this spell is cast, it will inevitably be temporarily "blocked".
+When this spell is used at 10% of its power, it will cause the enemy's 2 "Break" techniques that are not permanently blocked to be "blocked" for a short period of time; the power of the blocked techniques will be reduced and will last until the enemy finishes performing them; after this spell is cast, it will inevitably be temporarily "blocked".
 HU·Shocking Spell
 If the enemy can escape, the higher the sum of calmness, intelligence, enthusiasm, bravery and perseverance of the user, the higher the chance that the enemy will start to escape immediately; if the enemy cannot escape, the higher the sum of calmness, intelligence, enthusiasm, bravery and perseverance of the user, the more disorientation marks will be added to the enemy.
 HU·Summoning\nThunder
@@ -3093,7 +3093,7 @@ HU·Decayed Worm\nSand
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's poison attacks his heart.
 HU·Bone-Corrosion\nSand
 HU·Grave Sand
-When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 10% power, the user will get 2 layers of this effect: for every cumulative distance back, the user will perform this technique to attack the enemy without consumption starting from 50% of the performance progress, and this technique performed with this effect will not get the destruction effect layer
+When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 10% power, the user will get 2 layers of this effect: for every cumulative distance back, the user will perform this technique to attack the enemy without consumption starting from 50% of the performance progress, and this technique performed with this effect will not get the Break effect layer
 HU·Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's broken qi, the more the enemy's imperial qi will be reduced
 HU·Lady Poison
@@ -3128,7 +3128,7 @@ As long as this technique is not dismantled by the enemy, the direct internal da
 HU·Great Finger\nof Vajra
 When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at ten percent of its power, one of the enemy's attacked parts will be changed into an internal injury marker for both the breach and one of the sealed points.
 HU·Whirling\nVajra Ring
-After this technique has reached 10% of its power, the user gains 6 layers of this effect: the degree of direct internal injuries suffered by the user is reduced by 2 layers, and the user is able to counteract the direct internal injuries caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and the technique performed with this effect will not gain layers of the destruction effect.
+After this technique has reached 10% of its power, the user gains 6 layers of this effect: the degree of direct internal injuries suffered by the user is reduced by 2 layers, and the user is able to counteract the direct internal injuries caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and the technique performed with this effect will not gain layers of the Break effect.
 HU·Shaolin\nDragon Claw
 When attacking the enemy with this technique: the armor of the user increases dramatically; the more the armor of the user is higher than the toughness of the enemy, the more the energy of the user increases.
 HU·Shaolin Staff\nof 6 Directions
@@ -3214,7 +3214,7 @@ When this technique is used at 10% of its power, the user draws 3 points of "Lig
 HU·Divine Needle\nof Meditation Wisdom
 When this technique exerts ten percent of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the enemy is greatly reduced in the enemy's lost memories, lasting until the end of the battle
 HU·Pure Girl's Stab
-After this technique has been used for ten percent of its power, the user will get 3 layers of this effect: whenever the enemy counterattacks the user, the user will get 1 random available style, if the enemy fails to counterattack the user, the user will immediately perform this technique to attack the enemy without consumption, and the power of this technique will be greatly increased, and this technique performed with this effect will not get the number of layers of the destruction effect
+After this technique has been used for ten percent of its power, the user will get 3 layers of this effect: whenever the enemy counterattacks the user, the user will get 1 random available style, if the enemy fails to counterattack the user, the user will immediately perform this technique to attack the enemy without consumption, and the power of this technique will be greatly increased, and this technique performed with this effect will not get the number of layers of the Break effect
 HU·Immortal\nNeedle of Golden Top
 When you start to perform this technique, you will consume all the "stabbing" style of the user. The more "stabbing" style the user consumes, the more the power of this technique will increase.
 HU·Needle Finger
@@ -3296,7 +3296,7 @@ Reduces the power of all the enemy's "Nadis" techniques according to the percent
 HU·Wudang\nSwordsmanship of Unfettered
 In the process of performing this technique, the user can retreat up to 4 distances
 HU·Swordsmanship\nof Rainbow White
-When this technique is at least 10% powerful, the user will get 3 layers of this effect: Whenever the enemy accumulates 2 distances forward, the user will immediately retreat 1 distance, when the layers of this effect are exhausted, if the enemy is within the user's attack range, the user will immediately perform this technique to attack the enemy without consumption from 50% of the progress of the application, and the technique performed with this effect will not gain layers of the destruction effect.
+When this technique is at least 10% powerful, the user will get 3 layers of this effect: Whenever the enemy accumulates 2 distances forward, the user will immediately retreat 1 distance, when the layers of this effect are exhausted, if the enemy is within the user's attack range, the user will immediately perform this technique to attack the enemy without consumption from 50% of the progress of the application, and the technique performed with this effect will not gain layers of the Break effect.
 HU·Swordsmanship\nof The Ultra One Mysterious
 When you start to perform this technique, the more root bones the user has consumed, the more the power of this technique will increase
 HU·Pure Yang\nSword-Conception
@@ -3341,7 +3341,7 @@ When attacking the enemy with this technique: the armor of the user is increased
 HU·Kick of\nMove The Mountain
 When this technique is used at 10% of its power, the power of the enemy's 3 "Xuan Yin" techniques is reduced and lasts until the end of the battle.
 HU·Cloud Dragon\n9 Kick
-After this technique has reached 10% of its power, the user will get this effect 8 times: every time the user continuously retreats 0.2 distance, the number of layers of this effect will be reduced by 1. If the enemy is within the attack range of this technique, the user will immediately perform this technique again to attack the enemy from 50% of the progress of its performance, and the technique performed with this effect will not gain the number of layers of the destruction effect.
+After this technique has reached 10% of its power, the user will get this effect 8 times: every time the user continuously retreats 0.2 distance, the number of layers of this effect will be reduced by 1. If the enemy is within the attack range of this technique, the user will immediately perform this technique again to attack the enemy from 50% of the progress of its performance, and the technique performed with this effect will not gain the number of layers of the Break effect.
 HU·Divine Kick of\nAo King
 After this technique has been used for ten percent of its power, the minimum distance between the enemy and us increases by 2, up to 6, and lasts until the end of the battle
 HU·Holy White\nElephant With 6 Tusks
@@ -3843,14 +3843,14 @@ Red Geibik contending clothes
 Seize the power of the enemy
 When you start to perform this divine power, Dragon Speak Por deals 1 level of external injury to each of your own leg and foot parts with a external injury level below 4, and accordingly: transfer the continuously enhanced power of multiple feats suffered by the enemy to the power enhancement of this divine power, lasting until the end of the battle
 Fire Dragon Burning Heart
-Destroy the enemy's destruction
+Destroy the enemy's Break
 When this power starts to work, Dragon Speak Por inflicts 1 level of external injury to his neck area with a external injury level below 4, randomly changes the number of levels of the enemy's 3 "Destroy" feats to the lower limit, and causes the enemy to take the backlash damage from these "Destroy" feats
 Fire pistil kills proud phoenix
 This power is not limited by the part of the crippled; if the dragon language Por any arm part of the external injury reached 4 levels: when you start to cast this power, this power from 100% progress, and restore all the power to cast this power consumed Qi, stance; during the process of casting this power, the enemy's arms as crippled
 Geibi in Red
 The exercise of this power is not subject to the limitations of the parts of the crippled; if the external injury of any part of the legs and feet of the dragon language Por reached 4 levels: when you start to exercise this power, the enemy will be subject to all feats of continuous enhancement of the power of this power to enhance the power of this power, lasting until the end of the battle; during the exercise of this power, the enemy's legs as crippled
 red heart deters the demon dragon
-This power is not limited by the damage of the area; if the external injury of the neck area of the dragon language Por reaches 4 levels: when you start to apply this power, the enemy's 6 "destruction" techniques will be randomly changed to the lower level of the ongoing effect, and the enemy will suffer the backlash damage of these "destruction" techniques; during the process of applying this power, the enemy's neck is as disabled
+This power is not limited by the damage of the area; if the external injury of the neck area of the dragon language Por reaches 4 levels: when you start to apply this power, the enemy's 6 "Break" techniques will be randomly changed to the lower level of the ongoing effect, and the enemy will suffer the backlash damage of these "Break" techniques; during the process of applying this power, the enemy's neck is as disabled
 One Sword - Soluble Dust Hidden
 Eliminate your own attack and defense
 To the - solution
