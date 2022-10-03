@@ -117,7 +117,7 @@ Nimbus Shower
 Significantly increases the power of the user's "Water" type techniques
 Supreme\nGoddess Cultivation
 Increases Quick of Spirit
-At the beginning of a battle, the user's Light Spirit True Qi is increased significantly; the amount of Light Spirit True Qi gained during the battle is increased significantly; the amount of Light Spirit True Qi lost during the battle is decreased significantly.
+At the beginning of a battle, the user's Quick True Qi is increased significantly; the amount of Quick True Qi gained during the battle is increased significantly; the amount of Quick True Qi lost during the battle is decreased significantly.
 Moon Jade
 Increase the upper limit of all major attributes of the user; if the user is a virgin, increase the power of all feats of the user, and make the user youthful
 Chap. Forge
@@ -254,7 +254,7 @@ Changing the body to the air
 Protection from external injury
 When defending with this technique, all of the user's body will be temporarily changed into the imperial qi, and the user will be protected from any external injury or damage caused by the enemy as long as the part where the user is attacked by the enemy is not broken.
 Emei Tiger Step
-When the "Light Spirit" True Qi of the wielder is higher than the "Light Spirit" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the wielder is reduced by 1 level
+When the "Quick" True Qi of the wielder is higher than the "Quick" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the wielder is reduced by 1 level
 Unintentional Mind
 Get extra storage style
 Whenever the user obtains any available equation, there is a certain chance that the user will obtain 1 more equation of the same type.
@@ -609,7 +609,7 @@ Cloud Surround
 Whenever the user hits an enemy with a "duster" type weapon during the duration of this body technique, the user's kick strength is restored.
 Big Dipper Step of Heavenly Spirit
 Gain Specific Force
-Every time you move 1 distance with this stance, the user gains "Light Spirit" true energy according to the amount of "Break" true energy the user has, and when the effect of this stance ends or expires, the user loses all "Light Spirit" true energy gained in the process.
+Every time you move 1 distance with this stance, the user gains "Quick" true energy according to the amount of "Break" true energy the user has, and when the effect of this stance ends or expires, the user loses all "Quick" true energy gained in the process.
 The One Step
 Improve the internal strength to play
 During the duration of this technique: the internal strength of the user increases significantly; the more evenly the ratio of internal to external injuries of the "Break" technique performed by the user, the more the power of this technique increases.
@@ -667,7 +667,7 @@ During the duration of this stance, for every 3 successful hits, the user will a
 Afterglow Catching
 During the duration of this stance, the speed of the user's performance is greatly increased.
 Rushes To The Moon
-When moving forward with this stance, the user needs to accumulate power to move 2 distances at once, and then the user gains 2 points of "Light Spirit" true energy.
+When moving forward with this stance, the user needs to accumulate power to move 2 distances at once, and then the user gains 2 points of "Quick" true energy.
 Learae's Snowsteps
 Remove E·Style
 During the duration of this stance, when the user attacks the enemy, he/she will first hit the enemy with a heartbeat that gradually decreases with the number of actions, and if the enemy fails to resolve this heartbeat, he/she will randomly eliminate a portion of the enemy's available stances.
@@ -906,14 +906,14 @@ The cold poison applied to the enemy by this technique will change into a more d
 One Mysterious\nHand
 After this technique plays at least 10% of the power, the user is close to the enemy at a distance of 2
 Mysterious\nIce Finger
-When this technique exerts at least 10% of its power, the user gains 2 points of "Light Spirit" true qi
+When this technique exerts at least 10% of its power, the user gains 2 points of "Quick" true qi
 Fallen Finger
 This technique will cause the same amount of external injury to both the enemy and us; the external injury caused by this technique cannot be reduced by any effect
 Peeling Move
 Remove E·Equipped
 When this technique exerts ten percent of its power, it has a certain chance to remove 1 piece of clothing or protective gear or treasure from the enemy, and apply a reduced benefit status to the enemy according to the level of the equipment removed.
 Poisonous Snake\nHidden Move
-At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Light Spirit" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
+At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Quick" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
 12 Moves of\nChangxi
 If the user has at least 2 "point" forms after this technique has exerted at least 10% of its power, the user will consume only 2 "point" forms and immediately perform this technique again to attack the enemy from 50% of its progress.
 Polaris Finger\nPoint
@@ -977,7 +977,7 @@ After this spell has become 10% more powerful, the user gains 2 levels of this e
 The Puppet's\nSealing Spell
 Blocking the enemy's body technique
 Interrupting the performance of gongfu
-When this spell is used at 10% of its power, one of the enemy's "Light Spirit" techniques that is not permanently blocked will be "blocked" for a long time; all "Light Spirit" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
+When this spell is used at 10% of its power, one of the enemy's "Quick" techniques that is not permanently blocked will be "blocked" for a long time; all "Quick" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
 The 7 Whites'\nExorcism
 Blocking the enemy's Aegis
 When this talisman is used at 10% of its power, it will cause one of the enemy's "Aegis" techniques to be "blocked" for a long time; depending on the full effect of the enemy's "Aegis" technique that is "blocked", it will reduce the enemy's Aegis, Qi Protection, Power Discharge, Dismantling, Dodge, and Mind Protection; after this talisman is cast, it will inevitably be temporarily "blocked".
@@ -1222,7 +1222,7 @@ Holy Wood\nSwordsmanship
 Transferring the power of feats
 When the power of this technique is not at 10%, part of the power of the 2 random "Break" techniques of the user will be transferred to this technique, and it will last until the technique is at 10%, then the transferred power will be restored and multiplied when it is restored, and it will last until the end of the battle.
 Soul Chasing\nSwordsmanship
-In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique will increase, and the user can gain 2 points of "Light Spirit" true qi for every 1 distance.
+In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique will increase, and the user can gain 2 points of "Quick" true qi for every 1 distance.
 Holy Ruler\nSwordsmanship
 Sequestration of enemy feats
 When this technique is used at 10% of its power, the enemy's 3 "Returning Elements" techniques will be "blocked" for a long time.
@@ -1379,7 +1379,7 @@ Source Extinct\nHands
 Interrupt E·Skill
 The higher the power of this technique, the higher the chance of "interrupting" the technique being performed by the enemy, and the power of this technique will increase cumulatively according to the power of the "interrupted" technique until the end of the battle.
 Staggered\nFinger
-If the user's "Light Spirit" True Qi is higher than the initial value and higher than the enemy's "Light Spirit" True Qi, this technique can be performed without consuming Qi and stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of "Light Spirit" True Qi at the end of this technique.
+If the user's "Quick" True Qi is higher than the initial value and higher than the enemy's "Quick" True Qi, this technique can be performed without consuming Qi and stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of "Quick" True Qi at the end of this technique.
 The Ultra One\nCrystal Finger
 Changing the body to a broken body
 During the process of performing this technique: most of the imperial body changes between the user and the enemy are broken; all direct external injuries suffered by the user will not exceed 2 levels of injury
@@ -1571,7 +1571,7 @@ Vajra Samadhi\nPalm
 Reduction of Enemy's Royal Body
 This technique cannot be interrupted; this technique is bound to be 10% powerful, and the higher the enemy's imperial qi is, the more the enemy's imperial body will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Nadis" true qi, otherwise these effects will not take effect
 Chilling Pinprick
-Increase the power of all the "Light Spirit" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle
+Increase the power of all the "Quick" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle
 Emei Finger Zen
 QiP Up
 The power of this technique is increased by the amount of power it exerts.
@@ -1607,7 +1607,7 @@ Divine\nSwordsmanship of Pure Girl
 Quickly perform feats
 During the execution of this technique, the user can perform any "Break" technique with an external power ratio of at least 60% without preparation, and continue to perform this technique after the "Break" technique or other techniques triggered by this technique have been performed and are at least 10% more powerful.
 Stab of\n5 Elements
-Increase the power limit of all "Light Spirit" techniques based on the power of the technique, which lasts until the end of the battle.
+Increase the power limit of all "Quick" techniques based on the power of the technique, which lasts until the end of the battle.
 Stab of Lost Soul
 Improving counterattack hits
 After this technique has been used for ten percent of its power, the user gains 2 levels of this effect: the user's hit rate when countering enemies is greatly increased.
@@ -1616,7 +1616,7 @@ If the distance between us and the enemy is less than the enemy's maximum attack
 Stab of\nDexterity Snake
 When you start to perform this technique, the more sensitivity the user has not consumed, the more the power of this technique will increase
 Shadow Stab
-When this technique is used at 10% of its power, the enemy loses 6 points of "Light Spirit" true qi.
+When this technique is used at 10% of its power, the enemy loses 6 points of "Quick" true qi.
 Divine Needle\nof Meditation Wisdom
 When this technique exerts ten percent of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the user increases significantly in the enemy's lost memories, lasting until the end of the battle
 Pure Girl's Stab
@@ -1909,7 +1909,7 @@ Reverse-Yaochi Immortal Bathing Method
 Significantly reduces the consumption of qi and stance of the user's "Water" type techniques
 Inverse - Taiyuan Jade Lady Kung Fu
 Reduced enemy light spirit true qi
-At the beginning of a battle, significantly reduce the amount of "Light Spirit" True Qi of the enemy and their helpers; significantly reduce the amount of "Light Spirit" True Qi gained by the enemy during the battle; significantly increase the amount of "Light Spirit" True Qi lost by the enemy during the battle
+At the beginning of a battle, significantly reduce the amount of "Quick" True Qi of the enemy and their helpers; significantly reduce the amount of "Quick" True Qi gained by the enemy during the battle; significantly increase the amount of "Quick" True Qi lost by the enemy during the battle
 Inverse-Taiyin Yiming Jue
 Greatly reduce the consumption of all major attributes of the user; if the user is a virgin, increase the power of all feats of the user, and make the user youthful
 Inverse - Burnt stone hammer forging
@@ -2039,7 +2039,7 @@ HU·Vajra Defence
 Improving external injury recoil
 When defending with this technique, as long as the area where the user is attacked by the enemy is not broken, the external recoil damage of this technique is greatly increased
 HU·Emei Tiger Step
-When the "Light Spirit" True Qi of the wielder is twice as high as the "Light Spirit" True Qi of the enemy, the degree of injury of all direct damage inflicted by the wielder on the enemy is increased by 1 level
+When the "Quick" True Qi of the wielder is twice as high as the "Quick" True Qi of the enemy, the degree of injury of all direct damage inflicted by the wielder on the enemy is increased by 1 level
 HU·Unintentional Mind
 Exempt from storage loss
 Whenever the user loses any available formula, there is a certain chance that the user will lose 1 less formula.
@@ -2350,7 +2350,7 @@ During the duration of this body technique, if the user uses the "Aegis" techniq
 HU·Cloud Surround
 During the duration of this technique, whenever the user hits the enemy with a "duster" type weapon, the enemy's kick strength will be lost.
 HU·Big Dipper Step of Heavenly Spirit
-Every time you move 1 distance with this stance, depending on the amount of "Aegis" True Qi the user has, the user gains "Light Spirit" True Qi, and when the effect of this stance ends or expires, the user loses all the "Light Spirit" True Qi gained in the process.
+Every time you move 1 distance with this stance, depending on the amount of "Aegis" True Qi the user has, the user gains "Quick" True Qi, and when the effect of this stance ends or expires, the user loses all the "Quick" True Qi gained in the process.
 HU·The One Step
 Lowering the enemy's internal power play
 During the duration of this technique: the enemy's internal power is significantly reduced; the more uneven the ratio of internal to external wounds of the enemy's "Break" technique, the more the power of this technique is reduced.
@@ -2402,7 +2402,7 @@ For every 3 successful hits on the enemy during the duration of this stance, the
 HU·Afterglow Catching
 During the duration of this stance, the enemy's casting speed is significantly reduced
 HU·Rushes To The Moon
-When retreating with this stance, the user needs to accumulate power to move 2 distances at once, and then the user gains 2 points of "Light Spirit" true energy.
+When retreating with this stance, the user needs to accumulate power to move 2 distances at once, and then the user gains 2 points of "Quick" true energy.
 HU·Learae's Snowsteps
 During the duration of this stance, when the user is attacked by an enemy, he/she will first hit the enemy with a heartbeat that decreases with the number of actions, and if the enemy fails to resolve the heartbeat, a portion of the user's unavailable stances will be randomly removed.
 HU·Lady Azure's Icesteps
@@ -2529,7 +2529,7 @@ Reverse-Cloud Frenzy Style
 After this technique has reached 10% of its power, the user gains 2 levels of this effect: the user can retreat up to 4 distances while performing the "Destroy" technique, the further the user retreats, the more the attack range increases; if the next technique performed is still this technique, the power of this technique increases significantly
 HU·Great Divine\nPalm
 Eliminate the Quick of the enemy
-When attacking an enemy with this technique, if the enemy is using the "Light Spirit" technique, the power of this technique will be greatly increased; when this technique exerts at least 10% of its power, the "Light Spirit" technique used by the enemy will be eliminated
+When attacking an enemy with this technique, if the enemy is using the "Quick" technique, the power of this technique will be greatly increased; when this technique exerts at least 10% of its power, the "Quick" technique used by the enemy will be eliminated
 HU·Great Slow Hand
 At the end of this technique, the enemy's unloading force will be reduced, and the user will immediately perform this technique again without consumption from 50% of the progress until the enemy leaves the attack range of this technique.
 HU·Ground Blade\nof Lion Face
@@ -2562,7 +2562,7 @@ When you start to perform this technique, the more physique the user has consume
 HU·Spear of\nUniverse
 The farther the user retreats, the more the power of this technique increases. For every distance the user retreats, he can gain 2 points of "Aegis" true qi.
 HU·Spear of\nMountain-Shaking Beasts
-When you start to perform this technique, if the enemy does not use the "Light Spirit" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons will be temporarily unusable.
+When you start to perform this technique, if the enemy does not use the "Quick" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons will be temporarily unusable.
 HU·Lion Spear of\nMadness Dragon
 When this technique is subjected to the enemy's recoil, the durability of the weapon of the user counteracts the recoil damage caused by the enemy to the user; after this technique has exerted at least 10% of its power, the user obtains 4 levels of this effect: when the user has not activated the body technique, the user can quickly accumulate power to retreat 1 distance at once without consumption
 HU·Overlord Spear\nof Dragon
@@ -2609,13 +2609,13 @@ The cold poison applied to the enemy by this technique is greatly increased, but
 HU·One Mysterious\nHand
 After this technique has exerted at least 10% of its power, the person using it should stay away from the enemy by a distance of 2
 HU·Mysterious\nIce Finger
-When this technique is used at least 10% of its power, the enemy loses 2 points of "Light Spirit" true qi.
+When this technique is used at least 10% of its power, the enemy loses 2 points of "Quick" true qi.
 HU·Fallen Finger
 This technique causes the same amount of direct internal damage to both the enemy and us; the direct internal damage caused by this technique cannot be reduced by any effect
 HU·Peeling Move
 When this technique is used, it has a certain chance to remove 1 piece of clothing or protective gear or treasure from the enemy, and apply a reduced benefit status to the enemy according to the level of the equipment removed.
 HU·Poisonous Snake\nHidden Move
-At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Light Spirit" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
+At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Quick" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
 HU·12 Moves of\nChangxi
 The more "points" the user consumes, the more the power of the technique will increase.
 HU·Polaris Finger\nPoint
@@ -2668,7 +2668,7 @@ If the user has a weapon, protective gear or treasure made of gold or iron, the 
 HU·Hexa-Jia Arcane\nBenediction
 After this spell has become 10% powerful, the user gains 2 levels of this effect: the "spell" technique performed by the user changes from positive to negative practice, and the power of the positive practice "spell" technique that has been changed is greatly increased.
 HU·The Puppet's\nSealing Spell
-When this spell is used at 10% of its power, the enemy's 2 "Light Spirit" techniques that are not permanently blocked will be "blocked" for a short period of time; all "Light Spirit" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
+When this spell is used at 10% of its power, the enemy's 2 "Quick" techniques that are not permanently blocked will be "blocked" for a short period of time; all "Quick" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
 HU·The 7 Whites'\nExorcism
 When this talisman is used at 10% of its power, it will cause the enemy's 2 "Aegis" techniques to be "blocked" for a short period of time; depending on the effect of the "Aegis" techniques blocked, it will reduce the enemy's Aegis, Qi Protection, Power Discharge, Dismantling, Dodge, and Heart Protection; after this talisman is cast, it will inevitably be temporarily "blocked".
 HU·Bless of\nThe Stars
@@ -2850,7 +2850,7 @@ When this technique is used at 10% of its power, for every 3 "Stab" stances the 
 HU·Holy Wood\nSwordsmanship
 When the power of this technique is at 10%, part of the power of this technique will be transferred to 2 random "Break" techniques of the user, which will last until the power of this technique is not at 10%, then the transferred power will be restored and multiplied when it is restored, which will last until the end of the battle.
 HU·Soul Chasing\nSwordsmanship
-The farther the user retreats, the more the power of this technique increases. For every distance the user retreats, the user can gain 2 points of "Light Spirit" true qi.
+The farther the user retreats, the more the power of this technique increases. For every distance the user retreats, the user can gain 2 points of "Quick" true qi.
 HU·Holy Ruler\nSwordsmanship
 When this technique is used at 10% of its power, the power of the enemy's 3 "Earth" techniques is reduced and lasts until the end of the battle.
 HU·Swordsmanship\nof Azure Spider
@@ -2996,7 +2996,7 @@ The more cold poison markers the user has, the more internal injury markers will
 HU·Source Extinct\nHands
 The higher the power of this technique, the higher the chance of "interrupting" the technique being performed by the enemy, and the cumulative power of the interrupted technique will be reduced according to the power of this technique until the end of the battle.
 HU·Staggered\nFinger
-If the user's "Light Spirit" True Qi is lower than the initial value and lower than the enemy's "Light Spirit" True Qi, this technique can be performed without using up Qi or stance, in which case the power of this technique is greatly increased, and the user gains 6 points of "Light Spirit" True Qi at the end of this technique.
+If the user's "Quick" True Qi is lower than the initial value and lower than the enemy's "Quick" True Qi, this technique can be performed without using up Qi or stance, in which case the power of this technique is greatly increased, and the user gains 6 points of "Quick" True Qi at the end of this technique.
 HU·The Ultra One\nCrystal Finger
 Changing the air from imperial to broken
 During the process of performing this technique: most of the imperial qi of the user and the enemy changes to broken qi; all direct internal injuries suffered by the user will not exceed 2 levels of injury
@@ -3159,7 +3159,7 @@ This technique increases the enemy's sense of crisis when it is unable to exert 
 HU·12 Hands of\nSilk Fist
 As long as this technique is not dodged by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
 HU·White Ape's\nLong-Arm Fist
-Depending on the power of this technique, the duration of the enemy's "Light Spirit" technique is greatly depleted.
+Depending on the power of this technique, the duration of the enemy's "Quick" technique is greatly depleted.
 HU·Transfer Flower\nPicker
 Transformation of imperial qi to imperial body
 When attacking an enemy with this technique, if the user's sensitivity is higher than the enemy's, a portion of the enemy's imperial energy will be transferred to the imperial body; when this technique is 10% more powerful, 10 points of the user's sensitivity will be consumed, and a gain status that increases the imperial body and a gain status that decreases the imperial energy will be applied to the enemy.
@@ -3169,7 +3169,7 @@ HU·Vajra Samadhi\nPalm
 Reduction of enemy's imperial energy
 This technique cannot be interrupted; this technique will definitely be 10% powerful, and the higher the enemy's imperial body, the more the enemy's imperial qi will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "qi", otherwise these effects will not take effect
 HU·Emei Eagle Claw
-Reduces the power of all the enemy's "Light Spirit" techniques by the amount of power this technique exerts, and lasts until the end of the battle
+Reduces the power of all the enemy's "Quick" techniques by the amount of power this technique exerts, and lasts until the end of the battle
 HU·Emei Finger Zen
 Applies a reduced benefit status to the enemy based on the power of this technique
 HU·Lame Fight\n80 Moves
@@ -3210,7 +3210,7 @@ If the distance between us and the enemy is greater than the enemy's minimum att
 HU·Stab of\nDexterity Snake
 When you start to perform this technique, the more sensitivity the user has consumed, the more the power of this technique will increase
 HU·Shadow Stab
-When this technique is used at 10% of its power, the user draws 3 points of "Light Spirit" true energy from the enemy's body
+When this technique is used at 10% of its power, the user draws 3 points of "Quick" true energy from the enemy's body
 HU·Divine Needle\nof Meditation Wisdom
 When this technique exerts ten percent of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the enemy is greatly reduced in the enemy's lost memories, lasting until the end of the battle
 HU·Pure Girl's Stab
@@ -3820,7 +3820,7 @@ Sheltered light
 When this divine power starts to be exerted: the 2 minus states on Huanxin will change to gain states; the 2 plus states on the enemy will change to minus states; when this divine power is at 10% power, it will "block" all the enemy's "Aegis" techniques that are not permanently blocked for a short time
 Lost
 Sealing the Quick of the Enemy
-When you start to exercise this power: apply a gain status to Huan Xin that increases body and qi breakage; apply a decrease status to the enemy that reduces body and qi breakage; when this power reaches 10% of its power, "block" all the enemy's "Light Spirit" techniques that are not permanently blocked for a short time
+When you start to exercise this power: apply a gain status to Huan Xin that increases body and qi breakage; apply a decrease status to the enemy that reduces body and qi breakage; when this power reaches 10% of its power, "block" all the enemy's "Quick" techniques that are not permanently blocked for a short time
 Three-Three Spiritualization
 Absorbing the enemy's true qi
 When you start to perform this divine power, if Zi Wu Xiang does not have the effect layer of "San San Hua Ling", Zi Wu Xiang gains 3 layers of this effect: when the enemy is about to gain or lose true qi, Zi Wu Xiang will double the corresponding true qi, and the layer of this effect will be reduced when Zi Wu Xiang loses true qi
