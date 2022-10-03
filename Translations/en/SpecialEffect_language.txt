@@ -223,7 +223,7 @@ Evil Scripture\nof Blood Hou
 When the internal energy attribute of the user is "Returning Energy", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 The Great Blood\nChild
 Increases the destruction of true qi
-At the beginning of a battle, the user's Destruction True Qi is increased significantly; the amount of Destruction True Qi gained during the battle is increased significantly; the amount of Destruction True Qi lost during the battle is decreased significantly.
+At the beginning of a battle, the user's Break True Qi is increased significantly; the amount of Break True Qi gained during the battle is increased significantly; the amount of Break True Qi lost during the battle is decreased significantly.
 Energizing\nPractice
 All backlash damage to the user is significantly reduced
 Lying Beside Tiger
@@ -272,7 +272,7 @@ Immortal Yang's Golden Body
 When defending with this technique, the more stances the user has available, the less direct damage the enemy will inflict on the user.
 Seven-Star Cross Chain
 Exempt from racking consumption
-When the user has 7 or more available stances, all "Destruction" type techniques performed by the user do not require the use of stances, and the more stances that are free from consumption, the more the power of the technique increases.
+When the user has 7 or more available stances, all "Break" type techniques performed by the user do not require the use of stances, and the more stances that are free from consumption, the more the power of the technique increases.
 Holy Light Inspiration
 Eliminate your mark
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 wound markers
@@ -313,7 +313,7 @@ Steady pace of improvement
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, a gain status is applied to the user to improve the steadiness of the pace.
 Yinyang Recycle
 Reduction of internal disorders
-Whenever the "Destruction" technique is performed by the user, the power of the technique will be 10% and the user's internal breath will be less disturbed.
+Whenever the "Break" technique is performed by the user, the power of the technique will be 10% and the user's internal breath will be less disturbed.
 5 Qi In One
 Recover Force
 When using this technique for defense, the true qi lost by the user in battle will increase rapidly over time and recover to the initial limit
@@ -337,7 +337,7 @@ Dmg Immunity
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the enemy's attack chance is reduced, and if the enemy's attack chance is fully consumed before it is reduced, the user's counterattack damage to the enemy is greatly increased
 Sakyamuni Elephant Throwing
 Gain Specific Force
-Whenever the user switches weapons, the heavier the weapon, the higher the chance that the user will gain 1 point of "Destruction" true qi.
+Whenever the user switches weapons, the heavier the weapon, the higher the chance that the user will gain 1 point of "Break" true qi.
 Divine Mysterious
 The more "slashes" the user has, the more the user's power increases; the more "stabs" the user has, the more the user's swiftness increases; the more "teases" the user has, the more the user's subtlety increases.
 Ultra Alpha Reflection
@@ -505,9 +505,9 @@ Seven elements of the great method to solve the evil
 Injury turned to an old injury
 When defending with this technique: the more body parts the user has destroyed, the less direct damage the enemy will inflict on the user; at the end of defending with this technique, 3 injury markers on the user's destroyed body parts will randomly change to old injuries that are more difficult to recover from
 Anger Face
-When the "Destruction" True Qi of the user is higher than the "Destruction" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
+When the "Break" True Qi of the user is higher than the "Break" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 Dragon Looks Back
-When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 2 levels; whenever the user reacts to an enemy attack, the user gains 1 point of "Destruction" true qi
+When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 2 levels; whenever the user reacts to an enemy attack, the user gains 1 point of "Break" true qi
 Divine Fire Cover
 When defending with this technique: all direct internal injuries suffered by the user are reduced by 2 levels; whenever the user reacts to an enemy attack, the user gains 1 point of "Aegis" true qi
 Dragon Breakthrough
@@ -609,12 +609,12 @@ Cloud Surround
 Whenever the user hits an enemy with a "duster" type weapon during the duration of this body technique, the user's kick strength is restored.
 Big Dipper Step of Heavenly Spirit
 Gain Specific Force
-Every time you move 1 distance with this stance, the user gains "Light Spirit" true energy according to the amount of "Destruction" true energy the user has, and when the effect of this stance ends or expires, the user loses all "Light Spirit" true energy gained in the process.
+Every time you move 1 distance with this stance, the user gains "Light Spirit" true energy according to the amount of "Break" true energy the user has, and when the effect of this stance ends or expires, the user loses all "Light Spirit" true energy gained in the process.
 The One Step
 Improve the internal strength to play
-During the duration of this technique: the internal strength of the user increases significantly; the more evenly the ratio of internal to external injuries of the "Destruction" technique performed by the user, the more the power of this technique increases.
+During the duration of this technique: the internal strength of the user increases significantly; the more evenly the ratio of internal to external injuries of the "Break" technique performed by the user, the more the power of this technique increases.
 Ladder Climbing
-During the duration of this technique, each time the user advances 0.5 distance, the power of all the "Destruction" techniques of the user will be increased, up to a maximum of 6 times, but if the user retreats, all the accumulated power will be lost.
+During the duration of this technique, each time the user advances 0.5 distance, the power of all the "Break" techniques of the user will be increased, up to a maximum of 6 times, but if the user retreats, all the accumulated power will be lost.
 Cloud Gliding
 When advancing with this stance, the user needs to accumulate power to move 3 distances at once, and then the user gains 3 points of random type of true qi
 Stone Poling
@@ -889,12 +889,12 @@ When this technique is used at 10% of its power, it eliminates all the enemy's "
 Pure Lady's\nHidden Hand
 When this technique is at least 10% of the power, the user takes 1 "take" from the enemy.
 Jade Hand
-After this technique has been used for at least 10% of its power, the user gains 2 levels of this effect: the degree of injury from direct damage caused by the enemy or the user's "Destruction" technique is increased by 2 levels.
+After this technique has been used for at least 10% of its power, the user gains 2 levels of this effect: the degree of injury from direct damage caused by the enemy or the user's "Break" technique is increased by 2 levels.
 Cold Yin Palm
 Wounds inflicted by this technique on the enemy's waist and abdomen will change to old wounds that are more difficult to recover from
 9 Moves of\n9 Heavens
 Reduction of external recoil
-After this technique has been performed at 10% of its power, the user will receive 9 levels of this effect: if all the "Destruction" techniques performed by the user are not performed at 10% of their power, the user will receive significantly less external recoil, and at the end of the technique, the user will receive a portion of the stance consumed by performing the technique.
+After this technique has been performed at 10% of its power, the user will receive 9 levels of this effect: if all the "Break" techniques performed by the user are not performed at 10% of their power, the user will receive significantly less external recoil, and at the end of the technique, the user will receive a portion of the stance consumed by performing the technique.
 Jade Tripot Fist
 Upgrading toxin levels
 After this technique has been used for 10% of its power, the user gains 10 levels of this effect: the cold poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
@@ -929,7 +929,7 @@ When this technique is used at ten percent of its power, the enemy's attacked pa
 5 Mantra\n5 Phases
 When attacking an enemy with this technique, the more of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, the more the user's hits will increase; when this technique is at least 10% more powerful than the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, at least 3 of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, 2 "None" will be applied to the enemy.
 Pivot Move
-After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the "Destruction" technique performed by the user that has not been used for 10% of its power is greatly increased, and lasts until the "Destruction" technique with the increased power has been used for 10% of its power.
+After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the "Break" technique performed by the user that has not been used for 10% of its power is greatly increased, and lasts until the "Break" technique with the increased power has been used for 10% of its power.
 Clutch Finger
 Changing the Enemy's Royal Body
 When attacking the enemy with this technique: the enemy's imperial body is equal to 3 times the difference between the enemy's imperial body and the broken body
@@ -938,7 +938,7 @@ Steal Buff
 When this technique starts, the user is temporarily affected by all the enemy's gain status, which lasts until the end of this technique.
 Sky Earth Finger
 Remove E·Buff
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Returning to the Source", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Returning to the Source", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Swordsmanship\nof Round-Trip
 When this technique is at least 10% powerful, the user takes 1 "stab" from the enemy.
 Swordsmanship\nof Sanchin
@@ -965,7 +965,7 @@ Tripping Spell
 When this spell exerts ten percent of its power, the enemy's body and foot strength will be greatly depleted.
 Disable
 Blocking the destruction of the enemy
-When this spell is used at 10% of its power, one of the enemy's "Destruction" techniques that is not permanently blocked will be "blocked" for a long time; the power of the "blocked" technique will be greatly reduced and will last until the enemy finishes performing it; after this spell is cast, it will inevitably be temporarily "blocked".
+When this spell is used at 10% of its power, one of the enemy's "Break" techniques that is not permanently blocked will be "blocked" for a long time; the power of the "blocked" technique will be greatly reduced and will last until the enemy finishes performing it; after this spell is cast, it will inevitably be temporarily "blocked".
 Shocking Spell
 Force E·Escape
 If the enemy has no memory of this spell and the spell is at 10% of its power: If the enemy can escape, the lower the sum of the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, the higher the chance that the enemy will start escaping immediately; If the enemy cannot escape, the lower the sum of the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, the more "Nothing" will be added to the enemy.
@@ -991,7 +991,7 @@ When this incantation is at ten percent power, it will cause the enemy's 1 "odd 
 5 Animals Fist
 After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of injury of external injury suffered by the user is reduced by 1 level
 The Great Snow\nMountain Palm
-The more the current values of Brawn, Agility, Physique, Root and Bone, Perception and Stamina of the user are higher than those of the enemy, the more the power of the "Destruction" technique performed by the user will be increased.
+The more the current values of Brawn, Agility, Physique, Root and Bone, Perception and Stamina of the user are higher than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 Blood Palm
 When you start to perform this technique, the deeper the enemy is poisoned with red, the more the power of this technique will increase
 Osbeck Bone Melt
@@ -1051,7 +1051,7 @@ When you start to perform this technique: the closer the enemy is to the user, t
 Blood Narcissus
 After this technique has exerted at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the user inflicts on the enemy with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
 9 Idiotic Fragrant
-After this technique has reached 10% of its power, the user gains 9 levels of this effect: the damage dealt by the enemy's "Destruction" technique is greatly increased, but there is a high chance that it will be "interrupted" when it reaches 90% of its progress.
+After this technique has reached 10% of its power, the user gains 9 levels of this effect: the damage dealt by the enemy's "Break" technique is greatly increased, but there is a high chance that it will be "interrupted" when it reaches 90% of its progress.
 Black Water\nPoison
 Deal Extra Dmg
 When this technique is used at ten percent of its power, the more the enemy is marked with poison, the more external injury are added to random parts of the enemy
@@ -1130,7 +1130,7 @@ If the weapon used by the wielder is the "Shaking Mountain and River Staff", and
 Unblocked: This long weapon can "interrupt" enemy's healing, poison repelling, and escape when all "long weapon" techniques are at 10% power
 Staff of\nGhost Head
 Reduce the number of effect layers
-If the weapon used by the user is the "Green-Eyed Ghost Head Baton", this technique will randomly reduce the number of layers of the enemy's "Destruction" technique's ongoing effects by 1 when the technique is at 10% power, and the "Green-Eyed Ghost Head Baton" is unblocked, this long weapon will enable all "long weapon" techniques to When this weapon is unblocked, it can reduce the number of levels of the "Destroy" technique by 1 randomly until the other weapons are unblocked or the battle is over.
+If the weapon used by the user is the "Green-Eyed Ghost Head Baton", this technique will randomly reduce the number of layers of the enemy's "Break" technique's ongoing effects by 1 when the technique is at 10% power, and the "Green-Eyed Ghost Head Baton" is unblocked, this long weapon will enable all "long weapon" techniques to When this weapon is unblocked, it can reduce the number of levels of the "Destroy" technique by 1 randomly until the other weapons are unblocked or the battle is over.
 Unblocked: This long weapon can cause all "long weapon" techniques to randomly reduce the number of levels of the enemy's "destroy" technique's ongoing effect by 1 when the technique is used at 10% of its power.
 Staff of\nGold Eyes Tiger
 Eliminate helper commands
@@ -1179,7 +1179,7 @@ When you start to perform this technique, the toxin applied to the enemy by the 
 Azure Spider\nHand
 Binding Enemy's Kung Fu
 Exemption from exertion
-After this technique has been used for 10% of its power: randomly select one of the enemy's most powerful "Destruction" techniques; when the user starts to perform this technique, the power of this technique increases by the same amount as the power of the selected technique; whenever the enemy performs the selected technique, the user can also perform this technique from 50% of the performance progress without consumption
+After this technique has been used for 10% of its power: randomly select one of the enemy's most powerful "Break" techniques; when the user starts to perform this technique, the power of this technique increases by the same amount as the power of the selected technique; whenever the enemy performs the selected technique, the user can also perform this technique from 50% of the performance progress without consumption
 Poison Palm\nof Red Toad
 When this technique is used at ten percent of its power, the more red poison markings the enemy has, the more external injuries are added to random parts of the enemy
 4 Colors Palm
@@ -1220,7 +1220,7 @@ Swordsmanship\nof Ghost Old Lady
 When this technique is used at 10% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Stab" styles the user has.
 Holy Wood\nSwordsmanship
 Transferring the power of feats
-When the power of this technique is not at 10%, part of the power of the 2 random "Destruction" techniques of the user will be transferred to this technique, and it will last until the technique is at 10%, then the transferred power will be restored and multiplied when it is restored, and it will last until the end of the battle.
+When the power of this technique is not at 10%, part of the power of the 2 random "Break" techniques of the user will be transferred to this technique, and it will last until the technique is at 10%, then the transferred power will be restored and multiplied when it is restored, and it will last until the end of the battle.
 Soul Chasing\nSwordsmanship
 In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique will increase, and the user can gain 2 points of "Light Spirit" true qi for every 1 distance.
 Holy Ruler\nSwordsmanship
@@ -1228,7 +1228,7 @@ Sequestration of enemy feats
 When this technique is used at 10% of its power, the enemy's 3 "Returning Elements" techniques will be "blocked" for a long time.
 Swordsmanship\nof Azure Spider
 E·Atk power Dn
-When this technique is used at 10% of its power, it halves the power of the enemy's 3 "Destruction" techniques whose external power ratio is higher than the internal power ratio, and lasts until this technique is performed by the enemy.
+When this technique is used at 10% of its power, it halves the power of the enemy's 3 "Break" techniques whose external power ratio is higher than the internal power ratio, and lasts until this technique is performed by the enemy.
 Snaking Whip
 Lowering the enemy advance distance
 After this technique plays at least 10% of the power, the user gets 3 levels of this effect: when the enemy builds up strength to advance a long distance, the distance advanced is significantly reduced
@@ -1253,7 +1253,7 @@ Accumulation of injury layers
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user causes an enemy to receive at least 2 levels of direct external wounds by means other than this technique, 1 of these levels will be transferred to the level of this effect, up to a maximum of 9 levels; when this technique becomes 10% more powerful, the level of direct external wounds caused by the user to the enemy increases by a number of levels equal to the number of levels of this effect, after which the effect reverts to 0 layers
 Forged Bone\nFist
 Increase the power limit
-Based on the power of this technique, the power limit of all "Destruction" techniques of the user will be increased until the end of the battle.
+Based on the power of this technique, the power limit of all "Break" techniques of the user will be increased until the end of the battle.
 Drunk\n8 Immortals Fist
 After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the user attacks the enemy with a weapon, the enemy can only use the lowest one of unloading, dismantling, dodging, and guarding; if the user is drunk, when the user attacks the enemy with a weapon, the lowest one of the enemy will be reduced.
 Refining\nFire Palm
@@ -1265,11 +1265,11 @@ Great Colorful\nPalm
 When this technique starts, it transfers a portion of the power of the most powerful "Aegis" technique of the user and the enemy to this technique and lasts until the end of the battle.
 Divine Fist\nof Jade Yang
 Increase the number of effect layers
-If you consume 3 points of the user's "Destruction" true qi when this technique is used at 10% of its power, it will randomly change the number of levels of the duration effect of one of the user's "Destruction" techniques to the maximum.
+If you consume 3 points of the user's "Break" true qi when this technique is used at 10% of its power, it will randomly change the number of levels of the duration effect of one of the user's "Break" techniques to the maximum.
 Fire Palm of\n6 Yang
-When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Vajra", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the ongoing effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Vajra", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the ongoing effect of the enemy's 3 "Break" techniques to 0 levels.
 Great Jade Yang\nFist
-When you start to perform this technique, the more the number of levels of the duration effect of all the "Destruction" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
+When you start to perform this technique, the more the number of levels of the duration effect of all the "Break" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
 Dragon Palm
 Change skills
 When this kung fu technique reaches 10% of its power, the user gains 3 levels of this effect: all of the kung fu techniques performed by the user will be changed into this kung fu technique, and the power of the changed kung fu techniques will be greatly increased according to the power of this kung fu technique until the end of the battle; the effect of the changed kung fu techniques will be temporarily changed to: "When this kung fu technique reaches 10% of its power, the enemy's "Aegis" will be removed. kung fu and all body and foot power".
@@ -1279,7 +1279,7 @@ When this technique is used at 10% of its power, for every 2 "throws" the user h
 Thunder Fire
 After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "projectile" and "imperial" styles acquired by the user are changed to "throw" styles
 Dragon Spit\nDragon Ball
-When this technique is used at least 10% of its power, the user gains 2 points of "Destruction" true qi.
+When this technique is used at least 10% of its power, the user gains 2 points of "Break" true qi.
 Divine Power\nof Red Blue Fire
 When this technique is used at 10% of its power, it imparts a gain status to the user that significantly increases the body breakage and a decrease in the benefit status to the body.
 Blood Burning
@@ -1287,7 +1287,7 @@ When you start performing this technique, if the user has any new external injur
 9 Refining of\nThe Sun
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Destroy" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, after which this effect reverts to 0 levels.
 Blade of Fulong
-Increase the power of all the "Destruction" techniques of the user according to the power of the technique, and last until the end of the battle.
+Increase the power of all the "Break" techniques of the user according to the power of the technique, and last until the end of the battle.
 Drunk Blade
 When you start to perform this technique, you can eliminate up to 2 unusable forms of the user, and if the user is drunk, you can eliminate up to 3 unusable forms of the user, and the more you eliminate, the more the power of this technique will increase.
 4 Slashes of\nDragontooth
@@ -1371,7 +1371,7 @@ When this technique is at 10% of its power, it will absorb 2 points of true qi f
 Latency Yin\nFinger
 After this technique has been used for ten percent of its power, the user gains 6 levels of this effect: the enemy has a higher chance of the external injury being changed to an old injury that is more difficult to recover from.
 Thunderbolt\n7 Stars Finger
-When this technique is used at 10% of its power, the enemy will lose 6 points of "Destruction" true qi.
+When this technique is used at 10% of its power, the enemy will lose 6 points of "Break" true qi.
 Mysterious\nFinger
 Causes random internal injuries
 The more cold poison markers the enemy has, the more internal injury markers are added to random parts of the enemy when this technique is used at ten percent power
@@ -1475,7 +1475,7 @@ Scorpion's Soul\nHook Kick
 Move Spd Up
 If the user's movement speed is higher than the enemy's, the power of this technique will be increased; according to the power of this technique, the user will be given a gain status that increases movement speed.
 Walk And Kill
-The further the user advances, the more the power of this technique increases. For every distance the user advances, he/she gains 2 points of "Destruction" true qi.
+The further the user advances, the more the power of this technique increases. For every distance the user advances, he/she gains 2 points of "Break" true qi.
 Great Yin-Wind\nKick
 When this technique is used at ten percent of its power, the more poisonous marks the enemy has, the more internal injury marks are added to random parts of the enemy
 Yama Ghost Kick
@@ -1515,7 +1515,7 @@ When attacking an enemy with this technique, if the user's brawn is higher than 
 Increase your own broken body
 When you start performing this technique, the power of this technique increases if the user's body is higher than the user's broken body; when you attack the enemy with this technique, the user's broken body is added to the user's body.
 Vajra Prajna\nPalm
-When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Purple Haze", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Purple Haze", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Demonhunt\nLight Fist
 Change E·Standpt
 When you start to perform this technique, the greater the difference between the enemy's worldly stance and benevolence, the more the attack range and power of this technique will increase; when this technique is at ten percent of its power, if the user's heart is higher than the enemy's heart, the enemy's worldly stance will change to benevolence, and if the enemy's worldly stance thus changes from non-benevolence to benevolence, the enemy will start to run away as soon as he can.
@@ -1605,7 +1605,7 @@ Swordsmanship\nof Remnant Rainbow
 At the beginning of the battle, the user gains 0 layers of this effect: for each style the user gains, this effect increases by 1 layer, up to a maximum of 12 layers; the higher the number of layers of this effect, the more the power of this technique increases, until the technique exerts 10% of its power, then this effect will return to 0 layers
 Divine\nSwordsmanship of Pure Girl
 Quickly perform feats
-During the execution of this technique, the user can perform any "Destruction" technique with an external power ratio of at least 60% without preparation, and continue to perform this technique after the "Destruction" technique or other techniques triggered by this technique have been performed and are at least 10% more powerful.
+During the execution of this technique, the user can perform any "Break" technique with an external power ratio of at least 60% without preparation, and continue to perform this technique after the "Break" technique or other techniques triggered by this technique have been performed and are at least 10% more powerful.
 Stab of\n5 Elements
 Increase the power limit of all "Light Spirit" techniques based on the power of the technique, which lasts until the end of the battle.
 Stab of Lost Soul
@@ -1637,7 +1637,7 @@ For every 10% of the power of this technique, the user has a low chance of infli
 The Great\nFlower Finger of Mandala
 When you start to perform this technique, the deeper the enemy is poisoned by the illusion, the more the power of this technique will increase
 Flower Spirit\nMoon Finger
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Pure Yang", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Pure Yang", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all closed acupuncture points of the enemy
 8 Moves of\nBlood Red Flower
@@ -1677,7 +1677,7 @@ This technique removes one of the strongest impairment states of the user when i
 Burydeer Orchid
 When you start to perform this technique, the more "no" forms the user has, the more the power of this technique will increase; when this technique becomes 10% powerful, it will eliminate 2 "no" forms for the user.
 The World\nAmused
-When this technique exerts 10% of its power, it randomly and significantly increases the power of 1 "Destruction" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
+When this technique exerts 10% of its power, it randomly and significantly increases the power of 1 "Break" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
 Wudang\nLong Fist
 According to the power of this technique, it increases the power limit of all the "Nadis" techniques of the user, and lasts until the end of the battle.
 Wind Chasing\nPalm
@@ -1691,7 +1691,7 @@ In the process of performing this technique, the user can advance up to 6 distan
 Divine Fist
 When this technique is used at 10% of its power, the enemy's 3 "Vajra" techniques will be "blocked" for a long time.
 Wudang\nPure Yang Fist
-When an enemy performs a "Destruction" technique with a higher percentage of internal energy, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Destruction" technique with a higher percentage of internal energy when this technique is at 10% of its power.
+When an enemy performs a "Break" technique with a higher percentage of internal energy, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of internal energy when this technique is at 10% of its power.
 Purple Yang\nUpright Fist
 This technique cannot be recoiled; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and when this technique exerts ten percent of its power, the internal breath disorder of the user will be greatly reduced.
 Taichi Fist
@@ -1711,7 +1711,7 @@ Pure Yang\nSword-Conception
 When you start to perform this technique, if the user is a child or a girl, the power of this technique will be increased according to the internal power of the user.
 Swordsmanship\nof Roving Dragon
 Backing up while operating
-At the beginning of the battle, the user gains 0 levels of this effect: every time the user advances 2 distances, this effect increases by 1 level, up to a maximum of 4 levels; the user can retreat a distance equal to the number of levels of this effect during the performance of any "Destruction" technique, and for every distance the user retreats, this effect decreases by 1 level.
+At the beginning of the battle, the user gains 0 levels of this effect: every time the user advances 2 distances, this effect increases by 1 level, up to a maximum of 4 levels; the user can retreat a distance equal to the number of levels of this effect during the performance of any "Break" technique, and for every distance the user retreats, this effect decreases by 1 level.
 Swordsmanship\nof Taichi
 Reduce enemy attack
 After this technique has reached 10% of its power, the user gains 5 levels of this effect: When an enemy attacks the user with a weapon, the chance of all the enemy's non-moving hits hitting the user is greatly reduced, and whenever the user resolves an enemy's non-chasing, non-moving attack, he applies a reduced benefit status to the enemy that reduces body and energy breakage
@@ -1790,7 +1790,7 @@ When you start to perform this technique, the more weapons the user has that are
 Blade of Endless
 If the enemy is still within the range of the attack, the user will immediately perform another "Sword Technique" of a rank not exceeding this technique without consumption from 50% of the execution progress to attack the enemy.
 Heavenly Spirit\nBlade
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Xuan Yin", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Destruction" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Xuan Yin", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Divine Blade\nof Mysterious
 Depending on the power of this technique and the amount of energy consumed by the user, the user can obtain up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be consumed instead of the stance, and the more it is consumed, the more the user's body and energy will be increased.
 Inverse-Quiet Meditation Kung Fu
@@ -2058,7 +2058,7 @@ Increasing anti-shock damage
 When defending with this technique, the more storages available to the user, the higher the recoil damage the user can inflict on the enemy.
 HU·Seven-Star Cross Chain
 No lifting consumption
-When the user has 7 or more available stances, all "Destruction" type techniques performed by the user do not need to consume Qi, and the more Qi that is exempted from consumption, the more the power of the technique increases.
+When the user has 7 or more available stances, all "Break" type techniques performed by the user do not need to consume Qi, and the more Qi that is exempted from consumption, the more the power of the technique increases.
 HU·Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 non-injury markers
 HU·36 Moves of Needle Change
@@ -2093,7 +2093,7 @@ Raising the Qi draw-off
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a gain status is applied to the user to increase the Qi draw to the pass
 HU·Yinyang Recycle
 Causes internal disorders
-Whenever the wielder performs the "Destruction" technique, the power of the wielder's technique will be 10% more powerful and the enemy's internal breath will be more disturbed.
+Whenever the wielder performs the "Break" technique, the power of the wielder's technique will be 10% more powerful and the enemy's internal breath will be more disturbed.
 HU·5 Qi In One
 When defending with this technique, the true qi gained by the enemy in battle will rapidly decrease over time and recover to the initial limit
 HU·True Art Demon Slaying
@@ -2214,13 +2214,13 @@ HU·7 Wheel Induction
 Weakening of your own reduction
 The initial strength of all the mitigating states to which the user is subjected is reduced, and the strength of the user's mitigating states is reduced when they are enhanced.
 HU·Mandala Mantra
-When defending with this technique: all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, the user gains 2 points of "Destruction" true qi for every wound mark the enemy inflicts on the user
+When defending with this technique: all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, the user gains 2 points of "Break" true qi for every wound mark the enemy inflicts on the user
 HU·Vidya-Raja Fire
 When defending with this technique, whenever the user unloads an enemy's attack, the user applies a large amount of depressive "poison" to the enemy.
 HU·The Great Handprint
 As long as the sum of all types of true qi of the enemy is higher than the sum of all types of true qi of the user, the number of styles possessed by the enemy cannot exceed the number of styles possessed by the user
 HU·Buddha Body
-When defending with this technique, every 3 points of the user's "Destruction" true qi can remove 1 non-injury marker caused by the enemy to the user
+When defending with this technique, every 3 points of the user's "Break" true qi can remove 1 non-injury marker caused by the enemy to the user
 HU·Lost Worm Incense
 Whenever toxicity strikes the user, the user receives a number of compulsions equal to the marker of the onset of toxin
 HU·Disgusting Miasma
@@ -2247,7 +2247,7 @@ HU·River Immortals Wedding
 Handover Styles
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, one of the user's unavailable stances will be transferred to the enemy.
 HU·6 Turn of Royal
-When defending with this technique, whenever the user dodges an enemy's attack, the user draws 1 point of "Destruction" True Qi from the enemy's body.
+When defending with this technique, whenever the user dodges an enemy's attack, the user draws 1 point of "Break" True Qi from the enemy's body.
 HU·8 Threads of Frozen
 Increasing anti-shock damage
 When defending with this technique, the degree of injury caused to the enemy by the user's recoil internal injury is increased by 1 level
@@ -2258,9 +2258,9 @@ The more "throwing" styles the user has, the more the user's unloading power inc
 Inverse - Seven Elements of the Greatest Relief Technique
 When defending with this technique: the more body parts the user has destroyed, the higher the recoil damage the user inflicts on the enemy; at the end of defending with this technique, 3 injury marks on the user's destroyed body parts are randomly changed to old injuries that are more difficult to recover from
 HU·Anger Face
-When the wielder's "Destruction" True Qi is twice as high as the enemy's "Destruction" True Qi, the wielder increases the wound level of all direct damage dealt to the enemy by 1 level
+When the wielder's "Break" True Qi is twice as high as the enemy's "Break" True Qi, the wielder increases the wound level of all direct damage dealt to the enemy by 1 level
 HU·Dragon Looks Back
-When defending with this technique: all direct external injuries to the user are reduced by 2 levels; whenever the user shocks the enemy's attack, the enemy loses 1 point of "Destruction" true qi
+When defending with this technique: all direct external injuries to the user are reduced by 2 levels; whenever the user shocks the enemy's attack, the enemy loses 1 point of "Break" true qi
 HU·Divine Fire Cover
 When defending with this technique: all direct internal injuries suffered by the user are reduced by 2 levels; whenever the user reacts to an enemy's attack, the enemy loses 1 point of "Aegis" true qi
 HU·Dragon Breakthrough
@@ -2353,9 +2353,9 @@ HU·Big Dipper Step of Heavenly Spirit
 Every time you move 1 distance with this stance, depending on the amount of "Aegis" True Qi the user has, the user gains "Light Spirit" True Qi, and when the effect of this stance ends or expires, the user loses all the "Light Spirit" True Qi gained in the process.
 HU·The One Step
 Lowering the enemy's internal power play
-During the duration of this technique: the enemy's internal power is significantly reduced; the more uneven the ratio of internal to external wounds of the enemy's "Destruction" technique, the more the power of this technique is reduced.
+During the duration of this technique: the enemy's internal power is significantly reduced; the more uneven the ratio of internal to external wounds of the enemy's "Break" technique, the more the power of this technique is reduced.
 HU·Ladder Climbing
-During the duration of this technique, each time the user retreats 0.5 distance, the power of all the "Destruction" techniques of the user will be increased, up to a maximum of 6 times, but if the user advances, all the accumulated power will be lost.
+During the duration of this technique, each time the user retreats 0.5 distance, the power of all the "Break" techniques of the user will be increased, up to a maximum of 6 times, but if the user advances, all the accumulated power will be lost.
 HU·Cloud Gliding
 When retreating with this stance, the user needs to accumulate power to move 3 distances at once, and then the user gains 3 points of random type of true qi
 HU·Stone Poling
@@ -2597,7 +2597,7 @@ HU·Cold Yin Palm
 This feat increases the direct damage to the enemy's waist and abdomen by 2 levels, but has a higher chance of attacking other parts of the enemy
 HU·9 Moves of\n9 Heavens
 Reduces internal recoil
-After this technique has been performed at 10% of its power, the user will receive 9 levels of this effect: if all the "Destruction" techniques performed by the user are not performed at 10% of their power, the user will receive significantly less internal shock, and at the end of the technique, the user will receive a portion of the qi consumed to perform the technique.
+After this technique has been performed at 10% of its power, the user will receive 9 levels of this effect: if all the "Break" techniques performed by the user are not performed at 10% of their power, the user will receive significantly less internal shock, and at the end of the technique, the user will receive a portion of the qi consumed to perform the technique.
 HU·Jade Tripot Fist
 Toxin level reduction
 After this technique has been used for 10% of its power, the user gains 10 levels of this effect: the cold poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
@@ -2630,7 +2630,7 @@ When this technique is used at ten percent of its power, the enemy's attacked pa
 HU·5 Mantra\n5 Phases
 When attacking the enemy with this technique, the more the calmness, intelligence, enthusiasm, bravery and perseverance of the user is higher than that of the enemy, the more the enemy's resolution will be reduced; when this technique exerts ten percent of its power, if at least three of the calmness, intelligence, enthusiasm, bravery and perseverance of the user are higher than that of the enemy, 2 marks of disorientation will be applied to the enemy.
 HU·Pivot Move
-After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Destruction" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Destruction" technique whose power has been reduced fails to be used for 10% of its power.
+After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Break" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Break" technique whose power has been reduced fails to be used for 10% of its power.
 HU·Clutch Finger
 Changing the Enemy's Imperial Qi
 When attacking the enemy with this technique: the enemy's imperial qi is equal to 3 times the difference between the enemy's imperial qi and our broken qi
@@ -2678,7 +2678,7 @@ When this incantation is at 10% of its power, it will cause the enemy's 2 "odd t
 HU·5 Animals Fist
 After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of direct internal injuries suffered by the user is reduced by 1 level
 HU·The Great Snow\nMountain Palm
-The more the current values of Brawn, Agility, Physique, Root and Bone, Enlightenment, and Stamina of the user are lower than those of the enemy, the more the power of the "Destruction" technique performed by the user will be increased.
+The more the current values of Brawn, Agility, Physique, Root and Bone, Enlightenment, and Stamina of the user are lower than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 HU·Blood Palm
 When you start to perform this technique, the deeper the red poison the user has, the more the power of this technique will increase
 HU·Osbeck\nBone Melt Palm
@@ -2727,7 +2727,7 @@ When you start to perform this technique: the farther the enemy is from the user
 HU·Blood Narcissus
 After this technique has exerted at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the enemy inflicts on the user with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
 HU·9 Idiotic\nFragrant
-After this technique has reached 10% of its power, the user gains 9 levels of this effect: the damage dealt by the user's "Destruction" technique is greatly increased, but there is a high chance that the technique will be "interrupted" when it reaches 90% of its progress.
+After this technique has reached 10% of its power, the user gains 9 levels of this effect: the damage dealt by the user's "Break" technique is greatly increased, but there is a high chance that the technique will be "interrupted" when it reaches 90% of its progress.
 HU·Black Water\nPoison
 When this technique is 10% powerful, the more poisonous markers the user has, the more random external injury will be added to the enemy.
 HU·Nippy Fragrant\nof Hundreds Evil
@@ -2848,13 +2848,13 @@ Apply a reduced movement speed to the enemy based on the power of this technique
 HU·Swordsmanship\nof Ghost Old Lady
 When this technique is used at 10% of its power, for every 3 "Stab" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 HU·Holy Wood\nSwordsmanship
-When the power of this technique is at 10%, part of the power of this technique will be transferred to 2 random "Destruction" techniques of the user, which will last until the power of this technique is not at 10%, then the transferred power will be restored and multiplied when it is restored, which will last until the end of the battle.
+When the power of this technique is at 10%, part of the power of this technique will be transferred to 2 random "Break" techniques of the user, which will last until the power of this technique is not at 10%, then the transferred power will be restored and multiplied when it is restored, which will last until the end of the battle.
 HU·Soul Chasing\nSwordsmanship
 The farther the user retreats, the more the power of this technique increases. For every distance the user retreats, the user can gain 2 points of "Light Spirit" true qi.
 HU·Holy Ruler\nSwordsmanship
 When this technique is used at 10% of its power, the power of the enemy's 3 "Return to the Source" techniques is reduced and lasts until the end of the battle.
 HU·Swordsmanship\nof Azure Spider
-When this technique is used at 10% of its power, it halves the power of the enemy's 3 "Destruction" techniques whose internal power ratio is higher than the external power ratio, and lasts until this technique is performed by the enemy.
+When this technique is used at 10% of its power, it halves the power of the enemy's 3 "Break" techniques whose internal power ratio is higher than the external power ratio, and lasts until this technique is performed by the enemy.
 HU·Snaking Whip
 Descending enemy retreat distance
 After this technique plays at least 10% of the power, the user obtains 3 levels of this effect: when the enemy builds up strength to retreat a long distance, the retreat distance is significantly reduced
@@ -2877,7 +2877,7 @@ HU·Sky Snake Whip
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user causes the enemy to suffer at least 2 levels of direct internal injuries by means other than this technique, 1 level of this effect is transferred, up to a maximum of 9 levels; when this technique becomes 10% more powerful, the level of direct internal injuries caused by the user to the enemy increases by a number of levels equal to the number of levels of this effect, after which the effect reverts to 0 layers
 HU·Forged Bone\nFist
 Reduced usage requirements
-Based on the power of this technique, it reduces the user's need to use all "Destruction" techniques until the end of the battle.
+Based on the power of this technique, it reduces the user's need to use all "Break" techniques until the end of the battle.
 HU·Drunk\n8 Immortals Fist
 After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the enemy attacks the user with a weapon, the enemy can only hit with the lowest of force, subtlety, swiftness and motivation; if the user is drunk, when the enemy attacks the user with a weapon, the lowest of the enemy's hits will be reduced.
 HU·Refining\nFire Palm
@@ -2889,11 +2889,11 @@ When this technique is at 10% of its power, the user has a low chance of perform
 HU·Great Colorful\nPalm
 When you start performing this technique, a portion of the power of the most powerful "Quick" technique of the user and the enemy is transferred to this technique, and it lasts until the end of the battle.
 HU·Divine Fist\nof Jade Yang
-When this technique is used at 10% of its power, if 3 points of the user's "Destruction" true qi are consumed, it randomly changes the number of layers of the enemy's "Destruction" technique's lasting effect to the lower limit.
+When this technique is used at 10% of its power, if 3 points of the user's "Break" true qi are consumed, it randomly changes the number of layers of the enemy's "Break" technique's lasting effect to the lower limit.
 HU·Fire Palm of\n6 Yang
 If the enemy's internal power attribute is "Vajra" when this technique is used at 10% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
 HU·Great Jade Yang\nFist
-When you start to perform this technique, the more the number of levels of the enemy's "Destruction" technique's lasting effect is close to its lower limit, the more the power of this technique increases.
+When you start to perform this technique, the more the number of levels of the enemy's "Break" technique's lasting effect is close to its lower limit, the more the power of this technique increases.
 HU·Dragon Palm
 After this kung fu technique has reached 10% of its power, the user gains 3 levels of this effect: all counter training "fist and palm" kung fu techniques performed by the user are changed into this kung fu technique, and the power of the changed kung fu techniques is greatly increased according to the power of this kung fu technique, which lasts until the end of the battle; the counter training effect of the changed kung fu technique temporarily changes to: "When this kung fu technique reaches 10% of its power, the enemy's "Aegis" is removed. kung fu and all body and foot strength"
 HU·Flying Sand
@@ -2909,13 +2909,13 @@ When you start performing this technique, if the user has any new internal injur
 HU·9 Refining of\nThe Sun
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Destroy" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 HU·Blade of Fulong
-Reduces the power of all the enemy's "Destruction" techniques by the amount of power the technique exerts, and lasts until the end of the battle.
+Reduces the power of all the enemy's "Break" techniques by the amount of power the technique exerts, and lasts until the end of the battle.
 HU·Drunk Blade
 When you start to perform this technique, you can eliminate up to 2 usable forms of the enemy, and if the user is drunk, you can eliminate up to 3 usable forms of the enemy, and the more you eliminate, the more the power of this technique will increase.
 HU·4 Slashes of\nDragontooth
 When you start to perform this technique, if the enemy has any "Aegis" technique to perform, the enemy will start to perform it immediately, and the higher the rank of the "Aegis" technique performed by the enemy, the more the direct internal injuries caused by this technique will be increased.
 HU·Blade of\nMindsets And Thoughts
-After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: all "Destruction" techniques performed by the enemy will be affected by the continuous power reduction effect of another "Destruction" technique of the enemy with the most continuous power reduction, and if the user is drunk, the effect will be significantly increased.
+After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: all "Break" techniques performed by the enemy will be affected by the continuous power reduction effect of another "Break" technique of the enemy with the most continuous power reduction, and if the user is drunk, the effect will be significantly increased.
 HU·81 Slashes of\nMadness Dragon
 After this technique has exerted ten percent of its power, the user gains nine layers of this effect: the fewer layers of this effect remain, the more direct internal injuries the enemy receives from the parts hit by this technique
 HU·The Great\nDrunk Blade of Yinyang
@@ -2990,7 +2990,7 @@ If the enemy's true qi is still higher than its initial value after the user has
 HU·Latency Yin\nFinger
 After this technique has been used for ten percent of its power, the user gains 6 levels of this effect: the enemy has a higher chance of internal injuries changing to old injuries that are more difficult to recover from.
 HU·Thunderbolt\n7 Stars Finger
-When this technique is used at 10% of its power, the user draws 3 points of "Destruction" Qi from the enemy's body.
+When this technique is used at 10% of its power, the user draws 3 points of "Break" Qi from the enemy's body.
 HU·Mysterious\nFinger
 The more cold poison markers the user has, the more internal injury markers will be added to random parts of the enemy when this technique is at its tenth power.
 HU·Source Extinct\nHands
@@ -3079,7 +3079,7 @@ HU·Scorpion's Soul\nHook Kick
 Increase attack speed
 If the attack speed of the user is higher than the enemy's, the power of this technique will be increased; according to the power of this technique, the user will be given a gain status that increases the attack speed.
 HU·Walk And Kill
-The farther the user retreats, the more the power of this technique will increase. For every 1 distance the user retreats, he/she will be able to gain 2 points of "Destruction" true qi.
+The farther the user retreats, the more the power of this technique will increase. For every 1 distance the user retreats, he/she will be able to gain 2 points of "Break" true qi.
 HU·Great Yin-Wind\nKick
 When this technique is 10% powerful, the more poisonous markers the user has, the more internal injury markers will be added to the enemy in random areas.
 HU·Yama Ghost Kick
@@ -3199,7 +3199,7 @@ After this technique has been used for ten percent of its power, the user gains 
 HU·Swordsmanship\nof Remnant Rainbow
 At the beginning of the battle, the user gains 0 layers of this effect: for every loss of the user, this effect increases by 1 layer, up to 12 layers; the higher the number of layers of this effect, the more the power of this technique increases, until this technique plays 10% of its power, then this effect will return to 0 layers
 HU·Divine\nSwordsmanship of Pure Girl
-During the execution of this technique, the user can perform any "Destruction" technique with at least 60% internal power without preparation, and continue to perform this technique after the "Destruction" technique or other techniques triggered by this technique have been performed and are at least 10% powerful.
+During the execution of this technique, the user can perform any "Break" technique with at least 60% internal power without preparation, and continue to perform this technique after the "Break" technique or other techniques triggered by this technique have been performed and are at least 10% powerful.
 HU·Stab of\n5 Elements
 Based on the power of this technique, it will reduce the use requirement of all "Quick" techniques of the user until the end of the battle.
 HU·Stab of Lost Soul
@@ -3259,7 +3259,7 @@ Increases qi consumption
 After this technique plays at least 10% of its power, the user gains 2 levels of this effect: the enemy needs to perform the technique's qi and stance are greatly increased
 HU·Home Forgetting
 Reduced enemy attack range
-When this technique is performed, the happier the enemy is, the more the power of this technique increases; when this technique is performed at 10% of its power, the range of the enemy's next "Destruction" technique is reduced according to how happy the enemy is; when this technique is finished, a special status that increases the enemy's mood is applied according to how much power this technique has performed
+When this technique is performed, the happier the enemy is, the more the power of this technique increases; when this technique is performed at 10% of its power, the range of the enemy's next "Break" technique is reduced according to how happy the enemy is; when this technique is finished, a special status that increases the enemy's mood is applied according to how much power this technique has performed
 HU·Phoenix Arrival
 Reduce the heart to keep the heart
 When you start to perform this technique, if the user's Fortunate Fate is higher than the enemy's Fortunate Fate, the power of this technique will be added to the user's Fortunate Fate, and if the user's Aptitude Fate is also higher than the enemy's Aptitude Fate, it will apply a reduced benefit status to the enemy that lowers the heartbeat and heart guard.
@@ -3271,7 +3271,7 @@ HU·Burydeer Orchid
 Elimination of dyscalculia markers
 When you start to perform this technique, the more markers of disorientation the user receives, the more the power of this technique will increase; when this technique reaches 10% of its power, 2 markers of disorientation will be removed for the user
 HU·The World\nAmused
-When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Destruction" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
+When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Break" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
 HU·Wudang\nLong Fist
 Based on the power of this technique, the user's requirement for the use of all "Nadis" techniques will be reduced until the end of the battle.
 HU·Wind Chasing\nPalm
@@ -3285,7 +3285,7 @@ The farther the user retreats, the more the power of this technique will increas
 HU·Divine Fist
 When this technique is used at 10% of its power, the power of the enemy's 3 "Vajra" techniques is reduced and lasts until the end of the battle.
 HU·Wudang\nPure Yang Fist
-When an enemy performs a "Destruction" technique with a higher percentage of external power, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Destruction" technique with a higher percentage of external power when this technique is at 10% of its power.
+When an enemy performs a "Break" technique with a higher percentage of external power, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of external power when this technique is at 10% of its power.
 HU·Purple Yang\nUpright Fist
 This technique can't be recoiled; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and when this technique exerts ten percent of its power, it will greatly increase the enemy's internal breath disorder
 HU·Taichi Fist
@@ -3801,7 +3801,7 @@ enter a delusional name
 Sustained phase pivot into magic
 If the enemy is within the range of the Aiohata's attack during the application of this divine power: the Aiohata continuously increases the enemy's level of enchantment according to the enemy's level of enchantment at the beginning of the battle
 The heart is lost without awareness
-When you begin to use this power, the pivot gains 3 levels of this effect: Whenever an enemy uses a "Destruction" technique, the enemy immediately suffers massive backlash damage from that "Destruction" technique, and if the enemy fails to use the "Destruction" technique to its fullest potential, the "Destruction" technique will inevitably be permanently "blocked".
+When you begin to use this power, the pivot gains 3 levels of this effect: Whenever an enemy uses a "Break" technique, the enemy immediately suffers massive backlash damage from that "Break" technique, and if the enemy fails to use the "Break" technique to its fullest potential, the "Break" technique will inevitably be permanently "blocked".
 No righteousness in evil and delusion
 No purity through contamination
 Defeating the Fallen One
@@ -3815,7 +3815,7 @@ Sword Trial
 When you start to perform this divine power, apply a gain status to Huanxin that improves body and breath breaking
 Dismantle The Blade
 Change of enemy status
-When you start to use this power: apply a gain status to Huanxin that increases random secondary attributes; apply a minus status to the enemy that decreases random secondary attributes; when this power reaches 10% of its power, it will "block" for a short time all the enemy's "Destruction" techniques that are not permanently blocked.
+When you start to use this power: apply a gain status to Huanxin that increases random secondary attributes; apply a minus status to the enemy that decreases random secondary attributes; when this power reaches 10% of its power, it will "block" for a short time all the enemy's "Break" techniques that are not permanently blocked.
 Sheltered light
 When this divine power starts to be exerted: the 2 minus states on Huanxin will change to gain states; the 2 plus states on the enemy will change to minus states; when this divine power is at 10% power, it will "block" all the enemy's "Aegis" techniques that are not permanently blocked for a short time
 Lost
