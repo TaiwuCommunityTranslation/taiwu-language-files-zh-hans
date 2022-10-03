@@ -1470,7 +1470,7 @@ After this technique has exerted at least 10% of its power, the user retreats 2 
 Unpredictable\nKick
 Power varies randomly
 Ortho to Hetero
-Whenever the user accumulates 1 distance, the power of this technique may increase or decrease, and will continue until the user accumulates 1 distance next time; after the performance of this technique, it will change from Orthodox to negative practice
+Whenever the user accumulates 1 distance, the power of this technique may increase or decrease, and will continue until the user accumulates 1 distance next time; after the performance of this technique, it will change from Orthodox to Heterodox practice
 Scorpion's Soul\nHook Kick
 Move Spd Up
 If the user's movement speed is higher than the enemy's, the power of this technique will be increased; according to the power of this technique, the user will be given a gain status that increases movement speed.
@@ -1696,7 +1696,7 @@ Purple Yang\nUpright Fist
 This technique cannot be recoiled; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and when this technique exerts ten percent of its power, the internal breath disorder of the user will be greatly reduced.
 Taichi Fist
 Suppressing enemy attacks
-After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: when the user is attacked by an enemy's technique, if the enemy's broken qi is lower than the user's imperial body, the user's imperial body will additionally add the enemy's broken body; if the enemy's broken body is lower than the user's imperial qi, the user's imperial qi will additionally add the enemy's broken qi; after this technique is performed, it will change from Orthodox practice to negative practice, and the power of this technique will accumulate increases until the end of the battle.
+After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: when the user is attacked by an enemy's technique, if the enemy's broken qi is lower than the user's imperial body, the user's imperial body will additionally add the enemy's broken body; if the enemy's broken body is lower than the user's imperial qi, the user's imperial qi will additionally add the enemy's broken qi; after this technique is performed, it will change from Orthodox practice to Heterodox practice, and the power of this technique will accumulate increases until the end of the battle.
 Wudang\nSwordsmanship
 Increase the power of all of the "Nadis" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle.
 Wudang\nSwordsmanship of Unfettered
@@ -1738,7 +1738,7 @@ When you start to perform this technique, the lower the disorder of the internal
 Formless Swipe
 When this technique exerts ten percent of its power, it completely eliminates the effect of the continuous reduction of the power of the technique that the user receives during the battle by three, and increases the power of this technique according to the sum of the power reduction eliminated, which lasts until the end of the battle.
 Yuanshan\nJump Kick
-Whenever the user chases an enemy at least 2 times with "Knife", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to negative practice
+Whenever the user chases an enemy at least 2 times with "Knife", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to Heterodox practice
 Mandarin Duck\nCombo Kick
 Stance Cost Dn
 After this technique exerts at least 10% of its power, the stance required to perform this technique is reduced by up to 90%, lasting until the end of the battle
@@ -1804,7 +1804,7 @@ Significantly reduce the consumption of "Willpower" by the user
 Reverse-Bodhicitta Practice
 Convert the user's "Wood" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
 Reverse - Miscellaneous Aramaic Sutras
-Changing the "Orthodox" effect of the user's "Metal" type techniques other than "internal" to "negative" effect
+Changing the "Orthodox" effect of the user's "Metal" type techniques other than "internal" to "Heterodox" effect
 Inverse - Aloha Divine Kung Fu
 The higher the user's "Buddhism" attainment, the more toxins the user can dispel when performing "exorcism" in battle.
 Reverse-Ease of the Tendon
@@ -1867,7 +1867,7 @@ The user's "Earth" type of technique will cause more direct damage and repercuss
 Inverse-No Mind Tricks
 Converts the user's "Wood" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the user's "Earth" type power will increase.
 Inverse-Hunyuan WuXiangGong
-Changing the "Orthodox" effect of the user's "rejuvenation" techniques other than "internal energy" into a "negative" effect
+Changing the "Orthodox" effect of the user's "rejuvenation" techniques other than "internal energy" into a "Heterodox" effect
 Inverse-seal gas fixation method
 Reduces the need to use the "Lion's Gate" technique of the user
 Inverse-Thirteen Tai Bao cross practice
@@ -1887,7 +1887,7 @@ Significantly reduce the "enlightenment" consumption of the user
 Inverse-Sheng Shen Fa
 After each battle, the power of all feats of the user will be increased and accumulated up to 5 times, and the power of these increases will be reduced every month.
 Inverse-Subway Method
-Change the "Orthodox" effect of the user's "Zixia" type of kung fu other than "internal" into a "negative" effect.
+Change the "Orthodox" effect of the user's "Zixia" type of kung fu other than "internal" into a "Heterodox" effect.
 Inverse-Dispersion Method
 When the internal power attribute of the user is "Wood", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Inverse-Xuanwei True Art
@@ -1977,7 +1977,7 @@ Significantly reduce the "sensitive" consumption of users
 Reverse - Xuan Hei Zhen Jing
 Convert the user's "Earth" internal energy into "Water" internal energy, the more the percentage of conversion, the more the user's "Water" type power will be increased.
 Reverse-Esi Legacy
-Changing the "Orthodox" effect of the user's "Water" type of kung fu other than "internal kung fu" to "negative" effect
+Changing the "Orthodox" effect of the user's "Water" type of kung fu other than "internal kung fu" to "Heterodox" effect
 Inverse - Armillary Chart
 If the internal energy of the user is "Water", even if the body part required to perform the technique is destroyed, the technique can still be performed, but the power of the technique is reduced.
 Inverse - All-over fire painting method
@@ -1991,7 +1991,7 @@ Significantly reduce the amount of qi lost by the user in battle
 Reverse - Wild Dragon Swallowing Elephant Kung Fu
 Convert the user's "Metal" internal energy into "Fire" internal energy, the more the conversion ratio, the more the user's "Fire" type power will increase.
 Inverse - Nine Dragons to One Kung Fu
-Change the "Orthodox" effect of the "Fire" type of kung fu of the user other than "internal kung fu" to "negative" effect
+Change the "Orthodox" effect of the "Fire" type of kung fu of the user other than "internal kung fu" to "Heterodox" effect
 Inverse - Into the Magic Kung Fu
 The more mutilated body parts the user has, the higher the direct damage the user can inflict on the enemy.
 Inverse - Great Yu Yang Shen Gong
@@ -2546,7 +2546,7 @@ HU·Overlord Blade
 After this technique has been used for ten percent of its power, the user gains 4 layers of this effect: every time one of the enemy and I receive a wound mark, this effect is reduced by 1 layer, and before this effect disappears, the enemy cannot advance as long as the user is within the enemy's attack range
 HU·Gold Lion Blade
 Ban Ortho
-When you start to perform this technique, "interrupt" all Orthodox training techniques being performed by the enemy, and eliminate all Orthodox training techniques being performed by the enemy; during the performance of this technique, the enemy cannot perform any Orthodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Orthodox training techniques, and every time the user performs any negative training techniques, this effect is reduced by 1 level.
+When you start to perform this technique, "interrupt" all Orthodox training techniques being performed by the enemy, and eliminate all Orthodox training techniques being performed by the enemy; during the performance of this technique, the enemy cannot perform any Orthodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Orthodox training techniques, and every time the user performs any Heterodox training techniques, this effect is reduced by 1 level.
 HU·Coiled Dragon\nGhost Blade
 When you start to perform this technique, you will consume all of the user's "Cleave", and the more "Cleave" you consume, the more the power of this technique will increase.
 HU·Wild Blade
@@ -2666,7 +2666,7 @@ If the enemy can escape, the higher the sum of calmness, intelligence, enthusias
 HU·Summoning\nThunder
 If the user has a weapon, protective gear or treasure made of gold or iron, the enemy will suffer additional non-direct internal injuries to random body parts when this spell is at 10% power.
 HU·Hexa-Jia Arcane\nBenediction
-After this spell has become 10% powerful, the user gains 2 levels of this effect: the "spell" technique performed by the user changes from Orthodox to negative practice, and the power of the Orthodox practice "spell" technique that has been changed is greatly increased.
+After this spell has become 10% powerful, the user gains 2 levels of this effect: the "spell" technique performed by the user changes from Orthodox to Heterodox practice, and the power of the Orthodox practice "spell" technique that has been changed is greatly increased.
 HU·The Puppet's\nSealing Spell
 When this spell is used at 10% of its power, the enemy's 2 "Quick" techniques that are not permanently blocked will be "blocked" for a short period of time; all "Quick" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
 HU·The 7 Whites'\nExorcism
@@ -2862,7 +2862,7 @@ HU·Centipede-Like\nWhip
 Extra hit
 When you hit an enemy with this technique, this technique will additionally hit another part of the enemy that has the most breakage and the highest level of breakage
 HU·5 Divine Whip
-After this technique has been used for 10% of its power, the user gains 2 levels of this effect: the "Long Whip" technique performed by the user is transformed from Orthodox to negative practice, and the power of the transformed Orthodox "Long Whip" technique is greatly increased.
+After this technique has been used for 10% of its power, the user gains 2 levels of this effect: the "Long Whip" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Long Whip" technique is greatly increased.
 HU·Bone-Breaking\nWhip
 HU·Dreadlord's\nMetallic Whip
 When attacking the enemy with this technique: the armor breaking of the user is greatly increased; when this technique exerts ten percent of its power, it eliminates all the enemy's body and foot strength and brings the enemy closer by 6 distance
@@ -2972,7 +2972,7 @@ HU·Vajra's Anger
 When this technique is used at least 10% of its power, the mortar and pestle used by the user is enchanted by "Angry Eye Vajra": as long as the user is holding this mortar and pestle, the level of direct internal injuries inflicted by the user on the enemy is increased by 1 level.
 Raging Vajra: As long as the user is holding this Mortar and Pestle, the level of direct internal injuries inflicted by the user on the enemy is increased by 1 level.
 HU·Chakravarti\nPoke
-After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: the "Short Pestle" technique performed by the user is transformed from Orthodox to negative practice, and the power of the transformed Orthodox "Short Pestle" technique is greatly increased.
+After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: the "Short Pestle" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Short Pestle" technique is greatly increased.
 HU·Yamantaka\nPoke
 When this technique is at least 10% of the power, the pestle used by the user will be augmented by "Vajra of Virtue": as long as the user is holding this pestle, the more true qi the user has over the enemy, the more the power of all the user's techniques will increase.
 Vajra of Virtue: As long as the user holds this "short mortar", the more true qi the user has below the enemy, the more the power of all the user's techniques will be increased.
@@ -3315,7 +3315,7 @@ Increase the enemy's internal breath disorder according to the percentage of pow
 HU·Wudang\nMetallic Swipe
 When you hit an enemy with this technique, this technique will additionally hit another part of the enemy with the most sealed points and the highest level of sealed points
 HU·Taichi Swipe
-After this technique has been used for 10% of its power, the user gains 2 levels of this effect: the "Whisk" technique performed by the user is transformed from Orthodox to negative practice, and the power of the transformed Orthodox "Whisk" technique is greatly increased.
+After this technique has been used for 10% of its power, the user gains 2 levels of this effect: the "Whisk" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Whisk" technique is greatly increased.
 HU·Laojun Swipe
 At the beginning of the battle, the user gains 6 levels of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, this effect is consumed to remove the user's non-injury markers. 1 level of this effect is consumed for each non-injury marker removed; when this technique becomes 10% more powerful, 1 level of this effect is restored, up to a maximum of 3 levels.
 HU·Yin-Yang Invert
@@ -3475,7 +3475,7 @@ EvilUprise
 The happier or more painful the enemy's "mood" is, the more the demon heart will show the broken body and broken Qi.
 A·Sinster
 Random Heal
-Whenever an enemy performs the "Orthodox training" technique, it makes the random injuries on the enemy's body significantly worse; whenever an enemy performs the "negative training" technique, it makes the random injuries on the hundred evils significantly less severe
+Whenever an enemy performs the "Orthodox training" technique, it makes the random injuries on the enemy's body significantly worse; whenever an enemy performs the "Heterodox training" technique, it makes the random injuries on the hundred evils significantly less severe
 The·FN
 The Nine Tribes of the Fallen Heart continuously apply different types of "poison" to the enemy depending on the enemy's internal power attributes
 The·C
