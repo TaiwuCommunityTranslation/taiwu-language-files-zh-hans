@@ -197,7 +197,7 @@ The user's "Fire" type techniques will cause more direct damage and repercussion
 Divine Jade\nYang
 Dramatically increase the amount of true qi gained by the user in battle
 Dragon Engulf\nElephant
-Convert the user's "Returning Yuan" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type techniques will be increased.
+Convert the user's "Earth" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type techniques will be increased.
 9 Dragons\nIn One
 Converts the "reverse" effect of the user's "Fire" type of kung fu other than "internal kung fu" into a "positive" effect
 Demonization
@@ -1961,7 +1961,7 @@ Reduces the consumption of qi and stance of the user's "Wood" type techniques
 Inverse-Black Fairy Law
 Significantly reduces the amount of toxins that can be dispelled when an enemy performs "poison repelling" in battle
 Inverse - Green Immortal Law
-Converts the user's "Returning Yuan" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
+Converts the user's "Earth" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Reverse-Spirituality
 The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect will be to increase the user's power, subtlety, swiftness, and heart gain status.
 Inverse - Hundred Evil Body Technique
@@ -1975,7 +1975,7 @@ When the internal power attribute of the user is "Water", the direct damage and 
 Reverse-Bu Tian Ge
 Significantly reduce the "sensitive" consumption of users
 Reverse - Xuan Hei Zhen Jing
-Convert the user's "Returning Yuan" internal energy into "Water" internal energy, the more the percentage of conversion, the more the user's "Water" type power will be increased.
+Convert the user's "Earth" internal energy into "Water" internal energy, the more the percentage of conversion, the more the user's "Water" type power will be increased.
 Reverse-Esi Legacy
 Changing the "positive" effect of the user's "Water" type of kung fu other than "internal kung fu" to "negative" effect
 Inverse - Armillary Chart
