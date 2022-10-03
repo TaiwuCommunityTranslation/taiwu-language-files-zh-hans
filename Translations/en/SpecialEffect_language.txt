@@ -408,7 +408,7 @@ Heavenly Armor
 When defending with this technique, if the grade of the weapon used by the enemy is not higher than the grade of the protective gear of the attacked part of the user, the degree of injury caused by the enemy to the user will be reduced by 4 levels.
 Exquisite 9
 Treasure Transformation True Qi
-When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability, and the user's true qi will be increased according to the grade of the treasure: gold and iron treasures will increase "destruction" true qi; jade treasures will increase "Aegis" true qi; wooden treasures will increase "lightness" true qi; and brocade treasures will increase "qi" true qi.
+When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability, and the user's true qi will be increased according to the grade of the treasure: gold and iron treasures will increase "destruction" true qi; jade treasures will increase "Aegis" true qi; wooden treasures will increase "Quick" true qi; and brocade treasures will increase "qi" true qi.
 Forge Mysterious Iron
 Arms become divine weapons
 When the total number of defeat marks of the user exceeds half of the defeat condition, the weapon currently used by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" cannot be damaged unless it is damaged by attacking "Divine Armor"; direct damage caused by attacking with "Divine Armor" cannot be reduced by any effect unless the enemy is protected by "Divine Armor"
@@ -2176,7 +2176,7 @@ When the user's helper uses the "warning" command, it can increase the user's un
 HU·Heavenly Armor
 When defending with this technique, if the grade of the weapon used by the enemy is not higher than the grade of the protective gear of the attacked part, the degree of all direct internal injuries caused by the enemy to the user is reduced by 4 levels.
 HU·Exquisite 9
-When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability and reduce the enemy's true qi according to the treasure's rank: gold and iron treasures reduce "destruction" true qi; jade treasures reduce "Aegis" true qi; wooden treasures reduce "lightness" true qi; brocade treasures reduce "qi" true qi
+When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability and reduce the enemy's true qi according to the treasure's rank: gold and iron treasures reduce "destruction" true qi; jade treasures reduce "Aegis" true qi; wooden treasures reduce "Quick" true qi; brocade treasures reduce "qi" true qi
 HU·Forge Mysterious Iron
 Protective gear becomes divine armor
 When the total number of defeat marks of the user exceeds half of the defeat condition, the protective gear currently worn by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" will not be damaged unless it is damaged by the attack of "Divine Armor"; all direct damage resisted by "Divine Armor" cannot be increased by any effect unless the enemy attacks or performs a feat with "Divine Armor".
@@ -2528,7 +2528,7 @@ When this technique is at its tenth power, the damage caused by the user to eith
 Reverse-Cloud Frenzy Style
 After this technique has reached 10% of its power, the user gains 2 levels of this effect: the user can retreat up to 4 distances while performing the "Destroy" technique, the further the user retreats, the more the attack range increases; if the next technique performed is still this technique, the power of this technique increases significantly
 HU·Great Divine\nPalm
-Eliminate the lightness of the enemy
+Eliminate the Quick of the enemy
 When attacking an enemy with this technique, if the enemy is using the "Light Spirit" technique, the power of this technique will be greatly increased; when this technique exerts at least 10% of its power, the "Light Spirit" technique used by the enemy will be eliminated
 HU·Great Slow Hand
 At the end of this technique, the enemy's unloading force will be reduced, and the user will immediately perform this technique again without consumption from 50% of the progress until the enemy leaves the attack range of this technique.
