@@ -1,35 +1,35 @@
-Chest
-The <color=#darkbrown> Chest and Back</color> On a successful hit, the enemy's Qi progress is reduced by <color=#white>20% </color>!
+Chest and Back
+On a successful Style Change to <color=#darkbrown>Chest and Back</color>, the enemy's Qi progress is reduced by <color=#white>20% </color>!
 AcuPt on <color=#darkbrown>Chest and Back</color> is inactivated, inhale speed is reduced by <color=#white>25%</color>！
-{胸背·擦伤,胸背·出血,胸背·骨折}
-{胸背·淤阻,胸背·闭穴,胸背·断脉}
+(Chest and Back-Scratch, Chest and Back-Bleeding, Chest and Back-Fracture)
+(Chest and Back-Bruises, Chest and Back-AcuPt Inactivation, Chest and Back-Broken Meridian)
 Waist
-对<color=#darkbrown>腰腹</color>变招成功时，敌人的架势进度减少<color=#white>20%</color>！
+On a successful Style Change to <color=#darkbrown>Waist</color>, the enemy's stance progress is reduced by <color=#white>20</color>!
 AcuPt on <color=#darkbrown>Waist</color> is inactivated, stance speed is reduced by <color=#white>25</color>！
-{腰腹·擦伤,腰腹·出血,腰腹·断肠}
-{腰腹·淤阻,腰腹·闭穴,腰腹·断脉}
+(Waist-Scratch, Waist-Bleeding, Waist-Spilled Guts)
+(Waist-Bruises, Waist-AcuPt Inactivation, Waist-Broken Meridian)
 Head
-对<color=#darkbrown>头颈</color>变招成功时，敌人失去<color=#white>3</color>个随机的式！
-<color=#darkbrown>头颈</color>穴道被封，施展速度减少<color=#white>25%</color>！
-{头颈·擦伤,头颈·出血,头颈·骨折}
-{头颈·淤阻,头颈·闭穴,头颈·断脉}
+On a successful Style Change to <color=#darkbrown>Head</color>, the enemy will lose <color=#white>3</color> random Styles!
+AcuPt on <color=#darkbrown>Head</color> is inactivated, cast speed is reduced by <color=#white>25</color>！
+(Head-Scratch, Head-Bleeding, Head-Fracture)
+(Head-Bruises, Head-AcuPt Inactivation, Head-Broken Meridian)
 L. Arm
-对<color=#darkbrown>左臂</color>变招成功时，敌人的变招次数减少<color=#white>3</color>！
-<color=#darkbrown>左臂</color>穴道被封，攻击速度减少<color=#white>10%</color>，格挡机率降低<color=#white>25%</color>！
-{左臂·擦伤,左臂·出血,左臂·骨折}
-{左臂·淤阻,左臂·闭穴,左臂·断脉}
+On a successful Style Change to <color=#darkbrown>L. Arm</color>, the enemy will lose <color=#white>3</color> Style Changes!
+AcuPt on <color=#darkbrown>L. Arm</color> is inactivated, attack speed is reduced by <color=#white>10</color> and block chance is reduced by <color=#white>25%</color>！
+(L. Arm-Scratch, L. Arm-Bleeding, L. Arm-Fracture)
+(L. Arm-Bruises, L. Arm-AcuPt Inactivation, L. Arm-Broken Meridian)
 R. Arm
-对<color=#darkbrown>右臂</color>变招成功时，敌人的变招次数减少<color=#white>3</color>！
-<color=#darkbrown>右臂</color>穴道被封，攻击速度减少<color=#white>10%</color>，格挡机率降低<color=#white>25%</color>！
-{右臂·擦伤,右臂·出血,右臂·骨折}
-{右臂·淤阻,右臂·闭穴,右臂·断脉}
+On a successful Style Change to <color=#darkbrown>R. Arm</color>, the enemy will lose <color=#white>3</color> Style Changes!
+AcuPt on <color=#darkbrown>R. Arm</color> is inactivated, attack speed is reduced by <color=#white>10</color> and block chance is reduced by <color=#white>25%</color>！
+(R. Arm-Scratch, R. Arm-Bleeding, R. Arm-Fracture)
+(R. Arm-Bruises, R. Arm-AcuPt Inactivation, R. Arm-Broken Meridian)
 L. Leg
-对<color=#darkbrown>左腿</color>变招成功时，敌人的脚力减少<color=#white>20%</color>！
-<color=#darkbrown>左腿</color>穴道被封，脚力上限减少<color=#white>10%</color>！
-{左腿·擦伤,左腿·出血,左腿·骨折}
-{左腿·淤阻,左腿·闭穴,左腿·断脉}
+On a successful Style Change to <color=#darkbrown>L. Leg</color>, the enemy will lose <color=#white>20%</color> Mobility!
+AcuPt on <color=#darkbrown>L. Leg</color> is inactivated, maximum Mobility is reduced by <color=#white>10</color>!
+(L. Leg-Scratch, L. Leg-Bleeding, L. Leg-Fracture)
+(L. Leg-Bruises, L. Leg-AcuPt Inactivation, L. Leg-Broken Meridian)
 R. Leg
-对<color=#darkbrown>右腿</color>变招成功时，敌人的脚力减少<color=#white>20%</color>！
-<color=#darkbrown>右腿</color>穴道被封，脚力上限减少<color=#white>10%</color>！
-{右腿·擦伤,右腿·出血,右腿·骨折}
-{右腿·淤阻,右腿·闭穴,右腿·断脉}
+On a successful Style Change to <color=#darkbrown>R. Leg</color>, the enemy will lose <color=#white>20%</color> Mobility!
+AcuPt on <color=#darkbrown>R. Leg</color> is inactivated, maximum Mobility is reduced by <color=#white>10</color>!
+(R. Leg-Scratch, R. Leg-Bleeding, R. Leg-Fracture)
+(R. Leg-Bruises, R. Leg-AcuPt Inactivation, R. Leg-Broken Meridian)
