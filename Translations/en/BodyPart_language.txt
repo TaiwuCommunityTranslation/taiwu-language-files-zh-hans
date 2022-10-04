@@ -1,11 +1,11 @@
 Chest
 The <color=#darkbrown> Chest and Back</color> On a successful hit, the enemy's Qi progress is reduced by <color=#white>20% </color>!
-<color=#darkbrown>胸背</color>穴道被封，提气速度减少<color=#white>25%</color>！
+AcuPt on <color=#darkbrown>Chest and Back</color> is inactivated, inhale speed is reduced by <color=#white>25%</color>！
 {胸背·擦伤,胸背·出血,胸背·骨折}
 {胸背·淤阻,胸背·闭穴,胸背·断脉}
 Waist
 对<color=#darkbrown>腰腹</color>变招成功时，敌人的架势进度减少<color=#white>20%</color>！
-<color=#darkbrown>腰腹</color>穴道被封，架势速度减少<color=#white>25%</color>！
+AcuPt on <color=#darkbrown>Waist</color> is inactivated, stance speed is reduced by <color=#white>25</color>！
 {腰腹·擦伤,腰腹·出血,腰腹·断肠}
 {腰腹·淤阻,腰腹·闭穴,腰腹·断脉}
 Head
