@@ -1,7 +1,10 @@
-﻿using Kaitai;
+﻿using System.Text.RegularExpressions;
+using Kaitai;
 using Newtonsoft.Json;
+using ToolGood.Words;
 
 const string OUTPUT_DIR = "zh-hans";
+const string OUTPUT_TRANSLATION_DIR = "Translations/en";
 
 var cliArgs = Environment.GetCommandLineArgs();
 if (cliArgs.Length != 2)
@@ -86,6 +89,49 @@ if (!Directory.Exists(eventsDirectory))
   Console.Error.WriteLine($"Invalid events directory: {eventsDirectory}!");
   Environment.Exit(1);
 }
+
+if (!Directory.Exists(OUTPUT_TRANSLATION_DIR)) Directory.CreateDirectory(OUTPUT_TRANSLATION_DIR);
+
+var allPinyin = new Dictionary<int, string[]>();
+
+Console.WriteLine("[+] saving LocalMonasticTitles...");
+var idToLocalMonasticTitleMapping = LocalMonasticTitles.getIdToLocalMonasticTitleMapping(decompiler);
+var idToLocalMonasticTitleTranslatedMapping = idToLocalMonasticTitleMapping.Aggregate(new Dictionary<int, string>(), (acc, pair) =>
+{
+  var vals = WordsHelper.GetAllPinyin(pair.Value[0], true).FindAll(val => !Regex.IsMatch(val, @"^[A-z]*$")).ToArray();
+  if (vals.Length > 1)
+  {
+    var all = new string[] { pair.Value };
+    allPinyin[pair.Key] = all.Concat(vals).ToArray();
+  }
+
+  var val = WordsHelper.GetPinyinForName(pair.Value, true);
+
+  // apply fixes by contexts
+  switch (pair.Value)
+  {
+    // 了却
+    case "了": val = "Liǎo"; break;
+    // 德行
+    case "行": val = "Xíng"; break;
+    // 传承
+    case "传": val = "Chuán"; break;
+    // 九重天
+    case "重": val = "Chóng"; break;
+    // 能够
+    case "能": val = "Néng"; break;
+    // 纪律
+    case "纪": val = "Jì"; break;
+    // 为了
+    case "为": val = "Wèi"; break;
+  }
+  acc[pair.Key] = val;
+
+  return acc;
+});
+File.WriteAllText(Path.Join(OUTPUT_DIR, "LocalMonasticTitles.json"), JsonConvert.SerializeObject(idToLocalMonasticTitleMapping, Formatting.Indented));
+File.WriteAllText(Path.Join(OUTPUT_TRANSLATION_DIR, "LocalMonasticTitles.json"), JsonConvert.SerializeObject(idToLocalMonasticTitleTranslatedMapping, Formatting.Indented));
+File.WriteAllText(Path.Join(OUTPUT_DIR, "XXX.json"), JsonConvert.SerializeObject(allPinyin, Formatting.Indented));
 
 Console.WriteLine("[+] saving EventLanguages...");
 
