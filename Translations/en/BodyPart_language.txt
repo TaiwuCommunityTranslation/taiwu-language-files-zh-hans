@@ -1,5 +1,5 @@
 Chest
-对<color=#darkbrown>胸背</color>变招成功时，敌人的提气进度减少<color=#white>20%</color>！
+The <color=#darkbrown> Chest and Back</color> On a successful hit, the enemy's Qi progress is reduced by <color=#white>20% </color>!
 <color=#darkbrown>胸背</color>穴道被封，提气速度减少<color=#white>25%</color>！
 {胸背·擦伤,胸背·出血,胸背·骨折}
 {胸背·淤阻,胸背·闭穴,胸背·断脉}
