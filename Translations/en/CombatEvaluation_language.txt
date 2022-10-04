@@ -15,50 +15,50 @@ A dangerous fight with an opponent whose purity is no less than your own.
 A Fight to the death
 A fight to the death with an opponent whose purity is no less than your own.
 HoS
-击败了相枢化身！
+Defeated the XiangShu Incarnation !
 Bully·A
 Defeat enemy who have fewer companions. 
 Bully·M
 Defeat an opponent who is younger than you
-装备凌弱
-击败装备整体比自己弱的对手。
-真气凌弱
-击败真气比自己低很多的对手。
-武学凌弱
-使用了相较对手所使用的武学而言更为高深的武学击败对手。
-精纯凌弱
-在自己的精纯境界比对手高3或以上的情况下击败对手。
+Equipped with weaknesses
+Defeat an opponent whose equipment is weaker overall than your own.
+True Qi overpowering
+Defeating an opponent whose True Qi is much lower than your own.
+Martial Overpowering 
+Defeats an opponent using a martial art that is more advanced than the one used by the opponent.
+Pure and fragile
+Defeating an opponent when one's realm of purity is 3 or more higher than the opponent's.
 Bully·P
-击败身怀六甲的对手。
+Defeating an opponent who is carrying six pieces of 
 OT·A
 Overturn·amount. Defeat enemy who have more companions. 
 Newborn
-在自己尚未成年且对方比你年长的情况下击败对手。
-装备胜强
-击败装备整体比自己强的对手。
-真气胜强
-击败真气比自己高很多的对手。
-武学胜强
-仅用了相较对手所使用的武学而言更为粗浅的武学击败对手。
-精纯胜强
-在自己的精纯境界比对手低3或以上的情况下击败对手。
+Beating an opponent when you are not yet an adult and your opponent is older than you.
+Equipped for victory
+Defeat an opponent whose equipment is overall better than your own.
+True Qi overcomes Force
+Defeating an opponent whose True Qi is much higher than your own.
+Superior Martial Arts
+Defeating an opponent with a more rudimentary martial art than the one used by his opponent
+Purity overcomes Strength
+Defeating an opponent when one's realm of purity is 3 or more below that of the opponent.
 Lion Roar
-在自己身怀六甲的情况下击败对手。
-举手之劳
+Defeating an opponent while having six pieces of gear equipped.
+It's all in your hands.
 Restore one's mind from XiangShu's Posession. 
-驱魔除邪
-令精纯不低于自己的堕入相枢魔道者的心神得以复原。
+Repel Evil Spirits
+Restoring the minds of those who have fallen into the demonic path of the Sangha and who are no less pure than oneself.
 Be Chivalrous and uphold justice
-消灭了为非作歹的外道。
-消灭外道
-消灭了精纯不低于自己的外道。
-伤天害理
-杀害了行侠仗义的义士。
+Exterminating the outlaws who committed misdeeds.
+Destroying the Outlaws
+Eliminating the Outlaws who are not less pure than oneself
+Offend Heaven and Earth
+Killing righteous men who have done righteous deeds.
 Kill the Righteous
-杀害了精纯不低于自己的义士。
+Killing the righteous who are no less pure than oneself.
 Praise of Lion Face
-因为狮相门的宣扬，战胜对手获得了更多的威望。
+Victory over the opponents earns more prestige because of the proclamation of the Lion-Face Clan.
 The basic
-以最为质朴的太祖长拳击败敌人，获得的威望大幅提高。
-实战领悟
-于实战中有所领悟，正在研读的书籍的研读进度增加了。
+The prestige gained by defeating an enemy with the most rustic Taiwu Long Fist is greatly increased.
+Practical insights
+The study progress of the books being studied has increased as a result of real-life insights.
