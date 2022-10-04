@@ -1,25 +1,25 @@
 Lose
-战斗失败！
+Battle lost!
 Draw
-不分胜负……
+Tie....
 Retreat
-落荒而逃……
+Flee.....
 Win
-战斗胜利！
+Battle won!
 Spar
-与精纯不低于自己的对手切磋武功。
-见招拆招
-与精纯不低于自己的对手进行拆招。
-险恶之战
-与精纯不低于自己的对手发生恶斗。
-生死之战
-与精纯不低于自己的对手发生死斗。
+Spar with an opponent whose purity is no less than your own.
+Parry every move
+Parry moves from an opponent whose purity is no less than your own.
+A dangerous Battle
+A dangerous fight with an opponent whose purity is no less than your own.
+A Fight to the death
+A fight to the death with an opponent whose purity is no less than your own.
 HoS
 击败了相枢化身！
 Bully·A
 Defeat enemy who have fewer companions. 
 Bully·M
-击败尚未成年且比你年幼的对手。
+Defeat an opponent who is younger than you
 装备凌弱
 击败装备整体比自己弱的对手。
 真气凌弱
