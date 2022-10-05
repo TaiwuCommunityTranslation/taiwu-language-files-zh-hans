@@ -41,14 +41,14 @@ Possessed by XiangShu
 Build up a Feud
 {0} in {1} has been been imprisoned by {2} and resentful of {2}...
 Prison Escape
-{0} escaped from {2}'s imprisonment in { 1}...
+{0} escaped from {2}'s imprisonment in {1}...
 Cricket Died
 {0} has perished.
 Resource Overflow
 Resources are over-capacity, causing the loss of {0} in {1}
 Resources are over-capacity, causing the loss of {0} in {1}
 Enmity Bred
-{0} has become enemies with {2} in { 1}
+{0} has become enemies with {2} in {1}
 Rancor Melted
 {0} dissolved their hatred for {2} in {1} and are no longer enemies.
 Confession Successful
@@ -56,7 +56,7 @@ In {1}, {0} confessed to {2} and finally impressed each other, the two have mutu
 Couple Broken Up
 In {1}, {0} and {2} have broken up.
 Couple Married
-In {1}, {0} and { 2} promised to each other for life and were married.
+In {1}, {0} and {2} promised to each other for life and were married.
 Congeniality
 {0} and {2} in {1} had a good conversation and both felt very close to each other, so they became close friends.
 Estrangement
@@ -114,7 +114,7 @@ Protection
 Protecting friends and family
 {0} will fight against {2} on behalf of {1}...
 New appointments in the sect
-{0} becomes the {1} of { 2}
+{0} becomes the {1} of {2}
 New Town Official
 New Faction Official
 {0} became the {1} faction leader.
@@ -178,7 +178,7 @@ Divine Favor
 {0} in {1} dreamed of the magical white deer and was able to calm his internal breath.
 Mischance
 {0} lost the very rare {2} by accident at {1}.
-{0} had an accidental loss of {2}{3} at { 1}
+{0} had an accidental loss of {2}{3} at {1}
 The Secret of Heavenly Loss
 {0} lost a {2} martial arts secret book by accident in {1}
 {0} accidentally lost a {2} secret copy of the craft at {1}
@@ -264,27 +264,27 @@ Weiqi transfers all damage to {1} near {0}!
 taking a direction for a disaster
 As a result of to pass by, {0} the position of the nearby characters has changed!
 Blood Maple as a scourge
-Due to the passage of Blood Maple, more pivotal minions appeared near { 0}!
+Due to the passage of Blood Maple, more pivotal minions appeared near {0}!
 Surgery is a scourge
-Due to the passing of the operative side, { 0} near { 1} age extra!
+Due to the passing of the operative side, {0} near {1} age extra!
 Mowgirls Save the Suffering
-{ 0} was treated by a mysterious person who called herself Mo-chan at { 1}.
+{0} was treated by a mysterious person who called herself Mo-chan at {1}.
 Yao Chang Saves Suffering
-The { 0} who fell into the demonic path of the Sang-soo was captured in { 1} by a mysterious man who called himself the Great Yue Yao Chang and was finally put to death ......
+The {0} who fell into the demonic path of the Sang-soo was captured in {1} by a mysterious man who called himself the Great Yue Yao Chang and was finally put to death ......
 Nine-Cold Relief
-{ 0}The nearby geographies are under the care of a mysterious man who calls himself Jiuchan, and all the resources are restored.
+{0}The nearby geographies are under the care of a mysterious man who calls himself Jiuchan, and all the resources are restored.
 Phoenix saves the suffering
-{ 0} saw the golden phoenix at { 1} and subsequently received a heavenly cross blessing.
+{0} saw the golden phoenix at {1} and subsequently received a heavenly cross blessing.
 in order to save the suffering
-{ 0} nearby characters are more likely to fall in love with others after meeting a mysterious person who calls himself Yi Yi Hou.
+{0} nearby characters are more likely to fall in love with others after meeting a mysterious person who calls himself Yi Yi Hou.
 Wei Qi saves suffering
-{ 0} was rescued by a mysterious man who called himself Wei Qi in { 1} and transferred the injury to { 2}.
+{0} was rescued by a mysterious man who called himself Wei Qi in {1} and transferred the injury to {2}.
 to the relief of suffering
-{ 0} The characters in the neighborhood are temporarily converted to a benevolent stance by a mysterious man who calls himself Ezra.
+{0} The characters in the neighborhood are temporarily converted to a benevolent stance by a mysterious man who calls himself Ezra.
 Blood Maple to Save the Suffering
-{ 0} was attacked by a mysterious man calling himself Blood Maple at { 1}.
+{0} was attacked by a mysterious man calling himself Blood Maple at {1}.
 Artistic formula to save suffering
-{ 0} stumbled upon a mysterious man in { 1} who called himself Jitsufang, and then seemed to get younger!
+{0} stumbled upon a mysterious man in {1} who called himself Jitsufang, and then seemed to get younger!
 Civilian Disappearance
 {0} was lost at {1} and was later confirmed dead.
 Caravan Departure
