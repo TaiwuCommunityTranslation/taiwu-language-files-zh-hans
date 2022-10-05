@@ -65,7 +65,7 @@ World Cricket Congress
 较艺大会
 数九寒冬，劳作不辍，一场关于{0}的较艺大会正在{1}轰轰烈烈地举办！
 Build up a Feud
-{0} has become enemies with {2} in { 1}
+{0} has become enemies with {2} in {1}
 化解仇怨
 {0} dissolved their hatred for {2} in {1} and are no longer enemies.
 心生爱慕
@@ -95,7 +95,7 @@ Adopting a foster daughter
 离开人世
 {0} departed from this life in {1}
 俘虏逃脱
-{0} escaped from {2}'s imprisonment in { 1} ......
+{0} escaped from {2}'s imprisonment in {1} ......
 中止赴约
 {0}不再前往{1}赴约…
 寻仇袭击
