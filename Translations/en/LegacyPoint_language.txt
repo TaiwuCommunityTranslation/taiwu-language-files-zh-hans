@@ -12,15 +12,15 @@ Became Sworn-Siblings
 死斗胜利
 失心救治
 剿灭巢穴
-习得技艺
+Learn Life Skill
 解读书页
 解读残页
 技艺大成
 较艺胜利
 传授技艺
-习得功法
+Learn Combat Skill
 练成功法
-突破功法
+Breakthrough Martial Art
 传授功法
 建设村庄
 扩建建筑
@@ -30,7 +30,7 @@ Became Sworn-Siblings
 招揽人才
 捕捉促织
 促织决斗
-获得见闻
+Get Info
 使用见闻
 递送拜帖
 Stations Connected
