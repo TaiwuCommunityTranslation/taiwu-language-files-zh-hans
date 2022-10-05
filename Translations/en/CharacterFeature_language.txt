@@ -1,17 +1,17 @@
 Muscular
-此人魁梧奇伟，强壮有力，对敌不凭武力，也能以一身劲力制人。
+This person is sturdy and strange, strong and powerful, even without martial art, they can defeat enemies with pure force.
 Robust as a beast
-手擒九牛，足踩虎尾。此人天生怪力，凶悍犹胜百兽，常人皆不敢随意招惹。
+Catching nine cows by hand, feet on the tail of tiger. This person was born with giant force, fiercer than all kinds of beasts, ordinary people are afraid to provoke them.
 Mountainous Strength
-此人天生神力，雄伟非凡，甚至可以徒手拔起大山，扛举重鼎。
+This person was born with divine strength, majestic and extraordinary, and can even pull up large mountains with his bare hands and carry heavy tripods.
 Weak and Feeble
-此人体弱无力，肩不可提，手不能扛，常常体力不支。
+This person is weak, can neither lift nor carry, they often physically exhausted.
 Extremely Feeble
 此人身衰体虚，少气无力，若提担重物，徒步行远，则虚汗连连。
 Feeble as an Ant
 蚍蜉撼树，不自量力。此人虽具人形，然力微小，犹不及蚍蜉，在世间自处，常步履维艰。
 Physically Healthy
-从小便比常人强壮结实，且身体健康，鲜少生病。
+Since childhood, they have been stronger and sturdier than the average, and they are healthy, rarely falling ill.
 Vigorous as a Horse
 其人体格健硕，精神饱满，见之气宇轩昂，毫无颓靡之态。
 Godlike Constitution
@@ -488,9 +488,9 @@ Shoulder pain
 Shoulder injured
 肩臂遭到重创，受创者的蓄式无法超过6个，且受创者手臂的外伤达到4层即视为手臂残毁，直到受创者治愈了所有手臂的外伤，此重创才会消失。
 Heel pain
-膝踵遭到重创，受创者的最大身法值减半，且受创者腿足的内伤达到4层即视为腿足残毁，直到受创者治愈了所有腿足的内伤，此重创才会消失。
+If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the internal injuries of the injured person's leg and foot reach 4 levels, the leg and foot are considered to be crippled until the injured person has healed all the internal injuries of the leg and foot, then the severe injury will disappear.
 Heel injured
-膝踵遭到重创，受创者的最大身法值减半，且受创者腿足的外伤达到4层即视为腿足残毁，直到受创者治愈了所有腿足的外伤，此重创才会消失。
+If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the trauma to the injured person's leg and foot reaches 4 levels, the leg and foot is considered to be mutilated until the injured person has healed all trauma to the leg and foot.
 White Forehead Snake
 White forehead snake - You played with a White Forehead snake every day, and are now immune to poison
 天助善缘
