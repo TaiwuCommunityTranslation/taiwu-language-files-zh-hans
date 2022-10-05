@@ -88,7 +88,7 @@ Due to a <color=#red>natural disaster </color>at {0} , all party members were da
 {0}<color=#red>入邪</color>了！
 角色入魔
 {0}<color=#red>入魔</color>了！
-恢复属性
+Restore Properties
 {0}的{1}恢复了<color=#white>{2}</color>点…
 消耗属性
 {0}的{1}消耗了<color=#white>{2}</color>点…
@@ -120,7 +120,7 @@ Due to a <color=#red>natural disaster </color>at {0} , all party members were da
 {0}成年了！
 角色死亡
 {0}离开了人世…
-促织寿终
+Cricket Died
 促织{0}已寿终正寝了……
 亲友死亡
 听闻{0}在{1}离开了人世，{2}的<color=#yellow>心情</color><color=#red>下降</color>了…
