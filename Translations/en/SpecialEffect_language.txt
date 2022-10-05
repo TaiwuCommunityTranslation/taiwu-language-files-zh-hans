@@ -53,7 +53,7 @@ Vitality\nRetainin
 Increases the power of the user's "Fire" type techniques
 Horizontal Feet
 Stance Up
-When the user consumes only Qi, a portion of the stance will be restored.
+When the user consumes only Qi, a portion of the Stance will be restored.
 Celestial Pillar\nHolding
 Convert the user's "Wood" internal energy into "Fire" internal energy, the more the conversion ratio, the more the user's "Fire" type power will be increased.
 Golden Scripture\nof Marrow-Regen
@@ -265,7 +265,7 @@ Obtain random storage style
 When defending with this technique, whenever the user dodges an enemy's attack, the user gains 2 randomly available styles.
 Quiet Return In One
 E·Stance Dn
-Whenever the user resolves a non-chasing enemy attack, the enemy's stance is reduced and the user gains 1 randomly available style.
+Whenever the user resolves a non-chasing enemy attack, the enemy's Stance is reduced and the user gains 1 randomly available style.
 4 Images of Lotus Formation
 The user's helper can use the "heal" and "expel poison" commands more frequently to heal and expel poison for the user.
 Immortal Yang's Golden Body
@@ -443,7 +443,7 @@ Eliminate useless storage type
 Whenever the user deals direct damage to an enemy, the user gains 2 points of a random type of true qi or loses 1 point of a random type of true qi, and loses 1 unusable style.
 Take The Pulse
 Surrendering the enemy's position to resume
-When defending with this technique, every time the user successfully counters an enemy's weapon attack, a reduced benefit status is applied to the enemy that reduces the recovery of the stance
+When defending with this technique, every time the user successfully counters an enemy's weapon attack, a reduced benefit status is applied to the enemy that reduces the recovery of the Stance
 Muscle Displacement Bone Contraction
 Strengthening of extremity defense
 When defending with this technique, the limbs of the user will not be newly broken and enemy attacks targeting the limbs of the user will be more easily defeated.
@@ -604,7 +604,7 @@ During the duration of this body technique: the user's heart will not be reduced
 5 Steps of Plum Poling
 During the duration of this stance, if the hit of the user when attacking an enemy is lower than the enemy's resolution, the user's chance of hitting the enemy is greatly increased.
 8 Trigrams Step
-During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's stance will be reduced to recover.
+During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Stance will be reduced to recover.
 Cloud Surround
 Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this body technique, the user's kick strength is restored.
 Big Dipper Step of Heavenly Spirit
@@ -676,7 +676,7 @@ Enhanced Swift Gain
 During the duration of this body technique: the swiftness of the user will not be reduced by any effect; all swiftness-enhancing feats and status effects received by the user will be greatly increased
 Luoshen's Riversteps
 Restore your momentum
-Every time you advance 1 distance with this stance, you will regain your energy and stance.
+Every time you advance 1 distance with this Stance, you will regain your energy and Stance.
 Feather Stance
 Causing breakage and sealing points
 When advancing with this stance, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the more random parts of the enemy will be added to the breakage, sealing points
@@ -693,8 +693,8 @@ Stardust Avoiding Anger
 Increase weapon armor breaking
 When the user attacks an enemy during the duration of this technique, the armor of the user's weapon will be significantly increased if the level of the enemy's armor is not higher than the level of the weapon used by the user.
 Dragon Riding
-Body technique instead of stance
-During the duration of this stance: the enemy cannot eliminate the user's stance and kicks; if the user's stance is not enough to perform the "Destroy" technique, the user's stance can be consumed instead of the user's stance.
+Body technique instead of Stance
+During the duration of this Stance: the enemy cannot eliminate the user's Stance and kicks; if the user's Stance is not enough to perform the "Destroy" technique, the user's Stance can be consumed instead of the user's Stance.
 Tiankai Flowing Meteor Style
 Enhanced force gain
 During the duration of this body technique: the strength of the user will not be reduced by any effect; all strength-raising techniques and status effects that the user receives are greatly increased
@@ -733,7 +733,7 @@ Free from breakage and sealing points
 During the duration of this body method, when the distance between the enemy and me is not less than 7, the user will not appear new breakthroughs and will not be closed acupuncture points
 Rope Overhang
 Improves aura recovery
-Every time you move 1 distance with this stance, you apply a gain status to the user that increases your Qi recovery and stance recovery.
+Every time you move 1 distance with this Stance, you apply a gain status to the user that increases your Qi recovery and Stance recovery.
 Hundred Feet's Drill
 Attrition of the enemy's Aegis
 During the duration of this technique, when the user attacks an enemy, he/she will first hit the enemy with a swift attack that decreases with the number of times it is used. If the enemy fails to neutralize this swift attack, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced.
@@ -776,7 +776,7 @@ Wind Fire Stance
 Whenever the user hits an enemy with a "sword" type weapon during the duration of this stance, the user's kick strength is restored.
 Drunk Lying In The East Sea
 Increase the power of gong methods
-If the user is drunk during the duration of this technique, the user will consume all of the user's energy and stance when performing the "Destroy" technique, but the power of the technique will also increase in proportion to the amount of energy and stance required to perform it.
+If the user is drunk during the duration of this technique, the user will consume all of the user's energy and Stance when performing the "Destroy" technique, but the power of the technique will also increase in proportion to the amount of energy and Stance required to perform it.
 Fox Move
 Accelerated mobile storage
 When moving forward with this stance, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
@@ -894,7 +894,7 @@ Cold Yin Palm
 Wounds inflicted by this technique on the enemy's waist and abdomen will change to old wounds that are more difficult to recover from
 9 Moves of\n9 Heavens
 Reduction of external recoil
-After this technique has been performed at 10% of its power, the user will receive 9 levels of this effect: if all the "Break" techniques performed by the user are not performed at 10% of their power, the user will receive significantly less external recoil, and at the end of the technique, the user will receive a portion of the stance consumed by performing the technique.
+After this technique has been performed at 10% of its power, the user will receive 9 levels of this effect: if all the "Break" techniques performed by the user are not performed at 10% of their power, the user will receive significantly less external recoil, and at the end of the technique, the user will receive a portion of the Stance consumed by performing the technique.
 Jade Tripot Fist
 Upgrading toxin levels
 After this technique has been used for 10% of its power, the user gains 10 levels of this effect: the cold poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
@@ -957,7 +957,7 @@ Improving external injury
 When attacking an enemy with this technique, if this technique can cause direct internal damage and the user's broken Qi is lower than the enemy's imperial Qi, the user's broken body is greatly increased and the user's direct external damage to the enemy is greatly increased
 Origin\nSword Intent
 0 Inhale·Stance cost
-If the user's Nadis Qi is higher than the initial value and higher than the enemy's Nadis Qi, this technique can be performed without consuming Qi and stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of Nadis at the end of this technique.
+If the user's Nadis Qi is higher than the initial value and higher than the enemy's Nadis Qi, this technique can be performed without consuming Qi and Stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of Nadis at the end of this technique.
 Ever-Changing\n14 Swordmanship
 Cast E·Skill
 When attacking an enemy with this technique, the enemy will only use the lowest of its Discharge, Dismantle, and Dodge to defuse, and the lowest of its Body and Qi to defend; after this technique has reached 10% of its power, the user gains 3 levels of this effect: if the enemy performs any "Destroy" technique that consumes the "Cleave", "Thrust", or "Tease" styles, if the user is able to use the "Cleave", "Thrust", or "Tease" styles If the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
@@ -1016,7 +1016,7 @@ When you start to perform this technique, the toxin applied by the user to the e
 Flood Dragon's\nIron Tentacle
 No Harm Hands
 Eliminate the memory of the enemy
-When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memory of the battle; the enemy cannot attack with weapons, cannot perform feats that require stance consumption, until the enemy is attacked in any way
+When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memory of the battle; the enemy cannot attack with weapons, cannot perform feats that require Stance consumption, until the enemy is attacked in any way
 Conversely\nBeating As Rocking Sky
 Attacks are not defended
 If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its Aegis; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique
@@ -1080,8 +1080,8 @@ If the weapon used by the user is the "Giant Que Sword", the user's body breakag
 Unblocked: This sword can increase the body breakage of all "sword techniques" and lasts until the other weapons are unblocked or the battle is over.
 7 Star\nSwordsmanship of DragonPool
 Reducing the consumption of feats
-If the weapon used by the user is the "Seven Star Dragon Abyss Sword", the user's qi and stance consumption for performing this technique is greatly reduced, and the "Seven Star Dragon Abyss Sword" can be unsealed after this technique has been used to 10% of its power, and this sword can reduce the qi and stance consumption of all "sword techniques". It will last until the other weapons are unsealed or the battle is over.
-Unblocked: This sword can reduce the consumption of qi and stance of all "sword techniques".
+If the weapon used by the user is the "Seven Star Dragon Abyss Sword", the user's qi and Stance consumption for performing this technique is greatly reduced, and the "Seven Star Dragon Abyss Sword" can be unsealed after this technique has been used to 10% of its power, and this sword can reduce the qi and Stance consumption of all "sword techniques". It will last until the other weapons are unsealed or the battle is over.
+Unblocked: This sword can reduce the consumption of qi and Stance of all "sword techniques".
 Taier\nImmeasurable Sword
 If the weapon used by the user is the "Tai Ah Sword", the attack range of this technique is greatly increased and the "Tai Ah Sword" can be unblocked after this technique has been used to 10% of its power, and this sword can increase the attack range of all "sword techniques" until the other weapons are unblocked or End of battle
 Unblocked: This sword can increase the attack range of all "sword techniques".
@@ -1111,8 +1111,8 @@ Blade of\nGhost Chef
 If the weapon used by the user is "Ghost Butcher", the direct damage dealt by this technique to the enemy increases according to the number of poison marks of the user, and after this technique has been used to 10% of its power, "Ghost Butcher" can be unblocked, and this blade can make all "Blade Techniques" deal more damage to the enemy according to the number of poison marks of the user. The number of layers of direct damage inflicted by this blade on the enemy increases according to the number of poison marks of the user, and lasts until the other weapons are unblocked or the battle is over.
 Unblocked: This blade increases the number of levels of direct damage dealt to the enemy by all "blade techniques" depending on the number of poison marks the user has.
 Red Blade of\n7 End
-If the weapon used by the user is the "Red Sword", the user's energy and stance consumption for performing this technique is greatly reduced, and the "Red Sword" can be unblocked after the technique has been used at 10% of its power. until the other weapons are unblocked or the battle is over
-Unblocked: This blade can reduce the consumption of Qi and stance of all "sword techniques".
+If the weapon used by the user is the "Red Sword", the user's energy and Stance consumption for performing this technique is greatly reduced, and the "Red Sword" can be unblocked after the technique has been used at 10% of its power. until the other weapons are unblocked or the battle is over
+Unblocked: This blade can reduce the consumption of Qi and Stance of all "sword techniques".
 Incomplete\nBlade
 If the weapon used by the user is a "broken blade", the attack range of this technique is greatly increased and the "broken blade" can be unblocked after this technique has been used to 10% of its power, and this blade can increase the attack range of all "blade techniques" until the other weapons are unblocked or until the battle. End
 Unblocked: This blade can increase the attack range of all "blade techniques".
@@ -1137,8 +1137,8 @@ Eliminate helper commands
 If the weapon used by the user is the "Golden Eye Xuanhu Baton", when this technique is at 10% of its power, it immediately removes 3 helper commands from the enemy's random helper companions, and the "Golden Eye Xuanhu Baton" is unblocked, this long weapon can make all "long weapon" techniques at 10% of their power. This long weapon can make all the "long weapon" techniques to eliminate 1 helper command of the enemy's random helper companion when the power of the weapon is at 10%, which will last until the other weapons are unblocked or the battle is over.
 Unblocked: This Long Soldier enables all "Long Soldier" feats to eliminate 1 helper command from a random enemy helper when the power of the feat is at 10%.
 Staff of\nMystical Island
-If the weapon used by the user is the "Penglai Ruler", the user's qi and stance consumption for performing this technique is greatly reduced, and the "Penglai Ruler" can be unblocked after this technique has been used to 10% of its power, and this long weapon can reduce the qi and stance consumption of all "long weapon" techniques. It will last until the other weapons are unsealed or the battle is over.
-Unblocked: This long weapon can reduce the qi and stance consumption of all "long weapon" techniques
+If the weapon used by the user is the "Penglai Ruler", the user's qi and Stance consumption for performing this technique is greatly reduced, and the "Penglai Ruler" can be unblocked after this technique has been used to 10% of its power, and this long weapon can reduce the qi and Stance consumption of all "long weapon" techniques. It will last until the other weapons are unsealed or the battle is over.
+Unblocked: This long weapon can reduce the qi and Stance consumption of all "long weapon" techniques
 Divine Staff of\nOcean Carry
 Kung Fu is more difficult to interrupt
 If the weapon used by the wielder is the "Sea-holding God Staff", this technique cannot be "interrupted" and the "Sea-holding God Staff" can be unblocked after this technique has been used to 10% of its power, this long weapon can make all "long weapon" techniques more difficult to be "interrupted" and last until other weapons are used. Unblocked or end of battle
@@ -1149,7 +1149,7 @@ Unblocked: This long weapon can increase the power of all "long weapon" feats
 Mechanic\nSwallow
 After this technique has been used for at least 10% of its power, the user gains 6 levels of this effect: When the user gains a "machine" style, there is a higher chance of gaining 1 more "machine" style.
 Mechanic Hook
-After this technique is at least 10% powerful, if the user can consume an additional "machine" style, the enemy's stance will be significantly reduced
+After this technique is at least 10% powerful, if the user can consume an additional "machine" style, the enemy's Stance will be significantly reduced
 Chain
 After this technique has reached 10% of its power, the user gains 4 levels of this effect: the fewer levels of this effect remain, the more the user's power of the "Destroy" technique increases.
 Dragon Claw
@@ -1241,8 +1241,8 @@ Bone-Breaking\nWhip
 Dreadlord's\nMetallic Whip
 When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at 10% of its power, all the enemy's body and Stamina are eliminated and the enemy is knocked back by 6 distance
 Jade Breaking
-Stamina instead of stance
-The strength of the user's feet can replace the stance when the stance is not enough to perform this technique, so the user can move and attack with weapons during the performance of this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
+Stamina instead of Stance
+The strength of the user's feet can replace the Stance when the Stance is not enough to perform this technique, so the user can move and attack with weapons during the performance of this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
 Spider Silk\nWhip
 Blocking the enemy's weapon
 When this technique exerts 10% of its power, it will cause the enemy's weapon to be "sealed" for a long period of time. Whenever the enemy moves 1 distance, the enemy will receive the backlash damage from the "sealed" weapon; after this technique is finished, it will inevitably be "sealed" temporarily
@@ -1335,7 +1335,7 @@ When this technique is used at 10% of its power, the enemy's 3 "Wood" techniques
 Ruyibaolun\nBlade
 After this technique has reached 10% of its power, the user gains 2 levels of this effect: Whenever an enemy gains a gain status not due to this technique, the strength of the gain status that the enemy will gain is doubled and transferred to the user, and an opposing minus status is applied to the enemy.
 Blade of\n6 Mighty Powers
-If the user's "Aegis" true qi is higher than the initial value and higher than the enemy's "Aegis" true qi, this technique can be performed without consuming qi or stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of "Aegis" true qi at the end of this technique
+If the user's "Aegis" true qi is higher than the initial value and higher than the enemy's "Aegis" true qi, this technique can be performed without consuming qi or Stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of "Aegis" true qi at the end of this technique
 Blade of\nMahakala
 Damage delayed effect
 During the process of performing this technique, all direct injuries received by the user will only take effect after this technique is performed; after this technique has become 10% powerful, the external injuries that will take effect will not take effect, and the number of external injuries that will take effect by the user will be the number of layers to obtain this effect: when the user causes direct external injuries to the enemy, a maximum of 3 layers of this effect will be consumed to increase the degree of the direct external injuries caused, but if If the number of layers of this effect exceeds 9, the effect will also enhance the enemy's
@@ -1379,7 +1379,7 @@ Source Extinct\nHands
 Interrupt E·Skill
 The higher the power of this technique, the higher the chance of "interrupting" the technique being performed by the enemy, and the power of this technique will increase cumulatively according to the power of the "interrupted" technique until the end of the battle.
 Staggered\nFinger
-If the user's "Quick" True Qi is higher than the initial value and higher than the enemy's "Quick" True Qi, this technique can be performed without consuming Qi and stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of "Quick" True Qi at the end of this technique.
+If the user's "Quick" True Qi is higher than the initial value and higher than the enemy's "Quick" True Qi, this technique can be performed without consuming Qi and Stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of "Quick" True Qi at the end of this technique.
 The Ultra One\nCrystal Finger
 Changing the body to a broken body
 During the process of performing this technique: most of the imperial body changes between the user and the enemy are broken; all direct external injuries suffered by the user will not exceed 2 levels of injury
@@ -1406,8 +1406,8 @@ After this technique has been used for 10% of its power, the user gains 3 levels
 Divine\nNone-Thought
 Concealed weapons gain spirituality
 Dark weapon auto attack
-If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has become 10% powerful, the "concealed weapon" used to perform this technique will acquire "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of distance, without counterattack or recoil, whenever the user obtains the "killing" style. When this "concealed weapon" is not used by the user, whenever the user obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without recoil, but the user will not obtain the style and stance as a result.
-Spirituality: When this "concealed weapon" is not used by the user, whenever the user obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack or recoil, but the user will not obtain the style or stance for this reason.
+If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has become 10% powerful, the "concealed weapon" used to perform this technique will acquire "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of distance, without counterattack or recoil, whenever the user obtains the "killing" style. When this "concealed weapon" is not used by the user, whenever the user obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without recoil, but the user will not obtain the style and Stance as a result.
+Spirituality: When this "concealed weapon" is not used by the user, whenever the user obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack or recoil, but the user will not obtain the style or Stance for this reason.
 Jieqing\nRapid Sword
 Continuous execution of sword techniques
 When this technique is at least 10% powerful, the user gains 1 "kill" style; when this technique is 10% powerful, there is a higher chance that this technique will be used to attack the enemy immediately and without consumption from 50% of the progress.
@@ -1449,7 +1449,7 @@ Eyes·ears injured
 Lower the hit to dissolve
 The more parts of the enemy that are "damaged" at the beginning of this technique, the more the power of this technique increases; when this technique is used at 10% of its power, the enemy's "eyes and ears are damaged"; the "eyes and ears are damaged "The hit of the 2nd weapon attack and the resolution of the weapon attack will be greatly reduced, and the head and neck of the victim will be considered to be destroyed when the external injury of the head and neck reaches 4 levels.
 Lock Throat
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's waist and abdomen, the power of this technique increases and the progress of its execution increases at the beginning of its execution, and this effect accumulates up to 2 levels; when this technique exerts 10% of its power, it significantly depletes the enemy's stance
+At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's waist and abdomen, the power of this technique increases and the progress of its execution increases at the beginning of its execution, and this effect accumulates up to 2 levels; when this technique exerts 10% of its power, it significantly depletes the enemy's Stance
 Separation of\nBone And Muscle
 Shoulder injured
 When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts ten percent of its power, the enemy's arm with external injury will be "shoulder and arm damaged"; "shoulder and arm damaged The "shoulder arm injury" cannot be more than 6, and the external injury of the externally injured arm reaches 4 levels, then the arm will be regarded as disabled, and the external injury will not disappear until the externally injured person has healed all the external injury of the arm.
@@ -1466,7 +1466,7 @@ Lower Body Kick
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's head, the power of this technique increases and the progress of its execution at the beginning increases, and this effect accumulates up to 2 levels; when attacking male enemies with this technique, the power of this technique increases significantly
 Conversely Kick\nof Toad
 Reduces aura consumption
-After this technique has exerted at least 10% of its power, the user retreats 2 distances, and if the user continues to perform this technique continuously, the stance and qi consumption of this technique will be greatly reduced cumulatively, up to 3 times
+After this technique has exerted at least 10% of its power, the user retreats 2 distances, and if the user continues to perform this technique continuously, the Stance and qi consumption of this technique will be greatly reduced cumulatively, up to 3 times
 Unpredictable\nKick
 Power varies randomly
 Ortho to Hetero
@@ -1481,7 +1481,7 @@ When this technique is used at ten percent of its power, the more poisonous mark
 Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements within the field of view of the user that can transform the user's internal five elements into buried ones, the more the power of this technique will be increased
 Blood Shadow\nKick
-If the user's Destructive Qi is higher than the initial value and higher than the enemy's Destructive Qi, this technique can be performed without the use of Qi or stance, in which case the power of this technique is greatly increased and the user loses 6 points of Destructive Qi at the end of the technique.
+If the user's Destructive Qi is higher than the initial value and higher than the enemy's Destructive Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user loses 6 points of Destructive Qi at the end of the technique.
 Ghost Poison\nSand
 Change styles
 When this technique is used at least 10% of its power, it will change up to 2 of the user's unusable styles into "poison" styles.
@@ -1539,7 +1539,7 @@ When this technique is used at 10% of its power, the level of damage caused by t
 Yakkha Staff
 The maximum attack distance of this technique is increased by 2; when attacking the enemy with this technique, the closer the enemy and me are to the maximum attack distance of this technique, the more the power of this technique is increased
 Staff of\nSheep-Hunting Tigers
-The user can perform the "Aegis" technique from 50% of its progress without using up the stance.
+The user can perform the "Aegis" technique from 50% of its progress without using up the Stance.
 Shaolin Staff\nof Madness
 In the process of performing this technique, the user can make weapon attacks on the enemy, and the more times the enemy is hit, the more the user's body breakage will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
 Skanda Staff
@@ -1566,7 +1566,7 @@ Body to Qi
 Royal Body and Qi Change
 When attacking an enemy with this technique, if the user's sensitivity is higher than the enemy's, a part of the enemy's body will be transferred to the imperial qi; when this technique reaches 10% of its power, 10 points of the user's sensitivity will be consumed, and a gain state that raises the imperial qi and a gain state that lowers the imperial body will be applied to the enemy.
 Heavenly Spirit\nThunder Palm
-At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's body breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's stance recovery speed is reduced.
+At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's body breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
 Vajra Samadhi\nPalm
 Reduction of Enemy's Royal Body
 This technique cannot be interrupted; this technique is bound to be 10% powerful, and the higher the enemy's imperial qi is, the more the enemy's imperial body will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Nadis" true qi, otherwise these effects will not take effect
@@ -1664,7 +1664,7 @@ When attacking the enemy with this technique, the deeper the enemy is poisoned, 
 The more chances the user consumes, the more the power of this technique will increase; when this technique is 10% powerful, for every chance the user consumes, the user will gain 3 points of random type of true qi.
 Cloud And Stream
 Inhale·Stance cost Dn
-After at least 10% of the power of this technique is exerted, the user gains 2 levels of this effect: the user needs significantly less qi and stance to perform the technique
+After at least 10% of the power of this technique is exerted, the user gains 2 levels of this effect: the user needs significantly less qi and Stance to perform the technique
 Home Forgetting
 At the beginning of this technique, the happier the user is, the more the power of this technique increases; when this technique reaches 10% of its power, the range of the user's next "Destroy" technique increases according to the user's happiness; at the end of this technique, a special status that increases the user's mood is applied according to the power of this technique.
 Phoenix Arrival
@@ -1685,7 +1685,7 @@ After at least 10% of the power of this technique is exerted, the user gains 4 l
 Wudang Soft\nPalm
 When hitting the enemy with this technique, the enemy's protective gear cannot weaken the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's root bone and increases the user's body and qi breakage
 The 8 Trigrams\nPalm
-At the beginning of the battle, the user gains 0 layers of this effect: for every distance the user moves, this effect increases by 1 layer, up to a maximum of 5 layers. The higher the number of layers of this effect, the less qi and stance the user needs to consume when performing this technique, and the more the user's strength, subtlety and swiftness will increase; after the performance of this technique is finished, this effect decreases by 1 layer
+At the beginning of the battle, the user gains 0 layers of this effect: for every distance the user moves, this effect increases by 1 layer, up to a maximum of 5 layers. The higher the number of layers of this effect, the less qi and Stance the user needs to consume when performing this technique, and the more the user's strength, subtlety and swiftness will increase; after the performance of this technique is finished, this effect decreases by 1 layer
 The Ultra One\nUnfettered Palm
 In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique increases, and the user can gain 2 points of "Nadis" for every 1 distance.
 Divine Fist
@@ -1741,7 +1741,7 @@ Yuanshan\nJump Kick
 Whenever the user chases an enemy at least 2 times with "Knife", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to Heterodox practice
 Mandarin Duck\nCombo Kick
 Stance Cost Dn
-After this technique exerts at least 10% of its power, the stance required to perform this technique is reduced by up to 90%, lasting until the end of the battle
+After this technique exerts at least 10% of its power, the Stance required to perform this technique is reduced by up to 90%, lasting until the end of the battle
 Tiger Tail
 At the beginning of the battle, the user gains 3 levels of this effect: when an enemy attacks the user from a position greater than the user's maximum attack distance, the attack range of this technique is greatly increased, and the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress; when the active performance of this technique is performed and the power of the technique is 10%, this effect regains 1 level
 8 Steps of\nSquared Up
@@ -1792,11 +1792,11 @@ If the enemy is still within the range of the attack, the user will immediately 
 Heavenly Spirit\nBlade
 When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Water", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Divine Blade\nof Mysterious
-Depending on the power of this technique and the amount of energy consumed by the user, the user can obtain up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be consumed instead of the stance, and the more it is consumed, the more the user's body and energy will be increased.
+Depending on the power of this technique and the amount of energy consumed by the user, the user can obtain up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be consumed instead of the Stance, and the more it is consumed, the more the user's body and energy will be increased.
 Inverse-Quiet Meditation Kung Fu
 Reduces the need to use the Shaolin School techniques of the user
 Inverse-Rohan Kung Fu
-Reduces the consumption of qi and stance of the "Metal" type of kung fu by the user
+Reduces the consumption of qi and Stance of the "Metal" type of kung fu by the user
 Inverse - Heart Qi Mixing Technique
 When the internal power attribute of the user is "Metal", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
 Inverse - Colorless Zen Kung Fu
@@ -1826,7 +1826,7 @@ Convert the user's "Metal" internal energy into "Wood" internal energy, the more
 Reversal-Pu Yin Xin Jing
 The higher the percentage of "Wood" internal power of the user, the more the user's power, subtlety, swiftness, and heart will increase.
 Inverse - Sitting and Forgetting
-Significantly reduces the consumption of qi and stance of the "Wood" type of technique.
+Significantly reduces the consumption of qi and Stance of the "Wood" type of technique.
 Reversal of the Great Nirvana Law
 The lower the "reputation" of the user in all previous lives, the more the power of the user's feats will increase.
 Reverse-Copper acupuncture point chart
@@ -1844,10 +1844,10 @@ The more injuries the user removes with "Heal" in battle, the stronger the effec
 Inverse - Wudang Taihe Kung Fu
 Reduces the need to use the user's "Wudang School" techniques
 Reverse - Hold the Origin and Keep the One
-Reduces the consumption of qi and stance of the user's "Fire" type kung fu
+Reduces the consumption of qi and Stance of the user's "Fire" type kung fu
 Inverse - One Word Mixed Pile
 Recover Inhale
-When the user consumes only the stance, a portion of the energy will be restored.
+When the user consumes only the Stance, a portion of the energy will be restored.
 Inverse - Luo Tian Zhen Zhi Twelve Piles
 Convert the user's "Water" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type kung fu will increase.
 Reversal - Golden Sutra of Marrow Washing
@@ -1906,7 +1906,7 @@ The higher the percentage of "Water" internal energy of the user, the more the u
 Inverse - Empress Goddess
 Convert the "Fire" internal energy of the user into "Water" internal energy, the more the percentage of conversion, the more the power of the user's "Water" type techniques will be increased.
 Reverse-Yaochi Immortal Bathing Method
-Significantly reduces the consumption of qi and stance of the user's "Water" type techniques
+Significantly reduces the consumption of qi and Stance of the user's "Water" type techniques
 Inverse - Taiyuan Jade Lady Kung Fu
 Reduced enemy Quick true qi
 At the beginning of a battle, significantly reduce the amount of "Quick" True Qi of the enemy and their helpers; significantly reduce the amount of "Quick" True Qi gained by the enemy during the battle; significantly increase the amount of "Quick" True Qi lost by the enemy during the battle
@@ -1947,7 +1947,7 @@ The higher the percentage of "Metal" internal power of the user, the more the us
 Reverse-Daishonin Sutra
 Convert the "Fire" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
 Reverse - Vajradhara Sutra
-Significantly reduces the consumption of qi and stance of the "Metal" type of kung fu by the user
+Significantly reduces the consumption of qi and Stance of the "Metal" type of kung fu by the user
 Inverse-Mahakala Guardianship
 If the total number of defeat marks of the user exceeds half of the defeat condition, the user will not be closed again.
 Inverse - Supreme Yoga Method
@@ -1957,7 +1957,7 @@ Reduces the need to use the "Five Immortals" technique of the user
 Reverse-Huang Xianfa
 Significantly reduces the speed of enemy "poisoning" in combat
 Inverse - Red Immortal Law
-Reduces the consumption of qi and stance of the user's "Wood" type techniques
+Reduces the consumption of qi and Stance of the user's "Wood" type techniques
 Inverse-Black Fairy Law
 Significantly reduces the amount of toxins that can be dispelled when an enemy performs "poison repelling" in battle
 Inverse - Green Immortal Law
@@ -1969,7 +1969,7 @@ The more negative "characteristics" the enemy has, the more the power of all ene
 Inverse-Boundary Green Four Elephant Chart
 Reduces the user's need to use the "Boundary Green Gate" technique
 Inverse-Tian Yuan method of raising Qi
-Reduces the consumption of qi and stance of the user's "Water" type techniques
+Reduces the consumption of qi and Stance of the user's "Water" type techniques
 Reverse-The Twelve Scrolls of the Eastern Wall
 When the internal power attribute of the user is "Water", the direct damage and repercussion damage caused by the "Earth" type of technique to the user will be reduced.
 Reverse-Bu Tian Ge
@@ -1995,11 +1995,11 @@ Change the "Orthodox" effect of the "Fire" type of kung fu of the user other tha
 Inverse - Into the Magic Kung Fu
 The more mutilated body parts the user has, the higher the direct damage the user can inflict on the enemy.
 Inverse - Great Yu Yang Shen Gong
-Significantly reduces the consumption of qi and stance in the "Fire" type of kung fu of the user
+Significantly reduces the consumption of qi and Stance in the "Fire" type of kung fu of the user
 Inverse - Himalayan mother work
 Reduces the need to use the "Blood Hollow Cult" techniques of the user
 Reverse-Black Corpse Four Tips
-Reduces the consumption of qi and stance of the user's "Earth" type of gong
+Reduces the consumption of qi and Stance of the user's "Earth" type of gong
 Inverse - Evil Ghost Kung Fu
 When the internal power attribute of the user is "Earth", it reduces the direct damage and repercussion damage caused by the "Wood" type techniques to the user.
 Inverse-Three Poisonous Ignorance Mantra
@@ -2009,7 +2009,7 @@ Convert the user's "Water" internal energy into "Earth" internal energy, the mor
 Inverse - Five Yin Dada
 The higher the ratio of the user's "Earth" internal energy, the more the user's power, subtlety, swiftness, and heartbeat will increase.
 Inverse - Child's Blood Refining Method
-Significantly reduces the consumption of qi and stance of the user's "Earth" type of gong.
+Significantly reduces the consumption of qi and Stance of the user's "Earth" type of gong.
 Reverse - Blood Hollow Evil Scripture
 When the internal energy attribute of the user is "Earth", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Inverse - Blood Child Method
@@ -2031,7 +2031,7 @@ HU·Arhat's Stick Formation
 When a user's partner uses the "Defend" command, his or her body, aura, force, disarm, dodge, and guard heart are greatly increased when defending.
 HU·Buddhism Lion Roar
 Attrition of the enemy's momentum
-Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's Qi and stance will be lost.
+Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's Qi and Stance will be lost.
 HU·Mixed Element In One
 Increase internal injury recoil
 When defending with this technique, the internal shock damage of this technique will be greatly increased as long as there are no sealed points in the area where the user is attacked by the enemy.
@@ -2366,7 +2366,7 @@ The broken qi of the leg technique performed by the user with this stance is gre
 HU·Step Alone A Thousand Mile
 Whenever you retreat 1 distance with this stance, the strength of your feet is restored.
 HU·Mysterious Armor
-During the duration of this stance: the enemy cannot eliminate the user's stance and kicks; the user can perform the kicks without consuming qi or stance
+During the duration of this Stance: the enemy cannot eliminate the user's Stance and kicks; the user can perform the kicks without consuming qi or Stance
 HU·Shake Mountain
 During the duration of this stance, whenever the user deals direct damage to the enemy, the enemy's stance and foot strength are lost.
 HU·Iron Bridge
@@ -2409,7 +2409,7 @@ HU·Lady Azure's Icesteps
 Enhanced evasion mitigation
 During the duration of this stance: the enemy's dodge will not be increased by any effect; all dodge-reducing feats and status effects suffered by the enemy are greatly increased
 HU·Luoshen's Riversteps
-Every time you retreat 1 distance with this stance, you will regain your energy and stance.
+Every time you retreat 1 distance with this Stance, you will regain your energy and Stance.
 HU·Feather Stance
 When retreating with this stance, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the more random parts of the enemy will be added to the breach, sealing points
 HU·Wooden Track
@@ -2460,7 +2460,7 @@ HU·Flying Head
 During the duration of this body method, when the distance between the enemy and me is not greater than 7, the user will not appear a new breach nor be closed acupuncture points
 HU·Rope Overhang
 Surrendering the enemy's momentum to restore
-Every time you move 1 distance with this stance, you apply a reduced benefit status to the enemy that reduces your Qi recovery and stance recovery.
+Every time you move 1 distance with this Stance, you apply a reduced benefit status to the enemy that reduces your Qi recovery and Stance recovery.
 HU·Hundred Feet's Drill
 Attrition of the enemy's bodywork
 During the duration of this stance, when the user is attacked by an enemy, the user will deal a swift hit to the enemy that decreases with the number of hits.
@@ -2497,7 +2497,7 @@ During the duration of this stance, when the user is attacked by an enemy, the u
 HU·Wind Fire Stance
 Whenever the user hits an enemy with a "knife" type weapon during the duration of this stance, the enemy's kick strength will be lost.
 HU·Drunk Lying In The East Sea
-If the user is drunk during the duration of this body technique, the user can perform the "Destroy" technique without the required Qi and stance, but the power of the technique will be reduced in proportion to the lack of Qi and stance.
+If the user is drunk during the duration of this body technique, the user can perform the "Destroy" technique without the required Qi and Stance, but the power of the technique will be reduced in proportion to the lack of Qi and Stance.
 HU·Fox Move
 When retreating with this stance, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 HU·Tomb Escape
@@ -2654,7 +2654,7 @@ At the beginning of the battle, the user gains 0 levels of this effect: every ti
 HU·Swordsmanship\nof Yinyang Reversed
 When attacking an enemy with this technique, if this technique can cause direct external injuries and the user's body break is lower than the enemy's imperial body, the user's broken qi is greatly increased and the user's direct internal injuries to the enemy are greatly increased
 HU·Origin\nSword Intent
-If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Qi or stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
+If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Qi or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
 HU·Ever-Changing\n14 Swordmanship
 When attacking an enemy with this technique, the user only hits with the highest of its power, subtlety, and swiftness, and only attacks with the highest of its body-breaking and qi-breaking power; after this technique has reached 10% of its power, the user gains 3 levels of this effect: when an enemy performs any "break" technique that consumes the "slash", "stab", or "ruffle" style, if the user can use the "slash", "stab", or "ruffle" style style, the user will immediately use the power of this technique to attack the enemy without any consumption of the same technique, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 HU·Tripping Spell
@@ -2745,7 +2745,7 @@ If the user's enthusiasm is at least 40, the chance of this technique hitting th
 HU·Heavy Sword of\nGreatTower
 If the user's enthusiasm and bravery are not less than 30, the user's body breakage will be greatly increased, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the body breakage of all "sword techniques" performed by the user will be increased.
 HU·7 Star\nSwordsmanship of DragonPool
-If the user's intelligence and perseverance are not less than 30, the user's energy and stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the energy and stance consumption of all "sword techniques" performed by the user will be reduced.
+If the user's intelligence and perseverance are not less than 30, the user's energy and Stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the energy and Stance consumption of all "sword techniques" performed by the user will be reduced.
 HU·Taier\nImmeasurable Sword
 If the user's fortitude and aptitude are not less than 30, the attack range of this technique will be greatly increased and the user will receive 2 levels of this effect after this technique has become 10% more powerful: the attack range of all "sword techniques" performed by the user will be increased.
 HU·Sword Intent\nof PureSoul
@@ -2763,7 +2763,7 @@ When you start to perform this technique, if the weapon used by the enemy is "xi
 HU·Blade of\nGhost Chef
 If the enemy's weapon is "Poisoned Sand" or "Poisoned Frost" when you start to perform this technique, the number of layers of direct damage dealt to the enemy by this technique increases according to the number of poison marks of the user, and the user gains 2 layers of this effect after this technique becomes 10% more powerful: the number of layers of direct damage dealt to the enemy by all "knife techniques" performed by the user increases according to the number of poison marks of the user.
 HU·Red Blade of\n7 End
-When this technique is performed, if the weapon used by the enemy is a "spike", "talisman" or "pestle", the user's energy and stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the energy and stance consumption for all "sword techniques" performed by the user will be reduced.
+When this technique is performed, if the weapon used by the enemy is a "spike", "talisman" or "pestle", the user's energy and Stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the energy and Stance consumption for all "sword techniques" performed by the user will be reduced.
 HU·Incomplete\nBlade
 When you start to perform this technique, if the weapon used by the enemy is a "concealed weapon", "machine" or "needle box", the attack range of this technique will be greatly increased, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the attack range of all "knife techniques" performed by the user will be increased.
 HU·The Last Blade\nof Minghong
@@ -2779,7 +2779,7 @@ If the user's Sensitivity and Perception are not less than 60, this technique wi
 HU·Staff of\nGold Eyes Tiger
 If the user's Strength and determination are not less than 60, this technique will immediately eliminate 3 helper orders from random enemy helpers when it is at 10% power, and the user will get 2 levels of this effect: all "Long Soldier" techniques performed by the user will eliminate 1 helper order from random enemy helpers when they are at 10% power
 HU·Staff of\nMystical Island
-If the user's root bone and enlightenment are not less than 60, the user's qi and stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will get 2 levels of this effect: the qi and stance consumption of all "Long Soldier" techniques performed by the user will be reduced.
+If the user's root bone and enlightenment are not less than 60, the user's qi and Stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will get 2 levels of this effect: the qi and Stance consumption of all "Long Soldier" techniques performed by the user will be reduced.
 HU·Divine Staff of\nOcean Carry
 If the user's Constitution, bone structure and determination are not lower than 50, this technique cannot be "interrupted", and after this technique exerts 10% of its power, the user gains 2 levels of this effect: all "Long Armament" techniques performed by the user are more difficult to be "interrupted".
 HU·Iron Staff of\nMixed Element
@@ -2956,7 +2956,7 @@ When this technique is used at 10% of its power, the power of the enemy's 3 "Woo
 HU·Ruyibaolun\nBlade
 After this technique has been used for 10% of its power, the user gains 2 levels of this effect: Whenever the user does not gain a reduced status because of this technique, the strength of the reduced status the user will gain is doubled and transferred to the enemy, and an opposite gain status is applied to the user
 HU·Blade of\n6 Mighty Powers
-If the user's "Aegis" true qi is lower than the initial value and lower than the enemy's "Aegis" true qi, this technique can be performed without consuming qi or stance, in this case, the power of this technique is greatly increased and the user gains 6 points of "Aegis" true qi at the end of this technique.
+If the user's "Aegis" true qi is lower than the initial value and lower than the enemy's "Aegis" true qi, this technique can be performed without consuming qi or Stance, in this case, the power of this technique is greatly increased and the user gains 6 points of "Aegis" true qi at the end of this technique.
 HU·Blade of\nMahakala
 During the process of performing this technique, all direct injuries sustained by the user will only take effect after the technique has been performed; after this technique has exerted 10% of its power, the internal injuries that will take effect by the user will not take effect, and the number of layers of internal injuries that will take effect by the user will be used to obtain this effect: when the user inflicts direct internal injuries on the enemy, a maximum of 3 layers of this effect will be consumed to increase the degree of the direct internal injuries inflicted, but if If the number of layers of this effect exceeds 9, the effect will also enhance the enemy's
 HU·Rock-Breaking\nPoke
@@ -2996,7 +2996,7 @@ The more cold poison markers the user has, the more internal injury markers will
 HU·Source Extinct\nHands
 The higher the power of this technique, the higher the chance of "interrupting" the technique being performed by the enemy, and the cumulative power of the interrupted technique will be reduced according to the power of this technique until the end of the battle.
 HU·Staggered\nFinger
-If the user's "Quick" True Qi is lower than the initial value and lower than the enemy's "Quick" True Qi, this technique can be performed without using up Qi or stance, in which case the power of this technique is greatly increased, and the user gains 6 points of "Quick" True Qi at the end of this technique.
+If the user's "Quick" True Qi is lower than the initial value and lower than the enemy's "Quick" True Qi, this technique can be performed without using up Qi or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of "Quick" True Qi at the end of this technique.
 HU·The Ultra One\nCrystal Finger
 Changing the air from imperial to broken
 During the process of performing this technique: most of the imperial qi of the user and the enemy changes to broken qi; all direct internal injuries suffered by the user will not exceed 2 levels of injury
@@ -3018,8 +3018,8 @@ When you start to perform this technique, the more "kill" styles the enemy has a
 HU·Divine Needle\nof Shadow-Stopped
 After this technique has been used for 10% of its power, the user gains 3 levels of this effect: Whenever an enemy gains the "kill" style, all of the enemy's body and Stamina will be lost.
 HU·Divine\nNone-Thought
-If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has been used at 10% of its power, the "concealed weapon" used to perform this technique will gain "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of the distance, without counter-attack and without recoil, whenever the enemy gains "killing" style before it is used by the user. When this "concealed weapon" is not used by the user, whenever the enemy obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without recoil, but the user will not obtain the style and stance as a result.
-Spirituality: When this "concealed weapon" is not used by the user, whenever the enemy gets the "kill" style, it will immediately attack the enemy on its own without distance, counterattack or shock, but the user will not get the style and stance for it.
+If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has been used at 10% of its power, the "concealed weapon" used to perform this technique will gain "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of the distance, without counter-attack and without recoil, whenever the enemy gains "killing" style before it is used by the user. When this "concealed weapon" is not used by the user, whenever the enemy obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without recoil, but the user will not obtain the style and Stance as a result.
+Spirituality: When this "concealed weapon" is not used by the user, whenever the enemy gets the "kill" style, it will immediately attack the enemy on its own without distance, counterattack or shock, but the user will not get the style and Stance for it.
 HU·Jieqing\nRapid Sword
 When this technique is at least 10% powerful, the enemy will get 1 "kill" style; when this technique is 10% powerful, there is a higher chance that the enemy will be attacked by this technique immediately without consumption from 50% of its progress.
 HU·Swordsmanship\nof Intercourse Breaking
@@ -3072,7 +3072,7 @@ When this technique is used at 10% of its power, the user transfers 1 non-old in
 HU·Lower Body Kick
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's head, the power of this technique increases and the progress of its execution at the beginning increases, and this effect accumulates up to 2 levels; when attacking female enemies with this technique, the power of this technique increases significantly
 HU·Conversely Kick\nof Toad
-After this technique has exerted at least 10% of its power, the user advances 2 distances, and if the user continues to perform this technique continuously, the stance and qi consumption of this technique will be greatly reduced cumulatively, up to 3 times
+After this technique has exerted at least 10% of its power, the user advances 2 distances, and if the user continues to perform this technique continuously, the Stance and qi consumption of this technique will be greatly reduced cumulatively, up to 3 times
 HU·Unpredictable\nKick
 Whenever the user accumulates 1 distance back, the power of this technique may increase or decrease, and continue until the user accumulates 1 distance back next time; after the performance of this technique, it will change from Heterodox practice to Orthodox practice
 HU·Scorpion's Soul\nHook Kick
@@ -3085,7 +3085,7 @@ When this technique is 10% powerful, the more poisonous markers the user has, th
 HU·Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements that can restrain the enemy's internal five elements are buried within the field of vision of the user, the more the power of this technique will increase
 HU·Blood Shadow\nKick
-If the user's Destructive Qi is lower than the initial value and lower than the enemy's Destructive Qi, this technique can be performed without the use of Qi or stance, in which case the power of this technique is greatly increased and the user gains 6 points of Destructive Qi at the end of the technique.
+If the user's Destructive Qi is lower than the initial value and lower than the enemy's Destructive Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user gains 6 points of Destructive Qi at the end of the technique.
 HU·Ghost Poison\nSand
 Change E·style
 When this technique is used at least 10% of its power, it will change up to 2 of the enemy's available stances into "poison" stances.
@@ -3256,7 +3256,7 @@ HU·12-String\nNeedles
 The more chances the user consumes, the more the power of this technique will increase; when this technique is at 10% of its power, every chance the user consumes will cause the enemy to lose 3 points of random type of true qi.
 HU·Cloud And Stream
 Increases qi consumption
-After this technique plays at least 10% of its power, the user gains 2 levels of this effect: the enemy needs to perform the technique's qi and stance are greatly increased
+After this technique plays at least 10% of its power, the user gains 2 levels of this effect: the enemy needs to perform the technique's qi and Stance are greatly increased
 HU·Home Forgetting
 Reduced enemy attack range
 When this technique is performed, the happier the enemy is, the more the power of this technique increases; when this technique is performed at 10% of its power, the range of the enemy's next "Break" technique is reduced according to how happy the enemy is; when this technique is finished, a special status that increases the enemy's mood is applied according to how much power this technique has performed
@@ -3279,7 +3279,7 @@ When this technique is used at least 10% of its power, the user gains 2 "take" s
 HU·Wudang Soft\nPalm
 When hitting the enemy with this technique, the enemy's protective gear cannot weaken the attack effect of the user; after this technique exerts at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's root bone to improve the user's body and qi.
 HU·The 8 Trigrams\nPalm
-At the beginning of the battle, the user gets 0 layers of this effect: for every 1 distance the user moves, this effect increases by 1 layer, up to 5 layers, the higher the number of layers of this effect, the less Qi and stance the user needs to consume when performing this technique, the more the user's unloading, dismantling and evasion will increase; after the end of this technique, this effect decreases by 1 layer
+At the beginning of the battle, the user gets 0 layers of this effect: for every 1 distance the user moves, this effect increases by 1 layer, up to 5 layers, the higher the number of layers of this effect, the less Qi and Stance the user needs to consume when performing this technique, the more the user's unloading, dismantling and evasion will increase; after the end of this technique, this effect decreases by 1 layer
 HU·The Ultra One\nUnfettered Palm
 The farther the user retreats, the more the power of this technique will increase. For every distance the user retreats, he/she will be able to gain 2 points of "Nadis" true qi.
 HU·Divine Fist
@@ -3379,7 +3379,7 @@ If the enemy is still within the attack range of the user, he/she will immediate
 HU·Heavenly Spirit\nBlade
 If the enemy's internal power attribute is "Water" when this technique is used at 10%, the direct damage caused by the user to the enemy will be increased by 3 levels.
 HU·Divine Blade\nof Mysterious
-Depending on the power of this technique and the amount of energy consumed by the user, the user will get up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be used instead of the stance consumption, and the more it is consumed, the more the enemy's body and energy will be reduced.
+Depending on the power of this technique and the amount of energy consumed by the user, the user will get up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be used instead of the Stance consumption, and the more it is consumed, the more the enemy's body and energy will be reduced.
 DIV
 Diversion
 Enemy lost part of skill power
@@ -3405,7 +3405,7 @@ Reduced poison repellent effect
 Insufficient quantity of herbs and reduced effect of repelling poison
 Activate Force
 Inhale·Stance Up
-Immediately brings the user's boost and stance to 100%.
+Immediately brings the user's boost and Stance to 100%.
 Internal Conflicted
 Self-Injured
 The properties of one's own internal energy and the properties of the Kung Fu method performed are conflicting and cause damage to oneself and disruption of internal breath
@@ -3428,7 +3428,7 @@ Worsen Int injuries
 It comes on when you consume Qi, and depending on the amount of toxin, it can cause up to 3 internal injuries to worsen.
 TA·Pyrotoxin
 Worsen Ext injuries
-When consuming the stance, it attacks, and depending on the amount of toxin derived from the rotten poison, it makes up to 3 external injuries worse
+When consuming the Stance, it attacks, and depending on the amount of toxin derived from the rotten poison, it makes up to 3 external injuries worse
 TA·Necrotoxin
 Negate Ext Heal
 It triggers in combat on healing External injury, which generates extra Acritoxin and reduces this healing effect
@@ -3479,7 +3479,7 @@ Whenever an enemy performs the "Orthodox training" technique, it makes the rando
 The·FN
 The Nine Tribes of the Fallen Heart continuously apply different types of "poison" to the enemy depending on the enemy's internal power attributes
 The·C
-According to the enemy's stance in the world: make the movement speed and steady pace of the righteous enemy drop significantly; make the weapon switching and attack speed of the benevolent enemy drop significantly; make the Qi lifting and recovery and stance recovery of the moderate enemy drop significantly; make the breath adjustment and exhalation and internal energy play of the rebellious enemy drop significantly; make the casting speed and Qi drawing and charging of the egoistic enemy drop significantly
+According to the enemy's Stance in the world: make the movement speed and steady pace of the righteous enemy drop significantly; make the weapon switching and attack speed of the benevolent enemy drop significantly; make the Qi lifting and recovery and Stance recovery of the moderate enemy drop significantly; make the breath adjustment and exhalation and internal energy play of the rebellious enemy drop significantly; make the casting speed and Qi drawing and charging of the egoistic enemy drop significantly
 God·S
 Divine Break Protector significantly reduces the enemy's body, aura, body and aura depending on the enemy's level of enchantment
 The·NL
@@ -3492,7 +3492,7 @@ Vanquish Evil！
 The first time Danyue Yaochang is defeated, he will enter a new stage of combat: every weapon attack of Danyue Yaochang can "interrupt" the enemy's ongoing feats
 Glacial Aura
 Glacial Vassal！
-When Jiu Han is defeated for the first time, it will enter a new stage of battle: as long as the enemy is within the range of Jiu Han's attack, the enemy's lift and stance cannot recover on their own
+When Jiu Han is defeated for the first time, it will enter a new stage of battle: as long as the enemy is within the range of Jiu Han's attack, the enemy's lift and Stance cannot recover on their own
 Seven Wenceslas
 Phoenix Cocoon！
 When Jin Huo'er is defeated for the first time, it will enter a new combat phase: all types of Jin Huo'er's True Qi will be continuously increased by 1 point at the same time; once all of Jin Huo'er's True Qi is 2 times or more than the enemy's corresponding type of True Qi, Jin Huo'er will be protected from all direct damage caused by the enemy
@@ -3563,7 +3563,7 @@ Undefeated
 Immunity from direct damage
 When defending with this divine power, Danyue Yao Chang is protected from all direct damage that would cause his part to reach 6 levels of injury
 Frost and Ice
-When defending with this divine power, whenever the enemy hits Jiuxian, the enemy's lift and stance will be reduced
+When defending with this divine power, whenever the enemy hits Jiuxian, the enemy's lift and Stance will be reduced
 Nine Pods
 Random assignment of injuries
 At the end of this divine defense, the wounds of Jin Huo'er's whole body will be randomly and equally distributed, and all wounds on the part assigned to the most wounds will be eliminated
@@ -3624,7 +3624,7 @@ Voodoo Iron to God!
 "Powerful Demon" can't be blocked; after Yenthenko calls for the Excalibur "Voodoo Iron", it is protected from "Repulse", "Close", "Block", "Interrupt", "Break" and "Seal" until Yenthenko calls for another Excalibur.
 Fortunate Heavenly Omen
 The blessing and the curse are two sides of the same coin!
-The "Fortunate Signs of Heaven" cannot be blocked; when the Dainty Duster calls forth the divine swords "Great Xuan Ning" and "Phoenix Cocoon", all of his Qi and stance will be restored immediately; thereafter, the Dainty Duster's Qi and stance will not be reduced for any reason until the Dainty Duster calls forth other divine swords. After that, the Dyeing Duster's qi and stance will not be reduced for any reason and will continue until the Dyeing Duster calls for another divine sword.
+The "Fortunate Signs of Heaven" cannot be blocked; when the Dainty Duster calls forth the divine swords "Great Xuan Ning" and "Phoenix Cocoon", all of his Qi and Stance will be restored immediately; thereafter, the Dainty Duster's Qi and Stance will not be reduced for any reason until the Dainty Duster calls forth other divine swords. After that, the Dyeing Duster's qi and Stance will not be reduced for any reason and will continue until the Dyeing Duster calls for another divine sword.
 Idiot
 Resentment arises from greed and anger!
 When the "Demon Child" cannot be blocked, all of the defeat markings of the divine swords "Burning God's Refinement", "Unleashing Dragon's Soul" and "Demon Wood" will be changed to defeat markings. When he calls out Excalibur "Burning God Refinery", "Unleashing Dragon Spirit" and "Imprisoning Demon Wood", all his defeat marks will be changed to "Loss of Spirit" immediately; thereafter, all the defeat marks he receives will be changed to "Loss of Spirit" and will last until he calls out other Excalibur.
@@ -3639,8 +3639,8 @@ lit. wear blood and hang flames
 Dragon whispering Por will not be sealed points, and the direct internal injuries suffered by a significant reduction, suffered by the direct external injuries increased significantly; Dragon whispering Por the more external injury markings on its body, the more the power of all its divine power will increase
 An inch into a dream
 Attrition of enemy action
-After this divine power exerts ten percent of its power, Mo Nui gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of its Stamina, stance, lift and stance
-After this divine power has been exerted at 10%, the user gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all Stamina, stance, lift and stance.
+After this divine power exerts ten percent of its power, Mo Nui gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of its Stamina, Stance, lift and Stance
+After this divine power has been exerted at 10%, the user gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all Stamina, Stance, lift and Stance.
 The Seven Waters of the Pond
 Continuing to cause poisoning
 If the enemy is within range of Mo's attack while this power is being applied: Mo causes the enemy to be continuously poisoned with 3 random types of poison
@@ -3648,8 +3648,8 @@ If the enemy is within the attack range of the user during the application of th
 Five-color warbler
 When she starts to use this power, MoM gains 6 levels of this effect: Whenever an enemy attacks MoM with a weapon, MoM immediately makes 2 weapon attacks on the enemy; when she attacks an enemy with this power, MoM consumes all the remaining levels of this effect to increase the power of this power
 broken hearted dream
-After this divine power exerts ten percent of its power, Mo Nui gains 6 levels of this effect: Whenever an enemy accumulates 2 distance of movement, the enemy loses all of its Stamina, stance, lift and stance
-After this divine power has been exerted to 10%, the user gains 6 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of his kicks, stance, lift, and stance.
+After this divine power exerts ten percent of its power, Mo Nui gains 6 levels of this effect: Whenever an enemy accumulates 2 distance of movement, the enemy loses all of its Stamina, Stance, lift and Stance
+After this divine power has been exerted to 10%, the user gains 6 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of his kicks, Stance, lift, and Stance.
 Xuan Tan Ghost Poison
 If the enemy is within the range of Mo's attack while this divine power is being applied: Mo causes the enemy to suffer 6 different types of poison continuously
 If the enemy is within the attack range of the wielder during the application of this power: the wielder causes the enemy to suffer 6 different types of poison continuously
@@ -3657,8 +3657,8 @@ Chaotic colored warbler
 When she starts to use this power, MoM gains 6 levels of this effect: Whenever an enemy attacks MoM with a weapon, MoM immediately makes 4 weapon attacks on the enemy; when she attacks an enemy with this power, MoM consumes all the remaining levels of this effect to significantly increase the power of this power
 Break the demonic filth
 Continuously causing wear and tear
-During the process of exercising this divine power, if the enemy is within the attack range of Dayue Yao Chang, constantly lose the enemy's stance, Stamina, Qi lifting and stance
-During the process of exercising this divine power, if the enemy is within the attack range of the applicator, the enemy's stance, kick, lift and stance will be continuously lost
+During the process of exercising this divine power, if the enemy is within the attack range of Dayue Yao Chang, constantly lose the enemy's Stance, Stamina, Qi lifting and Stance
+During the process of exercising this divine power, if the enemy is within the attack range of the applicator, the enemy's Stance, kick, lift and Stance will be continuously lost
 Exterminate the three cuts
 Automatic application of divine power
 At the end of this power, the power of this power increases cumulatively and lasts until the end of the battle, and Da Yue Yao Chang can repeat this power 2 times and attack the enemy with 40% power from 50% of the progress of the power without consumption
@@ -3838,7 +3838,7 @@ Fate - Infernal
 When attacking the enemy with this power, Zi Wu Xiang consumes all the effect layers of "Ninety Nine Life Creation" to greatly increase the power of this power; if Zi Wu Xiang has the effect layers of "San San Spirit Transformation" when this power is at ten percent of its power, Zi Wu Xiang immediately performs it without consumption "Spirit Scattering - Heaven, Earth, and Human" to attack the enemy, otherwise all the wounds of the enemy will be worsened by 2 levels.
 pecking at the pinnacle of a red phoenix
 Rapid application of divine power
-When you start to perform this power, Dragon Speak Por will cause 1 level of external injury to each of your arm parts with a external injury level lower than 4, and accordingly: increase the progress of this power; restore the energy and stance consumed by performing this power
+When you start to perform this power, Dragon Speak Por will cause 1 level of external injury to each of your arm parts with a external injury level lower than 4, and accordingly: increase the progress of this power; restore the energy and Stance consumed by performing this power
 Red Geibik contending clothes
 Seize the power of the enemy
 When you start to perform this divine power, Dragon Speak Por deals 1 level of external injury to each of your own leg and foot parts with a external injury level below 4, and accordingly: transfer the continuously enhanced power of multiple feats suffered by the enemy to the power enhancement of this divine power, lasting until the end of the battle
@@ -3846,7 +3846,7 @@ Fire Dragon Burning Heart
 Destroy the enemy's Break
 When this power starts to work, Dragon Speak Por inflicts 1 level of external injury to his neck area with a external injury level below 4, randomly changes the number of levels of the enemy's 3 "Destroy" feats to the lower limit, and causes the enemy to take the backlash damage from these "Destroy" feats
 Fire pistil kills proud phoenix
-This power is not limited by the part of the crippled; if the dragon language Por any arm part of the external injury reached 4 levels: when you start to cast this power, this power from 100% progress, and restore all the power to cast this power consumed Qi, stance; during the process of casting this power, the enemy's arms as crippled
+This power is not limited by the part of the crippled; if the dragon language Por any arm part of the external injury reached 4 levels: when you start to cast this power, this power from 100% progress, and restore all the power to cast this power consumed Qi, Stance; during the process of casting this power, the enemy's arms as crippled
 Geibi in Red
 The exercise of this power is not subject to the limitations of the parts of the crippled; if the external injury of any part of the legs and feet of the dragon language Por reached 4 levels: when you start to exercise this power, the enemy will be subject to all feats of continuous enhancement of the power of this power to enhance the power of this power, lasting until the end of the battle; during the exercise of this power, the enemy's legs as crippled
 red heart deters the demon dragon
@@ -3868,7 +3868,7 @@ Three Swords - Voodoo Iron
 Attrition of the enemy
 Dayue Yao Chang - Solution
 Dayue Yao Chang - robbery
-When you start to perform this divine power, if the enemy is within the range of Dyeing Dusty's attack, all of the enemy's stance, kick, lift and stance will be lost.
+When you start to perform this divine power, if the enemy is within the range of Dyeing Dusty's attack, all of the enemy's Stance, kick, lift and Stance will be lost.
 When Da Yue Yao Chang completes the chapter of the solution, when Dyeing Dust Son starts to perform this divine power, all the enemy's weaknesses are eliminated
 Da Yue Yao Chang completed the chapter of robbery, dyeing dust son began to cast this divine power when the enemy appeared 1 level 4 breakage
 Four-Five Swords
