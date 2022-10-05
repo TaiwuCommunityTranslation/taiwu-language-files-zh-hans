@@ -962,7 +962,7 @@ Ever-Changing\n14 Swordmanship
 Cast E·Skill
 When attacking an enemy with this technique, the enemy will only use the lowest of its Discharge, Dismantle, and Dodge to defuse, and the lowest of its Body and Qi to defend; after this technique has reached 10% of its power, the user gains 3 levels of this effect: if the enemy performs any "Destroy" technique that consumes the "Cleave", "Thrust", or "Tease" styles, if the user is able to use the "Cleave", "Thrust", or "Tease" styles If the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 Tripping Spell
-When this spell exerts ten percent of its power, the enemy's body and foot strength will be greatly depleted.
+When this spell exerts ten percent of its power, the enemy's body and Stamina will be greatly depleted.
 Disable
 Blocking the Break of the enemy
 When this spell is used at 10% of its power, one of the enemy's "Break" techniques that is not permanently blocked will be "blocked" for a long time; the power of the "blocked" technique will be greatly reduced and will last until the enemy finishes performing it; after this spell is cast, it will inevitably be temporarily "blocked".
@@ -1123,8 +1123,8 @@ Dragon-Defeated\nStaff
 If the weapon used by the user is the "Dragon Subduing Stick", this technique reduces the enemy's chance of attacking when it is 10% powerful, and the "Dragon Subduing Stick" is unblocked, this long weapon can reduce the enemy's chance of attacking when all "long weapon" techniques are 10% powerful. It lasts until the other weapons are unblocked or the battle is over.
 Unblocked: This long weapon enables all "long weapon" techniques to reduce the enemy's chance of attacking when they are 10% more powerful
 Staff of\nSweep Cloud
-If the weapon used by the user is the "Sweeping Harvest Stick", this technique loses the enemy's body and foot strength when it is used at 10% of its power, and the "Sweeping Harvest Stick" is unblocked, this long weapon enables all "long weapon" techniques to lose the enemy's body and foot strength when it is used at 10% of its power. It lasts until the other weapons are unblocked or the battle is over.
-Unblocked: This long weapon can make all the "long weapon" techniques lose the enemy's body and foot strength when they exert ten percent of their power
+If the weapon used by the user is the "Sweeping Harvest Stick", this technique loses the enemy's body and Stamina when it is used at 10% of its power, and the "Sweeping Harvest Stick" is unblocked, this long weapon enables all "long weapon" techniques to lose the enemy's body and Stamina when it is used at 10% of its power. It lasts until the other weapons are unblocked or the battle is over.
+Unblocked: This long weapon can make all the "long weapon" techniques lose the enemy's body and Stamina when they exert ten percent of their power
 Staff of\n10 Directions
 If the weapon used by the wielder is the "Shaking Mountain and River Staff", and this technique "interrupts" the enemy's healing, poison expulsion, or escape when it is at 10% power, and the "Shaking Mountain and River Staff" is unblocked, this long weapon enables all "long weapon" techniques to "interrupt" the enemy's healing, poison expulsion, or escape when they are at 10% power. "Interrupt" the enemy's healing, poison expulsion, and escape until the other weapons are unblocked or the battle is over
 Unblocked: This long weapon can "interrupt" enemy's healing, poison repelling, and escape when all "long weapon" techniques are at 10% power
@@ -1239,7 +1239,7 @@ When attacking the enemy with this technique, this technique will directly attac
 After this technique has been used for 10% of its power, the user gains 2 levels of this effect: the "Long Whip" technique performed by the user is transformed from Heterodox practice to Orthodox practice, and the power of the transformed Heterodox practice "Long Whip" technique is greatly increased
 Bone-Breaking\nWhip
 Dreadlord's\nMetallic Whip
-When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at 10% of its power, all the enemy's body and foot strength are eliminated and the enemy is knocked back by 6 distance
+When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at 10% of its power, all the enemy's body and Stamina are eliminated and the enemy is knocked back by 6 distance
 Jade Breaking
 Foot power instead of stance
 The strength of the user's feet can replace the stance when the stance is not enough to perform this technique, so the user can move and attack with weapons during the performance of this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
@@ -1402,7 +1402,7 @@ If the user has any effects that will take effect because the user gains a "kill
 Throw\nTweet-Dragon
 When you start to perform this technique, the more "kill" styles the user has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the "kill" styles the user has arranged together, which greatly increases the degree of direct damage caused by this technique to the enemy
 Divine Needle\nof Shadow-Stopped
-After this technique has been used for 10% of its power, the user gains 3 levels of this effect: Whenever the user gains the "kill" style, all the enemy's body and foot strength will be lost.
+After this technique has been used for 10% of its power, the user gains 3 levels of this effect: Whenever the user gains the "kill" style, all the enemy's body and Stamina will be lost.
 Divine\nNone-Thought
 Concealed weapons gain spirituality
 Dark weapon auto attack
@@ -2658,7 +2658,7 @@ If the user's Nadis Qi is lower than the initial value and lower than the enemy'
 HU·Ever-Changing\n14 Swordmanship
 When attacking an enemy with this technique, the user only hits with the highest of its power, subtlety, and swiftness, and only attacks with the highest of its body-breaking and qi-breaking power; after this technique has reached 10% of its power, the user gains 3 levels of this effect: when an enemy performs any "break" technique that consumes the "slash", "stab", or "ruffle" style, if the user can use the "slash", "stab", or "ruffle" style style, the user will immediately use the power of this technique to attack the enemy without any consumption of the same technique, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 HU·Tripping Spell
-When this spell is used at ten percent of its power, it can greatly restore the user's body and foot strength.
+When this spell is used at ten percent of its power, it can greatly restore the user's body and Stamina.
 HU·Disable
 When this spell is used at 10% of its power, it will cause the enemy's 2 "Break" techniques that are not permanently blocked to be "blocked" for a short period of time; the power of the blocked techniques will be reduced and will last until the enemy finishes performing them; after this spell is cast, it will inevitably be temporarily "blocked".
 HU·Shocking Spell
@@ -2771,7 +2771,7 @@ When you start to perform this technique, if the enemy's weapon is "sword", the 
 HU·Dragon-Defeated\nStaff
 If the user's Strength does not fall below 70, this technique reduces the enemy's chance of attacking when it exerts 10% of its power, and the user gains 2 levels of this effect: all "Long Soldier" techniques performed by the user reduce the enemy's chance of attacking when it exerts 10% of its power
 HU·Staff of\nSweep Cloud
-If the user's agility is not less than 70, this technique loses the enemy's body and foot strength when it is used at 10% of its power, and the user gains 2 levels of this effect: all "Long Soldier" techniques performed by the user lose the enemy's body and foot strength when they are used at 10% of their power.
+If the user's agility is not less than 70, this technique loses the enemy's body and Stamina when it is used at 10% of its power, and the user gains 2 levels of this effect: all "Long Soldier" techniques performed by the user lose the enemy's body and Stamina when they are used at 10% of their power.
 HU·Staff of\n10 Directions
 If the user's constitution is not less than 70, this technique will "interrupt" the enemy's healing, poison expulsion, and escape when it reaches 10% of its power, and the user will gain 2 levels of this effect: all "Long Soldier" techniques performed by the user will "interrupt" the enemy's healing, poison expulsion, and escape when it reaches 10% of its power
 HU·Staff of\nGhost Head
@@ -2865,7 +2865,7 @@ HU·5 Divine Whip
 After this technique has been used for 10% of its power, the user gains 2 levels of this effect: the "Long Whip" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Long Whip" technique is greatly increased.
 HU·Bone-Breaking\nWhip
 HU·Dreadlord's\nMetallic Whip
-When attacking the enemy with this technique: the armor breaking of the user is greatly increased; when this technique exerts ten percent of its power, it eliminates all the enemy's body and foot strength and brings the enemy closer by 6 distance
+When attacking the enemy with this technique: the armor breaking of the user is greatly increased; when this technique exerts ten percent of its power, it eliminates all the enemy's body and Stamina and brings the enemy closer by 6 distance
 HU·Jade Breaking
 Foot power instead of lifting
 The strength of the user's feet can be used up in place of Qi when Qi is not enough to perform this technique, so the user can move and attack with weapons during the performance of this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique increases.
@@ -2895,7 +2895,7 @@ If the enemy's internal power attribute is "Metal" when this technique is used a
 HU·Great Jade Yang\nFist
 When you start to perform this technique, the more the number of levels of the enemy's "Break" technique's lasting effect is close to its lower limit, the more the power of this technique increases.
 HU·Dragon Palm
-After this kung fu technique has reached 10% of its power, the user gains 3 levels of this effect: all counter training "fist and palm" kung fu techniques performed by the user are changed into this kung fu technique, and the power of the changed kung fu techniques is greatly increased according to the power of this kung fu technique, which lasts until the end of the battle; the counter training effect of the changed kung fu technique temporarily changes to: "When this kung fu technique reaches 10% of its power, the enemy's "Aegis" is removed. kung fu and all body and foot strength"
+After this kung fu technique has reached 10% of its power, the user gains 3 levels of this effect: all counter training "fist and palm" kung fu techniques performed by the user are changed into this kung fu technique, and the power of the changed kung fu techniques is greatly increased according to the power of this kung fu technique, which lasts until the end of the battle; the counter training effect of the changed kung fu technique temporarily changes to: "When this kung fu technique reaches 10% of its power, the enemy's "Aegis" is removed. kung fu and all body and Stamina"
 HU·Flying Sand
 When this technique is used at 10% of its power, for every 3 throws the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 HU·Thunder Fire
@@ -3016,7 +3016,7 @@ When this technique is used at 10% of its power, if the user has any effects tha
 HU·Throw\nTweet-Dragon
 When you start to perform this technique, the more "kill" styles the enemy has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the enemy's arranged "kill" styles and greatly increase the degree of direct damage caused by this technique to the enemy
 HU·Divine Needle\nof Shadow-Stopped
-After this technique has been used for 10% of its power, the user gains 3 levels of this effect: Whenever an enemy gains the "kill" style, all of the enemy's body and foot strength will be lost.
+After this technique has been used for 10% of its power, the user gains 3 levels of this effect: Whenever an enemy gains the "kill" style, all of the enemy's body and Stamina will be lost.
 HU·Divine\nNone-Thought
 If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has been used at 10% of its power, the "concealed weapon" used to perform this technique will gain "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of the distance, without counter-attack and without recoil, whenever the enemy gains "killing" style before it is used by the user. When this "concealed weapon" is not used by the user, whenever the enemy obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without recoil, but the user will not obtain the style and stance as a result.
 Spirituality: When this "concealed weapon" is not used by the user, whenever the enemy gets the "kill" style, it will immediately attack the enemy on its own without distance, counterattack or shock, but the user will not get the style and stance for it.
@@ -3529,7 +3529,7 @@ When you move with this divine power, MoM needs to accumulate power, the more po
 Evil and Rebellion
 When moving with this divine power, Dayue Yaochang needs to accumulate power to move 3 distances at once, and then completely eliminate the 3 effects of the enemy's continuous enhancement of the power of feats received in this battle
 Chapters on Ice
-During the duration of this divine power, as long as the enemy moves within the range of Jiu Han's attack, the enemy's foot strength and stance consumption will be greatly increased
+During the duration of this divine power, as long as the enemy moves within the range of Jiu Han's attack, the enemy's Stamina and stance consumption will be greatly increased
 Six Elephants
 Freedom from effects
 During the duration of this power, Jin Huo'er is protected from "Repulse", "Draw Close", "Block", "Interrupt", "Break", and "Block Point".
@@ -3657,7 +3657,7 @@ Chaotic colored warbler
 When she starts to use this power, MoM gains 6 levels of this effect: Whenever an enemy attacks MoM with a weapon, MoM immediately makes 4 weapon attacks on the enemy; when she attacks an enemy with this power, MoM consumes all the remaining levels of this effect to significantly increase the power of this power
 Break the demonic filth
 Continuously causing wear and tear
-During the process of exercising this divine power, if the enemy is within the attack range of Dayue Yao Chang, constantly lose the enemy's stance, foot strength, Qi lifting and stance
+During the process of exercising this divine power, if the enemy is within the attack range of Dayue Yao Chang, constantly lose the enemy's stance, Stamina, Qi lifting and stance
 During the process of exercising this divine power, if the enemy is within the attack range of the applicator, the enemy's stance, kick, lift and stance will be continuously lost
 Exterminate the three cuts
 Automatic application of divine power
@@ -3697,16 +3697,16 @@ Continuously causing breakdowns
 At the end of this divine power, Jin Huo'er gains 18 levels of this effect: the enemy continues to have 1 break; for every break in the enemy due to this effect, the number of levels of this effect is reduced by 1
 Red Feather Breaks the Sky
 Repel and damage the enemy
-When this divine power exerts ten percent of its power, the golden phoenixer knocks the enemy back 6 distance, and if the distance between the enemy and the enemy's maximum distance is less than 6, loses all of the enemy's body and foot strength, and inflicts 3 layers of old wounds that are more difficult to recover from in random parts of the enemy
-When this divine power exerts ten percent of its power, the user will knock the enemy back 6 distance, and if the distance between the enemy and the maximum distance between the enemy and us is less than 6, all the enemy's body and foot strength will be lost and 3 layers of old wounds that are more difficult to recover will be inflicted on the enemy in random parts
+When this divine power exerts ten percent of its power, the golden phoenixer knocks the enemy back 6 distance, and if the distance between the enemy and the enemy's maximum distance is less than 6, loses all of the enemy's body and Stamina, and inflicts 3 layers of old wounds that are more difficult to recover from in random parts of the enemy
+When this divine power exerts ten percent of its power, the user will knock the enemy back 6 distance, and if the distance between the enemy and the maximum distance between the enemy and us is less than 6, all the enemy's body and Stamina will be lost and 3 layers of old wounds that are more difficult to recover will be inflicted on the enemy in random parts
 Goodness HeShi
 At the end of this divine power, Golden Phoenix gains 6 levels of effect: Golden Phoenix's weapon attacks will repeat 4 times
 At the end of this power, the user gains 6 levels of effect: the user's weapon attack will be repeated 4 times.
 The phoenix leads the nine daughters
 At the end of this power, Jin Huo'er gains 18 levels of this effect: the enemy will continue to have 2 weaknesses; every time the enemy has a weakness due to this effect, the number of levels of this effect is reduced by 1
 Golden Plume Breaks the Sky
-When this divine power exerts ten percent of its power, the golden phoenixer knocks the enemy back 6 distance, and if the distance between the enemy and the enemy's maximum distance is less than 6, loses all the enemy's body and foot strength, and inflicts 6 layers of old wounds that are more difficult to recover from in random areas on the enemy
-When this divine power exerts ten percent of its power, the person using it knocks the enemy back 6 distance, and if the distance between the enemy and the maximum distance between the enemy and us is less than 6, loses all the enemy's body and foot strength, and inflicts 6 layers of old wounds on the enemy in random parts that are harder to recover from
+When this divine power exerts ten percent of its power, the golden phoenixer knocks the enemy back 6 distance, and if the distance between the enemy and the enemy's maximum distance is less than 6, loses all the enemy's body and Stamina, and inflicts 6 layers of old wounds that are more difficult to recover from in random areas on the enemy
+When this divine power exerts ten percent of its power, the person using it knocks the enemy back 6 distance, and if the distance between the enemy and the maximum distance between the enemy and us is less than 6, loses all the enemy's body and Stamina, and inflicts 6 layers of old wounds on the enemy in random parts that are harder to recover from
 fox hunting
 During the process of exercising this power, Yihou can move; when he starts to exercise this power, if the enemy has a character who loves or hates each other, Yihou adds 3 "no" forms to the enemy; when this power is 10% powerful, Yihou adds 3 "no" forms to the enemy
 When this power is exercised, the user can move; if the enemy has a character who loves or hates each other at the beginning of the power, the user adds 3 "None" to the enemy; when this power is 10% powerful, the user adds 3 "None" to the enemy
