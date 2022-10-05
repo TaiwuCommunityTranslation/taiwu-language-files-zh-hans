@@ -848,7 +848,7 @@ When you start to perform this technique, the greater the maximum attack distanc
 Enhance Buff
 Increase the strength of 1 gain status on the user according to the power of this technique
 General's\n16 Spear
-When you start to perform this technique, the more physique the user has not consumed, the more the power of this technique will increase
+When you start to perform this technique, the more Constitution the user has not consumed, the more the power of this technique will increase
 Spear of\nUniverse
 In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique will increase, and the user can gain 2 points of "Aegis" true qi for every 1 distance.
 Spear of\nMountain-Shaking Beasts
@@ -1258,7 +1258,7 @@ Drunk\n8 Immortals Fist
 After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the user attacks the enemy with a weapon, the enemy can only use the lowest one of unloading, dismantling, dodging, and guarding; if the user is drunk, when the user attacks the enemy with a weapon, the lowest one of the enemy will be reduced.
 Refining\nFire Palm
 Ignore E·Armor
-When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's physique and increases the user's body breaking and qi breaking
+When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Constitution and increases the user's body breaking and qi breaking
 Crazy Drunk Fist
 When this technique is at 10% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disturbed the user's internal breath is, the higher the external injury caused by this technique; if the user is drunk, the chance of performing this technique again increases significantly
 Great Colorful\nPalm
@@ -2558,7 +2558,7 @@ When you start to perform this technique, the smaller the minimum attack distanc
 HU·8 Mother's\nSpear of Lion Phase
 Reduces the strength of one of the impairment statuses on the user according to the power of the technique.
 HU·General's\n16 Spear
-When you start to perform this technique, the more physique the user has consumed, the more the power of this technique will increase
+When you start to perform this technique, the more Constitution the user has consumed, the more the power of this technique will increase
 HU·Spear of\nUniverse
 The farther the user retreats, the more the power of this technique increases. For every distance the user retreats, he can gain 2 points of "Aegis" true qi.
 HU·Spear of\nMountain-Shaking Beasts
@@ -2781,9 +2781,9 @@ If the user's Strength and determination are not less than 60, this technique wi
 HU·Staff of\nMystical Island
 If the user's root bone and enlightenment are not less than 60, the user's qi and stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will get 2 levels of this effect: the qi and stance consumption of all "Long Soldier" techniques performed by the user will be reduced.
 HU·Divine Staff of\nOcean Carry
-If the user's physique, bone structure and determination are not lower than 50, this technique cannot be "interrupted", and after this technique exerts 10% of its power, the user gains 2 levels of this effect: all "Long Armament" techniques performed by the user are more difficult to be "interrupted".
+If the user's Constitution, bone structure and determination are not lower than 50, this technique cannot be "interrupted", and after this technique exerts 10% of its power, the user gains 2 levels of this effect: all "Long Armament" techniques performed by the user are more difficult to be "interrupted".
 HU·Iron Staff of\nMixed Element
-If the strength, agility, physique, bone structure, determination, and enlightenment of the user are not less than 40, the power of this technique will be greatly increased, and after this technique has become 10% powerful, the user will gain 2 levels of this effect: the power of all "Long Soldier" techniques performed by the user will be increased.
+If the strength, agility, Constitution, bone structure, determination, and enlightenment of the user are not less than 40, the power of this technique will be greatly increased, and after this technique has become 10% powerful, the user will gain 2 levels of this effect: the power of all "Long Soldier" techniques performed by the user will be increased.
 HU·Mechanic\nSwallow
 Reduction of storage type consumption
 When this technique is at least 10% of its power, the user gains 6 levels of this effect: when the user loses a "machine" style, there is a higher chance of losing 1 less "machine" style.
@@ -2882,7 +2882,7 @@ HU·Drunk\n8 Immortals Fist
 After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the enemy attacks the user with a weapon, the enemy can only hit with the lowest of force, subtlety, swiftness and motivation; if the user is drunk, when the enemy attacks the user with a weapon, the lowest of the enemy's hits will be reduced.
 HU·Refining\nFire Palm
 Improve your defense
-When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the attack of the user; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's physique and improves the user's body and qi control.
+When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the attack of the user; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Constitution and improves the user's body and qi control.
 HU·Crazy Drunk Fist
 Increase direct internal injuries
 When this technique is at 10% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disordered the user's internal breath is, the higher the direct internal injury caused by this technique; if the user is drunk, the chance of performing this technique again is greatly increased
