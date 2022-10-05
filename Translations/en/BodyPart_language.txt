@@ -4,8 +4,8 @@ AcuPt on <color=#darkbrown>Chest and Back</color> is inactivated, inhale speed i
 (Chest and Back-Scratch, Chest and Back-Bleeding, Chest and Back-Fracture)
 (Chest and Back-Bruises, Chest and Back-AcuPt Inactivation, Chest and Back-Broken Meridian)
 Waist
-On a successful Style Change to <color=#darkbrown>Waist</color>, the enemy's stance progress is reduced by <color=#white>20</color>!
-AcuPt on <color=#darkbrown>Waist</color> is inactivated, stance speed is reduced by <color=#white>25</color>！
+On a successful Style Change to <color=#darkbrown>Waist</color>, the enemy's Stance progress is reduced by <color=#white>20</color>!
+AcuPt on <color=#darkbrown>Waist</color> is inactivated, Stance speed is reduced by <color=#white>25</color>！
 (Waist-Scratch, Waist-Bleeding, Waist-Spilled Guts)
 (Waist-Bruises, Waist-AcuPt Inactivation, Waist-Broken Meridian)
 Head
