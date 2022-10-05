@@ -1,199 +1,199 @@
 Early February
-建正之月，斗柄回寅。\n部分地点的「金石」、「玉石」资源有一定程度的恢复。
+The bucket handle returned to Yin. Metal and Jade resources in some locations in \n have recovered to some extent.
 Early March
-建卯之月，阳和布气。\n部分地点的「食物」、「木材」、「药材」资源有一定程度的恢复。
+In the month of Jian Mao, Yang and Bu Qi. The resources of 'food', 'wood' and 'medicinal herbs' in \n some locations have recovered to some extent.
 Early April
-建辰之月，斗柄东指。\n部分地点的「食物」、「木材」、「药材」资源有一定程度的恢复。
+In the month of Jianchen, the bucket handle points east. \nSome locations have some degree of recovery of "food", "wood" and "medicinal herbs" resources.
 Early May
-建巳之月，草木舒荣。\n部分地点的「食物」、「木材」、「药材」资源有一定程度的恢复。
+In the month of Jian Si, the grass and trees are in full bloom. \Food", "wood" and "medicinal herbs" resources in some locations have recovered to some extent.
 Early June
-建午之月，秧稻初齐。\n部分地点的「食物」、「木材」、「织物」资源有一定程度的恢复。
+In the month of Jianwu, the rice seedlings are firstly gathered. \Food", "wood" and "fabric" resources in some places have recovered to some extent.
 Early July
-建未之月，斗柄南指。\n部分地点的「食物、「木材」、「织物」资源有一定程度的恢复。
+In the month of Jianwei, the bucket handle points south. \nSome locations have some degree of recovery of "food," "wood," and "fabric" resources.
 Early August
-建申之月，蝉鸣嘒嘒。\n部分地点的「食物」、「木材」、「织物」资源有一定程度的恢复。
+In the month of Jian Shen, the cicadas are shrill. \nResources of "food", "wood" and "fabric" in some locations have recovered to some extent.
 Early September
-建酉之月，商星西流。\n部分地点的「食物」、「木材」、「织物」、「药材」资源有一定程度的恢复。
+In the month of Jian You, the star of Shang flows westward. \n Some locations have recovered their "food", "wood", "fabric" and "medicinal" resources to some extent.
 Early October
-建戌之月，斗柄西指。\n部分地点的「食物」、「木材」、「织物」、「药材」资源有一定程度的恢复。
+In the month of Jianxu, the bucket handle points west. The resources of "food", "wood", "fabric" and "medicinal herbs" in \n some locations have recovered to some extent.
 Early November
-建亥之月，柳衰谷秀。\n部分地点的「金石」、「织物」资源有一定程度的恢复。
+In the month of Jianhai, the willow declines and the valley shows. \The resources of "gold and stone" and "fabric" in some locations have recovered to some extent.
 Early December
-建子之月，万物收藏。\n部分地点的「金石」资源有一定程度的恢复。
+In the month of Kenshi, all things are collected. \n Some locations have a certain degree of recovery of "gold stone" resources.
 Early January
-建丑之月，斗柄北指。\n部分地点的「金石」资源有一定程度的恢复。
-坟墓消失
-{0}的坟墓因为长时间未被打理，彻底损毁消失了。
-巢穴收入
-{0}在{1}代{2}收取了{3}的的供奉……
+In the month of Jian Chou, the bucket handle points north. \n Some locations have a certain degree of recovery of "gold stone" resources.
+Graves Disappear
+The grave of {0} was completely damaged and disappeared because it had not been taken care of for a long time.
+Lair income
+{0} received the offerings of {3} at {1} on behalf of {2} ......
 Item Lost
-由于存放了过多的物品，导致仓库中的{0}不慎遗失…
+The {0} in the warehouse was lost due to exceeding the storage limit.
 Assassination
-{0}在{1}因遭到界青门的暗杀而死…
-无影夺命
-{0}在{1}因手持无影令遭到界青门的暗杀而死…
+{0} has been assassinated in {1} by JieQing Gate...
+No Shadow to Kill
+{0} died in {1} after being assassinated by the JieQing Gate for holding the Shadow Command...
 The Great Divide
-{0}在{1}离开了人世。
+{0} departed from this life in {1}
 Enthralled by XiangShu
-{0}在{1}被相枢的邪念干扰，不能自己。
+{0} in {1} has been disturbed by XiangShu's evil thoughts and cannot be themselves.
 Possessed by XiangShu
-{0}在{1}屈服于相枢的邪念，终于堕入魔道，化身为相枢座下恶鬼。
-结下仇怨
-{0}在{1}因被{2}监禁，对{2}心生怨恨……
-逃脱关押
-{0}在{1}摆脱了{2}的监禁逃走了……
-促织寿终
-一只{0}寿终正寝了……
-资源溢出
-由于携带了过多的资源，导致{0}行囊中的部分{1}不慎遗失…
-由于携带了过多的物品，导致{0}行囊中的{1}不慎遗失…
+{0} in {1} has succumbed to the corruption of XiangShu and has become possessed.
+Build up a Feud
+{0} in {1} has been been imprisoned by {2} and resentful of {2}...
+Prison Escape
+{0} escaped from {2}'s imprisonment in { 1}...
+Cricket Died
+{0} has perished.
+Resource Overflow
+Resources are over-capacity, causing the loss of {0} in {1}
+Resources are over-capacity, causing the loss of {0} in {1}
 Enmity Bred
-{0}在{1}对{2}怀恨在心，结下了莫名的仇怨。
+{0} has become enemies with {2} in { 1}
 Rancor Melted
-{0}在{1}化解了对{2}的仇恨，不再视其为敌人了。
-表白成功
-{0}在{1}对{2}倾情相待，终于打动对方，两人互生爱慕之情。
-Lamentable Parting
-{0}在{1}与{2}断绝了彼此的情爱。只叹：此情可待成追忆，只是当时已惘然……
-共结连理
-{0}在{1}与{2}互许终生，结为夫妻。
+{0} dissolved their hatred for {2} in {1} and are no longer enemies.
+Confession Successful
+In {1}, {0} confessed to {2} and finally impressed each other, the two have mutual love and affection.
+Couple Broken Up
+In {1}, {0} and {2} have broken up.
+Couple Married
+In {1}, {0} and { 2} promised to each other for life and were married.
 Congeniality
-{0}在{1}与{2}相谈甚欢，均觉莫逆于心，于是结为知己好友。
+{0} and {2} in {1} had a good conversation and both felt very close to each other, so they became close friends.
 Estrangement
-{0}在{1}与{2}产生隔阂。二人不复往日友谊，最终难免行同陌路。
-义结金兰
-{0}在{1}与{2}八拜结义，不求同年同月同日生，但求同年同月同日死。
+The {0} and {2} are separated in {1}. The two drifted apart and are no longer close friends.
+New Sworn-Siblings
+In {1}, {0} and {2} became sworn-siblings, not seeking the same year and the same month and the same day, but seeking the same year and the same month and the same day to die.
 Fraternal Rupture
-{0}在{1}与{2}割袍断义，再不复结义之情，所谓：不及黄泉，无相见也。
-收养义子
-{0}在{1}收养了{2}为义子。
-收养义女
-{0}在{1}收养了{2}为义女。
-拜认义父
-{0}在{1}拜认了{2}为义父。
-拜认义母
-{0}在{1}拜认了{2}为义母。
+{0} in {1} and {2} cut off the righteousness of the robe, and then no longer friendship, as the saying goes: less than the yellow spring, no see each other also.
+Adopting a foster son
+In {1}, {0} adopted {2} as their foster child
+Adopting a foster daughter
+In {1}, {0} adopted {2} as their foster child
+Acknowledge Adoptive Father
+{0} has accepted {2} as his Adoptive Father in {1}.
+Acknowledge Adoptive Mother
+{0} has accepted {2} as his Adoptive Mother in {1}.
 Blessed Night
-{0}在{1}与{2}共度春宵。二人恩爱无已，情深无限。
+{0} spent the night with {2} in {1}. Niiice!
 Craving No-Holds-Barred
-{0}在{1}情难自已，欲以卑劣手段欺侮{2}，但为{2}识破，最终并未成功。
+At {1}, {0} and with an overwhelming desire, attempted to violate {2}, but was seen through by {2} and failed
 Stork Delivers a Boy
-{0}在{1}诞下一子。
+{0} gave birth to a son in {1}
 Stork Delivers a Girl
-{0}在{1}诞下一女。
-{0}的儿子出世了！
-{0}的女儿出世了！
+{0} gave birth to a daughter in {1}
+{0}'s son is born!
+{0}'s daughter is born!
 Abnormal Neonatus
-{0}的孩子在经历了三年零六个月的怀胎后终于降生了…
+{0}'s child was finally born after three years and six months of pregnancy...
 A Mother’s Bereavement
-{0}因身体不适，在{1}触动了胎气，以致痛失了腹中的胎儿。
-前往拜师
-{0}前往{1}以求拜师学艺…
-加入门派
-{0}加入了{1}，成为{1}的弟子。
-前往赴约
-{0}正在前往{1}赴约…
+In {1}, {0} felt unwell and miscarried the fetus.
+Went To Study
+{0} went to {1} to learn martial arts.
+Joined A Sect
+{0} has joined {1} as a disciple.
+Going to an appointment
+{0} is heading to {1} for an appointment...
 Expecting
-{0}正在{1}等待{2}赴约…
+{0} is {1} waiting {2} for an appointment...
 Appointment Broken
-{0}在{1}苦候{2}多时，{2}却始终未能赴约…
+In {1}, {0} waited for {2} for a long time, {2} but never came to the appointment...
 Appointment Cancelled
-{0}在{1}放弃了与{2}原本的邀约…
-前往解救
-{0}得知{1}被{2}关押的消息，决定前往解救…
-解救俘虏
-{0}将{1}从{2}的监禁中解救了出来。
+{0} cancelled the appointment in {1} with {2}...
+To the rescue
+{0} learns that {1} is being held prisoner by {2} and decides to go to the rescue...
+Captives Rescued
+{0} freed {1} from the imprisonment of {2}
 Release
-{0}在{1}释放了{2}。
-人物失踪
-{0}在{1}不知所踪…
-前往复仇
-{0}决定去向{1}寻仇…
-前往保护
-{0}决定去保护{1}免受{2}的袭击…
-保护亲友
-{0}将代{1}抵御{2}的袭击…
-门派新任
-{0}成为了{1}{2}。
-市镇新任
-派系新任
-{0}成为了{1}派系领袖。
-窃取资源
-{0}在{1}试图窃取{2}的{3}，但并未成功。
-{0}在{1}窃取了{2}的部分{3}。
-唬骗资源
-{0}在{1}试图骗取{2}的{3}，但并未成功。
-抢夺资源
-{0}在{1}试图抢夺{2}的{3}，但并未成功。
-盗掘资源
-{0}在{1}盗取了{2}坟墓中的部分{3}。
-窃取道具
-唬骗道具
-抢夺道具
-盗掘道具
-{0}在{1}盗取了{2}坟墓中的{3}。
-偷师技艺
-{0}在{1}试图偷学{2}的{3}，但并未有任何结果。
-{0}在{1}偷学了{2}的{3}。
-骗取技艺
-{0}在{1}试图唬骗{2}以习得{3}，但并未成功。
-偷师武艺
-骗取武艺
+{0} has released {2} at {1}.
+Missing Persons
+Last see in {1}, {0} is nowhere to be found...
+Revenge
+{0} decided to seek revenge on {1}...
+Protection
+{0} decided to go to protect {1} from {2}...
+Protecting friends and family
+{0} will fight against {2} on behalf of {1}...
+New appointments in the sect
+{0} becomes the {1} of { 2}
+New Town Official
+New Faction Official
+{0} became the {1} faction leader.
+Stolen Resources
+{0} tried to steal {3} from {2} at {1}, but was unsuccessful.
+{0} steals a portion of {3} from {2} at {1}.
+Swindling Resources
+{0} at {1} tried to trick {2} out of {3}, but was unsuccessful.
+Swindled Resources
+{0} tried to trick {2} of {3} at {1}, but was unsuccessful.
+Grave Robbing
+{0} stole {3} from the grave of {2} in {1}.
+Stealing props
+Bluffing props
+Grabbing props
+Excavation props
+{0} stole {3} from the grave of {2} in {1}
+Stole Life Skill
+At {1}, {0} tried to steal {3} from {2}, but did not get any results.
+{0} stole {3} from {2} at {1}
+Swindling Life Skills
+{0} tried to swindle {2} in {1} to acquire {3}, but was unsuccessful.
+Steal Martial Arts
+Swindling Martial Arts
 A Token of Goodwill
-{0}在{1}将{2}赠送给{3}。
+{0} gifted {3} to {2} at {1}.
 Trifling Gift, Genuine Friendship
-指点技艺
-{0}在{1}指点了{2}一些{3}的研习法门。
-{0}在{1}有意指点{2}一些{3}的研习法门，但并未有任何结果。
-Tutoring
-{0}在{1}指点了{2}一些{3}的习练法门。
-{0}在{1}有意指点{2}一些{3}的习练法门，但并未有任何结果。
-奏乐娱人
-{0}在{1}聆听了{2}所奏的乐曲。
-对弈娱人
-{0}在{1}与{2}对弈谈天。
-诗书娱人
-{0}在{1}观赏了{2}所书的文章。
-绘画娱人
-{0}在{1}观赏了{2}所绘的画作。
-制造名品
-{0}在{1}制造出了一件{2}。
-道法开悟
-{0}在{1}对{2}讲述道法奥妙，令{2}有所开悟，提升了{3}的资质。
-佛学开悟
-{0}在{1}对{2}讲述佛法微理，令{2}有所开悟，提升了{3}的资质。
-受人占卜
-{0}在{1}占卜出了{2}所拥有的某件秘闻。
-天降财宝
-{0}在{1}意外获得了十分珍稀的{2}。
-{0}在{1}意外获得了{2}{3}。
+Tutoring Life Skills
+In {1}, {0} has tutored {2} in {3} studies.
+In {1}, {0} tried tutored {2} in {3} studies, but didn't get any results.
+Tutoring Martial Arts
+In {1}, {0} has tutored {2} in {3} studies.
+In {1}, {0} tried tutored {2} in {3} studies, but didn't get any results.
+Music Performance
+{0} listened to the music played by {2} at {1}.
+Game Of Chess
+{0} played a game of Chess against {2} in {1}.
+Poetry Reading
+{0} read the poems written by {2} at {1}
+Painting Showcase
+{0} viewed the paintings painted by {2} at {1}
+Masterpiece Manufactured
+{0} makes a {2} at {1}.
+Taoist Enlightenment
+{0} told {2} about the mysteries of the Tao in {1}, which enlightened {2} and enhanced {3}'s qualifications.
+Buddhist Enlightenment
+{0} spoke to {2} in {1} about the subtleties of Buddhism, which led to {2}'s enlightenment and enhanced {3}'s qualifications.
+Divination
+{0} divined in {1} a certain secret story possessed by {2}.
+Heavenly Treasures
+{0} accidentally obtained the very rare {2} at {1}.
+In {1}, {0} accidentally obtained {2}{ 3}.
 Matchless Adventure
-{0}在{1}意外的获得了一部{2}的武诀秘籍。
-{0}在{1}意外的获得了一部{2}的技艺秘籍。
-天助疗愈
-{0}在{1}梦到神奇的白鹿，恢复了{2}点健康。
-{0}在{1}梦到神奇的白鹿，恢复了{2}点外伤。
-{0}在{1}梦到神奇的白鹿，恢复了{2}点内伤。
-{0}在{1}梦到神奇的白鹿，体内的{2}减轻了。
-{0}在{1}梦到神奇的白鹿，内息得以平复。
+{0} accidentally obtained a {2} secret martial arts manual at {1}
+{0} has accidentally acquired a {2} secret copy of the life skill manual at {1}
+Divine Favor
+{0} in {1} dreamed of the magical white deer and recovered {2} points of health.
+{0} in {1} dreamed of the magical white deer and recovered from {2} point trauma.
+{0} in {1} dreamed of the magical white deer and recovered {2} points of internal injuries.
+{0} in {1} dreamed of the magical white deer, and the {2} in his body was relieved.
+{0} in {1} dreamed of the magical white deer and was able to calm his internal breath.
 Mischance
-{0}在{1}意外损失了十分珍稀的{2}。
-{0}在{1}意外损失了{2}{3}。
-天损秘籍
-{0}在{1}意外的损失了一部{2}的武诀秘籍。
-{0}在{1}意外的损失了一部{2}的技艺秘籍。
-天降灾刑
-{0}在{1}梦到凶煞的恶鬼，损伤了{2}点健康。
-{0}在{1}梦到凶煞的恶鬼，受到了{2}点外伤。
-{0}在{1}梦到凶煞的恶鬼，受到了{2}点内伤。
-{0}在{1}梦到凶煞的恶鬼，体内的{2}增加了。
-{0}在{1}梦到凶煞的恶鬼，内息更加紊乱。
+{0} lost the very rare {2} by accident at {1}.
+{0} had an accidental loss of {2}{ 3} at { 1}
+The Secret of Heavenly Loss
+{0} lost a {2} martial arts secret book by accident in {1}
+{0} accidentally lost a {2} secret copy of the craft at {1}
+Punishment: Heaven Sent Disaster
+{0} in {1} dreams of fierce and evil spirits, damaging {2} points of health.
+{0} in {1} dreamed of fierce and evil spirits, and received {2} a little trauma.
+{0} in {1} dreamed of fierce and evil spirits and received {2} points of internal injuries.
+{0} in {1} dreamed of fierce and evil spirits, and the {2} in the body increased.
+{0} in {1} dreams of fierce and evil spirits, and the internal breath becomes more disturbed.
 Resource Growth
-{0}的{1}的规模等级上升了。
+{0} of {1} has increased in size level.
 Resource Expansion
-{0}的{1}向周边地区扩张了。
+{0} of {1} has expanded to the surrounding area.
 Construction Damage
-{0}的{1}正在受损，规模等级正在下降。
+{0} of {1} is being compromised and the scale level is decreasing.
 Construction Collapse
 {1}’s {0} crumbled into debris.
 Construction Complete
@@ -203,152 +203,152 @@ Expansion Complete
 Removal Complete
 {1} have been removed from {0}
 Building Revenue
-{0}的{1}有了新的收成。
-派遣就位
-被派遣前往{0}的{1}已在{0}就位。
+{0} of {1} has a new crop.
+Dispatch Arrived
+The {1} dispatched to {0} has arrived at {0}.
 Nest of Beggars
-听闻{0}有恶丐集聚…
+Heard that {0} there is a gathering of evil beggars...
 Camp of Thieves
-听闻{0}有贼人安营扎寨，为害一方…
+I heard that {0} there are thieves camping and causing harm...
 Fortress of Robbers
-听闻{0}有流匪出没，拦路抢劫…
+I heard that {0} there are bandits out there, stopping the road to rob...
 Traitor Gang
-听闻一伙来自{0}的叛徒在{1}聚集…
+Heard that a group of renegades from {0} gathered at {1}...
 Villain Valley
-听闻江湖中众多恶人在{0}藏匿…
+I heard that many evil people in the jianghu are hiding in {0}...
 Aroma Array
-听闻{0}时常传来靡靡之音，有数名男子在此失踪…
+Heard {0} from time to time, the sound of decadence, there are several men missing in the...
 Mass Grave
-听闻{0}附近阴森恐怖，乱坟林立…
+I heard that {0} near the eerie, chaotic graves...
 Talents Residence
-听闻一群古怪的异士在{0}聚集…
-异疆邪教
-听闻{0}于{1}探查异疆邪教，随后却不知所踪……
-修罗试炼
-听闻{0}于{1}探查诡异的血迹，随后却不知所踪……
-群魔聚集
-听闻几名堕入相枢魔道之人忽然聚集于{0}，随后却不知所踪……
-丧心弃世
-听闻{0}忽然不听劝阻，远离门派，出现在{1}……
+Heard about a group of eccentric foreigners gathered at {0}...
+Otherworldly Cults
+Heard {0} in {1} scouting for foreign frontier cults, but then lost track of them...
+Shura Trial
+Heard {0} in {1} scouting for spooky blood, but then lost track of it...
+The Gathering of Demons
+I heard that several people who had fallen into the demonic path of the XiangShu suddenly gathered at {0}, and then they were nowhere to be found...
+Sect Betrayal
+Hearing that {0} suddenly disobeyed and betrayed their sect and appeared in {1}...
 New Year Bazaar
 Ringing the New Year in and the old year out, merchants from every quarter are running a bustling bazaar, with the folks coming for it filling every corner
-城镇比武
-盛暑炎炎，夏练三伏，{0}正举办城镇比武，三教九流齐聚首，高台相比共血热。
+Town Tournament
+The summer heat, summer training three volts, {0} is holding a town match, the three religions and nine streams gathered together, high stage compared to the common blood heat.
 Cricket Vibrancy
 Attending the golden season, the chirping of crickets pervades hither and thither, as goes the poem“Under the window and among the tussock, into the yearning hearts and the sorrowful ears”
 World Cricket Congress
-三年一届的促织大会正在{0}轰轰烈烈地举办！
-各地较艺
-雪寒风冷，为民生息，{0}正举办一场{1}的较艺大会。
+The World Cricket Congress is holding at {0}! 
+Art Conference
+The snow is cold, the wind is cold, and for the people to live and breathe, {0} is hosting a {1} more artistic conference.
 Internal Junior Tournament
-传闻{0}正在举行低阶弟子齐聚的门派小较…
-传闻{0}正在举行高阶弟子齐聚的门派小较…
+Rumor has it that {0} is holding a small sect competition where low ranking disciples gather...
+Rumor has it that {0} is holding a small sect competition where high ranking disciples gather...
 Internal Master Tournament
-传闻{0}正在举办门派大较，门派高层尽皆参与其中……
+Rumor has it that {0} is holding a big sect competition, and all the senior members of the sect are participating in it...
 Martial Contest
-一位没落的权贵正在{0}举行一场声势浩大的比武招亲……
+A declined nobleman is holding on a huge Martial Contest to looking for a spouse for their daughter at {0}...
 Break out from the tomb
-一名自称“相枢化身”的强敌自太吾村附近的“{0}”剑冢之中破冢而出！径直向太吾村而来！
-莫女为祸
-因莫女经过，{0}附近人物皆受其祸，{1}受伤中毒了！
-瑶常为祸
-因大岳瑶常经过，{0}附近人物皆受其祸，{1}死去了！
-九寒为祸
-因九寒经过，{0}附近的地格遭到了破坏！
-凰儿为祸
-因金凰儿经过，{0}附近的{1}遭受了横祸！
-以候为祸
-因衣以候经过，{0}附近人物皆心神哀恸，悲愤难平。
-卫起为祸
-卫起向{0}附近的{1}转移了全部伤害！
-以向为祸
-因以向经过，{0}附近人物的立场有所改变！
-血枫为祸
-因血枫经过，{0}附近出现了更多相枢爪牙！
-术方为祸
-因术方经过，{0}附近的{1}年龄额外增长了！
-莫女救苦
-{0}在{1}受到一自称莫女的神秘人的治疗。
-瑶常救苦
-堕入相枢魔道的{0}在{1}被一自称大岳瑶常的神秘人擒获，最终伏诛……
-九寒救苦
-{0}附近的地格在一自称九寒的神秘人的照料之下，资源尽皆恢复。
-凰儿救苦
-{0}在{1}看到金色的凤凰，随后获得了天赐横福。
-以候救苦
-{0}附近的人物在见到一自称衣以侯的神秘人后，更易对他人倾情相待了。
-卫起救苦
-{0}在{1}被一自称卫起的神秘人救治，向{2}转移了伤痛。
-以向救苦
-{0}附近的人物在一自称以向的神秘人感化之下，立场暂时转为仁善。
-血枫救苦
-{0}在{1}受到了一自称血枫的神秘人的攻击。
-术方救苦
-{0}在{1}偶遇一自称术方的神秘人，随后似乎变年轻了！
-平民失踪
-{0}在{1}失去了踪影，随后被证实死亡。
-商队出发
-位于{0}的{1}商队出发了。
-伤心欲绝
-{0}伤心地离开了太吾村……
+A powerful enemy calling himself "XiangShu Incarnation" came out of the "{0}" sword mound near Taiwu Village! He is coming straight to Taiwu Village!
+No girl is a scourge
+Because of the passing of Mo's daughter, {0} nearby people are affected by its scourge, {1} injured and poisoned!
+Yao is often a disaster
+Because of Dayue Yaochang often passed by, {0} nearby characters are affected by its scourge, {1} died!
+Nine cold as a scourge
+The geodesic grid near {0} was damaged due to the passage of Jiukan!
+Phoenix is a scourge
+Due to the passing of the golden phoenixer, {0} near {1} suffered a crossroad!
+Waiting is a curse.
+Because of the clothes to wait for the passage, {0} nearby characters are mourning, grief and indignation.
+Wei Qi is a scourge
+Weiqi transfers all damage to {1} near {0}!
+taking a direction for a disaster
+As a result of to pass by, {0} the position of the nearby characters has changed!
+Blood Maple as a scourge
+Due to the passage of Blood Maple, more pivotal minions appeared near { 0}!
+Surgery is a scourge
+Due to the passing of the operative side, { 0} near { 1} age extra!
+Mowgirls Save the Suffering
+{ 0} was treated by a mysterious person who called herself Mo-chan at { 1}.
+Yao Chang Saves Suffering
+The { 0} who fell into the demonic path of the Sang-soo was captured in { 1} by a mysterious man who called himself the Great Yue Yao Chang and was finally put to death ......
+Nine-Cold Relief
+{ 0}The nearby geographies are under the care of a mysterious man who calls himself Jiuchan, and all the resources are restored.
+Phoenix saves the suffering
+{ 0} saw the golden phoenix at { 1} and subsequently received a heavenly cross blessing.
+in order to save the suffering
+{ 0} nearby characters are more likely to fall in love with others after meeting a mysterious person who calls himself Yi Yi Hou.
+Wei Qi saves suffering
+{ 0} was rescued by a mysterious man who called himself Wei Qi in { 1} and transferred the injury to { 2}.
+to the relief of suffering
+{ 0} The characters in the neighborhood are temporarily converted to a benevolent stance by a mysterious man who calls himself Ezra.
+Blood Maple to Save the Suffering
+{ 0} was attacked by a mysterious man calling himself Blood Maple at { 1}.
+Artistic formula to save suffering
+{ 0} stumbled upon a mysterious man in { 1} who called himself Jitsufang, and then seemed to get younger!
+Civilian Disappearance
+{0} was lost at {1} and was later confirmed dead.
+Caravan Departure
+The {0} caravan located at {1} departed.
+Heart Broken and Desperate
+{0} sad to leave Taiwu Village...
 Ruthless Natural Disaster
-传闻在{0}发生了可怕的天灾，<color=#red>{1}</color>人死于非命，<color=#red>{2}</color>个地点毁于灾难！
+There are rumors of a terrible natural disaster in {0} <color=#red> {1} </color> people died and <color=#red> {2} </color> locations were destroyed by the disaster!
 Last Farewell
-{0}依稀在梦中见到已故的{1}指着{2}的方向，似有许多言语要向{0}诉说，然而阴阳相隔，生死有别，音讯不能相通，良久之后，{1}只得朝着所指的方向飘然而去。
-威力消散
-{0}所积累的功法威力已完全消散…
+{0} vaguely in a dream, I saw the late {1} pointing in the direction of {2}, as if he had many words to tell {0}, but the yin and yang are separated, life and death are different, the voice can not communicate, after a long time, {1} only towards the direction pointed to drift away.
+Power Dissipation
+{0}The accumulated power of the Martial Arts skill has completely dissipated...
 Devastation
-{0}的{1}倾塌毁坏成一片废墟了，一个巨大的妖魔从太吾村的废墟中突土而出！
+{0} in {1} collapsed into ruins, and a huge demon emerged from the ruins of Taigo Village!
 Mysterious bamboo
 There is a purple bamboo growing on the mysterious stone near Taiwu Village.  Use the legendary sword hilts to awaken ZiZhu spirit within...
 Precious classic appeared
-{0}在{1}获得了失传已久的{2}宝典。
-盟会失败
-因各派要人无法齐聚一堂，天下武林盟会最终未能成功举办……
-筹备盟会
-万众一心，共助太吾！江湖各派正积极筹办天下武林盟会中……
-天下武林盟会
-天下武林盟会正在{0}轰轰烈烈地举办，各派要人齐聚一堂，共襄盛会……
-相枢夺命
-[{0}]有[{1}]人为抵抗妖魔乱世而丧命…
-新增见闻
-知悉新见闻：{0}
-新增秘闻
-知悉新秘闻：{0}
-秘闻下月过期
-秘闻即将过期：{0}
-秘闻过期
-秘闻过期：{0}
-异人现世
-呼唤太吾：异人现世，众人皆在呼唤{0}返回太吾村……
-持节而归
-光阴无悔，历经三十年的磨难之后，茶马帮竟然又回到了太吾村…
-音讯微茫
-不知何故，茶马帮与太吾村失去了联系…
-西域归来
-茶马帮顺利返回了太吾村…
-获得威望
-因来源于{0}的秘闻得到了传播，{0}获得了{1}威望…
-你在{0}筹备的一场声势浩大的比武招亲已经宾客齐聚！
+{0} at {1} to obtain the long-lost {2} treasure trove.
+Alliance Failure
+Due to the fact that the key figures of various schools could not gather together, the World Martial Arts Alliance was not successfully held in the end...
+Preparing for the Alliance
+All the people together to help Taiwu! Jianghu schools are actively preparing for the world martial arts alliance in...
+The World Martial Arts Tournament
+The World Martial Arts Tournament is being held with a bang {0}, with key figures from various schools gathering for the event ......
+Aikikawa Takes Life
+[{0}] There are [{1}] people who have lost their lives fighting against the demonic chaos...
+News
+Be informed of new news: {0}
+Add a new secret
+Knowing the new secret: {0}
+Secret news expires next month
+Secret news about to expire: {0}
+Secret News Expired
+Secret News Expired: {0}
+Inhumans Now
+Calling Taiwu: The Inhumans are now in the world, and all are calling {0} Return to Taiwu Village ......
+Returning with a Festival
+Time has no regrets, after thirty years of trials and tribulations, the tea and horse gang has surprisingly returned to Taiwu Village...
+Audio Weakness
+For some reason, the Chama Gang lost contact with Taiwu Village...
+Return from the West
+The tea and horse gang returned to Taiwu Village without incident...
+Gain prestige
+As the secret news from {0} got spread, {0} gained {1} prestige...
+You are in {0} preparing for a prestigious match that has gathered guests!
 Martial Arts Sect
-传闻{0}正在举行一场弟子齐聚的门派较武…
-远走高飞
-听闻{0}发生了一场门派争端，争端的内容似乎与「太吾」有关…
+Rumor has it that {0} is holding a disciples gathering for a sect competition...
+Go far away
+I heard that {0} there is a sect dispute, and the dispute seems to be related to "Taiwu"...
 Treasure From Nature
-听闻一场天灾之后，{0}有异宝降世…
-群侠卫道
-听闻{0}出现堕入相枢魔道的失心之人，江湖诸多义士正试图除此灾祸！
-群丐见闻
-{0}在{1}代{2}记录了{3}打探得到的见闻…
-营寨收入
-{0}在{1}代{2}收取了{3}近日的{4}银钱收入…
-山砦当家
-{0}在{1}代{2}收取了{3}提供的{4}…
-恶人扬威
-{0}在{1}监管{3}宣扬威名，使{2}获得了{4}威望…
-聚义除恶
-{0}在{1}协助{3}处置恶人，使{2}获得了{4}历练…
-扶危济困
-{0}在{1}协助{3}处理江湖纷争，使{2}获得了{4}%地区恩义…
-人手空缺
-{0}在管理{1}的{2}时不幸身亡，无法再继续为{3}工作了…
+After hearing about a natural disaster, {0} a foreign treasure descends...
+The Warriors Defend the Way
+Hearing that {0} there are people with lost hearts who have fallen into the demonic path of the XiangShu, many righteous people in the jianghu are trying to get rid of this scourge!
+The group of beggars to see and hear
+{0} in {1} on behalf of {2} recorded {3} poking around to get the insights...
+Camp revenue
+{0} collected {3} recent {4} silver money income in {1} behalf of {2}...
+Mountain Halt
+In {2}, {0} received {4} provided by {3} on behalf of {1}...
+The Evil One Raises the Bully
+{0} oversees {3} to proclaim prestige in {1}, so that {2} gains {4} prestige...
+Gathering of righteousness to eliminate evil
+{0} assisted {3} in {1} disposing of the villains, so that {2} gained {4} experience...
+Helping those in need
+{0} assisted {3} in {1} dealing with the jungle strife, so that {2} gained {4}% regional favor...
+Staffing Vacancies
+{0} unfortunately died while managing {2} of {1} and is no longer able to continue working for {3}...
