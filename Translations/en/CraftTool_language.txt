@@ -1,0 +1,108 @@
+Tool·Carpentry box
+A small box carried by the average woodworker, containing common woodworking tools such as a saw, wood planer, inkwell and corded drill.
+Tool·Artisan box
+The handy carpenter carried with him a small box loaded with a fuller range of tools than a woodworking box, such as a small chisel, hammer, angle ruler, file and axe, for more delicate woodworking work.
+Tool·Wing plane
+It is a cleverly designed plane with a hard blade that can be smoothed out regardless of the quality of the wood, so that even novice woodworkers can use it with ease.
+Tool·Silver cassette
+Made of silver and covered with vermilion lacquer, the box is small and easy to carry, and the interior is well organised to accommodate a wide range of woodworking tools, making it very handy.
+Tool·Amber plane
+The blade of the amber plane is made of a special iron that does not rust when immersed in water; the body of the plane is amber, yellow and translucent, and when it is used on wood, the wood has the fragrance of pine and cypress.
+Tool·Puzzle cassette
+This box is made of gold and iron, and its construction is so precise that the box can be transformed into the shape of a variety of tools, hence the name 'Thousand Machine Treasure Box'. It is said to have been invented by an ancient sage of carpentry and is very easy to carry.
+Tool·Amazing plane
+《庄子》载：“梓庆削木为鐻，鐻成．见者惊犹鬼神”，传闻鬼斧刨乃仿制春秋时鲁国名匠梓庆的木刨所作，使用时若能精心凝气，便可制成精美如出鬼神之手的木器。
+Tool·Mysterious box
+此盒外部看来极小，内里却空间极大，便如佛家“芥子纳须弥”之说，正是“大小如意，内藏乾坤”，故名“如意乾坤盒”。
+Tool·\nGongShu cassette
+传闻乃公输班发明的宝匣，内中只装有几样简单的工具，但其构思独到，便是初学者用之也觉如臂使指，可谓万变不离其宗；匣体构造中凝聚了制造者的心血，每次观看都能给人以不同的灵感。
+Tool·Bronze forge
+以青桐打造的熔炉，能够配合模具对常见的金铁材料进行分铸、模铸等处理，虽工艺古老，亦可以简驭繁。
+Tool·Ruby furnace
+赤纹炼乃取火山精金所造，其上有赤色纹理，冶铸金铁时，火光与红纹每每交相辉映，莹莹可爱。
+Tool·YinYang furnace
+此炉以镔铁制成，其色灰白，阴火色青、阳火色赤，金铁在炉中炼制时需经阴阳二火反复灼烧，故称“镔铁阴阳炼”。
+Tool·Obsidian forge
+以乌金制成的熔炉，质坚而沉，耐高温；造型方正，可经千锤百炼而不稍磨损，虽不易携带，亦是铁匠爱用之物。
+Tool·HunYuan forge
+混元铸炉浑然一体，销熔金铁时，有阴阳二气生于其上，如混沌初开，元气自生，正是：“混元恍其初判，二气变而无穷”。
+Tool·Soul furnace
+所谓：“心之精爽，是谓魂魄”，传闻宝物皆有魄，是以千年不损；以此炉所造的器具皆灵光流动，飘然不群，故名“奇魄炼”。
+Tool·\nRainbow furnace
+真火乃天下至火，此炉火焰有如七道霞光，如道家炼丹之火，可除尽杂质、得器坚硬，是故莫能当之。
+Tool·Glacial forge
+九寒者，极寒也。此炉内部极热而外部极寒，人在左近，不觉稍热；其火愈烈，其寒愈盛，天下万物，无所不炼。
+Tool·Evillike furnace
+“若邪之溪，涸而出铜，欧冶铸以为纯钧之剑”，相传此炉乃是仿欧冶子炼制纯钧时的铸剑炉所造，因取若邪溪之铜铸成名剑，故名“若邪炼”，其火有青、白、赤三色，剑成之时如有龙吟，神异无比。
+Tool·Stone polisher
+常见的解玉砂之一，其色黝黑，质地较粗，可用于玉石的打磨、切割。各地均有出产，但以燕赵所出者为佳。
+Tool·\nObsidian polisher
+以金刚石颗粒制成的解玉砂，其色通透，质地坚硬，适合用于玉石的分解、切割。此物并无固定产地，多为百姓偶然发现。
+Tool·Pearl polisher
+此砂乃以青、白二色的坚硬奇石制成，质地坚硬、颗粒细腻，光泽如翡翠，又似珍珠，故名“翡翠珍珠砂”。
+Tool·Amber polisher
+此砂以南方的黄色奇石制成，砂上有龙形纹路，故名“黄龙砂”，以之磨玉，则玉亦有美纹。
+Tool·\nTricolor gem polisher
+此砂乃是由具有青、红、黄三色的宝石制成的解玉砂，以其攻玉，则砣至而玉解；以其上光，则玉器光华自蕴。
+Tool·Snow polisher
+此砂出于雪山之上，其色洁白，细腻如雪，以此砂治玉时，如有凉风拂面，夏日不炎，故名“幕雪砂”。
+Tool·\nAmethyst polisher
+此砂乃是以紫金色的奇石所制，其坚也，天下之玉，莫不可解；其灵也，以之磨玉，温润有香，且愈是把玩，其香愈浓。
+Tool·\nIcy Ruby polisher
+传闻有上古神兽殁于冰山之中，其血百年而不凝，千年而不腐，卒成冰晶血露；此砂红白交织，隐有神光，以之攻玉，则玉亦有灵。
+Tool·Dragon polisher
+此砂乃东海所出的奇石所制，解玉时无需入水，而水自砂中生。前人有感于此，故有诗云：“龙女何辜长下泪，化石投向解玉人。”
+Tool·Sewing kit
+孩童手掌大小的口袋，侧边装针，长短不一；袋内装线，色彩各异，可用于简单的衣物缝制。
+Tool·Bamboo loom
+以青竹制成的织机，取料易得，用途广泛，但质地较为柔软，使用时需盘踞在地。
+Tool·Butterfly woven
+此梭乃古来相传之织具，构造简单，运梭时如蝴蝶上下翻飞，亦可双梭并用，故名“蝴蝶梭”。
+Tool·Cloud woven
+流云梭通体洁白，往来灵动，如云雾穿行于经纬之间，其速极快，一日可成一匹布。
+Tool·Ivory loom
+以象牙制成的提花织机，可耐风雨，极为珍贵，但体型较大，使用时需坐于机前，相传是边陲小国献与天子的贡品。
+Tool·Blossom woven
+此梭上有百花图样，梭型较短，常用于织就花纹、绮罗，织成后如夺百卉之艳，故名“百卉梭”。
+Tool·Ecliptic loom
+黄母又称黄道婆，流落海外时曾改良机杼，终成黄母织机。此机编程简易，织就极快，黄母年老后渡海回乡，江南织造因之而兴。
+Tool·Rainbow woven
+七色流香梭乃奇木制造，色如虹霓，隐有清香，织出的物品因此也会沾染香气，如有霞光流溢。
+Tool·Fairy's woven
+相传乃天上织女所用的奇梭，上有霞光流动，以此梭织就的衣物恰似无缝天衣，浑然一体，不见一丝线脚痕迹。
+Tool·Stone pot
+取随处可见的石材制成的锅，不易加热，但保温效果出众，常用于炖煮、炙烤，传闻早在上古之时便已为先贤所使用。
+Tool·\nBinaural copper pot
+以黄铜打造的锅具，锅缘有双耳，便于提起，故称“双耳铜锅”。此锅受热极快，便于翻炒食物，上有一层薄铁以防腐蚀。
+Tool·FuLu pot
+此锅以生铁铸就，下有六耳，可用于支撑，乃辽国传来之物，常为军士所用，适合烹食，锅体有葫芦花纹，乃取谐音，祈求福禄双全。
+Tool·\nKitchenKing's pot
+传闻灶王司火，掌灶间事，此锅乃仿灶王登仙前所用之物制造，以之煮食，馨香可取悦神明，保佑来年大有所获。
+Tool·\nMythical pattern pot
+传说饕餮乃古之凶兽，最为贪食，好吃者见此事而笑之，自称老饕；此锅上刻饕餮之纹，乃取佳肴甘旨、流连忘返之意。
+Tool·Fragrance pot
+透香锅乃以金铁铸就，内有孔隙，以香料实之，香气可历十数年而不散，以之烹饪，则菜亦有香。
+Tool·Foodie's pot
+八宝六合锅取“八吉祥相谓之八宝，上下四方谓之六合”之意，有六角、双耳、六足，上铭八宝图样，号称可烹天下百味。
+Tool·\nGilded siderite opt
+玄铁滚金锅以青黑之铁铸成，表面滚以黄金，原是豪富之家用以彰示财力之物，不粘、不锈，且重量极轻，便是小儿也可轻松举起。
+Tool·Kilo-bucket pot
+千斗锅号称“千斗之食，不如一镬”，相传乃战国名厨易牙所造之奇物，以之为肴，则五味合宜，食客只觉气度陡生，治天下亦如调盐梅；或思及过往，感慨万千……如此种种，不一而足。
+Tool·Clay bowl
+以陶土烧制而成的药钵，体型轻巧，由小钵和药杵组成，可用于捣碎药草、碾出汁液。
+Tool·Omni-herb Ding
+用于炼制药物的三足小鼎，以青铜制成，上刻百草花纹，以纪念神农氏遍尝百草、舍身济民之事。
+Tool·Immortal's stove
+道者炼丹用的药炉，形似鼎而头尖体圆，以金铁铸成，上有老君登仙图样；又有盖，因之以聚丹气。
+Tool·\nEmerald Bodhi bowl
+此钵以能够温养药性的奇特碧玉制成，上有菩提叶纹饰，象征度化众生的无上菩提心，以之制药则钵心红，以之制毒则钵心绿。
+Tool·\nGhostKing's stove
+传闻鬼王乃阴间使者，阳寿未尽之人不得见之，以此炉制药时，其火必黑，乃鬼王驱使之火，凡人用之，则得药神异。
+Tool·\nDrugKing's stove
+相传药王乃主安康顺遂之神，此鼎乃以药王悬壶济世时，于西方大泽之中所取的神木所造，遇火不燃，故称“神木药王鼎”。
+Tool·BloodJade bowl
+传闻血玉者乃以鲜血养成，内见红丝，此钵可令珍草不腐，毒物如生，成药时红光陡现，神异若有灵。
+Tool·Crystal Ding
+相传琉璃即五色石，明如水晶、色如朝霞，乃女娲补天时所留之奇石，又有异香；以此鼎炼药，则火候自成。
+Tool·JadeBone stove
+世说九沉玉骨乃灵兽遗骨经沧海桑田、沉沦翻覆所化，其质如玉，触之冰凉；以此钵制药时，玉液自生，顷刻成丹。

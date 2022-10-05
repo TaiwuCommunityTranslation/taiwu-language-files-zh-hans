@@ -1,0 +1,10 @@
+Smooth
+Your inner breathing is Smooth, with divine help, your health will gradually recover.
+Silted
+The internal breathing is Stilted, something isn't right, there is a low chance of injury when using abilities in combat.
+Obstruction
+The internal breathing is Obstructed, qi and blood are difficult to move, you continuously lose a small amount of health, and there is a chance of injury when using abilities in combat.
+Disorder
+The internal breathing is in Disorder, the true qi is reversed, the health is continuously depleted, and there is a high chance of injury when using abilities in combat.
+Shattered
+The internal breathing is completely Shattered, there is no life only death. Health is rapidly depleted, and there is a very high chance of injury when using abilities in combat.

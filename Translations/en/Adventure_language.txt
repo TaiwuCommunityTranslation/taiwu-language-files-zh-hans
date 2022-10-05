@@ -1,0 +1,650 @@
+Tournament - Blade
+A triennial tournament is being held here, and martial artists from all over the world are eager to get into the ring and show off their skills!
+Tournament - Sword
+Tournament - Melody
+Spring Bazaar
+With spring in full bloom and everything coming to life, chambers of commerce around the world are taking the opportunity to hold spring fairs ......
+Home Tea Party
+Preparing for a home-cooked tea party with the help of local scribes ......
+Home Banquet
+Preparing for a home-cooked feast with the help of local scribes ......
+Heroic Monkey
+A monkey claimed king in this territory, most monkey in the valley gathered here, They screamed and jumped around all day long and causing troubles to the bamboo hut all the time...
+Restaurant Banquet
+With the assistance of the local scribes, a restaurant banquet is being prepared ......
+Garden Tea Party
+A courtyard tea party is being prepared with the help of local scribes ......
+Manor Tea Party
+Preparing for an estate-wide tea party with the help of local literati ......
+Manor Banquet
+Preparing to start an Manor House Wine Banquet with the help of the local scribes.
+Tournament - Hidden Weapons
+Tournament - Polearm
+Tournament - Exotic Weapons
+Tournament - Fist
+Tournament - Soft Weapons
+Tournament - Kick
+Tournament - Ranged Weapons
+Tournament - Finger
+Art Contest - Culinary Arts
+Held every year at the beginning of winter, artisans from all over the world gather here to share their skills and have fun ......
+Art Contest - Toxicology
+It is held every year at the beginning of winter. Experts from all over the world gather to discuss the art of toxicology and have a good time ......
+Forging Competition
+Held every year at the beginning of winter. Artisans from all over the world gather here to exchange skills and have fun, competing for the prestigious title of 'Master Craftsman'!
+Art Contest - Gemcutting
+Art Contest - Medicine
+Held every year at the beginning of winter. Healers from all over the world gather here to prescribe good medicine for the sick and consult with their peers ......
+Art Contest - Weaving
+Art Contest - Carpentry
+Martial Arts Sect
+The event of the sect - the sect competition - is being held here, and both elder and ordinary disciples are returning to the sect to watch and learn the art, to seek guidance and to show their skills in all their glory ......
+World Cricket Congress
+The World Cricket Congress is held every 3 years, great cricket trainers have gathered here from all over the world, playing with crickets and having fun, more importantly fighting for the title of ‘Cricket Overlord’! 
+Dispute of Sect
+A dispute of Sect is happening, the Cause of dispute seems be related to「TaiWu」...
+Nest of Beggars
+A gang of beggars gathers here, They not only harass the inhabitants and travellers nearby, but also spread vicious atmosphere and infection around the place...
+Camp of Thieves
+The people around this area are often burglarized, and we hear that sneaky thieves have been seen in the vicinity ......
+Fortress of Robbers
+Many robbers occupy roads and bridges here and they formed a big clique, They act in a tyrannous manner, countless people within hundreds of kilometres had been bullied...
+Hall of the Righteous
+The world is in turmoil and nowadays there are many villains and the people are suffering. It is at this time that the righteous have risen up to rid the world of the villains. There are many righteous men gathered here to kill the villains ......
+Traitor Gang
+This place is home to many sect outcasts, who, either for revenge or for treacherous purposes, eventually band together to do harm to the Jianghu ......
+Villain Valley
+Outlaws with blood debt of both decent and evil people  entrenched here, Their lives hang on a thread since they live a violent life, so that they are extremely fierce...
+Aroma Array
+The array is covered with red haze, Charming aroma filled the air, together with sweet laughter and soft tune...
+Mass Grave
+Bodies of people who died in vain were lefted at the mass graveyard, Visits of some eccentric Taoist make this place stranger...
+任侠会盟
+春风催桃李，江湖多夜雨。如今天下，纷乱不止，义士侠辈代代频出。听得近处似有纷扰，正有某一宗门的弟子群聚于此，不知何故……
+Talents Residence
+People who are talented in heterodoxy built their shelter together, Although they're great talented, they are crusty, unreasonable and live their life depending on sudden idea...
+Heresy Stronghold
+A large number of cult believers gather here, They build up altars to worship ghosts and gods, create smog and miasma and even killing for pleasure...
+Shura House
+Blooding slaughters happened here long ago, Some people lost their mind in the endless killing and now the mind controllers control them, make them drifting about...
+Demon's Party
+此处魔气四溢，入魔之人向此处涌来，一支无名魔教在此不断以骇人的手段残害着武林正道的人士……
+世外秘境
+荒野偏僻之处，隐有不知名的喑哑嘶声扰人心神。此处隐秘难寻，竟好似一处世外秘境。其中有何怪异之处，不如前去一探究竟……
+Abandoned Zone
+This was a barrier against the outside world, The endless conflict to the barrier one day, and those hermits lived in the hidden place had to get back to the mortal life with hatred...
+比武招亲·成都
+此日，成都城中一别庄设有游园乐宴，此家主人欲于此次宴乐之中挑选一名东床快婿……
+比武招亲·成都（女）
+这日，成都城中一别庄设有游园乐宴，欲为太吾在此次宴乐之中挑选一名东床快婿……
+比武招亲·大理
+听闻大理的小姐正举办一场跳月舞会，邀请男女一同欢庆，各人或许可于此时找到自己的良缘……
+比武招亲·大理（女）
+比武招亲·福州
+相传福州某族有先祖托梦为女选婿，该宗女正跪于祠堂之中，等候良人通过先祖考验……
+比武招亲·福州（女）
+福州宗祠中，正为太吾举办一场招亲盛会，相传求亲者需于宗祠之中，经过先祖考验，方为良人……
+比武招亲·广州
+广州花香弥漫，无论夏暑冬寒，皆有百花盛开，此地有一名权贵小姐正在举行招亲，若有人可采花为小姐冠首，则视为情意相许……
+比武招亲·广州（女）
+广州花香弥漫，无论夏暑冬寒，皆有百花盛开，此地正为太吾举行招亲，若有人可采花为她冠首，则视为情意相许……
+比武招亲·桂州
+听闻此地正在举行一场歌会，众人以歌传情，一诉心意，两情相悦者，可在此以山水为证，结成连理……
+比武招亲·桂州（女）
+听闻此地正在为太吾举行一场歌会，众人以歌传情，一诉心意，两情相悦者，可在此以山水为证，结成连理……
+比武招亲·杭州
+听闻杭州正举办一场以灯结缘的比武招亲，灯亮则缘起，灯落则缘灭，而那招亲的小姐正在西湖断桥上等候她的良人……
+比武招亲·杭州（女）
+听闻杭州正为太吾举办一场以灯结缘的比武招亲，灯亮则缘起，灯落则缘灭，于断桥之上，或可候得良人……
+比武招亲·江陵
+九姊九妹陪我来，团圆桌上来结拜……江陵素有十姊妹之俗，今日，听闻那招亲的小姐欲借十姊妹来考验考验求亲之人……
+比武招亲·江陵（女）
+九姊九妹陪我来，团圆桌上来结拜……江陵素有十姊妹之俗，今日正为太吾借此习俗考验求亲之人……
+比武招亲·京城
+京城的权贵小姐正逢待嫁年纪，京城各处张灯结彩，仆从往来，迎接四方求亲者，又听有人道“得道多助”，不知何意……
+比武招亲·京城（女）
+比武招亲·辽阳
+燕山参云，辽水折曲，草原之上，正在举办一场以白马青牛结缘的比武招亲……
+比武招亲·辽阳（女）
+燕山参云，辽水折曲，草原之上，正在为太吾举办一场以白马青年结缘的比武招亲……
+比武招亲·秦州
+秦州商队往来，驼铃阵阵，此日更是聚集了许多武林好手，据说黄沙之中，小姐正在等候英雄为她送去此地最贵重的珍宝——清水……
+比武招亲·秦州（女）
+秦州商队往来，驼铃阵阵，此日更是聚集了许多武林好手，据说太吾正在此地举办一场招亲，于黄沙之中等候英雄为她送去此地最贵重的珍宝——清水……
+比武招亲·青州
+此日，青州地界正在举行一场招亲，传闻若与新娘有缘之人腕上则会生出一股红线，代表着与新娘的姻缘……
+比武招亲·青州（女）
+青州地界正为太吾举办一场招亲，由红娘说媒，相传若有人与其有缘，腕上便自会生出代表姻缘的红线……
+比武招亲·寿春
+云梦泽故地，正在举行一场声势浩大的比武招亲，众人纵马山林，狩猎争雄！
+比武招亲·寿春（女）
+云梦泽故地，正在为太吾举行一场声势浩大的比武招亲，众人纵马山林，狩猎争雄！
+比武招亲·太原
+太原城一位没落权贵正在此地举办一场声势浩大的擂台招亲，各地的名士、豪杰无不齐聚于此，或为一睹美人芳容、或摩拳擦掌只为技压群雄，抱得美人归，只为凑热闹之人亦不在少数……
+比武招亲·太原（女）
+太原城正在为太吾举办一场声势浩大的擂台招亲，各地的名士、豪杰无不齐聚于此，或为一睹美人芳容、或摩拳擦掌以求抱得美人归，只为凑热闹之人亦不在少数……
+比武招亲·襄阳
+汉江之湄，亮石遍地，江水悠悠……听说权贵小姐正在此地举办招亲之会，依襄阳习俗，若寻穿天石，传达心中情意，或许可以打动佳人……
+比武招亲·襄阳（女）
+汉江之湄，江水悠悠……听说太吾正在此地举办招亲之会，依襄阳习俗，若受赠穿天石，传达心中情意，或可结为良缘……
+比武招亲·扬州
+歌船云集，鲜花四散……听说扬州正举办一场佳人选美盛会，其中有一位小姐欲在此时寻觅良缘……
+比武招亲·扬州（女）
+Search Black bear
+天灾过后，百兽受惊，鸣而不绝……传闻曾有人在此见过一只奔逃的黑熊……
+Search Hericium
+听闻天灾过后，此地的五谷便纷纷开始生长，不知其中是否藏着什么灵物……
+Search Blue peacock
+此地青山钟灵毓秀，禽鸟啁啾，偶尔听得几声奇异叫声……或有蓝孔雀出没？
+Search Dragonfish
+天灾过后，此地山塌地裂，江河决堤，在此形成了一片偌大的水域……
+Search Amethyst bamboo
+此地风水失常，地乏灵气，屡屡有地动之灾，因此少有人敢靠近……\n<color=#darkgrey>（本奇遇需要用到金银材料……）</color>
+Search Obsidian sandalwood
+此地本有一片树林，如今，林中生了异变，于是大雾弥漫，人难以辨清其中究竟……\n<color=#darkgrey>（本奇遇需要用到金铁材料……）</color>
+Search Gold essence
+听闻天灾过后，此地便出现了一座洞穴，其中虽然狭窄逼仄，碎石不绝，但灵光隐隐，似乎藏着什么罕见的金银……\n<color=#darkgrey>（本奇遇需要用到玉石材料……）</color>
+Search Mythic iron
+有火流星自天边坠落，落于此地，形成一方巨铁之山，其周边绵延着数十里的火海……\n<color=#darkgrey>（本奇遇需要用到宝石材料……）</color>
+Search KunLun jade
+相传天灾之后，此地突显异象，众星相聚，光耀烁烁……\n<color=#darkgrey>（本奇遇需要用到丝线织物……）</color>
+Search Heavenly jade
+天灾过后，此地的石块变得光泽透明，仿佛有莹辉照耀，仿佛是因有异宝出世之故……\n<color=#darkgrey>（本奇遇需要用到毛皮织物……）</color>
+Search Mythic Cicadaskin
+传说天灾过后，此地的树林中突然有诸般奇珍异兽出没，更有人曾在此见到金色的鸣蝉……\n<color=#darkgrey>（本奇遇需要用到树木材料……）</color>
+Search Sky-silkworm silk
+天灾过后，此地突然出现了大片高耸入云的桑树，诸多蚁蚕出没于其间，不知传说中的天蚕是否就在此处……\n<color=#darkgrey>（本奇遇需要用到竹藤材料……）</color>
+祸福相依
+祸福本来相依，未经大祸不得至福；得失原为一体，不肯舍弃难以存真。天灾过后，此地紫气旺盛，正是祸尽福生，苦尽甘来的征兆，也不知世间何处有德行兼备之人？能受此地福报……
+奇正相征
+天灾过后，此地埋藏的上古珍兽、异虫纷纷复苏，天地虽改，却仍是不容二主，奇物之间自是各不相让，奋力相征，然而世间万物，总是相生相克，一物降一物的……
+生死相循
+“活人舍命以救死，死者回天以慰生”。天灾之地，死气浓重，然而物极必反，生死本就是循环往复之过程，极死之灾地，存极生之希望，若能舍生成仁，或可得天地间最俱生机之珍宝……
+实幻相映
+天灾骇人，地改天移，一片混乱之间，阴阳重归于蒙昧，万物重归于未形，时而似见古之异兽破石腾空，时而似见梦里兰花化影争妍，只是未入混沌，谁知实、幻、真、假……
+万物相生
+“毒蛇出没之地必有解毒之药”。天灾过后，此地恶毒横流，各色瘴气遮天蔽日，亦有各类奇物受扰出世或受恶毒吸引而来，或见大蛇，或见毒蟾，亦有奇草破土而出……
+Search Broken grass
+疏林原野，平阔宁静，却无人敢靠近——听闻其中随处可见各类毒物……
+Search Millennium icy-silkworm
+传闻天灾过后，此地小丘突然寒气环绕，朔风时起，似乎有因寒而生的灵物藏身于其间……
+Search Millennium cyan spider
+天灾过后，此地突然草木凋零，生机衰败，传闻曾有人在此见过一只通体碧玉的青蛛……
+Search Human face mandala
+深谷幽静，风送异香……香气似乎从前方不远处传来，但远远望去，却并未见到花朵……
+Search Evil flower
+传闻天灾过后，此地突然生长出一片花海，其中还有诸多毒物生长……
+Search Blood toad
+天灾过后，此地潮涨不落，水患难平，海水隐泛血红，延绵一片，甚为可怖……
+返回竹庐
+A total silence surrounds the bamboo hut.Fallen leaves covers the path leading to the bamboo hut.As though it has been abbandened for a long time.
+顺河而下
+义父地图上所绘的大河，当由此处顺流而下……
+Mysterious bamboo
+Use the legendary sword hilts to summon Swordtomb incarnation...
+Changes in the village
+The place had been swept by fire, during which faint sounds of hissing and crying could be heard ...... It seemed that people were still in the little village!
+Derelict Stagecoach
+There is a long-abandoned post station here that has now become a haven for thieves and bandits ......
+Dark river at the bottom of the mountain
+A dark river at the bottom of the mountain, with a long and secretive course that is difficult to see the end of, and which seems to harbour unknown dangers.
+Valley Exit
+There is nothing special about this place but black、white、green and yellow boulder hidden inside the high vegetation.It would be extremely hard to find the way out if without Adoptive Father's guide.
+Ancient Tomb of the Immortal
+There resides an ancient tomb here, maybe it is the“Ancient tomb of the Immortal”from the legends....
+The World Martial Arts Tournament
+Who will become the new hero to unite the martial arts world?
+Dark Bamboo from the Heavens
+A black-coloured bamboo stands at a distance ......
+The Land of the Divine
+Concentrate on your own calling ......
+Swordtomb “Glacial Vassal”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Glacial Vassal” is engraved on the tomb, there seems to be something going to break out! 
+Swordtomb “Spirit Smelting”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Spirit Smelting” is engraved on the tomb, there seems to be something going to break out! 
+Swordtomb “Phoenix Cocoon”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Phoenix Cocoon” is engraved on the tomb, there seems to be something going to break out! 
+Swordtomb “Vanquish Evil”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Vanquish Evil” is engraved on the tomb, there seems to be something going to break out! 
+Swordtomb “Wonderglow”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Wonderglow” is engraved on the tomb, there seems to be something going to break out! 
+Swordtomb “Draconic Anima”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Draconic Anima” is engraved on the tomb, there seems to be something going to break out! 
+Swordtomb “Weaving of MoNyu”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Weaving of MoNyu” is engraved on the tomb, there seems to be something going to break out! 
+Swordtomb “Infernal Acerjail”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Infernal Acerjail” is engraved on the tomb, there seems to be something going to break out! 
+Swordtomb “Anchorite”
+Seven swordtombs appears nearby after the immortal's leaving.The word “Anchorite” is engraved on the tomb, there seems to be something going to break out! 
+The Book of Extinction - 'The Great Genin'
+Jiuchan was at a loss for words, lost in thought... and seemed to be in great pain ......
+The Book of Destruction - Divine Smelting Flame
+Yi Yihou was at a loss for words, lost in thought ...... and seemed to be in great pain ......
+灭之篇·“凤凰茧”
+金凰儿手足无措，失魂落魄……似乎正陷入莫大的痛苦……
+灭之篇·“伏邪铁”
+大岳瑶常手足无措，失魂落魄……似乎正陷入莫大的痛苦……
+灭之篇·“鬼神霞”
+术方手足无措，失魂落魄……似乎正陷入莫大的痛苦……
+灭之篇·“解龙魄”
+卫起手足无措，失魂落魄……似乎正陷入莫大的痛苦……
+灭之篇·“莫女衣”
+莫女手足无措，失魂落魄……似乎正陷入莫大的痛苦……
+灭之篇·“囚魔木”
+血枫手足无措，失魂落魄……似乎正陷入莫大的痛苦……
+灭之篇·“溶尘隐”
+以向手足无措，失魂落魄……似乎正陷入莫大的痛苦……
+缘之篇·“大玄凝”
+九寒眉头紧锁，正在出神……不知想起了什么……
+缘之篇·“焚神炼”
+衣以侯眉头紧锁，正在出神……不知想起了什么……
+缘之篇·“凤凰茧”
+金凰儿眉头紧锁，正在出神……不知想起了什么……
+缘之篇·“伏邪铁”
+大岳瑶常眉头紧锁，正在出神……不知想起了什么……
+缘之篇·“鬼神霞”
+术方眉头紧锁，正在出神……不知想起了什么……
+缘之篇·“解龙魄”
+卫起眉头紧锁，正在出神……不知想起了什么……
+缘之篇·“莫女衣”
+莫女眉头紧锁，正在出神……不知想起了什么……
+缘之篇·“囚魔木”
+血枫眉头紧锁，正在出神……不知想起了什么……
+缘之篇·“溶尘隐”
+以向眉头紧锁，正在出神……不知想起了什么……
+封魔神光·大玄凝
+Where the Divine Light is
+封魔神光·焚神炼
+神光之处……
+封魔神光·凤凰茧
+封魔神光·伏邪铁
+封魔神光·鬼神霞
+封魔神光·解龙魄
+封魔神光·莫女衣
+封魔神光·囚魔木
+封魔神光·溶尘隐
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+LK_Adventure_NodeTitle_0=进入校场
+LK_Adventure_NodeTitle_1=擂台对决
+LK_Adventure_NodeTitle_2=我武惟扬
+LK_Adventure_3_ParamName_0=书海消费
+LK_Adventure_3_ParamName_1=武魁消费
+LK_Adventure_3_ParamName_2=奇货消费
+LK_Adventure_3_ParamName_3=公输消费
+LK_Adventure_3_ParamName_4=五湖消费
+LK_Adventure_3_ParamName_5=服牛消费
+LK_Adventure_NodeTitle_9=进入集市
+LK_Adventure_NodeTitle_10=选择集市
+LK_Adventure_NodeTitle_11=座上宾客
+LK_Adventure_NodeTitle_12=集会散场
+LK_Adventure_NodeTitle_13=茶会开场
+LK_Adventure_NodeTitle_14=茶凉宾散
+LK_Adventure_NodeTitle_15=酒宴开场
+LK_Adventure_NodeTitle_16=酒阑宾散
+LK_Adventure_NodeTitle_17=占地称王
+LK_Adventure_NodeTitle_18=英雄猴杰
+LK_Adventure_NodeTitle_19=我武维扬
+LK_Adventure_19_ParamName_0=色泽
+LK_Adventure_19_ParamName_1=鲜美
+LK_Adventure_19_ParamName_2=香气
+LK_Adventure_19_ParamName_3=口感
+LK_Adventure_19_ParamName_4=滋味
+LK_Adventure_19_ParamName_5=健康
+LK_Adventure_19_ParamName_6=大会总评分
+LK_Adventure_NodeTitle_27=厨艺大会
+LK_Adventure_NodeTitle_28=大会开始
+LK_Adventure_NodeTitle_29=大会散场
+LK_Adventure_20_ParamName_0=传染
+LK_Adventure_20_ParamName_1=潜伏
+LK_Adventure_20_ParamName_2=迅猛
+LK_Adventure_20_ParamName_3=致痛
+LK_Adventure_20_ParamName_4=奇异
+LK_Adventure_20_ParamName_5=易用
+LK_Adventure_NodeTitle_36=毒术大会
+LK_Adventure_NodeTitle_37=大会
+LK_Adventure_21_ParamName_0=轻盈度
+LK_Adventure_21_ParamName_1=耐用度
+LK_Adventure_21_ParamName_2=锋利度
+LK_Adventure_21_ParamName_3=坚韧度
+LK_Adventure_21_ParamName_4=端美度
+LK_Adventure_21_ParamName_5=趣味度
+LK_Adventure_NodeTitle_44=锻造大会
+LK_Adventure_22_ParamName_0=轻盈
+LK_Adventure_22_ParamName_1=耐用
+LK_Adventure_22_ParamName_2=锋利
+LK_Adventure_22_ParamName_3=坚韧
+LK_Adventure_22_ParamName_4=端美
+LK_Adventure_22_ParamName_5=趣味
+LK_Adventure_NodeTitle_51=巧匠大会
+LK_Adventure_23_ParamName_0=起效
+LK_Adventure_23_ParamName_1=味道
+LK_Adventure_23_ParamName_2=药效
+LK_Adventure_23_ParamName_3=补益
+LK_Adventure_23_ParamName_4=对症
+LK_Adventure_23_ParamName_5=价廉
+LK_Adventure_NodeTitle_58=医术大会
+LK_Adventure_NodeTitle_59=织锦大会
+LK_Adventure_NodeTitle_60=制木大会
+LK_Adventure_26_ParamName_0=局内支持度
+LK_Adventure_NodeTitle_62=少林较武
+LK_Adventure_NodeTitle_63=峨眉较武
+LK_Adventure_NodeTitle_64=百花较武
+LK_Adventure_NodeTitle_65=狮相较武
+LK_Adventure_NodeTitle_66=武当较武
+LK_Adventure_NodeTitle_67=元山较武
+LK_Adventure_NodeTitle_68=然山较武
+LK_Adventure_NodeTitle_69=璇女较武
+LK_Adventure_NodeTitle_70=铸剑较武
+LK_Adventure_NodeTitle_71=空桑较武
+LK_Adventure_NodeTitle_72=金刚较武
+LK_Adventure_NodeTitle_73=五仙较武
+LK_Adventure_NodeTitle_74=界青较武
+LK_Adventure_NodeTitle_75=伏龙较武
+LK_Adventure_NodeTitle_76=血犼较武
+LK_Adventure_NodeTitle_77=以禅入武
+LK_Adventure_NodeTitle_78=博收广采
+LK_Adventure_NodeTitle_79=仁心仁术
+LK_Adventure_NodeTitle_80=道法自然
+LK_Adventure_NodeTitle_81=除魔卫道
+LK_Adventure_NodeTitle_82=举武扬威
+LK_Adventure_NodeTitle_83=十方游历
+LK_Adventure_NodeTitle_84=尽态极妍
+LK_Adventure_NodeTitle_85=整旧如新
+LK_Adventure_NodeTitle_86=服食丹药
+LK_Adventure_NodeTitle_87=广行布施
+LK_Adventure_NodeTitle_88=五毒俱全
+LK_Adventure_NodeTitle_89=暗藏杀机
+LK_Adventure_NodeTitle_90=尊卑有序
+LK_Adventure_NodeTitle_91=杀生为祀
+LK_Adventure_NodeTitle_92=较武结束
+LK_Adventure_27_ParamName_0=促织之证
+LK_Adventure_NodeTitle_94=促织大会
+LK_Adventure_NodeTitle_95=大赛资格
+LK_Adventure_NodeTitle_96=花落谁家
+LK_Adventure_NodeTitle_97=门派争端
+LK_Adventure_NodeTitle_98=远走高飞
+LK_Adventure_NodeTitle_99=进入废墟
+LK_Adventure_NodeTitle_100=荒郊破庙
+LK_Adventure_NodeTitle_101=虚与委蛇
+LK_Adventure_NodeTitle_102=铲除恶丐
+LK_Adventure_NodeTitle_103=追踪贼人
+LK_Adventure_NodeTitle_104=到达营寨
+LK_Adventure_NodeTitle_105=贼首会谈
+LK_Adventure_NodeTitle_106=贼首来袭
+LK_Adventure_NodeTitle_107=拦路抢劫
+LK_Adventure_NodeTitle_108=一较高下
+LK_Adventure_NodeTitle_109=一较胜负
+LK_Adventure_NodeTitle_110=背水一战
+LK_Adventure_NodeTitle_111=贼匪围攻
+LK_Adventure_NodeTitle_112=义士诛恶
+LK_Adventure_NodeTitle_113=包围恶徒
+LK_Adventure_NodeTitle_114=斩杀首领
+LK_Adventure_NodeTitle_115=择一相助
+LK_Adventure_NodeTitle_116=斩杀侠士
+LK_Adventure_33_ParamName_0=处决数量
+LK_Adventure_33_ParamName_1=降伏数量
+LK_Adventure_33_ParamName_2=放过数量
+LK_Adventure_NodeTitle_120=门派围谷
+LK_Adventure_NodeTitle_121=叛徒集伙
+LK_Adventure_NodeTitle_122=恶人踪迹
+LK_Adventure_NodeTitle_123=善恶不论
+LK_Adventure_NodeTitle_124=碑石林立
+LK_Adventure_NodeTitle_125=遇见元凶
+LK_Adventure_NodeTitle_126=迷雾重重
+LK_Adventure_NodeTitle_127=三生姻缘
+LK_Adventure_NodeTitle_128=举案齐眉
+LK_Adventure_NodeTitle_129=喜结良缘
+LK_Adventure_NodeTitle_130=患难夫妻
+LK_Adventure_NodeTitle_131=白首同心
+LK_Adventure_NodeTitle_132=玉面娘娘
+LK_Adventure_NodeTitle_133=鬼影阴风
+LK_Adventure_NodeTitle_134=毒雾侵袭
+LK_Adventure_NodeTitle_135=毒雾渐浓
+LK_Adventure_NodeTitle_136=天门地户
+LK_Adventure_NodeTitle_137=来龙去脉
+LK_Adventure_NodeTitle_138=明堂凶险
+LK_Adventure_NodeTitle_139=众鬼号哭
+LK_Adventure_NodeTitle_140=门派搜查
+LK_Adventure_NodeTitle_141=发现踪迹
+LK_Adventure_NodeTitle_142=商谈交易
+LK_Adventure_NodeTitle_143=江湖奇人
+LK_Adventure_NodeTitle_144=任侠会盟
+LK_Adventure_NodeTitle_145=寻踪觅迹
+LK_Adventure_NodeTitle_146=水天一色
+LK_Adventure_NodeTitle_147=岩壑闲远
+LK_Adventure_NodeTitle_148=妖人异士
+LK_Adventure_NodeTitle_149=竹林幽深
+LK_Adventure_NodeTitle_150=邪教祭坛
+LK_Adventure_NodeTitle_151=妖风骤起
+LK_Adventure_NodeTitle_152=不屈不挠
+LK_Adventure_NodeTitle_153=突出重围
+LK_Adventure_NodeTitle_154=决一死战
+LK_Adventure_NodeTitle_155=邪不胜正
+LK_Adventure_40_ParamName_0=杀戮
+LK_Adventure_NodeTitle_157=丧心侠士
+LK_Adventure_NodeTitle_158=炼心之祸
+LK_Adventure_NodeTitle_159=杀戮之志
+LK_Adventure_NodeTitle_160=陷入噩梦
+LK_Adventure_NodeTitle_161=杀戮之愿
+LK_Adventure_NodeTitle_162=噩梦中央
+LK_Adventure_NodeTitle_163=杀戮之气
+LK_Adventure_NodeTitle_164=破除妖法
+LK_Adventure_NodeTitle_165=魔教所在
+LK_Adventure_NodeTitle_166=道也魔也
+LK_Adventure_NodeTitle_167=魔教总坛
+LK_Adventure_NodeTitle_168=玄石之地
+LK_Adventure_NodeTitle_169=摩罗尊主
+LK_Adventure_NodeTitle_170=相枢幻身
+LK_Adventure_NodeTitle_171=入魔之人
+LK_Adventure_NodeTitle_172=行侠仗义
+LK_Adventure_NodeTitle_173=深入秘境
+LK_Adventure_NodeTitle_174=继续深入
+LK_Adventure_NodeTitle_175=斩除妖邪
+LK_Adventure_NodeTitle_176=无力回天
+LK_Adventure_NodeTitle_177=高人相斗
+LK_Adventure_NodeTitle_178=巧施援手
+LK_Adventure_NodeTitle_179=融会贯通
+LK_Adventure_NodeTitle_180=得偿所愿
+LK_Adventure_NodeTitle_181=宴饮之乐
+LK_Adventure_NodeTitle_182=美酒佳人
+LK_Adventure_NodeTitle_183=进入苗寨
+LK_Adventure_NodeTitle_184=月轮初升
+LK_Adventure_NodeTitle_185=明月为盟
+LK_Adventure_48_ParamName_0=认可度
+LK_Adventure_NodeTitle_187=来到祠堂
+LK_Adventure_NodeTitle_188=五行之命
+LK_Adventure_NodeTitle_189=祭拜先祖
+LK_Adventure_NodeTitle_190=先祖显灵
+LK_Adventure_50_ParamName_0=莲花
+LK_Adventure_50_ParamName_1=梅花
+LK_Adventure_50_ParamName_2=石榴花
+LK_Adventure_50_ParamName_3=金凤花
+LK_Adventure_50_ParamName_4=鸡冠花
+LK_Adventure_50_ParamName_5=木槿花
+LK_Adventure_50_ParamName_6=牡丹花
+LK_Adventure_NodeTitle_198=鸟语花香
+LK_Adventure_NodeTitle_199=花送佳人
+LK_Adventure_NodeTitle_200=阁楼献花
+LK_Adventure_52_ParamName_0=古朴幽真
+LK_Adventure_52_ParamName_1=情意绵绵
+LK_Adventure_52_ParamName_2=娓娓道来
+LK_Adventure_52_ParamName_3=风趣幽默
+LK_Adventure_52_ParamName_4=豪情壮志
+LK_Adventure_NodeTitle_206=山中歌会
+LK_Adventure_NodeTitle_207=山歌悠扬
+LK_Adventure_NodeTitle_208=山歌传情
+LK_Adventure_54_ParamName_0=亮度
+LK_Adventure_54_ParamName_1=治疗
+LK_Adventure_NodeTitle_211=长堤问灯
+LK_Adventure_NodeTitle_212=断桥问灯
+LK_Adventure_NodeTitle_213=湖畔放灯
+LK_Adventure_NodeTitle_214=明日映天
+LK_Adventure_NodeTitle_215=日渐西沉
+LK_Adventure_NodeTitle_216=考验良人
+LK_Adventure_NodeTitle_217=天高气爽
+LK_Adventure_NodeTitle_218=下聘求亲
+LK_Adventure_60_ParamName_0=距离
+LK_Adventure_NodeTitle_220=发现白马
+LK_Adventure_NodeTitle_221=白雪龙马
+LK_Adventure_NodeTitle_222=白马归轩
+LK_Adventure_NodeTitle_223=青牛出行
+LK_Adventure_NodeTitle_224=白马青牛 
+LK_Adventure_62_ParamName_0=清水
+LK_Adventure_62_ParamName_1=干渴
+LK_Adventure_NodeTitle_227=秦州城西
+LK_Adventure_NodeTitle_228=驼帮古道
+LK_Adventure_NodeTitle_229=沙海茫茫
+LK_Adventure_NodeTitle_230=黄沙碧幕
+LK_Adventure_64_ParamName_0=红线牢固
+LK_Adventure_NodeTitle_232=闹市红线
+LK_Adventure_NodeTitle_233=听闻红娘
+LK_Adventure_NodeTitle_234=求见红娘
+LK_Adventure_NodeTitle_235=新娘宅邸
+LK_Adventure_NodeTitle_236=等候红娘
+LK_Adventure_NodeTitle_237=等候良人
+LK_Adventure_66_ParamName_0=猴
+LK_Adventure_66_ParamName_1=鹰
+LK_Adventure_66_ParamName_2=猪
+LK_Adventure_66_ParamName_3=熊
+LK_Adventure_66_ParamName_4=牛
+LK_Adventure_66_ParamName_5=蛇
+LK_Adventure_66_ParamName_6=豹
+LK_Adventure_66_ParamName_7=狮
+LK_Adventure_66_ParamName_8=虎
+LK_Adventure_NodeTitle_247=云梦之会
+LK_Adventure_NodeTitle_248=云梦深处
+LK_Adventure_NodeTitle_249=清点猎物
+LK_Adventure_NodeTitle_250=登上擂台
+LK_Adventure_NodeTitle_251=八台守擂
+LK_Adventure_NodeTitle_252=四台守擂
+LK_Adventure_NodeTitle_253=最终决战
+LK_Adventure_NodeTitle_254=擂台比武
+LK_Adventure_70_ParamName_0=光泽
+LK_Adventure_70_ParamName_1=品质
+LK_Adventure_NodeTitle_257=穿天玉石
+LK_Adventure_NodeTitle_258=灵石传意
+LK_Adventure_71_ParamName_0=小白石
+LK_Adventure_71_ParamName_1=白明石
+LK_Adventure_71_ParamName_2=白玉石
+LK_Adventure_71_ParamName_3=夜光石
+LK_Adventure_71_ParamName_4=红晶石
+LK_Adventure_72_ParamName_0=支持数
+LK_Adventure_NodeTitle_265=歌船云集
+LK_Adventure_NodeTitle_266=情有独钟
+LK_Adventure_NodeTitle_267=百花争妍
+LK_Adventure_74_ParamName_0=安抚
+LK_Adventure_74_ParamName_1=箫
+LK_Adventure_74_ParamName_2=琴
+LK_Adventure_NodeTitle_271=黑熊循声
+LK_Adventure_NodeTitle_272=黑熊踪迹
+LK_Adventure_75_ParamName_0=破局
+LK_Adventure_NodeTitle_274=生机暗藏
+LK_Adventure_NodeTitle_275=菇罗棋布
+LK_Adventure_76_ParamName_0=描绘度
+LK_Adventure_NodeTitle_277=描绘孔雀
+LK_Adventure_77_ParamName_0=领悟度
+LK_Adventure_NodeTitle_279=水中游鱼
+LK_Adventure_NodeTitle_280=江河鲟鳇
+LK_Adventure_78_ParamName_0=灵气
+LK_Adventure_NodeTitle_282=金银引竹
+LK_Adventure_79_ParamName_0=发现度
+LK_Adventure_NodeTitle_284=金铁化血
+LK_Adventure_NodeTitle_285=岩洞寻宝
+LK_Adventure_NodeTitle_286=以玉叩石
+LK_Adventure_NodeTitle_287=宝玉凝金
+LK_Adventure_81_ParamName_0=火温
+LK_Adventure_NodeTitle_289=铁山崩塌
+LK_Adventure_82_ParamName_0=星光
+LK_Adventure_NodeTitle_291=起点
+LK_Adventure_NodeTitle_292=起点B
+LK_Adventure_NodeTitle_293=山岭之巅
+LK_Adventure_83_ParamName_0=神光
+LK_Adventure_NodeTitle_295=神石出世
+LK_Adventure_84_ParamName_0=探索度
+LK_Adventure_NodeTitle_297=神木引珍
+LK_Adventure_85_ParamName_0=布置
+LK_Adventure_NodeTitle_299=天蚕吐丝
+LK_Adventure_86_ParamName_0=福气
+LK_Adventure_NodeTitle_301=紫气东来
+LK_Adventure_NodeTitle_302=祸福难料
+LK_Adventure_NodeTitle_303=峡谷岔路
+LK_Adventure_NodeTitle_304=乐天知命
+LK_Adventure_NodeTitle_305=坚忍苦行
+LK_Adventure_87_ParamName_0=成功率
+LK_Adventure_NodeTitle_307=热气腾腾
+LK_Adventure_NodeTitle_308=观察灵物
+LK_Adventure_NodeTitle_309=全力一击
+LK_Adventure_NodeTitle_310=全力追击
+LK_Adventure_NodeTitle_311=消灭之法
+LK_Adventure_NodeTitle_312=地下冰窟
+LK_Adventure_NodeTitle_313=春冬分明
+LK_Adventure_NodeTitle_314=冰消雪化
+LK_Adventure_NodeTitle_315=冻杀百草
+LK_Adventure_89_ParamName_0=舍利子御气
+LK_Adventure_89_ParamName_1=女娲石防护
+LK_Adventure_NodeTitle_318=误入混沌
+LK_Adventure_NodeTitle_319=湖心小岛
+LK_Adventure_NodeTitle_320=离开混沌
+LK_Adventure_NodeTitle_321=瘴气弥漫
+LK_Adventure_NodeTitle_322=山中洞穴
+LK_Adventure_NodeTitle_323=探寻山顶
+LK_Adventure_NodeTitle_324=探寻洞穴
+LK_Adventure_NodeTitle_325=毒瘴袭来
+LK_Adventure_91_ParamName_0=尝毒度
+LK_Adventure_NodeTitle_327=遍尝百毒
+LK_Adventure_92_ParamName_0=寒意
+LK_Adventure_NodeTitle_329=逆寒而行
+LK_Adventure_NodeTitle_330=溯冰而上
+LK_Adventure_NodeTitle_331=奇寒灵物
+LK_Adventure_93_ParamName_0=腐臭
+LK_Adventure_NodeTitle_333=腐毒诱蛛
+LK_Adventure_NodeTitle_334=投入毒饵
+LK_Adventure_NodeTitle_335=青蛛巢穴
+LK_Adventure_94_ParamName_0=成长
+LK_Adventure_NodeTitle_337=云霞变幻
+LK_Adventure_NodeTitle_338=云霞离去
+LK_Adventure_95_ParamName_0=寻香
+LK_Adventure_NodeTitle_340=百花齐放
+LK_Adventure_NodeTitle_341=花香袅袅
+LK_Adventure_96_ParamName_0=中毒
+LK_Adventure_NodeTitle_343=血海寻蟾
+LK_Adventure_NodeTitle_344=竹庐附近
+LK_Adventure_NodeTitle_345=空无一人
+LK_Adventure_NodeTitle_346=山底暗河
+LK_Adventure_NodeTitle_347=神异之物
+LK_Adventure_NodeTitle_348=玄石紫竹
+LK_Adventure_NodeTitle_349=异变突起
+LK_Adventure_NodeTitle_350=村民踪迹
+LK_Adventure_NodeTitle_351=老道迷踪
+LK_Adventure_NodeTitle_352=荒废驿站
+LK_Adventure_NodeTitle_353=悍匪拦路
+LK_Adventure_NodeTitle_354=大王在此
+LK_Adventure_NodeTitle_355=小村遗孤
+LK_Adventure_NodeTitle_356=暗河出口
+LK_Adventure_NodeTitle_357=七元符图
+LK_Adventure_NodeTitle_358=赋性所向
+LK_Adventure_NodeTitle_359=合道得助
+LK_Adventure_NodeTitle_360=离开深谷
+LK_Adventure_NodeTitle_361=无名古墓
+LK_Adventure_NodeTitle_362=深入古墓
+LK_Adventure_NodeTitle_363=古墓仙人
+LK_Adventure_105_ParamName_0=赞誉
+LK_Adventure_NodeTitle_365=武林盟会
+LK_Adventure_NodeTitle_366=旗开得胜
+LK_Adventure_NodeTitle_367=群雄争霸
+LK_Adventure_NodeTitle_368=日月争光
+LK_Adventure_NodeTitle_369=武林盟主
+LK_Adventure_NodeTitle_370=我亦称雄
+LK_Adventure_NodeTitle_371=群英之证
+LK_Adventure_NodeTitle_372=焦土玄竹
+LK_Adventure_NodeTitle_373=玄竹降世
+LK_Adventure_NodeTitle_374=仙公出神
+LK_Adventure_NodeTitle_375=奇异诡境
+LK_Adventure_NodeTitle_376=寂灭之地
+LK_Adventure_NodeTitle_377=玄狱黑焰
+LK_Adventure_NodeTitle_378=前往剑冢
+LK_Adventure_NodeTitle_379=片刻小歇
+LK_Adventure_NodeTitle_380=到达剑冢
+LK_Adventure_NodeTitle_381=异光
+LK_Adventure_NodeTitle_382=光景
+LK_Adventure_NodeTitle_383=封魔神光

@@ -1,0 +1,57 @@
+Ponder with Recital
+增加此书页的研读进度。
+“Devote your whole mind, ponder and recite”\nReading aloud and thinking in heart makes a photographic memory…
+Lost Meditation
+提高此书页的研读效率。
+Is this what the chapter means？Well…Or like this？Umm…\nHuh？How come I am standing here？
+Unique Insights
+随机增加此书页的研读进度。
+The chapter does give some brilliant ideas, but from my point of view it may not be that flawless…
+Whims and Fancies
+随机提高此书页的研读效率。
+“一叶渔船两小童，收篙停棹坐船中。\n怪生无雨都张伞，不是遮头是使风。”
+照猫画虎
+使此书页已有的增加研读进度的研读策略都再次生效。
+此篇言深意远，颇为难解。\n但若依照前文各篇作解，总是无错……
+按图索骥
+使此书页已有的提高研读效率的研读策略都效果加倍。
+嗯……依书中所述，此句或是此意？\n果然不错……
+寻章摘句
+额外损耗此书的耐久，大幅增加此书页的研读进度。
+“神人妙笔，字字珠玑”……\n此处当为点睛之笔……
+含英咀华
+额外损耗此书的耐久，大幅提高此书页的研读效率。
+此篇乃全文精义所在，需得熟读深思……
+Review for the New
+对已研读完成的书页使用，可增加后续未研读完成的非亡佚书页的研读进度。
+“学而时习之，温故而知新”……
+Comprehensive Reading
+此书页在研读完成后，能够提高后续书页的研读效率。
+If this chapter could be confirmed by the others, presumably it would click into place. 
+枕经席文
+大幅增加此书页的研读进度。
+“业精于勤，荒于嬉”……\n不可有半点怠惰之心……
+十行俱下
+大幅提高此书页的研读效率。
+“一目直下三百字，胸中更无半点尘”……
+春诵夏弦
+对此书页使用研读策略时的悟性消耗减少10点，但此书页无法获得历练。
+“因材施教，因时制宜”……\n或能事半功倍……
+推敲化演
+对此书页使用研读策略时的悟性消耗减少10点。
+如此……这般……\n以此为解，果然承前启后，豁然开朗……
+心领得间
+消除此书页所使用过的所有研读策略，并根据消除的研读策略恢复一定的悟性。
+此篇解法……果有机窍！\n待我将此篇所述，字字拆解开来……
+Reflect and Ruminate
+消除此书页所使用过的所有研读策略。
+The meaning naturally sinks in, if read time and again…
+Gulp Down
+此书页不会被研读，但降低后续书页的研读效率。
+I’ll just put it aside for the moment and move on to the next one…
+Wisdom of Ignorance
+此书页不会被研读。
+This chapter seems paradoxical, hard to interpret in a moment\nBetter to memorize the essentials first, as it helps with literacy at least, if not with comprehension…
+义父注解
+增加义父所授《天枢玄机》的研读进度。
+“此篇已由义父细细注解，其中的奥秘自然一览无遗……”

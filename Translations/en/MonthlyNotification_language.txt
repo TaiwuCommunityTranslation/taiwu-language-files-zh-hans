@@ -1,0 +1,354 @@
+Early February
+The bucket handle returned to Yin. Metal and Jade resources in some locations in \n have recovered to some extent.
+Early March
+In the month of Jian Mao, Yang and Bu Qi. The resources of 'food', 'wood' and 'medicinal herbs' in \n some locations have recovered to some extent.
+Early April
+In the month of Jianchen, the bucket handle points east. \nSome locations have some degree of recovery of "food", "wood" and "medicinal herbs" resources.
+Early May
+In the month of Jian Si, the grass and trees are in full bloom. \Food", "wood" and "medicinal herbs" resources in some locations have recovered to some extent.
+Early June
+In the month of Jianwu, the rice seedlings are firstly gathered. \Food", "wood" and "fabric" resources in some places have recovered to some extent.
+Early July
+In the month of Jianwei, the bucket handle points south. \nSome locations have some degree of recovery of "food," "wood," and "fabric" resources.
+Early August
+In the month of Jian Shen, the cicadas are shrill. \nResources of "food", "wood" and "fabric" in some locations have recovered to some extent.
+Early September
+In the month of Jian You, the star of Shang flows westward. \n Some locations have recovered their "food", "wood", "fabric" and "medicinal" resources to some extent.
+Early October
+In the month of Jianxu, the bucket handle points west. The resources of "food", "wood", "fabric" and "medicinal herbs" in \n some locations have recovered to some extent.
+Early November
+In the month of Jianhai, the willow declines and the valley shows. \The resources of "gold and stone" and "fabric" in some locations have recovered to some extent.
+Early December
+In the month of Kenshi, all things are collected. \n Some locations have a certain degree of recovery of "gold stone" resources.
+Early January
+In the month of Jian Chou, the bucket handle points north. \n Some locations have a certain degree of recovery of "gold stone" resources.
+Graves Disappear
+The grave of {0} was completely damaged and disappeared because it had not been taken care of for a long time.
+Lair income
+{0} received the offerings of {3} at {1} on behalf of {2} ......
+Item Lost
+The {0} in the warehouse was lost due to exceeding the storage limit.
+Assassination
+{0} has been assassinated in {1} by JieQing Gate...
+No Shadow to Kill
+{0} died in {1} after being assassinated by the JieQing Gate for holding the Shadow Command...
+The Great Divide
+{0} departed from this life in {1}
+Enthralled by XiangShu
+{0} in {1} has been disturbed by XiangShu's evil thoughts and cannot be themselves.
+Possessed by XiangShu
+{0} in {1} has succumbed to the corruption of XiangShu and has become possessed.
+Build up a Feud
+{0} in {1} has been been imprisoned by {2} and resentful of {2}...
+Prison Escape
+{0} escaped from {2}'s imprisonment in {1}...
+Cricket Died
+{0} has perished.
+Resource Overflow
+Resources are over-capacity, causing the loss of {0} in {1}
+Resources are over-capacity, causing the loss of {0} in {1}
+Enmity Bred
+{0} has become enemies with {2} in {1}
+Rancor Melted
+{0} dissolved their hatred for {2} in {1} and are no longer enemies.
+Confession Successful
+In {1}, {0} confessed to {2} and finally impressed each other, the two have mutual love and affection.
+Couple Broken Up
+In {1}, {0} and {2} have broken up.
+Couple Married
+In {1}, {0} and {2} promised to each other for life and were married.
+Congeniality
+{0} and {2} in {1} had a good conversation and both felt very close to each other, so they became close friends.
+Estrangement
+The {0} and {2} are separated in {1}. The two drifted apart and are no longer close friends.
+New Sworn-Siblings
+In {1}, {0} and {2} became sworn-siblings, not seeking the same year and the same month and the same day, but seeking the same year and the same month and the same day to die.
+Fraternal Rupture
+{0} in {1} and {2} cut off the righteousness of the robe, and then no longer friendship, as the saying goes: less than the yellow spring, no see each other also.
+Adopting a foster son
+In {1}, {0} adopted {2} as their foster child
+Adopting a foster daughter
+In {1}, {0} adopted {2} as their foster child
+Acknowledge Adoptive Father
+{0} has accepted {2} as his Adoptive Father in {1}.
+Acknowledge Adoptive Mother
+{0} has accepted {2} as his Adoptive Mother in {1}.
+Blessed Night
+{0} spent the night with {2} in {1}. Niiice!
+Craving No-Holds-Barred
+At {1}, {0} and with an overwhelming desire, attempted to violate {2}, but was seen through by {2} and failed
+Stork Delivers a Boy
+{0} gave birth to a son in {1}
+Stork Delivers a Girl
+{0} gave birth to a daughter in {1}
+{0}'s son is born!
+{0}'s daughter is born!
+Abnormal Neonatus
+{0}'s child was finally born after three years and six months of pregnancy...
+A Mother’s Bereavement
+In {1}, {0} felt unwell and miscarried the fetus.
+Went To Study
+{0} went to {1} to learn martial arts.
+Joined A Sect
+{0} has joined {1} as a disciple.
+Going to an appointment
+{0} is heading to {1} for an appointment...
+Expecting
+{0} is {1} waiting {2} for an appointment...
+Appointment Broken
+In {1}, {0} waited for {2} for a long time, {2} but never came to the appointment...
+Appointment Cancelled
+{0} cancelled the appointment in {1} with {2}...
+To the rescue
+{0} learns that {1} is being held prisoner by {2} and decides to go to the rescue...
+Captives Rescued
+{0} freed {1} from the imprisonment of {2}
+Release
+{0} has released {2} at {1}.
+Missing Persons
+Last see in {1}, {0} is nowhere to be found...
+Revenge
+{0} decided to seek revenge on {1}...
+Protection
+{0} decided to go to protect {1} from {2}...
+Protecting friends and family
+{0} will fight against {2} on behalf of {1}...
+New appointments in the sect
+{0} becomes the {1} of {2}
+New Town Official
+New Faction Official
+{0} became the {1} faction leader.
+Stolen Resources
+{0} tried to steal {3} from {2} at {1}, but was unsuccessful.
+{0} steals a portion of {3} from {2} at {1}.
+Swindling Resources
+{0} at {1} tried to trick {2} out of {3}, but was unsuccessful.
+Swindled Resources
+{0} tried to trick {2} of {3} at {1}, but was unsuccessful.
+Grave Robbing
+{0} stole {3} from the grave of {2} in {1}.
+Stealing props
+Bluffing props
+Grabbing props
+Excavation props
+{0} stole {3} from the grave of {2} in {1}
+Stole Life Skill
+At {1}, {0} tried to steal {3} from {2}, but did not get any results.
+{0} stole {3} from {2} at {1}
+Swindling Life Skills
+{0} tried to swindle {2} in {1} to acquire {3}, but was unsuccessful.
+Steal Martial Arts
+Swindling Martial Arts
+A Token of Goodwill
+{0} gifted {3} to {2} at {1}.
+Trifling Gift, Genuine Friendship
+Tutoring Life Skills
+In {1}, {0} has tutored {2} in {3} studies.
+In {1}, {0} tried tutored {2} in {3} studies, but didn't get any results.
+Tutoring Martial Arts
+In {1}, {0} has tutored {2} in {3} studies.
+In {1}, {0} tried tutored {2} in {3} studies, but didn't get any results.
+Music Performance
+{0} listened to the music played by {2} at {1}.
+Game Of Chess
+{0} played a game of Chess against {2} in {1}.
+Poetry Reading
+{0} read the poems written by {2} at {1}
+Painting Showcase
+{0} viewed the paintings painted by {2} at {1}
+Masterpiece Manufactured
+{0} makes a {2} at {1}.
+Taoist Enlightenment
+{0} told {2} about the mysteries of the Tao in {1}, which enlightened {2} and enhanced {3}'s qualifications.
+Buddhist Enlightenment
+{0} spoke to {2} in {1} about the subtleties of Buddhism, which led to {2}'s enlightenment and enhanced {3}'s qualifications.
+Divination
+{0} divined in {1} a certain secret story possessed by {2}.
+Heavenly Treasures
+{0} accidentally obtained the very rare {2} at {1}.
+In {1}, {0} accidentally obtained {2}{3}.
+Matchless Adventure
+{0} accidentally obtained a {2} secret martial arts manual at {1}
+{0} has accidentally acquired a {2} secret copy of the life skill manual at {1}
+Divine Favor
+{0} in {1} dreamed of the magical white deer and recovered {2} points of health.
+{0} in {1} dreamed of the magical white deer and recovered from {2} point trauma.
+{0} in {1} dreamed of the magical white deer and recovered {2} points of internal injuries.
+{0} in {1} dreamed of the magical white deer, and the {2} in his body was relieved.
+{0} in {1} dreamed of the magical white deer and was able to calm his internal breath.
+Mischance
+{0} lost the very rare {2} by accident at {1}.
+{0} had an accidental loss of {2}{3} at {1}
+The Secret of Heavenly Loss
+{0} lost a {2} martial arts secret book by accident in {1}
+{0} accidentally lost a {2} secret copy of the craft at {1}
+Punishment: Heaven Sent Disaster
+{0} in {1} dreams of fierce and evil spirits, damaging {2} points of health.
+{0} in {1} dreamed of fierce and evil spirits, and received {2} a little trauma.
+{0} in {1} dreamed of fierce and evil spirits and received {2} points of internal injuries.
+{0} in {1} dreamed of fierce and evil spirits, and the {2} in the body increased.
+{0} in {1} dreams of fierce and evil spirits, and the internal breath becomes more disturbed.
+Resource Growth
+{0} of {1} has increased in size level.
+Resource Expansion
+{0} of {1} has expanded to the surrounding area.
+Construction Damage
+{0} of {1} is being compromised and the scale level is decreasing.
+Construction Collapse
+{1}’s {0} crumbled into debris.
+Construction Complete
+{1} has been constructed in {0}
+Expansion Complete
+{1} has been upgraded in {0}
+Removal Complete
+{1} have been removed from {0}
+Building Revenue
+{0} of {1} has a new crop.
+Dispatch Arrived
+The {1} dispatched to {0} has arrived at {0}.
+Nest of Beggars
+Heard that {0} there is a gathering of evil beggars...
+Camp of Thieves
+I heard that {0} there are thieves camping and causing harm...
+Fortress of Robbers
+I heard that {0} there are bandits out there, stopping the road to rob...
+Traitor Gang
+Heard that a group of renegades from {0} gathered at {1}...
+Villain Valley
+I heard that many evil people in the jianghu are hiding in {0}...
+Aroma Array
+Heard {0} from time to time, the sound of decadence, there are several men missing in the...
+Mass Grave
+I heard that {0} near the eerie, chaotic graves...
+Talents Residence
+Heard about a group of eccentric foreigners gathered at {0}...
+Otherworldly Cults
+Heard {0} in {1} scouting for foreign frontier cults, but then lost track of them...
+Shura Trial
+Heard {0} in {1} scouting for spooky blood, but then lost track of it...
+The Gathering of Demons
+I heard that several people who had fallen into the demonic path of the XiangShu suddenly gathered at {0}, and then they were nowhere to be found...
+Sect Betrayal
+Hearing that {0} suddenly disobeyed and betrayed their sect and appeared in {1}...
+New Year Bazaar
+Ringing the New Year in and the old year out, merchants from every quarter are running a bustling bazaar, with the folks coming for it filling every corner
+Town Tournament
+The summer heat, summer training three volts, {0} is holding a town match, the three religions and nine streams gathered together, high stage compared to the common blood heat.
+Cricket Vibrancy
+Attending the golden season, the chirping of crickets pervades hither and thither, as goes the poem“Under the window and among the tussock, into the yearning hearts and the sorrowful ears”
+World Cricket Congress
+The World Cricket Congress is holding at {0}! 
+Art Conference
+The snow is cold, the wind is cold, and for the people to live and breathe, {0} is hosting a {1} more artistic conference.
+Internal Junior Tournament
+Rumor has it that {0} is holding a small sect competition where low ranking disciples gather...
+Rumor has it that {0} is holding a small sect competition where high ranking disciples gather...
+Internal Master Tournament
+Rumor has it that {0} is holding a big sect competition, and all the senior members of the sect are participating in it...
+Martial Contest
+A declined nobleman is holding on a huge Martial Contest to looking for a spouse for their daughter at {0}...
+Break out from the tomb
+A powerful enemy calling himself "XiangShu Incarnation" came out of the "{0}" sword mound near Taiwu Village! He is coming straight to Taiwu Village!
+No girl is a scourge
+Because of the passing of Mo's daughter, {0} nearby people are affected by its scourge, {1} injured and poisoned!
+Yao is often a disaster
+Because of Dayue Yaochang often passed by, {0} nearby characters are affected by its scourge, {1} died!
+Nine cold as a scourge
+The geodesic grid near {0} was damaged due to the passage of Jiukan!
+Phoenix is a scourge
+Due to the passing of the golden phoenixer, {0} near {1} suffered a crossroad!
+Waiting is a curse.
+Because of the clothes to wait for the passage, {0} nearby characters are mourning, grief and indignation.
+Wei Qi is a scourge
+Weiqi transfers all damage to {1} near {0}!
+taking a direction for a disaster
+As a result of to pass by, {0} the position of the nearby characters has changed!
+Blood Maple as a scourge
+Due to the passage of Blood Maple, more pivotal minions appeared near {0}!
+Surgery is a scourge
+Due to the passing of the operative side, {0} near {1} age extra!
+Mowgirls Save the Suffering
+{0} was treated by a mysterious person who called herself Mo-chan at {1}.
+Yao Chang Saves Suffering
+The {0} who fell into the demonic path of the Sang-soo was captured in {1} by a mysterious man who called himself the Great Yue Yao Chang and was finally put to death ......
+Nine-Cold Relief
+{0}The nearby geographies are under the care of a mysterious man who calls himself Jiuchan, and all the resources are restored.
+Phoenix saves the suffering
+{0} saw the golden phoenix at {1} and subsequently received a heavenly cross blessing.
+in order to save the suffering
+{0} nearby characters are more likely to fall in love with others after meeting a mysterious person who calls himself Yi Yi Hou.
+Wei Qi saves suffering
+{0} was rescued by a mysterious man who called himself Wei Qi in {1} and transferred the injury to {2}.
+to the relief of suffering
+{0} The characters in the neighborhood are temporarily converted to a benevolent stance by a mysterious man who calls himself Ezra.
+Blood Maple to Save the Suffering
+{0} was attacked by a mysterious man calling himself Blood Maple at {1}.
+Artistic formula to save suffering
+{0} stumbled upon a mysterious man in {1} who called himself Jitsufang, and then seemed to get younger!
+Civilian Disappearance
+{0} was lost at {1} and was later confirmed dead.
+Caravan Departure
+The {0} caravan located at {1} departed.
+Heart Broken and Desperate
+{0} sad to leave Taiwu Village...
+Ruthless Natural Disaster
+There are rumors of a terrible natural disaster in {0} <color=#red> {1} </color> people died and <color=#red> {2} </color> locations were destroyed by the disaster!
+Last Farewell
+{0} vaguely in a dream, I saw the late {1} pointing in the direction of {2}, as if he had many words to tell {0}, but the yin and yang are separated, life and death are different, the voice can not communicate, after a long time, {1} only towards the direction pointed to drift away.
+Power Dissipation
+{0}The accumulated power of the Martial Arts skill has completely dissipated...
+Devastation
+{0} in {1} collapsed into ruins, and a huge demon emerged from the ruins of Taigo Village!
+Mysterious bamboo
+There is a purple bamboo growing on the mysterious stone near Taiwu Village.  Use the legendary sword hilts to awaken ZiZhu spirit within...
+Precious classic appeared
+{0} at {1} to obtain the long-lost {2} treasure trove.
+Alliance Failure
+Due to the fact that the key figures of various schools could not gather together, the World Martial Arts Alliance was not successfully held in the end...
+Preparing for the Alliance
+All the people together to help Taiwu! Jianghu schools are actively preparing for the world martial arts alliance in...
+The World Martial Arts Tournament
+The World Martial Arts Tournament is being held with a bang {0}, with key figures from various schools gathering for the event ......
+Aikikawa Takes Life
+[{0}] There are [{1}] people who have lost their lives fighting against the demonic chaos...
+News
+Be informed of new news: {0}
+Add a new secret
+Knowing the new secret: {0}
+Secret news expires next month
+Secret news about to expire: {0}
+Secret News Expired
+Secret News Expired: {0}
+Inhumans Now
+Calling Taiwu: The Inhumans are now in the world, and all are calling {0} Return to Taiwu Village ......
+Returning with a Festival
+Time has no regrets, after thirty years of trials and tribulations, the tea and horse gang has surprisingly returned to Taiwu Village...
+Audio Weakness
+For some reason, the Chama Gang lost contact with Taiwu Village...
+Return from the West
+The tea and horse gang returned to Taiwu Village without incident...
+Gain prestige
+As the secret news from {0} got spread, {0} gained {1} prestige...
+You are in {0} preparing for a prestigious match that has gathered guests!
+Martial Arts Sect
+Rumor has it that {0} is holding a disciples gathering for a sect competition...
+Go far away
+I heard that {0} there is a sect dispute, and the dispute seems to be related to "Taiwu"...
+Treasure From Nature
+After hearing about a natural disaster, {0} a foreign treasure descends...
+The Warriors Defend the Way
+Hearing that {0} there are people with lost hearts who have fallen into the demonic path of the XiangShu, many righteous people in the jianghu are trying to get rid of this scourge!
+The group of beggars to see and hear
+{0} in {1} on behalf of {2} recorded {3} poking around to get the insights...
+Camp revenue
+{0} collected {3} recent {4} silver money income in {1} behalf of {2}...
+Mountain Halt
+In {2}, {0} received {4} provided by {3} on behalf of {1}...
+The Evil One Raises the Bully
+{0} oversees {3} to proclaim prestige in {1}, so that {2} gains {4} prestige...
+Gathering of righteousness to eliminate evil
+{0} assisted {3} in {1} disposing of the villains, so that {2} gained {4} experience...
+Helping those in need
+{0} assisted {3} in {1} dealing with the jungle strife, so that {2} gained {4}% regional favor...
+Staffing Vacancies
+{0} unfortunately died while managing {2} of {1} and is no longer able to continue working for {3}...

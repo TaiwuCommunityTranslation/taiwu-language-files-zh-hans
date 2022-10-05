@@ -1,0 +1,108 @@
+Anti-Handguards
+If an enemy uses a palm set, attacks with this weapon or performs the Destruction Technique, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Sword
+If the enemy uses a sword, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Blade
+If the enemy uses a blade, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Poison
+If the enemy uses poisonous frost or poisonous sand,  attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Polearm
+If the enemy uses a polearm, attacks with this weaponor performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Soft·Wp
+If the enemy uses a Soft·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
+Anti-Hidden·Wp
+If the enemy uses a Hidden·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
+Anti-Exotic·Wp
+If the enemy uses a Exotic·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
+Anti-Melody
+If the enemy uses a music instrument, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
+Anti-Metal
+If the enemy uses Iron-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Anti-Wood
+If the enemy uses Wood-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Anti-Gem
+If the enemy uses Gem-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Anti-Weaving
+If the enemy uses Fabric-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Sharp
+This weapons armor-breaking abilities are increased by 20% 。
+Refined by fire
+Durability of this weapon is increased by 20%.
+Bloodbath
+This weapon is 50% better at breaking armor, but its durability is decreased by 50%.
+Blunt
+This weapon is 50% better at breaking armor, and its durability is increased by 50%.
+Venomous sting
+此兵器对敌人造成的毒害提高20%。
+Spiritual Use
+20% reduction in the requirement to use this weapon
+Blood Kills
+When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the enemy suffers 1 additional level of External Injury.
+Qi killing
+When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the enemy suffers 1 additional level of Internal Injury.
+Blood Transfusion
+When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the attacker takes 20% less External Injury.
+Qi Transformation
+When attacking with this weapon or performing the Destroy feat, the attacker takes 20% less internal Injury damage.
+Counter Handguards
+If the enemy uses a palm glove, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Sword
+If the enemy uses a Sword, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Blade
+If the enemy uses a Blade, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Poison
+If the enemy uses a poisonous attack,  if this guard is used to parry the enemy's attack or Break Skill, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% 
+Counter Polearm
+If the enemy uses a Polearm, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Soft·Wp
+If the enemy uses a Soft·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Hidden·Wp
+If the enemy uses a Hidden·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Exotic·Wp
+If the enemy uses a Exotic·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Melody
+If the enemy uses a music instrument, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Metal
+If the enemy uses a Metal weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+Counter Wood
+If the enemy uses a Wood weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+Counter Gem
+If the enemy uses a Gem weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+Reflection of Weaving
+If the enemy uses a Fabric weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+Hidden Sharpness
+The breaking edge of this piece of gear is increased by 20%.
+Snow Refining
+Durability of this piece of gear is increased by 20%.
+Blood Coat
+This piece of gear has a 50% increase in blade breakage and a 50% reduction in Durability.
+Tenacious
+This piece of gear has a 50% increase in blade breakage and a 50% increase in Durability.
+This piece of gear causes 20% more poison damage to enemies.
+20% reduction in the requirements to use this piece of gear.
+Physical Protection
+When using this piece of gear to defend against enemy attacks or Break Skill, if this gear is damaged, the External Injury inflicted by the enemy is reduced by 1 level.
+Qi·Protection
+When using this piece of gear to defend against enemy attacks or Break Skill, if this gear is damaged, the internal injury inflicted by the enemy is reduced by 1 level.
+Retributing Physical
+When using this piece of gear to defend against enemy attacks or break skill, the external injury damage inflicted by the recipient is increased by 20%.
+Retributing Qi
+When using this piece of gear to parry an enemy attack or Break Skill, the recipient deals 20% more Internal Injury.
+Reinforcement
+The durability of this equipment is increased by 20%.
+Balance
+The weight of this equipment has been reduced by 20%.
+Valuable
+The value of this equipment is increased by 30%.
+Gift
+The popularity of this equipment is increased by 30%.
+Heavy
+The durability of this equipment is increased by 50% and its weight is increased by 50%.
+Light
+The weight of this equipment is reduced by 50% and its durability is reduced by 50%.
+Ritual
+The value of this equipment is increased by 75% and its popularity is reduced by 75%.
+Collectible 
+The popularity of this equipment is increased by 75%, and its value is reduced by 75%.
+Made by Adoptive Father
+The durability of this weapon is increased by 100%.

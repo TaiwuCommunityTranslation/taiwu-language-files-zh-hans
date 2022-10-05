@@ -1,0 +1,18 @@
+Acritoxin
+Acri
+Acritoxin, being the most potent, unhinges a mind and overwhelms a man\nIt triggers a certain number of times per battle, which generates Pyrotoxin and deals External damage depending on its amount.
+Umbritoxin
+Umbri
+Umbritoxin, mounts with latent intervals, lasting a long time.\nIt triggers after moving a certain distance in battle, which generates Cryotoxin and deals Internal damage depending on its amount. 
+Cryotoxin
+Cryo
+Cryotoxin, chills through the meridians, and halts the circulation\n It triggers a certain amount of Qi is used in combat, which generates Oneirotoxin and worsens some Internal injury depending on its amount.
+Pyrotoxin
+Pyro
+Pyrotoxin, scorches every orifice over and over. \n Triggers after a certain amount of Stance changes, which generates Necrotoxin and worsens some External Injuries depending on its amount.
+Necrotoxin
+Necro
+Necrotoxin, infiltrates deep into the spinal cord, gnawing away flesh and blood.\n It continuously generates Acritoxin and reduces your PhD.
+Oneirotoxin
+Oneiro
+Oneirotoxin, it clouds and confuses the mind. \n It continuously generates Umbritoxin and reduces your Qi Defense in battle.
