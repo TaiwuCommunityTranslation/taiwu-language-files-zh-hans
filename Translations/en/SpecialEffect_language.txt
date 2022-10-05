@@ -243,7 +243,7 @@ When defending with this technique: the degree of injury of all direct damage re
 Arhat's Stick Formation
 The user's helper can use the "defense" command more frequently to perform Aegis to defend the user against enemy attacks.
 Buddhism Lion Roar
-Attrition of enemy's foot power
+Attrition of enemy's Stamina
 Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's body and foot strength will be lost.
 Mixed Element In One
 Changing Qi to Body
@@ -324,7 +324,7 @@ When defending with this technique, whenever the user successfully counters an e
 3 Flower On Top
 If the total number of defeat marks of the user exceeds half of the defeat condition, all direct damage dealt by the enemy to the user is significantly reduced.
 9 Rollings
-Restoring your own foot power
+Restoring your own Stamina
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user's stance and foot strength will be restored
 Sword Or Blade
 skill power up
@@ -554,7 +554,7 @@ Increase Aegis power
 During the duration of this body technique, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
 Lighten Body
 Improve foot recovery
-When advancing with this stance, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of foot power recovery
+When advancing with this stance, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of Stamina recovery
 The Great Flip
 Whenever the user hits an enemy with a "long weapon" during the duration of this stance, the user's kick strength is restored.
 9 Maps And 6 Statues
@@ -562,7 +562,7 @@ Increase Aegis time
 During the duration of this body technique, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
 Crossing The River With A Reed
 Immune Spd Dn
-During the duration of this stance: the enemy cannot eliminate the user's stance and foot power; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
+During the duration of this stance: the enemy cannot eliminate the user's stance and Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
 Shorten Distance
 Basic Atk All SWI
 During the duration of this stance, as long as the enemy has no effect that can change the way of defusing, all weapon attacks of the user will be hit with swiftness.
@@ -653,7 +653,7 @@ Fairy Footsteps
 Move Closer
 During the duration of this stance, when the enemy attacks the user, the distance between the enemy and me is immediately reduced by 2. The reduced distance will be restored after the enemy's attack ends
 Divine Swift
-During the duration of this stance: the enemy cannot eliminate the stance and foot power of the user; when the distance between the user and the enemy is not less than 7, the user does not consume stance when moving.
+During the duration of this stance: the enemy cannot eliminate the stance and Stamina of the user; when the distance between the user and the enemy is not less than 7, the user does not consume stance when moving.
 Above The Sky
 Enhanced subtle gain
 During the duration of this body technique: the user's subtlety will not be reduced by any effect; all subtlety-raising feats and status effects received by the user are greatly increased
@@ -750,7 +750,7 @@ During the duration of this technique, whenever the user hits an enemy with a "c
 Sky River Walk
 During the duration of this stance, for every 1 distance the user advances, the user draws 1 point of "Break" true qi from the enemy's body.
 Take 5 Cars
-When advancing with this stance, the user needs to accumulate power to move 2 distances at once, and then recover the user's foot power
+When advancing with this stance, the user needs to accumulate power to move 2 distances at once, and then recover the user's Stamina
 Divine Rope
 During the duration of this stance: the enemy cannot eliminate the stance and kick of the user; when the user attacks the enemy, the distance between the enemy and me is immediately reduced by 4. The reduced distance will be restored after the end of the user's attack
 Seven-Star Spin
@@ -1272,8 +1272,8 @@ Great Jade Yang\nFist
 When you start to perform this technique, the more the number of levels of the duration effect of all the "Break" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
 Dragon Palm
 Change skills
-When this kung fu technique reaches 10% of its power, the user gains 3 levels of this effect: all of the kung fu techniques performed by the user will be changed into this kung fu technique, and the power of the changed kung fu techniques will be greatly increased according to the power of this kung fu technique until the end of the battle; the effect of the changed kung fu techniques will be temporarily changed to: "When this kung fu technique reaches 10% of its power, the enemy's "Aegis" will be removed. kung fu and all body and foot power".
-When this technique is used at 10% of its power, it will eliminate the enemy's "Aegis" technique and all body and foot power.
+When this kung fu technique reaches 10% of its power, the user gains 3 levels of this effect: all of the kung fu techniques performed by the user will be changed into this kung fu technique, and the power of the changed kung fu techniques will be greatly increased according to the power of this kung fu technique until the end of the battle; the effect of the changed kung fu techniques will be temporarily changed to: "When this kung fu technique reaches 10% of its power, the enemy's "Aegis" will be removed. kung fu and all body and Stamina".
+When this technique is used at 10% of its power, it will eliminate the enemy's "Aegis" technique and all body and Stamina.
 Flying Sand
 When this technique is used at 10% of its power, for every 2 "throws" the user has, the level of damage caused by the user to the enemy will increase by 1 additional level.
 Thunder Fire
@@ -2302,7 +2302,7 @@ HU·Gecko's Crawling
 Reducing the power of enemy Aegis
 During the duration of this body technique, the power of the enemy's "Aegis" technique is reduced and lasts until the end of the "Aegis" technique.
 HU·Lighten Body
-When retreating with this stance, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of recovery of foot power
+When retreating with this stance, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of recovery of Stamina
 HU·The Great Flip
 Whenever the user hits an enemy with a "long weapon" during the duration of this stance, the enemy's foot strength will be lost.
 HU·9 Maps And 6 Statues
@@ -2388,7 +2388,7 @@ During the duration of this stance, the enemy's recoil damage is significantly r
 HU·Fairy Footsteps
 During the duration of this stance, when the enemy attacks the user, the distance between the enemy and me will immediately increase by 2. The increased distance will be restored after the enemy's attack ends
 HU·Divine Swift
-During the duration of this stance: the enemy cannot eliminate the stance and foot power of the user; when the distance between the user and the enemy is not greater than 7, the user does not consume stance when moving.
+During the duration of this stance: the enemy cannot eliminate the stance and Stamina of the user; when the distance between the user and the enemy is not greater than 7, the user does not consume stance when moving.
 HU·Above The Sky
 Enhancement of demolition trick to reduce the benefit
 During the duration of this stance: the enemy's dismantling moves will not be increased by any effect; the enemy suffers a significant increase in all feats and status effects that reduce dismantling moves
@@ -2475,7 +2475,7 @@ Whenever the user hits an enemy with a "concealed weapon" during the duration of
 HU·Sky River Walk
 During the duration of this stance, for every distance the user accumulates back, the user draws 1 point of "Aegis" true qi from the enemy's body.
 HU·Take 5 Cars
-When retreating with this stance, the user needs to accumulate power to move 2 distances at once, and then recover the user's foot power
+When retreating with this stance, the user needs to accumulate power to move 2 distances at once, and then recover the user's Stamina
 HU·Divine Rope
 During the duration of this stance: the enemy cannot eliminate the stance and kick of the user; when the user attacks the enemy, the distance between the enemy and me will immediately increase by 4. The increased distance will be restored after the end of the user's attack
 HU·Seven-Star Spin
@@ -3615,7 +3615,7 @@ Out-of-bounds Heart Swallowing
 The more direct damage an armature deals to a character with a higher enchantment value, the more direct damage a character with a lower enchantment value deals to an armature.
 hidden dust
 Dissolve the dust and hide back to God!
-The "Hidden Dust" cannot be blocked; after the Dyeing Duster evokes the Excalibur "Dissolving Dust Hidden", the Dyeing Duster's movement will only be a change of distance between the enemy and me, and will not cause various movement effects, and the Dyeing Duster's movement will not consume foot power or stance, and will last until the Dyeing Duster evokes another Excalibur.
+The "Hidden Dust" cannot be blocked; after the Dyeing Duster evokes the Excalibur "Dissolving Dust Hidden", the Dyeing Duster's movement will only be a change of distance between the enemy and me, and will not cause various movement effects, and the Dyeing Duster's movement will not consume Stamina or stance, and will last until the Dyeing Duster evokes another Excalibur.
 Transfiguration Lotus
 Mok female clothes to God!
 The "Lotus of Life" can't be blocked; after the stained dust child evokes the divine sword "Mo Maiden Cloth", it is protected from all direct poisoning, and the degree of direct damage that the stained dust child receives at one time can't exceed 3 levels
@@ -3639,8 +3639,8 @@ lit. wear blood and hang flames
 Dragon whispering Por will not be sealed points, and the direct internal injuries suffered by a significant reduction, suffered by the direct external injuries increased significantly; Dragon whispering Por the more external injury markings on its body, the more the power of all its divine power will increase
 An inch into a dream
 Attrition of enemy action
-After this divine power exerts ten percent of its power, Mo Nui gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of its foot power, stance, lift and stance
-After this divine power has been exerted at 10%, the user gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all foot power, stance, lift and stance.
+After this divine power exerts ten percent of its power, Mo Nui gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of its Stamina, stance, lift and stance
+After this divine power has been exerted at 10%, the user gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all Stamina, stance, lift and stance.
 The Seven Waters of the Pond
 Continuing to cause poisoning
 If the enemy is within range of Mo's attack while this power is being applied: Mo causes the enemy to be continuously poisoned with 3 random types of poison
@@ -3648,7 +3648,7 @@ If the enemy is within the attack range of the user during the application of th
 Five-color warbler
 When she starts to use this power, MoM gains 6 levels of this effect: Whenever an enemy attacks MoM with a weapon, MoM immediately makes 2 weapon attacks on the enemy; when she attacks an enemy with this power, MoM consumes all the remaining levels of this effect to increase the power of this power
 broken hearted dream
-After this divine power exerts ten percent of its power, Mo Nui gains 6 levels of this effect: Whenever an enemy accumulates 2 distance of movement, the enemy loses all of its foot power, stance, lift and stance
+After this divine power exerts ten percent of its power, Mo Nui gains 6 levels of this effect: Whenever an enemy accumulates 2 distance of movement, the enemy loses all of its Stamina, stance, lift and stance
 After this divine power has been exerted to 10%, the user gains 6 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of his kicks, stance, lift, and stance.
 Xuan Tan Ghost Poison
 If the enemy is within the range of Mo's attack while this divine power is being applied: Mo causes the enemy to suffer 6 different types of poison continuously
@@ -3744,8 +3744,8 @@ No heart, no mind
 During the application of this power, the chance of the enemy hitting the direction of the enemy is halved, and whenever the enemy fails to hit the direction of the enemy, the enemy randomly appears 2 sealed points
 During the application of this power, the chance of the enemy hitting the user is halved, and whenever the enemy fails to hit the user, the enemy randomly appears 2 sealed points
 Swordless Sword
-When you start to perform this power, you will recover all your body and foot power; when you attack the enemy with this power, the more foot power you have left, the more the power of this power will increase.
-When you start to use this power, you will regain all your body and foot power; when you attack the enemy with this power, the more foot power you have left, the more the power of this power will increase.
+When you start to perform this power, you will recover all your body and Stamina; when you attack the enemy with this power, the more Stamina you have left, the more the power of this power will increase.
+When you start to use this power, you will regain all your body and Stamina; when you attack the enemy with this power, the more Stamina you have left, the more the power of this power will increase.
 soulless soul
 Promote hair protection Quick
 When you start to use this power, you can use the "Aegis" and "Quick" powers immediately and at the same time without the need to use them, and the power of these powers will be greatly increased until the end of these powers.
