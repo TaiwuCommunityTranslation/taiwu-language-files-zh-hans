@@ -991,7 +991,7 @@ When this incantation is at ten percent power, it will cause the enemy's 1 "odd 
 5 Animals Fist
 After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of injury of external injury suffered by the user is reduced by 1 level
 The Great Snow\nMountain Palm
-The more the current values of Strength, Agility, Physique, Root and Bone, Perception and Willpower of the user are higher than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
+The more the current values of Strength, Agility, Constitution, Root and Bone, Perception and Willpower of the user are higher than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 Blood Palm
 When you start to perform this technique, the deeper the enemy is poisoned with red, the more the power of this technique will increase
 Osbeck Bone Melt
@@ -2678,7 +2678,7 @@ When this incantation is at 10% of its power, it will cause the enemy's 2 "odd t
 HU·5 Animals Fist
 After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of direct internal injuries suffered by the user is reduced by 1 level
 HU·The Great Snow\nMountain Palm
-The more the current values of Strength, Agility, Physique, Root and Bone, Enlightenment, and Willpower of the user are lower than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
+The more the current values of Strength, Agility, Constitution, Root and Bone, Enlightenment, and Willpower of the user are lower than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 HU·Blood Palm
 When you start to perform this technique, the deeper the red poison the user has, the more the power of this technique will increase
 HU·Osbeck\nBone Melt Palm
