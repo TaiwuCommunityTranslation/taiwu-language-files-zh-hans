@@ -604,7 +604,7 @@ During the duration of this body technique: the user's heart will not be reduced
 5 Steps of Plum Poling
 During the duration of this stance, if the hit of the user when attacking an enemy is lower than the enemy's resolution, the user's chance of hitting the enemy is greatly increased.
 8 Trigrams Step
-During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Stance will be reduced to recover.
+During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Footwork will be reduced to recover.
 Cloud Surround
 Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this body technique, the user's kick strength is restored.
 Big Dipper Step of Heavenly Spirit
@@ -676,7 +676,7 @@ Enhanced Swift Gain
 During the duration of this body technique: the swiftness of the user will not be reduced by any effect; all swiftness-enhancing feats and status effects received by the user will be greatly increased
 Luoshen's Riversteps
 Restore your momentum
-Every time you advance 1 distance with this Stance, you will regain your energy and Stance.
+Every time you advance 1 distance with this Footwork, you will regain your energy and Footwork.
 Feather Stance
 Causing breakage and sealing points
 When advancing with this stance, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the more random parts of the enemy will be added to the breakage, sealing points
@@ -693,8 +693,8 @@ Stardust Avoiding Anger
 Increase weapon armor breaking
 When the user attacks an enemy during the duration of this technique, the armor of the user's weapon will be significantly increased if the level of the enemy's armor is not higher than the level of the weapon used by the user.
 Dragon Riding
-Body technique instead of Stance
-During the duration of this Stance: the enemy cannot eliminate the user's Stance and kicks; if the user's Stance is not enough to perform the "Destroy" technique, the user's Stance can be consumed instead of the user's Stance.
+Body technique instead of Footwork
+During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and kicks; if the user's Footwork is not enough to perform the "Destroy" technique, the user's Footwork can be consumed instead of the user's Footwork.
 Tiankai Flowing Meteor Style
 Enhanced force gain
 During the duration of this body technique: the strength of the user will not be reduced by any effect; all strength-raising techniques and status effects that the user receives are greatly increased
@@ -733,7 +733,7 @@ Free from breakage and sealing points
 During the duration of this body method, when the distance between the enemy and me is not less than 7, the user will not appear new breakthroughs and will not be closed acupuncture points
 Rope Overhang
 Improves aura recovery
-Every time you move 1 distance with this Stance, you apply a gain status to the user that increases your Qi recovery and Stance recovery.
+Every time you move 1 distance with this Footwork, you apply a gain status to the user that increases your Qi recovery and Footwork recovery.
 Hundred Feet's Drill
 Attrition of the enemy's Aegis
 During the duration of this technique, when the user attacks an enemy, he/she will first hit the enemy with a swift attack that decreases with the number of times it is used. If the enemy fails to neutralize this swift attack, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced.
@@ -776,7 +776,7 @@ Wind Fire Stance
 Whenever the user hits an enemy with a "sword" type weapon during the duration of this stance, the user's kick strength is restored.
 Drunk Lying In The East Sea
 Increase the power of gong methods
-If the user is drunk during the duration of this technique, the user will consume all of the user's energy and Stance when performing the "Destroy" technique, but the power of the technique will also increase in proportion to the amount of energy and Stance required to perform it.
+If the user is drunk during the duration of this technique, the user will consume all of the user's energy and Footwork when performing the "Destroy" technique, but the power of the technique will also increase in proportion to the amount of energy and Footwork required to perform it.
 Fox Move
 Accelerated mobile storage
 When moving forward with this stance, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
@@ -2366,7 +2366,7 @@ The broken qi of the leg technique performed by the user with this stance is gre
 HU·Step Alone A Thousand Mile
 Whenever you retreat 1 distance with this stance, the strength of your feet is restored.
 HU·Mysterious Armor
-During the duration of this Stance: the enemy cannot eliminate the user's Stance and kicks; the user can perform the kicks without consuming qi or Stance
+During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and kicks; the user can perform the kicks without consuming qi or Footwork
 HU·Shake Mountain
 During the duration of this stance, whenever the user deals direct damage to the enemy, the enemy's stance and foot strength are lost.
 HU·Iron Bridge
@@ -2409,7 +2409,7 @@ HU·Lady Azure's Icesteps
 Enhanced evasion mitigation
 During the duration of this stance: the enemy's dodge will not be increased by any effect; all dodge-reducing feats and status effects suffered by the enemy are greatly increased
 HU·Luoshen's Riversteps
-Every time you retreat 1 distance with this Stance, you will regain your energy and Stance.
+Every time you retreat 1 distance with this Footwork, you will regain your energy and Footwork.
 HU·Feather Stance
 When retreating with this stance, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the more random parts of the enemy will be added to the breach, sealing points
 HU·Wooden Track
@@ -2460,7 +2460,7 @@ HU·Flying Head
 During the duration of this body method, when the distance between the enemy and me is not greater than 7, the user will not appear a new breach nor be closed acupuncture points
 HU·Rope Overhang
 Surrendering the enemy's momentum to restore
-Every time you move 1 distance with this Stance, you apply a reduced benefit status to the enemy that reduces your Qi recovery and Stance recovery.
+Every time you move 1 distance with this Footwork, you apply a reduced benefit status to the enemy that reduces your Qi recovery and Footwork recovery.
 HU·Hundred Feet's Drill
 Attrition of the enemy's bodywork
 During the duration of this stance, when the user is attacked by an enemy, the user will deal a swift hit to the enemy that decreases with the number of hits.
@@ -2497,7 +2497,7 @@ During the duration of this stance, when the user is attacked by an enemy, the u
 HU·Wind Fire Stance
 Whenever the user hits an enemy with a "knife" type weapon during the duration of this stance, the enemy's kick strength will be lost.
 HU·Drunk Lying In The East Sea
-If the user is drunk during the duration of this body technique, the user can perform the "Destroy" technique without the required Qi and Stance, but the power of the technique will be reduced in proportion to the lack of Qi and Stance.
+If the user is drunk during the duration of this body technique, the user can perform the "Destroy" technique without the required Qi and Footwork, but the power of the technique will be reduced in proportion to the lack of Qi and Footwork.
 HU·Fox Move
 When retreating with this stance, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 HU·Tomb Escape
@@ -3639,8 +3639,8 @@ lit. wear blood and hang flames
 Dragon whispering Por will not be sealed points, and the direct internal injuries suffered by a significant reduction, suffered by the direct external injuries increased significantly; Dragon whispering Por the more external injury markings on its body, the more the power of all its divine power will increase
 An inch into a dream
 Attrition of enemy action
-After this divine power exerts ten percent of its power, Mo Nui gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of its Stamina, Stance, lift and Stance
-After this divine power has been exerted at 10%, the user gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all Stamina, Stance, lift and Stance.
+After this divine power exerts ten percent of its power, Mo Nui gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of its Stamina, Footwork, lift and Footwork
+After this divine power has been exerted at 10%, the user gains 3 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all Stamina, Footwork, lift and Footwork.
 The Seven Waters of the Pond
 Continuing to cause poisoning
 If the enemy is within range of Mo's attack while this power is being applied: Mo causes the enemy to be continuously poisoned with 3 random types of poison
@@ -3648,8 +3648,8 @@ If the enemy is within the attack range of the user during the application of th
 Five-color warbler
 When she starts to use this power, MoM gains 6 levels of this effect: Whenever an enemy attacks MoM with a weapon, MoM immediately makes 2 weapon attacks on the enemy; when she attacks an enemy with this power, MoM consumes all the remaining levels of this effect to increase the power of this power
 broken hearted dream
-After this divine power exerts ten percent of its power, Mo Nui gains 6 levels of this effect: Whenever an enemy accumulates 2 distance of movement, the enemy loses all of its Stamina, Stance, lift and Stance
-After this divine power has been exerted to 10%, the user gains 6 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of his kicks, Stance, lift, and Stance.
+After this divine power exerts ten percent of its power, Mo Nui gains 6 levels of this effect: Whenever an enemy accumulates 2 distance of movement, the enemy loses all of its Stamina, Footwork, lift and Footwork
+After this divine power has been exerted to 10%, the user gains 6 levels of this effect: Whenever the enemy accumulates 2 distances of movement, the enemy loses all of his kicks, Footwork, lift, and Footwork.
 Xuan Tan Ghost Poison
 If the enemy is within the range of Mo's attack while this divine power is being applied: Mo causes the enemy to suffer 6 different types of poison continuously
 If the enemy is within the attack range of the wielder during the application of this power: the wielder causes the enemy to suffer 6 different types of poison continuously
@@ -3657,8 +3657,8 @@ Chaotic colored warbler
 When she starts to use this power, MoM gains 6 levels of this effect: Whenever an enemy attacks MoM with a weapon, MoM immediately makes 4 weapon attacks on the enemy; when she attacks an enemy with this power, MoM consumes all the remaining levels of this effect to significantly increase the power of this power
 Break the demonic filth
 Continuously causing wear and tear
-During the process of exercising this divine power, if the enemy is within the attack range of Dayue Yao Chang, constantly lose the enemy's Stance, Stamina, Qi lifting and Stance
-During the process of exercising this divine power, if the enemy is within the attack range of the applicator, the enemy's Stance, kick, lift and Stance will be continuously lost
+During the process of exercising this divine power, if the enemy is within the attack range of Dayue Yao Chang, constantly lose the enemy's Footwork, Stamina, Qi lifting and Footwork
+During the process of exercising this divine power, if the enemy is within the attack range of the applicator, the enemy's Footwork, kick, lift and Footwork will be continuously lost
 Exterminate the three cuts
 Automatic application of divine power
 At the end of this power, the power of this power increases cumulatively and lasts until the end of the battle, and Da Yue Yao Chang can repeat this power 2 times and attack the enemy with 40% power from 50% of the progress of the power without consumption
@@ -3868,7 +3868,7 @@ Three Swords - Voodoo Iron
 Attrition of the enemy
 Dayue Yao Chang - Solution
 Dayue Yao Chang - robbery
-When you start to perform this divine power, if the enemy is within the range of Dyeing Dusty's attack, all of the enemy's Stance, kick, lift and Stance will be lost.
+When you start to perform this divine power, if the enemy is within the range of Dyeing Dusty's attack, all of the enemy's Footwork, kick, lift and Footwork will be lost.
 When Da Yue Yao Chang completes the chapter of the solution, when Dyeing Dust Son starts to perform this divine power, all the enemy's weaknesses are eliminated
 Da Yue Yao Chang completed the chapter of robbery, dyeing dust son began to cast this divine power when the enemy appeared 1 level 4 breakage
 Four-Five Swords
