@@ -752,7 +752,7 @@ During the duration of this Footwork, for every 1 distance the user advances, th
 Take 5 Cars
 When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then recover the user's Stamina
 Divine Rope
-During the duration of this Footwork: the enemy cannot eliminate the Footwork and kick of the user; when the user attacks the enemy, the distance between the enemy and me is immediately reduced by 4. The reduced distance will be restored after the end of the user's attack
+During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the user attacks the enemy, the distance between the enemy and me is immediately reduced by 4. The reduced distance will be restored after the end of the user's attack
 Seven-Star Spin
 During the duration of this Footwork, the less chance the user has left to attack, the more the user's attack speed will increase.
 Heaven Leap
@@ -2477,7 +2477,7 @@ During the duration of this Footwork, for every distance the user accumulates ba
 HU·Take 5 Cars
 When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then recover the user's Stamina
 HU·Divine Rope
-During the duration of this Footwork: the enemy cannot eliminate the Footwork and kick of the user; when the user attacks the enemy, the distance between the enemy and me will immediately increase by 4. The increased distance will be restored after the end of the user's attack
+During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the user attacks the enemy, the distance between the enemy and me will immediately increase by 4. The increased distance will be restored after the end of the user's attack
 HU·Seven-Star Spin
 The more attack opportunities remaining for the user during the duration of this Footwork, the more the attack speed of the user will increase.
 HU·Heaven Leap
