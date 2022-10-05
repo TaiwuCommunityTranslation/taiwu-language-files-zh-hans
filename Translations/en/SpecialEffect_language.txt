@@ -355,7 +355,7 @@ Overlord's Tripot Lifting
 Direct Dmg
 The heavier the weight of the weapon, the more direct damage the user can inflict on the enemy.
 Lion Roar
-When the battle starts and the total number of defeat marks of the user exceeds half of the defeat condition, all the enemy's stances and kicks are eliminated
+When the battle starts and the total number of defeat marks of the user exceeds half of the defeat condition, all the enemy's Footwork and Stamina are eliminated
 Overlord's Armor Absorb
 E·Force Dn
 When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Body Protecting" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the user's depleted "Body Protecting" True Qi will change to "Destroying" True Qi
