@@ -244,7 +244,7 @@ Arhat's Stick Formation
 The user's helper can use the "defense" command more frequently to perform Aegis to defend the user against enemy attacks.
 Buddhism Lion Roar
 Attrition of enemy's Stamina
-Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's body and foot strength will be lost.
+Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's body and Stamina will be lost.
 Mixed Element In One
 Changing Qi to Body
 Avoid direct internal injuries
@@ -325,7 +325,7 @@ When defending with this technique, whenever the user successfully counters an e
 If the total number of defeat marks of the user exceeds half of the defeat condition, all direct damage dealt by the enemy to the user is significantly reduced.
 9 Rollings
 Restoring your own Stamina
-When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user's Footwork and foot strength will be restored
+When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user's Footwork and Stamina will be restored
 Sword Or Blade
 skill power up
 When the user performs a sword technique with a sword, the power of the sword technique increases
@@ -347,7 +347,7 @@ When defending with this technique: the user will not lose true qi; if the user 
 Iron Head of Lion Phase
 When defending with this technique, any external injury to the head and neck caused by the enemy at once with a degree of not more than 4 is invalid.
 Comrade Service
-Whenever an enemy deals direct damage to the user, the user's foot strength is restored
+Whenever an enemy deals direct damage to the user, the user's Stamina is restored
 lose rigidity and gain flexibility
 Internal injury becomes external injury
 When defending with this technique, most of the direct internal injuries inflicted by the enemy on the user change to external injuries
@@ -630,7 +630,7 @@ Mysterious Armor
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and kicks; the user can perform the kicks without consuming the Footwork and kicks
 Shake Mountain
 Improve Stamina depletion
-During the duration of this Footwork, it increases the loss of Footwork and foot strength of the user against the enemy.
+During the duration of this Footwork, it increases the loss of Footwork and Stamina of the user against the enemy.
 Iron Bridge
 E·WP Accuracy Dn
 When the distance between the user and the enemy is not less than 7 during the duration of this Footwork, the further the distance between the enemy and me, the lower the chance of the enemy hitting the user.
@@ -682,7 +682,7 @@ Causing breakage and sealing points
 When advancing with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the more random parts of the enemy will be added to the breakage, sealing points
 Wooden Track
 Reduced movement loss
-During the duration of this Footwork, it reduces the loss of Footwork and foot strength caused by the enemy to the user.
+During the duration of this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
 Car Driving Chapter
 Whenever the user hits an enemy with a "machine" type weapon during the duration of this body technique, the user's strength is restored.
 All Directions
@@ -2103,7 +2103,7 @@ When defending with this technique, every time the user successfully counters an
 HU·3 Flower On Top
 If the total number of defeat marks of the user exceeds half of the defeat condition, all direct damage dealt by the user to the enemy is significantly increased.
 HU·9 Rollings
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the enemy's Footwork and foot strength will be lost
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the enemy's Footwork and Stamina will be lost
 HU·Sword Or Blade
 When the user performs a sword technique with a sword, the power of the sword technique increases
 HU·Yuanshan 7 Formations
@@ -2304,7 +2304,7 @@ During the duration of this body technique, the power of the enemy's "Aegis" tec
 HU·Lighten Body
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of recovery of Stamina
 HU·The Great Flip
-Whenever the user hits an enemy with a "long weapon" during the duration of this Footwork, the enemy's foot strength will be lost.
+Whenever the user hits an enemy with a "long weapon" during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·9 Maps And 6 Statues
 Increase the power of Aegis
 During the duration of this body technique, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
@@ -2368,7 +2368,7 @@ Whenever you retreat 1 distance with this Footwork, the strength of your feet is
 HU·Mysterious Armor
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and kicks; the user can perform the kicks without consuming qi or Footwork
 HU·Shake Mountain
-During the duration of this Footwork, whenever the user deals direct damage to the enemy, the enemy's Footwork and foot strength are lost.
+During the duration of this Footwork, whenever the user deals direct damage to the enemy, the enemy's Footwork and Stamina are lost.
 HU·Iron Bridge
 When the distance between the user and the enemy is not greater than 7 during the duration of this body technique, the closer the enemy and me, the lower the chance of the enemy hitting the user.
 HU·Chain of River-Block
@@ -2413,9 +2413,9 @@ Every time you retreat 1 distance with this Footwork, you will regain your energ
 HU·Feather Stance
 When retreating with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the more random parts of the enemy will be added to the breach, sealing points
 HU·Wooden Track
-Whenever an enemy deals direct damage to the user during the duration of this Footwork, the user's Footwork and foot strength are restored.
+Whenever an enemy deals direct damage to the user during the duration of this Footwork, the user's Footwork and Stamina are restored.
 HU·Car Driving Chapter
-During the duration of this technique, whenever the user hits an enemy with a "machine" type weapon, the enemy's foot strength will be lost.
+During the duration of this technique, whenever the user hits an enemy with a "machine" type weapon, the enemy's Stamina will be lost.
 HU·All Directions
 For every 0.3 distance of accumulated retreat with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 HU·Tiger Hill Test Sword
@@ -2471,7 +2471,7 @@ During the duration of this Footwork, the minimum attack distance of the user is
 HU·Traceless 6 Steps
 Whenever an enemy gains a "point", "thrust", or "flick" style during the duration of this Footwork, if the user can use these styles, there is a higher chance that the enemy's gained style will be transferred to the user.
 HU·Carefree Step
-Whenever the user hits an enemy with a "concealed weapon" during the duration of this Footwork, the enemy's foot strength will be lost.
+Whenever the user hits an enemy with a "concealed weapon" during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·Sky River Walk
 During the duration of this Footwork, for every distance the user accumulates back, the user draws 1 point of "Aegis" true qi from the enemy's body.
 HU·Take 5 Cars
