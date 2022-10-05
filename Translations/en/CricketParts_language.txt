@@ -217,7 +217,7 @@ RedClaw
 Heavytooth
 四牙大小一般同，\n不比寻常咬劲凶。
 正青
-Qing
+Cyan
 淡青
 白青
 蟹青
@@ -226,14 +226,14 @@ Qing
 砂青
 红砂青
 正黄
-Huang
+Yellow
 淡黄
 暗黄
 白黄
 黑黄
 油黄
 正紫
-Zi
+Purple
 淡紫
 栗紫
 栗子紫
@@ -242,7 +242,7 @@ Zi
 红砂紫
 白紫
 正红
-Hong
+Red
 白红
 紫红
 金红
@@ -259,7 +259,7 @@ Hong
 锅灶黑
 炭黑
 正白
-Bai
+White
 哑白
 淡白
 花白
