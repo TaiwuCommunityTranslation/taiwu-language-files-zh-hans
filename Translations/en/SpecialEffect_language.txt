@@ -556,7 +556,7 @@ Lighten Body
 Improve Stamina recovery
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of Stamina recovery
 The Great Flip
-Whenever the user hits an enemy with a "long weapon" during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "long weapon" during the duration of this Footwork, the user's Stamina is restored.
 9 Maps And 6 Statues
 Increase Aegis time
 During the duration of this body technique, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
@@ -570,7 +570,7 @@ White Ape's Leap
 Automatic Weapon Attack
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack on the enemy that cannot be pursued without consumption.
 Unpredictable
-Whenever the user hits an enemy with a "spike" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "spike" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Lotus Displacement
 Exchanging the enemy and us storage style
 During the duration of this Footwork, every time the user accumulates 1 distance, the user's 3 unavailable stances are exchanged with the enemy's 3 available stances.
@@ -587,7 +587,7 @@ During the duration of this body technique, if the weapon of the user is able to
 Shadow Surround
 Whenever the user hits an enemy with a "flute" type weapon during the duration of this Footwork, the user's strength is restored.
 Flying Needle
-Whenever the user hits an enemy with a "needle box" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "needle box" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Needle Driving
 Get the opportunity to change moves
 When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to change his Footwork
@@ -606,7 +606,7 @@ During the duration of this Footwork, if the hit of the user when attacking an e
 8 Trigrams Step
 During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Footwork will be reduced to recover.
 Cloud Surround
-Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this body technique, the user's kick strength is restored.
+Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this body technique, the user's Stamina is restored.
 Big Dipper Step of Heavenly Spirit
 Gain Specific Force
 Every time you move 1 distance with this Footwork, the user gains "Quick" true energy according to the amount of "Break" true energy the user has, and when the effect of this Footwork ends or expires, the user loses all "Quick" true energy gained in the process.
@@ -637,7 +637,7 @@ When the distance between the user and the enemy is not less than 7 during the d
 Chain of River-Block
 During the duration of this Footwork, every time an enemy advances 1 meter, the user immediately makes an unchallengeable weapon attack on the enemy without consumption.
 Lion's Swift
-Whenever the user hits an enemy with a "gloves" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "gloves" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Ghost Step
 Basic Atk All FIN
 During the duration of this Footwork, all weapon attacks by the user will hit with subtlety as long as the enemy does not have an effect that can change the way they are defused.
@@ -658,7 +658,7 @@ Above The Sky
 Enhanced subtle gain
 During the duration of this body technique: the user's subtlety will not be reduced by any effect; all subtlety-raising feats and status effects received by the user are greatly increased
 Fallen Flower
-Whenever the user hits an enemy with a "yokozuna" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "yokozuna" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Skyscraper Climbing
 Increase your hit
 When the user attacks an enemy during the duration of this Footwork, the user's hits in addition to the heart will be added to an additional portion of the user's heart.
@@ -688,7 +688,7 @@ Whenever the user hits an enemy with a "machine" type weapon during the duration
 All Directions
 For every 0.3 distance you advance with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 Tiger Hill Test Sword
-Whenever the user hits an enemy with a "sword" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "sword" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Stardust Avoiding Anger
 Increase weapon armor breaking
 When the user attacks an enemy during the duration of this technique, the armor of the user's weapon will be significantly increased if the level of the enemy's armor is not higher than the level of the weapon used by the user.
@@ -702,7 +702,7 @@ Flying On The Grass
 Move Dist Up
 When moving forward with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 Cliff Hanging Pot
-Whenever the user hits an enemy with a "poisonous frost" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "poisonous frost" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Shatang's Watersteps
 Improve the subtlety of legwork
 The subtlety of the legwork performed by the user with this Footwork is greatly enhanced
@@ -718,11 +718,11 @@ During the duration of this Footwork, as long as the enemy has no effect that ca
 Immobilize
 During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Bashing", "Cleaving" and "Throwing" styles possessed by the user can be used in place of each other.
 Vajra Stance
-Whenever the user hits an enemy with a "mortar and pestle" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "mortar and pestle" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Divine Footsteps
 During the duration of this body method: the forward speed of the user will not be reduced for any reason; the forward movement of the user will not be regarded as movement, but as the change of the distance between the enemy and us, and will not cause any kind of movement effect, but the movement speed of the user will still affect the speed of the change of the distance between the enemy and us.
 Snake Crawling
-Whenever the user hits an enemy with a "long whip" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "long whip" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Breakthrough Swamp
 The movement speed of the user will not be reduced for any reason during the duration of this Footwork
 Toad Leap
@@ -746,7 +746,7 @@ During the duration of this Footwork, the maximum attack distance of the user is
 Traceless 6 Steps
 During the duration of this body technique, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "point", "thrust" and "bullet" styles possessed by the user can be used in place of each other
 Carefree Step
-During the duration of this technique, whenever the user hits an enemy with a "concealed weapon" type weapon, the user's kick strength is restored.
+During the duration of this technique, whenever the user hits an enemy with a "concealed weapon" type weapon, the user's Stamina is restored.
 Sky River Walk
 During the duration of this Footwork, for every 1 distance the user advances, the user draws 1 point of "Break" true qi from the enemy's body.
 Take 5 Cars
@@ -773,7 +773,7 @@ Dragon Leap
 Increase direct damage
 During the duration of this Footwork, when the user attacks an enemy, the user will first hit the enemy with a force that gradually decreases with the number of actions, and if the enemy fails to neutralize this force, the user increases the degree of injury of all direct damage inflicted on the enemy by 1 level
 Wind Fire Stance
-Whenever the user hits an enemy with a "sword" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "sword" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Drunk Lying In The East Sea
 Increase the power of gong methods
 If the user is drunk during the duration of this technique, the user will consume all of the user's energy and Footwork when performing the "Destroy" technique, but the power of the technique will also increase in proportion to the amount of energy and Footwork required to perform it.
@@ -781,7 +781,7 @@ Fox Move
 Accelerated mobile storage
 When moving forward with this Footwork, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
 Tomb Escape
-Whenever the user hits an enemy with a "poisonous sand" type weapon during the duration of this Footwork, the user's kick strength is restored.
+Whenever the user hits an enemy with a "poisonous sand" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Ghost Move
 Improve leg swiftness
 The swiftness of the kicks performed by the user with this Footwork is greatly increased.
@@ -2316,7 +2316,7 @@ During the duration of this Footwork, as long as the enemy does not have an effe
 HU·White Ape's Leap
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack that cannot be pursued against the enemy without consumption.
 HU·Unpredictable
-Whenever the user hits an enemy with a "spike" type weapon during the duration of this Footwork, the enemy's kick strength is lost.
+Whenever the user hits an enemy with a "spike" type weapon during the duration of this Footwork, the enemy's Stamina is lost.
 HU·Lotus Displacement
 During the duration of this Footwork, every time the user accumulates 1 distance back, the 3 unavailable stances of the user are exchanged with the 3 available stances of the enemy.
 HU·Shuttle's Swift
@@ -2328,9 +2328,9 @@ When retreating with this Footwork, the user needs to accumulate power, the more
 HU·Needle Lift-Up
 During the duration of this technique, whenever an enemy acquires the "Take", "Lift", or "Defend" styles, if the user can use these styles, there is a higher chance that the enemy's acquired styles will be transferred to the user.
 HU·Shadow Surround
-During the duration of this technique, whenever the user hits the enemy with a "flute" type weapon, the enemy's kick strength will be lost.
+During the duration of this technique, whenever the user hits the enemy with a "flute" type weapon, the enemy's Stamina will be lost.
 HU·Flying Needle
-During the duration of this technique, whenever the user hits the enemy with a "needle box" type weapon, the enemy's kick strength will be lost.
+During the duration of this technique, whenever the user hits the enemy with a "needle box" type weapon, the enemy's Stamina will be lost.
 HU·Needle Driving
 When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to change his Footwork
 HU·Snow Step
@@ -2348,7 +2348,7 @@ During the duration of this Footwork, if the enemy attacks the user with a hit t
 HU·8 Trigrams Step
 During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Qi recovery will be reduced.
 HU·Cloud Surround
-During the duration of this technique, whenever the user hits the enemy with a "Whisk" type weapon, the enemy's kick strength will be lost.
+During the duration of this technique, whenever the user hits the enemy with a "Whisk" type weapon, the enemy's Stamina will be lost.
 HU·Big Dipper Step of Heavenly Spirit
 Every time you move 1 distance with this Footwork, depending on the amount of "Aegis" True Qi the user has, the user gains "Quick" True Qi, and when the effect of this Footwork ends or expires, the user loses all the "Quick" True Qi gained in the process.
 HU·The One Step
@@ -2374,14 +2374,14 @@ When the distance between the user and the enemy is not greater than 7 during th
 HU·Chain of River-Block
 During the duration of this Footwork, for every 1 distance the enemy has accumulated, the user will immediately make 1 weapon attack on the enemy without consumption that cannot be pursued.
 HU·Lion's Swift
-Whenever the user hits an enemy with a "gloves" type weapon during the duration of this Footwork, the enemy's kick strength will be lost.
+Whenever the user hits an enemy with a "gloves" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·Ghost Step
 PAR all basic Atk
 During the duration of this Footwork, as long as the enemy does not have the effect of changing the hit mode, all the enemy's weapon attacks can be defeated by the user with disarming moves.
 HU·Driving Wind
 Every time you move 1 distance with this Footwork, you apply a reduction to the enemy that reduces the speed of the Footwork.
 HU·Fancy Step
-Whenever the user hits an enemy with a "talisman" type weapon during the duration of this Footwork, the enemy's kick strength will be lost.
+Whenever the user hits an enemy with a "talisman" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·Driving Cloud
 Reduced enemy counter shock damage
 During the duration of this Footwork, the enemy's recoil damage is significantly reduced
@@ -2393,7 +2393,7 @@ HU·Above The Sky
 Enhancement of demolition trick to reduce the benefit
 During the duration of this Footwork: the enemy's dismantling moves will not be increased by any effect; the enemy suffers a significant increase in all feats and status effects that reduce dismantling moves
 HU·Fallen Flower
-During the duration of this technique, whenever the user hits the enemy with a "yaoi" type weapon, the enemy's kick strength will be lost.
+During the duration of this technique, whenever the user hits the enemy with a "yaoi" type weapon, the enemy's Stamina will be lost.
 HU·Skyscraper Climbing
 Increase your own dissolution
 When the enemy attacks the user during the duration of this body technique, the user's defeats, except for the heart guard, will add an additional portion of the user's heart guard.
@@ -2419,7 +2419,7 @@ During the duration of this technique, whenever the user hits an enemy with a "m
 HU·All Directions
 For every 0.3 distance of accumulated retreat with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 HU·Tiger Hill Test Sword
-Whenever the user strikes an enemy with a "sword" type weapon during the duration of this Footwork, the enemy's kick strength will be lost.
+Whenever the user strikes an enemy with a "sword" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Inverse - Stardust Fury Avoidance
 Increase weapon toughness
 When the user attacks an enemy during the duration of this technique, the toughness of the user's weapon will be greatly increased if the level of the enemy's protective gear is not higher than the level of the weapon used by the user.
@@ -2432,7 +2432,7 @@ During the duration of this Footwork: the enemy's unloading power will not be in
 HU·Flying On The Grass
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 HU·Cliff Hanging Pot
-Whenever the user hits an enemy with a "poisonous frost" type weapon during the duration of this Footwork, the enemy's kick strength will be lost.
+Whenever the user hits an enemy with a "poisonous frost" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·Shatang's Watersteps
 The percentage of hits of the kicks performed by the user with this Footwork other than subtlety is greatly reduced and shifted to subtlety.
 HU·Skyline of Mt.Chai
@@ -2446,11 +2446,11 @@ During the duration of this Footwork, as long as the enemy does not have an effe
 HU·Immobilize
 During the duration of this Footwork, whenever an enemy acquires "Bash", "Slash" or "Throw" stances, if the user can use these stances, the stances acquired by the enemy will have a higher chance of being transferred to the user.
 HU·Vajra Stance
-Whenever the user hits an enemy with a "pestle" type weapon during the duration of this Footwork, the enemy's kick strength will be lost.
+Whenever the user hits an enemy with a "pestle" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·Divine Footsteps
 During the duration of this Footwork: the backward speed of the user will not be reduced for any reason; the backwardness of the user will not be used as movement, but as a change in the distance between the enemy and us, and will not cause any kind of movement effect, but the speed of the user's movement will still affect the speed of the change in the distance between the enemy and us
 HU·Snake Crawling
-Whenever the user hits an enemy with a "long whip" type weapon during the duration of this Footwork, the enemy's kick strength will be lost.
+Whenever the user hits an enemy with a "long whip" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·Breakthrough Swamp
 Prohibit moving gain
 During the duration of this Footwork, the enemy's movement speed cannot be increased for any reason
@@ -2495,13 +2495,13 @@ During the duration of this Footwork, it reduces the level of damage caused by t
 HU·Dragon Leap
 During the duration of this Footwork, when the user is attacked by an enemy, the user will first hit the enemy with a force that gradually decreases with the number of actions, and if the enemy fails to neutralize this force, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 2 levels
 HU·Wind Fire Stance
-Whenever the user hits an enemy with a "knife" type weapon during the duration of this Footwork, the enemy's kick strength will be lost.
+Whenever the user hits an enemy with a "knife" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·Drunk Lying In The East Sea
 If the user is drunk during the duration of this body technique, the user can perform the "Destroy" technique without the required Qi and Footwork, but the power of the technique will be reduced in proportion to the lack of Qi and Footwork.
 HU·Fox Move
 When retreating with this Footwork, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 HU·Tomb Escape
-During the duration of this technique, whenever the user hits the enemy with a "poisonous sand" type weapon, the enemy's kick strength will be lost.
+During the duration of this technique, whenever the user hits the enemy with a "poisonous sand" type weapon, the enemy's Stamina will be lost.
 HU·Ghost Move
 The percentage of hits of leg kicks performed by the user with this Footwork other than Swift is significantly reduced and shifted to Swift.
 HU·Ghost Hou's Rage
@@ -3504,7 +3504,7 @@ Draconic Anima！
 When Wei Qi is defeated for the first time, he will enter a new phase of the battle: Wei Qi's external and internal injuries will quickly remove themselves with time
 Animator of Jade
 Anchorite！
-The first time Ezra is defeated, he will enter a new phase of the battle: the more Ezra's kick strength is left, the more Ezra's unloading, dismantling, dodging, and heart guarding will be improved
+The first time Ezra is defeated, he will enter a new phase of the battle: the more Ezra's Stamina is left, the more Ezra's unloading, dismantling, dodging, and heart guarding will be improved
 Octobrachial Octopod
 Infernal Acerjail！
 When Blood Maple is defeated for the first time, it will enter a new combat phase: all direct damage dealt by Blood Maple to the enemy is significantly increased; all direct damage dealt by the enemy to Blood Maple is significantly reduced
