@@ -2425,7 +2425,7 @@ Increase weapon toughness
 When the user attacks an enemy during the duration of this technique, the toughness of the user's weapon will be greatly increased if the level of the enemy's protective gear is not higher than the level of the weapon used by the user.
 HU·Dragon Riding
 Bodywork instead of Qi lifting
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and kicks; if the user's Qi is not enough to perform the "Destroy" technique, the user's Footwork can replace the user's Qi consumption.
+During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Inhale is not enough to perform the "Break" technique, the user's Footwork can replace the user's Inhale consumption.
 Reverse-Tenkai Flow Meteor Style
 Enhancement of unloading power reduction
 During the duration of this Footwork: the enemy's unloading power will not be increased by any effect; all feats and status effects that reduce the enemy's unloading power will be greatly increased
