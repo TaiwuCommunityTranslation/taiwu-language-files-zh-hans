@@ -83,7 +83,7 @@ If the user receives consecutive attacks from the same enemy technique in this b
 Tripod Stance\nof Golden Body
 Reduces the maximum number of breakdowns per part of the user's body
 Bright Lion\nPower
-Significantly increase the "brawn" limit of the user
+Significantly increase the "Strength" limit of the user
 Develop\nAmbition
 Increases the power limit of the user's "Ransan School" techniques
 Whirling Circle
@@ -826,7 +826,7 @@ After this technique is at least 10% powerful, the user gains 4 levels of this e
 Shield Blade\nof Lion Phase
 When this technique is used at 10% of its power, for every 2 "slashes" the user has, the level of damage caused by the user to the enemy increases by 1 additional level.
 Tremendous\nEffort Blade
-When you start to perform this technique, the more brawn the user has not consumed, the more the power of this technique will increase
+When you start to perform this technique, the more Strength the user has not consumed, the more the power of this technique will increase
 Blade of\nAo Slashing
 Wounds inflicted by this technique on the enemy's legs and feet will change to older wounds that are more difficult to recover from
 Overlord Blade
@@ -1510,7 +1510,7 @@ This technique can be performed while the user is exercising the "Aegis" techniq
 The Great Vajra\nFist
 Transformation of broken Qi to broken body
 Body-breaking and qi-breaking changes
-When attacking an enemy with this technique, if the user's brawn is higher than the enemy's, a portion of the user's broken energy will be transferred to broken body; when this technique is used at 10% of its power, 10 points of the user's brawn will be consumed, and a gain state that increases broken body and a gain state that decreases broken energy will be applied to the user
+When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's broken energy will be transferred to broken body; when this technique is used at 10% of its power, 10 points of the user's Strength will be consumed, and a gain state that increases broken body and a gain state that decreases broken energy will be applied to the user
 18 Hands of\nDharma
 Increase your own broken body
 When you start performing this technique, the power of this technique increases if the user's body is higher than the user's broken body; when you attack the enemy with this technique, the user's broken body is added to the user's body.
@@ -1875,7 +1875,7 @@ When the user continuously attacks the enemy with the same technique in this bat
 Inverse - Iron Tripod Golden Body Technique
 Significantly reduces the maximum number of breaches per part of the user's body, but if the user has at least 3 breaches, the external injury caused by the user is also reduced
 Inverse-Light Lion Power
-Significantly reduce the "brawn" consumption of the user
+Significantly reduce the "Strength" consumption of the user
 Inverse-Nourishing the will method
 Reduces the need to use the "Ransan School" techniques of the user
 Inverse-Round Method
@@ -2539,7 +2539,7 @@ When this technique is used at least 10% of its power, the user gains 2 "slashes
 HU·Shield Blade\nof Lion Phase
 When this technique is used at 10% of its power, for every 3 "slashes" the user has, the user will inflict an additional break on the enemy's attacked area.
 HU·Tremendous\nEffort Blade
-When you start to perform this technique, the more brawn the user has consumed, the more the power of this technique will increase
+When you start to perform this technique, the more Strength the user has consumed, the more the power of this technique will increase
 HU·Blade of\nAo Slashing
 This feat increases the direct damage to the enemy's legs and feet by 3 levels, but has a higher chance of attacking other parts of the enemy
 HU·Overlord Blade
@@ -2769,7 +2769,7 @@ When you start to perform this technique, if the weapon used by the enemy is a "
 HU·The Last Blade\nof Minghong
 When you start to perform this technique, if the enemy's weapon is "sword", the power of this technique will be greatly increased, and after this technique has become 10% powerful, the user will get 2 levels of this effect: the power of all "sword techniques" performed by the user will be increased.
 HU·Dragon-Defeated\nStaff
-If the user's brawn does not fall below 70, this technique reduces the enemy's chance of attacking when it exerts 10% of its power, and the user gains 2 levels of this effect: all "Long Soldier" techniques performed by the user reduce the enemy's chance of attacking when it exerts 10% of its power
+If the user's Strength does not fall below 70, this technique reduces the enemy's chance of attacking when it exerts 10% of its power, and the user gains 2 levels of this effect: all "Long Soldier" techniques performed by the user reduce the enemy's chance of attacking when it exerts 10% of its power
 HU·Staff of\nSweep Cloud
 If the user's agility is not less than 70, this technique loses the enemy's body and foot strength when it is used at 10% of its power, and the user gains 2 levels of this effect: all "Long Soldier" techniques performed by the user lose the enemy's body and foot strength when they are used at 10% of their power.
 HU·Staff of\n10 Directions
@@ -2777,7 +2777,7 @@ If the user's constitution is not less than 70, this technique will "interrupt" 
 HU·Staff of\nGhost Head
 If the user's Sensitivity and Perception are not less than 60, this technique will randomly reduce the number of layers of the enemy's "Destroy" technique's lasting effect by 1 when the technique is used at 10% of its power, and the user will gain 2 layers of this effect: all "Long Soldier" techniques performed by the user will randomly reduce the number of layers of the enemy's "Destroy" technique's lasting effect by 1 when the technique is used at 10% of its power.
 HU·Staff of\nGold Eyes Tiger
-If the user's brawn and determination are not less than 60, this technique will immediately eliminate 3 helper orders from random enemy helpers when it is at 10% power, and the user will get 2 levels of this effect: all "Long Soldier" techniques performed by the user will eliminate 1 helper order from random enemy helpers when they are at 10% power
+If the user's Strength and determination are not less than 60, this technique will immediately eliminate 3 helper orders from random enemy helpers when it is at 10% power, and the user will get 2 levels of this effect: all "Long Soldier" techniques performed by the user will eliminate 1 helper order from random enemy helpers when they are at 10% power
 HU·Staff of\nMystical Island
 If the user's root bone and enlightenment are not less than 60, the user's qi and stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will get 2 levels of this effect: the qi and stance consumption of all "Long Soldier" techniques performed by the user will be reduced.
 HU·Divine Staff of\nOcean Carry
@@ -3111,7 +3111,7 @@ HU·68 Moves of\nArhat Fist
 This technique can be performed while the user is exercising the "Aegis" technique; depending on the percentage of power exerted by this technique, the duration of the enemy's "Aegis" technique will be greatly depleted.
 HU·The Great Vajra\nFist
 Body Breaking to Qi Breaking
-When attacking an enemy with this technique, if the user's brawn is higher than the enemy's, a portion of the user's broken body will be transferred to broken qi; when this technique is 10% powerful, 10 points of the user's brawn will be consumed, and a gain status of increased broken qi and a reduced benefit status of decreased broken body will be applied to the user
+When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's broken body will be transferred to broken qi; when this technique is 10% powerful, 10 points of the user's Strength will be consumed, and a gain status of increased broken qi and a reduced benefit status of decreased broken body will be applied to the user
 HU·18 Hands of\nDharma
 Increase your own broken Qi
 When you start to perform this technique, the power of this technique will increase if the user's imperial qi is higher than the user's broken qi; when you attack the enemy with this technique, the user's broken qi will additionally be added to the user's imperial qi
