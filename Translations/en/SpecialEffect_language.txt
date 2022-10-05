@@ -2366,7 +2366,7 @@ The broken qi of the leg technique performed by the user with this Footwork is g
 HU·Step Alone A Thousand Mile
 Whenever you retreat 1 distance with this Footwork, the strength of your feet is restored.
 HU·Mysterious Armor
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and kicks; the user can perform the kicks without consuming qi or Footwork
+During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming Inhale or Footwork
 HU·Shake Mountain
 During the duration of this Footwork, whenever the user deals direct damage to the enemy, the enemy's Footwork and Stamina are lost.
 HU·Iron Bridge
