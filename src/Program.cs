@@ -89,33 +89,38 @@ uab.BlockInfoAndDirectory.Data.DirectoryInfo.ForEach(directoryInfo =>
   var asset = new Assets(new KaitaiStream(assetData));
   asset.Metadata.Objects.Data.ForEach((obj) =>
   {
-    if (obj.ClassId != Assets.ClassId.UnityTextAsset3acc9e530e323df61040bf9358a9076c109 &&
-        obj.ClassId != Assets.ClassId.UnityTextAsset3acc9e530e323df61040bf9358a9076c49)
-    {
-      return;
-    }
-
-    var data = (Assets.UnityTextAsset3acc9e530e323df61040bf9358a9076c)obj.Data;
-
-    var name = data.MName.Data;
-    var text = data.MScript.Data;
-
-    Console.WriteLine($"[+] saving {name}...");
-    if (name == "ui_language")
-    {
-      var lines = text.Split("\n");
-      var entries = languageKeyToLineMapping.Aggregate(new Dictionary<string, string>(), (acc, pair) =>
+      try
       {
-        acc[pair.Key] = lines[pair.Value];
+          var data = (Assets.UnityTextAsset3acc9e530e323df61040bf9358a9076c)obj.Data;
 
-        return acc;
-      });
-      File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.json"), JsonConvert.SerializeObject(entries, Formatting.Indented));
+          var name = data.MName.Data;
+          var text = data.MScript.Data;
 
-      return;
-    }
+          Console.WriteLine($"[+] saving {name}...");
+          if (name == "ui_language")
+          {
+              var lines = text.Split("\n");
+              var entries = languageKeyToLineMapping.Aggregate(new Dictionary<string, string>(), (acc, pair) =>
+              {
+                  acc[pair.Key] = lines[pair.Value];
 
-     File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.txt"), text);
+                  return acc;
+              });
+              File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.json"), JsonConvert.SerializeObject(entries, Formatting.Indented));
+
+              return;
+          }
+
+          File.WriteAllText(Path.Join(OUTPUT_DIR, $"{name}.txt"), text);
+      }
+      catch (Exception ex)
+      {
+          var data = (Assets.UnityAssetBundle2499c1ef1964cfe407884c9053915b78)obj.Data;
+          
+          Console.WriteLine(data.MName.Data);
+          Console.WriteLine(ex.ToString());
+      }
+
   });
 });
 
