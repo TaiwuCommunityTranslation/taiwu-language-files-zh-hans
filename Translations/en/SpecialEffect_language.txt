@@ -627,7 +627,7 @@ Step Alone A Thousand Mile
 Whenever you advance 1 distance with this Footwork, it restores the strength of your feet.
 Mysterious Armor
 0 skill cost
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the kicks without consuming the Footwork and Stamina
+During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming the Footwork and Stamina
 Shake Mountain
 Improve Stamina depletion
 During the duration of this Footwork, it increases the loss of Footwork and Stamina of the user against the enemy.
