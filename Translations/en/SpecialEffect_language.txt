@@ -629,7 +629,7 @@ Mysterious Armor
 0 skill cost
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and kicks; the user can perform the kicks without consuming the Footwork and kicks
 Shake Mountain
-Improve foot wear and tear
+Improve Stamina depletion
 During the duration of this Footwork, it increases the loss of Footwork and foot strength of the user against the enemy.
 Iron Bridge
 E·WP Accuracy Dn
