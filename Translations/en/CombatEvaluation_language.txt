@@ -9,7 +9,7 @@ Battle won!
 Spar
 Spar with an opponent whose purity is no less than your own.
 Parry every move
-Parry moves from an opponent whose purity is no less than your own.
+Take on an opponent whose purity is no less than your own.
 A dangerous Battle
 A dangerous fight with an opponent whose purity is no less than your own.
 A Fight to the death
