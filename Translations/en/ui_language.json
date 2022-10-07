@@ -1245,9 +1245,7 @@
   "LK_Xiangshu_Attack": "Break out from the tomb",
   "LK_Xiangshu_Attack_Tips": "An enemy who calls himself \"XiangShu\" has broken out of the mound near Taiwu Village {0}! He is coming straight to Taiwu Village!",
   "LK_Inventory_Overflow": "Not Enough Inventory Space",
-  "LK_Inventory_Overflow_Tips": "Item in your bag have exceeded your carry capacity！
-Time required to move around the map increased<color=#red>{0}%</color>！
-<color=#red>Items will be lost when the month changes！</color>",
+  "LK_Inventory_Overflow_Tips": "Item in your bag have exceeded your carry capacity！\nTime required to move around the map increased<color=#red>{0}%</color>！\n<color=#red>Items will be lost when the month changes！</color>",
   "LK_Warehouse_Overflow": "Not Enough Storage Space",
   "LK_Warehouse_Overflow_Tips": "Items in your storage have exceeded the max limit！
 <color=#E4504DFF>Some items will be lost when the month changes！</color>",
