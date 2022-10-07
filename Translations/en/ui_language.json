@@ -3180,16 +3180,10 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "UI_AdventureEditor_ReConnectIn": "Redirect entrance ",
   "UI_AdventureEditor_ReConnectOut": "Export Redirection",
   "UI_AdventureEditor_ExitConnectSpecify": "Exit connection designation",
-  "UI_AdventureEditor_DeleteNode_ConfirmInfo": "Confirm deleting node
-<color=#yellow>{0}</color>？
-
-<color=red>This cannot be reverted, please be careful！</color>",
+  "UI_AdventureEditor_DeleteNode_ConfirmInfo": "Confirm deleting node\n<color=#yellow>{0}</color>？\n\n<color=red>This cannot be reverted, please be careful！</color>",
   "UI_AdventureEditor_EditBranch": "Edit Path",
   "UI_AdventureEditor_DeleteBranch": "Delete Path",
-  "UI_AdventureEditor_DeleteBranch_ConfirmInfo": "Sure you want to delete the path
-<color=#yellow>{0}</color>?
-
-<color=red>This operation cannot be undone.</color>",
+  "UI_AdventureEditor_DeleteBranch_ConfirmInfo": "Sure you want to delete the path\n<color=#yellow>{0}</color>?\n\n<color=red>This operation cannot be undone.</color>",
   "UI_AdventureEditor_Interruptable_No": "Cannot be interrupted.",
   "UI_AdventureEditor_Interruptable_Yes_Keep": "Adventure that persists after it is interrupted.",
   "UI_AdventureEditor_Interruptable_Yes_Clear": "Adventure removed after it is interrupted.",
