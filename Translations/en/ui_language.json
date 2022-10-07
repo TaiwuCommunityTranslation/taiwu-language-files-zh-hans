@@ -163,8 +163,7 @@
   "UI_NewGame_PlaceMainCity": "{0}Major City: <color=#pinkyellow>【{1}】</color>",
   "UI_NewGame_PlaceMainGang": "{0}Major Sect: <color=#pinkyellow>【{1}】</color>",
   "UI_NewGame_BornPlaceType": "Birthplace Type",
-  "UI_NewGame_StateTipsTitle": "{0}「{1}」 
- <color=#yellow>「{2}」",
+  "UI_NewGame_StateTipsTitle": "{0}「{1}」 \n <color=#yellow>「{2}」",
   "UI_NewGame_BtnTips_SectCombatSkills": "Press to view skills for major sect of this area",
   "UI_NewGame_CreateTip_Name": "Name is required for this character",
   "UI_NewGame_CreateTip_InvalidName": "Character's name may not contain numbers, spaces, or symbols",
