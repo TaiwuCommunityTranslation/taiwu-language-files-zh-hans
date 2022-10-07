@@ -623,9 +623,7 @@
   "LK_Combat_HealTiltle": "Heal",
   "LK_Combat_HealInfo": "Consume<color=#6DB75FFF>1</color>treatment chance to alleviate all external and internal injuries.  \n\n The more injuries you have, the longer it takes.",
   "LK_Combat_DispelTitle": "Detox",
-  "LK_Combat_DispelInfo": "Consume<color=#6DB75FFF>1</color>detox chance to alleviate all toxins in your body.  
-
-The more toxins you have, the longer it takes.",
+  "LK_Combat_DispelInfo": "Consume<color=#6DB75FFF>1</color>detox chance to alleviate all toxins in your body.  \n\nThe more toxins you have, the longer it takes.",
   "LK_Combat_EscapeTitle": "Escape from the Battle",
   "LK_Combat_EscapeInfo": "When the distance between enemy and you reaches<color=#6DB75FFF>10</color>you can try to escape from this battle.  
 
