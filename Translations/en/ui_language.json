@@ -967,11 +967,9 @@
   "LK_Building_ItemBooty": "Items",
   "LK_Building_ResourceBooty": "Res.",
   "LK_Building_ClickGetPeople": "Click to recruit all the recruitable talents in Taiwu Village... \n (not including the Wisdom Guild which costs prestige)",
-  "LK_Building_ClickGetItem": "Click to collect all collectable items in Taiwu Village. Collected items will be stored in the warehouse... 
- (excluding Pawnshops that cost money)",
+  "LK_Building_ClickGetItem": "Click to collect all collectable items in Taiwu Village. Collected items will be stored in the warehouse... \n (excluding Pawnshops that cost money)",
   "LK_Building_ClickGetResource": "Click to collect all collectable resources in Taiwu Village...",
-  "LK_Building_ClickGetAllEarn": "Click to collect all collectable resources, items and talents in Taiwu Village, and the collected items will be put into the warehouse... 
- (excluding Wisdom Guild and Pawnshops that cost resources)",
+  "LK_Building_ClickGetAllEarn": "Click to collect all collectable resources, items and talents in Taiwu Village, and the collected items will be put into the warehouse... \n (excluding Wisdom Guild and Pawnshops that cost resources)",
   "LK_Building_Booty_Storage": "Harvest Storage: {0}/{1} Total",
   "LK_Building_BuildingPlan": "Choosing where to build",
   "LK_Building_BuildingPlanning": "Building layout being chosen",
