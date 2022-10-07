@@ -2779,9 +2779,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "GM_Message_Func_GetItemIdField_NoType_Exception": "Please assign an item type first",
   "GM_Message_GMFunc_TargetTaiwu_Msg_0": "Do not perform this operation on Taigo",
   "GM_Message_GMFunc_KillCharacter_Msg_0": "Not allowed to kill Taiko characters",
-  "GM_Message_GMFunc_KillCharacter_Msg_1": "You just killed the role ID of {0} role 
- write down the role id, a few rounds after the month may be the role will enter a new round 
- then you can check through the round query whether the role reincarnation success",
+  "GM_Message_GMFunc_KillCharacter_Msg_1": "You just killed the role ID of {0} role \nWrite down the role id, a few rounds after the month may be the role will enter a new round \nThen you can check through the round query whether the role reincarnation success",
   "GM_Message_GMFunc_SetCharacterGrade_Msg": "Failed to modify status status. 
 Please ensure that the character belongs to a sect with a settlement, 
 and that the maximum number of regular statuses allowed when set to the highest regular status has not reached the upper limit.",
