@@ -625,9 +625,7 @@
   "LK_Combat_DispelTitle": "Detox",
   "LK_Combat_DispelInfo": "Consume<color=#6DB75FFF>1</color>detox chance to alleviate all toxins in your body.  \n\nThe more toxins you have, the longer it takes.",
   "LK_Combat_EscapeTitle": "Escape from the Battle",
-  "LK_Combat_EscapeInfo": "When the distance between enemy and you reaches<color=#6DB75FFF>10</color>you can try to escape from this battle.  
-
-The escape will be interrupted if the distance between you and enemy reaches<color=#6DB75FFF>2</color> and they hit you!",
+  "LK_Combat_EscapeInfo": "When the distance between enemy and you reaches<color=#6DB75FFF>10</color>you can try to escape from this battle.  \n\nThe escape will be interrupted if the distance between you and enemy reaches<color=#6DB75FFF>2</color> and they hit you!",
   "LK_Combat_CannotEscapeInfo": "You can't escape from this battle...",
   "LK_Combat_Flaw": "Weak point",
   "LK_Combat_FlawTitle": "{0}Weak points",
@@ -638,9 +636,7 @@ The escape will be interrupted if the distance between you and enemy reaches<col
   "LK_Combat_CombatDisTitle": "Current Distance",
   "LK_Combat_Mind_Mark_Tips": "Glazed",
   "LK_Combat_Die_Mark_Tips": "Deadly",
-  "LK_Combat_CombatDisInfo": "Your current distance from the enemy<color=#yellow>「Current Distance」</color>… 
-
-If your <color=#yellow>「Current Distance」</color> isn't within your character's <color=#yellow>「Attack Range」</color> then it won't be able to attack! 
+  "LK_Combat_CombatDisInfo": "Your current distance from the enemy<color=#yellow>「Current Distance」</color>… \n\nIf your <color=#yellow>「Current Distance」</color> isn't within your character's <color=#yellow>「Attack Range」</color> then it won't be able to attack! 
  ",
   "LK_Combat_ConcentrateTitle": "Focus",
   "LK_Combat_ConcentrateInfo": "The degree of <color=#yellow>\"Concentrate\" </color>affects the character's overall inhale and Stance efficiency... 
