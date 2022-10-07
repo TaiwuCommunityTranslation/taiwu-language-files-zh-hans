@@ -246,7 +246,7 @@
   "UI_BtnTip_PartWorld_Title": "World Map",
   "UI_BtnTip_PartWorld_Content": "Check world map and the places you have discovered...",
   "UI_Dialog_TravelConfirm_Title": "Travel to...",
-  "UI_Dialog_TravelConfirm_Content": "Are you sure to spend <color=#lightblue>{0}</color> time with <color=#yellow>{1}</color> silver money to travel to <color=#darkbrown>{2}</color>'s <color=#lightbrown>「{3}」"</color>?",
+  "UI_Dialog_TravelConfirm_Content": "Are you sure to spend <color=#lightblue>{0}</color> time and <color=#yellow>{1}</color> money to travel to <color=#darkbrown>{2}</color>'s <color=#lightbrown>「{3}」</color>?",
   "UI_Dialog_Travel_Block_Confirm_Content": "Are you sure about spending <color=#lightblue>{0}</color> time travelling to <color=#darkbrown>{1}</color>'s <color=#lightbrown>\\\"{2}\\\"</color>?",
   "UI_Dialog_First_TravelConfirm_Title": "Opening up travel routes to...",
   "UI_Dialog_First_TravelConfirm_Content": "Are you sure about spending <color=#lightblue>{0}</color> time, <color=#yellow>{1}</color> silver money, <color=#darkpurple>{2}</color> prestige travelling to <color=#darkbrown>{3}</color>'s <color=#lightbrown>\\\"{4}\\\"</color>?",
