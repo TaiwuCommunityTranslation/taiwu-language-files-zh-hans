@@ -814,9 +814,7 @@
   "LK_First_Travel_Tip": "Because there is no travel path to this region…\nYou need to spend<color=#darkpurple>{0}「Prestige」1 to unlock the travel path before you can travel to this region！<color=#red>\n\n（After unlocking a travel path, the <color=#darkpurple>「Prestige」2 cost to unlock a new region will increase！）",
   "LK_Choose_Advance_Days": "Select the number of days to be spent",
   "LK_Neigong_Looping": "Cultivation",
-  "LK_Advance_Month_Warn_No_Loop_Neigong": "<color=#red>You haven't chosen an Inner Art yet!</color> 
-
-“Cultivation” allows you to increase and change your internal energy...",
+  "LK_Advance_Month_Warn_No_Loop_Neigong": "<color=#red>You haven't chosen an Inner Art yet!</color> \n\n“Cultivation” allows you to increase and change your internal energy...",
   "LK_Advance_Month_Warn_Inventory_Overflow": "<color=#red>You're carrying too much weight! You will lose several items at the start of the next month!</color>",
   "LK_Advance_Month_Warn_Warehouse_Overflow": "<color=#red>Total amount of items in warehouse is larger than it's capacity! You will lose several items at the start of the next month!</color>",
   "LK_Advance_Month_Warn_Resource_Overflow": "<color=#red>{0}Over storage limit, you will lose several resources at the start of the next month!</color>",
@@ -851,8 +849,7 @@
   "LK_Resource_Rich_Title_3": "Jade Abundance",
   "LK_Resource_Rich_Title_4": "Plenty of Textile",
   "LK_Resource_Rich_Title_5": "Plenty of Herb",
-  "LK_Resource_Rich_Desc_0": "You can collect more food here...
-You have a higher chance of finding precious materials and props...",
+  "LK_Resource_Rich_Desc_0": "You can collect more food here...\nYou have a higher chance of finding precious materials and props...",
   "LK_Resource_Rich_Desc_1": "You can get more wood here… 
 More likely to get rare materials…",
   "LK_Resource_Rich_Desc_2": "You can get more ore here… 
