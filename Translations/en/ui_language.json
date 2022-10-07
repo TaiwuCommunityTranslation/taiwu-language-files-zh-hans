@@ -1386,10 +1386,7 @@
   "LK_Legacy_Point_Bonus": "Due to{0}，some legacy points <color=#lightblue>+{1}%</color>",
   "LK_Legacy_Confirm": "Are you sure you want to spend your Legacy on this reward?",
   "LK_Exp": "EXP",
-  "LK_Exp_Desc": "<color=#lightgrey>Experience is gained by doing various actions.</color>
-
-·It can be used to practice Martial Arts
-·It can be used to breakthrough Martial Arts.",
+  "LK_Exp_Desc": "<color=#lightgrey>Experience is gained by doing various actions.</color>\n\n·It can be used to practice Martial Arts\n·It can be used to breakthrough Martial Arts.",
   "LK_Exp_Cost_Tips": "EXP cost",
   "LK_Qualification_Growth": "Growth",
   "LK_Growth": "Growth",
