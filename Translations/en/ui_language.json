@@ -639,9 +639,7 @@
   "LK_Combat_CombatDisInfo": "Your current distance from the enemy<color=#yellow>「Current Distance」</color>… \n\nIf your <color=#yellow>「Current Distance」</color> isn't within your character's <color=#yellow>「Attack Range」</color> then it won't be able to attack! 
  ",
   "LK_Combat_ConcentrateTitle": "Focus",
-  "LK_Combat_ConcentrateInfo": "The degree of <color=#yellow>\"Concentrate\" </color>affects the character's overall inhale and Stance efficiency... 
-
-<color=#yellow>(Whenever the character is attacked or obstructed, the concentration will increase!) </color>",
+  "LK_Combat_ConcentrateInfo": "The degree of <color=#yellow>\"Concentrate\" </color>affects the character's overall inhale and Stance efficiency... \n\n<color=#yellow>(Whenever the character is attacked or obstructed, the concentration will increase!) </color>",
   "LK_Combat_PauseTitle": "Pause or Unpause",
   "LK_Combat_PauseInfo": "Click here（or press SPACE on keyboard）to pause or unpause the fight…",
   "LK_Combat_Pause_Tips": "Paused",
