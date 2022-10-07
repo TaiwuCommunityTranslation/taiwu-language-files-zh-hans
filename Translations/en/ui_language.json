@@ -1446,12 +1446,7 @@
   "LK_Main_SummaryInfo_Title_TipContent": "Title is obtained as a result of various achievements of a character...\n\n",
   "LK_Main_SummaryInfo_Char_Name_TipContent": "The name of a person...\n\n<color=#pinkyellow>-In some cases, a character's name may not be their real name</color>",
   "LK_Main_SummaryInfo_Gender": "Gender",
-  "LK_Main_SummaryInfo_Gender_TipContent": "The gender of a character...
-
-<color=#pinkyellow>·In some cases, a character's appearance may not match their gender 
-
-<SpName=mousetip_xingie_0>Male
-<SpName=mousetip_xingie_1>Female</color>",
+  "LK_Main_SummaryInfo_Gender_TipContent": "The gender of a character...\n\n<color=#pinkyellow>·In some cases, a character's appearance may not match their gender \n\n<SpName=mousetip_xingie_0>Male\n<SpName=mousetip_xingie_1>Female</color>",
   "LK_Main_SummaryInfo_Charm": "Charm",
   "LK_Main_SummaryInfo_Organization": "From",
   "LK_Main_SummaryInfo_Organization_TipContent": "The town or sect to which a character belongs...",
