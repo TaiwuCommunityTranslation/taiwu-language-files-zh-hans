@@ -1583,8 +1583,7 @@
   "LK_Zoom_In_Tips": "Zoom In…",
   "LK_Zoom_Out": "Zoom Out",
   "LK_Zoom_Out_Tips": "Zoom Out…",
-  "LK_UnlockBuildTips_Title": "Unlock New Building:
-{0}",
+  "LK_UnlockBuildTips_Title": "Unlock New Building:\n{0}",
   "LK_UnlockBuildTips_Content": "When the <color=#B97D4BFF>practice proportion<color=#6DB75FFF> of this skill reaches 75%</color>,
 The schematics for this building will be sold in the<color=#E3C66DFF>「Building Workshop」</color>
 
