@@ -2769,13 +2769,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "GM_Message_CallFailed": "{0} call failed \n{1}",
   "GM_Message_CallFailedSpecial": "Cannot use GM commands while traveling",
   "GM_Message_Args": "Parameter",
-  "GM_Message_Args_CharId_Tips": "&amp;Button function:
-In conversation: Get the dialogue role
-In opening the role interface: Get the role interface role
-In other cases, you will get the Taiwu role
-
-*Button function:
-Select any role",
+  "GM_Message_Args_CharId_Tips": "&amp;Button function:\nIn conversation: Get the dialogue role\nIn opening the role interface: Get the role interface role\nIn other cases, you will get the Taiwu role\n\n*Button function:\nSelect any role",
   "GM_Message_Func_OnClickGetCharId_Tips_0": "Get the current conversation target",
   "GM_Message_Func_OnClickGetCharId_Tips_1": "Obtain the current character interface target",
   "GM_Message_Func_OnClickGetCharId_Tips_2": "Acquire Taigo",
