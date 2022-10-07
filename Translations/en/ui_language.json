@@ -1533,9 +1533,7 @@
   "LK_Equip_Main_Neigong_Title": "Core IA",
   "LK_Equip_Main_Neigong_Desc": "The main inner arts you are using…",
   "LK_Generic_Grid_Title": "Universal",
-  "LK_Generic_Grid_Desc": "Universal slot represents the flexibility of the current main inner art…
-
-(You can assign Universal slot anywhere to customize your skill template.) ",
+  "LK_Generic_Grid_Desc": "Universal slot represents the flexibility of the current main inner art…\n\n(You can assign Universal slot anywhere to customize your skill template.) ",
   "LK_Generic_Grid": "Universal slot",
   "LK_Generic_Grid_Unlock_Tips": "When practice proportion of the InA reach this level, you will gain the univsersal slots here",
   "LK_Consummate_Title": "Pure essence",
