@@ -1451,11 +1451,7 @@
   "LK_Main_SummaryInfo_Organization": "From",
   "LK_Main_SummaryInfo_Organization_TipContent": "The town or sect to which a character belongs...",
   "LK_Main_SummaryInfo_Identity": "Identity",
-  "LK_Main_SummaryInfo_Identity_TipContent": "The character's position in their sect or town…
-
-<color=#pinkyellow>·High tier characters are harder to befriend
-·there are 9 tiers from the lowest to the highest：
-<color=#GradeColor_0>Grey</color>、<color=#GradeColor_1>White</color>、<color=#GradeColor_2>Green</color>、<color=#GradeColor_3>Blue、<color=#GradeColor_4>Teal</color>、<color=#GradeColor_5>Purple</color>、<color=#GradeColor_6>Yellow</color>、<color=#GradeColor_7>Orange</color>、<color=#GradeColor_8>Red</color></color>",
+  "LK_Main_SummaryInfo_Identity_TipContent": "The character's position in their sect or town…\n\n<color=#pinkyellow>·High tier characters are harder to befriend\n·there are 9 tiers from the lowest to the highest：\n<color=#GradeColor_0>Grey</color>、<color=#GradeColor_1>White</color>、<color=#GradeColor_2>Green</color>、<color=#GradeColor_3>Blue、<color=#GradeColor_4>Teal</color>、<color=#GradeColor_5>Purple</color>、<color=#GradeColor_6>Yellow</color>、<color=#GradeColor_7>Orange</color>、<color=#GradeColor_8>Red</color></color>",
   "LK_Main_SummaryInfo_Behavior": "Standpoint",
   "LK_Main_SummaryInfo_Behavior_TipContent": "Standpoint represents a character's fundamental attitude
 <color=#pinkyellow>·The greater the difference in standpoints between two people, the more difficult it is to get along.
