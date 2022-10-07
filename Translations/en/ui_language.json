@@ -1654,12 +1654,7 @@
   "LK_CombatSkillTree_Title": "Discipline Skills",
   "LK_CombatSkillTree_ApproveUpperLimit": "\n\n(Current Discipline Support Limit:{0}% + {1}%)",
   "LK_CombatSkillTree_OrganizationApprove": "Sect Support Level",
-  "LK_CombatSkillTree_OrganizationApprove_TipContent": "“Approval” represents how much Taiwu is welcomed by this sect…
-
-“Support” comes from every member in the sect, when you fulfil the members' requirement, you will gain their “Support”.
-“Support” decide the rank of martial arts you can learn from this sect.
-
-<color=#E3C66DFF> (You can challenge <color=#E4504DFF>“Swordtomb”</color> to increase the support level cap.) </color>",
+  "LK_CombatSkillTree_OrganizationApprove_TipContent": "“Approval” represents how much Taiwu is welcomed by this sect…\n\n“Support” comes from every member in the sect, when you fulfil the members' requirement, you will gain their “Support”.\n“Support” decide the rank of martial arts you can learn from this sect.\n\n<color=#E3C66DFF> (You can challenge <color=#E4504DFF>“Swordtomb”</color> to increase the support level cap.) </color>",
   "LK_CombatSkillTree_ReadBookEfficientBonus": "Reading efficiency",
   "LK_CombatSkillTree_ReadBookEfficientBonus_TipContent": "Efficiency of studying the secret manuals of this school's skill <color=#brightblue> +25% </color>.",
   "LK_CombatSkillTree_SkillBreakSuccessBonus": "Breakthrough success rate",
