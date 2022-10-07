@@ -2394,9 +2394,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "LK_WorldMap_SweepNet_Amount": "Insect Trap {0}/1",
   "LK_MiniMap_Lock": "Lock Minimap",
   "LK_RecordSelect_Continue": "Continue...",
-  "LK_Adventure_Conquered_Tip": "
-
-You have taken over this lair, you can now dispatch villagers to this location....",
+  "LK_Adventure_Conquered_Tip": "\n\nYou have taken over this lair, you can now dispatch villagers to this location....",
   "LK_SetSelectCount_Tip": "Click【Item】again to confirm",
   "LK_ExchangeBook_Tip_0": "Your Pure Qi is not high enough. You will not be able to read and understand. The other party is not willing to hand over this manual...",
   "LK_ExchangeBook_Tip_1": "You don't have enough favor with the sect. By the sect's rules, the other party will not hand over the manual...",
