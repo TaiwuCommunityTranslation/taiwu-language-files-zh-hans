@@ -641,7 +641,7 @@
   "LK_Combat_ConcentrateTitle": "Focus",
   "LK_Combat_ConcentrateInfo": "The degree of <color=#yellow>\"Concentrate\" </color>affects the character's overall inhale and Stance efficiency... \n\n<color=#yellow>(Whenever the character is attacked or obstructed, the concentration will increase!) </color>",
   "LK_Combat_PauseTitle": "Pause or Unpause",
-  "LK_Combat_PauseInfo": "Click here（or press SPACE on keyboard）to pause or unpause the fight…",
+  "LK_Combat_PauseInfo": "Click here（or press SPACE on keyboard）to pause or unpause the fight…\n",
   "LK_Combat_Pause_Tips": "Paused",
   "LK_Combat_InjuryTitle": "{0}Injuries",
   "LK_Combat_InjuryInfo": "Defense: {0} 
