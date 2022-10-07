@@ -975,8 +975,7 @@
   "LK_Building_BuildingPlanning": "Building layout being chosen",
   "LK_Building_BuildingPlanConfirm": "Confirm current plan",
   "LK_Building_BuildingPlanCancel": "Give up current plan",
-  "LK_Building_BuildingPlanConfirmTip": "Moved building will suffer 50% damage! 
- Are you sure you want to move this building?",
+  "LK_Building_BuildingPlanConfirmTip": "Moved building will suffer 50% damage! \n Are you sure you want to move this building?",
   "LK_Building_BuildingPlanCancelTip": "Are you sure you want to abandon the architectural plans you've made?",
   "LK_Building_BuildingCannotMoveTip1": "The building cannot be moved!",
   "LK_Building_BuildingCannotMoveTip2": "The building's health isn't full, it cannot be moved!",
@@ -1017,10 +1016,8 @@
   "LK_TeaHorse_Weather": "Weather: {0}",
   "LK_TeaHorse_Awareness": "Awareness: {0}",
   "LK_TeaHorse_Distance": "(Departed {0} when the distance to Taiwu Village is {1})",
-  "LK_TeaHorse_Replenishment": "Tea Caravan Supplies: 
-{0}/{1}({2}/month)",
-  "LK_TeaHorse_LoseProb": "Chance For Loss Goods: 
-{0}/month",
+  "LK_TeaHorse_Replenishment": "Tea Caravan Supplies: \n{0}/{1}({2}/month)",
+  "LK_TeaHorse_LoseProb": "Chance For Loss Goods: \n{0}/month",
   "LK_TeaHorse_Forward": "Set out",
   "LK_TeaHorse_Back": "Back",
   "LK_TeaHorse_ForwardWest": "Go West",
