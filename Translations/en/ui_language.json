@@ -801,12 +801,7 @@
   "LK_Safety": "SEC",
   "LK_Population": "POP",
   "LK_Area_Debt_Tip_Title": "L·Deeds",
-  "LK_Area_Debt_Tip_Desc": "“Local Deeds” represent the contribution of Taiwu for the area... 
-
-You will gain local deeds by defeating criminals, destroying their camps, and saving posessed people. 
-You can use \"Local Deeds\" to get help from certain locals. 
-
-<color=#yellow>（You can unlock region deed limit by defeating<color=#red>“Sword Tomb”</color>）</color>",
+  "LK_Area_Debt_Tip_Desc": "“Local Deeds” represent the contribution of Taiwu for the area... \n\nYou will gain local deeds by defeating criminals, destroying their camps, and saving posessed people. \nYou can use \"Local Deeds\" to get help from certain locals. \n\n<color=#yellow>（You can unlock region deed limit by defeating<color=#red>“Sword Tomb”</color>）</color>",
   "LK_Area_Station_Tip_Title": "Stations Connected",
   "LK_Area_Station_Tip_Desc": "You have already found the station in this area, you can directly travel to here without spending prestige. ",
   "LK_Preview_CombatSkill_Tip_Title": "Sect skill tree",
