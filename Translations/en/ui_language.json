@@ -811,10 +811,7 @@
   "LK_Station_Pos": "Station Location",
   "LK_Travel_Cost_Time": "Cost",
   "LK_Travel_Cost_Money": "Cost of money",
-  "LK_First_Travel_Tip": "Because there is no travel path to this region…
-You need to spend<color=#darkpurple>{0}「Prestige」1 to unlock the travel path before you can travel to this region！<color=#red>
-
-（After unlocking a travel path, the <color=#darkpurple>「Prestige」2 cost to unlock a new region will increase！）",
+  "LK_First_Travel_Tip": "Because there is no travel path to this region…\nYou need to spend<color=#darkpurple>{0}「Prestige」1 to unlock the travel path before you can travel to this region！<color=#red>\n\n（After unlocking a travel path, the <color=#darkpurple>「Prestige」2 cost to unlock a new region will increase！）",
   "LK_Choose_Advance_Days": "Select the number of days to be spent",
   "LK_Neigong_Looping": "Cultivation",
   "LK_Advance_Month_Warn_No_Loop_Neigong": "<color=#red>You haven't chosen an Inner Art yet!</color> 
