@@ -644,9 +644,7 @@
   "LK_Combat_PauseInfo": "Click here（or press SPACE on keyboard）to pause or unpause the fight…\n",
   "LK_Combat_Pause_Tips": "Paused",
   "LK_Combat_InjuryTitle": "{0}Injuries",
-  "LK_Combat_InjuryInfo": "Defense: {0} 
-Injuries: {1} 
-",
+  "LK_Combat_InjuryInfo": "Defense: {0} \nInjuries: {1} \n",
   "LK_Combat_ChangeTrickCount": "Num. Of Changes: {0}",
   "LK_Combat_BreathAndStance": "Breath And Stance",
   "LK_Combat_Stance_Tips": "Using external Martial Arts requires Stance. You can gain it by attacking your opponent with your weapon, and the amount you get depends on your Stance Gather stat...",
