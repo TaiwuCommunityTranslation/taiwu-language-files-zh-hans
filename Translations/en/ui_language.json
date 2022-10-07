@@ -1574,8 +1574,7 @@
   "LK_UnknownCharName": "???",
   "LK_CricketCollection_Title": "Cricket（{0}/{1}）",
   "LK_CricketCollection_PlaceCricket_Tip_Title": "Place Cricket",
-  "LK_CricketCollection_PlaceCricket_Tip_Desc": "Select a Cricket to place it in the Cricket Jar. 
-The Crickets placed in the Cricket Jar will be treated.",
+  "LK_CricketCollection_PlaceCricket_Tip_Desc": "Select a Cricket to place it in the Cricket Jar. \nThe Crickets placed in the Cricket Jar will be treated.",
   "LK_CricketCollection_PlaceCricketJar_Tip_Title": "Place a Cricket Jar",
   "LK_CricketCollection_PlaceCricketJar_Tip_Desc": "Select a Cricket Jar to place here.",
   "LK_CricketCollection_Authority_Tips1": "Due to all the achievements of the organization:",
