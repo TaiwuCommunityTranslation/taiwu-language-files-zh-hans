@@ -65,9 +65,7 @@
   "UI_NewGame_Settings_AttackSpeed": "Invasion Speed",
   "UI_NewGame_Tip_AttackSpeed_Content": "Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean less preparation time, making it harder to defend the village. \n <color=#E3C66DFF>(The game is over if the Taiwu Village is destroyed.)</color>",
   "UI_NewGame_Settings_WorldSituation": "World Condition",
-  "UI_NewGame_Tip_WorldSituation_Content": "A prosperous world will benefit the development of Taiwu. 
- But even the most barren world can gradually recover. 
- <color=#E3C66DFF>(The world condition directly affects the recover speed of all kinds of resources in the world; The amount of resources gathered are likely to be different every time even in Wonderland world condition.)</color>",
+  "UI_NewGame_Tip_WorldSituation_Content": "A prosperous world will benefit the development of Taiwu. \n But even the most barren world can gradually recover. \n <color=#E3C66DFF>(The world condition directly affects the recover speed of all kinds of resources in the world; The amount of resources gathered are likely to be different every time even in Wonderland world condition.)</color>",
   "UI_NewGame_Settings_RandomInherit": "Random Heir",
   "UI_NewGame_Tip_RandomInherit_Content": "When the Player dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir. 
  <color=#E3C66DFF>(The game is over if no heir is assigned!)</color>",
