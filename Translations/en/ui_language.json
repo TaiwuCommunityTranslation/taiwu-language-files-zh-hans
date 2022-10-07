@@ -3205,10 +3205,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "UI_AdventureEditor_Tips_DoubleClickToEditEvent": "Double click to edit event{0}",
   "UI_AdventureEditor_Tips_DoubleClickToEditItemCore": "Double click to edit item drop pool",
   "UI_AdventureEditor_EditBaseBranch_Title": "{0}-Basic path {1} edit",
-  "UI_AdventureEditor_Tips_ItemDropCore": "The number indicates the weight value of the item drop 
- left mouse button to increase the weight 
- right mouse button to decrease the weight 
- long press to quickly increase or decrease the weight",
+  "UI_AdventureEditor_Tips_ItemDropCore": "The number indicates the weight value of the item drop \n left mouse button to increase the weight \nRight mouse button to decrease the weight \n long press to quickly increase or decrease the weight",
   "UI_AdventureEditor_EditBaseBranch_ItemCore_Title": "{0} - Base Path {1} - Props Drop Edit",
   "UI_AdventureEditor_EditAdvanceBranch_Title": "{0} path {1} attached advanced path editing",
   "UI_AdventureEditor_AdvanceBranch_Info": "Path Length{0}",
