@@ -63,8 +63,7 @@
   "UI_NewGame_Settings_RobberAmount": "Outlaws Amount",
   "UI_NewGame_Tip_RobberAmount_Content": "The number of enemies that exist in the world. How quickly their numbers increase. \n<color=#E3C66DFF>(encounter rate increases with higher difficulty)</color>",
   "UI_NewGame_Settings_AttackSpeed": "Invasion Speed",
-  "UI_NewGame_Tip_AttackSpeed_Content": "Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean less preparation time, making it harder to defend the village. 
- <color=#E3C66DFF>(The game is over if the Taiwu Village is destroyed.)</color>",
+  "UI_NewGame_Tip_AttackSpeed_Content": "Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean less preparation time, making it harder to defend the village. \n <color=#E3C66DFF>(The game is over if the Taiwu Village is destroyed.)</color>",
   "UI_NewGame_Settings_WorldSituation": "World Condition",
   "UI_NewGame_Tip_WorldSituation_Content": "A prosperous world will benefit the development of Taiwu. 
  But even the most barren world can gradually recover. 
