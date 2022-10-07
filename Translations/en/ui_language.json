@@ -1453,16 +1453,7 @@
   "LK_Main_SummaryInfo_Identity": "Identity",
   "LK_Main_SummaryInfo_Identity_TipContent": "The character's position in their sect or town…\n\n<color=#pinkyellow>·High tier characters are harder to befriend\n·there are 9 tiers from the lowest to the highest：\n<color=#GradeColor_0>Grey</color>、<color=#GradeColor_1>White</color>、<color=#GradeColor_2>Green</color>、<color=#GradeColor_3>Blue、<color=#GradeColor_4>Teal</color>、<color=#GradeColor_5>Purple</color>、<color=#GradeColor_6>Yellow</color>、<color=#GradeColor_7>Orange</color>、<color=#GradeColor_8>Red</color></color>",
   "LK_Main_SummaryInfo_Behavior": "Standpoint",
-  "LK_Main_SummaryInfo_Behavior_TipContent": "Standpoint represents a character's fundamental attitude
-<color=#pinkyellow>·The greater the difference in standpoints between two people, the more difficult it is to get along.
-·Different standpoints can initiate different actions.
-·Different standpoints obtain different results in many events.
-
-<SpName=mousetip_lingxing> <SpName=mousetip_lichang_4><color=#BehaviorType_Egoistic>Egoist</color>
-<SpName=mousetip_lingxing> <SpName=mousetip_lichang_3><color=#BehaviorType_Rebel>Rebel</color>
-<SpName=mousetip_lingxing> <SpName=mousetip_lichang_2><color=#BehaviorType_Even>Even</color>
-<SpName=mousetip_lingxing> <SpName=mousetip_lichang_1><color=#BehaviorType_Kind>Kind</color>
-<SpName=mousetip_lingxing> <SpName=mousetip_lichang_0><color=#BehaviorType_Just>Just</color></color>",
+  "LK_Main_SummaryInfo_Behavior_TipContent": "Standpoint represents a character's fundamental attitude\n<color=#pinkyellow>·The greater the difference in standpoints between two people, the more difficult it is to get along.\n·Different standpoints can initiate different actions.\n·Different standpoints obtain different results in many events.\n\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_4><color=#BehaviorType_Egoistic>Egoist</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_3><color=#BehaviorType_Rebel>Rebel</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_2><color=#BehaviorType_Even>Even</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_1><color=#BehaviorType_Kind>Kind</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_0><color=#BehaviorType_Just>Just</color></color>",
   "LK_Main_SummaryInfo_Fame": "Renown",
   "LK_Main_SummaryInfo_Fame_TipContent": "Fame represents how the world sees the character, and has nothing to do with the actual standpoint of the character.
 
