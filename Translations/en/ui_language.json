@@ -1070,10 +1070,8 @@
   "LK_Cannot_Build_Invalid_Area": "<color=#red>Build area is invalid...</color>",
   "LK_Cannot_Build_Reach_Depend_Max_Level": "<color=#red>Cannot exceed dependency level...</color>",
   "LK_Building_Villager_Out_Village_Tips": "Villagers are currently not in Taiwu Village and will have to return for a month before they can start work in the Taiwu Village next month...",
-  "LK_Confirm_Build_Tip_Desc": "Are you sure you want to construct the selected building? 
-The「Manpower」will be tied up until they finish the building, and the Resources will be consumed.",
-  "LK_Confirm_Upgrade_Tip_Desc": "Are you sure you want to expand the selected building? 
-After starting the expansion, the resources will be consumed.",
+  "LK_Confirm_Build_Tip_Desc": "Are you sure you want to construct the selected building? \nThe「Manpower」will be tied up until they finish the building, and the Resources will be consumed.",
+  "LK_Confirm_Upgrade_Tip_Desc": "Are you sure you want to expand the selected building? \nAfter starting the expansion, the resources will be consumed.",
   "LK_Confirm_Remove_Tip_Desc": "Are you sure you want to remove the selected building (or resource)? 
 The building (or resource) will disappear after the removal is complete, but some resources will be recovered。",
   "LK_Building_Stop_Build_Tip_Desc": "Are you sure you want to stop building the selected building? If the selected progress isn't 0, the current progress will be saved until the next month, and can be restarted.",
