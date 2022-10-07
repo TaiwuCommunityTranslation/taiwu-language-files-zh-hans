@@ -3198,10 +3198,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "UI_AdventureEditor_RevertAdventure": "Rollback change",
   "UI_AdventureEditor_NotClear": "Let me think again",
   "UI_AdventureEditor_CreateNewAdventure": "New Adventure",
-  "UI_AdventureEditor_Tips_IdInput": "1、Enter a range of ids divided to yourself, the maximum id cannot exceed 32767
-2、The entered encounter id already exists: switch to the target encounter and edit
-3、The entered encounter id does not exist and you are editing an already existing encounter: then modify the id of the encounter
-4、The entered encounter id does not exist and you are editing a new encounter: then assign the new encounter Assign id",
+  "UI_AdventureEditor_Tips_IdInput": "1、Enter a range of ids divided to yourself, the maximum id cannot exceed 32767\n2、The entered encounter id already exists: switch to the target encounter and edit\n3、The entered encounter id does not exist and you are editing an already existing encounter: then modify the id of the encounter\n4、The entered encounter id does not exist and you are editing a new encounter: then assign the new encounter Assign id",
   "UI_AdventureEditor_EditStartNode_Title": "{0}-start {1} edit",
   "UI_AdventureEditor_EditTransferNode_Title": "{0}-rotation-point {1} edit",
   "UI_AdventureEditor_EditEndNode_Title": "{0}-ends {1} edit",
