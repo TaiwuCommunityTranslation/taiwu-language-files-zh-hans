@@ -2766,8 +2766,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "UI_CombatSkillTree_Approve": "Approval",
   "GM_Name": "Name",
   "GM_Message_Call": "Call Method {0} {1}",
-  "GM_Message_CallFailed": "{0} call failed 
-{1}",
+  "GM_Message_CallFailed": "{0} call failed \n{1}",
   "GM_Message_CallFailedSpecial": "Cannot use GM commands while traveling",
   "GM_Message_Args": "Parameter",
   "GM_Message_Args_CharId_Tips": "&amp;Button function:
