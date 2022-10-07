@@ -3036,12 +3036,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "GM_EditTransgender_Name": "Modification of whether the sexual characteristics are reversed",
   "GM_EditBisexual_Name": "Modify if bisexual",
   "GM_EditMonkType_Name": "Modify the status of leaving home",
-  "GM_EditMonkType_Tips": "0: Undeclared
-1: Non-denominational monk
-2: Non-denominational monk
-129: Denominational monk
-130: Denominational monk
-(Denominational monk will give Dharma name, non-denominational monk cannot give Dharma name)",
+  "GM_EditMonkType_Tips": "0: Undeclared\n1: Non-denominational monk\n2: Non-denominational monk\n129: Denominational monk\n130: Denominational monk\n(Denominational monk will give Dharma name, non-denominational monk cannot give Dharma name)",
   "GM_EditCurrMainAttributes_Name": "Modify current properties",
   "GM_EditCurrMainAttributes_Arg1_Name": "STR",
   "GM_EditCurrMainAttributes_Arg2_Name": "AGI",
