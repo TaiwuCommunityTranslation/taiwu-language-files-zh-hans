@@ -67,8 +67,7 @@
   "UI_NewGame_Settings_WorldSituation": "World Condition",
   "UI_NewGame_Tip_WorldSituation_Content": "A prosperous world will benefit the development of Taiwu. \n But even the most barren world can gradually recover. \n <color=#E3C66DFF>(The world condition directly affects the recover speed of all kinds of resources in the world; The amount of resources gathered are likely to be different every time even in Wonderland world condition.)</color>",
   "UI_NewGame_Settings_RandomInherit": "Random Heir",
-  "UI_NewGame_Tip_RandomInherit_Content": "When the Player dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir. 
- <color=#E3C66DFF>(The game is over if no heir is assigned!)</color>",
+  "UI_NewGame_Tip_RandomInherit_Content": "When the Player dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir. \n <color=#E3C66DFF>(The game is over if no heir is assigned!)</color>",
   "UI_NewGame_Settings_BehaviorLimit": "Restriction on Standpoint",
   "UI_NewGame_Tip_BehaviorLimit": "Choices made in events will be limited based on different standpoint restrictions, for a more realistic Taiwu world. (i.e., if you have chosen the Kind standpoint, you're limited to Just, Kind and Even choices)",
   "UI_NewGame_Settings_WorldPopulation": "World Population",
