@@ -545,7 +545,7 @@
   "UI_AdvanceMonth_TipTitle": "Month Change",
   "UI_AdvanceMonth_CurDate": "Click to go to the next month... \n\nCurrently it's the {0} year {1} month {2} day",
   "UI_AdvanceMonth_DaysToNextSolarTerm": " \n{0} Days left until <color=#white>{1}</color> solar term！",
-  "UI_AdvanceMonth_SolarTermNow": "Is going to skip <color=#white>{0}</color> turns!",
+  "UI_AdvanceMonth_SolarTermNow": "\nIs going to skip <color=#white>{0}</color> turns!",
   "UI_AdvanceMonthState_1": "Time passes, the world evolves",
   "UI_AdvanceMonthState_2": "Birth, old age, sickness and death are the way of the world",
   "UI_AdvanceMonthState_3": "Demons are rampant, bandits are rampant",
@@ -621,9 +621,7 @@
   "LK_Attack": "ATK",
   "LK_Combat_Block": "Parry",
   "LK_Combat_HealTiltle": "Heal",
-  "LK_Combat_HealInfo": "Consume<color=#6DB75FFF>1</color>treatment chance to alleviate all external and internal injuries.  
-
- The more injuries you have, the longer it takes.",
+  "LK_Combat_HealInfo": "Consume<color=#6DB75FFF>1</color>treatment chance to alleviate all external and internal injuries.  \n\n The more injuries you have, the longer it takes.",
   "LK_Combat_DispelTitle": "Detox",
   "LK_Combat_DispelInfo": "Consume<color=#6DB75FFF>1</color>detox chance to alleviate all toxins in your body.  
 
