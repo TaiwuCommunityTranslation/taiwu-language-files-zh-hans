@@ -141,11 +141,9 @@
   "UI_NewGame_BtnTip_RandomAvatar_Title": "Random Appearance",
   "UI_NewGame_BtnTip_RandomAvatar_Content": "Randomly generate the character's appearance...",
   "UI_NewGame_BtnTip_SetMale_Title": "Male",
-  "UI_NewGame_BtnTip_SetMale_Content": "Set character's gender to male. 
- <color=#yellow>(Gender won't affect character's stats.)</color>",
+  "UI_NewGame_BtnTip_SetMale_Content": "Set character's gender to male. \n <color=#yellow>(Gender won't affect character's stats.)</color>",
   "UI_NewGame_BtnTip_SetFemale_Title": "Female",
-  "UI_NewGame_BtnTip_SetFemale_Content": "Set character's gender to female. 
- <color=#yellow>(Gender won't affect character's stats.)</color>",
+  "UI_NewGame_BtnTip_SetFemale_Content": "Set character's gender to female. \n <color=#yellow>(Gender won't affect character's stats.)</color>",
   "UI_NewGame_BtnTip_GenderRevers_Title": "Appearance",
   "UI_NewGame_BtnTip_GenderRevers_Content": "Appearance may differ from gender: Men that look like women, or women that look like men.",
   "UI_NewGame_IconTip_BirthSolarTerm_Title": "Birth Month",
