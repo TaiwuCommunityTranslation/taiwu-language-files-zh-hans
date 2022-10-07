@@ -1247,11 +1247,9 @@
   "LK_Inventory_Overflow": "Not Enough Inventory Space",
   "LK_Inventory_Overflow_Tips": "Item in your bag have exceeded your carry capacity！\nTime required to move around the map increased<color=#red>{0}%</color>！\n<color=#red>Items will be lost when the month changes！</color>",
   "LK_Warehouse_Overflow": "Not Enough Storage Space",
-  "LK_Warehouse_Overflow_Tips": "Items in your storage have exceeded the max limit！
-<color=#E4504DFF>Some items will be lost when the month changes！</color>",
+  "LK_Warehouse_Overflow_Tips": "Items in your storage have exceeded the max limit！\n<color=#E4504DFF>Some items will be lost when the month changes！</color>",
   "LK_Resource_Overflow": "Not Enough Resource Limit",
-  "LK_Resource_Overflow_Tips": "{0} In your storage have exceeded the storage limit！
-<color=#red>Some resource will be lost when the month changes！</color>",
+  "LK_Resource_Overflow_Tips": "{0} In your storage have exceeded the storage limit！\n<color=#red>Some resource will be lost when the month changes！</color>",
   "LK_Xiangshu_Infecting": "Enthralled by XiangShu",
   "LK_Xiangshu_Infecting_Tips": "You are enthralled！<color=#E4504DFF>If your mood gets worse, you might be controlled by XiangShu!</color>",
   "LK_Xiangshu_Infected": "Possessed by XiangShu",
