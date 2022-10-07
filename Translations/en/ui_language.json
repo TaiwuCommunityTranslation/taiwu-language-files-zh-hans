@@ -664,9 +664,7 @@
   "LK_Combat_Trick": "Shi",
   "LK_Combat_Trick_Tips": "When you have the number of moves, double-click this \"style\" to consume the number of moves and perform a move change...",
   "LK_Combat_Change_Trick": "Style Change",
-  "LK_Combat_Change_Trick_Tips": "When you attack an enemy with a weapon, the weapon that can be changed will accumulate the progress and number of changes...
-When you have the number of changes, double-click the style you want to change on the style plate to complete the change..
-The number of changes will accumulate up to 9 times...",
+  "LK_Combat_Change_Trick_Tips": "When you attack an enemy with a weapon, the weapon that can be changed will accumulate the progress and number of changes...\nWhen you have the number of changes, double-click the style you want to change on the style plate to complete the change..\nThe number of changes will accumulate up to 9 times...",
   "LK_Combat_Cannot_Change_Trick": "No Style Change",
   "LK_Combat_Can_Change_Trick": "Possible Style Change",
   "LK_Combat_Change_Trick_Tips2": "Double click \"style\" to change the move",
