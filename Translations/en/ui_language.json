@@ -345,10 +345,8 @@
   "LK_CombatSkill_Reverse_Page_2_Desc": "Stat requirements -30%",
   "LK_CombatSkill_Direct_Page_3_Desc": "When you breakthrough successfully while not obsessed, the power of skill+10%",
   "LK_CombatSkill_Reverse_Page_3_Desc": "When you breakthrough successfully while obsessed, the power of skill+10%",
-  "LK_CombatSkill_Direct_Page_4_Desc": "Power of skill +10% 
-If the breakthrough activates the special effects of orthodox practice, the effect is doubled",
-  "LK_CombatSkill_Reverse_Page_4_Desc": "Power of skill +10% 
-If the breakthrough activates the special effects of heterodox practice, the effect is doubled",
+  "LK_CombatSkill_Direct_Page_4_Desc": "Power of skill +10% \nIf the breakthrough activates the special effects of orthodox practice, the effect is doubled",
+  "LK_CombatSkill_Reverse_Page_4_Desc": "Power of skill +10% \nIf the breakthrough activates the special effects of heterodox practice, the effect is doubled",
   "LK_Reading": "Study",
   "LK_CurrentReadingBook": "Studying {0}",
   "LK_ReadingEffect": "【Study Effect】",
@@ -534,10 +532,8 @@ If the breakthrough activates the special effects of heterodox practice, the eff
   "UI_AvatarPreset_Save": "Save Preset",
   "UI_AvatarPreset_Load": "Load Preset",
   "UI_AvatarPreset_SelectAvatarPreset": "Choose Preset",
-  "UI_AvatarPreset_PresetNameExist": "{0} 
-<color=red>It already exists. Are you sure to overwrite the preset</color>",
-  "UI_AvatarPreset_PresetNameContainsInvalidChars": "The preset name cannot contain the following characters: 
-<color=yellow>{0}</color>",
+  "UI_AvatarPreset_PresetNameExist": "{0} \n<color=red>It already exists. Are you sure to overwrite the preset</color>",
+  "UI_AvatarPreset_PresetNameContainsInvalidChars": "The preset name cannot contain the following characters: \n<color=yellow>{0}</color>",
   "UI_AvatarPreset_PresetSaveSuccess": "{0} Saved Successfully！",
   "LK_Shop_Evaluation_0": "The evaluation of<color=#darkbrown>{0}</color><color=#lightbrown>{1}</color> is <color=#darkbrown>{2}</color><color=#red> very low and the public in in an uproar.</color>",
   "LK_Shop_Evaluation_1": "<color=#darkbrown>{0}1<color=#lightbrown>{1}2 has very poor reputation in <color=#darkbrown>{2}3<color=#red> , their name lives in infamy.",
