@@ -1444,9 +1444,7 @@
   "LK_Main_Attribute_Recover_Tips": "Depleted attributes will be restored to some extent each time the month changes...",
   "LK_Main_SummaryInfo_Title": "Title",
   "LK_Main_SummaryInfo_Title_TipContent": "Title is obtained as a result of various achievements of a character...\n\n",
-  "LK_Main_SummaryInfo_Char_Name_TipContent": "The name of a person...
-
-<color=#pinkyellow>-In some cases, a character's name may not be their real name</color>",
+  "LK_Main_SummaryInfo_Char_Name_TipContent": "The name of a person...\n\n<color=#pinkyellow>-In some cases, a character's name may not be their real name</color>",
   "LK_Main_SummaryInfo_Gender": "Gender",
   "LK_Main_SummaryInfo_Gender_TipContent": "The gender of a character...
 
