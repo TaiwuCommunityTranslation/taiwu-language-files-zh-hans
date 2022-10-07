@@ -1390,10 +1390,7 @@
   "LK_Exp_Cost_Tips": "EXP cost",
   "LK_Qualification_Growth": "Growth",
   "LK_Growth": "Growth",
-  "LK_Qualification_Growth_Desc": "<color=#lightgrey>All talents change depending on your age...</color>
-·Balanced：No changes in talents at any age.
-·Early bloomer：Until the age of 40<color=#lightgreen>all talents are increased by 15 to 10</color>；After the age of 40<color=#red>all talents are reduced by 10 to 20</color>
-·Late bloomer：Until the age of 30<color=#red>all talents are reduced by 20 to 10</color>；After the age of 30<color=#lightgreen>all talents are increased by 10 to 30</color>",
+  "LK_Qualification_Growth_Desc": "<color=#lightgrey>All talents change depending on your age...</color>\n·Balanced：No changes in talents at any age.\n·Early bloomer：Until the age of 40<color=#lightgreen>all talents are increased by 15 to 10</color>；After the age of 40<color=#red>all talents are reduced by 10 to 20</color>\n·Late bloomer：Until the age of 30<color=#red>all talents are reduced by 20 to 10</color>；After the age of 30<color=#lightgreen>all talents are increased by 10 to 30</color>",
   "LK_Qualification_Growth_Average": "Balanced",
   "LK_Qualification_Growth_Precocious": "Early bloomer",
   "LK_Qualification_Growth_LateBlooming": "Late bloomer",
