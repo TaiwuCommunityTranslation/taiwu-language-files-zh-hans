@@ -1478,9 +1478,7 @@
 <SpName=mousetip_lingxing> <SpName=mousetip_haogan_7><color=#FavorabilityType_Favorite1>Lukewarm</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_haogan_8><color=#FavorabilityType_Favorite2>Friendly</color>
 <SpName=mousetip_lingxing> <SpName=mousetip_haogan_9><color=#FavorabilityType_Favorite3>Warm</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_haogan_10><color=#FavorabilityType_Favorite4>Familiar</color><SpName=mousetip_lingxing> <SpName=mousetip_haogan_11><color=#FavorabilityType_Favorite5>Intimate</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_haogan_12> <color=#FavorabilityType_Favorite6>Devoted</color></color>",
   "LK_Samsara_TipContent": "Reincarnation represents the number of times a person is reincarnated in the world...\n\n<color=#pinkyellow>Whenever a character dies, they are reincarnated somewhere in the world \nCharacters will gain some of the major attributes of all previous lives\nCharacters will gain some of the talent for Fine and Martial skills of all previous lives.</color>",
-  "LK_Char_Age_TipContent": "The age of the character. <color=#pinkyellow>
-
-- The recovery rate of all \"attributes\" of the character varies at different ages</color=#pinkyellow>",
+  "LK_Char_Age_TipContent": "The age of the character. <color=#pinkyellow>\n- The recovery rate of all \"attributes\" of the character varies at different ages</color=#pinkyellow>",
   "LK_Health_TipContent": "The character's health
 
 <color=#pinkyellow>-The character's health may decrease for a number of reasons:
