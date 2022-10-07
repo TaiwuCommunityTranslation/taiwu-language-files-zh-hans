@@ -1520,9 +1520,7 @@
   "LK_DisorderOfQi_Level_2": "Obstruction",
   "LK_DisorderOfQi_Level_3": "Disorder",
   "LK_DisorderOfQi_Level_4": "Shattered",
-  "LK_InjuryTips_Content": "Injury：<color=#red>{0}</color> 
-
- {1}",
+  "LK_InjuryTips_Content": "Injury：<color=#red>{0}</color> \n\n {1}",
   "LK_HealthInfo": "Health Condition: {0} / {1}",
   "LK_Charm_Childish": "Young",
   "LK_Charm_Naked": "Unclothed",
