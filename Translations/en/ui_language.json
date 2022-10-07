@@ -279,8 +279,7 @@
   "UI_LifeSkillBattle_Prepare_Ban": "Ban",
   "UI_LifeSkillBattle_Prepare_Operation_Observe": "Observe",
   "UI_LifeSkillBattle_Prepare_Operation_Giveup": "Giveup",
-  "UI_LifeSkillBattle_Prepare_Tips_1": "Exclude fine arts by using【Ban】
-Until only one fine art remains",
+  "UI_LifeSkillBattle_Prepare_Tips_1": "Exclude fine arts by using【Ban】\nUntil only one fine art remains",
   "UI_LifeSkillBattle_Prepare_Tips_2": "Opponent has eliminated...",
   "UI_LifeSkillBattle_Score": "Score: {0}",
   "UI_LifeSkillBattle_ScoreTotal": "Total Score: {0}",
