@@ -1570,8 +1570,7 @@
   "LK_View_Combat_Skill_Type_Detail": "View Details",
   "LK_Combat_Skill_Inner_Ratio": "Ext/Int Ratio",
   "LK_Combat_Skill_Inner_Ratio_Slider_Tip_Title": "Change Ext/Int Ratio",
-  "LK_Combat_Skill_Inner_Ratio_Slider_Tip_Desc": "Drag to change the power ratio of a Martial Art
-Adjustment range：Initial power ration of a Martial Art ± (Initial power ration of a Martial Art adjustment range * Character's Int. Ratio Bonus / 100)",
+  "LK_Combat_Skill_Inner_Ratio_Slider_Tip_Desc": "Drag to change the power ratio of a Martial Art\nAdjustment range：Initial power ration of a Martial Art ± (Initial power ration of a Martial Art adjustment range * Character's Int. Ratio Bonus / 100)",
   "LK_UnknownCharName": "???",
   "LK_CricketCollection_Title": "Cricket（{0}/{1}）",
   "LK_CricketCollection_PlaceCricket_Tip_Title": "Place Cricket",
