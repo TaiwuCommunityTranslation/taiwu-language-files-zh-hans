@@ -1072,8 +1072,7 @@
   "LK_Building_Villager_Out_Village_Tips": "Villagers are currently not in Taiwu Village and will have to return for a month before they can start work in the Taiwu Village next month...",
   "LK_Confirm_Build_Tip_Desc": "Are you sure you want to construct the selected building? \nThe「Manpower」will be tied up until they finish the building, and the Resources will be consumed.",
   "LK_Confirm_Upgrade_Tip_Desc": "Are you sure you want to expand the selected building? \nAfter starting the expansion, the resources will be consumed.",
-  "LK_Confirm_Remove_Tip_Desc": "Are you sure you want to remove the selected building (or resource)? 
-The building (or resource) will disappear after the removal is complete, but some resources will be recovered。",
+  "LK_Confirm_Remove_Tip_Desc": "Are you sure you want to remove the selected building (or resource)? \nThe building (or resource) will disappear after the removal is complete, but some resources will be recovered。",
   "LK_Building_Stop_Build_Tip_Desc": "Are you sure you want to stop building the selected building? If the selected progress isn't 0, the current progress will be saved until the next month, and can be restarted.",
   "LK_Building_Stop_Upgrade_Tip_Desc": "Are you sure you want to stop upgrading the selected building? If the current progress isn't 0, the current progress will be saved until the next month, and can be restarted.",
   "LK_Building_Stop_Remove_Tip_Desc": "Are you sure you want to stop removing the selected building (or resource)? If the current progress isn't 0, the current progress will be saved until the next month, and can be restarted.",
@@ -1101,8 +1100,7 @@ The building (or resource) will disappear after the removal is complete, but som
   "LK_Select_Making_Tool_Tips": "Choose the tool",
   "LK_Tool_Durability_Sufficient": "Durability: {0}/{1}",
   "LK_Tool_Durability_Insufficient": "Durability: <color=#C16927>{0}</color>/{1}",
-  "LK_Tool_Durability_Tips": "Usable Time of the Tool…
-<color=#E3C66DFF>（Tools will be damaged as they are being used, when their usable time to is reduced to <color=#FBFBFBFF>0</color>they will be discarded。）</color>",
+  "LK_Tool_Durability_Tips": "Usable Time of the Tool…\n<color=#E3C66DFF>（Tools will be damaged as they are being used, when their usable time to is reduced to <color=#FBFBFBFF>0</color>they will be discarded。）</color>",
   "LK_Refine_Resource_Require_Meet": "{0}：{1}/{2}",
   "LK_Refine_Resource_Require_Not_Meet": "{0}：<color=#C16927>{1}</color>/{2}",
   "LK_Refine_LifeSkill_Require_Meet": "{0}：{1}/{2}",
@@ -1207,8 +1205,7 @@ The building (or resource) will disappear after the removal is complete, but som
   "LK_Cricket_Grade_Name6": "T3",
   "LK_Cricket_Grade_Name7": "T2",
   "LK_Cricket_Grade_Name8": "T1",
-  "LK_Cricket_FakeCricket": "Bad luck, you got tricked by crickets....
-<color=#orange>(The probability of encountering a high tier Cricket has increased!)</color>",
+  "LK_Cricket_FakeCricket": "Bad luck, you got tricked by crickets....\n<color=#orange>(The probability of encountering a high tier Cricket has increased!)</color>",
   "LK_Cricket_Found_Tips": "Found a Cricket!",
   "LK_Catch_Cricket_Poem_0": "Every year know gentlemen take fancy, believing them like the sun and moon won't move.",
   "LK_Catch_Cricket_Poem_1": "The enemy must be fought to claim bravery, and a thousand years will still hate Song Xianren",
