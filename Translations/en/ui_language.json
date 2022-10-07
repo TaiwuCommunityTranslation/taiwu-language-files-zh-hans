@@ -2481,9 +2481,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "UI_EventEditor_MaskControlType_3": "Fade to full black when displayed and fade back when exited",
   "LK_Common_Attention": "Attention",
   "UI_EventEditor_EventChanged": "Are you sure you want to save <color=#goldyellow>{0}</color> changes to this event?",
-  "UI_EventEditor_OptionDeleteConfirm": "Are you sure you want to delete <color=#yellow>{0} </color> options?
-
-<color=yellow>This cannot be undone</color>",
+  "UI_EventEditor_OptionDeleteConfirm": "Are you sure you want to delete <color=#yellow>{0} </color> options?\n\n<color=yellow>This cannot be undone</color>",
   "UI_EventEditor_EventDeleteConfirm": "Are you sure you want to delete <color=#yellow>{0} </color>events?
 
 
