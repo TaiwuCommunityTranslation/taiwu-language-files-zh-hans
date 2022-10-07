@@ -1633,10 +1633,7 @@
   "LK_TaiwuShrine_CanNotTeachTips_Title": "Cannot Teach",
   "LK_TaiwuShrine_CanNotTeachTips_Content": "You need to reach the age of {0} years old for Taiwu to open this option.",
   "LK_TaiwuShrine_Teach": "Teach",
-  "LK_TaiwuShrine_TeachConfirm": "Choose a Skill or Artistry and impart it to your companion.
-
-The effect of Impart is permanent, are you sure to impart?
-(Requirement of 「Prestige」increases for the next impartment!) ",
+  "LK_TaiwuShrine_TeachConfirm": "Choose a Skill or Artistry and impart it to your companion.\n\nThe effect of Impart is permanent, are you sure to impart?\n(Requirement of 「Prestige」increases for the next impartment!) ",
   "LK_CharacterMenu_Injury_EatingLimit": "You've hit consumable limit. Cannot consume more food or medicine...",
   "LK_CharacterMenu_Injury_EatingNull": "Consume various types of items to get different effects...",
   "LK_CharacterMenu_Injury_EatingTooMuch": "Consuming beyond the physical limits...",
