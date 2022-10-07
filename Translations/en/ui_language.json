@@ -284,8 +284,7 @@
   "UI_LifeSkillBattle_Score": "Score: {0}",
   "UI_LifeSkillBattle_ScoreTotal": "Total Score: {0}",
   "UI_Station_Not_Found_Title": "There are no open travel paths to...",
-  "UI_Station_Not_Found_Tip": "<color=#red>The travel route to this region has not been unlocked, cannot use travel route to travel
-<color=#yellow>（Go to a village or town with travel station to unlock travel route in this region…）",
+  "UI_Station_Not_Found_Tip": "<color=#red>The travel route to this region has not been unlocked, cannot use travel route to travel\n<color=#yellow>（Go to a village or town with travel station to unlock travel route in this region…）",
   "UI_Travel_Authority_Not_Enough_Title": "Insufficient prestige...",
   "UI_Travel_Authority_Not_Enough_Tip": "Not enough <color=#darkpurple>'Prestige'</color> is not enough to open up new travel paths...",
   "UI_Travel_Money_Not_Enough_Title": "Insufficient money...",
