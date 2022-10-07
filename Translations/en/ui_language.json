@@ -291,9 +291,7 @@
   "UI_Travel_Money_Not_Enough_Tip": " Not <color=#lightbrown> 'money'</color> is> not enough to complete the trip... \n Do you want to spend {0} times as much time to make this trip?</color=#lightbrown>",
   "UI_MapMoveTransit_PageTitle": "Long-distance Traveling...",
   "UI_MapMoveTransit_FromInfo": "From:  \n {0} \n<color=#yellow>「{1}」</color>",
-  "UI_MapMoveTransit_ToInfo": "To:  
-{0} 
-<color=#yellow>「{1}」</color>",
+  "UI_MapMoveTransit_ToInfo": "To:  \n{0}\n<color=#yellow>「{1}」</color>",
   "UI_Stop_Travel": "Cancel Traveling",
   "UI_Stop_Travel_Confirm": "Are you sure you want to cancel traveling? The money and prestige spent will not be returned.",
   "LK_LifeSkill": "Fine arts",
