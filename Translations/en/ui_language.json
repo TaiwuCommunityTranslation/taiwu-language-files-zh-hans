@@ -2482,10 +2482,7 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "LK_Common_Attention": "Attention",
   "UI_EventEditor_EventChanged": "Are you sure you want to save <color=#goldyellow>{0}</color> changes to this event?",
   "UI_EventEditor_OptionDeleteConfirm": "Are you sure you want to delete <color=#yellow>{0} </color> options?\n\n<color=yellow>This cannot be undone</color>",
-  "UI_EventEditor_EventDeleteConfirm": "Are you sure you want to delete <color=#yellow>{0} </color>events?
-
-
-<color=yellow>This cannot be undone</color>",
+  "UI_EventEditor_EventDeleteConfirm": "Are you sure you want to delete <color=#yellow>{0} </color>events?\n\n<color=yellow>This cannot be undone</color>",
   "UI_EventEditor_Button_OptionUp": "Move up option",
   "UI_EventEditor_Button_OptionDown": "Move down option",
   "UI_EventEditor_Button_OptionCopy": "Copy Options",
