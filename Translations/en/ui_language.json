@@ -2527,8 +2527,7 @@
   "UI_EventEditor_ItemInsertString_1": "Common item name",
   "UI_EventEditor_ItemInsertString_2": "Quality Color Name",
   "UI_EventEditor_Tip_ItemInsertString_Title": "Item placeholder rules",
-  "UI_EventEditor_Tip_ItemInsertString_Content": "1. Use &lt;&gt; to include the entire placeholder tag information \n2. All the placeholder tag signatures for props are Item\n3. The key field indicates that the item information is obtained from the parameter box
-4. The presence of the key field invalidates the id field and the type field\n5. The type field and the id field must always appear in pairs\n6. The str field indicates that the placeholder is replaced with a string 7\nThe optional values of str field are Name and ColorName\n8. The sp field means that the placeholder is replaced by item icon\n9. The value of sp field is always Icon",
+  "UI_EventEditor_Tip_ItemInsertString_Content": "1. Use &lt;&gt; to include the entire placeholder tag information \n2. All the placeholder tag signatures for props are Item\n3. The key field indicates that the item information is obtained from the parameter box\n4. The presence of the key field invalidates the id field and the type field\n5. The type field and the id field must always appear in pairs\n6. The str field indicates that the placeholder is replaced with a string 7\nThe optional values of str field are Name and ColorName\n8. The sp field means that the placeholder is replaced by item icon\n9. The value of sp field is always Icon",
   "UI_EventEditor_Tip_CopyOK": "Replication success",
   "UI_EventEditor_Tip_DonotUseCommentAs": "<color=#yellow>Note: Do not use \"/* | */\" to comment in the code, which will lead to unpredictable analysis results!</color>\nOption {1} of event {0} annotates code in this way at line {2}",
   "UI_EventEditor_Tip_OptionHasNoLinkEvent": "The option has a jump that is not resolved to a jumpable event, has the option code editing been completed?",
