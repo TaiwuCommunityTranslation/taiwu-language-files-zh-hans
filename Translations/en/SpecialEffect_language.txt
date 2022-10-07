@@ -181,7 +181,7 @@ Increases the power of the user's "Water" type techniques
 12 Scrolls\nof Eastwall
 When the internal power attribute of the user is "Water", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
 Step Sky
-Significantly increase the "sensitivity" limit of the user
+Significantly increase the "Agility" limit of the user
 Mysterious\nScripture
 Convert the user's "Metal" internal energy into "Water" internal energy, the more the conversion ratio, the more the user's "Water" type power will increase.
 Posthumous Ginseng
@@ -1564,7 +1564,7 @@ The duration of the "Quick" technique will be restored to the user according to 
 Transfer Flower\nPicker
 Body to Qi
 Royal Body and Qi Change
-When attacking an enemy with this technique, if the user's sensitivity is higher than the enemy's, a part of the enemy's body will be transferred to the imperial qi; when this technique reaches 10% of its power, 10 points of the user's sensitivity will be consumed, and a gain state that raises the imperial qi and a gain state that lowers the imperial body will be applied to the enemy.
+When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a part of the enemy's body will be transferred to the imperial qi; when this technique reaches 10% of its power, 10 points of the user's Agility will be consumed, and a gain state that raises the imperial qi and a gain state that lowers the imperial body will be applied to the enemy.
 Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's body breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
 Vajra Samadhi\nPalm
@@ -1614,7 +1614,7 @@ After this technique has been used for ten percent of its power, the user gains 
 Beauty Stab
 If the distance between us and the enemy is less than the enemy's maximum attack distance, the user will immediately retreat to the enemy's maximum attack distance without consumption when this technique exerts ten percent of its power.
 Stab of\nDexterity Snake
-When you start to perform this technique, the more sensitivity the user has not consumed, the more the power of this technique will increase
+When you start to perform this technique, the more Agility the user has not consumed, the more the power of this technique will increase
 Shadow Stab
 When this technique is used at 10% of its power, the enemy loses 6 points of "Quick" true qi.
 Divine Needle\nof Meditation Wisdom
@@ -3162,7 +3162,7 @@ HU·White Ape's\nLong-Arm Fist
 Depending on the power of this technique, the duration of the enemy's "Quick" technique is greatly depleted.
 HU·Transfer Flower\nPicker
 Transformation of imperial qi to imperial body
-When attacking an enemy with this technique, if the user's sensitivity is higher than the enemy's, a portion of the enemy's imperial energy will be transferred to the imperial body; when this technique is 10% more powerful, 10 points of the user's sensitivity will be consumed, and a gain status that increases the imperial body and a gain status that decreases the imperial energy will be applied to the enemy.
+When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a portion of the enemy's imperial energy will be transferred to the imperial body; when this technique is 10% more powerful, 10 points of the user's Agility will be consumed, and a gain status that increases the imperial body and a gain status that decreases the imperial energy will be applied to the enemy.
 HU·Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's qi breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's qi recovery speed is reduced.
 HU·Vajra Samadhi\nPalm
@@ -3208,7 +3208,7 @@ After this technique has been used for ten percent of its power, the user gains 
 HU·Beauty Stab
 If the distance between us and the enemy is greater than the enemy's minimum attack distance, the user will immediately advance to the enemy's minimum attack distance without consumption when this technique exerts ten percent of its power.
 HU·Stab of\nDexterity Snake
-When you start to perform this technique, the more sensitivity the user has consumed, the more the power of this technique will increase
+When you start to perform this technique, the more Agility the user has consumed, the more the power of this technique will increase
 HU·Shadow Stab
 When this technique is used at 10% of its power, the user draws 3 points of "Quick" true energy from the enemy's body
 HU·Divine Needle\nof Meditation Wisdom
