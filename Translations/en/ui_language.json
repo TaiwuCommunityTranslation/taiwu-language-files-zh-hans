@@ -1629,9 +1629,7 @@
   "LK_QulificationBonus": "<color=#E3C66DFF>{0} Talent Bonus: +{1}</color>",
   "LK_TaiwuShrine_Slot_Authority_Tips": "Prestige cost",
   "LK_TaiwuShrine_NotToughtTips_Title": "Not Taught",
-  "LK_TaiwuShrine_NotToughtTips_Content": "Spend Prestige：<color={0}>{1}</color><color=#AE5AC8FF> / {2}</color>
-
-Spend prestige to teach them and improve their skills.",
+  "LK_TaiwuShrine_NotToughtTips_Content": "Spend Prestige：<color={0}>{1}</color><color=#AE5AC8FF> / {2}</color>\n\nSpend prestige to teach them and improve their skills.",
   "LK_TaiwuShrine_CanNotTeachTips_Title": "Cannot Teach",
   "LK_TaiwuShrine_CanNotTeachTips_Content": "You need to reach the age of {0} years old for Taiwu to open this option.",
   "LK_TaiwuShrine_Teach": "Teach",
