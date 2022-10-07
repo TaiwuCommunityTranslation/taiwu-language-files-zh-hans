@@ -3168,19 +3168,12 @@ Mercenary is ruthless, for profit is the only thing that matters.",
   "UI_AdventureEditor_Terrain_NotSpecified_TransferEndNode": "Please specify the terrain, otherwise the terrain will be generated randomly",
   "UI_AdventureEditor_Terrain_Specified": " The terrain has been specified as <color=#lightgreen>{0}</color>",
   "UI_AdventureEditor_BtnTip_AdventureDetail": "Click to open the Chance Data Adjustment panel",
-  "UI_AdventureEditor_NodeContentBase": "{0}
-
-<size=20><i>{1}</i></size>
-
-<size=22><color=blue>{2}</color></size>",
+  "UI_AdventureEditor_NodeContentBase": "{0}\n\n<size=20><i>{1}</i></size>\n\n<size=22><color=blue>{2}</color></size>",
   "UI_AdventureEditor_GotoEventEditor": "Events Editor",
   "UI_AdventureEditor_SaveAdventure": "Save Adventure",
   "UI_AdventureEditor_SaveAdventure_OK": "Adventure <color=#yellow>{0}</color> has been successfully saved!",
-  "UI_AdventureEditor_Info_SaveAdventure": " Want to save your changes to Adventure{0}?
-<color=#yellow>Discarding existing modifications will make it impossible to retrieve them!</color>",
-  "UI_AdventureEditor_NodeTip": "Double click to edit detailed data 
-
-right click to expand the operation menu",
+  "UI_AdventureEditor_Info_SaveAdventure": " Want to save your changes to Adventure{0}?\n<color=#yellow>Discarding existing modifications will make it impossible to retrieve them!</color>",
+  "UI_AdventureEditor_NodeTip": "Double click to edit detailed data \n\nRight click to expand the operation menu",
   "UI_AdventureEditor_EditNode": "Edit Node",
   "UI_AdventureEditor_DeleteNode": "Delete Node",
   "UI_AdventureEditor_ConnectTo": "Connect to...",
