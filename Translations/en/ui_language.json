@@ -57,9 +57,7 @@
   "UI_NewGame_Tip_BtnMingke_Title": "Save Game",
   "UI_NewGame_Tip_BtnMingke_Content": "Select the saved character to play",
   "UI_NewGame_Settings_CharactorLife": "Lifespan",
-  "UI_NewGame_Tip_CharactorLife_Content": "The average lifespan of the player and NPCs in-game. 
- <color=#E3C66DFF>(Lifespan does not affect game difficulty)</color> 
- <color=#E4504DFF>(This option cannot be changed once the game starts!)</color>",
+  "UI_NewGame_Tip_CharactorLife_Content": "The average lifespan of the player and NPCs in-game. \n <color=#E3C66DFF>(Lifespan does not affect game difficulty)</color> \n <color=#E4504DFF>(This option cannot be changed once the game starts!)</color>",
   "UI_NewGame_Settings_BattleHard": "Difficulty",
   "UI_NewGame_Tip_BattleHard_Content": "Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle. 
  <color=#E3C66DFF>(The higher the difficulty, the stronger the enemy will be; the more intelligent enemies are; the more actions they will perform in battle  
