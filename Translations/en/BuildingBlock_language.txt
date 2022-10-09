@@ -48,7 +48,7 @@ An isolated mountain ravine that flows endlessly with precious water. All season
 The Everspring Ravine has a chance to grow in the fifth month of each year, but does not expand naturally. Growth chance is increased with the "Water Canal" resource building.
 Snake Pit
 A cave occupied by a myriad of poisonous snakes. The dense poison has bled into the surroundings, leaving barren ground and decayed trees in its wake. Glimpses of numerous white bones can be seen from the entrance, its desolate atmosphere heightened by the endless darkness when you peer inside.
-The Snake Hole has a chance to grow in the fifth month of each year, but does not expand naturally. Growth chance is increased with the "Feeding Cage" resource building.
+The Snake Hole has a chance to grow in the fifth month of each year, but does not expand naturally. Growth chance is increased with the "Feeding Cage" resource building. Provides "Poison" materials.
 Fragrance Land
 A mysterious land full of mesmerizing flowers, plants and crystals with strange aromas. Its unique nature lends to the production of special fabrics.
 The Fragrance Land has a chance to grow in the eleventh month of each year, but does not expand naturally. Growth chance is increased with the "Cloud Canopy" resource building. Provides "Weaving" materials.
