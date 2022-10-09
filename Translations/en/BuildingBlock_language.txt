@@ -45,7 +45,7 @@ Taishi, The Forest of the Great Beginning, is a mostly empty land. The only thin
 The Taishi Forest has a chance to grow in the sixth month of each year, but does not expand naturally. Growth chance is increased with the "Swinging Suspensions" resource building. Provides "Carpentry" materials.
 Everspring Ravine
 An isolated mountain ravine that flows endlessly with precious water. All seasons are like spring inside the peach wonderland, and any herbs grown inside are nurtured endlessly.
-The Everspring Ravine has a chance to grow in the fifth month of each year, but does not expand naturally. Growth chance is increased with the "Water Canal" resource building. Provides "Herb" materials.
+The Everspring Ravine has a chance to grow in the fifth month of each year, but does not expand naturally. Growth chance is increased with the "Water Canal" resource building. Provides "Medicine" materials.
 Snake Pit
 A cave occupied by a myriad of poisonous snakes. The dense poison has bled into the surroundings, leaving barren ground and decayed trees in its wake. Glimpses of numerous white bones can be seen from the entrance, its desolate atmosphere heightened by the endless darkness when you peer inside.
 The Snake Hole has a chance to grow in the fifth month of each year, but does not expand naturally. Growth chance is increased with the "Feeding Cage" resource building. Provides "Toxicology" materials.
