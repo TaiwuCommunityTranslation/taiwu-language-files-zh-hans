@@ -12,7 +12,7 @@ An area where nature flourishes. Not only is there enough sunshine, but the rain
 The Woodlands has a chance to grow and expand in the second month of each year.
 Skyward Mountain
 A mountain that stands alone. Its peak soars into the clouds, surrounded by precipitous cliffs. Rich in ores and gems.
-The lonely peak relies on the stone monument to have a chance to grow in the You month every year.
+The Skyward Mountain has a chance to grow in the eighth month of each year. Growth chance is increased with the "Monument" resource building.
 Herb Paradise
 Rich soil and clear water with a gentle climate. The terrain is very complex, with many ravines and caves, suitable for the growth of various types of valuable herbs.
 The Herb Paradise has a chance to grow and expand in the sixth month of each year.
