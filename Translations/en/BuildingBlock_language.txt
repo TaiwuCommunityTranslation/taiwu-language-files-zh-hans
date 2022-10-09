@@ -30,7 +30,7 @@ A fertile land suitable for growing fruit trees and crops. The land is easy to d
 The Fertile Plain has a chance to grow and expand in the fourth month of each year. Growth chance is increased with the "Waterwheel" resource building.
 Wild Habitat
 A region rich in meat and fur with a diverse ecological environment. Many kinds of wild animals thrive in the area, with plenty of rare and exotic species.
-The Wild Habitat has a chance to grow and expand in the second month of each year. Growth chance is increased with the "Pasture" resource building.
+The Wild Habitat has a chance to grow and expand in the second month of each year. Growth chance is increased with the "Pasture" resource building. Provides "Gemcutting" materials. Provides "Cooking" and "Weaving" materials.
 Lava Pond
 Craters filled with lava and volcanic flame are scattered throughout the area. The heat is so intense that geothermal flame often falls to the ground and burns for three days without going out. The area is filled with high quality gold and silver ore.
 The Lava Pond has a chance to grow in the seventh month of each year, but does not expand naturally. Growth chance is increased with the "Steel Cableway" resource building. Provides "Smithing" materials.
