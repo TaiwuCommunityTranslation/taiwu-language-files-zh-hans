@@ -96,7 +96,7 @@ Mines excavated for mining gems. Compared to open pit mining, it is more difficu
 Must be built next to the "Gem Deposit". Increases its yearly growth chance. You will need to send villagers to operate it. Jade materials for "Gemcutting" can be harvested, as well as the jade resource every month.
 Waterwheel
 With the water flow as the power,  vast fields can be irrigated.
-Must be built next to the "Fertile Plain". Increases its yearly growth chance. You will need to send villagers to operate it. Food and Wood materials for "Cooking" and "Carpentry" can be harvested, as well as the food and wood resources every month.
+Must be built next to the "Fertile Plain". Increases its yearly growth chance. You will need to send villagers to operate it. Food and Wood materials for "Cooking" and "Carpentry" can be harvested, as well as the food andor wood resources every month.
 Pasture
 Hire herders to raise animals in the fertile grasslands and protect them from disease, natural disasters and beasts.
 Must be built next to the "Wild Habitat". Increases its yearly growth chance. You will need to send villagers to operate it. Food and Fabric materials for "Cooking" and "Weaving" can be harvested, as well as the food and fabric resources every month.
