@@ -12,7 +12,7 @@ An area where nature flourishes. Not only is there enough sunshine, but the rain
 The Woodlands has a chance to grow and expand in the second month of each year. Growth chance is increased with the "Tree Plantation" resource building.
 Skyward Mountain
 A mountain that stands alone. Its peak soars into the clouds, surrounded by precipitous cliffs. Rich in ores and gems.
-The Skyward Mountain has a chance to grow in the eighth month of each year. Growth chance is increased with the "Monument" resource building.
+The Skyward Mountain has a chance to grow in the eighth month of each year. Growth chance is increased with the "Monument" resource building. Provides "Smithing" and "Gemcutting" materials.
 Herb Paradise
 Rich soil and clear water with a gentle climate. The terrain is very complex, with many ravines and caves, suitable for the growth of various types of valuable herbs.
 The Herb Paradise has a chance to grow and expand in the sixth month of each year. Growth chance is increased with the "Medicine Field" resource building. Provides "Herb" materials.
