@@ -54,7 +54,7 @@ A mysterious land full of mesmerizing flowers, plants and crystals with strange 
 The Fragrance Land has a chance to grow in the eleventh month of each year, but does not expand naturally. Growth chance is increased with the "Cloud Canopy" resource building.
 Dragon Vein
 The breath of the dragon vein is hidden and nurtured, leading to a prosperous vitality. The auspicious feng shui of heaven, earth, yin and yang, are perfectly harmonized here. 
-The Dragon Vein has a chance to grow in the third month of each year, but does not expand naturally. Growth chance is increased with the "Feng Shui Residence" resource building.
+The Dragon Vein has a chance to grow in the third month of each year, but does not expand naturally. Growth chance is increased with the "Feng Shui Residence" resource building. Provides "Weaving" materials.
 Ley Line
 The ley line is the core essence of the earth, made up of narrow underground caves filled with mysterious minerals and plants.
 The Ley Line has a chance to grow in the twelfth month of each year. Growth chance is increased with the "Hidden Mausoleum" resource building. Provides "Gemcutting" materials.
