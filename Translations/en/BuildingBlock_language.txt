@@ -27,7 +27,7 @@ A deposit of rare colored stones and jade. The gemstones are crystal clear and b
 The Gem Deposit has a chance to grow in the twelfth month of each year. Growth chance is increased with the "Gem Mine" resource building.
 Fertile Plain
 A fertile land suitable for growing fruit trees and crops. The land is easy to develop with plenty of water and light, and very rich in its production of food and wood.
-The Fertile Plain has a chance to grow and expand in the fourth month of each year.
+The Fertile Plain has a chance to grow and expand in the fourth month of each year. Growth chance is increased with the "Waterwheel" resource building.
 Wild Habitat
 A region rich in meat and fur with a diverse ecological environment. Many kinds of wild animals thrive in the area, with plenty of rare and exotic species.
 The Wild Habitat has a chance to grow and expand in the second month of each year.
