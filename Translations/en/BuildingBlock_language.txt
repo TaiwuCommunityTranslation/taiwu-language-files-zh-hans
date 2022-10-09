@@ -39,7 +39,7 @@ The crater formed by a falling meteorite. It is scattered with special meteor-fo
 The Meteor Crater has a chance to grow in the tenth month of each year. Growth chance is increased with the "Fire-Setting" resource building.
 Primeval Jungle
 A dense and untouched forest, full of exotic flowers and grasses. It is dark and humid, making the harvesting process very difficult.
-The Jungle has a chance to grow in the seventh month of each year, but does not expand naturally.
+The Primeval Jungle has a chance to grow in the seventh month of each year, but does not expand naturally. Growth chance is increased with the "Cedar-Heart Wall" resource building.
 Taishi Forest
 Taishi, The Forest of the Great Beginning, is a mostly empty land. The only thing in sight as you walk through its grounds is a sparse number of strange trees. Their purple trunks grow tall and wide, cutting off at a sheer edge at the top. Each show signs of uncountable age with a single fruit growing atop their branches.
 The Taishi Forest has a chance to grow in the sixth month of each year, but does not expand naturally.
