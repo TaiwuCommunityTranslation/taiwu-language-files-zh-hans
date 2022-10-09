@@ -57,7 +57,7 @@ The breath of the dragon vein is hidden and nurtured, leading to a prosperous vi
 The Dragon Vein has a chance to grow in the third month of each year, but does not expand naturally. Growth chance is increased with the "Feng Shui Residence" resource building.
 Ley Line
 The ley line is the core essence of the earth, made up of narrow underground caves filled with mysterious minerals and plants.
-The Ley Line has a chance to grow in the twelfth month of each year. Growth chance is increased with the "Hidden Mausoleum" resource building.
+The Ley Line has a chance to grow in the twelfth month of each year. Growth chance is increased with the "Hidden Mausoleum" resource building. Provides "Gemcutting" materials.
 Eternal Ice
 Born in environments of extreme cold, the ice is formed after hundreds of millions of years. It's so tough that it cannot be broken by cutting and chopping, and it cannot be melted by fire of any sort.
 The Eternal Ice has a chance to grow in the first month of each year. Growth chance is increased with the "Divine Statues" resource building. Provides "Gemcutting" materials.
