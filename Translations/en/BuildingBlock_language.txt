@@ -69,7 +69,7 @@ Amidst the rocky ground, numerous insects sing under the night sky.
 Stones do not grow naturally, nor will they expand.
 Ruins
 Amidst the broken structures, numerous insects sing under the night sky.
-The Ruins does not grow naturally, nor will it expand.
+Ruins do not grow naturally, nor will they expand.
 Well
 It is made of mud and sand, covered with vegetation and stacked with stones. It is used for water storage and flood control facilities.
 Must be built next to the "Reservoir". Increases its yearly growth chance. You will need to send villagers to operate it. Food materials for "Cooking" can be harvested, as well as the food resource every month.
