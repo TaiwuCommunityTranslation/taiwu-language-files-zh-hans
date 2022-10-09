@@ -99,7 +99,7 @@ With the water flow as the power,  vast fields can be irrigated.
 Must be built next to the "Fertile Plain". Increases its yearly growth chance. You will need to send villagers to operate it. Food and Wood materials for "Cooking" and "Carpentry" can be harvested, as well as the food andor wood resources every month.
 Pasture
 Hire herders to raise animals in the fertile grasslands and protect them from disease, natural disasters and beasts.
-Must be built next to the "Wild Habitat". Increases its yearly growth chance. You will need to send villagers to operate it. Food and Fabric materials for "Cooking" and "Weaving" can be harvested, as well as the food and fabric resources every month.
+Must be built next to the "Wild Habitat". Increases its yearly growth chance. You will need to send villagers to operate it. Food and Fabric materials for "Cooking" and "Weaving" can be harvested, as well as the food or fabric resources every month.
 Steel Cableway
 A large, steel cable runs across the volcanic craters, so that the core areas can be access at will.
 Must be built next to the "Lava Pond" using the "Steel Buckle" as the core material. Increases its yearly growth chance. You will need to send villagers to operate it. Ore materials for "Smithing" can be harvested, as well as the ore resource every month.
