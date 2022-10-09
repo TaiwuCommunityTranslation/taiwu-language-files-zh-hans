@@ -6,7 +6,7 @@ Rivers, lakes, oases and other water areas. These watery and fertile areas provi
 The Reservoir has a chance to grow and expand in the sixth month of each year.
 Stone Hills
 Hills formed by numerous rocks, rich in ore deposits such as copper and gold.
-Stone Mountain is dependent on the mine for opportunistic growth in the eleventh month of the year.
+Stone Hills has a chance to grow and expand in the ninth month of each year. Growth chance is increased with the "Mineshaft" resource building.
 Woodlands
 An area where nature flourishes. Not only is there enough sunshine, but the rainfall is even, and there are many trees with excellent quality.
 The Woodlands has a chance to grow and expand in the second month of each year. Growth chance is increased with the "Tree Plantation" resource building.
