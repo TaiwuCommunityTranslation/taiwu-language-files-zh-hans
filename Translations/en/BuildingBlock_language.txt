@@ -51,7 +51,7 @@ A cave occupied by a myriad of poisonous snakes. The dense poison has bled into 
 The Snake Hole has a chance to grow in the fifth month of each year, but does not expand naturally. Growth chance is increased with the "Feeding Cage" resource building.
 Fragrance Land
 A mysterious land full of mesmerizing flowers, plants and crystals with strange aromas. Its unique nature lends to the production of special fabrics.
-The Fragrance Land has a chance to grow in the eleventh month of each year, but does not expand naturally.
+The Fragrance Land has a chance to grow in the eleventh month of each year, but does not expand naturally. Growth chance is increased with the "Cloud Canopy" resource building.
 Dragon Vein
 The breath of the dragon vein is hidden and nurtured, leading to a prosperous vitality. The auspicious feng shui of heaven, earth, yin and yang, are perfectly harmonized here. 
 The Dragon Vein has a chance to grow in the third month of each year, but does not expand naturally.
