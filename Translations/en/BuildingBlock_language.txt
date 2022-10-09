@@ -18,7 +18,7 @@ Rich soil and clear water with a gentle climate. The terrain is very complex, wi
 The Herb Paradise has a chance to grow and expand in the sixth month of each year. Growth chance is increased with the "Medicine Field" resource building.
 Poison Swamp
 A poisonous swamp covered with miasma and silted with mud. There are many strange trees in the swamp, and many deadly snakes and insects thrive inside.
-The Poison Swamp has a chance to grow and expand in the ninth month of each year.
+The Poison Swamp has a chance to grow and expand in the ninth month of each year. Growth chance is increased with the "Swamp Canal" resource building.
 Flower Valley
 With its mild climate, the valley is covered by shrubs and numerous flower species. It is an environment suited for cultivating plants used to create fabric.
 The Flower Valley has a chance to grow and expand in the fourth month of each year.
