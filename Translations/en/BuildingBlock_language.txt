@@ -33,7 +33,7 @@ A region rich in meat and fur with a diverse ecological environment. Many kinds 
 The Wild Habitat has a chance to grow and expand in the second month of each year. Growth chance is increased with the "Pasture" resource building.
 Lava Pond
 Craters filled with lava and volcanic flame are scattered throughout the area. The heat is so intense that geothermal flame often falls to the ground and burns for three days without going out. The area is filled with high quality gold and silver ore.
-The Lava Pond has a chance to grow in the seventh month of each year. Growth chance is increased with the "Steel Cableway" resource building.
+The Lava Pond has a chance to grow in the seventh month of each year, but does not expand naturally. Growth chance is increased with the "Steel Cableway" resource building.
 Meteor Crater
 The crater formed by a falling meteorite. It is scattered with special meteor-forged iron that only true forging masters are able to work with.
 The Meteor Crater has a chance to grow in the tenth month of each year, but does not expand naturally. Growth chance is increased with the "Fire-Setting" resource building.
