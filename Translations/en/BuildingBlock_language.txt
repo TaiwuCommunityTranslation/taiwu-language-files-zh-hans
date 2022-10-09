@@ -66,7 +66,7 @@ Amidst the dense foliage, numerous insects sing under the night sky.
 The Weeds have a chance to grow and expand in the third month of each year.
 Stones
 Amidst the rocky ground, numerous insects sing under the night sky.
-The Stones does not grow naturally, nor will it expand.
+Stones does not grow naturally, nor will it expand.
 Ruins
 Amidst the broken structures, numerous insects sing under the night sky.
 The Ruins does not grow naturally, nor will it expand.
