@@ -81,7 +81,7 @@ Employ farmers to grow, maintain and irrigate the trees of the "Woodlands".
 Must be built next to the "Woodlands". Increases its yearly growth chance. You will need to send villagers to operate it. Wood materials for "Carpentry" can be harvested, as well as the wood resource every month.
 Monument
 Engraved monuments with many pictures or poems, carved on the cliff face.
-Must be built next to the "Skyward Mountain". Increases its yearly growth chance. You will need to send villagers to operate it. Ore and Jade materials for "Smithing" and "Craft" can be harvested, as well as the ore and jade resource every month.
+Must be built next to the "Skyward Mountain". Increases its yearly growth chance. You will need to send villagers to operate it. Ore and Jade materials for "Smithing" and "Gemcutting" can be harvested, as well as the ore and jade resource every month.
 Medicine Field
 Employ farmers to grow, maintain and irrigate the herbs of the "Herb Paradise".
 Must be built next to the "Herb Paradise". Increases its yearly growth chance. You will need to send villagers to operate it. Herb materials for "Medicine" can be harvested, as well as the herb resource every month.
