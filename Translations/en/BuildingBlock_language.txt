@@ -60,7 +60,7 @@ The ley line is the core essence of the earth, made up of narrow underground cav
 The Ley Line has a chance to grow in the twelfth month of each year. Growth chance is increased with the "Hidden Mausoleum" resource building.
 Eternal Ice
 Born in environments of extreme cold, the ice is formed after hundreds of millions of years. It's so tough that it cannot be broken by cutting and chopping, and it cannot be melted by fire of any sort.
-Genghis Khan relies on the ice razor statue to have a chance to grow in the month of Yin every year.
+The Eternal Ice has a chance to grow in the first month of each year. Growth chance is increased with the "Divine Statues" resource building.
 Weeds
 Amidst the dense foliage, numerous insects sing under the night sky.
 The Weeds have a chance to grow and expand in the third month of each year.
