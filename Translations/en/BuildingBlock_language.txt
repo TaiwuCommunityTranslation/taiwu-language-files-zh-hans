@@ -42,7 +42,7 @@ A dense and untouched forest, full of exotic flowers and grasses. It is dark and
 The Primeval Jungle has a chance to grow in the seventh month of each year, but does not expand naturally. Growth chance is increased with the "Cedar-Heart Wall" resource building.
 Taishi Forest
 Taishi, The Forest of the Great Beginning, is a mostly empty land. The only thing in sight as you walk through its grounds is a sparse number of strange trees. Their purple trunks grow tall and wide, cutting off at a sheer edge at the top. Each show signs of uncountable age with a single fruit growing atop their branches.
-The Taishi Forest has a chance to grow in the sixth month of each year, but does not expand naturally.
+The Taishi Forest has a chance to grow in the sixth month of each year, but does not expand naturally. Growth chance is increased with the "Swinging Suspensions" resource building.
 Everspring Ravine
 An isolated mountain ravine that flows endlessly with precious water. All seasons are like spring inside the peach wonderland, and any herbs grown inside are nurtured endlessly.
 The Everspring Ravine has a chance to grow in the fifth month of each year, but will not expand naturally.
