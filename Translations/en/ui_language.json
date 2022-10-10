@@ -1908,7 +1908,7 @@
   "LK_Building_QuickClear": "Quick Clear",
   "LK_Building_QuickCheckIn": "Quick move-in",
   "LK_Building_DamageTitle": "Building damaged",
-  "LK_Building_LackShopManager": "Insufficient number of operators",
+  "LK_Building_LackShopManager": "Missing Workers",
   "LK_Building_NoneShopManager": "Unattended",
   "LK_Building_MaintainTip": "Maintenance of this building requires monthly",
   "LK_Building_CannotManageTip": "Unable to operate due to not being next to the main building!",
