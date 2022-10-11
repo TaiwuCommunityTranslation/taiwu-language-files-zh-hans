@@ -46,7 +46,7 @@ Improve healing effect
 Dramatically increases the number of wounds that can be healed when the user performs "healing" in battle
 Meridian\nEnhancement
 Resolve Up
-The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that enhances the user's Diversion power, Parry, Evasion, and Focus.
+The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that enhances the user's Diversion, Parry, Evasion, and Focus.
 Ultra Harmony\nof Wudang
 Increase the power limit of the user's "Wudang School" techniques
 Vitality\nRetainin
