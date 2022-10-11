@@ -68,7 +68,7 @@ When the internal energy of the user is "Fire", it is more difficult to "block" 
 Fresh Breath
 Increases the power limit of the user's "Yuanshan School" techniques
 Lighter\nYuanshan Force
-The higher the ratio of the user's internal energy, the more the user's body and qi will be improved.
+The higher the ratio of the user's internal energy, the more the user's External and Internal Defense will be improved.
 Greater\nYuanshan Force
 The user's "Earth" type of technique will cause more direct damage and repercussion damage to characters with "Water" internal power attribute.
 Silence Methods
@@ -104,7 +104,7 @@ At the beginning of a battle, the user's "Nadis" true energy is increased signif
 Xuannyu\nMeditation
 Increases the power limit of the user's "Xuan Nui School" techniques
 Jade Bone\nCultivation
-The higher the percentage of "Water" internal energy of the user, the more the user's body and qi will be improved.
+The higher the percentage of "Water" internal energy of the user, the more the user's External and Internal Defense will be improved.
 Moon Drive\nCultivation
 The user's "Water" type of technique will cause more direct damage and backlash damage to characters with "Fire" internal power attribute
 Jade Mirror\nof Yin
@@ -145,7 +145,7 @@ The longer the remaining life span of the user, the more the power of all the fe
 Vajra-Hearted\nBuddha Meditation
 Increases the power limit of the user's "Vajra Sect" technique
 Internal Fire\nYoga
-The higher the percentage of "Metal" internal power of the user, the more the user's body and qi will be improved.
+The higher the percentage of "Metal" internal power of the user, the more the user's External and Internal Defense will be improved.
 Trinity\nof Buddha
 The "Metal" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Wood".
 Aquarius\nMeditation
