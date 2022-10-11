@@ -2113,7 +2113,7 @@ When defending with this technique, every time the user successfully counters an
 HU·Sakyamuni Elephant Throwing
 Whenever the user switches weapons, the heavier the weapon, the higher the chance of the user gaining 1 point of "Aegis" true qi.
 HU·Divine Mysterious
-The more "slashing" styles the user has, the more the user's Diversion power increases; the more "stabbing" styles the user has, the more the user's evasion increases; the more "teasing" styles the user has, the more the user's Parry moves increase.
+The more "Hack" styles the user has, the more the user's Diversion increases; the more "Stab" styles the user has, the more the user's Evasion increases; the more "Slash" styles the user has, the more the user's Parry increase.
 HU·Ultra Alpha Reflection
 No access to true qi
 When defending with this technique: the enemy cannot gain true qi; if the enemy can lose true qi and will gain it, the enemy's true qi will not increase but will decrease exponentially
