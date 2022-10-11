@@ -949,7 +949,7 @@ Swordsmanship\nof Open-Close
 If the user's unloading power, dismantling, dodging, or guarding the heart is not lower than the enemy's, the enemy will be given a reduced benefit status that reduces the corresponding hitting attribute according to the percentage of power played by this technique.
 Swordsmanship\nof Water Beetle
 E·Resolves Dn
-After this technique has been used for 10% of its Might, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's unloading, dismantling, dodging, and heart guarding cannot be higher than the user's force, Finesse, Swiftness, and heart moving.
+After this technique has been used for 10% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's unloading, dismantling, dodging, and heart guarding cannot be higher than the user's force, Finesse, Swiftness, and heart moving.
 Swordsmanship\nof 9 Lights
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Nadis", this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, and then this effect reverts to 0 levels.
 Swordsmanship\nof Yinyang Reversed
