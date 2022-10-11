@@ -1027,7 +1027,7 @@ Cuckoo's\nPecking
 Causes additional blocked points
 For every 1 external injury this feat inflicts on an enemy, it causes 1 sealed point to appear on the enemy's attacked area
 Small 8 Moves\nof Gold Clank
-PhP Up
+Ext. Def. UP
 Lowering the enemy's External Defense
 This technique cannot be counter-shocked; when attacking an enemy with this technique, if the enemy's External Defense is higher than the user's External Penetration, after this technique is performed, a gain status that increases the External Penetration is applied to the user and a debuff that decreases the External Defense is applied to the enemy.
 Flood Dragon's\nWagging Tail
