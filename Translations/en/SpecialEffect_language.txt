@@ -1579,7 +1579,7 @@ Lame Fight\n80 Moves
 When this technique is used at 10% of its power, for every 2 "take" styles the user has, the level of damage the user can cause to the enemy will increase by 1 extra level.
 Split Flower
 Resolve to Accu
-When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its Might, the user gains 4 levels of this effect: if the force, Finesse, and Swiftness of the user's attack on the enemy are lower than the user's unloading, dismantling, or evasion, the user's corresponding resolution replaces the hit.
+When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its power, the user gains 4 levels of this effect: if the force, Finesse, and Swiftness of the user's attack on the enemy are lower than the user's unloading, dismantling, or evasion, the user's corresponding resolution replaces the hit.
 Lighten Finger
 The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user will knock back the enemy by 4 distance, and if the distance between the enemy and the user after being knocked back is not greater than 8, the user will deal the same damage to the enemy once again
 A Thousand\nHands
