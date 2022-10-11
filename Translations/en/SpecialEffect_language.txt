@@ -980,7 +980,7 @@ Interrupting the performance of gongfu
 When this spell is used at 10% of its power, one of the enemy's "Quick" techniques that is not permanently blocked will be "blocked" for a long time; all "Quick" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
 The 7 Whites'\nExorcism
 Blocking the enemy's Aegis
-When this talisman is used at 10% of its power, it will cause one of the enemy's "Aegis" techniques to be "blocked" for a long time; depending on the full effect of the enemy's "Aegis" technique that is "blocked", it will reduce the enemy's Aegis, Qi Protection, Power Discharge, Dismantling, Dodge, and Mind Protection; after this talisman is cast, it will inevitably be temporarily "blocked".
+When this talisman is used at 10% of its power, it will cause one of the enemy's "Aegis" techniques to be "blocked" for a long time; depending on the full effect of the enemy's "Aegis" technique that is "blocked", it will reduce the enemy's External Defense, Internal Defense, Diversion, Parry, Evasion, and Focus; after this talisman is cast, it will inevitably be temporarily "blocked".
 Bless of\nThe Stars
 Reducing the health of the enemy
 When you start to cast this spell, the power of this spell will be greatly increased if the enemy is an evil person, and if the enemy is a demon, the power of this spell will be greatly increased; when this spell is 10% powerful, if the enemy is an evil person, the enemy's health will be reduced by 3 points, and if the enemy is a demon, the enemy's health will be reduced by 3 points.
