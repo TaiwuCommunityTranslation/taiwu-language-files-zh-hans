@@ -3164,7 +3164,7 @@ HU·Transfer Flower\nPicker
 Transformation of Internal Defense to External Defense
 When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a portion of the enemy's Internal Defense will be transferred to the External Defense; when this technique is 10% more powerful, 10 points of the user's Agility will be consumed, and a buff that increases the External Defense and a debuff that decreases the imperial energy will be applied to the enemy.
 HU·Heavenly Spirit\nThunder Palm
-At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's qi breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's qi recovery speed is reduced.
+At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Internal Penetration when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Inhale recovery speed is reduced.
 HU·Vajra Samadhi\nPalm
 Reduction of enemy's imperial energy
 This technique cannot be interrupted; this technique will definitely be 10% powerful, and the higher the enemy's External Defense, the more the enemy's Internal Defense will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Nadis", otherwise these effects will not take effect
