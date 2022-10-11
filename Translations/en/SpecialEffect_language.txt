@@ -3812,7 +3812,7 @@ When you begin to perform this divine power, apply 1 gain status to Huanxin that
 Sheathing
 When you start to perform this power, the 2 minus status on Huanxin will change to gain status
 Sword Trial
-When you start to perform this divine power, apply a gain status to Huanxin that improves body and breath breaking
+When you start to perform this divine power, apply a gain status to Huanxin that improves External and Internal penetration
 Dismantle The Blade
 Change of enemy status
 When you start to use this power: apply a gain status to Huanxin that increases random secondary attributes; apply a minus status to the enemy that decreases random secondary attributes; when this power reaches 10% of its power, it will "block" for a short time all the enemy's "Break" techniques that are not permanently blocked.
