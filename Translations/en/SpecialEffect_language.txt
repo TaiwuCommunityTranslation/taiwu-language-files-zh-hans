@@ -1028,7 +1028,7 @@ Causes additional blocked points
 For every 1 external injury this feat inflicts on an enemy, it causes 1 sealed point to appear on the enemy's attacked area
 Small 8 Moves\nof Gold Clank
 PhP Up
-Lowering the enemy's royal body
+Lowering the enemy's External Defense
 This technique cannot be counter-shocked; when attacking an enemy with this technique, if the enemy's body is higher than the user's broken body, after this technique is performed, a gain status that increases the broken body is applied to the user and a reduced benefit status that decreases the body is applied to the enemy.
 Flood Dragon's\nWagging Tail
 At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress, and the number of external injury of the user increases the degree of external injury to the enemy, but the user also suffers a certain amount of external injury at the end of the performance of this technique. external injury
