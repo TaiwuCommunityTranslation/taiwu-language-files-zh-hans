@@ -3,7 +3,7 @@ FIN
 SWI
 HEA
 Phy.P
-Qi.P
+Int. Pen.
 DIV
 PAR
 EVA
