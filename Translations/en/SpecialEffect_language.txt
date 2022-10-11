@@ -757,7 +757,7 @@ Seven-Star Spin
 During the duration of this Footwork, the less chance the user has left to attack, the more the user's attack speed will increase.
 Heaven Leap
 Penetration Up
-When advancing with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the distance will be advanced, up to 5 distance, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's body breaking, breaking Qi gain status
+When advancing with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the distance will be advanced, up to 5 distance, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's External Penetration, breaking Qi gain status
 Moving Star
 Change the distance between enemy and us
 When this Footwork is performed, the distance between the enemy and me changes to 9; during the duration of this Footwork, the enemy cannot actively approach the user
@@ -804,7 +804,7 @@ Increase the level of breakage
 When this technique is used at 10% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "collapse" styles the user has.
 The Great\nStonebreaker
 DES up
-When attacking the enemy with this technique: the user's armor breaking is greatly increased; if the user's armor breaking is higher than the enemy's toughness, the user's body breaking and qi breaking are greatly increased
+When attacking the enemy with this technique: the user's armor breaking is greatly increased; if the user's armor breaking is higher than the enemy's toughness, the user's External Penetration and qi breaking are greatly increased
 Gold Palm of\nLion Phase
 The injury becomes an old injury
 Wounds inflicted by this technique on the enemy's arm will change to old wounds that are more difficult to recover from
@@ -1258,7 +1258,7 @@ Drunk\n8 Immortals Fist
 After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the user attacks the enemy with a weapon, the enemy can only use the lowest one of unloading, dismantling, dodging, and guarding; if the user is drunk, when the user attacks the enemy with a weapon, the lowest one of the enemy will be reduced.
 Refining\nFire Palm
 Ignore E·Armor
-When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Constitution and increases the user's body breaking and qi breaking
+When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Constitution and increases the user's External Penetration and qi breaking
 Crazy Drunk Fist
 When this technique is at 10% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disturbed the user's internal breath is, the higher the external injury caused by this technique; if the user is drunk, the chance of performing this technique again increases significantly
 Great Colorful\nPalm
@@ -1815,7 +1815,7 @@ Greatly reduce the consumption of all major attributes of the user; if the user 
 Inverse-Dantian Opening and Closing Gong
 Reduces the need to use the "Emei School" techniques of the user
 Reverse-Emei Twelve Piles
-The higher the percentage of "Wood" internal power of the user, the more the user's body breaking and qi breaking will be increased.
+The higher the percentage of "Wood" internal power of the user, the more the user's External Penetration and qi breaking will be increased.
 Inverse - Innate One Element Qigong
 The "Wood" type technique of the user will cause more direct damage and repercussion damage to characters whose internal power attribute is "Metal".
 Inverse - Spiritual Enlightenment
@@ -1861,7 +1861,7 @@ When the internal energy of the user is "Fire", even if the body part required t
 Reverse-exhale and clear method
 Reduces the need to use the "GenSan School" techniques of the user
 Inverse - Xiao Yuan Shan Jin
-The higher the ratio of the user's "Earth" internal energy, the more the user's body breaking and qi breaking will be improved.
+The higher the ratio of the user's "Earth" internal energy, the more the user's External Penetration and qi breaking will be improved.
 Inverse-Daewonsanjin
 The user's "Earth" type of technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Wood".
 Inverse-No Mind Tricks
@@ -1896,7 +1896,7 @@ At the beginning of a battle, significantly reduce the amount of Nadis of the en
 Reversal - Xuan Nui Heart Skill
 Reduces the need to use the "Xuan Nui School" techniques of the user
 Inverse - Jade Bone
-The higher the percentage of "Water" internal energy of the user, the more the user's body breaking and qi breaking will be improved.
+The higher the percentage of "Water" internal energy of the user, the more the user's External Penetration and qi breaking will be improved.
 Inverse-Wang Shu Royal Moon Kung Fu
 The user's "Water" type techniques will cause more direct damage and repercussion damage to characters whose internal power attribute is "Earth".
 Inverse - Shao Yin Yi Ming Jue
@@ -1937,7 +1937,7 @@ The shorter the remaining life span of the user, the more the power of all the f
 Reverse - Vajra Four Karmas
 Reduces the need to use the Metal technique of the user
 Inverse-Toom Kung Fu
-The higher the ratio of "Metal" internal power of the user, the more the user's body breaking and qi breaking will be improved.
+The higher the ratio of "Metal" internal power of the user, the more the user's External Penetration and qi breaking will be improved.
 Inverse-Three Secret Response Method
 The user's "Metal" type techniques will cause more direct damage and repercussion damage to characters with "Fire" internal power attribute.
 Inverse - Baobao Qi Gong Method
@@ -1983,7 +1983,7 @@ If the internal energy of the user is "Water", even if the body part required to
 Inverse - All-over fire painting method
 Reduces the user's need to use the "Furyan" technique
 Inverse - Fulong Swallowing Fire Kung Fu
-The higher the percentage of "Fire" internal energy of the user, the more the user's body breaking and qi breaking will be improved.
+The higher the percentage of "Fire" internal energy of the user, the more the user's External Penetration and qi breaking will be improved.
 Inverse-Fire True Qi
 The user's "Fire" type of technique will cause more direct damage and repercussion damage to characters with "Water" internal power attribute
 Reverse-Small Yu Yang Shen Gong
@@ -2481,7 +2481,7 @@ During the duration of this Footwork: the enemy cannot eliminate the Footwork an
 HU·Seven-Star Spin
 The more attack opportunities remaining for the user during the duration of this Footwork, the more the attack speed of the user will increase.
 HU·Heaven Leap
-When retreating with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the retreating distance, up to 5 distance, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's gain status of body breaking and gas breaking
+When retreating with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the retreating distance, up to 5 distance, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's gain status of External Penetration and gas breaking
 HU·Moving Star
 When this Footwork is performed, the distance between the enemy and me changes to 5; during the duration of this Footwork, the enemy cannot actively move away from the user
 HU·Barefoot
