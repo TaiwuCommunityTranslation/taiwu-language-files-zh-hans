@@ -3604,7 +3604,7 @@ The direct damage dealt by Jin Huo'er to characters with internal power attribut
 illusion
 Yi Yi Hou deals significantly more direct damage to characters whose heart is lower than his own; characters whose heart is higher than Yi Yi Hou's deal significantly more direct damage to Yi Yi Hou
 seek the law outside the body
-Weiqi deals significantly more direct damage to characters with lower force or dismount than himself; characters with higher force or dismount than Weiqi deal significantly more direct damage to Weiqi
+Weiqi deals significantly more direct damage to characters with lower Might or Diversion than himself; characters with higher Might or Diversion than Weiqi deal significantly more direct damage to Weiqi
 play ghosts and collect gods
 The direct damage dealt by Ekai to a character whose Swiftness or Dodge is lower than his own is increased significantly; the direct damage dealt by a character whose Swiftness or Dodge is higher than Ekai to Ekai is increased significantly
 Gods and Earths
