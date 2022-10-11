@@ -278,7 +278,7 @@ Eliminate your mark
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 injuries
 36 Moves of Needle Change
 Improving the hit of change of move
-Improves the Might, Finesse, speed, and heartiness of the user's "move".
+Improves the Might, Finesse, speed, and Breath of the user's "move".
 Net Clothes
 Reduce direct toxicity
 Reduces the direct poison caused by the enemy to the user in combat
@@ -2063,7 +2063,7 @@ HU·Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 non-injury markers
 HU·36 Moves of Needle Change
 Surrendering the enemy to change the move to hit
-Reduces the force, Finesse, Swiftness, and heartiness of an enemy's "move".
+Reduces the force, Finesse, Swiftness, and Breath of an enemy's "move".
 HU·Net Clothes
 Poison Dmg Dn
 Reduces the degree of injury of the poisonous damage suffered by the user during a poisonous attack
