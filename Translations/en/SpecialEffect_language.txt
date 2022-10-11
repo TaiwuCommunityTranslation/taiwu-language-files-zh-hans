@@ -171,7 +171,7 @@ Significantly increases the amount of toxins that can be dispelled when the user
 Azure\nImmortals Cultivation
 Convert the user's "Water" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Soul Out\nMeditation
-The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect of a gain status that enhances the user's unleashing power, Parry, Evasion, and Focus.
+The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect of a gain status that enhances the user's Diversion, Parry, Evasion, and Focus.
 The Great Evil\nBody
 The more negative "characteristics" the user has, the more the power of all the user's feats will be increased.
 Jieqing 4\nImages
