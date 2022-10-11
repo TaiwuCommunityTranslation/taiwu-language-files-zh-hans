@@ -387,16 +387,16 @@ A workshop that uses special equipments to make strong and fragrant shochu.
 The building is located next to the "Gansen Hall" and is adjacent to the "fertile field" and is operated by the villagers. \The villagers must be dispatched to operate it.
 Forging Room
 Equipped with furnaces,  bellows and anvils.
-You can make, repair, and refine gold and iron tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Forge" books. \nThe larger the size of the fire refining room, the more efficiency is increased, but the effects of multiple fire refining rooms do not stack.
+You can make, repair, and refine Smithing tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Forge" books. \nThe larger the size of the fire refining room, the more efficiency is increased, but the effects of multiple fire refining rooms do not stack.
 Blacksmith
-To create and sell a variety of gold and iron appliances to make a living. Small as nail tools,  large as swords and armor,  can be bought in the blacksmith shop.
-This is an extension building built next to the "fire room" and needs to be operated by the villagers. \The main purpose of the building is to sell gold and iron tools to earn "silver money".
+To create and sell a variety of Smithing appliances to make a living. Small as nail tools,  large as swords and armor,  can be bought in the blacksmith shop.
+This is an extension building built next to the "fire room" and needs to be operated by the villagers. \The main purpose of the building is to sell Smithing tools to earn "silver money".
 Workshop
 A huge open-air foundry with many blacksmiths and apprentices.
 An extension building is built next to the "Fire Room" with the "Red Furnace Forge" as the core material, and villagers must be dispatched to operate it. \You can find talented people who have excellent skills in "forging".
 Goldshop
 The gold shop is a shop that exchanges gold and silver or trading gold and silver appliances. Due to the value and importance of the gold shop,  only those of high prestige and prestige can host it.
-This is an extension building built next to the "fire room" and needs to be operated by the villagers. \The main purpose of the building is to sell gold and iron tools to gain "prestige".
+This is an extension building built next to the "fire room" and needs to be operated by the villagers. \The main purpose of the building is to sell Smithing tools to gain "prestige".
 Hydraulic Bellow
 It is installed at the water’s edge,  and uses the water flow to pull the fan to open and close,  and conducts the blasting treatment device. Compared to the manpower blast,  the water drain is more powerful.
 The expansion building built next to the "Fire Refining Room" must be adjacent to the "Waters". \n increases the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying the "Forge" book.
@@ -411,10 +411,10 @@ After the gold stone is burned into liquid,  impurities are removed by complex t
 An extension building is built next to the "Fire Refining Room" with the "Fire Sinking Pond" as the core material, and it must be adjacent to the "Stone Mountain", and villagers must be dispatched to operate it. \You can harvest iron materials for "forging".
 Mystic Water Treatment
 With seven stone well built in the name of seven stars as the Sun,  the Moon,  Venus,  Jupiter,  Mercury,  Mars and Saturn,  and water collected through them,  we can build the most spiritual weapons.
-This is an extension building built next to the "Fire Refining Room" using the "Dragon King's Water House" as the core material. \It will enable the adjacent "Fire Refining Room" to produce better quality gold and iron tools.
+This is an extension building built next to the "Fire Refining Room" using the "Dragon King's Water House" as the core material. \It will enable the adjacent "Fire Refining Room" to produce better quality Smithing tools.
 Inferno Furnace
 Built on the fire pool,  it is used to take the smelting iron of underground fire. The temperature in the furnace is extremely high,  that any stone is melted.
-This is an extension building built next to the "Fire Refining Room" with the "Fire Furnace" as the core material and adjacent to the "Fire Pond". \This building can reduce the requirement of "forging" skill in manufacturing, repairing and refining gold and iron tools.
+This is an extension building built next to the "Fire Refining Room" with the "Fire Furnace" as the core material and adjacent to the "Fire Pond". \This building can reduce the requirement of "forging" skill in manufacturing, repairing and refining Smithing tools.
 Carpenter
 Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all available in the Carpenter.
 You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Woodworking" books. \nThe larger the size of the woodworking room, the more the efficiency is increased, but the effects of multiple woodworking rooms do not stack.
