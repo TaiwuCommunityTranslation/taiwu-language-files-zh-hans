@@ -2428,7 +2428,7 @@ Bodywork instead of Qi lifting
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Inhale is not enough to perform the "Break" technique, the user's Footwork can replace the user's Inhale consumption.
 Reverse-Tenkai Flow Meteor Style
 Enhancement of Diversion power reduction
-During the duration of this Footwork: the enemy's Diversion power will not be increased by any effect; all feats and status effects that reduce the enemy's Diversion power will be greatly increased
+During the duration of this Footwork: the enemy's Diversion will not be increased by any effect; all feats and status effects that reduce the enemy's Diversion will be greatly increased
 HU·Flying On The Grass
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 HU·Cliff Hanging Pot
