@@ -17,7 +17,7 @@ Increase HEA
 Footwork Duration
 Footwork Cost
 Increase Ext. Def.
-Increase QiD
+Increase Int. Def.
 Increase Diversion
 Increase Parry
 Increase Evasion
