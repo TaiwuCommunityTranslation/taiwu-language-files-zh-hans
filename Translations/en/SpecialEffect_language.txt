@@ -1076,8 +1076,8 @@ If the weapon used by the user is the "Sword of Victory", the chance of this tec
 Unblocked: This sword increases the chance of all "sword techniques" hitting the enemy and lasts until the other weapons are unblocked or the battle is over.
 Heavy Sword of\nGreatTower
 Skill Ext. Pen. UP
-If the weapon used by the user is the "Giant Que Sword", the user's body breakage is greatly increased and the "Giant Que Sword" can be unsealed after this technique has been used at 10% of its power, and this sword can increase the body breakage of all "sword techniques" until the other weapons are unsealed or the battle is over.
-Unblocked: This sword can increase the body breakage of all "sword techniques" and lasts until the other weapons are unblocked or the battle is over.
+If the weapon used by the user is the "Giant Que Sword", the user's Ext. Pen. is greatly increased and the "Giant Que Sword" can be unsealed after this technique has been used at 10% of its power, and this sword can increase the Ext. Pen. of all "sword techniques" until the other weapons are unsealed or the battle is over.
+Unblocked: This sword can increase the Ext. Pen. of all "sword techniques" and lasts until the other weapons are unblocked or the battle is over.
 7 Star\nSwordsmanship of DragonPool
 Reducing the consumption of feats
 If the weapon used by the user is the "Seven Star Dragon Abyss Sword", the user's qi and Stance consumption for performing this technique is greatly reduced, and the "Seven Star Dragon Abyss Sword" can be unsealed after this technique has been used to 10% of its power, and this sword can reduce the qi and Stance consumption of all "sword techniques". It will last until the other weapons are unsealed or the battle is over.
@@ -1307,7 +1307,7 @@ When you start performing this technique, the power of up to 3 of your enemy's "
 Vajra Hammer
 When this technique is used at least 10% of its power, the user takes 1 enemy "Bash" style.
 5 Anger Hands
-A gain status that enhances the body breakage is applied to the user according to the power of this technique.
+A gain status that enhances the Ext. Pen. is applied to the user according to the power of this technique.
 Parami Palm
 When this technique exerts at least 10% of its power, the user gains 2 points of "Aegis" true qi
 Vajra Black\nSand Palm
@@ -1541,7 +1541,7 @@ The maximum attack distance of this technique is increased by 2; when attacking 
 Staff of\nSheep-Hunting Tigers
 The user can perform the "Aegis" technique from 50% of its progress without using up the Stance.
 Shaolin Staff\nof Madness
-In the process of performing this technique, the user can make weapon attacks on the enemy, and the more times the enemy is hit, the more the user's body breakage will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
+In the process of performing this technique, the user can make weapon attacks on the enemy, and the more times the enemy is hit, the more the user's Ext. Pen. will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
 Skanda Staff
 Cause Extra WS
 After this technique has been used for ten percent of its power, the user gains 18 layers of this effect: when the user is about to break, he will consume the same number of layers of the effect as the level of the break, causing a break in a random part of the enemy with the same number of layers of the effect consumed, and will not trigger any effect that caused the break.
@@ -1566,7 +1566,7 @@ Ext. Def. to Int. Def.
 External and Internal Defense Change
 When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a part of the enemy's External Defense will be transferred to the Internal Defense; when this technique reaches 10% of its power, 10 points of the user's Agility will be consumed, and a buff that raises the Internal Defense and a debuff that lowers the External Defense will be applied to the enemy.
 Heavenly Spirit\nThunder Palm
-At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's body breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
+At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Ext. Pen. when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
 Vajra Samadhi\nPalm
 Reduction of Enemy's External Defense
 This technique cannot be interrupted; this technique is bound to be 10% powerful, and the higher the enemy's Internal Defense is, the more the enemy's External Defense will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Nadis" true qi, otherwise these effects will not take effect
@@ -2743,7 +2743,7 @@ If the user's Calmness does not fall below 40, the direct damage dealt by this t
 HU·Broken\nHoly Sword
 If the user's enthusiasm is at least 40, the chance of this technique hitting the enemy is greatly increased, and after this technique has become 10% more powerful, the user gains 2 levels of this effect: the chance of all "sword techniques" performed by the user hitting the enemy is increased.
 HU·Heavy Sword of\nGreatTower
-If the user's enthusiasm and bravery are not less than 30, the user's body breakage will be greatly increased, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the body breakage of all "sword techniques" performed by the user will be increased.
+If the user's enthusiasm and bravery are not less than 30, the user's Ext. Pen. will be greatly increased, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the Ext. Pen. of all "sword techniques" performed by the user will be increased.
 HU·7 Star\nSwordsmanship of DragonPool
 If the user's intelligence and perseverance are not less than 30, the user's energy and Stance consumption for performing this technique will be greatly reduced, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the energy and Stance consumption of all "sword techniques" performed by the user will be reduced.
 HU·Taier\nImmeasurable Sword
