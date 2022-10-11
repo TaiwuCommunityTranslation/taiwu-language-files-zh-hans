@@ -2028,7 +2028,7 @@ When the uninjured body part of the user receives direct internal injuries from 
 HU·Golden Bell Sheild
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, it randomly causes 2 breakdowns to appear on the enemy
 HU·Arhat's Stick Formation
-When a user's partner uses the "Defend" command, his or her body, aura, force, Diversion, Evasion, and guard heart are greatly increased when defending.
+When a user's partner uses the "Defend" command, their External Defense, Internal Defense, Diversion, Parry, Evasion, and Focus are greatly increased when defending.
 HU·Buddhism Lion Roar
 Attrition of the enemy's momentum
 Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's Qi and Stance will be lost.
