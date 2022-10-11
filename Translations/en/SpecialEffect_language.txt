@@ -932,7 +932,7 @@ Pivot Move
 After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the "Break" technique performed by the user that has not been used for 10% of its power is greatly increased, and lasts until the "Break" technique with the increased power has been used for 10% of its power.
 Clutch Finger
 Changing the Enemy's External Defense
-When attacking the enemy with this technique: the enemy's imperial body is equal to 3 times the difference between the enemy's imperial body and the broken body
+When attacking the enemy with this technique: the enemy's External Defense is equal to 3 times the difference between the enemy's External Defense and the External Penetration
 The Great\nYinyang Hand
 Steal Buff
 When this technique starts, the user is temporarily affected by all the enemy's gain status, which lasts until the end of this technique.
