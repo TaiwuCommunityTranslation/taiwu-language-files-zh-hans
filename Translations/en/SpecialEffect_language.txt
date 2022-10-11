@@ -697,7 +697,7 @@ Body technique instead of Footwork
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Stance is not enough to perform the "Break" technique, the user's Footwork can be consumed instead of the user's Stance.
 Tiankai Flowing Meteor Style
 Enhanced Might gain
-During the duration of this Footwork: the strength of the user will not be reduced by any effect; all strength-raising techniques and status effects that the user receives are greatly increased
+During the duration of this Footwork: the Might of the user will not be reduced by any effect; all Might-raising techniques and status effects that the user receives are greatly increased
 Flying On The Grass
 Move Dist Up
 When moving forward with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
