@@ -1512,7 +1512,7 @@ Transformation of Int. Pen. to External Penetration
 External and Internal Penetration changes
 When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's broken energy will be transferred to External Penetration; when this technique is used at 10% of its power, 10 points of the user's Strength will be consumed, and a gain state that increases External Penetration and a gain state that decreases broken energy will be applied to the user
 18 Hands of\nDharma
-Increase your own broken body
+Increase your own Ext. Pen.
 When you start performing this technique, the power of this technique increases if the user's External Defense is higher than the user's External Penetration; when you attack the enemy with this technique, the user's External Penetration is added to the user's External Defense.
 Vajra Prajna\nPalm
 When you start attacking an enemy with this technique, if the enemy's internal power attribute is "Wood", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
