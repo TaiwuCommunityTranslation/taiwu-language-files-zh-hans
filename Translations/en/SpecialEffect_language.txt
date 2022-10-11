@@ -2230,7 +2230,7 @@ The more poison markers the user has, the more direct damage the user deals to t
 HU·Insanity Spell
 When defending with this technique: the user will not be planted with compulsions; whenever the user successfully counters an enemy's weapon attack, the user's compulsions will increase
 HU·Blood Dolls
-E·QiP Dn
+E·Int.Pen. DN
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user applies a special status of Blood Puppet Break and a reduced benefit status of enemy's Int. Pen. to the enemy, causing the enemy to suffer the next direct internal injury the user receives for the user.
 HU·Ghost Breath
 When using this technique for defense, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of phantom "poison" to the enemy.
