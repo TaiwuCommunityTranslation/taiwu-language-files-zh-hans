@@ -415,7 +415,7 @@ When the total number of defeat marks of the user exceeds half of the defeat con
 4 Finger Azure Cream
 When the "Nadis" True Qi of the user is higher than the "Nadis" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 3 Books of 9-Steps
-When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's Might, Finesse, Swiftness, and heartbeat will increase.
+When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Visceral Anatomy
 Increase in external injury
 When an enemy's uninjured body part receives external injury from the user, the degree of injury is increased by 1 level
@@ -1943,7 +1943,7 @@ The user's "Metal" type techniques will cause more direct damage and repercussio
 Inverse - Baobao Qi Gong Method
 The more true qi types an enemy has below its true qi limit, the more the power of all the feats of the applicator increases
 Reverse - Vajra Dzogchen
-The higher the percentage of "Metal" internal Might of the user, the more the user's Might, Finesse, Swiftness, and heartbeat will increase.
+The higher the percentage of "Metal" internal Might of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse-Daishonin Sutra
 Convert the "Fire" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
 Reverse - Vajradhara Sutra
@@ -2007,7 +2007,7 @@ The more painful the "mood" of the user, the more the power of all the technique
 Inverse - Taiyin Refining Form
 Convert the user's "Water" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the power of the user's "Earth" type techniques will increase.
 Inverse - Five Yin Dada
-The higher the ratio of the user's "Earth" internal energy, the more the user's Might, Finesse, Swiftness, and heartbeat will increase.
+The higher the ratio of the user's "Earth" internal energy, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Inverse - Child's Blood Refining Method
 Significantly reduces the consumption of qi and Stance of the user's "Earth" type of gong.
 Reverse - Blood Hollow Evil Scripture
