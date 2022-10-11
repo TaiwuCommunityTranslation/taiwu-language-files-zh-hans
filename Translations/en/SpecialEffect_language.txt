@@ -2882,7 +2882,7 @@ HU·Drunk\n8 Immortals Fist
 After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the enemy attacks the user with a weapon, the enemy can only hit with the lowest of force, Finesse, Swiftness and Breath; if the user is drunk, when the enemy attacks the user with a weapon, the lowest of the enemy's hits will be reduced.
 HU·Refining\nFire Palm
 Improve your defense
-When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the attack of the user; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Constitution and improves the user's body and qi control.
+When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the attack of the user; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Constitution and improves the user's Ext. and Int. Defense.
 HU·Crazy Drunk Fist
 Increase direct internal injuries
 When this technique is at 10% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disordered the user's internal breath is, the higher the direct internal injury caused by this technique; if the user is drunk, the chance of performing this technique again is greatly increased
