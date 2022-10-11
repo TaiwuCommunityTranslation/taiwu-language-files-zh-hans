@@ -2264,7 +2264,7 @@ When defending with this technique: all direct external injuries to the user are
 HU·Divine Fire Cover
 When defending with this technique: all direct internal injuries suffered by the user are reduced by 2 levels; whenever the user reacts to an enemy's attack, the enemy loses 1 point of "Aegis" true qi
 HU·Dragon Breakthrough
-When using the "Swim" command, the user's companion can increase the user's strength, Finesse, and Swiftness even more.
+When using the "Swim" command, the user's companion can increase the user's Might, Finesse, and Swiftness even more.
 HU·Thunder Bone
 Increase in recoil external injury
 When defending with this technique, the degree of injury caused by the user to the enemy by recoil external injury is increased by 1 level
