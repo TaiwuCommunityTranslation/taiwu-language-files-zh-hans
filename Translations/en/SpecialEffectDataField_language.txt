@@ -2,7 +2,7 @@ MIG
 FIN
 SWI
 HEA
-Phy.P
+Ext. Pen.
 Int. Pen.
 DIV
 PAR
