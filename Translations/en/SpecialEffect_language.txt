@@ -2107,7 +2107,7 @@ When defending with this technique, whenever the user successfully counters an e
 HU·Sword Or Blade
 When the user performs a sword technique with a sword, the power of the sword technique increases
 HU·Yuanshan 7 Formations
-When an attacker's partner uses the "Attack" command, the body-breaking, ki-breaking, force, subtlety, swiftness, and heart-movement of the attack are greatly increased.
+When an attacker's partner uses the "Attack" command, the External Penetration, ki-breaking, force, subtlety, swiftness, and heart-movement of the attack are greatly increased.
 HU·Golden Blade Fist
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user's attack chance is increased, and if the user's attack chance has reached its maximum before being increased, the user's counterattack damage to the enemy is greatly increased
 HU·Sakyamuni Elephant Throwing
@@ -2656,7 +2656,7 @@ When attacking an enemy with this technique, if this technique can cause direct 
 HU·Origin\nSword Intent
 If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Qi or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
 HU·Ever-Changing\n14 Swordmanship
-When attacking an enemy with this technique, the user only hits with the highest of its power, subtlety, and swiftness, and only attacks with the highest of its body-breaking and Internal Penetration power; after this technique has reached 10% of its power, the user gains 3 levels of this effect: when an enemy performs any "break" technique that consumes the "slash", "stab", or "ruffle" style, if the user can use the "slash", "stab", or "ruffle" style style, the user will immediately use the power of this technique to attack the enemy without any consumption of the same technique, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
+When attacking an enemy with this technique, the user only hits with the highest of its power, subtlety, and swiftness, and only attacks with the highest of its External Penetration and Internal Penetration power; after this technique has reached 10% of its power, the user gains 3 levels of this effect: when an enemy performs any "break" technique that consumes the "slash", "stab", or "ruffle" style, if the user can use the "slash", "stab", or "ruffle" style style, the user will immediately use the power of this technique to attack the enemy without any consumption of the same technique, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 HU·Tripping Spell
 When this spell is used at ten percent of its power, it can greatly restore the user's body and Stamina.
 HU·Disable
