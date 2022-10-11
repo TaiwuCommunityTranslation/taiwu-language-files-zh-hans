@@ -599,7 +599,7 @@
   "LK_AvoidType_2": "Evasion",
   "LK_AvoidType_3": "Focus",
   "LK_Penetrate_Outer": "Phy. Pen.",
-  "LK_Penetrate_Inner": "Qi Pen.",
+  "LK_Penetrate_Inner": "Int. Pen.",
   "LK_Penetrate_Resist_Outer": "Ext. Def.",
   "LK_Penetrate_Resist_Inner": "Int. Def.",
   "LK_Combat_Pause": "Pause",
