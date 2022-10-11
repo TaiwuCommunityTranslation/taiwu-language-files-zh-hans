@@ -2362,7 +2362,7 @@ HU·Stone Poling
 The percentage of hits other than Might for the Kick performed by the user with this Footwork is greatly reduced and shifted to Might.
 HU·Tiger Stance
 Kick Int. Pen. UP
-The Internal Penetration of the leg technique performed by the user with this Footwork is greatly increased
+The Internal Penetration of the Kick performed by the user with this Footwork is greatly increased
 HU·Step Alone A Thousand Mile
 Whenever you retreat 1 distance with this Footwork, the strength of your feet is restored.
 HU·Mysterious Armor
