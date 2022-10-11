@@ -259,7 +259,7 @@ Unintentional Mind
 Get extra storage style
 Whenever the user obtains any available equation, there is a certain chance that the user will obtain 1 more equation of the same type.
 Multifarious
-When the user has 3 or more different types of available styles, the user's power, subtlety, swiftness, and motility will increase.
+When the user has 3 or more different types of available styles, the user's Might, subtlety, swiftness, and motility will increase.
 Boneless Stance
 Obtain random storage style
 When defending with this technique, whenever the user dodges an enemy's attack, the user gains 2 randomly available styles.
@@ -278,7 +278,7 @@ Eliminate your mark
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 injuries
 36 Moves of Needle Change
 Improving the hit of change of move
-Improves the power, subtlety, speed, and heartiness of the user's "move".
+Improves the Might, subtlety, speed, and heartiness of the user's "move".
 Net Clothes
 Reduce direct toxicity
 Reduces the direct poison caused by the enemy to the user in combat
@@ -339,7 +339,7 @@ Sakyamuni Elephant Throwing
 Gain Specific Force
 Whenever the user switches weapons, the heavier the weapon, the higher the chance that the user will gain 1 point of "Break" true qi.
 Divine Mysterious
-The more "slashes" the user has, the more the user's power increases; the more "stabs" the user has, the more the user's swiftness increases; the more "teases" the user has, the more the user's subtlety increases.
+The more "slashes" the user has, the more the user's Might increases; the more "stabs" the user has, the more the user's swiftness increases; the more "teases" the user has, the more the user's subtlety increases.
 Ultra Alpha Reflection
 Gain extra true qi
 Avoid losing true qi
@@ -363,7 +363,7 @@ When defending with this technique, whenever an enemy inflicts direct damage on 
 Exchange of broken qi for body
 When defending with this technique, if the user's body is lower than the enemy's broken aura, the user's body and broken aura will be temporarily exchanged with the enemy's.
 Vision Enhanced
-When the distance between the user and the enemy is not less than 7, the farther the distance between the enemy and me, the more the user's power, subtlety, swiftness, and motility will increase.
+When the distance between the user and the enemy is not less than 7, the farther the distance between the enemy and me, the more the user's Might, subtlety, swiftness, and motility will increase.
 Yinyang Eye
 E·Cast Spd Dn
 Whenever the user starts to perform a feat, the more the user's performance speed is higher than the enemy's performance speed, the more the enemy's performance speed is reduced
@@ -415,7 +415,7 @@ When the total number of defeat marks of the user exceeds half of the defeat con
 4 Finger Azure Cream
 When the "Nadis" True Qi of the user is higher than the "Nadis" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 3 Books of 9-Steps
-When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's power, subtlety, swiftness, and heartbeat will increase.
+When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's Might, subtlety, swiftness, and heartbeat will increase.
 Visceral Anatomy
 Increase in external injury
 When an enemy's uninjured body part receives external injury from the user, the degree of injury is increased by 1 level
@@ -500,7 +500,7 @@ When defending with this technique, the degree of direct internal injury inflict
 Formation of 6 Stars
 The companions of the user's helper can use the "push" command more frequently to increase the progress of the user's technique.
 9 Star Eye
-The more "throwing" styles the user has, the more the user's power increases; the more "bouncing" styles the user has, the more the user's swiftness increases; the more "imperial" styles the user has, the more the user's subtlety increases.
+The more "throwing" styles the user has, the more the user's Might increases; the more "bouncing" styles the user has, the more the user's swiftness increases; the more "imperial" styles the user has, the more the user's subtlety increases.
 Seven elements of the great method to solve the evil
 Injury turned to an old injury
 When defending with this technique: the more body parts the user has destroyed, the less direct damage the enemy will inflict on the user; at the end of defending with this technique, 3 injury markers on the user's destroyed body parts will randomly change to old injuries that are more difficult to recover from
@@ -515,7 +515,7 @@ The companions of the user's helper can use the "Swim" command more frequently t
 Thunder Bone
 When defending with this technique, the degree of external injury inflicted on the user by the enemy is reduced by 3 levels
 Medical Heart
-The more "collapsing" styles the user has, the more the user's power will increase; the more "point" styles the user has, the more the user's speed will increase; the more "holding" styles the user has, the more the user's subtlety will increase.
+The more "collapsing" styles the user has, the more the user's Might will increase; the more "point" styles the user has, the more the user's speed will increase; the more "holding" styles the user has, the more the user's subtlety will increase.
 Drunk A Thousand Year
 When the user is drunk, the user's chance of being chased by enemies is greatly reduced and the chance of enemies hitting the user is decreased.
 Cover Sky
@@ -580,7 +580,7 @@ Moonlight Shadow
 Accuracy Up
 During the duration of this Footwork: the user's maximum attack chance increases by 1; when the user attacks the enemy with the maximum attack chance, the user's chance of hitting the enemy is greatly increased
 Golden Fairy
-When advancing with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's strength, subtlety, swiftness gain status
+When advancing with this Footwork, the user needs to accumulate Might, the more Might accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's strength, subtlety, swiftness gain status
 Needle Lift-Up
 Mutual substitution of storage type
 During the duration of this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "hold" style, "tease" style and "defend" style of the user can be used in place of each other
@@ -618,7 +618,7 @@ During the duration of this technique, each time the user advances 0.5 distance,
 Cloud Gliding
 When advancing with this Footwork, the user needs to accumulate power to move 3 distances at once, and then the user gains 3 points of random type of true qi
 Stone Poling
-Improving the power of legwork
+Improving the Might of legwork
 The force of the legwork performed by the user with this Footwork is greatly increased
 Tiger Stance
 Improve Physical Penetration of the Kick arts
@@ -794,8 +794,8 @@ The external injury caused by this Footwork by the user on the enemy cannot be r
 Little Leap
 When you move with this Footwork, you have a higher chance of not consuming your Footwork
 Mountain\nPushing Palm
-Increase your power
-After this technique has exerted at least 10% of its power, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the user's power increases when he attacks the enemy.
+Increase your Might
+After this technique has exerted at least 10% of its Might, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the user's Might increases when he attacks the enemy.
 Iron Fist of\nLion Phase
 Change sytle gain
 After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "point" and "take" styles obtained by the user are changed to "crash" styles
@@ -949,7 +949,7 @@ Swordsmanship\nof Open-Close
 If the user's unloading power, dismantling, dodging, or guarding the heart is not lower than the enemy's, the enemy will be given a reduced benefit status that reduces the corresponding hitting attribute according to the percentage of power played by this technique.
 Swordsmanship\nof Water Beetle
 E·Resolves Dn
-After this technique has been used for 10% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's unloading, dismantling, dodging, and heart guarding cannot be higher than the user's force, subtlety, swiftness, and heart moving.
+After this technique has been used for 10% of its Might, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's unloading, dismantling, dodging, and heart guarding cannot be higher than the user's force, subtlety, swiftness, and heart moving.
 Swordsmanship\nof 9 Lights
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Nadis", this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, and then this effect reverts to 0 levels.
 Swordsmanship\nof Yinyang Reversed
@@ -1039,7 +1039,7 @@ Great 8 Moves\nof Sea-Blocking
 Prohibition of enemy action
 During the execution of this technique, the enemy with a lower stability than the user is unable to move or perform the technique; according to the power of this technique, the enemy is given a reduction in stability.
 A Hundred Steps\nof Mysterious Tripot
-After this technique has been used for ten percent of its power, the user gains six layers of this effect: when the number of layers of this effect is even, the user's strength, subtlety and swiftness are greatly increased; when the number of layers of this effect is odd, the user's unloading, dismantling and evasion are greatly increased; when this effect exists, the impact of this effect is additionally increased when the user performs this technique again.
+After this technique has been used for ten percent of its Might, the user gains six layers of this effect: when the number of layers of this effect is even, the user's strength, subtlety and swiftness are greatly increased; when the number of layers of this effect is odd, the user's unloading, dismantling and evasion are greatly increased; when this effect exists, the impact of this effect is additionally increased when the user performs this technique again.
 Zhen Fragrant
 When you start to perform this technique, the deeper the enemy is poisoned, the more the power of this technique will increase
 8 Fairies\nof The Other Side
@@ -1579,7 +1579,7 @@ Lame Fight\n80 Moves
 When this technique is used at 10% of its power, for every 2 "take" styles the user has, the level of damage the user can cause to the enemy will increase by 1 extra level.
 Split Flower
 Resolve to Accu
-When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its power, the user gains 4 levels of this effect: if the force, subtlety, and swiftness of the user's attack on the enemy are lower than the user's unloading, dismantling, or evasion, the user's corresponding resolution replaces the hit.
+When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its Might, the user gains 4 levels of this effect: if the force, subtlety, and swiftness of the user's attack on the enemy are lower than the user's unloading, dismantling, or evasion, the user's corresponding resolution replaces the hit.
 Lighten Finger
 The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user will knock back the enemy by 4 distance, and if the distance between the enemy and the user after being knocked back is not greater than 8, the user will deal the same damage to the enemy once again
 A Thousand\nHands
@@ -1824,7 +1824,7 @@ Whenever the user obtains an available style, the user has a very low chance of 
 Inverse-Lotus Tai Xuan Kung Fu
 Convert the user's "Metal" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Reversal-Pu Yin Xin Jing
-The higher the percentage of "Wood" internal power of the user, the more the user's power, subtlety, swiftness, and heart will increase.
+The higher the percentage of "Wood" internal Might of the user, the more the user's Might, subtlety, swiftness, and heart will increase.
 Inverse - Sitting and Forgetting
 Significantly reduces the consumption of qi and Stance of the "Wood" type of technique.
 Reversal of the Great Nirvana Law
@@ -1840,7 +1840,7 @@ Reverse - Inner Classic Ling Shu Chapter
 Reduced enemy healing effect
 Significantly reduces the number of wounds that can be healed when an enemy performs "healing" in combat
 Reversal - Golden Needle Vascularization Technique
-The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that increases the user's power, subtlety, swiftness, and motivation.
+The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that increases the user's Might, subtlety, swiftness, and motivation.
 Inverse - Wudang Taihe Kung Fu
 Reduces the need to use the user's "Wudang School" techniques
 Reverse - Hold the Origin and Keep the One
@@ -1851,7 +1851,7 @@ When the user consumes only the Stance, a portion of the energy will be restored
 Inverse - Luo Tian Zhen Zhi Twelve Piles
 Convert the user's "Water" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type kung fu will increase.
 Reversal - Golden Sutra of Marrow Washing
-The higher the percentage of "Fire" internal energy of the user, the more the user's power, subtlety, swiftness, and motivation will increase.
+The higher the percentage of "Fire" internal energy of the user, the more the user's Might, subtlety, swiftness, and motivation will increase.
 Inverse - Wudang Mixed Element Kung Fu
 If the enemy inflicts both direct external and direct internal wounds on the user, any direct internal wounds inflicted by the enemy that exceed 3 direct external wounds are subtracted.
 Inverse - Taiyi Shen Gong
@@ -1902,7 +1902,7 @@ The user's "Water" type techniques will cause more direct damage and repercussio
 Inverse - Shao Yin Yi Ming Jue
 Significantly reduce the "Vitality" consumption of the user
 Reverse-Sihwajin Sutra
-The higher the percentage of "Water" internal energy of the user, the more the user's power, subtlety, swiftness, and heart-movement will increase.
+The higher the percentage of "Water" internal energy of the user, the more the user's Might, subtlety, swiftness, and heart-movement will increase.
 Inverse - Empress Goddess
 Convert the "Fire" internal energy of the user into "Water" internal energy, the more the percentage of conversion, the more the power of the user's "Water" type techniques will be increased.
 Reverse-Yaochi Immortal Bathing Method
@@ -1943,7 +1943,7 @@ The user's "Metal" type techniques will cause more direct damage and repercussio
 Inverse - Baobao Qi Gong Method
 The more true qi types an enemy has below its true qi limit, the more the power of all the feats of the applicator increases
 Reverse - Vajra Dzogchen
-The higher the percentage of "Metal" internal power of the user, the more the user's power, subtlety, swiftness, and heartbeat will increase.
+The higher the percentage of "Metal" internal Might of the user, the more the user's Might, subtlety, swiftness, and heartbeat will increase.
 Reverse-Daishonin Sutra
 Convert the "Fire" internal energy of the user into "Metal" internal energy, the more the percentage of conversion, the more the power of the user's "Metal" type techniques will be increased.
 Reverse - Vajradhara Sutra
@@ -1963,7 +1963,7 @@ Significantly reduces the amount of toxins that can be dispelled when an enemy p
 Inverse - Green Immortal Law
 Converts the user's "Earth" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Reverse-Spirituality
-The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect will be to increase the user's power, subtlety, swiftness, and heart gain status.
+The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect will be to increase the user's Might, subtlety, swiftness, and heart gain status.
 Inverse - Hundred Evil Body Technique
 The more negative "characteristics" the enemy has, the more the power of all enemy feats will be reduced
 Inverse-Boundary Green Four Elephant Chart
@@ -2007,7 +2007,7 @@ The more painful the "mood" of the user, the more the power of all the technique
 Inverse - Taiyin Refining Form
 Convert the user's "Water" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the power of the user's "Earth" type techniques will increase.
 Inverse - Five Yin Dada
-The higher the ratio of the user's "Earth" internal energy, the more the user's power, subtlety, swiftness, and heartbeat will increase.
+The higher the ratio of the user's "Earth" internal energy, the more the user's Might, subtlety, swiftness, and heartbeat will increase.
 Inverse - Child's Blood Refining Method
 Significantly reduces the consumption of qi and Stance of the user's "Earth" type of gong.
 Reverse - Blood Hollow Evil Scripture
@@ -2324,7 +2324,7 @@ During the duration of this Footwork, if the attack chance of the user is higher
 HU·Moonlight Shadow
 During the duration of this technique: the maximum attack chance of the enemy is reduced by 1; when the enemy attacks the user with the maximum attack chance, the chance of the enemy hitting the user is greatly reduced.
 HU·Golden Fairy
-When retreating with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the stronger the effect will be applied to the user to improve the user's strength, subtlety, swiftness gain status
+When retreating with this Footwork, the user needs to accumulate Might, the more Might accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the stronger the effect will be applied to the user to improve the user's strength, subtlety, swiftness gain status
 HU·Needle Lift-Up
 During the duration of this technique, whenever an enemy acquires the "Take", "Lift", or "Defend" styles, if the user can use these styles, there is a higher chance that the enemy's acquired styles will be transferred to the user.
 HU·Shadow Surround
@@ -2646,9 +2646,9 @@ When this technique exerts at least 10% of its power, the enemy loses 2 points o
 HU·Flying Sword
 This feat increases the direct damage to the enemy's head and neck by 2 levels, but has a higher chance of attacking other parts of the enemy
 HU·Swordsmanship\nof Open-Close
-If the user's power, subtlety, swiftness, or heart is not lower than the enemy's, a reduction in the enemy's power will be applied according to the power of the technique.
+If the user's Might, subtlety, swiftness, or heart is not lower than the enemy's, a reduction in the enemy's Might will be applied according to the Might of the technique.
 HU·Swordsmanship\nof Water Beetle
-After this technique has been used to achieve 10% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the user's force, subtlety, swiftness, and heart will not be lower than the enemy's unloading, dismantling, dodging, and heart guarding.
+After this technique has been used to achieve 10% of its Might, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the user's force, subtlety, swiftness, and heart will not be lower than the enemy's unloading, dismantling, dodging, and heart guarding.
 HU·Swordsmanship\nof 9 Lights
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Nadis" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the performance progress, then this effect reverts to 0 levels
 HU·Swordsmanship\nof Yinyang Reversed
@@ -2656,7 +2656,7 @@ When attacking an enemy with this technique, if this technique can cause direct 
 HU·Origin\nSword Intent
 If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Qi or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
 HU·Ever-Changing\n14 Swordmanship
-When attacking an enemy with this technique, the user only hits with the highest of its power, subtlety, and swiftness, and only attacks with the highest of its External Penetration and Internal Penetration power; after this technique has reached 10% of its power, the user gains 3 levels of this effect: when an enemy performs any "break" technique that consumes the "slash", "stab", or "ruffle" style, if the user can use the "slash", "stab", or "ruffle" style style, the user will immediately use the power of this technique to attack the enemy without any consumption of the same technique, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
+When attacking an enemy with this technique, the user only hits with the highest of its Might, subtlety, and swiftness, and only attacks with the highest of its External Penetration and Internal Penetration Might; after this technique has reached 10% of its Might, the user gains 3 levels of this effect: when an enemy performs any "break" technique that consumes the "slash", "stab", or "ruffle" style, if the user can use the "slash", "stab", or "ruffle" style style, the user will immediately use the Might of this technique to attack the enemy without any consumption of the same technique, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 HU·Tripping Spell
 When this spell is used at ten percent of its power, it can greatly restore the user's body and Stamina.
 HU·Disable
@@ -2717,7 +2717,7 @@ In the process of performing this technique, the user can retreat up to 6 distan
 HU·Great 8 Moves\nof Sea-Blocking
 During the performance of this technique, the enemy whose Qi is lower than the user's cannot move or perform the technique; according to the power of this technique, a reduced benefit status is applied to the enemy to reduce the power of Qi.
 HU·A Hundred Steps\nof Mysterious Tripot
-After this technique has been used for ten percent of its power, the user gains 6 layers of this effect: when the number of layers of this effect is even, the enemy's force, subtlety and swiftness are greatly reduced, when the number of layers of this effect is odd, the enemy's unloading, dismantling and evasion are greatly reduced, and when this effect exists, the impact of this effect is additionally increased when the user performs this technique again.
+After this technique has been used for ten percent of its Might, the user gains 6 layers of this effect: when the number of layers of this effect is even, the enemy's force, subtlety and swiftness are greatly reduced, when the number of layers of this effect is odd, the enemy's unloading, dismantling and evasion are greatly reduced, and when this effect exists, the impact of this effect is additionally increased when the user performs this technique again.
 HU·Zhen Fragrant
 When you start to perform this technique, the deeper the user is poisoned, the more the power of this technique will increase
 HU·8 Fairies\nof The Other Side
@@ -3175,7 +3175,7 @@ Applies a reduced benefit status to the enemy based on the power of this techniq
 HU·Lame Fight\n80 Moves
 When this technique is used at 10% of its power, for every 3 "take" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 HU·Split Flower
-When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its power, the user gains 4 levels of this effect: if the force, subtlety, and swiftness of the enemy attacking the user are higher than the enemy's unloading, dismantling, and evasion, the enemy's corresponding resolution will replace the hit.
+When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its Might, the user gains 4 levels of this effect: if the force, subtlety, and swiftness of the enemy attacking the user are higher than the enemy's unloading, dismantling, and evasion, the enemy's corresponding resolution will replace the hit.
 HU·Lighten Finger
 The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user brings the enemy closer by 4 distance, and if the distance between the enemy and the user after being brought closer is not less than 4, the user deals the same damage to the enemy once again
 HU·A Thousand\nHands
