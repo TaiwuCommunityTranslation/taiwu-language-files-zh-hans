@@ -1508,9 +1508,9 @@ The attack range of this technique is increased; after this technique exerts at 
 Recovery of Aegis time
 This technique can be performed while the user is exercising the "Aegis" technique; the duration of the user's "Aegis" technique will be restored significantly according to the percentage of power exercised by this technique
 The Great Vajra\nFist
-Transformation of broken Qi to broken body
+Transformation of broken Qi to External Penetration
 External and Internal Penetration changes
-When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's broken energy will be transferred to broken body; when this technique is used at 10% of its power, 10 points of the user's Strength will be consumed, and a gain state that increases broken body and a gain state that decreases broken energy will be applied to the user
+When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's broken energy will be transferred to External Penetration; when this technique is used at 10% of its power, 10 points of the user's Strength will be consumed, and a gain state that increases External Penetration and a gain state that decreases broken energy will be applied to the user
 18 Hands of\nDharma
 Increase your own broken body
 When you start performing this technique, the power of this technique increases if the user's External Defense is higher than the user's External Penetration; when you attack the enemy with this technique, the user's External Penetration is added to the user's External Defense.
@@ -2085,7 +2085,7 @@ HU·Perfect Unbreakable
 When defending with this technique, if the degree of direct damage caused by the enemy to the user is not higher than the degree of the existing wound on the user's attacked area, the damage is invalid.
 HU·Wudang Iron Clothes
 Ave E·Penetration
-When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 1 level; the user takes the enemy's attack with the average value of the enemy's broken body and broken qi
+When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 1 level; the user takes the enemy's attack with the average value of the enemy's External Penetration and broken qi
 HU·Sword Formation of The 3 Elements
 When the user's helper uses the "Protect" and "Unblock" commands, it can remove more vulnerabilities and unblock more points for the user.
 HU·Cloud Bed
@@ -3111,7 +3111,7 @@ HU·68 Moves of\nArhat Fist
 This technique can be performed while the user is exercising the "Aegis" technique; depending on the percentage of power exerted by this technique, the duration of the enemy's "Aegis" technique will be greatly depleted.
 HU·The Great Vajra\nFist
 External Penetration to Internal Penetration
-When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's broken body will be transferred to broken qi; when this technique is 10% powerful, 10 points of the user's Strength will be consumed, and a gain status of increased broken qi and a reduced benefit status of decreased broken body will be applied to the user
+When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's External Penetration will be transferred to broken qi; when this technique is 10% powerful, 10 points of the user's Strength will be consumed, and a gain status of increased broken qi and a reduced benefit status of decreased External Penetration will be applied to the user
 HU·18 Hands of\nDharma
 Increase your own broken Qi
 When you start to perform this technique, the power of this technique will increase if the user's Internal Defense is higher than the user's Internal Penetration; when you attack the enemy with this technique, the user's Internal Penetration will additionally be added to the user's Internal Defense
@@ -3472,7 +3472,7 @@ The more enemy's various types of defeat markers, the longer the distance of the
 FoulVisage
 Evoke the eye to dramatically increase the negative effect of a break that appears on the enemy
 EvilUprise
-The happier or more painful the enemy's "mood" is, the more the demon heart will show the broken body and broken Qi.
+The happier or more painful the enemy's "mood" is, the more the demon heart will show the External Penetration and broken Qi.
 A·Sinster
 Random Heal
 Whenever an enemy performs the "Orthodox training" technique, it makes the random injuries on the enemy's body significantly worse; whenever an enemy performs the "Heterodox training" technique, it makes the random injuries on the hundred evils significantly less severe
