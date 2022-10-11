@@ -299,7 +299,7 @@ Whenever the user takes direct damage from the enemy, 1 other random wound of lo
 Ice Condensate of Blood
 Toxins received by countershock
 Change your own toxins
-When defending with this technique: the user's poison, red poison, and poison will not be attacked; the user can recoil from the poison, red poison, and poison; at the end of defending with this technique, the more poison, red poison, and poison the user receives, the stronger the effect of a gain status of increasing the body of the user, and then dispel all the poison, red poison, and poison the user has received in the process
+When defending with this technique: the Acritoxin, Pyrotoxin, and Necrotoxin will not be attacked; the user can recoil from the Acritoxin, Pyrotoxin, and Necrotoxin; at the end of defending with this technique, the more Acritoxin, Pyrotoxin, and Necrotoxin the user receives, the stronger the effect of a gain status of increasing the External Defense of the user, and then dispel all the Acritoxin, Pyrotoxin, and Necrotoxin the user has received in the process
 Perfect Unbreakable
 Direct damage invalid
 When defending with this technique, if the degree of injury caused by the enemy to the user is not less than the degree of injury of the existing wound on the attacked part of the user, this injury is invalid.
