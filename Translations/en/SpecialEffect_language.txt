@@ -1792,7 +1792,7 @@ If the enemy is still within the range of the attack, the user will immediately 
 Heavenly Spirit\nBlade
 When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Water", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Divine Blade\nof Mysterious
-Depending on the power of this technique and the amount of energy consumed by the user, the user can obtain up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be consumed instead of the Stance, and the more it is consumed, the more the user's body and energy will be increased.
+Depending on the power of this technique and the amount of energy consumed by the user, the user can obtain up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be consumed instead of the Stance, and the more it is consumed, the more the user's Ext. and Int. Pen. will be improved.
 Inverse-Quiet Meditation Kung Fu
 Reduces the need to use the Shaolin School techniques of the user
 Inverse-Rohan Kung Fu
