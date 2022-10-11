@@ -3113,7 +3113,7 @@ HU·The Great Vajra\nFist
 Ext. Pen. to Int. Pen.
 When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's External Penetration will be transferred to Internal Penetration; when this technique is 10% powerful, 10 points of the user's Strength will be consumed, and a gain status of increased Internal Penetration and a reduced benefit status of decreased External Penetration will be applied to the user
 HU·18 Hands of\nDharma
-Increase your own Int. Pen.
+Self Int. Pen. buff
 When you start to perform this technique, the power of this technique will increase if the user's Internal Defense is higher than the user's Internal Penetration; when you attack the enemy with this technique, the user's Internal Penetration will additionally be added to the user's Internal Defense
 HU·Vajra Prajna\nPalm
 If the enemy's internal power attribute is "Wood" when this technique is used at 10%, the direct damage caused by the user to the enemy will be increased by 3 levels.
