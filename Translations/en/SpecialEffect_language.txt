@@ -954,7 +954,7 @@ Swordsmanship\nof 9 Lights
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Nadis", this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, and then this effect reverts to 0 levels.
 Swordsmanship\nof Yinyang Reversed
 Improving external injury
-When attacking an enemy with this technique, if this technique can cause direct internal damage and the user's Internal Penetration is lower than the enemy's Internal Defense, the user's broken body is greatly increased and the user's direct external damage to the enemy is greatly increased
+When attacking an enemy with this technique, if this technique can cause direct internal damage and the user's Internal Penetration is lower than the enemy's Internal Defense, the user's External Penetration is greatly increased and the user's direct external damage to the enemy is greatly increased
 Origin\nSword Intent
 0 Inhale·Stance cost
 If the user's Nadis Qi is higher than the initial value and higher than the enemy's Nadis Qi, this technique can be performed without consuming Qi and Stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of Nadis at the end of this technique.
@@ -2132,7 +2132,7 @@ HU·Overlord's Armor Absorb
 When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Destructive" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the "Destructive" True Qi depleted by the user will change to "Body Protective" True Qi
 HU·5 Ghosts Handling
 Exchange of External Penetration Internal Defense
-When defending with this technique, if the user's Internal Defense is lower than the enemy's broken body, the Internal Defense and broken body of the user and the enemy will be temporarily exchanged.
+When defending with this technique, if the user's Internal Defense is lower than the enemy's External Penetration, the Internal Defense and External Penetration of the user and the enemy will be temporarily exchanged.
 HU·Vision Enhanced
 When the distance between the user and the enemy is not less than 7, the further the distance between the enemy and me, the more the user's Diversion, Parry, Evasion and Focus will be improved.
 HU·Yinyang Eye
