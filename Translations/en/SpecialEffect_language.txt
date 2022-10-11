@@ -2361,7 +2361,7 @@ When retreating with this Footwork, the user needs to accumulate power to move 3
 HU·Stone Poling
 The percentage of hits other than Might for the Kick performed by the user with this Footwork is greatly reduced and shifted to Might.
 HU·Tiger Stance
-Improve the legwork to break the Qi
+Kick Int. Pen. UP
 The Internal Penetration of the leg technique performed by the user with this Footwork is greatly increased
 HU·Step Alone A Thousand Mile
 Whenever you retreat 1 distance with this Footwork, the strength of your feet is restored.
