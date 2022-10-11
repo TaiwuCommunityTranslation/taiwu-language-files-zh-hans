@@ -1492,7 +1492,7 @@ Grave Sand
 Doing legwork to perform
 When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 10% power, the user gets 2 layers of this effect: for every cumulative advance of 1 distance, the user will perform this technique to attack the enemy without consumption starting from 50% of the progress of the technique, and the technique performed with this effect will not get the Break effect layer.
 Golden Toad\nVoodoo Sand
-When attacking the enemy with this technique, the higher the enemy's broken body, the more the enemy's imperial body is reduced
+When attacking the enemy with this technique, the higher the enemy's External Penetration, the more the enemy's External Defense is reduced
 Lady Poison
 After this technique has been used for ten percent of its power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance, consume 1 "poison" style of the user, make the enemy also close to the user for 1 distance, and after the enemy moves because of this, close 1 acupuncture point in a random part of the enemy
 Blood Hou's\nSand
