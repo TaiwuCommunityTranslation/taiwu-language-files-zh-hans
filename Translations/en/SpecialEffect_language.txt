@@ -2670,7 +2670,7 @@ After this spell has become 10% powerful, the user gains 2 levels of this effect
 HU·The Puppet's\nSealing Spell
 When this spell is used at 10% of its power, the enemy's 2 "Quick" techniques that are not permanently blocked will be "blocked" for a short period of time; all "Quick" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
 HU·The 7 Whites'\nExorcism
-When this talisman is used at 10% of its power, it will cause the enemy's 2 "Aegis" techniques to be "blocked" for a short period of time; depending on the effect of the "Aegis" techniques blocked, it will reduce the enemy's Aegis, Qi Protection, Power Discharge, Dismantling, Dodge, and Heart Protection; after this talisman is cast, it will inevitably be temporarily "blocked".
+When this talisman is used at 10% of its power, it will cause the enemy's 2 "Aegis" techniques to be "blocked" for a short period of time; depending on the effect of the "Aegis" techniques blocked, it will reduce the enemy's External Defense, Internal Defense, Diversion, Parry, Evasion, and Focus; after this talisman is cast, it will inevitably be temporarily "blocked".
 HU·Bless of\nThe Stars
 When this spell is cast, the power of this spell will be greatly increased if the user is an evil person, and if the user is a demon, the power of this spell will be greatly increased; if the user is an evil person, the enemy's health will be reduced by 3 points when this spell is 10% powerful, and if the user is a demon, the enemy's health will be reduced by 3 points.
 HU·Almighty Spell
