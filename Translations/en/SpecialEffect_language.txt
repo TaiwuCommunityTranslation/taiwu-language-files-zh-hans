@@ -304,7 +304,7 @@ Perfect Unbreakable
 Direct damage invalid
 When defending with this technique, if the degree of injury caused by the enemy to the user is not less than the degree of injury of the existing wound on the attacked part of the user, this injury is invalid.
 Wudang Iron Clothes
-Equal share of body and air
+Equal share of Ext. and Int. Def.
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 1 level; the user defends against enemy attacks with the average of his own body and qi
 Sword Formation of The 3 Elements
 The user's helper can use the "return protection" and "unblock" commands more frequently to remove the weaknesses and unblock the points for the user.
