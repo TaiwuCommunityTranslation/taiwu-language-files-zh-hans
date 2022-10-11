@@ -1840,7 +1840,7 @@ Reverse - Inner Classic Ling Shu Chapter
 Reduced enemy healing effect
 Significantly reduces the number of wounds that can be healed when an enemy performs "healing" in combat
 Reversal - Golden Needle Vascularization Technique
-The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that increases the user's Might, Finesse, Swiftness, and motivation.
+The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that increases the user's Might, Finesse, Swiftness, and Breath.
 Inverse - Wudang Taihe Kung Fu
 Reduces the need to use the user's "Wudang School" techniques
 Reverse - Hold the Origin and Keep the One
@@ -1851,7 +1851,7 @@ When the user consumes only the Stance, a portion of the energy will be restored
 Inverse - Luo Tian Zhen Zhi Twelve Piles
 Convert the user's "Water" internal energy into "Fire" internal energy, the more the conversion ratio, the more the power of the user's "Fire" type kung fu will increase.
 Reversal - Golden Sutra of Marrow Washing
-The higher the percentage of "Fire" internal energy of the user, the more the user's Might, Finesse, Swiftness, and motivation will increase.
+The higher the percentage of "Fire" internal energy of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Inverse - Wudang Mixed Element Kung Fu
 If the enemy inflicts both direct external and direct internal wounds on the user, any direct internal wounds inflicted by the enemy that exceed 3 direct external wounds are subtracted.
 Inverse - Taiyi Shen Gong
@@ -2879,7 +2879,7 @@ HU·Forged Bone\nFist
 Reduced usage requirements
 Based on the power of this technique, it reduces the user's need to use all "Break" techniques until the end of the battle.
 HU·Drunk\n8 Immortals Fist
-After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the enemy attacks the user with a weapon, the enemy can only hit with the lowest of force, Finesse, Swiftness and motivation; if the user is drunk, when the enemy attacks the user with a weapon, the lowest of the enemy's hits will be reduced.
+After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the enemy attacks the user with a weapon, the enemy can only hit with the lowest of force, Finesse, Swiftness and Breath; if the user is drunk, when the enemy attacks the user with a weapon, the lowest of the enemy's hits will be reduced.
 HU·Refining\nFire Palm
 Improve your defense
 When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the attack of the user; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Constitution and improves the user's body and qi control.
