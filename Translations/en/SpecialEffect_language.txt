@@ -3481,7 +3481,7 @@ The Nine Tribes of the Fallen Heart continuously apply different types of "poiso
 The·C
 According to the enemy's Stance in the world: make the movement speed and steady pace of the righteous enemy drop significantly; make the weapon switching and attack speed of the benevolent enemy drop significantly; make the Qi lifting and recovery and Stance recovery of the moderate enemy drop significantly; make the breath adjustment and exhalation and internal energy play of the rebellious enemy drop significantly; make the casting speed and Qi drawing and charging of the egoistic enemy drop significantly
 God·S
-Divine Break Protector significantly reduces the enemy's body, aura, body and aura depending on the enemy's level of enchantment
+Divine Break Protector significantly reduces the enemy's Ext. and Int. Defense and Penetration depending on the enemy's level of enchantment
 The·NL
 Whenever the Nine Elders of Xuan Jail deal direct damage to an enemy, the Nine Elders of Xuan Jail draw a random type of True Qi from the enemy's body
 Goddess Counterattack
