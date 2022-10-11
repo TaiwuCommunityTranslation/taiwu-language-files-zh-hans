@@ -1019,7 +1019,7 @@ Eliminate the memory of the enemy
 When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memory of the battle; the enemy cannot attack with weapons, cannot perform feats that require Stance consumption, until the enemy is attacked in any way
 Conversely\nBeating As Rocking Sky
 Attacks are not defended
-If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its Aegis; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique
+If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its External Defense; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique
 One Step Turn
 Increase the casting progress
 During the enemy's performance of a feat, the user can perform this feat from 50% of the performance progress; after this feat has exerted at least 10% of its power, the user advances 2 distances, and this effect cannot be repeated during the enemy's performance of a feat
