@@ -3142,7 +3142,7 @@ The minimum attack distance of this technique is reduced by 2; when attacking th
 HU·Staff of\nSheep-Hunting Tigers
 The user can perform the "Aegis" technique from 50% of its progress without using up Qi.
 HU·Shaolin Staff\nof Madness
-In the process of performing this technique, the user can attack the enemy with weapons, and the more times the enemy is hit, the more the user's broken gas will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
+In the process of performing this technique, the user can attack the enemy with weapons, and the more times the enemy is hit, the more the user's Internal Penetration will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
 HU·Skanda Staff
 Causes random sealing of points
 After this technique has reached 10% of its power, the user gains 18 layers of this effect: when the user is about to have a sealed point, he will consume the same number of layers of the effect as the level of the sealed point, causing the enemy to have a sealed point in a random part with the same number of layers of the effect consumed, and will not cause any effect caused by the sealed point.
