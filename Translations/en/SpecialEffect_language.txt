@@ -795,7 +795,7 @@ Little Leap
 When you move with this Footwork, you have a higher chance of not consuming your Footwork
 Mountain\nPushing Palm
 Increase your Might
-After this technique has exerted at least 10% of its Might, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the user's Might increases when he attacks the enemy.
+After this technique has exerted at least 10% of its power, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the user's Might increases when he attacks the enemy.
 Iron Fist of\nLion Phase
 Change sytle gain
 After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "point" and "take" styles obtained by the user are changed to "crash" styles
