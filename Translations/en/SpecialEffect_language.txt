@@ -2275,7 +2275,7 @@ When the user is drunk, the user's chance of chasing the enemy increases signifi
 HU·Cover Sky
 When you start to perform this technique, the user forces all the enemy's helpers on the field to leave the field; when defending with this technique, the internal recoil damage caused by the user to the enemy will be shared by all the enemy's characters, and the more enemy helpers there are, the greater the recoil damage will be shared.
 HU·Mud Stunt
-Descending the enemy to chase and break the gas
+Descending the enemy to chase and Internal Penetration
 When defending with this technique: all direct internal injuries suffered by the user are reduced by 2 levels; the damage caused by the enemy's "chasing" is greatly reduced.
 HU·Chaos Qi
 The more disturbed the user's internal breath is, the higher the direct internal injury caused by the user to the enemy
