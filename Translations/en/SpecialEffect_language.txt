@@ -1281,7 +1281,7 @@ After at least 10% of the power of this technique is exerted, the user gains 4 l
 Dragon Spit\nDragon Ball
 When this technique is used at least 10% of its power, the user gains 2 points of "Break" true qi.
 Divine Power\nof Red Blue Fire
-When this technique is used at 10% of its power, it imparts a gain status to the user that significantly increases the body breakage and a decrease in the benefit status to the body.
+When this technique is used at 10% of its power, it imparts a buff to the user that significantly increases the External Penetration and a decrease in the buffs to the External Defense.
 Blood Burning
 When you start performing this technique, if the user has any new external injury, it will change 1 random new external injury of the user to an old one that is harder to recover from, and then the power and attack range of this technique will increase significantly
 9 Refining of\nThe Sun
