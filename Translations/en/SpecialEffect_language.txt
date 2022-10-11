@@ -2324,7 +2324,7 @@ During the duration of this Footwork, if the attack chance of the user is higher
 HU·Moonlight Shadow
 During the duration of this technique: the maximum attack chance of the enemy is reduced by 1; when the enemy attacks the user with the maximum attack chance, the chance of the enemy hitting the user is greatly reduced.
 HU·Golden Fairy
-When retreating with this Footwork, the user needs to accumulate Might, the more Might accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the stronger the effect will be applied to the user to improve the user's strength, Finesse, Swiftness gain status
+When retreating with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the stronger the effect will be applied to the user to improve the user's Might, Finesse, Swiftness gain status
 HU·Needle Lift-Up
 During the duration of this technique, whenever an enemy acquires the "Take", "Lift", or "Defend" styles, if the user can use these styles, there is a higher chance that the enemy's acquired styles will be transferred to the user.
 HU·Shadow Surround
