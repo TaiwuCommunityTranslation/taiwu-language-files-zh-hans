@@ -2044,7 +2044,7 @@ HU·Unintentional Mind
 Exempt from storage loss
 Whenever the user loses any available formula, there is a certain chance that the user will lose 1 less formula.
 HU·Multifarious
-When the user has 3 or more different types of available styles, the user's Diversion, Parry, Evasion, and guarding heart will be increased.
+When the user has 3 or more different types of available styles, the user's Diversion, Parry, Evasion, and Focus will be increased.
 HU·Boneless Stance
 Attrition of enemy's storage style
 When defending with this technique, whenever the user dodges an enemy's attack, the enemy loses 2 randomly available styles.
