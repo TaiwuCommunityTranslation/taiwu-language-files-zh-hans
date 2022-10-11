@@ -1563,7 +1563,7 @@ Recovery of body time
 The duration of the "Quick" technique will be restored to the user according to the power of the technique.
 Transfer Flower\nPicker
 Ext. Def. to Int. Def.
-Royal Body and Qi Change
+External and Internal Defense Change
 When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a part of the enemy's body will be transferred to the imperial qi; when this technique reaches 10% of its power, 10 points of the user's Agility will be consumed, and a gain state that raises the imperial qi and a gain state that lowers the imperial body will be applied to the enemy.
 Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's body breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
