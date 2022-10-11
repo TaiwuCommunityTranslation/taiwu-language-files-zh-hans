@@ -9,7 +9,7 @@ PAR
 EVA
 FOC
 Ext. Def.
-QiD
+Int. Def.
 Stance Recovery
 Inhale Recovery
 MOV·Spd
