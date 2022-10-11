@@ -20,7 +20,7 @@ Increase the upper limit of all major attributes of the user; if the user is a c
 Abdominal\nBreathing
 Increase the power limit of the user's "Emei School" techniques
 Emei Pillar\nHolding
-The higher the percentage of "Wood" internal power of the user, the more the user's body and qi will be improved.
+The higher the percentage of "Wood" internal power of the user, the more the user's External and Internal Defense will be improved.
 Original Pure\nForce
 The user's "Wood" type technique will cause more direct damage and repercussion damage to characters whose internal power attribute is "Earth".
 Spirituality\nComprehension
