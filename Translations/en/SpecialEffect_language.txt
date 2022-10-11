@@ -2709,7 +2709,7 @@ HU·Cuckoo's\nPecking
 For every 1 internal injury mark this technique inflicts on an enemy, it causes 1 sealed point to appear on the enemy's attacked area
 HU·Small 8 Moves\nof Gold Clank
 E·Int.Def. Dn
-This technique cannot be counter-shocked; when attacking an enemy with this technique, if the enemy's Internal Defense is higher than the user's Internal Penetration, a gain status that increases Internal Penetration is applied to the user and a gain status that decreases Internal Defense is applied to the enemy after the technique is performed
+This technique cannot be counter-shocked; when attacking an enemy with this technique, if the enemy's Internal Defense is higher than the user's Internal Penetration, a buff that increases Internal Penetration is applied to the user and a debuff that decreases Internal Defense is applied to the enemy after the technique is performed
 HU·Flood Dragon's\nWagging Tail
 At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress of the technique, and the number of the user's internal injury markers increases the degree of direct internal injury to the enemy, but the user also suffers a certain amount of internal injury at the end of the technique. internal injuries
 HU·Flood Dragon's\nRolling Kick
