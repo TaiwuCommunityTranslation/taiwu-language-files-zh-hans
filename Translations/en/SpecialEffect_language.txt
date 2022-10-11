@@ -216,7 +216,7 @@ The happier the "mood" of the user, the more the power of all the techniques of 
 Moon Shape
 Convert the user's "Fire" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the user's "Earth" type power will be increased.
 The Great 5 Yin
-The higher the ratio of the user's internal energy to the "Earth", the more the user's ability to disarm, dismantle, Evasion, and guard the heart will increase.
+The higher the ratio of the user's internal energy to the "Earth", the more the user's ability to Diversion, dismantle, Evasion, and guard the heart will increase.
 Children's\nBlood Sacrifice
 Significantly increases the power of the user's "Earth" type techniques
 Evil Scripture\nof Blood Hou
@@ -230,7 +230,7 @@ Lying Beside Tiger
 Reduce direct damage
 When the "Aegis" True Qi of the user is higher than the "Aegis" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 18 Rollings
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a gain status that improves disarm, disarm, and Evasion.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a gain status that improves Diversion, Diversion, and Evasion.
 Heavy Stance
 Prevents repulsion
 When defending with this technique, the user will not move backward passively for any reason
@@ -2028,7 +2028,7 @@ When the uninjured body part of the user receives direct internal injuries from 
 HU·Golden Bell Sheild
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, it randomly causes 2 breakdowns to appear on the enemy
 HU·Arhat's Stick Formation
-When a user's partner uses the "Defend" command, his or her body, aura, force, disarm, Evasion, and guard heart are greatly increased when defending.
+When a user's partner uses the "Defend" command, his or her body, aura, force, Diversion, Evasion, and guard heart are greatly increased when defending.
 HU·Buddhism Lion Roar
 Attrition of the enemy's momentum
 Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's Qi and Stance will be lost.
