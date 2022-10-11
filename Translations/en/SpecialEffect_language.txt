@@ -960,7 +960,7 @@ Origin\nSword Intent
 If the user's Nadis Qi is higher than the initial value and higher than the enemy's Nadis Qi, this technique can be performed without consuming Qi and Stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of Nadis at the end of this technique.
 Ever-Changing\n14 Swordmanship
 Cast E·Skill
-When attacking an enemy with this technique, the enemy will only use the lowest of its Discharge, Dismantle, and Dodge to defuse, and the lowest of its Body and Qi to defend; after this technique has reached 10% of its power, the user gains 3 levels of this effect: if the enemy performs any "Destroy" technique that consumes the "Cleave", "Thrust", or "Tease" styles, if the user is able to use the "Cleave", "Thrust", or "Tease" styles If the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
+When attacking an enemy with this technique, the enemy will only use the lowest of its Diversion, Parry, and Evasion to defuse, and the lowest of its External Defense and Internal Defense to defend; after this technique has reached 10% of its power, the user gains 3 levels of this effect: if the enemy performs any "Break" technique that consumes the "Hack", "Stab", or "Slash" styles, if the user is able to use the "Hack", "Stab", or "Slash" styles If the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 Tripping Spell
 When this spell exerts ten percent of its power, the enemy's body and Stamina will be greatly depleted.
 Disable
