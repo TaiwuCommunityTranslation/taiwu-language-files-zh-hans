@@ -2946,7 +2946,7 @@ HU·Vajra Blade
 When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "Cleave" style.
 HU·Rakkhasa Blade
 HU·Blade of\nEvil Influence
-As long as this technique is not unloaded by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
+As long as this technique is not Diversion by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
 HU·Blade of\nSoul Heat
 At the beginning of the battle, the user gains 0 layers of this effect: every time the user loses 1 point of true qi, this effect increases by 1 layer, the more layers of this effect, the more the power and attack range of this technique increases, but if the number of layers of this effect increases beyond 10 layers, the user will suffer the backlash damage of this technique, and then this effect is reduced to 0 layers
 HU·Blade of\nVajra Fall
