@@ -3122,7 +3122,7 @@ When you start to perform this technique, the greater the difference between the
 HU·Shaolin\nTiger Claw
 Reduces the power of all the enemy's "Aegis" techniques by the percentage of the power exerted by this technique, and lasts until the end of the battle
 HU·Shaolin\nFinger Zen
-Apply a reduced benefit to the enemy based on the power of this technique
+Apply a External Defense debuff to the enemy based on the power of this technique
 HU·Finger of\nCatching Flower
 As long as this technique is not dismantled by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
 HU·Great Finger\nof Vajra
