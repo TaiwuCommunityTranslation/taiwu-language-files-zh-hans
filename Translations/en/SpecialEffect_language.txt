@@ -2646,7 +2646,7 @@ When this technique exerts at least 10% of its power, the enemy loses 2 points o
 HU·Flying Sword
 This feat increases the direct damage to the enemy's head and neck by 2 levels, but has a higher chance of attacking other parts of the enemy
 HU·Swordsmanship\nof Open-Close
-If the user's Might, Finesse, Swiftness, or Breath is not lower than the enemy's, a reduction in the enemy's Might will be applied according to the Might of the technique.
+If the user's Might, Finesse, Swiftness, or Breath is not lower than the enemy's, a reduction in the enemy's power will be applied according to the power of the technique.
 HU·Swordsmanship\nof Water Beetle
 After this technique has been used to achieve 10% of its Might, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the user's force, Finesse, Swiftness, and Breath will not be lower than the enemy's unloading, dismantling, dodging, and Breath guarding.
 HU·Swordsmanship\nof 9 Lights
