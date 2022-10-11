@@ -1508,7 +1508,7 @@ The attack range of this technique is increased; after this technique exerts at 
 Recovery of Aegis time
 This technique can be performed while the user is exercising the "Aegis" technique; the duration of the user's "Aegis" technique will be restored significantly according to the percentage of power exercised by this technique
 The Great Vajra\nFist
-Transformation of broken Qi to External Penetration
+Transformation of Int. Pen. to External Penetration
 External and Internal Penetration changes
 When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's broken energy will be transferred to External Penetration; when this technique is used at 10% of its power, 10 points of the user's Strength will be consumed, and a gain state that increases External Penetration and a gain state that decreases broken energy will be applied to the user
 18 Hands of\nDharma
@@ -2231,7 +2231,7 @@ HU·Insanity Spell
 When defending with this technique: the user will not be planted with compulsions; whenever the user successfully counters an enemy's weapon attack, the user's compulsions will increase
 HU·Blood Dolls
 E·QiP Dn
-When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user applies a special status of Blood Puppet Break and a reduced benefit status of enemy's broken Qi to the enemy, causing the enemy to suffer the next direct internal injury the user receives for the user.
+When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user applies a special status of Blood Puppet Break and a reduced benefit status of enemy's Int. Pen. to the enemy, causing the enemy to suffer the next direct internal injury the user receives for the user.
 HU·Ghost Breath
 When using this technique for defense, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of phantom "poison" to the enemy.
 HU·Silkworm Insanity
@@ -3113,7 +3113,7 @@ HU·The Great Vajra\nFist
 External Penetration to Internal Penetration
 When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's External Penetration will be transferred to broken qi; when this technique is 10% powerful, 10 points of the user's Strength will be consumed, and a gain status of increased broken qi and a reduced benefit status of decreased External Penetration will be applied to the user
 HU·18 Hands of\nDharma
-Increase your own broken Qi
+Increase your own Int. Pen.
 When you start to perform this technique, the power of this technique will increase if the user's Internal Defense is higher than the user's Internal Penetration; when you attack the enemy with this technique, the user's Internal Penetration will additionally be added to the user's Internal Defense
 HU·Vajra Prajna\nPalm
 If the enemy's internal power attribute is "Wood" when this technique is used at 10%, the direct damage caused by the user to the enemy will be increased by 3 levels.
@@ -3472,7 +3472,7 @@ The more enemy's various types of defeat markers, the longer the distance of the
 FoulVisage
 Evoke the eye to dramatically increase the negative effect of a break that appears on the enemy
 EvilUprise
-The happier or more painful the enemy's "mood" is, the more the demon heart will show the External Penetration and broken Qi.
+The happier or more painful the enemy's "mood" is, the more the demon heart will show the External Penetration and Int. Pen..
 A·Sinster
 Random Heal
 Whenever an enemy performs the "Orthodox training" technique, it makes the random injuries on the enemy's body significantly worse; whenever an enemy performs the "Heterodox training" technique, it makes the random injuries on the hundred evils significantly less severe
