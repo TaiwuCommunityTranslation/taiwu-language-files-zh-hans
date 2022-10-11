@@ -2269,7 +2269,7 @@ HU·Thunder Bone
 Increase in recoil external injury
 When defending with this technique, the degree of injury caused by the user to the enemy by recoil external injury is increased by 1 level
 HU·Medical Heart
-The more "collapse" styles the user has, the more the user's Diversion power increases; the more "point" styles the user has, the more the user's evasion increases; the more "take" styles the user has, the more the user's disarming power increases.
+The more "Punch" styles the user has, the more the user's Diversion increases; the more "Point" styles the user has, the more the user's Evasion increases; the more "Hold" styles the user has, the more the user's Parry increases.
 HU·Drunk A Thousand Year
 When the user is drunk, the user's chance of chasing the enemy increases significantly, and the user's chance of hitting the enemy increases.
 HU·Cover Sky
