@@ -601,7 +601,7 @@
   "LK_Penetrate_Outer": "Phy. Pen.",
   "LK_Penetrate_Inner": "Qi Pen.",
   "LK_Penetrate_Resist_Outer": "Ext. Def.",
-  "LK_Penetrate_Resist_Inner": "Qi Def.",
+  "LK_Penetrate_Resist_Inner": "Int. Def.",
   "LK_Combat_Pause": "Pause",
   "LK_Combat_Auto_Tips": "Auto",
   "LK_Combat_Manual_Tips": "Manually",
