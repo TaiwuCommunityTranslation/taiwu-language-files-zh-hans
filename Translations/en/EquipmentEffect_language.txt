@@ -63,13 +63,13 @@ If the enemy uses a Exotic·Wp, the enemy's Might, Finesse, Swiftness, and HEA a
 Counter Melody
 If the enemy uses a music instrument, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Metal
-If the enemy uses a Metal weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+If the enemy uses a Metal weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Qi Penetration are reduced by 20%.
 Counter Wood
-If the enemy uses a Wood weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+If the enemy uses a Wood weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Qi Penetration are reduced by 20%.
 Counter Gem
-If the enemy uses a Gem weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+If the enemy uses a Gem weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Qi Penetration are reduced by 20%.
 Reflection of Weaving
-If the enemy uses a Fabric weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's Physical Penetration and Qi Penetration are reduced by 20%.
+If the enemy uses a Fabric weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Qi Penetration are reduced by 20%.
 Hidden Sharpness
 The breaking edge of this piece of gear is increased by 20%.
 Snow Refining
