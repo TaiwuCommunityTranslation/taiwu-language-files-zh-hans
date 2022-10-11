@@ -3110,7 +3110,7 @@ The attack range of this technique is increased; after this technique exerts at 
 HU·68 Moves of\nArhat Fist
 This technique can be performed while the user is exercising the "Aegis" technique; depending on the percentage of power exerted by this technique, the duration of the enemy's "Aegis" technique will be greatly depleted.
 HU·The Great Vajra\nFist
-External Penetration to Internal Penetration
+Ext. Pen. to Int. Pen.
 When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's External Penetration will be transferred to Internal Penetration; when this technique is 10% powerful, 10 points of the user's Strength will be consumed, and a gain status of increased Internal Penetration and a reduced benefit status of decreased External Penetration will be applied to the user
 HU·18 Hands of\nDharma
 Increase your own Int. Pen.
