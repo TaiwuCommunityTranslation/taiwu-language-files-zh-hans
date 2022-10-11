@@ -29,7 +29,7 @@ Whenever the user obtains an available style, the user has a very low chance of 
 Lotus\nMysterious
 Convert the "Fire" internal energy of the user into "Wood" internal energy, the more the percentage of conversion, the more the power of the user's "Wood" type techniques will be increased.
 Puxian\nScripture
-The higher the ratio of the "Wood" internal power of the user, the more the user's Diversion power, Parry moves, dodging and heart guarding will be improved.
+The higher the ratio of the "Wood" internal power of the user, the more the user's Diversion power, Parry moves, Evasion and heart guarding will be improved.
 Anatta
 Significantly increases the power of the user's "Wood" type techniques
 Great Nirvana
@@ -57,7 +57,7 @@ When the user consumes only Qi, a portion of the Stance will be restored.
 Celestial Pillar\nHolding
 Convert the user's "Wood" internal energy into "Fire" internal energy, the more the conversion ratio, the more the user's "Fire" type power will be increased.
 Golden Scripture\nof Marrow-Regen
-The higher the ratio of "Fire" internal energy of the user, the more the user's Diversion, Parry, dodging and heart guarding will be improved.
+The higher the ratio of "Fire" internal energy of the user, the more the user's Diversion, Parry, Evasion and heart guarding will be improved.
 Wudang\nMixed Element
 Reduce external injury
 If the enemy inflicts both direct external and direct internal wounds on the user, any direct external wounds inflicted by the enemy that exceed 3 direct internal wounds will be reduced.
@@ -110,7 +110,7 @@ The user's "Water" type of technique will cause more direct damage and backlash 
 Jade Mirror\nof Yin
 Significantly increase the "root bone" limit of the user
 Xihua\nScripture
-The higher the percentage of "Water" internal power of the user, the more the user's Diversion, Parry, dodging and heart guarding will be improved.
+The higher the percentage of "Water" internal power of the user, the more the user's Diversion, Parry, Evasion and heart guarding will be improved.
 Holy Princess
 Convert the user's "Wood" internal energy into "Water" internal energy, the more the conversion ratio, the more the user's "Water" type power will increase.
 Nimbus Shower
@@ -151,7 +151,7 @@ The "Metal" type technique of the user will cause more direct damage and repercu
 Aquarius\nMeditation
 The more types of true qi the user has that exceed his or her true qi limit, the more the power of all the user's feats will increase
 Vajra-Inherited\nMeditation
-The higher the ratio of "Metal" internal power of the user, the more the user's Diversion, Parry, dodging and heart guarding will be improved.
+The higher the ratio of "Metal" internal power of the user, the more the user's Diversion, Parry, Evasion and heart guarding will be improved.
 The Great Sun\nScripture
 Convert the user's "Earth" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
 The Great Vajra\nScripture
@@ -946,10 +946,10 @@ When this technique exerts at least 10% of its power, the user gains 2 points of
 Flying Sword
 Wounds inflicted by this technique on the enemy's head and neck will change to older wounds that are more difficult to recover from
 Swordsmanship\nof Open-Close
-If the user's Diversion power, Parry, dodging, or guarding the heart is not lower than the enemy's, the enemy will be given a reduced benefit status that reduces the corresponding hitting attribute according to the percentage of power played by this technique.
+If the user's Diversion power, Parry, Evasion, or guarding the heart is not lower than the enemy's, the enemy will be given a reduced benefit status that reduces the corresponding hitting attribute according to the percentage of power played by this technique.
 Swordsmanship\nof Water Beetle
 E·Resolves Dn
-After this technique has been used for 10% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's Diversion, Parry, dodging, and Breath guarding cannot be higher than the user's force, Finesse, Swiftness, and Breath moving.
+After this technique has been used for 10% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's Diversion, Parry, Evasion, and Breath guarding cannot be higher than the user's force, Finesse, Swiftness, and Breath moving.
 Swordsmanship\nof 9 Lights
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Nadis", this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, and then this effect reverts to 0 levels.
 Swordsmanship\nof Yinyang Reversed
@@ -1255,7 +1255,7 @@ Forged Bone\nFist
 Increase the power limit
 Based on the power of this technique, the power limit of all "Break" techniques of the user will be increased until the end of the battle.
 Drunk\n8 Immortals Fist
-After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the user attacks the enemy with a weapon, the enemy can only use the lowest one of Diversion, Parry, dodging, and guarding; if the user is drunk, when the user attacks the enemy with a weapon, the lowest one of the enemy will be reduced.
+After this technique is at least 10% powerful, the user will get 8 levels of this effect: when the user attacks the enemy with a weapon, the enemy can only use the lowest one of Diversion, Parry, Evasion, and guarding; if the user is drunk, when the user attacks the enemy with a weapon, the lowest one of the enemy will be reduced.
 Refining\nFire Palm
 Ignore E·Armor
 When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Constitution and increases the user's External Penetration and Internal Penetration
@@ -2019,7 +2019,7 @@ Inverse - Peiyang trick
 HU·Lying Beside Tiger
 When the user's "Aegis" True Qi is twice as high as the enemy's "Aegis" True Qi, the level of injury of all direct damage the user inflicts on the enemy is increased by 1 level
 HU·18 Rollings
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a reduced benefit status is applied to the enemy in the form of reduced Diversion, Parry, and dodging.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a reduced benefit status is applied to the enemy in the form of reduced Diversion, Parry, and Evasion.
 HU·Heavy Stance
 Prevented from being pulled close
 When defending with this technique, the user will not be moved forward passively for any reason
@@ -2044,7 +2044,7 @@ HU·Unintentional Mind
 Exempt from storage loss
 Whenever the user loses any available formula, there is a certain chance that the user will lose 1 less formula.
 HU·Multifarious
-When the user has 3 or more different types of available styles, the user's Diversion, Parry, dodging, and guarding heart will be increased.
+When the user has 3 or more different types of available styles, the user's Diversion, Parry, Evasion, and guarding heart will be increased.
 HU·Boneless Stance
 Attrition of enemy's storage style
 When defending with this technique, whenever the user dodges an enemy's attack, the enemy loses 2 randomly available styles.
@@ -2134,7 +2134,7 @@ HU·5 Ghosts Handling
 Exchange of External Penetration Internal Defense
 When defending with this technique, if the user's imperial qi is lower than the enemy's broken body, the imperial qi and broken body of the user and the enemy will be temporarily exchanged.
 HU·Vision Enhanced
-When the distance between the user and the enemy is not less than 7, the further the distance between the enemy and me, the more the user's Diversion, Parry, dodging and heart guarding will be improved.
+When the distance between the user and the enemy is not less than 7, the further the distance between the enemy and me, the more the user's Diversion, Parry, Evasion and heart guarding will be improved.
 HU·Yinyang Eye
 Whenever the applicator starts to perform a feat, the more the enemy's performance speed is higher than the applicator's performance speed, the more the enemy's performance speed is reduced
 HU·The Great Dementor
@@ -2183,7 +2183,7 @@ When the total number of defeat marks of the user exceeds half of the defeat con
 HU·4 Finger Azure Cream
 When the "Nadis" true qi of the user is twice as high as the "Nadis" true qi of the enemy, the degree of injury of all direct damage the user inflicts on the enemy is increased by 1 level
 HU·3 Books of 9-Steps
-When the distance between the user and the enemy is less than 5, the closer the enemy is to us, the more the user's Diversion, Parry, dodging and heart guarding will be improved.
+When the distance between the user and the enemy is less than 5, the closer the enemy is to us, the more the user's Diversion, Parry, Evasion and heart guarding will be improved.
 HU·Visceral Anatomy
 Increase direct internal injuries
 When an enemy's uninjured body part receives a direct internal wound from the user, the degree of injury is increased by 1 level
@@ -3504,7 +3504,7 @@ Draconic Anima！
 When Wei Qi is defeated for the first time, he will enter a new phase of the battle: Wei Qi's external and internal injuries will quickly remove themselves with time
 Animator of Jade
 Anchorite！
-The first time Ezra is defeated, he will enter a new phase of the battle: the more Ezra's Stamina is left, the more Ezra's Diversion, Parry, dodging, and heart guarding will be improved
+The first time Ezra is defeated, he will enter a new phase of the battle: the more Ezra's Stamina is left, the more Ezra's Diversion, Parry, Evasion, and heart guarding will be improved
 Octobrachial Octopod
 Infernal Acerjail！
 When Blood Maple is defeated for the first time, it will enter a new combat phase: all direct damage dealt by Blood Maple to the enemy is significantly increased; all direct damage dealt by the enemy to Blood Maple is significantly reduced
