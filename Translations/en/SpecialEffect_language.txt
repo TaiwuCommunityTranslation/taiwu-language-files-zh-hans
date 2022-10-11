@@ -476,7 +476,7 @@ When defending with this technique: the user will not be planted with compulsion
 Blood Dolls
 E·ExtPen DN
 Transfer of injuries sustained
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a special status of Blood Puppet Break to the enemy and a reduced benefit status of enemy Body Break, causing the enemy to suffer the next external injury the user receives for the user.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a special status of Blood Puppet Break to the enemy and a reduced benefit status of enemy External Penetration, causing the enemy to suffer the next external injury the user receives for the user.
 Ghost Breath
 When using this technique for defense, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of corrosive "poison" to the enemy.
 Silkworm Insanity
