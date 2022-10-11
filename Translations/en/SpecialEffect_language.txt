@@ -403,7 +403,7 @@ When defending with this technique: the degree of injury of all direct damage re
 14 Methods of Real Steel
 Significantly increase the armor and toughness of the user's weapon
 Mechanical Formation
-The user's helper can use the "warning" command more frequently to increase the user's Diversion, Parry, and evasion in a short period of time.
+The user's helper can use the "warning" command more frequently to increase the user's Diversion, Parry, and Evasion in a short period of time.
 Heavenly Armor
 When defending with this technique, if the grade of the weapon used by the enemy is not higher than the grade of the protective gear of the attacked part of the user, the degree of injury caused by the enemy to the user will be reduced by 4 levels.
 Exquisite 9
