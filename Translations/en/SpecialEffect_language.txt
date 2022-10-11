@@ -46,7 +46,7 @@ Improve healing effect
 Dramatically increases the number of wounds that can be healed when the user performs "healing" in battle
 Meridian\nEnhancement
 Resolve Up
-The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that enhances the user's Diversion power, Parry, dodge, and heart guard.
+The more injuries the user removes with "Heal" in battle, the stronger the effect of a gain status that enhances the user's Diversion power, Parry, Evasion, and heart guard.
 Ultra Harmony\nof Wudang
 Increase the power limit of the user's "Wudang School" techniques
 Vitality\nRetainin
@@ -171,7 +171,7 @@ Significantly increases the amount of toxins that can be dispelled when the user
 Azure\nImmortals Cultivation
 Convert the user's "Water" internal energy into "Wood" internal energy, the more the percentage of conversion, the more the user's "Wood" type power will be increased.
 Soul Out\nMeditation
-The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect of a gain status that enhances the user's unleashing power, Parry, dodge, and heart guard.
+The more poison markers the user removes in battle with "Poison Repellent", the stronger the effect of a gain status that enhances the user's unleashing power, Parry, Evasion, and heart guard.
 The Great Evil\nBody
 The more negative "characteristics" the user has, the more the power of all the user's feats will be increased.
 Jieqing 4\nImages
@@ -216,7 +216,7 @@ The happier the "mood" of the user, the more the power of all the techniques of 
 Moon Shape
 Convert the user's "Fire" internal energy into "Earth" internal energy, the more the percentage of conversion, the more the user's "Earth" type power will be increased.
 The Great 5 Yin
-The higher the ratio of the user's internal energy to the "Earth", the more the user's ability to disarm, dismantle, dodge, and guard the heart will increase.
+The higher the ratio of the user's internal energy to the "Earth", the more the user's ability to disarm, dismantle, Evasion, and guard the heart will increase.
 Children's\nBlood Sacrifice
 Significantly increases the power of the user's "Earth" type techniques
 Evil Scripture\nof Blood Hou
@@ -230,7 +230,7 @@ Lying Beside Tiger
 Reduce direct damage
 When the "Aegis" True Qi of the user is higher than the "Aegis" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 18 Rollings
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a gain status that improves disarm, disarm, and dodge.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a gain status that improves disarm, disarm, and Evasion.
 Heavy Stance
 Prevents repulsion
 When defending with this technique, the user will not move backward passively for any reason
@@ -2028,7 +2028,7 @@ When the uninjured body part of the user receives direct internal injuries from 
 HU·Golden Bell Sheild
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, it randomly causes 2 breakdowns to appear on the enemy
 HU·Arhat's Stick Formation
-When a user's partner uses the "Defend" command, his or her body, aura, force, disarm, dodge, and guard heart are greatly increased when defending.
+When a user's partner uses the "Defend" command, his or her body, aura, force, disarm, Evasion, and guard heart are greatly increased when defending.
 HU·Buddhism Lion Roar
 Attrition of the enemy's momentum
 Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's Qi and Stance will be lost.
@@ -2254,7 +2254,7 @@ When defending with this technique, the degree of injury caused to the enemy by 
 HU·Formation of 6 Stars
 If the user's helper can use the "push" command, the progress of the user's technique can be increased even more.
 HU·9 Star Eye
-The more "throwing" styles the user has, the more the user's Diversion power increases; the more "bouncing" styles the user has, the more the user's dodge increases; the more "defending" styles the user has, the more the user's disarming power increases.
+The more "throwing" styles the user has, the more the user's Diversion power increases; the more "bouncing" styles the user has, the more the user's Evasion increases; the more "defending" styles the user has, the more the user's disarming power increases.
 Inverse - Seven Elements of the Greatest Relief Technique
 When defending with this technique: the more body parts the user has destroyed, the higher the recoil damage the user inflicts on the enemy; at the end of defending with this technique, 3 injury marks on the user's destroyed body parts are randomly changed to old injuries that are more difficult to recover from
 HU·Anger Face
