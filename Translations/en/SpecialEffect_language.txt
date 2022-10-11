@@ -2080,7 +2080,7 @@ When this technique is used for defense, the enemy will close the enemy's own ac
 HU·8 Doors of Live Or Dead
 Whenever an enemy takes direct damage from the applicator, 1 other random wound on the enemy with a lower degree of injury will deteriorate by 1 level
 HU·Ice Condensate of Blood
-When defending with this technique: the user's poison, cold poison and phantom poison will not be attacked; the user can recoil from the poison, cold poison and phantom poison; at the end of defending with this technique, the more poison, cold poison and phantom poison the user has received, the stronger the effect of a gain status of increasing qi for the user, and then all the poison, cold poison and phantom poison the user has received in the process will be dispelled
+When defending with this technique: the user's Umbritoxin, Cryotoxin and Oneirotoxin will not be attacked; the user can recoil from the Umbritoxin, Cryotoxin and Oneirotoxin; at the end of defending with this technique, the more Umbritoxin, Cryotoxin and Oneirotoxin the user has received, the stronger the effect of a gain status of increasing Internal Defense for the user, and then all the Umbritoxin, Cryotoxin and Oneirotoxin the user has received in the process will be dispelled
 HU·Perfect Unbreakable
 When defending with this technique, if the degree of direct damage caused by the enemy to the user is not higher than the degree of the existing wound on the user's attacked area, the damage is invalid.
 HU·Wudang Iron Clothes
