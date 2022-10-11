@@ -3162,7 +3162,7 @@ HU·White Ape's\nLong-Arm Fist
 Depending on the power of this technique, the duration of the enemy's "Quick" technique is greatly depleted.
 HU·Transfer Flower\nPicker
 Transformation of Internal Defense to External Defense
-When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a portion of the enemy's imperial energy will be transferred to the External Defense; when this technique is 10% more powerful, 10 points of the user's Agility will be consumed, and a gain status that increases the External Defense and a gain status that decreases the imperial energy will be applied to the enemy.
+When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a portion of the enemy's Internal Defense will be transferred to the External Defense; when this technique is 10% more powerful, 10 points of the user's Agility will be consumed, and a buff that increases the External Defense and a debuff that decreases the imperial energy will be applied to the enemy.
 HU·Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's qi breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's qi recovery speed is reduced.
 HU·Vajra Samadhi\nPalm
