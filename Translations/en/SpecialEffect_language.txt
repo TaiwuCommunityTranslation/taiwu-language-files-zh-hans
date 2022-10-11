@@ -3175,7 +3175,7 @@ Applies a reduced benefit status to the enemy based on the power of this techniq
 HU·Lame Fight\n80 Moves
 When this technique is used at 10% of its power, for every 3 "take" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 HU·Split Flower
-When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its Might, the user gains 4 levels of this effect: if the force, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's unloading, dismantling, and evasion, the enemy's corresponding resolution will replace the hit.
+When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's Diversion, Parry, and Evasion, the enemy's corresponding resolution will replace the hit.
 HU·Lighten Finger
 The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user brings the enemy closer by 4 distance, and if the distance between the enemy and the user after being brought closer is not less than 4, the user deals the same damage to the enemy once again
 HU·A Thousand\nHands
