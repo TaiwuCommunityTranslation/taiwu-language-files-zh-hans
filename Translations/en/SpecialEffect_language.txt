@@ -2632,7 +2632,7 @@ When attacking the enemy with this technique, the more the calmness, intelligenc
 HU·Pivot Move
 After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Break" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Break" technique whose power has been reduced fails to be used for 10% of its power.
 HU·Clutch Finger
-Changing the Enemy's Imperial Qi
+Changing the Enemy's Internal Defense
 When attacking the enemy with this technique: the enemy's Internal Defense is equal to 3 times the difference between the enemy's Internal Defense and our Internal Penetration
 HU·The Great\nYinyang Hand
 Handover Debuff
