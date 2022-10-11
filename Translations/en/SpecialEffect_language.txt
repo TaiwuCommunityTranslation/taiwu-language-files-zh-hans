@@ -3379,7 +3379,7 @@ If the enemy is still within the attack range of the user, he/she will immediate
 HU·Heavenly Spirit\nBlade
 If the enemy's internal power attribute is "Water" when this technique is used at 10%, the direct damage caused by the user to the enemy will be increased by 3 levels.
 HU·Divine Blade\nof Mysterious
-Depending on the power of this technique and the amount of energy consumed by the user, the user will get up to 200 layers of this effect: when the user performs the "Destroy" technique, the number of layers of this effect will be used instead of the Stance consumption, and the more it is consumed, the more the enemy's body and energy will be reduced.
+Depending on the power of this technique and the amount of Inhale consumed by the user, the user will get up to 200 layers of this effect: when the user performs the "Break" technique, the number of layers of this effect will be used instead of the Stance consumption, and the more it is consumed, the more the enemy's Ext. and Int. Def. will be reduced.
 DIV
 Diversion
 Enemy lost part of skill power
