@@ -29,7 +29,7 @@ Whenever the user obtains an available style, the user has a very low chance of 
 Lotus\nMysterious
 Convert the "Fire" internal energy of the user into "Wood" internal energy, the more the percentage of conversion, the more the power of the user's "Wood" type techniques will be increased.
 Puxian\nScripture
-The higher the ratio of the "Wood" internal power of the user, the more the user's Diversion power, Parry moves, Evasion and Focusing will be improved.
+The higher the ratio of the "Wood" internal power of the user, the more the user's Diversion power, Parry moves, Evasion and Focus will be improved.
 Anatta
 Significantly increases the power of the user's "Wood" type techniques
 Great Nirvana
@@ -57,7 +57,7 @@ When the user consumes only Qi, a portion of the Stance will be restored.
 Celestial Pillar\nHolding
 Convert the user's "Wood" internal energy into "Fire" internal energy, the more the conversion ratio, the more the user's "Fire" type power will be increased.
 Golden Scripture\nof Marrow-Regen
-The higher the ratio of "Fire" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focusing will be improved.
+The higher the ratio of "Fire" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved.
 Wudang\nMixed Element
 Reduce external injury
 If the enemy inflicts both direct external and direct internal wounds on the user, any direct external wounds inflicted by the enemy that exceed 3 direct internal wounds will be reduced.
@@ -110,7 +110,7 @@ The user's "Water" type of technique will cause more direct damage and backlash 
 Jade Mirror\nof Yin
 Significantly increase the "root bone" limit of the user
 Xihua\nScripture
-The higher the percentage of "Water" internal power of the user, the more the user's Diversion, Parry, Evasion and Focusing will be improved.
+The higher the percentage of "Water" internal power of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved.
 Holy Princess
 Convert the user's "Wood" internal energy into "Water" internal energy, the more the conversion ratio, the more the user's "Water" type power will increase.
 Nimbus Shower
@@ -151,7 +151,7 @@ The "Metal" type technique of the user will cause more direct damage and repercu
 Aquarius\nMeditation
 The more types of true qi the user has that exceed his or her true qi limit, the more the power of all the user's feats will increase
 Vajra-Inherited\nMeditation
-The higher the ratio of "Metal" internal power of the user, the more the user's Diversion, Parry, Evasion and Focusing will be improved.
+The higher the ratio of "Metal" internal power of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved.
 The Great Sun\nScripture
 Convert the user's "Earth" internal energy into "Metal" internal energy, the more the percentage of conversion, the more the user's "Metal" type power will be increased.
 The Great Vajra\nScripture
@@ -2134,7 +2134,7 @@ HU·5 Ghosts Handling
 Exchange of External Penetration Internal Defense
 When defending with this technique, if the user's imperial qi is lower than the enemy's broken body, the imperial qi and broken body of the user and the enemy will be temporarily exchanged.
 HU·Vision Enhanced
-When the distance between the user and the enemy is not less than 7, the further the distance between the enemy and me, the more the user's Diversion, Parry, Evasion and Focusing will be improved.
+When the distance between the user and the enemy is not less than 7, the further the distance between the enemy and me, the more the user's Diversion, Parry, Evasion and Focus will be improved.
 HU·Yinyang Eye
 Whenever the applicator starts to perform a feat, the more the enemy's performance speed is higher than the applicator's performance speed, the more the enemy's performance speed is reduced
 HU·The Great Dementor
@@ -2183,7 +2183,7 @@ When the total number of defeat marks of the user exceeds half of the defeat con
 HU·4 Finger Azure Cream
 When the "Nadis" true qi of the user is twice as high as the "Nadis" true qi of the enemy, the degree of injury of all direct damage the user inflicts on the enemy is increased by 1 level
 HU·3 Books of 9-Steps
-When the distance between the user and the enemy is less than 5, the closer the enemy is to us, the more the user's Diversion, Parry, Evasion and Focusing will be improved.
+When the distance between the user and the enemy is less than 5, the closer the enemy is to us, the more the user's Diversion, Parry, Evasion and Focus will be improved.
 HU·Visceral Anatomy
 Increase direct internal injuries
 When an enemy's uninjured body part receives a direct internal wound from the user, the degree of injury is increased by 1 level
@@ -3504,7 +3504,7 @@ Draconic Anima！
 When Wei Qi is defeated for the first time, he will enter a new phase of the battle: Wei Qi's external and internal injuries will quickly remove themselves with time
 Animator of Jade
 Anchorite！
-The first time Ezra is defeated, he will enter a new phase of the battle: the more Ezra's Stamina is left, the more Ezra's Diversion, Parry, Evasion, and Focusing will be improved
+The first time Ezra is defeated, he will enter a new phase of the battle: the more Ezra's Stamina is left, the more Ezra's Diversion, Parry, Evasion, and Focus will be improved
 Octobrachial Octopod
 Infernal Acerjail！
 When Blood Maple is defeated for the first time, it will enter a new combat phase: all direct damage dealt by Blood Maple to the enemy is significantly increased; all direct damage dealt by the enemy to Blood Maple is significantly reduced
