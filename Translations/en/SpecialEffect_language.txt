@@ -2084,7 +2084,7 @@ When defending with this technique: the user's Umbritoxin, Cryotoxin and Oneirot
 HU·Perfect Unbreakable
 When defending with this technique, if the degree of direct damage caused by the enemy to the user is not higher than the degree of the existing wound on the user's attacked area, the damage is invalid.
 HU·Wudang Iron Clothes
-Ave E·Penetration
+Average Pen.
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 1 level; the user takes the enemy's attack with the average value of the enemy's External Penetration and Internal Penetration
 HU·Sword Formation of The 3 Elements
 When the user's helper uses the "Protect" and "Unblock" commands, it can remove more vulnerabilities and unblock more points for the user.
