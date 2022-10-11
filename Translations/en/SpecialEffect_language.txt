@@ -1574,7 +1574,7 @@ Chilling Pinprick
 Increase the power of all the "Quick" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle
 Emei Finger Zen
 Int. Pen. UP
-The power of this technique is increased by the amount of power it exerts.
+The Internal Penetration of this technique is increased by the amount of power it exerts.
 Lame Fight\n80 Moves
 When this technique is used at 10% of its power, for every 2 "take" styles the user has, the level of damage the user can cause to the enemy will increase by 1 extra level.
 Split Flower
