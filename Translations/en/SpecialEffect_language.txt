@@ -548,10 +548,10 @@ Undead Body of Blood Child
 When the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder has not reached the absolute limit, the user's internal disorder will start to increase randomly, and the user cannot be defeated until the user's internal disorder reaches the absolute limit.
 Lift-Up Jumping
 Move Spd Up
-During the duration of this body technique, the movement speed of the user will be increased when the user uses the "Aegis" technique.
+During the duration of this Footwork, the movement speed of the user will be increased when the user uses the "Aegis" technique.
 Gecko's Crawling
 Increase Aegis power
-During the duration of this body technique, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
+During the duration of this Footwork, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
 Lighten Body
 Improve Stamina recovery
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of Stamina recovery
@@ -559,7 +559,7 @@ The Great Flip
 Whenever the user hits an enemy with a "long weapon" during the duration of this Footwork, the user's Stamina is restored.
 9 Maps And 6 Statues
 Increase Aegis time
-During the duration of this body technique, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
+During the duration of this Footwork, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
 Crossing The River With A Reed
 Immune Spd Dn
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
@@ -583,7 +583,7 @@ Golden Fairy
 When advancing with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's strength, subtlety, swiftness gain status
 Needle Lift-Up
 Mutual substitution of storage type
-During the duration of this body technique, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "hold" style, "tease" style and "defend" style of the user can be used in place of each other
+During the duration of this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "hold" style, "tease" style and "defend" style of the user can be used in place of each other
 Shadow Surround
 Whenever the user hits an enemy with a "flute" type weapon during the duration of this Footwork, the user's strength is restored.
 Flying Needle
@@ -600,13 +600,13 @@ Jade Step
 When advancing with this Footwork, the user needs to accumulate power to move 3 distances at once, and then the degree of injury of a random wound on the user's body will be reduced by 2 levels.
 Flower Listen Rain
 Enhancement of motivational gain
-During the duration of this body technique: the user's heart will not be reduced by any effect; the user will receive a significant increase in the effects of all feats and statuses that increase heart
+During the duration of this Footwork: the user's heart will not be reduced by any effect; the user will receive a significant increase in the effects of all feats and statuses that increase heart
 5 Steps of Plum Poling
 During the duration of this Footwork, if the hit of the user when attacking an enemy is lower than the enemy's resolution, the user's chance of hitting the enemy is greatly increased.
 8 Trigrams Step
-During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Footwork will be reduced to recover.
+During the duration of this Footwork, if the user uses the "Aegis" technique, the enemy's Footwork will be reduced to recover.
 Cloud Surround
-Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this body technique, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Big Dipper Step of Heavenly Spirit
 Gain Specific Force
 Every time you move 1 distance with this Footwork, the user gains "Quick" true energy according to the amount of "Break" true energy the user has, and when the effect of this Footwork ends or expires, the user loses all "Quick" true energy gained in the process.
@@ -656,7 +656,7 @@ Divine Swift
 During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not less than 7, the user does not consume Footwork when moving.
 Above The Sky
 Enhanced subtle gain
-During the duration of this body technique: the user's subtlety will not be reduced by any effect; all subtlety-raising feats and status effects received by the user are greatly increased
+During the duration of this Footwork: the user's subtlety will not be reduced by any effect; all subtlety-raising feats and status effects received by the user are greatly increased
 Fallen Flower
 Whenever the user hits an enemy with a "yokozuna" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Skyscraper Climbing
@@ -673,7 +673,7 @@ Remove E·Style
 During the duration of this Footwork, when the user attacks the enemy, he/she will first hit the enemy with a heartbeat that gradually decreases with the number of actions, and if the enemy fails to resolve this heartbeat, he/she will randomly eliminate a portion of the enemy's available stances.
 Lady Azure's Icesteps
 Enhanced Swift Gain
-During the duration of this body technique: the swiftness of the user will not be reduced by any effect; all swiftness-enhancing feats and status effects received by the user will be greatly increased
+During the duration of this Footwork: the swiftness of the user will not be reduced by any effect; all swiftness-enhancing feats and status effects received by the user will be greatly increased
 Luoshen's Riversteps
 Restore your momentum
 Every time you advance 1 distance with this Footwork, you will regain your energy and Footwork.
@@ -684,7 +684,7 @@ Wooden Track
 Reduced movement loss
 During the duration of this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
 Car Driving Chapter
-Whenever the user hits an enemy with a "machine" type weapon during the duration of this body technique, the user's strength is restored.
+Whenever the user hits an enemy with a "machine" type weapon during the duration of this Footwork, the user's strength is restored.
 All Directions
 For every 0.3 distance you advance with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 Tiger Hill Test Sword
@@ -697,7 +697,7 @@ Body technique instead of Footwork
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Stance is not enough to perform the "Break" technique, the user's Footwork can be consumed instead of the user's Stance.
 Tiankai Flowing Meteor Style
 Enhanced force gain
-During the duration of this body technique: the strength of the user will not be reduced by any effect; all strength-raising techniques and status effects that the user receives are greatly increased
+During the duration of this Footwork: the strength of the user will not be reduced by any effect; all strength-raising techniques and status effects that the user receives are greatly increased
 Flying On The Grass
 Move Dist Up
 When moving forward with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
@@ -711,7 +711,7 @@ Reduce external injury
 The user has a higher chance of reducing the external injury caused by the enemy to the user during the execution of the leg technique with this Footwork.
 Flood Dragon Stirs Ocean
 Extra Kick
-As long as the user of this body technique to perform at least 10% of the power of the leg, the user will be able to continue to attack the enemy without consumption of other leg techniques of a slightly lower rank
+As long as the user of this Footwork to perform at least 10% of the power of the leg, the user will be able to continue to attack the enemy without consumption of other leg techniques of a slightly lower rank
 Stone Sink
 Basic Atk All MIG
 During the duration of this Footwork, as long as the enemy has no effect that can change the way of defusing, all weapon attacks of the user will be hit by force.
@@ -744,7 +744,7 @@ A Hundred Feet Poling
 Range Up
 During the duration of this Footwork, the maximum attack distance of the user is increased by 2
 Traceless 6 Steps
-During the duration of this body technique, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "point", "thrust" and "bullet" styles possessed by the user can be used in place of each other
+During the duration of this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "point", "thrust" and "bullet" styles possessed by the user can be used in place of each other
 Carefree Step
 During the duration of this technique, whenever the user hits an enemy with a "concealed weapon" type weapon, the user's Stamina is restored.
 Sky River Walk
@@ -856,7 +856,7 @@ Switch E·Weapon
 When you start to perform this technique, if the enemy does not use the "Aegis" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons can not be used temporarily.
 Lion Spear of\nMadness Dragon
 Reduces recoil damage
-When this technique is subjected to the enemy's recoil, the durability of the weapon of the user counteracts the recoil damage caused by the enemy to the user; after this technique has exerted at least 10% of its power, the user obtains 4 levels of this effect: when the user does not use the body technique, the user can quickly accumulate power to advance 1 distance at once without consumption
+When this technique is subjected to the enemy's recoil, the durability of the weapon of the user counteracts the recoil damage caused by the enemy to the user; after this technique has exerted at least 10% of its power, the user obtains 4 levels of this effect: when the user does not use the Footwork, the user can quickly accumulate power to advance 1 distance at once without consumption
 Overlord Spear\nof Dragon
 Attack enemy companions
 Offsetting external injury
@@ -975,7 +975,7 @@ Hexa-Jia Arcane\nBenediction
 Hetero to Ortho
 After this spell has become 10% more powerful, the user gains 2 levels of this effect: the "spell" technique performed by the user changes from Heterodox practice to Orthodox practice, and the power of the "spell" technique transformed from Heterodox practice is greatly increased.
 The Puppet's\nSealing Spell
-Blocking the enemy's body technique
+Blocking the enemy's Footwork
 Interrupting the performance of gongfu
 When this spell is used at 10% of its power, one of the enemy's "Quick" techniques that is not permanently blocked will be "blocked" for a long time; all "Quick" techniques performed by the enemy during this period will have a high chance of being "interrupted" when they reach 90% of their progress; when this spell is finished, they will inevitably be temporarily "blocked".
 The 7 Whites'\nExorcism
@@ -2297,17 +2297,17 @@ HU·Undead Body of Blood Child
 Whenever the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder does not reach extinction, the user's internal disorder will increase dramatically and randomly and immediately exchange all wounds with a partner of the user's helper who has not reached the defeat condition
 HU·Lift-Up Jumping
 Reduce enemy movement speed
-During the duration of this body technique, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
+During the duration of this Footwork, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
 HU·Gecko's Crawling
 Reducing the power of enemy Aegis
-During the duration of this body technique, the power of the enemy's "Aegis" technique is reduced and lasts until the end of the "Aegis" technique.
+During the duration of this Footwork, the power of the enemy's "Aegis" technique is reduced and lasts until the end of the "Aegis" technique.
 HU·Lighten Body
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a gain status to the user to increase the speed of recovery of Stamina
 HU·The Great Flip
 Whenever the user hits an enemy with a "long weapon" during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·9 Maps And 6 Statues
 Increase the power of Aegis
-During the duration of this body technique, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
+During the duration of this Footwork, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
 HU·Crossing The River With A Reed
 During the duration of this Footwork: the enemy cannot eliminate the Footwork and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
 HU·Shorten Distance
@@ -2346,7 +2346,7 @@ During the duration of this Footwork: the enemy's guarded heart will not be rais
 HU·5 Steps of Plum Poling
 During the duration of this Footwork, if the enemy attacks the user with a hit that is lower than the user's resolution, the chance of the enemy hitting the user is significantly reduced.
 HU·8 Trigrams Step
-During the duration of this body technique, if the user uses the "Aegis" technique, the enemy's Qi recovery will be reduced.
+During the duration of this Footwork, if the user uses the "Aegis" technique, the enemy's Qi recovery will be reduced.
 HU·Cloud Surround
 During the duration of this technique, whenever the user hits the enemy with a "Whisk" type weapon, the enemy's Stamina will be lost.
 HU·Big Dipper Step of Heavenly Spirit
@@ -2370,7 +2370,7 @@ During the duration of this Footwork: the enemy cannot eliminate the user's Foot
 HU·Shake Mountain
 During the duration of this Footwork, whenever the user deals direct damage to the enemy, the enemy's Footwork and Stamina are lost.
 HU·Iron Bridge
-When the distance between the user and the enemy is not greater than 7 during the duration of this body technique, the closer the enemy and me, the lower the chance of the enemy hitting the user.
+When the distance between the user and the enemy is not greater than 7 during the duration of this Footwork, the closer the enemy and me, the lower the chance of the enemy hitting the user.
 HU·Chain of River-Block
 During the duration of this Footwork, for every 1 distance the enemy has accumulated, the user will immediately make 1 weapon attack on the enemy without consumption that cannot be pursued.
 HU·Lion's Swift
@@ -2396,7 +2396,7 @@ HU·Fallen Flower
 During the duration of this technique, whenever the user hits the enemy with a "yaoi" type weapon, the enemy's Stamina will be lost.
 HU·Skyscraper Climbing
 Increase your own dissolution
-When the enemy attacks the user during the duration of this body technique, the user's defeats, except for the heart guard, will add an additional portion of the user's heart guard.
+When the enemy attacks the user during the duration of this Footwork, the user's defeats, except for the heart guard, will add an additional portion of the user's heart guard.
 HU·Farewell Steps
 For every 3 successful hits on the enemy during the duration of this Footwork, the user will apply 1 mark of disorientation to the enemy
 HU·Afterglow Catching
@@ -2497,7 +2497,7 @@ During the duration of this Footwork, when the user is attacked by an enemy, the
 HU·Wind Fire Stance
 Whenever the user hits an enemy with a "knife" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 HU·Drunk Lying In The East Sea
-If the user is drunk during the duration of this body technique, the user can perform the "Destroy" technique without the required Qi and Footwork, but the power of the technique will be reduced in proportion to the lack of Qi and Footwork.
+If the user is drunk during the duration of this Footwork, the user can perform the "Destroy" technique without the required Qi and Footwork, but the power of the technique will be reduced in proportion to the lack of Qi and Footwork.
 HU·Fox Move
 When retreating with this Footwork, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 HU·Tomb Escape
@@ -2564,7 +2564,7 @@ The farther the user retreats, the more the power of this technique increases. F
 HU·Spear of\nMountain-Shaking Beasts
 When you start to perform this technique, if the enemy does not use the "Quick" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons will be temporarily unusable.
 HU·Lion Spear of\nMadness Dragon
-When this technique is subjected to the enemy's recoil, the durability of the weapon of the user counteracts the recoil damage caused by the enemy to the user; after this technique has exerted at least 10% of its power, the user obtains 4 levels of this effect: when the user has not activated the body technique, the user can quickly accumulate power to retreat 1 distance at once without consumption
+When this technique is subjected to the enemy's recoil, the durability of the weapon of the user counteracts the recoil damage caused by the enemy to the user; after this technique has exerted at least 10% of its power, the user obtains 4 levels of this effect: when the user has not activated the Footwork, the user can quickly accumulate power to retreat 1 distance at once without consumption
 HU·Overlord Spear\nof Dragon
 Offsetting direct internal injuries
 When this technique is used at 10% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy, and receive twice the number of levels of this effect depending on the number of internal damage marks the user has taken as a result: the number of levels of this effect will cancel out the direct internal damage marks the enemy has inflicted on the user.
