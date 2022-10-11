@@ -1075,7 +1075,7 @@ Skill accuracy up
 If the weapon used by the user is the "Sword of Victory", the chance of this technique hitting the enemy is greatly increased and the "Sword of Victory" can be unblocked after this technique has been used to 10% of its power, and this sword can increase the chance of all "sword techniques" hitting the enemy until other weapons are used. Unblocked or end of battle
 Unblocked: This sword increases the chance of all "sword techniques" hitting the enemy and lasts until the other weapons are unblocked or the battle is over.
 Heavy Sword of\nGreatTower
-Improve the gong method to break the body
+Skill Ext. Pen. UP
 If the weapon used by the user is the "Giant Que Sword", the user's body breakage is greatly increased and the "Giant Que Sword" can be unsealed after this technique has been used at 10% of its power, and this sword can increase the body breakage of all "sword techniques" until the other weapons are unsealed or the battle is over.
 Unblocked: This sword can increase the body breakage of all "sword techniques" and lasts until the other weapons are unblocked or the battle is over.
 7 Star\nSwordsmanship of DragonPool
