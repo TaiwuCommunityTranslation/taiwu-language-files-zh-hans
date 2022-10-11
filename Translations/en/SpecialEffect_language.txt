@@ -2531,7 +2531,7 @@ HU·Great Divine\nPalm
 Eliminate the Quick of the enemy
 When attacking an enemy with this technique, if the enemy is using the "Quick" technique, the power of this technique will be greatly increased; when this technique exerts at least 10% of its power, the "Quick" technique used by the enemy will be eliminated
 HU·Great Slow Hand
-At the end of this technique, the enemy's Diversion force will be reduced, and the user will immediately perform this technique again without consumption from 50% of the progress until the enemy leaves the attack range of this technique.
+At the end of this technique, the enemy's Diversion will be reduced, and the user will immediately perform this technique again without consumption from 50% of the progress until the enemy leaves the attack range of this technique.
 HU·Ground Blade\nof Lion Face
 When you start to perform this technique, you will regain the strength of your feet; during the process of performing this technique, you can retreat up to 2 distances.
 HU·Rapid Blade\nof Mountain Cleave
