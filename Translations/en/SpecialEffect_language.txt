@@ -191,7 +191,7 @@ When the internal energy of the user is "Water", it is more difficult to "block"
 Fire Paint\nTattoo
 Increases the power limit of the user's "Furyan" technique
 Fulong\nFire-Engulf
-The higher the percentage of "Fire" internal energy of the user, the more the user's imperial body and qi will be improved.
+The higher the percentage of "Fire" internal energy of the user, the more the user's External Defense and qi will be improved.
 Pure Qi of Fire
 The user's "Fire" type techniques will cause more direct damage and repercussion damage to characters with "Metal" internal power attribute.
 Divine Jade\nYang
@@ -1696,7 +1696,7 @@ Purple Yang\nUpright Fist
 This technique cannot be recoiled; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and when this technique exerts ten percent of its power, the internal breath disorder of the user will be greatly reduced.
 Taichi Fist
 Suppressing enemy attacks
-After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: when the user is attacked by an enemy's technique, if the enemy's Internal Penetration is lower than the user's imperial body, the user's imperial body will additionally add the enemy's External Penetration; if the enemy's External Penetration is lower than the user's imperial qi, the user's imperial qi will additionally add the enemy's Internal Penetration; after this technique is performed, it will change from Orthodox practice to Heterodox practice, and the power of this technique will accumulate increases until the end of the battle.
+After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: when the user is attacked by an enemy's technique, if the enemy's Internal Penetration is lower than the user's External Defense, the user's External Defense will additionally add the enemy's External Penetration; if the enemy's External Penetration is lower than the user's imperial qi, the user's imperial qi will additionally add the enemy's Internal Penetration; after this technique is performed, it will change from Orthodox practice to Heterodox practice, and the power of this technique will accumulate increases until the end of the battle.
 Wudang\nSwordsmanship
 Increase the power of all of the "Nadis" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle.
 Wudang\nSwordsmanship of Unfettered
@@ -2520,7 +2520,7 @@ HU·Gate Breaker\n8 Moves
 When this technique is used at 10% of its power, for every 3 "Avalanche" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 HU·The Great\nStonebreaker
 E·PhD·QiD Dn
-When attacking the enemy with this technique: the armor of the user increases significantly; if the armor of the user is higher than the toughness of the enemy, the enemy's imperial body and imperial qi decrease significantly
+When attacking the enemy with this technique: the armor of the user increases significantly; if the armor of the user is higher than the toughness of the enemy, the enemy's External Defense and imperial qi decrease significantly
 HU·Gold Palm of\nLion Phase
 This feat increases the direct damage dealt to the enemy's arm by 3 levels, but has a higher chance of attacking other parts of the enemy
 HU·Warlord's\nPull Bow
@@ -2652,7 +2652,7 @@ After this technique has been used to achieve 10% of its power, the user gains 4
 HU·Swordsmanship\nof 9 Lights
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Nadis" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the performance progress, then this effect reverts to 0 levels
 HU·Swordsmanship\nof Yinyang Reversed
-When attacking an enemy with this technique, if this technique can cause direct external injuries and the user's body break is lower than the enemy's imperial body, the user's Internal Penetration is greatly increased and the user's direct internal injuries to the enemy are greatly increased
+When attacking an enemy with this technique, if this technique can cause direct external injuries and the user's body break is lower than the enemy's External Defense, the user's Internal Penetration is greatly increased and the user's direct internal injuries to the enemy are greatly increased
 HU·Origin\nSword Intent
 If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Qi or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
 HU·Ever-Changing\n14 Swordmanship
@@ -3161,13 +3161,13 @@ As long as this technique is not dodged by the enemy, the direct internal damage
 HU·White Ape's\nLong-Arm Fist
 Depending on the power of this technique, the duration of the enemy's "Quick" technique is greatly depleted.
 HU·Transfer Flower\nPicker
-Transformation of imperial qi to imperial body
-When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a portion of the enemy's imperial energy will be transferred to the imperial body; when this technique is 10% more powerful, 10 points of the user's Agility will be consumed, and a gain status that increases the imperial body and a gain status that decreases the imperial energy will be applied to the enemy.
+Transformation of imperial qi to External Defense
+When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a portion of the enemy's imperial energy will be transferred to the External Defense; when this technique is 10% more powerful, 10 points of the user's Agility will be consumed, and a gain status that increases the External Defense and a gain status that decreases the imperial energy will be applied to the enemy.
 HU·Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's qi breakage when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's qi recovery speed is reduced.
 HU·Vajra Samadhi\nPalm
 Reduction of enemy's imperial energy
-This technique cannot be interrupted; this technique will definitely be 10% powerful, and the higher the enemy's imperial body, the more the enemy's imperial qi will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Nadis", otherwise these effects will not take effect
+This technique cannot be interrupted; this technique will definitely be 10% powerful, and the higher the enemy's External Defense, the more the enemy's imperial qi will be reduced, but for every hit the user has that is defeated by the enemy, the user needs to consume 3 points of the user's "Nadis", otherwise these effects will not take effect
 HU·Emei Eagle Claw
 Reduces the power of all the enemy's "Quick" techniques by the amount of power this technique exerts, and lasts until the end of the battle
 HU·Emei Finger Zen
@@ -3290,7 +3290,7 @@ HU·Purple Yang\nUpright Fist
 This technique can't be recoiled; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and when this technique exerts ten percent of its power, it will greatly increase the enemy's internal breath disorder
 HU·Taichi Fist
 Suppressing the enemy's defense
-After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: when an enemy is attacked by the user's technique, if the enemy's imperial qi is lower than the user's External Penetration, the user's External Penetration will additionally add the enemy's imperial body; if the enemy's imperial body is lower than the user's External Penetration, the user's External Penetration will additionally add the enemy's imperial qi; after this technique is performed, it will change from Heterodox practice to Orthodox practice, and the power of this technique will accumulate increases until the end of the battle.
+After this technique has been performed at 10% of its power, the user gains 2 levels of this effect: when an enemy is attacked by the user's technique, if the enemy's imperial qi is lower than the user's External Penetration, the user's External Penetration will additionally add the enemy's External Defense; if the enemy's External Defense is lower than the user's External Penetration, the user's External Penetration will additionally add the enemy's imperial qi; after this technique is performed, it will change from Heterodox practice to Orthodox practice, and the power of this technique will accumulate increases until the end of the battle.
 HU·Wudang\nSwordsmanship
 Reduces the power of all the enemy's "Nadis" techniques according to the percentage of the power exerted by the technique, and lasts until the end of the battle.
 HU·Wudang\nSwordsmanship of Unfettered
@@ -3320,7 +3320,7 @@ HU·Laojun Swipe
 At the beginning of the battle, the user gains 6 levels of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, this effect is consumed to remove the user's non-injury markers. 1 level of this effect is consumed for each non-injury marker removed; when this technique becomes 10% more powerful, 1 level of this effect is restored, up to a maximum of 3 levels.
 HU·Yin-Yang Invert
 Restraint against practicing strange tricks
-The direct internal injuries caused by this technique will be resisted by the enemy's imperial body instead; during the execution of this technique, all of the enemy's Heterodox training "Nadis" techniques cannot take effect
+The direct internal injuries caused by this technique will be resisted by the enemy's External Defense instead; during the execution of this technique, all of the enemy's Heterodox training "Nadis" techniques cannot take effect
 HU·The Ultra One\nSwipe
 The higher the disorder of the enemy's internal breath, the higher the number of sealed points caused by this technique and the higher the level of sealed points when this technique exerts its tenth power
 HU·Heavy Swipe
