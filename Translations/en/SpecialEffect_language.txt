@@ -2481,7 +2481,7 @@ During the duration of this Footwork: the enemy cannot eliminate the Footwork an
 HU·Seven-Star Spin
 The more attack opportunities remaining for the user during the duration of this Footwork, the more the attack speed of the user will increase.
 HU·Heaven Leap
-When retreating with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the retreating distance, up to 5 distance, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's gain status of External Penetration and gas breaking
+When retreating with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the retreating distance, up to 5 distance, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's gain status of External Penetration and Internal Penetration
 HU·Moving Star
 When this Footwork is performed, the distance between the enemy and me changes to 5; during the duration of this Footwork, the enemy cannot actively move away from the user
 HU·Barefoot
