@@ -230,7 +230,7 @@ Lying Beside Tiger
 Reduce direct damage
 When the "Aegis" True Qi of the user is higher than the "Aegis" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 18 Rollings
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a gain status that improves Diversion, Diversion, and Evasion.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a gain status that improves Diversion, Parry, and Evasion.
 Heavy Stance
 Prevents repulsion
 When defending with this technique, the user will not move backward passively for any reason
