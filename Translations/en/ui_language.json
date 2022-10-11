@@ -2429,7 +2429,7 @@
   "LK_ArmorEquipAttack_Tip": "If the broken edge of the protective gear is higher than the toughness of the weapon being defended against, it will easily damage the durability of the weapon after being attacked.",
   "LK_EquipDefense_Weapon_Tip": "If the weapon's toughness is lower than the broken edge of the armor being attacked, it will easily lose durability after the attack",
   "LK_Combat_Attack_Value_Tip": "The higher the weapon's body-breaking and air-breaking, the higher the damage it can do",
-  "LK_Combat_Defend_Value_Tip": "The higher the protective gear's External Defense and imperial aura, the more damage it can reduce",
+  "LK_Combat_Defend_Value_Tip": "The higher the protective gear's External Defense and Internal Defense, the more damage it can reduce",
   "LK_Weight_Tip": "When the equipment on the character exceeds the maximum weight of the equipment the character can bear, the character's movement and attack speed will be reduced",
   "LK_EquipDefense_Armor_Tip": "If the toughness of the protective gear is lower than the armor of the weapon it is defending against, it will easily lose durability after being attacked",
   "LK_ClickAgainToSkip": "Click the left mouse button again to skip the animation",
