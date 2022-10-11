@@ -2107,7 +2107,7 @@ When defending with this technique, whenever the user successfully counters an e
 HU·Sword Or Blade
 When the user performs a sword technique with a sword, the power of the sword technique increases
 HU·Yuanshan 7 Formations
-When an attacker's partner uses the "Attack" command, the External Penetration, ki-breaking, force, subtlety, swiftness, and heart-movement of the attack are greatly increased.
+When an attacker's partner uses the "Attack" command, the External Penetration, Internal Penetration, Might, Finesse, Swiftness, and Breath of the attack are greatly increased.
 HU·Golden Blade Fist
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user's attack chance is increased, and if the user's attack chance has reached its maximum before being increased, the user's counterattack damage to the enemy is greatly increased
 HU·Sakyamuni Elephant Throwing
