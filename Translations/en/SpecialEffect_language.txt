@@ -2512,7 +2512,7 @@ Internal injuries cannot be reduced
 The direct internal damage caused by this Footwork can't be reduced by any effect.
 HU·Little Leap
 HU·Mountain\nPushing Palm
-Reducing the Diversion power of the enemy
+Reducing the Diversion of the enemy
 After this technique has exerted at least 10% of its power, the user gains 8 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's Diversion power will be reduced when the user attacks the enemy.
 HU·Iron Fist of\nLion Phase
 When this technique is used at least 10% of its power, the user gains 2 "crash" styles
