@@ -1087,8 +1087,8 @@ If the weapon used by the user is the "Tai Ah Sword", the attack range of this t
 Unblocked: This sword can increase the attack range of all "sword techniques".
 Sword Intent\nof PureSoul
 Skill Int. Pen UP
-If the weapon used by the user is the "Pure Jun Sword", the user's broken qi is greatly increased, and after this technique has been used at 10% of its power, the "Pure Jun Sword" can be unsealed, and this sword can increase the broken qi of all "sword techniques" until the other weapons are unsealed or the battle is over.
-Unblocked: This sword can increase the broken qi of all "sword techniques".
+If the weapon used by the user is the "Pure Jun Sword", the user's Internal Penetration is greatly increased, and after this technique has been used at 10% of its power, the "Pure Jun Sword" can be unsealed, and this sword can increase the Internal Penetration of all "sword techniques" until the other weapons are unsealed or the battle is over.
+Unblocked: This sword can increase the Internal Penetration of all "sword techniques".
 Swordsmanship\nof SuperbCore
 If the weapon used by the user is the "Zhan Lu Sword", the power of this technique is greatly increased and the "Zhan Lu Sword" can be unsealed after this technique has been used to 10% of its power, and this sword can increase the power of all "sword techniques" until the other weapons are unsealed or the battle is over.
 Unblocked: This sword can increase the power of all "sword techniques".
@@ -2085,7 +2085,7 @@ HU·Perfect Unbreakable
 When defending with this technique, if the degree of direct damage caused by the enemy to the user is not higher than the degree of the existing wound on the user's attacked area, the damage is invalid.
 HU·Wudang Iron Clothes
 Ave E·Penetration
-When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 1 level; the user takes the enemy's attack with the average value of the enemy's External Penetration and broken qi
+When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 1 level; the user takes the enemy's attack with the average value of the enemy's External Penetration and Internal Penetration
 HU·Sword Formation of The 3 Elements
 When the user's helper uses the "Protect" and "Unblock" commands, it can remove more vulnerabilities and unblock more points for the user.
 HU·Cloud Bed
@@ -2362,7 +2362,7 @@ HU·Stone Poling
 The percentage of hits other than Might for the Kick performed by the user with this Footwork is greatly reduced and shifted to Might.
 HU·Tiger Stance
 Improve the legwork to break the Qi
-The broken qi of the leg technique performed by the user with this Footwork is greatly increased
+The Internal Penetration of the leg technique performed by the user with this Footwork is greatly increased
 HU·Step Alone A Thousand Mile
 Whenever you retreat 1 distance with this Footwork, the strength of your feet is restored.
 HU·Mysterious Armor
@@ -2749,7 +2749,7 @@ If the user's intelligence and perseverance are not less than 30, the user's ene
 HU·Taier\nImmeasurable Sword
 If the user's fortitude and aptitude are not less than 30, the attack range of this technique will be greatly increased and the user will receive 2 levels of this effect after this technique has become 10% more powerful: the attack range of all "sword techniques" performed by the user will be increased.
 HU·Sword Intent\nof PureSoul
-If the user's calmness, intelligence, and aptitude are not less than 20, the user's broken qi is greatly increased, and the user gains 2 levels of this effect after this technique has become 10% more powerful: the broken qi of all "sword techniques" the user performs is increased.
+If the user's calmness, intelligence, and aptitude are not less than 20, the user's Internal Penetration is greatly increased, and the user gains 2 levels of this effect after this technique has become 10% more powerful: the Internal Penetration of all "sword techniques" the user performs is increased.
 HU·Swordsmanship\nof SuperbCore
 If the user's Fortunate Fate is not less than 40, the power of this technique will be greatly increased, and after this technique has become 10% more powerful, the user will receive 2 levels of this effect: the power of all "sword techniques" performed by the user will be increased.
 HU·Blade of General
@@ -3111,7 +3111,7 @@ HU·68 Moves of\nArhat Fist
 This technique can be performed while the user is exercising the "Aegis" technique; depending on the percentage of power exerted by this technique, the duration of the enemy's "Aegis" technique will be greatly depleted.
 HU·The Great Vajra\nFist
 External Penetration to Internal Penetration
-When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's External Penetration will be transferred to broken qi; when this technique is 10% powerful, 10 points of the user's Strength will be consumed, and a gain status of increased broken qi and a reduced benefit status of decreased External Penetration will be applied to the user
+When attacking an enemy with this technique, if the user's Strength is higher than the enemy's, a portion of the user's External Penetration will be transferred to Internal Penetration; when this technique is 10% powerful, 10 points of the user's Strength will be consumed, and a gain status of increased Internal Penetration and a reduced benefit status of decreased External Penetration will be applied to the user
 HU·18 Hands of\nDharma
 Increase your own Int. Pen.
 When you start to perform this technique, the power of this technique will increase if the user's Internal Defense is higher than the user's Internal Penetration; when you attack the enemy with this technique, the user's Internal Penetration will additionally be added to the user's Internal Defense
