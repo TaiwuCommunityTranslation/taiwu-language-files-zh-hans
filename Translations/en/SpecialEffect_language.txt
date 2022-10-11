@@ -946,7 +946,7 @@ When this technique exerts at least 10% of its power, the user gains 2 points of
 Flying Sword
 Wounds inflicted by this technique on the enemy's head and neck will change to older wounds that are more difficult to recover from
 Swordsmanship\nof Open-Close
-If the user's Diversion, Parry, Evasion, or guarding the heart is not lower than the enemy's, the enemy will be given a reduced benefit status that reduces the corresponding hitting attribute according to the percentage of power played by this technique.
+If the user's Diversion, Parry, Evasion, or Focus is not lower than the enemy's, the enemy will be given a reduced benefit status that reduces the corresponding hitting attribute according to the percentage of power played by this technique.
 Swordsmanship\nof Water Beetle
 E·Resolves Dn
 After this technique has been used for 10% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's Diversion, Parry, Evasion, and Breath guarding cannot be higher than the user's force, Finesse, Swiftness, and Breath moving.
