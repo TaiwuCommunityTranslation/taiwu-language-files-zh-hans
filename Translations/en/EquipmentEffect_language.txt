@@ -106,3 +106,5 @@ Collectible
 The popularity of this equipment is increased by 75%, and its value is reduced by 75%.
 Made by Adoptive Father
 The durability of this weapon is increased by 100%.
+试炼
+此兵器的耐久降低50%，使用需求提高100%。
