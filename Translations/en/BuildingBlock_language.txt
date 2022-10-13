@@ -33,7 +33,7 @@ A region rich in meat and fur with a diverse ecological environment. Many kinds 
 The Wild Habitat has a chance to grow and expand in the second month of each year. Growth chance is increased with the "Pasture" resource building. Provides "Gemcutting" materials. Provides "Cooking" and "Weaving" materials.
 Lava Pond
 Craters filled with lava and volcanic flame are scattered throughout the area. The heat is so intense that geothermal flame often falls to the ground and burns for three days without going out. The area is filled with high quality gold and silver ore.
-The Lava Pond has a chance to grow in the seventh month of each year, but does not expand naturally. Growth chance is increased with the "Steel Cableway" resource building. Provides "Smithing" materials.
+火池在每年的申月依赖琉璃索有机率增长。
 Meteor Crater
 The crater formed by a falling meteorite. It is scattered with special meteor-forged iron that only true forging masters are able to work with.
 The Meteor Crater has a chance to grow in the tenth month of each year, but does not expand naturally. Growth chance is increased with the "Fire-Setting" resource building. Provides "Smithing" materials.
@@ -444,7 +444,7 @@ This klin is designed so that it can dry up wood while keeping them cool. Wood t
 An extension building built next to the "woodworking room" using "silver bone cold bituminous coal" as the core material. \This will enable the adjacent "woodworking room" to produce better quality wooden tools.
 Sacred Woods
 This is a diagram created by morphing the roots of sacred trees. As long as it grows from the ground,  when put inside the diagram,  all its properties will be magnified for all to be seen.
-The extension building is built next to the "woodworking room" with "sacred wood roots" as the core material, and must be adjacent to the "lonely peak". \This building will reduce the requirement for "woodworking" skills in the manufacture, repair and refinement of wooden instruments.
+以「神木根」为心材，建造在「木工房」旁边的扩展建筑，需与「太始林」相临。\n可降低制造、修理、精制木质器具时对「制木」造诣的要求。
 Herbal Room
 Various medicinal materials are prepared by rolling,  frying,  concentrating,  etc.,  and are made into healing cream,  potions and pills.
 Can make elixirs. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying books on "medical arts". \nThe larger the size of the dispensary, the more the efficiency is increased, but the effects of multiple dispensaries do not stack.
