@@ -141,17 +141,17 @@ Search Dragonfish
 Search Amethyst bamboo
 此地风水失常，地乏灵气，屡屡有地动之灾，因此少有人敢靠近……\n<color=#darkgrey>（本奇遇需要用到金银材料……）</color>
 Search Obsidian sandalwood
-此地本有一片树林，如今，林中生了异变，于是大雾弥漫，人难以辨清其中究竟……\n<color=#darkgrey>（本奇遇需要用到金铁材料……）</color>
+此地本有一片树林，如今，林中生了异变，于是大雾弥漫，人难以辨清其中究竟……\n<color=#darkgrey>（本奇遇需要用到铁质材料……）</color>
 Search Gold essence
-听闻天灾过后，此地便出现了一座洞穴，其中虽然狭窄逼仄，碎石不绝，但灵光隐隐，似乎藏着什么罕见的金银……\n<color=#darkgrey>（本奇遇需要用到玉石材料……）</color>
+听闻天灾过后，此地便出现了一座洞穴，其中虽然狭窄逼仄，碎石不绝，但灵光隐隐，似乎藏着什么罕见的金银……\n<color=#darkgrey>（本奇遇需要用到玉质材料……）</color>
 Search Mythic iron
-有火流星自天边坠落，落于此地，形成一方巨铁之山，其周边绵延着数十里的火海……\n<color=#darkgrey>（本奇遇需要用到宝石材料……）</color>
+有火流星自天边坠落，落于此地，形成一方巨铁之山，其周边绵延着数十里的火海……\n<color=#darkgrey>（本奇遇需要用到石质材料……）</color>
 Search KunLun jade
-相传天灾之后，此地突显异象，众星相聚，光耀烁烁……\n<color=#darkgrey>（本奇遇需要用到丝线织物……）</color>
+相传天灾之后，此地突显异象，众星相聚，光耀烁烁……\n<color=#darkgrey>（本奇遇需要用到植物织物……）</color>
 Search Heavenly jade
 天灾过后，此地的石块变得光泽透明，仿佛有莹辉照耀，仿佛是因有异宝出世之故……\n<color=#darkgrey>（本奇遇需要用到毛皮织物……）</color>
 Search Mythic Cicadaskin
-传说天灾过后，此地的树林中突然有诸般奇珍异兽出没，更有人曾在此见到金色的鸣蝉……\n<color=#darkgrey>（本奇遇需要用到树木材料……）</color>
+传说天灾过后，此地的树林中突然有诸般奇珍异兽出没，更有人曾在此见到金色的鸣蝉……\n<color=#darkgrey>（本奇遇需要用到木质材料……）</color>
 Search Sky-silkworm silk
 天灾过后，此地突然出现了大片高耸入云的桑树，诸多蚁蚕出没于其间，不知传说中的天蚕是否就在此处……\n<color=#darkgrey>（本奇遇需要用到竹藤材料……）</color>
 祸福相依
