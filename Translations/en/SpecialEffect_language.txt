@@ -1192,7 +1192,7 @@ Red Insanity
 Plant Pre Gu
 Reduced attack hit
 When this technique is at its tenth power, it will plant the Red Eye Gu on the enemy; the Red Eye Gu will make the host's chance of hitting the enemy greatly reduced; the Red Eye Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
-Geist Insanity
+Chi Demon Gu Insanity
 Adding a disorientation marker
 When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Black Blood\nInsanity
@@ -2824,7 +2824,7 @@ HU·Red Insanity
 Plant Pre Gu
 Increase attack hit
 When this technique is at its tenth power, it will plant a red-eyed Gu on the user; the red-eyed Gu will increase the host's chance of hitting the enemy significantly; the red-eyed Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise, this Gu will die
-HU·Geist Insanity
+HU·Chi Demon Gu Insanity
 When this technique is 10% powerful, it will plant a Chi Mimic Gu on the user; the Chi Mimic Gu will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 HU·Black Blood\nInsanity
 Improving the effectiveness of treatment
