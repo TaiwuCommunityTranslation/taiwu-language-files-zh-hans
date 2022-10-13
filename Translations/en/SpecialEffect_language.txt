@@ -2398,7 +2398,7 @@ HU·Skyscraper Climbing
 Increase your own dissolution
 When the enemy attacks the user during the duration of this Footwork, the user's defeats, except for the heart guard, will add an additional portion of the user's heart guard.
 HU·Farewell Steps
-For every 3 successful hits on the enemy during the duration of this Footwork, the user will apply 1 mark of disorientation to the enemy
+For every 3 successful hits on the enemy during the duration of this Footwork, the user will apply 1 Breath injury to the enemy
 HU·Afterglow Catching
 During the duration of this Footwork, the enemy's casting speed is significantly reduced
 HU·Rushes To The Moon
@@ -2572,7 +2572,7 @@ HU·Emotions
 Lowering the enemy's guarded heart
 After this technique has exerted at least 10% of its power, the user gains 8 levels of this effect: the fewer the remaining levels of this effect, the more the enemy's guard heart will be reduced when the user attacks the enemy.
 HU·Crystal Tune
-When you start to perform this technique, if the enemy does not have a mark of disorientation, the power of this technique will be greatly increased; when this technique is at 10% power, 1 mark of disorientation will be added to the enemy, and if the enemy does not have a mark of disorientation, 1 additional mark of disorientation will be added to the enemy
+When you start to perform this technique, if the enemy does not have a Breath injury, the power of this technique will be greatly increased; when this technique is at 10% power, 1 Breath injury will be added to the enemy, and if the enemy does not have a Breath injury, 1 additional Breath injury will be added to the enemy
 HU·Heart-Breaking
 Reduce your mood
 At the beginning of this technique, the more painful the user's mood is, the more the power of this technique increases; when this technique exerts ten percent of its power, it randomly worsens the enemy's injury according to the user's painful mood; at the end of this technique, a special state that reduces the user's mood is applied according to the number of percent of power exerted by this technique
@@ -2825,7 +2825,7 @@ Plant Pre Gu
 Increase attack hit
 When this technique is at its tenth power, it will plant a red-eyed compulsion on the user; the red-eyed compulsion will increase the host's chance of hitting the enemy significantly; the red-eyed compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise, this Gu will die
 HU·Geist Insanity
-When this technique is 10% powerful, it will plant a Chi Mimic compulsion on the user; the Chi Mimic compulsion will add a mark of disorientation to the enemy when the host's toxicity strikes; the Chi Mimic compulsion needs to consume 2 compulsions from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is 10% powerful, it will plant a Chi Mimic compulsion on the user; the Chi Mimic compulsion will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic compulsion needs to consume 2 compulsions from the host or the opponent after each attack, otherwise this Gu will die
 HU·Black Blood\nInsanity
 Improving the effectiveness of treatment
 When this technique is at 10% of its power, the Black Blood Compulsion is planted on the user; the Black Blood Compulsion will greatly increase the host's "healing" and "poison repelling" effects in battle; the Black Blood Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise this Gu will die
@@ -3711,8 +3711,8 @@ fox hunting
 During the process of exercising this power, Yihou can move; when he starts to exercise this power, if the enemy has a character who loves or hates each other, Yihou adds 3 "no" forms to the enemy; when this power is 10% powerful, Yihou adds 3 "no" forms to the enemy
 When this power is exercised, the user can move; if the enemy has a character who loves or hates each other at the beginning of the power, the user adds 3 "None" to the enemy; when this power is 10% powerful, the user adds 3 "None" to the enemy
 the waning fox cries
-If the enemy is within the range of Yi Yi Hou's attack while this power is being applied: Continuously add a mark of disorientation to the enemy; Continuously reduce the enemy's style
-If the enemy is within the attack range of the user during the application of this power: Continuously add a mark of disorientation to the enemy; Continuously reduce the enemy's style
+If the enemy is within the range of Yi Yi Hou's attack while this power is being applied: Continuously add a Breath injury to the enemy; Continuously reduce the enemy's style
+If the enemy is within the attack range of the user during the application of this power: Continuously add a Breath injury to the enemy; Continuously reduce the enemy's style
 Four Elephant Blood and Fire Technique
 When this power is used at 10% of its power, the damage that Yi Yi Hou inflicts on the enemy will be applied to 2 parts of the enemy at the same time.
 return to the foxes
@@ -3887,6 +3887,6 @@ When Blood Maple, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and D
 Nine Swords - Ghost God Xia
 Technique formula - solution
 Art side - robbery
-This divine power cannot be blocked or interrupted; the attack range of this divine power is always the maximum; during the execution of this divine power, Yenthenko can move and attack; there is no upper limit to the mark of disorientation caused by this divine power; at the end of the execution of this divine power, if the enemy is not defeated, Yenthenko will be defeated in battle
+This divine power cannot be blocked or interrupted; the attack range of this divine power is always the maximum; during the execution of this divine power, Yenthenko can move and attack; there is no upper limit to the Breath injury caused by this divine power; at the end of the execution of this divine power, if the enemy is not defeated, Yenthenko will be defeated in battle
 When the art party completes the chapter of the solution, the time to perform the divine power is reduced by 50% when Dye Dusty starts to perform this divine power.
 When the art party completes the chapter of robbery and the dyed-in-the-wool son starts to cast this divine power, the casting time of the divine power is increased by 50%
