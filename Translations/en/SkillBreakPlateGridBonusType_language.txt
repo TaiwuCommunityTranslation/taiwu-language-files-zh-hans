@@ -2,14 +2,14 @@ MIG
 FIN
 SWI
 HEA
-Phy.P
-Qi.P
+Ext. Pen.
+Int. Pen.
 DIV
 PAR
 EVA
 FOC
-PhD
-QiD
+Ext. Def.
+Int. Def.
 Stance
 Inhale
 移速
