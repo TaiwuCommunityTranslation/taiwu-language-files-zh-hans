@@ -1191,13 +1191,13 @@ When this technique is at least 10% powerful, the more external injury on the at
 Red Insanity
 Plant Pre Gu
 Reduced attack hit
-When this technique is at its tenth power, it will plant the Red Eye Compulsion on the enemy; the Red Eye Compulsion will make the host's chance of hitting the enemy greatly reduced; the Red Eye Compulsion needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at its tenth power, it will plant the Red Eye Gu on the enemy; the Red Eye Gu will make the host's chance of hitting the enemy greatly reduced; the Red Eye Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Geist Insanity
 Adding a disorientation marker
 When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Black Blood\nInsanity
 Reduced treatment effect
-When this technique is at 10% of its power, it will plant the Black Blood Compulsion on the enemy; the Black Blood Compulsion will significantly reduce the host's "healing" and "poison repelling" effects in battle; after each attack, the Black Blood Compulsion needs to consume 3 Gu from the host or the opponent, otherwise this Gu will die
+When this technique is at 10% of its power, it will plant the Black Blood Gu on the enemy; the Black Blood Gu will significantly reduce the host's "healing" and "poison repelling" effects in battle; after each attack, the Black Blood Gu needs to consume 3 Gu from the host or the opponent, otherwise this Gu will die
 Internal Demon\nInsanity
 Additional loss of true qi
 When this technique exerts ten percent of its power, it will plant a heart demon Gu for the enemy; the heart demon Gu will reduce the host's true qi by 1 point when the host's true qi decreases, and will cause the opponent to obtain the Gu according to the host's original reduced true qi amount
@@ -1210,7 +1210,7 @@ King Golden\nSilkworm Insanity
 Swallow Gu
 When this technique is at its tenth power, it will plant the Golden Silkworm Gu for the enemy; the Golden Silkworm Gu will devour all the other Gu just planted by the host, and apply a lot of toxins to the host according to the Gu devoured; the Golden Silkworm Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 A Hundred\nColors Marrow Insanity
-When this technique is 10% powerful, the enemy will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will reduce the power of the technique performed by the host according to the number of Gu of the host and the opponent; the Green Marrow Compulsion needs to consume 4 Gu of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is 10% powerful, the enemy will be planted with the Green Marrow Gu; the Green Marrow Gu will reduce the power of the technique performed by the host according to the number of Gu of the host and the opponent; the Green Marrow Gu needs to consume 4 Gu of the host or the opponent after each attack, otherwise this Gu will die
 Swordsmanship\nof Green Beard
 When this technique is at least 10% of its power, the user takes away 1 "tug" from the enemy.
 Swordsmanship\nof Billhook
@@ -2828,7 +2828,7 @@ HU·Geist Insanity
 When this technique is 10% powerful, it will plant a Chi Mimic Gu on the user; the Chi Mimic Gu will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 HU·Black Blood\nInsanity
 Improving the effectiveness of treatment
-When this technique is at 10% of its power, the Black Blood Compulsion is planted on the user; the Black Blood Compulsion will greatly increase the host's "healing" and "poison repelling" effects in battle; the Black Blood Compulsion needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at 10% of its power, the Black Blood Gu is planted on the user; the Black Blood Gu will greatly increase the host's "healing" and "poison repelling" effects in battle; the Black Blood Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
 HU·Internal Demon\nInsanity
 Additional increase of true qi
 When this technique exerts ten percent of its power, it will plant a Gu for the user; the Gu will increase the host's true qi by one point when the host's true qi increases, and will cause the host to obtain a Gu according to the host's original increased true qi amount
@@ -2840,7 +2840,7 @@ When this technique is used at 10% of its power, it will plant an ice worm Gu on
 HU·King Golden\nSilkworm Insanity
 When this technique is at its tenth power, it will plant the Golden Silkworms Gu for the user; the Golden Silkworms Gu will devour all the other Gu just planted by the host, and dispel a lot of toxins for the host according to the Gu devoured; the Golden Silkworms Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 HU·A Hundred\nColors Marrow Insanity
-When this technique is 10% powerful, the user will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will increase the power of the technique performed by the host according to the number of Gu of the host and the opponent; the Green Marrow Compulsion needs to consume 4 Gu of the host or the opponent after each attack, otherwise, this Gu will die.
+When this technique is 10% powerful, the user will be planted with the Green Marrow Gu; the Green Marrow Gu will increase the power of the technique performed by the host according to the number of Gu of the host and the opponent; the Green Marrow Gu needs to consume 4 Gu of the host or the opponent after each attack, otherwise, this Gu will die.
 HU·Swordsmanship\nof Green Beard
 When this technique is at least 10% of the power, the user gains 2 levels of this effect: the enemy cannot obtain the "tease" style.
 HU·Swordsmanship\nof Billhook
