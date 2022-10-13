@@ -463,7 +463,7 @@ True qi offset marker
 When defending with this technique, every 3 points of "Aegis" of the user's true qi can eliminate 1 injury mark caused by the enemy to the user
 Lost Worm Incense
 Obtaining a Gu to cast a Gu
-Whenever an enemy's toxicity kicks in, the user gains a number of compulsions equal to the number of markers for the onset of toxicity
+Whenever an enemy's toxicity kicks in, the user gains a number of Gu equal to the number of markers for the onset of toxicity
 Disgusting Miasma
 Increases internal rest disorders
 When defending with this technique, if the distance between the enemy and the user is not greater than 7, it continuously increases the enemy's internal breath disorder
@@ -472,7 +472,7 @@ The more poison marks on the enemy, the more direct damage the user deals to the
 Insanity Spell
 Freedom from the seeds of the parasite
 Reduction of enemy's Gu
-When defending with this technique: the user will not be planted with compulsions; whenever the user successfully counters an enemy's weapon attack, the enemy's compulsions will be reduced
+When defending with this technique: the user will not be planted with Gu; whenever the user successfully counters an enemy's weapon attack, the enemy's Gu will be reduced
 Blood Dolls
 E·ExtPen DN
 Transfer of injuries sustained
@@ -1187,30 +1187,30 @@ The rotten poison applied to the enemy by this technique will change into a more
 Soul Peeling\nHands
 When attacking an enemy with this technique, the deeper the enemy is poisoned with phantom poison, the more layers the degree of injury caused by this technique to the enemy's direct damage increases; the direct damage caused by this technique to the enemy's existing wounded parts will not be reduced for any reason
 Snake Insanity\nHands
-When this technique is at least 10% powerful, the more external injury on the attacked part of the enemy, the more compulsions the user can obtain.
+When this technique is at least 10% powerful, the more external injury on the attacked part of the enemy, the more Gu the user can obtain.
 Red Insanity
 Plant Pre Gu
 Reduced attack hit
-When this technique is at its tenth power, it will plant the Red Eye Compulsion on the enemy; the Red Eye Compulsion will make the host's chance of hitting the enemy greatly reduced; the Red Eye Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at its tenth power, it will plant the Red Eye Compulsion on the enemy; the Red Eye Compulsion will make the host's chance of hitting the enemy greatly reduced; the Red Eye Compulsion needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Geist Insanity
 Adding a disorientation marker
-When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 compulsions from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Black Blood\nInsanity
 Reduced treatment effect
-When this technique is at 10% of its power, it will plant the Black Blood Compulsion on the enemy; the Black Blood Compulsion will significantly reduce the host's "healing" and "poison repelling" effects in battle; after each attack, the Black Blood Compulsion needs to consume 3 compulsions from the host or the opponent, otherwise this Gu will die
+When this technique is at 10% of its power, it will plant the Black Blood Compulsion on the enemy; the Black Blood Compulsion will significantly reduce the host's "healing" and "poison repelling" effects in battle; after each attack, the Black Blood Compulsion needs to consume 3 Gu from the host or the opponent, otherwise this Gu will die
 Internal Demon\nInsanity
 Additional loss of true qi
 When this technique exerts ten percent of its power, it will plant a heart demon Gu for the enemy; the heart demon Gu will reduce the host's true qi by 1 point when the host's true qi decreases, and will cause the opponent to obtain the Gu according to the host's original reduced true qi amount
 9 Yin Zombie\nInsanity
 Worsening of random wounds
-When this technique is at 10% of its power, it plants a corpse Gu for the enemy; the corpse Gu will worsen the degree of injury of 1 other random wound of the host by 1 level after the host is directly injured; the corpse Gu needs to consume 7 compulsions of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at 10% of its power, it plants a corpse Gu for the enemy; the corpse Gu will worsen the degree of injury of 1 other random wound of the host by 1 level after the host is directly injured; the corpse Gu needs to consume 7 Gu of the host or the opponent after each attack, otherwise this Gu will die
 Jade Ice\nSilkworm Insanity
-When this technique exerts ten percent of its power, it will plant an ice worm Gu for the enemy; the ice worm Gu will increase the degree of injury of the host from direct damage by 2 layers; the ice worm Gu will require 4 compulsions of the host or the opponent to be consumed after each attack, otherwise this Gu will die
+When this technique exerts ten percent of its power, it will plant an ice worm Gu for the enemy; the ice worm Gu will increase the degree of injury of the host from direct damage by 2 layers; the ice worm Gu will require 4 Gu of the host or the opponent to be consumed after each attack, otherwise this Gu will die
 King Golden\nSilkworm Insanity
 Swallow Gu
-When this technique is at its tenth power, it will plant the Golden Silkworm Gu for the enemy; the Golden Silkworm Gu will devour all the other compulsions just planted by the host, and apply a lot of toxins to the host according to the compulsions devoured; the Golden Silkworm Gu needs to consume 8 compulsions of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at its tenth power, it will plant the Golden Silkworm Gu for the enemy; the Golden Silkworm Gu will devour all the other Gu just planted by the host, and apply a lot of toxins to the host according to the Gu devoured; the Golden Silkworm Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 A Hundred\nColors Marrow Insanity
-When this technique is 10% powerful, the enemy will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will reduce the power of the technique performed by the host according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is 10% powerful, the enemy will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will reduce the power of the technique performed by the host according to the number of Gu of the host and the opponent; the Green Marrow Compulsion needs to consume 4 Gu of the host or the opponent after each attack, otherwise this Gu will die
 Swordsmanship\nof Green Beard
 When this technique is at least 10% of its power, the user takes away 1 "tug" from the enemy.
 Swordsmanship\nof Billhook
@@ -2222,13 +2222,13 @@ As long as the sum of all types of true qi of the enemy is higher than the sum o
 HU·Buddha Body
 When defending with this technique, every 3 points of the user's "Break" true qi can remove 1 non-injury marker caused by the enemy to the user
 HU·Lost Worm Incense
-Whenever toxicity strikes the user, the user receives a number of compulsions equal to the marker of the onset of toxin
+Whenever toxicity strikes the user, the user receives a number of Gu equal to the marker of the onset of toxin
 HU·Disgusting Miasma
 When defending with this technique, if the distance between the enemy and the user is not less than 7, it continuously increases the enemy's internal breath disorder
 HU·Ruby 9 Worms
 The more poison markers the user has, the more direct damage the user deals to the enemy.
 HU·Insanity Spell
-When defending with this technique: the user will not be planted with compulsions; whenever the user successfully counters an enemy's weapon attack, the user's compulsions will increase
+When defending with this technique: the user will not be planted with Gu; whenever the user successfully counters an enemy's weapon attack, the user's Gu will increase
 HU·Blood Dolls
 E·Int.Pen. DN
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user applies a special status of Blood Puppet Break and a reduced benefit status of enemy's Int. Pen. to the enemy, causing the enemy to suffer the next direct internal injury the user receives for the user.
@@ -2819,28 +2819,28 @@ This technique increases the amount of poison applied to the enemy, but has a lo
 HU·Soul Peeling\nHands
 When attacking an enemy with this technique, the deeper the illusionary poison the user is struck by, the more layers of injury this technique will cause to the enemy in terms of direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 HU·Snake Insanity\nHands
-When this technique is at least 10% powerful, the more internal injury marks on the attacked part of the enemy, the more compulsions the user can obtain.
+When this technique is at least 10% powerful, the more internal injury marks on the attacked part of the enemy, the more Gu the user can obtain.
 HU·Red Insanity
 Plant Pre Gu
 Increase attack hit
-When this technique is at its tenth power, it will plant a red-eyed Gu on the user; the red-eyed Gu will increase the host's chance of hitting the enemy significantly; the red-eyed Gu needs to consume 3 compulsions from the host or the opponent after each attack, otherwise, this Gu will die
+When this technique is at its tenth power, it will plant a red-eyed Gu on the user; the red-eyed Gu will increase the host's chance of hitting the enemy significantly; the red-eyed Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise, this Gu will die
 HU·Geist Insanity
-When this technique is 10% powerful, it will plant a Chi Mimic Gu on the user; the Chi Mimic Gu will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic Gu needs to consume 2 compulsions from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is 10% powerful, it will plant a Chi Mimic Gu on the user; the Chi Mimic Gu will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 HU·Black Blood\nInsanity
 Improving the effectiveness of treatment
-When this technique is at 10% of its power, the Black Blood Compulsion is planted on the user; the Black Blood Compulsion will greatly increase the host's "healing" and "poison repelling" effects in battle; the Black Blood Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at 10% of its power, the Black Blood Compulsion is planted on the user; the Black Blood Compulsion will greatly increase the host's "healing" and "poison repelling" effects in battle; the Black Blood Compulsion needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
 HU·Internal Demon\nInsanity
 Additional increase of true qi
 When this technique exerts ten percent of its power, it will plant a Gu for the user; the Gu will increase the host's true qi by one point when the host's true qi increases, and will cause the host to obtain a Gu according to the host's original increased true qi amount
 HU·9 Yin Zombie\nInsanity
 Elimination of random wounds
-When this technique is 10% powerful, it plants a Gu for the user; the Gu will reduce the degree of injury of 1 other random wound of the host by 2 levels after the host is directly injured; the Gu needs to consume 7 compulsions of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is 10% powerful, it plants a Gu for the user; the Gu will reduce the degree of injury of 1 other random wound of the host by 2 levels after the host is directly injured; the Gu needs to consume 7 Gu of the host or the opponent after each attack, otherwise this Gu will die
 HU·Jade Ice\nSilkworm Insanity
-When this technique is used at 10% of its power, it will plant an ice worm Gu on the user; the ice worm Gu will reduce the degree of direct damage to the host by 2 levels; the ice worm Gu will require 4 compulsions from the host or the opponent to be consumed after each attack, otherwise this Gu will die
+When this technique is used at 10% of its power, it will plant an ice worm Gu on the user; the ice worm Gu will reduce the degree of direct damage to the host by 2 levels; the ice worm Gu will require 4 Gu from the host or the opponent to be consumed after each attack, otherwise this Gu will die
 HU·King Golden\nSilkworm Insanity
-When this technique is at its tenth power, it will plant the Golden Silkworms Gu for the user; the Golden Silkworms Gu will devour all the other compulsions just planted by the host, and dispel a lot of toxins for the host according to the compulsions devoured; the Golden Silkworms Gu needs to consume 8 compulsions of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at its tenth power, it will plant the Golden Silkworms Gu for the user; the Golden Silkworms Gu will devour all the other Gu just planted by the host, and dispel a lot of toxins for the host according to the Gu devoured; the Golden Silkworms Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 HU·A Hundred\nColors Marrow Insanity
-When this technique is 10% powerful, the user will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will increase the power of the technique performed by the host according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise, this Gu will die.
+When this technique is 10% powerful, the user will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will increase the power of the technique performed by the host according to the number of Gu of the host and the opponent; the Green Marrow Compulsion needs to consume 4 Gu of the host or the opponent after each attack, otherwise, this Gu will die.
 HU·Swordsmanship\nof Green Beard
 When this technique is at least 10% of the power, the user gains 2 levels of this effect: the enemy cannot obtain the "tease" style.
 HU·Swordsmanship\nof Billhook
