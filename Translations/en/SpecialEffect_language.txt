@@ -1191,7 +1191,7 @@ When this technique is at least 10% powerful, the more external injury on the at
 Red Insanity
 Plant Pre Gu
 Reduced attack hit
-When this technique is at its tenth power, it will plant the Red Eye Compulsion on the enemy; the Red Eye Compulsion will make the host's chance of hitting the enemy greatly reduced; the Red Eye Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise it will die
+When this technique is at its tenth power, it will plant the Red Eye Compulsion on the enemy; the Red Eye Compulsion will make the host's chance of hitting the enemy greatly reduced; the Red Eye Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise this Gu will die
 Geist Insanity
 Adding a disorientation marker
 When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo compulsion on the enemy; the Chi-Mei-Ruo compulsion will add a mark of disorientation to the host when the host's toxicity strikes; the Chi-Mei-Ruo compulsion needs to consume 2 compulsions from the host or the opponent after each attack, otherwise this Gu will die
@@ -1208,7 +1208,7 @@ Jade Ice\nSilkworm Insanity
 When this technique exerts ten percent of its power, it will plant an ice worm compulsion for the enemy; the ice worm compulsion will increase the degree of injury of the host from direct damage by 2 layers; the ice worm compulsion will require 4 compulsions of the host or the opponent to be consumed after each attack, otherwise this Gu will die
 King Golden\nSilkworm Insanity
 Swallow Gu
-When this technique is at its tenth power, it will plant the Golden Silkworm compulsion for the enemy; the Golden Silkworm compulsion will devour all the other compulsions just planted by the host, and apply a lot of toxins to the host according to the compulsions devoured; the Golden Silkworm compulsion needs to consume 8 compulsions of the host or the opponent after each attack, otherwise it will die
+When this technique is at its tenth power, it will plant the Golden Silkworm compulsion for the enemy; the Golden Silkworm compulsion will devour all the other compulsions just planted by the host, and apply a lot of toxins to the host according to the compulsions devoured; the Golden Silkworm compulsion needs to consume 8 compulsions of the host or the opponent after each attack, otherwise this Gu will die
 A Hundred\nColors Marrow Insanity
 When this technique is 10% powerful, the enemy will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will reduce the power of the technique performed by the host according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise this Gu will die
 Swordsmanship\nof Green Beard
@@ -2838,7 +2838,7 @@ When this technique is 10% powerful, it plants a compulsion for the user; the co
 HU·Jade Ice\nSilkworm Insanity
 When this technique is used at 10% of its power, it will plant an ice worm compulsion on the user; the ice worm compulsion will reduce the degree of direct damage to the host by 2 levels; the ice worm compulsion will require 4 compulsions from the host or the opponent to be consumed after each attack, otherwise this Gu will die
 HU·King Golden\nSilkworm Insanity
-When this technique is at its tenth power, it will plant the Golden Silkworms compulsion for the user; the Golden Silkworms compulsion will devour all the other compulsions just planted by the host, and dispel a lot of toxins for the host according to the compulsions devoured; the Golden Silkworms compulsion needs to consume 8 compulsions of the host or the opponent after each attack, otherwise it will die
+When this technique is at its tenth power, it will plant the Golden Silkworms compulsion for the user; the Golden Silkworms compulsion will devour all the other compulsions just planted by the host, and dispel a lot of toxins for the host according to the compulsions devoured; the Golden Silkworms compulsion needs to consume 8 compulsions of the host or the opponent after each attack, otherwise this Gu will die
 HU·A Hundred\nColors Marrow Insanity
 When this technique is 10% powerful, the user will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will increase the power of the technique performed by the host according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise, the user will die
 HU·Swordsmanship\nof Green Beard
