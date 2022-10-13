@@ -2280,7 +2280,7 @@ When defending with this technique: all direct internal injuries suffered by the
 HU·Chaos Qi
 The more disturbed the user's internal breath is, the higher the direct internal injury caused by the user to the enemy
 HU·Ghost Cry
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be compared with the enemy's calmness, intelligence, enthusiasm, bravery, and perseverance in that order, and for each enemy's ability that is higher than the user's ability, the user will have a lower chance of applying a disorientation mark to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be compared with the enemy's calmness, intelligence, enthusiasm, bravery, and perseverance in that order, and for each enemy's ability that is higher than the user's ability, the user will have a lower chance of applying a Breath injury mark to the enemy.
 HU·Blood Meal
 Whenever the user inflicts 2 internal damage markers at once in the form of direct damage to an enemy, it randomly removes 1 internal damage marker from the user itself
 HU·The Great Spell of Soul Exchange
@@ -2583,7 +2583,7 @@ When you start to perform this technique, if the user has a deceased spouse, the
 HU·3 Nights of Joy
 When you start to perform this technique: the user's heartbeat adds an extra part of the user's charm; if the enemy is female, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
 HU·Song of\nThe Moon
-When you start to perform this technique, if the user does not have a partner to help you, the power of this technique will be greatly increased; when this technique is used at 10% of its power, it will add 3 marks of disorientation to the enemy
+When you start to perform this technique, if the user does not have a partner to help you, the power of this technique will be greatly increased; when this technique is used at 10% of its power, it will add 3 marks of Breath injury to the enemy
 HU·Love Poem
 When you start to perform this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
 HU·Celestial Music\nof Goddess
@@ -2628,7 +2628,7 @@ HU·Hook Clamp
 Breakage increases internal injuries
 When this technique is used at ten percent of its power, the enemy's attacked part of the breach will additionally increase the degree of direct internal injuries suffered by the enemy
 HU·5 Mantra\n5 Phases
-When attacking the enemy with this technique, the more the calmness, intelligence, enthusiasm, bravery and perseverance of the user is higher than that of the enemy, the more the enemy's resolution will be reduced; when this technique exerts ten percent of its power, if at least three of the calmness, intelligence, enthusiasm, bravery and perseverance of the user are higher than that of the enemy, 2 marks of disorientation will be applied to the enemy.
+When attacking the enemy with this technique, the more the calmness, intelligence, enthusiasm, bravery and perseverance of the user is higher than that of the enemy, the more the enemy's resolution will be reduced; when this technique exerts ten percent of its power, if at least three of the calmness, intelligence, enthusiasm, bravery and perseverance of the user are higher than that of the enemy, 2 marks of Breath injury will be applied to the enemy.
 HU·Pivot Move
 After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Break" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Break" technique whose power has been reduced fails to be used for 10% of its power.
 HU·Clutch Finger
@@ -3269,7 +3269,7 @@ HU·Flowers Sigh
 This technique removes one of the enemy's gain states of the highest strength when it is used at ten percent of its power, and removes a large number of disorientation marks for the user depending on the strength of the gain state removed.
 HU·Burydeer Orchid
 Elimination of dyscalculia markers
-When you start to perform this technique, the more markers of disorientation the user receives, the more the power of this technique will increase; when this technique reaches 10% of its power, 2 markers of disorientation will be removed for the user
+When you start to perform this technique, the more markers of Breath injury the user receives, the more the power of this technique will increase; when this technique reaches 10% of its power, 2 markers of Breath injury will be removed for the user
 HU·The World\nAmused
 When this technique exerts 10% of its power, it randomly and significantly reduces the power of 1 "Break" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
 HU·Wudang\nLong Fist
@@ -3881,9 +3881,9 @@ Six - Seven - Eight Swords
 Transferring the Disorientation Marker
 Greed, Anger and Dementia - Solution
 Greed, Anger and Dementia - Robbery
-When you start to perform this power, the more markers of disorientation you have, the more the power of this power will increase; when this power is at 10% of its power, you will transfer up to 6 markers of disorientation to your enemy.
-When Blood Maple, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Dye Dusty starts to perform this divine power, the enemy removes 2 markers of disorientation
-When Blood Maple, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Dye Dusty begins to perform this divine power, the enemy gains 2 markers of disorientation
+When you start to perform this power, the more markers of Breath injury you have, the more the power of this power will increase; when this power is at 10% of its power, you will transfer up to 6 markers of Breath injury to your enemy.
+When Blood Maple, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Dye Dusty starts to perform this divine power, the enemy removes 2 markers of Breath injury
+When Blood Maple, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Dye Dusty begins to perform this divine power, the enemy gains 2 markers of Breath injury
 Nine Swords - Ghost God Xia
 Technique formula - solution
 Art side - robbery
