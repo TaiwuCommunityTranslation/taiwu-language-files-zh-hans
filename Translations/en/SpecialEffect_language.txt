@@ -1201,9 +1201,9 @@ When this technique is at 10% of its power, it will plant the Premature Sinister
 Internal Demon\nDescent
 Additional loss of true qi
 When this technique exerts ten percent of its power, it will plant a heart demon Gu for the enemy; the heart demon Gu will reduce the host's true qi by 1 point when the host's true qi decreases, and will cause the opponent to obtain the Gu according to the host's original reduced true qi amount
-9 Yin Zombie\nInsanity
+9 Yin Zombie Gu
 Worsening of random wounds
-When this technique is at 10% of its power, it plants a corpse Gu for the enemy; the corpse Gu will worsen the degree of injury of 1 other random wound of the host by 1 level after the host is directly injured; the corpse Gu needs to consume 7 Gu of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at 10% of its power, it plants a Premature Zombie Gu for the enemy; Premature Zombie Gu will worsen the degree of injury of 1 different random injury of the host by 1 level after the host is directly injured; Premature Zombie Gu needs to consume 7 Gu of the host or the opponent after each attack, otherwise this Gu will die
 Jade Ice\nSilkworm Insanity
 When this technique exerts ten percent of its power, it will plant an ice worm Gu for the enemy; the ice worm Gu will increase the degree of injury of the host from direct damage by 2 layers; the ice worm Gu will require 4 Gu of the host or the opponent to be consumed after each attack, otherwise this Gu will die
 King Golden\nSilkworm Insanity
@@ -2832,9 +2832,9 @@ When this technique is at 10% of its power, the Premature Sinister Blood Gu is p
 HU·Internal Demon\nDescent
 Additional increase of true qi
 When this technique exerts ten percent of its power, it will plant a Gu for the user; the Gu will increase the host's true qi by one point when the host's true qi increases, and will cause the host to obtain a Gu according to the host's original increased true qi amount
-HU·9 Yin Zombie\nInsanity
+HU·9 Yin Zombie Gu
 Elimination of random wounds
-When this technique is 10% powerful, it plants a Gu for the user; the Gu will reduce the degree of injury of 1 other random wound of the host by 2 levels after the host is directly injured; the Gu needs to consume 7 Gu of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is 10% powerful, it plants Premature Zombie Gu to the user; Premature Zombie Gu will reduce the degree of injury of 1 different random injury of the host by 2 levels after the host is directly injured; Premature Zombie Gu needs to consume 7 Gu of the host or the opponent after each attack, otherwise this Gu will die
 HU·Jade Ice\nSilkworm Insanity
 When this technique is used at 10% of its power, it will plant an ice worm Gu on the user; the ice worm Gu will reduce the degree of direct damage to the host by 2 levels; the ice worm Gu will require 4 Gu from the host or the opponent to be consumed after each attack, otherwise this Gu will die
 HU·King Golden\nSilkworm Insanity
