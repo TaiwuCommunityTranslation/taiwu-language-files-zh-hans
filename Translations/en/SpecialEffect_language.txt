@@ -1194,7 +1194,7 @@ Reduced attack hit
 When this technique is at its tenth power, it will plant the Red Eye Compulsion on the enemy; the Red Eye Compulsion will make the host's chance of hitting the enemy greatly reduced; the Red Eye Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise this Gu will die
 Geist Insanity
 Adding a disorientation marker
-When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo compulsion on the enemy; the Chi-Mei-Ruo compulsion will add a mark of disorientation to the host when the host's toxicity strikes; the Chi-Mei-Ruo compulsion needs to consume 2 compulsions from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo compulsion on the enemy; the Chi-Mei-Ruo compulsion will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo compulsion needs to consume 2 compulsions from the host or the opponent after each attack, otherwise this Gu will die
 Black Blood\nInsanity
 Reduced treatment effect
 When this technique is at 10% of its power, it will plant the Black Blood Compulsion on the enemy; the Black Blood Compulsion will significantly reduce the host's "healing" and "poison repelling" effects in battle; after each attack, the Black Blood Compulsion needs to consume 3 compulsions from the host or the opponent, otherwise this Gu will die
@@ -2138,7 +2138,7 @@ When the distance between the user and the enemy is not less than 7, the further
 HU·Yinyang Eye
 Whenever the applicator starts to perform a feat, the more the enemy's performance speed is higher than the applicator's performance speed, the more the enemy's performance speed is reduced
 HU·The Great Dementor
-Freedom from the mark of disorientation
+Freedom from the Breath injury
 When defending with this technique: the user will not be marked with a loss of concentration; if the enemy can be marked with a loss of concentration, and the user's dynamic heart is higher than the enemy's guard heart, the loss of concentration mark applied to the user by the enemy will be applied to the enemy instead
 HU·Formation of 6 Men 6 Armor
 When a companion of the user's helper uses the "Battle" command, the time that he/she fights instead of the user increases significantly.
@@ -2153,7 +2153,7 @@ HU·Pure Virgin
 The higher the charisma of the user, the higher the compliance of the user.
 HU·Reclamation Stance
 Applying a mind marker
-When defending with this technique, whenever the user dodges an enemy's attack, the user applies 1 mark of disorientation to the enemy
+When defending with this technique, whenever the user dodges an enemy's attack, the user applies 1 Breath injury to the enemy
 HU·Dark Jade Practice
 Enemies suffer a significant increase in the duration of the Disorientation Mark
 HU·Formation of Scattered Flowers
