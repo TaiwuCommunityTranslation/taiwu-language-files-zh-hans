@@ -1195,10 +1195,10 @@ When this technique is at its tenth power, it will plant the Red Eye Gu on the e
 Chi Demon Gu Descent
 Adding a disorientation marker
 When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
-Black Blood\nInsanity
+Black Blood\nDescent
 Reduced treatment effect
 When this technique is at 10% of its power, it will plant the Black Blood Gu on the enemy; the Black Blood Gu will significantly reduce the host's "healing" and "poison repelling" effects in battle; after each attack, the Black Blood Gu needs to consume 3 Gu from the host or the opponent, otherwise this Gu will die
-Internal Demon\nInsanity
+Internal Demon\nDescent
 Additional loss of true qi
 When this technique exerts ten percent of its power, it will plant a heart demon Gu for the enemy; the heart demon Gu will reduce the host's true qi by 1 point when the host's true qi decreases, and will cause the opponent to obtain the Gu according to the host's original reduced true qi amount
 9 Yin Zombie\nInsanity
@@ -2826,10 +2826,10 @@ Increase attack hit
 When this technique is at its tenth power, it will plant a red-eyed Gu on the user; the red-eyed Gu will increase the host's chance of hitting the enemy significantly; the red-eyed Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise, this Gu will die
 HU·Chi Demon Gu Descent
 When this technique is 10% powerful, it will plant a Chi Mimic Gu on the user; the Chi Mimic Gu will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
-HU·Black Blood\nInsanity
+HU·Black Blood\nDescent
 Improving the effectiveness of treatment
 When this technique is at 10% of its power, the Black Blood Gu is planted on the user; the Black Blood Gu will greatly increase the host's "healing" and "poison repelling" effects in battle; the Black Blood Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
-HU·Internal Demon\nInsanity
+HU·Internal Demon\nDescent
 Additional increase of true qi
 When this technique exerts ten percent of its power, it will plant a Gu for the user; the Gu will increase the host's true qi by one point when the host's true qi increases, and will cause the host to obtain a Gu according to the host's original increased true qi amount
 HU·9 Yin Zombie\nInsanity
