@@ -1188,11 +1188,11 @@ Soul Peeling\nHands
 When attacking an enemy with this technique, the deeper the enemy is poisoned with phantom poison, the more layers the degree of injury caused by this technique to the enemy's direct damage increases; the direct damage caused by this technique to the enemy's existing wounded parts will not be reduced for any reason
 Snake Insanity\nHands
 When this technique is at least 10% powerful, the more external injury on the attacked part of the enemy, the more Gu the user can obtain.
-Red Insanity
+Red Descent
 Plant Pre Gu
 Reduced attack hit
 When this technique is at its tenth power, it will plant the Red Eye Gu on the enemy; the Red Eye Gu will make the host's chance of hitting the enemy greatly reduced; the Red Eye Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise this Gu will die
-Chi Demon Gu Insanity
+Chi Demon Gu Descent
 Adding a disorientation marker
 When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Black Blood\nInsanity
@@ -2820,11 +2820,11 @@ HU·Soul Peeling\nHands
 When attacking an enemy with this technique, the deeper the illusionary poison the user is struck by, the more layers of injury this technique will cause to the enemy in terms of direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 HU·Snake Insanity\nHands
 When this technique is at least 10% powerful, the more internal injury marks on the attacked part of the enemy, the more Gu the user can obtain.
-HU·Red Insanity
+HU·Red Descent
 Plant Pre Gu
 Increase attack hit
 When this technique is at its tenth power, it will plant a red-eyed Gu on the user; the red-eyed Gu will increase the host's chance of hitting the enemy significantly; the red-eyed Gu needs to consume 3 Gu from the host or the opponent after each attack, otherwise, this Gu will die
-HU·Chi Demon Gu Insanity
+HU·Chi Demon Gu Descent
 When this technique is 10% powerful, it will plant a Chi Mimic Gu on the user; the Chi Mimic Gu will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 HU·Black Blood\nInsanity
 Improving the effectiveness of treatment
