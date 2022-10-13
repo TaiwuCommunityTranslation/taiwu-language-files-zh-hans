@@ -1194,23 +1194,23 @@ Reduced attack hit
 When this technique is at its tenth power, it will plant the Red Eye Compulsion on the enemy; the Red Eye Compulsion will make the host's chance of hitting the enemy greatly reduced; the Red Eye Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise it will die
 Geist Insanity
 Adding a disorientation marker
-When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo compulsion on the enemy; the Chi-Mei-Ruo compulsion will add a mark of disorientation to the host when the host's toxicity strikes; the Chi-Mei-Ruo compulsion needs to consume 2 compulsions from the host or the opponent after each attack, otherwise Gu will die
+When this technique is at 10% of its power, it will plant a Chi-Mei-Ruo compulsion on the enemy; the Chi-Mei-Ruo compulsion will add a mark of disorientation to the host when the host's toxicity strikes; the Chi-Mei-Ruo compulsion needs to consume 2 compulsions from the host or the opponent after each attack, otherwise this Gu will die
 Black Blood\nInsanity
 Reduced treatment effect
-When this technique is at 10% of its power, it will plant the Black Blood Compulsion on the enemy; the Black Blood Compulsion will significantly reduce the host's "healing" and "poison repelling" effects in battle; after each attack, the Black Blood Compulsion needs to consume 3 compulsions from the host or the opponent, otherwise Gu will die
+When this technique is at 10% of its power, it will plant the Black Blood Compulsion on the enemy; the Black Blood Compulsion will significantly reduce the host's "healing" and "poison repelling" effects in battle; after each attack, the Black Blood Compulsion needs to consume 3 compulsions from the host or the opponent, otherwise this Gu will die
 Internal Demon\nInsanity
 Additional loss of true qi
 When this technique exerts ten percent of its power, it will plant a heart demon compulsion for the enemy; the heart demon compulsion will reduce the host's true qi by 1 point when the host's true qi decreases, and will cause the opponent to obtain the compulsion according to the host's original reduced true qi amount
 9 Yin Zombie\nInsanity
 Worsening of random wounds
-When this technique is at 10% of its power, it plants a corpse compulsion for the enemy; the corpse compulsion will worsen the degree of injury of 1 other random wound of the host by 1 level after the host is directly injured; the corpse compulsion needs to consume 7 compulsions of the host or the opponent after each attack, otherwise Gu will die
+When this technique is at 10% of its power, it plants a corpse compulsion for the enemy; the corpse compulsion will worsen the degree of injury of 1 other random wound of the host by 1 level after the host is directly injured; the corpse compulsion needs to consume 7 compulsions of the host or the opponent after each attack, otherwise this Gu will die
 Jade Ice\nSilkworm Insanity
-When this technique exerts ten percent of its power, it will plant an ice worm compulsion for the enemy; the ice worm compulsion will increase the degree of injury of the host from direct damage by 2 layers; the ice worm compulsion will require 4 compulsions of the host or the opponent to be consumed after each attack, otherwise Gu will die
+When this technique exerts ten percent of its power, it will plant an ice worm compulsion for the enemy; the ice worm compulsion will increase the degree of injury of the host from direct damage by 2 layers; the ice worm compulsion will require 4 compulsions of the host or the opponent to be consumed after each attack, otherwise this Gu will die
 King Golden\nSilkworm Insanity
 Swallow Gu
 When this technique is at its tenth power, it will plant the Golden Silkworm compulsion for the enemy; the Golden Silkworm compulsion will devour all the other compulsions just planted by the host, and apply a lot of toxins to the host according to the compulsions devoured; the Golden Silkworm compulsion needs to consume 8 compulsions of the host or the opponent after each attack, otherwise it will die
 A Hundred\nColors Marrow Insanity
-When this technique is 10% powerful, the enemy will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will reduce the power of the technique performed by the host according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise Gu will die
+When this technique is 10% powerful, the enemy will be planted with the Green Marrow Compulsion; the Green Marrow Compulsion will reduce the power of the technique performed by the host according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise this Gu will die
 Swordsmanship\nof Green Beard
 When this technique is at least 10% of its power, the user takes away 1 "tug" from the enemy.
 Swordsmanship\nof Billhook
@@ -2828,15 +2828,15 @@ HU·Geist Insanity
 When this technique is 10% powerful, it will plant a Chi Mimic compulsion on the user; the Chi Mimic compulsion will add a mark of disorientation to the enemy when the host's toxicity strikes; the Chi Mimic compulsion needs to consume 2 compulsions from the host or the opponent after each attack, otherwise he will die
 HU·Black Blood\nInsanity
 Improving the effectiveness of treatment
-When this technique is at 10% of its power, the Black Blood Compulsion is planted on the user; the Black Blood Compulsion will greatly increase the host's "healing" and "poison repelling" effects in battle; the Black Blood Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise Gu will die
+When this technique is at 10% of its power, the Black Blood Compulsion is planted on the user; the Black Blood Compulsion will greatly increase the host's "healing" and "poison repelling" effects in battle; the Black Blood Compulsion needs to consume 3 compulsions from the host or the opponent after each attack, otherwise this Gu will die
 HU·Internal Demon\nInsanity
 Additional increase of true qi
 When this technique exerts ten percent of its power, it will plant a compulsion for the user; the compulsion will increase the host's true qi by one point when the host's true qi increases, and will cause the host to obtain a compulsion according to the host's original increased true qi amount
 HU·9 Yin Zombie\nInsanity
 Elimination of random wounds
-When this technique is 10% powerful, it plants a compulsion for the user; the compulsion will reduce the degree of injury of 1 other random wound of the host by 2 levels after the host is directly injured; the compulsion needs to consume 7 compulsions of the host or the opponent after each attack, otherwise Gu will die
+When this technique is 10% powerful, it plants a compulsion for the user; the compulsion will reduce the degree of injury of 1 other random wound of the host by 2 levels after the host is directly injured; the compulsion needs to consume 7 compulsions of the host or the opponent after each attack, otherwise this Gu will die
 HU·Jade Ice\nSilkworm Insanity
-When this technique is used at 10% of its power, it will plant an ice worm compulsion on the user; the ice worm compulsion will reduce the degree of direct damage to the host by 2 levels; the ice worm compulsion will require 4 compulsions from the host or the opponent to be consumed after each attack, otherwise Gu will die
+When this technique is used at 10% of its power, it will plant an ice worm compulsion on the user; the ice worm compulsion will reduce the degree of direct damage to the host by 2 levels; the ice worm compulsion will require 4 compulsions from the host or the opponent to be consumed after each attack, otherwise this Gu will die
 HU·King Golden\nSilkworm Insanity
 When this technique is at its tenth power, it will plant the Golden Silkworms compulsion for the user; the Golden Silkworms compulsion will devour all the other compulsions just planted by the host, and dispel a lot of toxins for the host according to the compulsions devoured; the Golden Silkworms compulsion needs to consume 8 compulsions of the host or the opponent after each attack, otherwise it will die
 HU·A Hundred\nColors Marrow Insanity
