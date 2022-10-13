@@ -141,7 +141,7 @@ The higher the sum of the 5 highest-ranked elixirs among the elixirs currently c
 4 Methods of\nHibernation
 Significantly increase the upper limit of the user's "body mass"
 9 Tripots\nCultivation
-The longer the remaining life span of the user, the more the power of all the feats of the user will be increased
+运用者剩余的寿命越长，运用者所有功法的威力就增加越多，最多增加40%
 Vajra-Hearted\nBuddha Meditation
 Increases the power limit of the user's "Vajra Sect" technique
 Internal Fire\nYoga
@@ -434,9 +434,9 @@ Gain Nadis Force
 Whenever an enemy's toxicity strikes, the user receives twice the amount of "Nadis" of the marker that caused the toxin to strike.
 Flood Dragon's Bone Regeneration
 Automatic healing of injuries
-When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all external injury of the user will be eliminated by themselves quickly with time
+以此功法进行防御时：如果运用者的战败标记总数达到战败条件，运用者不会被击败；运用者所有的外伤标记均会随时间迅速自行消除；此功法防御结束时，消除运用者6个重创标记
 9 Colored Jade Cicada
-When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 injuries of the user
+当运用者的战败标记总数达到战败条件时，运用者立即消耗9点「奇窍」真气，随机消除运用者的9个伤势标记及6个重创标记，但运用者的内息紊乱会因此大幅增加
 Go With The Flow
 Force Change·RNG
 Eliminate useless storage type
@@ -540,7 +540,7 @@ Heart-Self Destroy Spell
 Obtain a large amount of true qi
 Whenever a partner of the user's helper reaches the defeat condition, the user will receive a large amount of true qi according to the amount of various types of true qi of that partner
 12 Blood Child Formation
-The companion of the user's helper can only get the command of "substitute life" which can share a lot of external injury for the user in the battle.
+运用者助战的同伴在战斗中只能够获得为运用者分担大量外伤和重创的「替命」指令
 Sky Demon
 Worsening enemy external injury
 When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 4 levels; whenever the user reacts to an enemy's attack, the user applies a large amount of red "poison" to the enemy, and at the same time worsens the external wounds of all parts of the enemy by 1 level
@@ -884,8 +884,8 @@ When you start to perform this technique, if the enemy does not have a partner t
 Love Poem
 When you start to perform this technique, the more enemies and mutual love, the more the power of this technique will increase, but if the number of mutual love with the enemy exceeds 10 people, the power of this technique will be reduced instead
 Celestial Music\nof Goddess
-Deals random damage
-When this technique is used at 10% of its power, it eliminates all the enemy's "None" style and adds the same number of wound marks to random parts of the enemy depending on the number of eliminations
+添加重创标记
+此功法发挥十成威力时，消除敌人所有的「无」式，并根据消除的数量，向敌人添加一半数量的重创标记
 Pure Lady's\nHidden Hand
 When this technique is at least 10% of the power, the user takes 1 "take" from the enemy.
 Jade Hand
@@ -932,7 +932,7 @@ Pivot Move
 After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the "Break" technique performed by the user that has not been used for 10% of its power is greatly increased, and lasts until the "Break" technique with the increased power has been used for 10% of its power.
 Clutch Finger
 Changing the Enemy's External Defense
-When attacking the enemy with this technique: the enemy's External Defense is equal to 3 times the difference between the enemy's External Defense and the External Penetration
+以此功法攻击敌人时：敌我双方的御体与破体之差越小，敌人的御体就变化为越小
 The Great\nYinyang Hand
 Steal Buff
 When this technique starts, the user is temporarily affected by all the enemy's gain status, which lasts until the end of this technique.
@@ -970,6 +970,7 @@ Shocking Spell
 Force E·Escape
 If the enemy has no memory of this spell and the spell is at 10% of its power: If the enemy can escape, the lower the sum of the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, the higher the chance that the enemy will start escaping immediately; If the enemy cannot escape, the lower the sum of the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, the more "Nothing" will be added to the enemy.
 Summoning\nThunder
+Deals random damage
 If the enemy is equipped with weapons, protective gear, or treasures made of gold or iron when this spell is at 10% power, the enemy will receive additional non-external injury to random body parts
 Hexa-Jia Arcane\nBenediction
 Hetero to Ortho
@@ -1019,7 +1020,7 @@ Eliminate the memory of the enemy
 When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memory of the battle; the enemy cannot attack with weapons, cannot perform feats that require Stance consumption, until the enemy is attacked in any way
 Conversely\nBeating As Rocking Sky
 Attacks are not defended
-If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its External Defense; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique
+开始施展此功法时，如果敌人对此功法没有记忆：敌人的御体减半；敌人不会试图防御此功法，敌人的「护体」、「轻灵」功法也均不会在受到此功法攻击时生效，且此功法至少发挥一成威力后，能够额外造成1个重创标记
 One Step Turn
 Increase the casting progress
 During the enemy's performance of a feat, the user can perform this feat from 50% of the performance progress; after this feat has exerted at least 10% of its power, the user advances 2 distances, and this effect cannot be repeated during the enemy's performance of a feat
@@ -1061,7 +1062,7 @@ Flood Dragon's\nBlood
 When attacking the enemy with this technique, the deeper the enemy is poisoned, the more layers of injuries this technique will cause to the enemy in direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Ghost Bone\nBlood Sea Otter
 Add a must-death marker
-Once this technique has reached 10% of its power, the user gains 6 levels of this effect: Whenever an enemy performs the "Destroy" technique with a poison mark, 1 mark of certain death is added to the enemy; the more marks of certain death, the more the power of all the enemy's techniques increases. This technique will be "blocked" until the end of the battle.
+此功法发挥十成威力后，运用者获得6层此效果：每当敌人在有中毒标记的情况下施展完「摧破」功法，向敌人添加1个必死标记，必死标记越多，敌人所有功法的威力也会增加越多，一旦敌人出现了6个必死标记，敌人便会战败，且健康会减少至0；此功法在施展结束后将不可避免地被「封禁」，持续直到战斗结束
 12 Ways of\nAssassination
 Unblock your weapon
 If the weapon used by the user is the "Fish Intestine Sword", the user can perform this technique from 50% of its progress, and after this technique has been used at 10% of its power, the "Fish Intestine Sword" can be unsealed, and this sword can perform all "sword techniques" from 50% of its progress. It will last until the other weapons are unblocked or the battle is over.
@@ -1164,7 +1165,7 @@ Mechanic Hawk
 After this technique has been used at 10% of its power, the user gains 6 levels of this effect: whenever the user inflicts a external injury on an enemy, if the user consumes an additional "machine" style, he will inflict 1 level of non-external injury on a random part of the enemy, and this external injury will immediately change to an old one that is more difficult to recover from.
 The Impulse
 Transfer Injuries
-When this technique reaches 10% of its power, the user gains 1 level of this effect: When the total number of defeat marks of the user reaches the defeat condition, all of the user's removable wound marks are removed and a portion of the removed wound marks are transferred to the enemy, after which the technique will be inevitably "blocked" until the end of the battle.
+此功法发挥十成威力后，运用者获得1层此效果：当运用者的战败标记总数达到战败条件时，消除运用者所有可消除的伤势标记和重创标记，并将消除的伤势标记的一部分转移给敌人，随后此功法将不可避免地被「封禁」，持续直到战斗结束
 Ancestor's\nLong Fist
 Extra Prestige
 When an enemy is defeated with this technique, the prestige gained by the user at the end of the battle is greatly increased
@@ -1210,7 +1211,7 @@ King Golden\nSilkworm Insanity
 Swallow Gu
 When this technique is at its tenth power, it will plant the Golden Silkworm Gu for the enemy; the Golden Silkworm Gu will devour all the other Gu just planted by the host, and apply a lot of toxins to the host according to the Gu devoured; the Golden Silkworm Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 A Hundred\nColors Marrow Insanity
-When this technique is 10% powerful, the enemy will be planted with the Green Marrow Gu; the Green Marrow Gu will reduce the power of the technique performed by the host according to the number of Gu of the host and the opponent; the Green Marrow Gu needs to consume 4 Gu of the host or the opponent after each attack, otherwise this Gu will die
+此功法发挥十成威力时，为敌人种下青髓若蛊；青髓若蛊会根据宿主与对手的蛊引数量，持续减少宿主施展的功法的威力，最多减少60%；青髓若蛊每次发作后需要消耗宿主或对手的4个蛊引，否则就会死亡
 Swordsmanship\nof Green Beard
 When this technique is at least 10% of its power, the user takes away 1 "tug" from the enemy.
 Swordsmanship\nof Billhook
@@ -1933,7 +1934,7 @@ The higher the sum of the 5 highest-ranked elixirs among the elixirs currently c
 Inverse - Jiaojiao four methods
 Dramatically reduce the "body" consumption of the user
 Inverse-Jiu Ding Gong
-The shorter the remaining life span of the user, the more the power of all the feats of the user will be increased
+运用者剩余的寿命越短，运用者所有功法的威力就增加越多，最多增加40%
 Reverse - Vajra Four Karmas
 Reduces the need to use the Metal technique of the user
 Inverse-Toom Kung Fu
@@ -2199,9 +2200,9 @@ Increases poison damage to enemies when they are poisoned
 HU·White Water Long Live Method
 Whenever a toxin attack occurs, the user receives twice the amount of "Nadis" of the marker of the toxin attack.
 HU·Flood Dragon's Bone Regeneration
-When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all the internal injury marks of the user will be eliminated quickly by themselves with time
+以此功法进行防御时：如果运用者的战败标记总数达到战败条件，运用者不会被击败；运用者所有的内伤标记均会随时间迅速自行消除；此功法防御结束时，消除运用者6个重创标记
 HU·9 Colored Jade Cicada
-When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 non-injury markers of the user
+当运用者的战败标记总数达到战败条件时，运用者立即消耗9点「奇窍」真气，随机消除运用者的9个非伤势标记及6个重创标记，但运用者的内息紊乱会因此大幅增加
 HU·Go With The Flow
 Whenever an enemy deals direct damage to the user, the user gains 2 points of a random type of true qi or loses 1 point of a random type of true qi, and loses 1 unusable style.
 HU·Take The Pulse
@@ -2289,7 +2290,7 @@ When defending with this technique, whenever the user successfully counters an e
 HU·Heart-Self Destroy Spell
 Whenever a companion of the user's helper reaches the defeat condition, the enemy loses a large amount of true qi according to the amount of each type of true qi of that companion
 HU·12 Blood Child Formation
-The companion of the user's helper can only get the command of "substitute life" which can share a lot of internal injuries for the user in the battle.
+运用者助战的同伴在战斗中只能够获得为运用者分担大量内伤和重创的「替命」指令
 HU·Sky Demon
 Worsening the enemy's internal wounds
 When defending with this technique: all direct internal injuries suffered by the user are reduced by 4 levels; whenever the user reacts to an enemy attack, the user applies a large amount of cold "poison" to the enemy, and at the same time worsens the internal injuries of all parts of the enemy by 1 level
@@ -2481,7 +2482,7 @@ During the duration of this Footwork: the enemy cannot eliminate the Footwork an
 HU·Seven-Star Spin
 The more attack opportunities remaining for the user during the duration of this Footwork, the more the attack speed of the user will increase.
 HU·Heaven Leap
-When retreating with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the retreating distance, up to 5 distance, and the farther the user advances, the stronger the effect will be applied to the user to improve the user's gain status of External Penetration and Internal Penetration
+以此身法后退时，运用者需积蓄力量，运用者积蓄的力量越多，后退的距离就越远，最多后退5距离，且运用者后退的距离越远，就向运用者施加一个效果越强的提高运用者破体、破气的增益状态
 HU·Moving Star
 When this Footwork is performed, the distance between the enemy and me changes to 5; during the duration of this Footwork, the enemy cannot actively move away from the user
 HU·Barefoot
@@ -2587,7 +2588,7 @@ When you start to perform this technique, if the user does not have a partner to
 HU·Love Poem
 When you start to perform this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
 HU·Celestial Music\nof Goddess
-When this technique exerts ten percent of its power, it removes all of the enemy's disorientation markings and adds the same number of wound markings to random parts of the enemy, depending on the number removed
+此功法发挥十成威力时，消除敌人所有的失神标记，并根据消除的数量，向敌人添加一半数量的重创标记
 HU·Pure Lady's\nHidden Hand
 Ban style gain
 When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "take" style.
@@ -2633,7 +2634,7 @@ HU·Pivot Move
 After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Break" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Break" technique whose power has been reduced fails to be used for 10% of its power.
 HU·Clutch Finger
 Changing the Enemy's Internal Defense
-When attacking the enemy with this technique: the enemy's Internal Defense is equal to 3 times the difference between the enemy's Internal Defense and our Internal Penetration
+以此功法攻击敌人时：敌我双方的御气与破气之差越小，敌人的御气就变化为越小
 HU·The Great\nYinyang Hand
 Handover Debuff
 When this technique is performed, the enemy is temporarily affected by all of the user's reduced status until the technique is finished.
@@ -2702,7 +2703,7 @@ HU·Flood Dragon's\nIron Tentacle
 HU·No Harm Hands
 When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require qi, until the enemy is attacked in any way
 HU·Conversely\nBeating As Rocking Sky
-If the enemy has no memory of this technique when you start to perform it: the enemy loses all of its imperial energy; the enemy will not try to defend against this technique, and the enemy's "Aegis" and "Quick" techniques will not take effect when attacked by this technique
+开始施展此功法时，如果敌人对此功法没有记忆：敌人的御气减半；敌人不会试图防御此功法，敌人的「护体」、「轻灵」功法也均不会在受到此功法攻击时生效，且此功法至少发挥一成威力后，能够额外造成1个重创标记
 HU·One Step Turn
 During the enemy's performance of a feat, the user can perform this feat from 50% of the performance progress; after this feat has exerted at least 10% of its power, the user retreats 2 distances, and this effect cannot be repeated during the enemy's performance of a feat
 HU·Cuckoo's\nPecking
@@ -2735,7 +2736,7 @@ This technique increases the amount of poison applied to the enemy significantly
 HU·Flood Dragon's\nBlood
 When attacking an enemy with this technique, the deeper the rotten poison the user is exposed to, the more layers the degree of direct damage caused by this technique to the enemy will increase; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 HU·Ghost Bone\nBlood Sea Otter
-Once this technique has reached 10% of its power, the user gains 6 levels of this effect: Whenever the user performs the "Destroy" technique with the poison mark, 1 death mark will be added to the user, the more death marks there are, the more the power of all the user's techniques will be increased. This technique will be "banned" until the end of the battle.
+此功法发挥十成威力后，运用者获得6层此效果：每当运用者在有中毒标记的情况下施展完「摧破」功法，向运用者添加1个必死标记，必死标记越多，运用者所有功法的威力也会增加越多，一旦运用者出现了6个必死标记，运用者便会战败，且健康会减少至0；此功法在施展结束后将不可避免地被「封禁」，持续直到战斗结束
 HU·12 Ways of\nAssassination
 If the user's bravery is not less than 40, the user can perform this technique from 50% of the progress, and after this technique has become 10% more powerful, the user gets 2 levels of this effect: the user can perform all "sword techniques" from 50% of the progress.
 HU·Gongbu\nThe Unique Sword
@@ -2800,7 +2801,7 @@ When this technique is used at 10% of its power, it immediately closes a number 
 HU·Mechanic Hawk
 After this technique has reached 10% of its power, the user gains 6 levels of this effect: Whenever the user inflicts a direct internal wound on an enemy, if the user consumes an additional "machine" style, he will inflict 1 level of non-direct internal wound on a random part of the enemy, and this internal wound will immediately change to an old wound that is more difficult to recover from.
 HU·The Impulse
-When this technique reaches 10% of its power, the user gains 1 level of this effect: When the user's total number of defeat marks reaches the defeat condition, all of the user's removable non-injury marks are removed and a portion of the removed non-injury marks are transferred to the enemy, after which the technique will inevitably be "blocked" until the end of the battle.
+此功法发挥十成威力后，运用者获得1层此效果：当运用者的战败标记总数达到战败条件时，消除运用者所有可消除的非伤势标记和重创标记，并将消除的非伤势标记的一部分转移给敌人，随后此功法将不可避免地被「封禁」，持续直到战斗结束
 HU·Ancestor's\nLong Fist
 HU·Scorpion Hand
 When you start to perform this technique, the deeper the depression poison the user is, the more the power of this technique will increase
@@ -2840,7 +2841,7 @@ When this technique is used at 10% of its power, it will plant an ice worm Gu on
 HU·King Golden\nSilkworm Insanity
 When this technique is at its tenth power, it will plant the Golden Silkworms Gu for the user; the Golden Silkworms Gu will devour all the other Gu just planted by the host, and dispel a lot of toxins for the host according to the Gu devoured; the Golden Silkworms Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 HU·A Hundred\nColors Marrow Insanity
-When this technique is 10% powerful, the user will be planted with the Green Marrow Gu; the Green Marrow Gu will increase the power of the technique performed by the host according to the number of Gu of the host and the opponent; the Green Marrow Gu needs to consume 4 Gu of the host or the opponent after each attack, otherwise, this Gu will die.
+此功法发挥十成威力时，为运用者种下青髓若蛊；青髓若蛊会根据宿主与对手的蛊引数量，持续增加宿主施展的功法的威力，最多增加60%；青髓若蛊每次发作后需要消耗宿主或对手的4个蛊引，否则就会死亡
 HU·Swordsmanship\nof Green Beard
 When this technique is at least 10% of the power, the user gains 2 levels of this effect: the enemy cannot obtain the "tease" style.
 HU·Swordsmanship\nof Billhook
@@ -3630,7 +3631,7 @@ Resentment arises from greed and anger!
 When the "Demon Child" cannot be blocked, all of the defeat markings of the divine swords "Burning God's Refinement", "Unleashing Dragon's Soul" and "Demon Wood" will be changed to defeat markings. When he calls out Excalibur "Burning God Refinery", "Unleashing Dragon Spirit" and "Imprisoning Demon Wood", all his defeat marks will be changed to "Loss of Spirit" immediately; thereafter, all the defeat marks he receives will be changed to "Loss of Spirit" and will last until he calls out other Excalibur.
 Ten generations of one
 Ten lifetimes to one!
-"One person in ten lifetimes" cannot be banned; after Dyeing Dusty evokes the divine sword "Ghost God Xia", he cannot be defeated
+“十世一人”无法被封禁；染尘子唤出神剑“鬼神霞”后，无法被击败，且会立即无消耗施展神力“九剑·鬼神霞”
 Deadly robbery
 When Huan Xin has the "God" style, the direct damage taken is greatly reduced and the direct damage dealt is greatly increased; when Huan Xin does not have the "God" style, the direct damage taken is greatly increased and the direct damage dealt is greatly reduced
 Silent Dream
@@ -3700,8 +3701,8 @@ Repel and damage the enemy
 When this divine power exerts ten percent of its power, the golden phoenixer knocks the enemy back 6 distance, and if the distance between the enemy and the enemy's maximum distance is less than 6, loses all of the enemy's body and Stamina, and inflicts 3 layers of old wounds that are more difficult to recover from in random parts of the enemy
 When this divine power exerts ten percent of its power, the user will knock the enemy back 6 distance, and if the distance between the enemy and the maximum distance between the enemy and us is less than 6, all the enemy's body and Stamina will be lost and 3 layers of old wounds that are more difficult to recover will be inflicted on the enemy in random parts
 Goodness HeShi
-At the end of this divine power, Golden Phoenix gains 6 levels of effect: Golden Phoenix's weapon attacks will repeat 4 times
-At the end of this power, the user gains 6 levels of effect: the user's weapon attack will be repeated 4 times.
+此神力施展结束时，金凰儿获得6层此效果：金凰儿的兵器攻击会重复4次
+此神力施展结束时，运用者获得6层此效果：运用者的兵器攻击会重复4次
 The phoenix leads the nine daughters
 At the end of this power, Jin Huo'er gains 18 levels of this effect: the enemy will continue to have 2 weaknesses; every time the enemy has a weakness due to this effect, the number of levels of this effect is reduced by 1
 Golden Plume Breaks the Sky
