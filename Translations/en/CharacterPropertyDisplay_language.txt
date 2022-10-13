@@ -5,9 +5,9 @@ It represents the flexibility and coordination of a body...\n\n<color=#pinkyello
 WIL
 It represents the willpower and judgment of a person...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_3>Breath and<SpName=mousetip_huajie_3>Focus.\n·Increase can be achieved through<SpName=mousetip_zhuyao_2> repetitive tasks, weapons, and armor.\n·As you age, Willpower will become easier to recover</color>
 CON
-It represents the power of a physical body, it's endurance, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_0>Phy. Pen. and<SpName=mousetip_fangyu_0>Phy. Def.\n·Increase can be achieved through<SpName=mousetip_zhuyao_3>using Endurance, weapons, and armor.\n·Increases the amount of consumables character can take.\n·As you age, Endurance will become more difficult to recover</color>
+It represents the power of a physical body, it's endurance, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_0>Ext. Pen. and<SpName=mousetip_fangyu_0>Ext. Def.\n·Increase can be achieved through<SpName=mousetip_zhuyao_3>using Endurance, weapons, and armor.\n·Increases the amount of consumables character can take.\n·As you age, Endurance will become more difficult to recover</color>
 VIT
-It represents the inner force, bone, and blood quality...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_1>Qi Pen. and<SpName=mousetip_fangyu_1>Qi Def.\n·Increase can be achieved through<SpName=mousetip_zhuyao_4>Breakthroughs, weapons, and armor.\n·As you age, Vitality will become easier to recover</color>
+It represents the inner force, bone, and blood quality...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_1>Int. Pen.. and<SpName=mousetip_fangyu_1>Int. Def.\n·Increase can be achieved through<SpName=mousetip_zhuyao_4>Breakthroughs, weapons, and armor.\n·As you age, Vitality will become easier to recover</color>
 COM
 It represents understanding of a person, their perception, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_1>Finesse and<SpName=mousetip_huajie_1>Parry.\n·Increase can be achieved through<SpName=mousetip_zhuyao_5>using Comprehension, weapons, armor, studying better books, and breaking through martial arts.\n·Helps with studying books and Martial Art breakthroughs.</color>
 MIG
@@ -18,10 +18,10 @@ SWI
 以极快的速度攻击敌人，对敌人造成伤害的能力…\n\n<color=#pinkyellow>·基于迅疾的攻击方式有点、刺、弹等</color>
 HEA
 以摄人的魔音迷惑敌人，对敌人造成伤害的能力…\n\n<color=#pinkyellow>·基于动心的攻击方式有音、咒等</color>
-Phy.P
-突破敌人的御体，增加敌人所受到的外伤的能力…
-Qi.P
-突破敌人的御气，增加敌人所受到的内伤的能力…
+Ext. Pen.
+The ability to break through the enemy's External Defense and increase the external wounds suffered by the enemy...
+Int. Pen.
+The ability to break through the enemy's Internal Defense and increase the internal injuries suffered by the enemy...
 DIV
 卸去敌人的劲力，避免因受到力道攻击而受伤的能力…
 PAR
@@ -30,9 +30,9 @@ EVA
 闪躲敌人的攻击，避免因受到迅疾攻击而受伤的能力…
 FOC
 抵御敌人的魔音，避免因受到动心攻击而受伤的能力…
-PhD
+Ext. Def.
 外壮筋骨，固体护身，减轻受到的外伤的能力…
-QiD
+Int. Def.
 内涤元神，守脉行气，减轻受到的内伤的能力…
 Stance Recovery
 架势恢复越高，人物每次进行兵器攻击和每次受到兵器攻击时获得的架势值就越多，架势值主要用于施展外门功法
