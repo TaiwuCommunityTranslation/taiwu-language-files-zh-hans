@@ -1,17 +1,17 @@
-灵光一闪
-你在阅读{0}时突然灵光一闪。
+Sudden Insight
+While reading {0}, all of a sudden, everything becomes clear.
 太吾死亡
-{0}在{1}死亡。
+{0} has died in {1}.
 地区崩溃
 遍地玄石撕裂了大地，{0}跌入玄石缝隙之中！
 太吾入魔
-{0}在{1}入魔。
+{0} in {1} has been enthralled.
 太吾入邪
-{0}在{1}入邪。
-外道袭击
+{0} in {1} has turned into a XiangShu.
+Outlaw Ambush
 你在{0}被由{1}带领的一帮外道所袭击！
-动物袭击
-你在{0}遭遇了{1}的袭击！
+Animal Attack
+While in {0}, you have been attacked by {1}！
 义士袭击
 你在{0}被由{1}带领的一帮义士所袭击！
 失心人袭击
@@ -20,7 +20,7 @@
 你在{0}遭遇了已沦为相枢爪牙的{1}袭击！
 促织入梦
 {0}在{1}梦见一只奇异的促织！
-生下促织
+Birth of a Cricket
 {0}孕育的促织降生了！
 母亲胎教
 {0}腹中的胎儿似乎正在不安…
