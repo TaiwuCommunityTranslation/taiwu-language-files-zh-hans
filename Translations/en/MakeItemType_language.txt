@@ -147,7 +147,7 @@ Rope
 Chicken Egg
 Dish
 Coquelet
-Domestic Duck
+Duck
 Goose
 Silkie
 F·Quail
