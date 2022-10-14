@@ -9,13 +9,13 @@ If the enemy uses poisonous frost or poisonous sand,  attacks with this weapon o
 Anti-Polearm
 If the enemy uses a polearm, attacks with this weaponor performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
 Anti-Soft·Wp
-If the enemy uses a Soft·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
+If the enemy uses a Whisk, attacks or uses a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
 Anti-Hidden·Wp
-If the enemy uses a Hidden·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
+If the enemy uses a Hidden Weapon, Mech. Bird or performs a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
 Anti-Exotic·Wp
-If the enemy uses a Exotic·Wp, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
+If the enemy uses a Dagger, Talisman or a Club, attacks or uses Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
 Anti-Melody
-If the enemy uses a music instrument, attacks with this weapon or performs a Break Skill, the enemy's disarm, disarm, dodge and guard heart are reduced by 20%.
+If the enemy uses a music instrument, attacks or uses a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%..
 Anti-Metal
 If the enemy uses Iron-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
 Anti-Wood
@@ -57,7 +57,7 @@ If the enemy uses a Polearm, the enemy's Might, Finesse, Swiftness, and HEA are 
 Counter Soft·Wp
 If the enemy uses a Soft·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Hidden·Wp
-If the enemy uses a Hidden·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+If the enemy uses a Hidden Weapon, Mech. Bird or performs a Break Skill, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Exotic·Wp
 If the enemy uses a Exotic·Wp, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Melody
