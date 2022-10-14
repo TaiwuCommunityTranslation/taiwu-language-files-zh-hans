@@ -11,9 +11,9 @@ Talisman
 Weaving Token
 Iron needle case
 Needle
-W·Needle
-Stone needle case
-Gold and Silver Needle Box
+Wooden Needle Case
+Stone Needle Case
+Gold&Silver Needle Box
 Rattan needle case
 Jade needle case
 Iron Piercers
@@ -50,10 +50,10 @@ Iron short pestle
 Club
 Wooden Club
 Stone Club
-Gold and Silver Short Pestle
-Rattan short pestle
-Jade Short Pestle
-Iron swords
+Gold&Silver Club
+Rattan Club
+Jade Club
+Iron sword
 Sword
 W·Sword
 Stone Sword
