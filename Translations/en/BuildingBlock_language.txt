@@ -469,7 +469,7 @@ An extension building is built next to the "Pharmacy" with "Shikotsuki Tinggi be
 Cultivation Room
 The rarest herbs often associated with specific things. The so-called “medicine cultivation” is to raise those rare herbs with special items to achieve the purpose of cultivation and reproduction.
 An extension building is built next to the "Pharmacy" with "Tong Yuan Bai Qiao Stone" as the heart material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \It is necessary to dispatch villagers to operate it. You can harvest Yin herbs for "healing".
-Intellegent Cauldron
+Intelligent Cauldron
 A cauldron that can change the heating power to fit the nature of the medical materials. Let it boil the medical soup,  the heat can be just accurate.
 An extension building is built next to the "Pharmacy" with "Water and Fire Smokeless Charcoal" as the core material. \This building will enable the "Pharmacy" adjacent to it to produce better quality pills.
 Shennong Ravine
