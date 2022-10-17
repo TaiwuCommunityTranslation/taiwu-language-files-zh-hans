@@ -248,11 +248,11 @@ Whenever the user starts to perform a "Break" type technique (Attack technique),
 Mixed Element In One
 Changing Int. Def. to Ext. Def.
 Avoid direct internal injuries
-When this technique is used for defense, all of the user's Internal Defense is temporarily changed into External Defense, and the user is protected from any direct internal injuries and sealed points caused by the enemy as long as there are no sealed points in the area where the user is attacked by the enemy.
+以此功法进行防御时，将运用者一半的御气暂时变化为御体，只要运用者受到敌人攻击的部位没有出现封穴，运用者免受敌人造成的任何直接内伤与封穴
 Vajra Defence
 Changing the Ext. Def. to Int. Def.
 Protection from external injury
-When defending with this technique, all of the user's External Defense will be temporarily changed into the Internal Defense, and the user will be protected from any external injury or damage caused by the enemy as long as the part where the user is attacked by the enemy is not broken.
+以此功法进行防御时，将运用者一半的御体暂时变化为御气，只要运用者受到敌人攻击的部位没有出现破绽，运用者免受敌人造成的任何直接外伤与破绽
 Emei Tiger Step
 When the "Quick" True Qi of the wielder is higher than the "Quick" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the wielder is reduced by 1 level
 Unintentional Mind
@@ -1528,7 +1528,7 @@ As long as this technique is not resolved with Parry by the enemy, the direct ex
 Great Finger\nof Vajra
 When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at ten percent of its power, it will change one hole and one sealed point in the enemy's attacked area to a external injury
 Whirling\nVajra Ring
-After this technique has reached 100% of its power, the user gains 6 layers of this effect: the degree of external injury suffered by the user is reduced by 2 layers, and the user is able to counter shock the external injury caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and the technique performed with this effect will not gain the number of layers of the Break effect.
+After this technique has reached 100% of its power, the user gains 6 layers of this effect: the degree of external injury suffered by the user is reduced by 2 layers, and the user is able to counter shock the external injury caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and when performed this way, this technique has no special effects.
 Shaolin\nDragon Claw
 When attacking the enemy with this technique: the armor of the user increases significantly; the more the armor of the user is higher than the toughness of the enemy, the more user's Ext. Pen. increases.
 Shaolin Staff\nof 6 Directions
@@ -1621,7 +1621,7 @@ When this technique is used at 100% of its power, the enemy loses 6 points of "Q
 Divine Needle\nof Meditation Wisdom
 When this technique exerts ten percent of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the user increases significantly in the enemy's lost memories, lasting until the end of the battle
 Pure Girl's Stab
-After this technique has been used for ten percent of its power, the user gains 3 layers of this effect: whenever the user counters an enemy, the user gains 1 random available style, if the user counters an enemy successfully, the user immediately performs this technique to attack the enemy without consumption, and the power of this technique increases significantly, and this technique performed with this effect does not gain layers of Break effect
+After this technique has been used for ten percent of its power, the user gains 3 layers of this effect: whenever the user counters an enemy, the user gains 1 random available style, if the user counters an enemy successfully, the user immediately performs this technique to attack the enemy without consumption, and the power of this technique increases significantly. When performed this way, this technique has no special effects.
 Immortal\nNeedle of Golden Top
 If the user has at least 2 "Stab" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Stab" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Needle Finger
@@ -1753,13 +1753,13 @@ When attacking the enemy with this technique: the armor of the user is increased
 Kick of\nMove The Mountain
 When this technique is used at 100% of its power, the enemy's 3 "Water" techniques will be "blocked" for a long time.
 Cloud Dragon\n9 Kick
-After this technique has reached 100% of its power, the user will get this effect 8 times: every time the user advances 0.2 distance in a row, the number of layers of this effect will be reduced by 1. If the enemy is within the attack range of this technique, the user will immediately perform this technique again to attack the enemy from 50% of the progress of its performance.
+此功法发挥十成威力后，运用者获得8次此效果：每当运用者连续前进0.2距离，此效果层数减少1层，如果敌人在此功法的攻击范围内，运用者仅需、仅能消耗10%的脚力从施展进度50%开始立即再次施展此功法攻击敌人，以此效果施展的此功法不会获得摧破效果层数
 Divine Kick of\nAo King
 Ban Atk Range
 After this technique has been used for ten percent of its power, the maximum distance between the enemy and me is reduced by 2, up to 8, and lasts until the end of the battle
 Holy White\nElephant With 6 Tusks
 Eliminate external wounds
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives external injury from an enemy with a wound level of not less than 2, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's external injury is removed, after which this effect reverts to 0 levels
+战斗开始时，运用者获得0层此效果：每当运用者受到敌人的伤势程度不低于2的直接外伤时，此效果增加1层；此效果达到4层时，此功法的威力大幅增加，此效果达到6层时，消除运用者一半的外伤标记和重创标记，随后此效果恢复为0层
 Swordsmanship\nof Arhat
 Recovery of "attack tokens"
 When this technique is used at least 10% of its power, if the weapon used by the user is "Sword" and can be switched to a "Blade", the user immediately switches to a "Blade" and regains 1 "attack token".
@@ -3342,12 +3342,12 @@ When attacking the enemy with this technique: the armor of the user is increased
 Reverse - Kick of\nMove The Mountain
 When this technique is used at 100% of its power, the power of the enemy's 3 "Water" techniques is reduced and lasts until the end of the battle.
 Reverse - Cloud Dragon\n9 Kick
-After this technique has reached 100% of its power, the user will get this effect 8 times: every time the user continuously retreats 0.2 distance, the number of layers of this effect will be reduced by 1. If the enemy is within the attack range of this technique, the user will immediately perform this technique again to attack the enemy from 50% of the progress of its performance, and the technique performed with this effect will not gain the number of layers of the Break effect.
+此功法发挥十成威力后，运用者获得8次此效果：每当运用者连续后退0.2距离，此效果层数减少1层，如果敌人在此功法的攻击范围内，运用者仅需、仅能消耗10%的脚力从施展进度50%开始立即再次施展此功法攻击敌人，以此效果施展的此功法不会获得摧破效果层数
 Reverse - Divine Kick of\nAo King
 After this technique has been used for ten percent of its power, the minimum distance between the enemy and us increases by 2, up to 6, and lasts until the end of the battle
 Reverse - Holy White\nElephant With 6 Tusks
 Eliminate your own internal injuries
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives a direct internal wound of not less than 2 from the enemy, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's internal wound mark is removed, after which this effect reverts to 0 levels
+战斗开始时，运用者获得0层此效果：每当运用者受到敌人的伤势程度不低于2的直接内伤时，此效果增加1层；此效果达到4层时，此功法的威力大幅增加，此效果达到6层时，消除运用者一半的内伤标记和重创标记，随后此效果恢复为0层
 Reverse - Swordsmanship\nof Arhat
 When this technique is used at least 10% of its power, if the weapon used by the user is a "Blade", the user regains 2 "attack tokens".
 Reverse - Swordsmanship\nof Pudu
@@ -3514,7 +3514,7 @@ Wonderglow！
 The first time the art side is defeated, it will enter a new phase of combat: when the enemy deals direct damage to the art side, the greater the difference between the ratio of internal and external damage of this damage, the more damage the art side will reflect to the enemy
 XiangShu
 FuYu！
-When the Phase Hub is defeated for the first time, it will enter a new phase of the battle: for every time the Phase Hub deals direct damage to an enemy, there is an extremely high chance that the degree of injury the Phase Hub inflicts on the enemy will increase by an additional 1 level for every 1 less than 9 turns the enemy has taken
+相枢首次被击败时，将进入新的战斗阶段：每当相枢对敌人造成直接伤害时，敌人的轮回次数每比9次少1次，相枢对敌人造成的伤势程度就有极高的几率额外增加1层，敌人对相枢造成的伤势程度就有极高的几率额外减少1层
 Ten revolutions of dusty heart
 Whenever Dyeing Duster calls out a different Excalibur, Dyeing Duster's True Qi of all types increases dramatically
 Kneel Before The King
