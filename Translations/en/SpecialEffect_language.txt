@@ -1491,7 +1491,7 @@ When attacking an enemy with this technique, the special effect of the enemy's "
 Bone-Corrosion\nSand
 Grave Sand
 Doing legwork to perform
-When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 100% power, the user gets 2 layers of this effect: for every cumulative advance of 1 distance, the user will perform this technique to attack the enemy without consumption starting from 50% of the progress of the technique, and the technique performed with this effect will not get the Break effect layer.
+When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 100% power, the user gets 2 layers of this effect: for every cumulative advance of 1 distance, the user will perform this technique to attack the enemy without consumption starting from 50% of the progress of the technique, and when performed this way, this technique has no special effects.
 Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's External Penetration, the more the enemy's External Defense is reduced
 Lady Poison
@@ -1705,7 +1705,7 @@ Advancement while operating
 In the process of performing this technique, the user can advance up to 4 distances
 Swordsmanship\nof Rainbow White
 Extra Move
-After this technique is at least 10% powerful, the user will get 3 layers of this effect: whenever the enemy accumulates 2 distances back, the user will immediately advance 1 distance, when this effect layer is exhausted, if the enemy is within the user's attack range, the user will immediately perform this technique to attack the enemy without consumption from 50% of the progress of the application, the technique performed with this effect will not gain the Break effect layer
+After this technique is at least 10% powerful, the user will get 3 layers of this effect: whenever the enemy accumulates 2 distances back, the user will immediately advance 1 distance, when this effect layer is exhausted, if the enemy is within the user's attack range, the user will immediately perform this technique to attack the enemy without consumption from 50% of the progress of the application, and when performed this way, this technique has no special effects.
 Swordsmanship\nof The Ultra One Mysterious
 When you start to perform this technique, the more Vitality the user has not consumed, the more the power of this technique will increase
 Pure Yang\nSword-Conception
@@ -3094,7 +3094,7 @@ Reverse - Decayed Worm\nSand
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's poison attacks his heart.
 Reverse - Bone-Corrosion\nSand
 Reverse - Grave Sand
-When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 100% power, the user will get 2 layers of this effect: for every cumulative distance back, the user will perform this technique to attack the enemy without consumption starting from 50% of the performance progress, and this technique performed with this effect will not get the Break effect layer
+When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 100% power, the user will get 2 layers of this effect: for every cumulative distance back, the user will perform this technique to attack the enemy without consumption starting from 50% of the performance progress, and when performed this way, this technique has no special effects.
 Reverse - Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's Internal Penetration, the more the enemy's Internal Defense will be reduced
 Reverse - Lady Poison
@@ -3129,7 +3129,7 @@ As long as this technique is not resolved with Parry by the enemy, the direct in
 Reverse - Great Finger\nof Vajra
 When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at ten percent of its power, one of the enemy's attacked parts will be changed into an internal injury marker for both the breach and one of the sealed points.
 Reverse - Whirling\nVajra Ring
-After this technique has reached 100% of its power, the user gains 6 layers of this effect: the degree of direct internal injuries suffered by the user is reduced by 2 layers, and the user is able to counteract the direct internal injuries caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and the technique performed with this effect will not gain layers of the Break effect.
+After this technique has reached 100% of its power, the user gains 6 layers of this effect: the degree of direct internal injuries suffered by the user is reduced by 2 layers, and the user is able to counteract the direct internal injuries caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and when performed this way, this technique has no special effects.
 Reverse - Shaolin\nDragon Claw
 When attacking the enemy with this technique: the armor of the user increases dramatically; the more the armor of the user is higher than the toughness of the enemy, the more the energy of the user increases.
 Reverse - Shaolin Staff\nof 6 Directions
@@ -3215,7 +3215,7 @@ When this technique is used at 100% of its power, the user draws 3 points of "Qu
 Reverse - Divine Needle\nof Meditation Wisdom
 When this technique exerts ten percent of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the enemy is greatly reduced in the enemy's lost memories, lasting until the end of the battle
 Reverse - Pure Girl's Stab
-After this technique has been used for ten percent of its power, the user will get 3 layers of this effect: whenever the enemy counterattacks the user, the user will get 1 random available style, if the enemy fails to counterattack the user, the user will immediately perform this technique to attack the enemy without consumption, and the power of this technique will be greatly increased, and this technique performed with this effect will not get the number of layers of the Break effect
+After this technique has been used for ten percent of its power, the user will get 3 layers of this effect: whenever the enemy counterattacks the user, the user will get 1 random available style, if the enemy fails to counterattack the user, the user will immediately perform this technique to attack the enemy without consumption, and the power of this technique will be greatly increased, and when performed this way, this technique has no special effects.
 Reverse - Immortal\nNeedle of Golden Top
 When you start to perform this technique, you will consume all the "stabbing" style of the user. The more "stabbing" style the user consumes, the more the power of this technique will increase.
 Reverse - Needle Finger
@@ -3297,7 +3297,7 @@ Reduces the power of all the enemy's "Nadis" techniques according to the percent
 Reverse - Wudang\nSwordsmanship of Unfettered
 In the process of performing this technique, the user can retreat up to 4 distances
 Reverse - Swordsmanship\nof Rainbow White
-When this technique is at least 10% powerful, the user will get 3 layers of this effect: Whenever the enemy accumulates 2 distances forward, the user will immediately retreat 1 distance, when the layers of this effect are exhausted, if the enemy is within the user's attack range, the user will immediately perform this technique to attack the enemy without consumption from 50% of the progress of the application, and the technique performed with this effect will not gain layers of the Break effect.
+When this technique is at least 10% powerful, the user will get 3 layers of this effect: Whenever the enemy accumulates 2 distances forward, the user will immediately retreat 1 distance, when the layers of this effect are exhausted, if the enemy is within the user's attack range, the user will immediately perform this technique to attack the enemy without consumption from 50% of the progress of the application, and when performed this way, this technique has no special effects.
 Reverse - Swordsmanship\nof The Ultra One Mysterious
 When you start to perform this technique, the more Vitality the user has consumed, the more the power of this technique will increase
 Reverse - Pure Yang\nSword-Conception
