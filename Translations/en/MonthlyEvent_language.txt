@@ -21,7 +21,7 @@ While in {0}, you have been attacked by {1}！
 促织入梦
 {0}在{1}梦见一只奇异的促织！
 Birth of a Cricket
-{0}孕育的促织降生了！
+{0} has given birth to a cricket！
 母亲胎教
 {0}腹中的胎儿似乎正在不安…
 A Mother’s Bereavement
