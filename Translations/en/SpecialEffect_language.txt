@@ -1556,7 +1556,7 @@ Offsetting useless storage type
 After this technique has been used for at least 10% of its power, the user gains 6 levels of this effect: Whenever the user is added by an enemy to a style that cannot be used, the same number of levels of this effect are consumed to cancel it out.
 Rejuvenation\nFinger
 Reduce enemy crisis
-This technique reduces the enemy's sense of crisis when it is unable to exert ten percent of its power
+When you fail to perform this technique at 100% of it's power, reduce the sense of crisis of your enemy.
 12 Hands of\nSilk Fist
 As long as this technique is not dodged by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
 White Ape's\nLong-Arm Fist
@@ -1674,7 +1674,7 @@ When you start to perform this technique, if the Fortunate Fate of the user is h
 Imperial\nConcubine
 When you start to perform this technique, all of your true qi below the initial value will be restored by 1 point; when this technique reaches 100% of its power, all of your true qi below the initial value will be restored by a maximum of 2 points again.
 Flowers Sigh
-This technique removes one of the strongest impairment states of the user when it is used at ten percent of its power, and removes a large amount of "nothing" for the user depending on the strength of the impairment state removed.
+When this technique is used at 100% of its power, eliminate 1 strongest debuff from the user. Then depending on the strength of the eliminated debuff eliminate a specific amount of "None" styles of the user.
 Burydeer Orchid
 When you start to perform this technique, the more "no" forms the user has, the more the power of this technique will increase; when this technique becomes 100% powerful, it will eliminate 2 "no" forms for the user.
 The World\nAmused
@@ -2232,7 +2232,7 @@ Reverse - Insanity Spell
 When defending with this technique: the user will not be planted with Gu; whenever the user successfully counters an enemy's weapon attack, the user's Gu will increase
 Reverse - Blood Dolls
 E·Int.Pen. DN
-When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user applies a "Blood Puppet Break" buff to the enemy, which reduces Int. Pen. causing the next direct internal injury the user receives enemy to be suffered by the enemy instead.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a "Blood Puppet Break" debuff to the enemy which reduces Int. Pen. causing the next direct internal injury the user receives to be suffered by the enemy instead.
 Reverse - Ghost Breath
 When using this technique for defense, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of phantom "poison" to the enemy.
 Reverse - Silkworm Insanity
@@ -2380,7 +2380,7 @@ Reverse - Ghost Step
 PAR all basic Atk
 During the duration of this Footwork, as long as the enemy does not have the effect of changing the hit mode, all the enemy's weapon attacks can be resolved by the user with the Parry defense.
 Reverse - Driving Wind
-Every time you move 1 distance with this Footwork, you apply a reduction to the enemy that reduces the speed of the Footwork.
+Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Cast Speed.
 Reverse - Fancy Step
 Whenever the user hits an enemy with a "Talisman" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Driving Cloud
@@ -2461,7 +2461,7 @@ Reverse - Flying Head
 During the duration of this body method, when the distance between the enemy and me is not greater than 7, the user will not appear a new breach nor be closed acupuncture points
 Reverse - Rope Overhang
 Surrendering the enemy's momentum to restore
-Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces your Inhale and Stance Recoveries.
+Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Inhale and Stance Recoveries.
 Reverse - Hundred Feet's Drill
 Attrition of the enemy's bodywork
 During the duration of this Footwork, when the user is attacked by an enemy, the user will first hit the enemy with a Finesse attack, each one less and less accurate, and if the enemy fails to resolve this Finesse attack, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced.
@@ -2614,7 +2614,7 @@ When this technique is used at least 10% of its power, the enemy loses 2 points 
 Reverse - Fallen Finger
 This technique causes the same amount of direct internal damage to both the enemy and us; the direct internal damage caused by this technique cannot be reduced by any effect
 Reverse - Peeling Move
-When this technique is used, it has a certain chance to remove 1 piece of clothing or protective gear or treasure from the enemy, and apply a debuff to the enemy according to the level of the equipment removed.
+When this technique is used, it has a certain chance to remove 1 piece of clothing, armor, or accessory from the enemy, and apply a debuff to the enemy according to the level of the equipment removed.
 Reverse - Poisonous Snake\nHidden Move
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Quick" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
 Reverse - 12 Moves of\nChangxi
@@ -2647,7 +2647,7 @@ When this technique exerts at least 10% of its power, the enemy loses 2 points o
 Reverse - Flying Sword
 This technique increases the direct damage to the enemy's head and neck by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Swordsmanship\nof Open-Close
-If the user's Might, Finesse, Swiftness, or Breath is not lower than the enemy's, a reduction in the enemy's power will be applied according to the power of the technique.
+If the user's Might, Finesse, Swiftness, or Breath is not lower than the enemy's, apply a debuff to the enemy that reduces the corresponding Resolve stat.
 Reverse - Swordsmanship\nof Water Beetle
 After this technique has been used to achieve 100% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the user's Might, Finesse, Swiftness, and Breath will not be lower than the enemy's Diversion, Parry, Evasion, and Focus.
 Reverse - Swordsmanship\nof 9 Lights
@@ -2684,7 +2684,7 @@ Reverse - Blood Palm
 When you start to perform this technique, the deeper the Pyrotoxin the user has, the more the power of this technique will increase
 Reverse - Osbeck\nBone Melt Palm
 Subdue the enemy to induce Qi to rush through the gate
-Apply a debuff to the enemy based on the power of this technique
+Apply a Int. Recovery debuff to the enemy based on the power of this technique
 Reverse - Divine Drug\nPalm
 Absorb your own toxins
 When this technique exerts 100% of its power, it will absorb the toxin of the deepest non-tenacious poison that the user has been hit by, and change the poison mark of the user that disappeared due to the toxin being absorbed into a wound mark of a random part; after this technique exerts 100% of its power, the user gains 5 levels of this effect: whenever the user hits an enemy, the toxin absorbed by this technique will be applied separately to the enemy.
@@ -2692,7 +2692,7 @@ Reverse - Divine Flood\nDragon Palm
 When you start to perform this technique, the more wound marks the user has, the more the power of this technique will increase; the wounds caused to the enemy when this technique exerts ten percent of its power will change into old wounds that are more difficult to recover from
 Reverse - Fallen Hands\nof Mt.Chai
 E·ATK Spd Dn
-Applies a reduction in attack speed to the enemy based on the power of this technique
+Apply an Attack Speed debuff to the enemy based on the power of this technique
 Reverse - Hook Claw
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Iron Flower\nRotten Bone Claw
@@ -2710,13 +2710,13 @@ Reverse - Cuckoo's\nPecking
 For every 1 internal injury mark this technique inflicts on an enemy, it causes 1 sealed point to appear on the enemy's attacked area
 Reverse - Small 8 Moves\nof Gold Clank
 E·Int.Def. Dn
-This technique cannot be counter-shocked; when attacking an enemy with this technique, if the enemy's Internal Defense is higher than the user's Internal Penetration, a buff that increases Internal Penetration is applied to the user and a debuff that decreases Internal Defense is applied to the enemy after the technique is performed
+This technique cannot be reflected; when attacking an enemy with this technique, if the enemy's Internal Defense is higher than the user's Internal Penetration, a buff that increases Internal Penetration is applied to the user and a debuff that decreases Internal Defense is applied to the enemy after the technique is performed
 Reverse - Flood Dragon's\nWagging Tail
 At the beginning of the battle, the user gains 1 level of this effect: Whenever the total number of the user's defeat markers exceeds half of the defeat condition, if the enemy is within the attack range of this technique, the user performs this technique to attack the enemy without consumption starting from 50% of the progress of the technique, and the number of the user's internal injury markers increases the degree of direct internal injury to the enemy, but the user also suffers a certain amount of internal injury at the end of the technique. internal injuries
 Reverse - Flood Dragon's\nRolling Kick
 In the process of performing this technique, the user can retreat up to 6 distances, and for every 1 distance the user retreats, the user's 1 injury mark and 1 debuff are removed in the process of performing this technique
 Reverse - Great 8 Moves\nof Sea-Blocking
-During the performance of this technique, the enemy whose Qi is lower than the user's cannot move or perform the technique; according to the power of this technique, a debuff is applied to the enemy to reduce the power of Qi.
+During the casting of this technique, the enemy whose Int. Recovery is lower than the user's cannot move or perform techniques; According to the power of this technique, a debuff is applied to the enemy to reduce the enemy's Int. Recovery
 Reverse - A Hundred Steps\nof Mysterious Tripot
 After this technique has been used for ten percent of its power, the user gains 6 layers of this effect: when the number of layers of this effect is even, the enemy's Might, Finesse and Swiftness are greatly reduced, when the number of layers of this effect is odd, the enemy's Diversion, Parry and Evasion are greatly reduced, and when this effect exists, the impact of this effect is additionally increased when the user performs this technique again.
 Reverse - Zhen Fragrant
@@ -2845,7 +2845,7 @@ Reverse - A Hundred\nColors Marrow Insanity
 Reverse - Swordsmanship\nof Green Beard
 When this technique is at least 10% of the power, the user gains 2 levels of this effect: the enemy cannot obtain the "tease" style.
 Reverse - Swordsmanship\nof Billhook
-Apply a reduced movement speed to the enemy based on the power of this technique; when this technique is at least 10% powerful, bring the enemy closer by 2 distance
+Based on the power of this technique, applies a Movement Speed debuff to the enemy；When this technique is performed with at least 10% power, bring the enemy closer by 2 distance
 Reverse - Swordsmanship\nof Ghost Old Lady
 When this technique is used at 100% of its power, for every 3 "Stab" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - Holy Wood\nSwordsmanship
@@ -2955,7 +2955,7 @@ When this technique is at 100% of its power, the user draws 3 points of "Aegis" 
 Reverse - Vajra Prajna\nBlade
 When this technique is used at 100% of its power, the power of the enemy's 3 "Wood" techniques is reduced and lasts until the end of the battle.
 Reverse - Ruyibaolun\nBlade
-After this technique has been used for 100% of its power, the user gains 2 levels of this effect: Whenever the user does not gain a debuff because of this technique, the strength of the debuff the user will gain is doubled and transferred to the enemy, and an opposite buff is applied to the user
+After this technique has been used at 100% of it's power, the user gains 2 levels of this effect: Whenever the user does not gain a debuff because of this technique, the strength of the debuff the user will gain is doubled and transferred to the enemy, and an opposite buff is applied to the user
 Reverse - Blade of\n6 Mighty Powers
 If the user's "Aegis" true qi is lower than the initial value and lower than the enemy's "Aegis" true qi, this technique can be performed without consuming qi or Stance, in this case, the power of this technique is greatly increased and the user gains 6 points of "Aegis" true qi at the end of this technique.
 Reverse - Blade of\nMahakala
@@ -3123,7 +3123,7 @@ When you start to perform this technique, the greater the difference between the
 Reverse - Shaolin\nTiger Claw
 Reduces the power of all the enemy's "Aegis" techniques by the percentage of the power exerted by this technique, and lasts until the end of the battle
 Reverse - Shaolin\nFinger Zen
-Apply an External Defense debuff to the enemy based on the power of this technique
+Based on the power of this technique, apply an External Defense debuff to the enemy
 Reverse - Finger of\nCatching Flower
 As long as this technique is not resolved with Parry by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
 Reverse - Great Finger\nof Vajra
@@ -3156,14 +3156,14 @@ Offsetting storage loss
 After this technique has been used for at least 10% of its power, the user gains 6 levels of this effect: Whenever the user is eliminated by an enemy, the same number of levels of this effect are consumed to cancel it out.
 Reverse - Duck Shape Fist
 Increase enemy crisis
-This technique increases the enemy's sense of crisis when it is unable to exert ten percent of its power
+When you fail to perform this technique at 100% of it's power, increase the sense of crisis of your enemy.
 Reverse - 12 Hands of\nSilk Fist
 As long as this technique is not dodged by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
 Reverse - White Ape's\nLong-Arm Fist
 Depending on the power of this technique, the duration of the enemy's "Quick" technique is greatly depleted.
 Reverse - Transfer Flower\nPicker
 Transformation of Internal Defense to External Defense
-When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a portion of the enemy's Internal Defense will be transferred to the External Defense; when this technique is 100% more powerful, 10 points of the user's Agility will be consumed, and a buff that increases the External Defense and a debuff that decreases the imperial energy will be applied to the enemy.
+When attacking an enemy with this technique, if the user's Agility is higher than the enemy's, a portion of the enemy's Internal Defense will be transferred to the External Defense; when this technique is 100% more powerful, 10 points of the user's Agility will be consumed, and a buff that increases the External Defense and a debuff that decreases the Internal Defense will be applied to the enemy.
 Reverse - Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Internal Penetration when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Inhale recovery speed is reduced.
 Reverse - Vajra Samadhi\nPalm
@@ -3172,7 +3172,7 @@ This technique cannot be interrupted; this technique will definitely be 100% pow
 Reverse - Emei Eagle Claw
 Reduces the power of all the enemy's "Quick" techniques by the amount of power this technique exerts, and lasts until the end of the battle
 Reverse - Emei Finger Zen
-Applies a debuff to the enemy based on the power of this technique
+Based on the power of this technique, apply a Internal Defense debuff to the enemy
 Reverse - Lame Fight\n80 Moves
 When this technique is used at 100% of its power, for every 3 "take" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - Split Flower
