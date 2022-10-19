@@ -1027,7 +1027,7 @@
   "LK_Building_Operation_Remove_Title": "Left <color=#darkbrown>{0}</color> Remove <color=#orange>{1}</color>",
   "LK_Taiwu_ExitBuildingArea": "Exit",
   "LK_Taiwu_BuildingList": "Building List",
-  "LK_Taiwu_BuildingSpace": "Building Space: {0}/{1}",
+  "LK_Taiwu_BuildingSpace": "Build: {0}/{1}",
   "LK_Taiwu_BuildingSpaceLimit": "Building Space Limit: {0}/{1}",
   "LK_Taiwu_BuildingSpaceLeft": "Building Space Left: {0}",
   "LK_TeaHorse_Weather": "Weather: {0}",
