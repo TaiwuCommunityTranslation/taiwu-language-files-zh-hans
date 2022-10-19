@@ -315,7 +315,7 @@ A small building decorated with a lot of white marble and strange crystal. The b
 An extension building is built next to the "Study" with "Moonlight Stone" as the core material, and must be adjacent to the "Spiritual Vein". \It can increase the "poetry" attainment of the people within the influence of the town or sect to which it belongs.
 Library
 A private facility for collection,  maintenance and copying works for all types of books. It is strictly forbidden for outsiders to enter the Library,  which displays the essence of the various syllabuses and the secrets left by the sages of the past dynasties.
-An extension building is built next to the "Study Room" with the "Cabinet of a Thousand Books" as the core material, and villagers must be dispatched to operate it. \You can mend the remaining pages of books placed in it.
+An extension building is built next to the "Study Room" with the "Cabinet of a Thousand Books" as the core material, and villagers must be dispatched to operate it. \nYou can repair the books placed in it.
 Art Room
 Art Room is three floors high,  hollow to hang a long roll of several feet. The outer wall of Art Room is decorated with colorful paint,  which is in harmony with the studio on the top floor.
 It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Painting" books. \nThe larger the size of the Art Room, the greater the increase in efficiency, but the effects of multiple Art Rooms do not stack.
