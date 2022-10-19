@@ -107,4 +107,4 @@ The popularity of this equipment is increased by 75%, and its value is reduced b
 Made by Adoptive Father
 The durability of this weapon is increased by 100%.
 Trial
-The durability of this weapon is reduced by 50% and the use requirement is increased by 100%.
+The durability of this weapon is reduced by 50% and the usage requirement is increased by 100%.
