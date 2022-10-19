@@ -930,7 +930,7 @@
   "LK_Building_ExpandProgress": "Expansion progress :",
   "LK_Building_RemoveProgress": "Removal progress :",
   "LK_Building_BuildProgress": "Construction progress :",
-  "LK_Building_ExpandConsume": "Cost Needed",
+  "LK_Building_ExpandConsume": "Cost",
   "LK_Building_ExpandCostTime": "Month Cost",
   "LK_Building_ExpandManpower": "Manpower Cost",
   "LK_Building_RemoveBuilding": "Remove Building",
