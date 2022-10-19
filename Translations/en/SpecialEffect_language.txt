@@ -14,7 +14,7 @@ Great Arahant\nExercises
 The higher the attainment of "Buddhism" of the user, the more wounds the user can heal during the battle.
 Tendon\nRenewal Sutra
 Increases Body Protector True Qi
-At the beginning of a battle, the user's "Aegis" True Qi is increased significantly (by 30); the amount of the user's "Aegis" True Qi gained during the battle is increased significantly; the amount of the user's "Aegis" True Qi lost during the battle is decreased significantly
+At the beginning of a battle, the user's "Aegis" True Qi is increased significantly (by 60); the amount of the user's "Aegis" True Qi gained during the battle is increased significantly; the amount of the user's "Aegis" True Qi lost during the battle is decreased significantly
 Sutra of Marrow\nRejuvenation
 Increase the upper limit of all major attributes of the user (by 20) ; if the user is a virgin, also increases the power of all techniques of the user, and the user will always keep a youthful look.
 Abdominal\nBreathing
@@ -100,7 +100,7 @@ Diffuse\nMomentum
 When the dominant internal element of the user is "Wood", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 Ingenious\nMysterious
 Increases Nadis
-At the beginning of a battle, the user's "Nadis" True Qi is increased significantly (by 30); the amount of "Nadis" True Qi gained during the battle is increased significantly; the amount of "Nadis" True Qi lost during the battle is decreased significantly.
+At the beginning of a battle, the user's "Nadis" True Qi is increased significantly (by 60); the amount of "Nadis" True Qi gained during the battle is increased significantly; the amount of "Nadis" True Qi lost during the battle is decreased significantly.
 Xuannyu\nMeditation
 Increases the power limit of the user's "Xuan Nyu Sect" techniques by 30%
 Jade Bone\nCultivation
@@ -117,7 +117,7 @@ Nimbus Shower
 Significantly increases the power of the user's "Water" type techniques, by 20%.
 Supreme\nGoddess Cultivation
 Increases Quick of Spirit
-At the beginning of a battle, the user's Quick True Qi is increased significantly (by 30); the amount of Quick True Qi gained during the battle is increased significantly; the amount of Quick True Qi lost during the battle is decreased significantly.
+At the beginning of a battle, the user's Quick True Qi is increased significantly (by 60); the amount of Quick True Qi gained during the battle is increased significantly; the amount of Quick True Qi lost during the battle is decreased significantly.
 Moon Jade
 Increase the upper limit of all major attributes of the user (by 20); if the user is a virgin, increase the power of all techniques of the user, and preserves the user's youthful appearance.
 Chap. Forge
@@ -223,7 +223,7 @@ Evil Scripture\nof Blood Hou
 When the internal energy attribute of the user is "Earth", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 The Great Blood\nChild
 Increases the Break of true qi
-At the beginning of a battle, the user's "Break" True Qi is increased significantly (by 30); the amount of "Break" True Qi gained during the battle is increased significantly; the amount of "Break" True Qi lost during the battle is decreased significantly.
+At the beginning of a battle, the user's "Break" True Qi is increased significantly (by 60); the amount of "Break" True Qi gained during the battle is increased significantly; the amount of "Break" True Qi lost during the battle is decreased significantly.
 Energizing\nPractice
 All backlash damage to the user is significantly reduced
 Lying Beside Tiger
@@ -248,7 +248,7 @@ Whenever the user starts to perform a "Break" type technique (Attack technique),
 Mixed Element In One
 Changing Int. Def. to Ext. Def.
 Avoid direct internal injuries
-以此功法进行防御时，将运用者一半的御气暂时变化为御体，只要运用者受到敌人攻击的部位没有出现封穴，运用者免受敌人造成的任何直接内伤与封穴
+When defending with this technique, half of the user's Internal Defense is temporarily changed into External Defense, so that the user is protected from any direct internal injuries and sealed points caused by the enemy as long as there are no sealed points in the area where the user is attacked by the enemy.
 Vajra Defence
 Changing the Ext. Def. to Int. Def.
 Protection from external injury
@@ -269,10 +269,10 @@ Whenever the user resolves a non-chasing enemy attack, the enemy's Stance is red
 4 Images of Lotus Formation
 The user's helper can use the "heal" and "detox" commands more frequently to heal and expel poison for the user.
 Immortal Yang's Golden Body
-When defending with this technique, the more stances the user has available, the less direct damage the enemy will inflict on the user.
+When defending with this technique, the more styles the user has available, the less direct damage the enemy will inflict on the user.
 Seven-Star Cross Chain
 Exempt from racking consumption
-When the user has 7 or more available stances, all "Break" type techniques performed by the user do not require the use of Stance, and the more Stance is exempted from consumption, the more the power of this technique will increase.
+When the user has 7 or more available styles, all "Break" type techniques performed by the user do not require the use of Stance, and the more Stance is exempted from consumption, the more the power of this technique will increase.
 Holy Light Inspiration
 Eliminate your mark
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 injuries
@@ -339,7 +339,7 @@ Sakyamuni Elephant Throwing
 Gain Specific Force
 Whenever the user switches weapons, the heavier the weapon, the higher the chance that the user will gain 1 point of "Break" true qi.
 Divine Mysterious
-The more "slashes" the user has, the more the user's Might increases; the more "stabs" the user has, the more the user's Swiftness increases; the more "teases" the user has, the more the user's Finesse increases.
+The more "Hack" styles the user has, the more the user's Might increases; the more "Stab" styles the user has, the more the user's Swiftness increases; the more "Slash" styles the user has, the more the user's Finesse increases.
 Ultra Alpha Reflection
 Gain extra true qi
 Avoid losing true qi
@@ -457,10 +457,10 @@ Vidya-Raja Fire
 Application of large amounts of toxins
 When defending with this technique, whenever the user Diversion the enemy's attack, the user applies a large amount of strong "poison" to the enemy.
 The Great Handprint
-As long as the sum of all types of true qi of the enemy is lower than the sum of all types of true qi of the user, the number of styles possessed by the enemy cannot exceed the number of styles possessed by the user
+只要敌人所有类型的真气数量的总和低于运用者所有类型的真气数量的总和，敌人拥有的“神”式以外的式的数量就无法超过运用者拥有的式的数量
 Buddha Body
 True qi offset marker
-When defending with this technique, every 3 points of "Aegis" of the user's true qi can eliminate 1 injury mark caused by the enemy to the user
+以此功法进行防御时：敌人对运用者造成的重创标记减半；运用者的每2点「护体」真气，可以消除敌人对运用者造成的1个伤势标记，但运用者的内息紊乱会因此增加
 Lost Worm Incense
 Obtaining a Gu to cast a Gu
 Whenever an enemy's toxicity kicks in, the user gains a number of Gu equal to the number of markers for the onset of toxicity
@@ -484,13 +484,14 @@ For each type of Gu applied to the enemy, the enemy's True Qi of a random type w
 Ghost Included
 When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 "None" to the enemy for every 2 wound marks the enemy has.
 Sky Snake Bone Exchange
-The external injury of the user will be removed by themselves over time; when the total number of defeat markers of the user exceeds half of the defeat condition, the existing external injury of the user will only be aggravated by a more serious external injury to the same part of the body.
+Invalidated by severe trauma
+运用者的外伤标记会随时间自行消除；除非运用者受到外伤时，受伤的身体部位已有4层外伤，否则运用者不会受到外伤重创
 Sky Bridge
 Remove all sealed points
 Whenever the total number of sealed points on the user's body is not less than 7, all the sealed points on the user's body will be released and no effect from the release of the sealed points will be triggered.
 River Immortals Wedding
 Steal E·Style
-When defending with this technique, every time the user successfully counters an enemy's weapon attack, one of the enemy's available storage styles is transferred to the user.
+When defending with this technique, every time the user successfully counters an enemy's weapon attack, 1 of the enemy's available styles is transferred to the user.
 6 Turn of Royal
 Drain E·Force
 When using this technique for defense, whenever the user dodges an enemy's attack, the user draws 1 point of "Aegis" true qi from the enemy's body
@@ -500,7 +501,7 @@ When defending with this technique, the degree of direct internal injury inflict
 Formation of 6 Stars
 The companions of the user's helper can use the "push" command more frequently to increase the progress of the user's technique.
 9 Star Eye
-The more "throwing" styles the user has, the more the user's Might increases; the more "bouncing" styles the user has, the more the user's Swiftness increases; the more "imperial" styles the user has, the more the user's Finesse increases.
+The more "Throw" styles the user has, the more the user's Might increases; the more "Shot" styles the user has, the more the user's Swiftness increases; the more "Drive" styles the user has, the more the user's Finesse increases.
 Seven elements of the great method to solve the evil
 Injury turned to an old injury
 When defending with this technique: the more body parts the user has destroyed, the less direct damage the enemy will inflict on the user; at the end of defending with this technique, 3 injury markers on the user's destroyed body parts will randomly change to old injuries that are more difficult to recover from
@@ -515,7 +516,7 @@ The companions of the user's helper can use the "Swim" command more frequently t
 Thunder Bone
 When defending with this technique, the degree of external injury inflicted on the user by the enemy is reduced by 3 levels
 Medical Heart
-The more "collapsing" styles the user has, the more the user's Might will increase; the more "point" styles the user has, the more the user's speed will increase; the more "holding" styles the user has, the more the user's Finesse will increase.
+The more "Punch" styles the user has, the more the user's Might will increase; the more "Point" styles the user has, the more the user's Swiftness will increase; the more "Hold" styles the user has, the more the user's Finesse will increase.
 Drunk A Thousand Year
 When the user is drunk, the user's chance of being chased by enemies is greatly reduced and the chance of enemies hitting the user is decreased.
 Cover Sky
@@ -573,7 +574,7 @@ Unpredictable
 Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Lotus Displacement
 Exchanging the enemy and us storage style
-During the duration of this Footwork, every time the user accumulates 1 distance, the user's 3 unavailable stances are exchanged with the enemy's 3 available stances.
+During the duration of this Footwork, every time the user accumulates 1 distance, the user's 3 unavailable styles are exchanged with the enemy's 3 available styles.
 Shuttle's Swift
 During the duration of this Footwork, if the amount of "attack tokens" user has is lower than the amount of "attack tokens" enemy has, the Attack Speed of the user is greatly increased.
 Moonlight Shadow
@@ -716,7 +717,7 @@ Stone Sink
 Basic Atk All Might
 During the duration of this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Might accuracy value.
 Immobilize
-During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Bashing", "Cleaving" and "Throwing" styles possessed by the user can be used in place of each other.
+During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Punch", "Hack" and "Throw" styles possessed by the user can be used in place of each other.
 Vajra Stance
 Whenever the user hits an enemy with a "Club" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Divine Footsteps
@@ -798,10 +799,10 @@ Increase your Might
 After this technique has exerted at least 10% of its power, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the user's Might increases when he attacks the enemy.
 Iron Fist of\nLion Phase
 Change sytle gain
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "point" and "take" styles obtained by the user are changed to "crash" styles
+After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "Point" and "Hold" styles obtained by the user are changed to "Punch" styles
 Gate Breaker\n8 Moves
 Increase the level of breakage
-When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "collapse" styles the user has.
+When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Punch" styles the user has.
 The Great\nStonebreaker
 DES up
 When attacking the enemy with this technique: the user's armor breaking is greatly increased; if the user's armor breaking is higher than the enemy's toughness, the user's External Penetration and Internal Penetration are greatly increased
@@ -822,9 +823,9 @@ At the end of the technique, the force of the user will be increased, and the us
 Ground Blade\nof Lion Face
 When you start to perform this technique, it restores the strength of your feet; in the process of performing this technique, you can advance up to 2 distances
 Rapid Blade\nof Mountain Cleave
-After this technique is at least 10% powerful, the user gains 4 levels of this effect: all the "thrust" and "lift" styles that the user gains are changed to "slash" styles
+After this technique is at least 10% powerful, the user gains 4 levels of this effect: all the "Stab" and "Slash" styles that the user gains are changed to "Slash" styles
 Shield Blade\nof Lion Phase
-When this technique is used at 100% of its power, for every 2 "slashes" the user has, the level of damage caused by the user to the enemy increases by 1 additional level.
+When this technique is used at 100% of its power, for every 2 "Slash" styles the user has, the level of damage caused by the user to the enemy increases by 1 additional level.
 Tremendous\nEffort Blade
 When you start to perform this technique, the more Strength the user has not consumed, the more the power of this technique will increase
 Blade of\nAo Slashing
@@ -836,7 +837,7 @@ Gold Lion Blade
 Ban Hetero
 When you start to perform this technique, "interrupt" all the enemy's Heterodox training techniques and eliminate all the enemy's Heterodox training techniques; during the performance of this technique, the enemy cannot perform any Heterodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Heterodox training techniques, and every time the user performs any Orthodox training techniques, this effect is reduced by 1 level
 Coiled Dragon\nGhost Blade
-If the user has at least 2 "Cleave" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Cleave" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+If the user has at least 2 "Hack" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Hack" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Wild Blade
 Whenever the user deals direct damage to the enemy, the power of this technique will increase cumulatively until the end of the battle, and the cumulative increase in power of this technique cannot be transferred or eliminated by any effect
 Spear of Evil
@@ -938,7 +939,7 @@ Steal Buff
 When this technique starts, the user is temporarily affected by all the enemy's buffs, which lasts until the end of this technique.
 Sky Earth Finger
 Remove E·Buff
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Returning to the Source", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
+When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Earth", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Swordsmanship\nof Round-Trip
 When this technique is at least 10% powerful, the user takes 1 "stab" from the enemy.
 Swordsmanship\nof Sanchin
@@ -992,7 +993,7 @@ When this incantation is at ten percent power, it will cause the enemy's 1 "odd 
 5 Animals Fist
 After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of injury of external injury suffered by the user is reduced by 1 level
 The Great Snow\nMountain Palm
-The more the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are higher than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
+After this technique has been used for at least 10% of its power, the user gains 3 layers of this effect : The more the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are higher than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 Blood Palm
 When you start to perform this technique, the deeper the enemy is poisoned with Pyrotoxin, the more the power of this technique will increase
 Osbeck Bone Melt
@@ -1160,7 +1161,7 @@ Web
 Forbid the enemy to advance
 After this technique has reached 100% of its power, the user gains 30 layers of this effect: whenever the enemy advances, the user consumes 1 layer of this effect per 0.1 distance to offset the distance the enemy moves
 Mt.Tai Lock
-When this technique is used at 100% of its power, it immediately closes a number of acupuncture points on the enemy's legs equal to the number of "ki" styles possessed by the user, and consumes all of the user's "ki" styles; the closed acupuncture points caused by this technique cannot be enhanced by any effect, and the time it takes to close the acupuncture points is shorter.
+When this technique is used at 100% of its power, it immediately closes a number of acupuncture points on the enemy's legs equal to the number of "Ware" styles possessed by the user, and consumes all of the user's "Ware" styles; the closed acupuncture points caused by this technique cannot be enhanced by any effect, and the time it takes to close the acupuncture points is shorter.
 Mechanic Hawk
 After this technique has been used at 100% of its power, the user gains 6 levels of this effect: whenever the user inflicts a external injury on an enemy, if the user consumes an additional "Ware" style, he will inflict 1 level of non-external injury on a random part of the enemy, and this external injury will immediately change to an old one that is more difficult to recover from.
 The Impulse
@@ -1226,7 +1227,7 @@ Soul Chasing\nSwordsmanship
 In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique will increase, and the user can gain 2 points of "Quick" true qi for every 1 distance.
 Holy Ruler\nSwordsmanship
 Sequestration of enemy techniques
-When this technique is used at 100% of its power, the enemy's 3 "Returning Elements" techniques will be "blocked" for a long time.
+When this technique is used at 100% of its power, the enemy's 3 "Earth" techniques will be "blocked" for a long time.
 Swordsmanship\nof Azure Spider
 E·Atk power Dn
 When this technique is used at 100% of its power, it halves the power of the enemy's 3 "Break" techniques whose external power ratio is higher than the internal power ratio, and lasts until this technique is performed by the enemy.
@@ -1278,7 +1279,7 @@ When this technique is used at 100% of its power, it will eliminate the enemy's 
 Flying Sand
 When this technique is used at 100% of its power, for every 2 "throws" the user has, the level of damage caused by the user to the enemy will increase by 1 additional level.
 Thunder Fire
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "projectile" and "imperial" styles acquired by the user are changed to "throw" styles
+After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "Shot" and "Drive" styles acquired by the user are changed to "Throw" styles
 Dragon Spit\nDragon Ball
 When this technique is used at least 10% of its power, the user gains 2 points of "Break" true qi.
 Divine Power\nof Red Blue Fire
@@ -1316,14 +1317,14 @@ When attacking an enemy with this technique: the armor of the user is greatly in
 Soul Heat Palm
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Aegis" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Vajra\nAnnihilation Hands
-If the user has at least 2 "Avalanche" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Avalanche" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+If the user has at least 2 "Punch" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Punch" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 4 Divine Palm
 When this technique exerts at least 10% of its power, it accumulates 1 layer of effect, up to a maximum of 4 layers: accumulate 1 layer, the power of this technique increases significantly; accumulate 2 layers, the maximum attack distance of this technique increases; accumulate 3 layers, the external injury caused by this technique will not be reduced for any reason; accumulate 4 layers, at the end of the performance of this technique, all the stances consumed by the performance of this technique are restored
 The Great Sun\nBuddha Palm
 Reduce Debuff
 When you start to perform this technique, the effect of all the user's debuffs will be halved and the effect of all the buffs will be doubled until the end of this technique.
 Vajra Blade
-When this technique is at least 10% of its power, the user takes 1 "slash" from the enemy.
+When this technique is at least 10% of its power, the user takes 1 "Slash" style from the enemy.
 Rakkhasa Blade
 Blade of\nEvil Influence
 As long as this technique is not Diversion by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
@@ -1366,7 +1367,7 @@ Immovable King: As long as the user is holding this Club, the user's movement sp
 None-Shape\nLittle Catch
 According to the power of this technique to play into the number of attrition of the enemy's frame
 Picking Star\nMove
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all the "crash" and "take" styles gained by the user are changed to "point" styles
+After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all the "Punch" and "Hold" styles gained by the user are changed to "Point" styles
 Jade Well Hands
 When this technique is at 100% of its power, it will absorb 2 points of true qi from the enemy, and the type of true qi to be absorbed is the lowest amount of true qi of the user; if the user's true qi is still lower than its initial value after absorbing the enemy's true qi, the user will absorb an additional 3 points of this type of true qi from the enemy
 Latency Yin\nFinger
@@ -1385,46 +1386,46 @@ The Ultra One\nCrystal Finger
 Changing the Ext. Def. for Ext. Pen.
 During the process of performing this technique: most of the External Defense changes between the user and the enemy to External Penetration; all direct external injuries suffered by the user will not exceed 2 levels of injury
 10 Methods of\nJieqing
-When this technique is used at 100% of its power, for every 2 "bullet" styles the user has, the level of damage caused by the user to the enemy will increase by 1 extra level.
+When this technique is used at 100% of its power, for every 2 "Shot" styles the user has, the level of damage caused by the user to the enemy will increase by 1 extra level.
 Leaf Picking
-After this technique is at least 10% powerful, the user gains 4 levels of this effect: all the "Throw" and "Royal" styles obtained by the user are changed to "Bullet" styles.
+After this technique is at least 10% powerful, the user gains 4 levels of this effect: all the "Throw" and "Drive" styles obtained by the user are changed to "Shot" styles.
 6 Hands of\nShadowless
-Obtain special kill style
-When this technique is used at least 10% of its power, the user gains 1 "kill" style.
+Obtain special Kill style
+When this technique is used at least 10% of its power, the user gains 1 "Kill" style.
 Shooting Star
 Variation of killing arrangement
-If the user has more than one "kill" style when the power of this technique is at 100%, up to 3 "kill" styles will be randomly arranged at the end of the user's stance.
+If the user has more than one "Kill" style when the power of this technique is at 100%, up to 3 "Kill" styles will be randomly arranged at the end of the user's stance.
 Snapshot
 Causes random breakage
-When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever the user gains a "kill" style, the more "kill" styles the user has arranged together, the more random parts of the enemy will be broken.
+When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever the user gains a "Kill" style, the more "Kill" styles the user has arranged together, the more random parts of the enemy will be broken.
 Special Action\nof Trigram Map
 Triggering the kill effect
-If the user has any effects that will take effect because the user gains a "kill" style when this technique is used at 100% of its power, these effects will take effect immediately without depleting the tier, and the user will have a higher chance of gaining a "kill" style after these effects take effect
+If the user has any effects that will take effect because the user gains a "Kill" style when this technique is used at 100% of its power, these effects will take effect immediately without depleting the tier, and the user will have a higher chance of gaining a "Kill" style after these effects take effect
 Throw\nTweet-Dragon
-When you start to perform this technique, the more "kill" styles the user has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the "kill" styles the user has arranged together, which greatly increases the degree of direct damage caused by this technique to the enemy
+When you start to perform this technique, the more "Kill" styles the user has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the "Kill" styles the user has arranged together, which greatly increases the degree of direct damage caused by this technique to the enemy
 Divine Needle\nof Shadow-Stopped
-After this technique has been used for 100% of its power, the user gains 3 levels of this effect: Whenever the user gains the "kill" style, all the enemy's Footwork and Stamina will be lost.
+After this technique has been used for 100% of its power, the user gains 3 levels of this effect: Whenever the user gains the "Kill" style, all the enemy's Footwork and Stamina will be lost.
 Divine\nNone-Thought
 Concealed weapons gain spirituality
 Dark weapon auto attack
-If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has become 100% powerful, the "concealed weapon" used to perform this technique will acquire "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of distance, without counterattack or reflect, whenever the user obtains the "killing" style. When this "concealed weapon" is not used by the user, whenever the user obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without reflect, but the user will not obtain the style and Stance as a result.
-Spirituality: When this "concealed weapon" is not used by the user, whenever the user obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack or reflect, but the user will not obtain the style or Stance for this reason.
+If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has become 100% powerful, the "concealed weapon" used to perform this technique will acquire "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of distance, without counterattack or reflect, whenever the user obtains the "Kill" style. When this "concealed weapon" is not used by the user, whenever the user obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without reflect, but the user will not obtain the style and Stance as a result.
+Spirituality: When this "concealed weapon" is not used by the user, whenever the user obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack or reflect, but the user will not obtain the style or Stance for this reason.
 Jieqing\nRapid Sword
 Continuous execution of sword techniques
-When this technique is at least 10% powerful, the user gains 1 "kill" style; when this technique is 10% powerful, there is a higher chance that this technique will be used to attack the enemy immediately and without consumption from 50% of the progress.
+When this technique is at least 10% powerful, the user gains 1 "Kill" style; when this technique is 10% powerful, there is a higher chance that this technique will be used to attack the enemy immediately and without consumption from 50% of the progress.
 Swordsmanship\nof Intercourse Breaking
-When attacking the enemy with this technique: If the user has 3 "kill" styles arranged together, the higher the user's good sense with the enemy, the more direct damage this technique will cause to the enemy; when the user's good sense with the enemy is not less than intimate, the direct damage caused by this technique will not be reduced for any reason, and the enemy will have a grudge against the user after this technique is performed
+When attacking the enemy with this technique: If the user has 3 "Kill" styles arranged together, the higher the user's good sense with the enemy, the more direct damage this technique will cause to the enemy; when the user's good sense with the enemy is not less than intimate, the direct damage caused by this technique will not be reduced for any reason, and the enemy will have a grudge against the user after this technique is performed
 Sword Intent\nof Fear
 Jieqing Hidden\nRapid Sword
-If the user has at least 2 "kill" styles, the user will be able to perform a ninth-ranked "sword spell" from 50% of the progress of the spell to attack the enemy without consumption.
+If the user has at least 2 "Kill" styles, the user will be able to perform a ninth-ranked "sword spell" from 50% of the progress of the spell to attack the enemy without consumption.
 Swordsmanship\nof Kill
 Killing style is considered a breakthrough
-Disrupt all killing styles
-When attacking an enemy with this technique, all the "kill" stances of the user are considered to be additional weaknesses in the enemy's attacked area; at the end of this technique, all the "kill" stances of the user are disrupted
+Disrupt all Kill styles
+When attacking an enemy with this technique, all the "Kill" styles of the user are considered to be additional weaknesses in the enemy's attacked area; at the end of this technique, all the "Kill" styles of the user are removed
 Swordsmanship\nof Netherworld
 When this technique is used at 100% of its power, the enemy's 3 "Fire" techniques will be "blocked" for a long time.
 Perfect\nSwordsmanship of 7 Ends
-After this technique has been used at 100% of its power, the user gains 7 levels of this effect: whenever the user's "killing" styles change and are aligned together, if this technique is not blocked, the user will immediately perform a sixth-rank "sword technique" to attack the enemy without consumption from 100% of the performance progress, and for each additional "killing" style aligned together, the level of "sword techniques" the user can perform will also increase, up to a maximum of fourth-rank "sword techniques". Sword Technique"; when this effect takes effect, this technique will be inevitably blocked for a short time
+After this technique has been used at 100% of its power, the user gains 7 levels of this effect: whenever the user's "Kill" styles change and are aligned together, if this technique is not blocked, the user will immediately perform a sixth-rank "Sword Technique" to attack the enemy without consumption from 100% of the performance progress, and for each additional "Kill" style aligned together, the level of "sword techniques" the user can perform will also increase, up to a maximum of fourth-rank "Sword Technique"; when this effect takes effect, this technique will be inevitably blocked for a short time
 Mysterious\nSword Intent
 When attacking the enemy with this technique, the deeper the enemy is poisoned with Cryotoxin, the more layers of injury this technique will cause to the enemy in direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Crazy Dog Fist
@@ -1440,7 +1441,7 @@ Blood Evil Palm
 Chest injured
 When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts 100% of its power, it will cause the enemy's chest and back to be "damaged"; "damaged chest and back The person who has a "broken chest" cannot lift more than 60% of his Qi, and the external injury of the externally injured person's chest reaches 4 layers, which is considered as a broken chest, and this serious external injury will not disappear until the externally injured person has healed all the external injury of his chest.
 Bone Melting\nGhost Palm
-When this technique is used at least 10% of its power, if the user has at least 2 "take" styles after this technique, the user will consume only 2 "take" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+When this technique is used at least 10% of its power, if the user has at least 2 "Hold" styles after this technique, the user will consume only 2 "Hold" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Sky Demon Palm
 The strong poison applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Blood Hou's\nEvil Palm
@@ -1485,7 +1486,7 @@ Blood Shadow\nKick
 If the user's Destructive Qi is higher than the initial value and higher than the enemy's Destructive Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user loses 6 points of Destructive Qi at the end of the technique.
 Ghost Poison\nSand
 Change styles
-When this technique is used at least 10% of its power, it will change up to 2 of the user's unusable styles into "poison" styles.
+When this technique is used at least 10% of its power, it will change up to 2 of the user's unusable styles into "Toxic" styles.
 Decayed Worm\nSand
 When attacking an enemy with this technique, the special effect of the enemy's "Aegis" technique cannot take effect if the enemy's poison attacks his heart.
 Bone-Corrosion\nSand
@@ -1534,9 +1535,9 @@ When attacking the enemy with this technique: the armor of the user increases si
 Shaolin Staff\nof 6 Directions
 According to the power of this technique, the power limit of all "Aegis" techniques of the user will be increased by 30% until the end of the battle.
 Shaolin Staff\nof Yin-Yang
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all the "slashing" and "thrusting" styles gained by the user are changed to "teasing" styles
+After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all the "Slash" and "Stab" styles gained by the user are changed to "Hack" styles
 QiMei Staff of\n18 Points
-When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "teasing" styles the user has.
+When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Hack" styles the user has.
 Yakkha Staff
 The maximum attack distance of this technique is increased by 2; when attacking the enemy with this technique, the closer the enemy and me are to the maximum attack distance of this technique, the more the power of this technique is increased
 Staff of\nSheep-Hunting Tigers
@@ -1547,7 +1548,7 @@ Skanda Staff
 Cause Extra WS
 After this technique has been used for ten percent of its power, the user gains 18 layers of this effect: when the user is about to break, he will consume the same number of layers of the effect as the level of the break, causing a break in a random part of the enemy with the same number of layers of the effect consumed, and will not trigger any effect that caused the break.
 The Great\nWisdom Bodhi Staff
-If the user has at least 2 "titillation" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "titillation" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+If the user has at least 2 "Slash" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Slash" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Dharma Staff
 Free Def
 The higher the power of this technique, the more the power of the "Aegis" technique that the user can perform in this way will increase until the end of the "Aegis" technique.
@@ -1577,7 +1578,7 @@ Emei Finger Zen
 Int. Pen. UP
 The Internal Penetration of this technique is increased by the amount of power it exerts.
 Lame Fight\n80 Moves
-When this technique is used at 100% of its power, for every 2 "take" styles the user has, the level of damage the user can cause to the enemy will increase by 1 extra level.
+When this technique is used at 100% of its power, for every 2 "Hold" styles the user has, the level of damage the user can cause to the enemy will increase by 1 extra level.
 Split Flower
 Resolve to Accu
 When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the user's attack on the enemy are lower than the user's Diversion, Parry, or Evasion, the user's corresponding resolution replaces the hit.
@@ -1595,7 +1596,7 @@ Swordsmanship\nof Flower Brush
 Improve your speed
 After at least 10% of the power of this technique is exerted, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the user's swiftness is increased when the user attacks the enemy.
 Swordsmanship\nof Hidden Swordmaster
-After this technique is at least 10% powerful, the user gains 4 levels of this effect: all "slashing" and "teasing" styles gained by the user are changed to "thrusting" styles
+After this technique is at least 10% powerful, the user gains 4 levels of this effect: all "Slash" and "Hack" styles gained by the user are changed to "Stab" styles
 Swordsmanship\nof White Eyebrow
 Swordsmanship\nof Lotus
 When this technique inflicts at least 2 levels of external injury to the enemy, it inflicts 1 additional higher level seal on the enemy's attacked area
@@ -1630,7 +1631,7 @@ After this technique has exerted at least 10% of its power, the user gains 8 lay
 Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Finger Magenta
-When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "point" styles the user has.
+When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Point" styles the user has.
 Blue And White\nFlower Beauty
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the phantom poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Flower Rain
@@ -1645,9 +1646,9 @@ When this technique is used at ten percent of its power, 1 wound mark is added t
 Life Up Power Dn
 When this technique exerts ten percent of its power: cumulative reduction in the power of this technique; cumulative increase in the maximum health of the user; cumulative increase in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will continue until the death of the user; unless the user retakes this technique, this technique will not change to Heterodox practice for any reason
 Needle Control
-When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Royal" styles the user has.
+When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Drive" styles the user has.
 5 Elements\nPinprick
-After at least 10% of the power of this technique is exercised, the user gains 4 levels of this effect: all the "Throw" and "Flick" styles obtained by the user are changed to "Royal" styles.
+After at least 10% of the power of this technique is exercised, the user gains 4 levels of this effect: all the "Throw" and "Shot" styles obtained by the user are changed to "Drive" styles.
 Chilling Pinprick
 When you start to perform this technique, the deeper the enemy is poisoned by Cryotoxin, the more the power of this technique will increase
 Bianque Pinprick
@@ -1682,7 +1683,7 @@ When this technique exerts 100% of its power, it randomly and significantly incr
 Wudang\nLong Fist
 According to the power of this technique, it increases the power limit of all the "Nadis" techniques of the user by 30% until the end of the battle.
 Wind Chasing\nPalm
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "collapse" and "point" styles obtained by the user are changed to "take" styles
+After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "Punch" and "Point" styles obtained by the user are changed to "Hold" styles
 Wudang Soft\nPalm
 When hitting the enemy with this technique, the enemy's protective gear cannot weaken the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Vitality and increases the user's Ext. and Int. Penetration
 The 8 Trigrams\nPalm
@@ -1888,7 +1889,7 @@ Significantly reduce the "enlightenment" consumption of the user
 Reverse -  Sheng Shen Fa
 After each battle, the power of all techniques of the user will be increased and accumulated up to 5 times, and the power of these increases will be reduced every month.
 Reverse -  Subway Method
-Change the "Orthodox" effect of the user's "Zixia" type of technique other than "internal" into a "Heterodox" effect.
+Change the "Orthodox" effect of the user's "Wood" type of technique other than "Internal Arts" into a "Heterodox" effect.
 Reverse -  Dispersion Method
 When the dominant internal element of the user is "Wood", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Reverse -  Xuanwei True Art
@@ -2000,7 +2001,7 @@ Significantly reduces the consumption of Inhale and Stance in the "Fire" type of
 Reverse -  Himalayan mother work
 Reduces the requirements (by 20%) to use the "Bloodhound Cult" techniques of the user
 Reverse -  Black Corpse Four Tips
-Reduces the consumption of Inhale and Stance of the user's "Earth" type of gong
+Reduces the consumption of Inhale and Stance of the user's "Earth" type techniques
 Reverse -  Evil Ghost technique
 When the dominant internal element of the user is "Earth", it reduces the direct damage and repercussion damage caused by the "Wood" type techniques to the user.
 Reverse -  Three Poisonous Ignorance Mantra
@@ -2010,7 +2011,7 @@ Convert the user's "Water" internal energy into "Earth" internal energy. The mor
 Reverse -  Five Yin Dada
 The higher the ratio of the user's "Earth" internal energy, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Child's Blood Refining Method
-Significantly reduces the consumption of Inhale and Stance of the user's "Earth" type of gong.
+Significantly reduces the consumption of Inhale and Stance of the user's "Earth" type techniques.
 Reverse -  Blood Hollow Evil Scripture
 When the internal energy attribute of the user is "Earth", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Reverse -  Blood Child Method
@@ -2059,7 +2060,7 @@ Increasing anti-shock damage
 When defending with this technique, the more storages available to the user, the higher the reflect damage the user can inflict on the enemy.
 Reverse - Seven-Star Cross Chain
 No lifting consumption
-When the user has 7 or more available stances, all "Break" type techniques performed by the user do not need to consume Qi, and the more Qi that is exempted from consumption, the more the power of the technique increases.
+When the user has 7 or more available styles, all "Break" type techniques performed by the user do not need to consume Qi, and the more Qi that is exempted from consumption, the more the power of the technique increases.
 Reverse - Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 non-injury markers
 Reverse - 36 Moves of Needle Change
@@ -2128,7 +2129,7 @@ When defending with this technique, most of the direct external injuries inflict
 Reverse - Overlord's Tripot Lifting
 The heavier the weapon of the user, the more direct damage the enemy will inflict on the user.
 Reverse - Lion Roar
-When the battle starts and the total number of defeat marks of the user exceeds half of the defeat condition, all the enemy's boosts and stances are removed
+When the battle starts and also when the total number of defeat marks of the user exceeds half of the defeat condition, all of the enemy's Inhale and Stance are removed
 Reverse - Overlord's Armor Absorb
 When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Destructive" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the "Destructive" True Qi depleted by the user will change to "Body Protective" True Qi
 Reverse - 5 Ghosts Handling
@@ -2219,9 +2220,9 @@ When defending with this technique: all direct damage received by the user is re
 Reverse - Vidya-Raja Fire
 When defending with this technique, whenever the user Diversion an enemy's attack, the user applies a large amount of depressive "poison" to the enemy.
 Reverse - The Great Handprint
-As long as the sum of all types of true qi of the enemy is higher than the sum of all types of true qi of the user, the number of styles possessed by the enemy cannot exceed the number of styles possessed by the user
+只要敌人所有类型的真气数量的总和高于运用者所有类型的真气数量的总和，敌人拥有的“神”式以外的式的数量就无法超过运用者拥有的式的数量
 Reverse - Buddha Body
-When defending with this technique, every 3 points of the user's "Break" true qi can remove 1 non-injury marker caused by the enemy to the user
+以此功法进行防御时：敌人对运用者造成的重创标记减半；运用者的每2点「护体」真气，可以消除敌人对运用者造成的1个非伤势标记，但运用者的内息紊乱会因此增加
 Reverse - Lost Worm Incense
 Whenever toxicity strikes the user, the user receives a number of Gu equal to the marker of the onset of toxin
 Reverse - Disgusting Miasma
@@ -2240,13 +2241,14 @@ For each type of Gu applied to the user, the user's random type of true qi will 
 Reverse - Ghost Included
 When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 Disorientation mark to the enemy for every 2 wound marks the enemy has
 Reverse - Sky Snake Bone Exchange
-The user's internal injuries will be removed over time; when the total number of the user's defeat markers exceeds half of the defeat condition, the user's existing internal wounds will only be aggravated by more severe internal wounds to the same area.
+Invalidated by severe internal injuries
+运用者的内伤标记会随时间自行消除；除非运用者受到内伤时，受伤的身体部位已有4层内伤，否则运用者不会受到内伤重创
 Reverse - Sky Bridge
 Eliminate all breakdowns
 Whenever the total number of broken spots in the whole body of the user is not less than 7, all the broken spots on the user's body will be eliminated, and no effect from the elimination of the broken spots will be triggered.
 Reverse - River Immortals Wedding
 Handover Styles
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, one of the user's unavailable stances will be transferred to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 1 of the user's unavailable styles will be transferred to the enemy.
 Reverse - 6 Turn of Royal
 When defending with this technique, whenever the user dodges an enemy's attack, the user draws 1 point of "Break" True Qi from the enemy's body.
 Reverse - 8 Threads of Frozen
@@ -2319,7 +2321,7 @@ When retreating with this Footwork, the user needs to accumulate power to move 1
 Reverse - Unpredictable
 Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the enemy's Stamina is lost.
 Reverse - Lotus Displacement
-During the duration of this Footwork, every time the user accumulates 1 distance back, the 3 unavailable stances of the user are exchanged with the 3 available stances of the enemy.
+During the duration of this Footwork, every time the user accumulates 1 distance back, the 3 unavailable styles of the user are exchanged with the 3 available styles of the enemy.
 Reverse - Shuttle's Swift
 During the duration of this Footwork, if the amount of "attack tokens" the user has is higher than the amount of "attack tokens" enemy has, the Attack Speed of the enemy is significantly reduced
 Reverse - Moonlight Shadow
@@ -2327,7 +2329,7 @@ During the duration of this Footwork: the maximum amount of "attack tokens" of t
 Reverse - Golden Fairy
 When retreating with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the stronger of a buff will be applied to the user which improves Might, Finesse and Swiftness. 
 Reverse - Needle Lift-Up
-During the duration of this technique, whenever an enemy acquires the "Take", "Lift", or "Defend" styles, if the user can use these styles, there is a higher chance that the enemy's acquired styles will be transferred to the user.
+During the duration of this technique, whenever an enemy acquires the "Hold", "Slash", or "Drive" styles, if the user can use these styles, there is a higher chance that the enemy's acquired styles will be transferred to the user.
 Reverse - Shadow Surround
 During the duration of this technique, whenever the user hits the enemy with a "flute" type weapon, the enemy's Stamina will be lost.
 Reverse - Flying Needle
@@ -2445,7 +2447,7 @@ Reverse - Stone Sink
 Diversion all basic Atk
 During the duration of this Footwork, as long as the enemy does not have an effect that can change the way of hitting, all the enemy's weapon attacks can be defeated by the user's Diversion.
 Reverse - Immobilize
-During the duration of this Footwork, whenever an enemy acquires "Bash", "Slash" or "Throw" stances, if the user can use these stances, the stances acquired by the enemy will have a higher chance of being transferred to the user.
+During the duration of this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
 Reverse - Vajra Stance
 Whenever the user hits an enemy with a "Club" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Divine Footsteps
@@ -2516,9 +2518,9 @@ Reverse - Mountain\nPushing Palm
 Reducing the Diversion of the enemy
 After this technique has exerted at least 10% of its power, the user gains 8 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's Diversion power will be reduced when the user attacks the enemy.
 Reverse - Iron Fist of\nLion Phase
-When this technique is used at least 10% of its power, the user gains 2 "crash" styles
+When this technique is used at least 10% of its power, the user gains 2 "Punch" styles
 Reverse - Gate Breaker\n8 Moves
-When this technique is used at 100% of its power, for every 3 "Avalanche" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Punch" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - The Great\nStonebreaker
 E·PhD·QiD Dn
 When attacking the enemy with this technique: the armor of the user increases significantly; if the armor of the user is higher than the toughness of the enemy, the enemy's External Defense and Internal Defense decrease significantly
@@ -2534,11 +2536,11 @@ When attacking an enemy with this technique, if the enemy is using the "Quick" t
 Reverse - Great Slow Hand
 At the end of this technique, the enemy's Diversion will be reduced, and the user will immediately perform this technique again without consumption from 50% of the progress until the enemy leaves the attack range of this technique.
 Reverse - Ground Blade\nof Lion Face
-When you start to perform this technique, you will regain the strength of your feet; during the process of performing this technique, you can retreat up to 2 distances.
+When you start to perform this technique, you will regain your Stamina; during the process of performing this technique, you can retreat up to 2 distances.
 Reverse - Rapid Blade\nof Mountain Cleave
-When this technique is used at least 10% of its power, the user gains 2 "slashes".
+When this technique is used at least 10% of its power, the user gains 2 "Slash" styles.
 Reverse - Shield Blade\nof Lion Phase
-When this technique is used at 100% of its power, for every 3 "slashes" the user has, the user will inflict an additional break on the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Slash" styles the user has, the user will inflict an additional break on the enemy's attacked area.
 Reverse - Tremendous\nEffort Blade
 When you start to perform this technique, the more Strength the user has consumed, the more the power of this technique will increase
 Reverse - Blade of\nAo Slashing
@@ -2641,7 +2643,7 @@ When this technique is performed, the enemy is temporarily affected by all of th
 Reverse - Sky Earth Finger
 If the enemy's dominant internal element is "Earth" when this technique is used at 100% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
 Reverse - Swordsmanship\nof Round-Trip
-When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "thrust" style.
+When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy fails to obtain the "Stab" style.
 Reverse - Swordsmanship\nof Sanchin
 When this technique exerts at least 10% of its power, the enemy loses 2 points of "Nadis" true qi.
 Reverse - Flying Sword
@@ -2657,7 +2659,7 @@ When attacking an enemy with this technique, if this technique can cause direct 
 Reverse - Origin\nSword Intent
 If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Qi or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
 Reverse - Ever-Changing\n14 Swordmanship
-When attacking an enemy with this technique, the user only hits with the highest of its Might, Finesse, and Swiftness, and only attacks with the highest of its External Penetration and Internal Penetration power; after this technique has reached 100% of its power, the user gains 3 levels of this effect: when an enemy performs any "Break" technique that consumes the "Hack", "Stab", or "Slash" style, if the user can use the "Hack", "Stab", or "Slash" style, the user immediately performs the same technique to attack the enemy without consumption, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
+When attacking an enemy with this technique, the user only hits with the highest of his Might, Finesse, and Swiftness, and only attacks with the highest of his Ext. and Int.  Penetration values; after this technique has reached 100% of its power, the user gains 3 levels of this effect: when an enemy performs any "Break" technique that consumes the "Hack", "Stab", or "Slash" style, if the user can use the "Hack", "Stab", or "Slash" style, the user immediately performs the same technique to attack the enemy without consumption, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 Reverse - Tripping Spell
 When this spell is used at ten percent of its power, it can greatly restore the user's Footwork and Stamina.
 Reverse - Disable
@@ -2797,7 +2799,7 @@ The maximum attack distance of this technique is greatly increased; when this te
 Reverse - Web
 After this technique has reached 100% of its power, the user gains 30 layers of this effect: whenever the enemy retreats, the user consumes 1 layer of this effect per 0.1 distance to offset the distance the enemy moves
 Reverse - Mt.Tai Lock
-When this technique is used at 100% of its power, it immediately closes a number of acupuncture points on the enemy's hands equal to the number of "ki" styles possessed by the user, and consumes all of the user's "ki" styles; the closed acupuncture points caused by this technique cannot be enhanced by any effect, and the time it takes to close the acupuncture points is shorter.
+When this technique is used at 100% of its power, it immediately closes a number of acupuncture points on the enemy's hands equal to the number of "Ware" styles possessed by the user, and consumes all of the user's "Ware" styles; the closed acupuncture points caused by this technique cannot be enhanced by any effect, and the time it takes to close the acupuncture points is shorter.
 Reverse - Mechanic Hawk
 After this technique has reached 100% of its power, the user gains 6 levels of this effect: Whenever the user inflicts a direct internal wound on an enemy, if the user consumes an additional "Ware" style, he will inflict 1 level of non-direct internal wound on a random part of the enemy, and this internal wound will immediately change to an old wound that is more difficult to recover from.
 Reverse - The Impulse
@@ -2843,11 +2845,11 @@ When this technique is at its tenth power, it will plant the Golden Silkworms Gu
 Reverse - A Hundred\nColors Marrow Insanity
 此功法发挥十成威力时，为运用者种下青髓若蛊；青髓若蛊会根据宿主与对手的蛊引数量，持续增加宿主施展的功法的威力，最多增加60%；青髓若蛊每次发作后需要消耗宿主或对手的4个蛊引，否则就会死亡
 Reverse - Swordsmanship\nof Green Beard
-When this technique is at least 10% of the power, the user gains 2 levels of this effect: the enemy cannot obtain the "tease" style.
+When this technique is at least 10% of the power, the user gains 2 levels of this effect: the enemy fails to obtain the "Hack" style.
 Reverse - Swordsmanship\nof Billhook
 Based on the power of this technique, applies a Movement Speed debuff to the enemy；When this technique is performed with at least 10% power, bring the enemy closer by 2 distance
 Reverse - Swordsmanship\nof Ghost Old Lady
-When this technique is used at 100% of its power, for every 3 "Stab" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Stab" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - Holy Wood\nSwordsmanship
 When the power of this technique is at 100%, part of the power of this technique will be transferred to 2 random "Break" techniques of the user, which will last until the power of this technique is not at 100%, then the transferred power will be restored and multiplied when it is restored, which will last until the end of the battle.
 Reverse - Soul Chasing\nSwordsmanship
@@ -2936,7 +2938,7 @@ When attacking an enemy with this technique: the armor of the user is greatly in
 Reverse - Soul Heat Palm
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Aegis" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Reverse - Vajra\nAnnihilation Hands
-When you start to perform this technique, you will consume all the "Avalanche" style of the user. The more "Avalanche" style the user consumes, the more the power of this technique will increase.
+When you start to perform this technique, you will consume all the "Punch" styles of the user. The more "Punch" styles the user consumes, the more the power of this technique will increase.
 Reverse - 4 Divine Palm
 When this technique exerts at least 10% of its power, it accumulates 1 layer of effect, up to a maximum of 4 layers: accumulate 1 layer, the power of this technique increases significantly; accumulate 2 layers, the minimum attack distance of this technique is reduced; accumulate 3 layers, the direct internal injuries caused by this technique will not be reduced for any reason; accumulate 4 layers, at the end of the performance of this technique, all the qi consumed by the performance of this technique is restored
 Reverse - The Great Sun\nBuddha Palm
@@ -3002,38 +3004,38 @@ Reverse - The Ultra One\nCrystal Finger
 Changing Int. Def. to Int. Pen.
 During the process of performing this technique: most of the Internal Defense of the user and the enemy changes to Internal Penetration; all direct internal injuries suffered by the user will not exceed 2 levels of injury
 Reverse - 10 Methods of\nJieqing
-When this technique is used at 100% of its power, for every 3 "bullet" stances the user has, the user will inflict an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Shot" styles the user has, the user will inflict an additional 1 damage to the enemy's attacked area.
 Reverse - Leaf Picking
-When this technique is used at least 10% of its power, the user gains 2 "bullet" styles
+When this technique is used at least 10% of its power, the user gains 2 "Shot" styles
 Reverse - 6 Hands of\nShadowless
-Make the enemy get the kill style
-When this technique is used at least 10% of its power, the enemy gains 1 "kill" style
+Make the enemy get the Kill style
+When this technique is used at least 10% of its power, the enemy gains 1 "Kill" style
 Reverse - Shooting Star
-If the enemy has more than one "kill" style when this technique is at its tenth power, randomly place up to three "kill" styles at the end of the enemy's stance.
+If the enemy has more than one "Kill" style when this technique is at its tenth power, randomly place up to 3 "Kill" styles at the end of the enemy's stance.
 Reverse - Snapshot
-When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever an enemy obtains a "kill" style, the more "kill" styles the enemy has arranged together, the more random parts of the enemy appear to be broken.
+When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever an enemy obtains a "Kill" style, the more "Kill" styles the enemy has arranged together, the more random parts of the enemy appear to be broken.
 Reverse - Special Action\nof Trigram Map
-When this technique is used at 100% of its power, if the user has any effects that will take effect because "the enemy gains "kill" style", these effects will take effect immediately without depleting the tier, and the enemy will have a higher chance of gaining 1 "kill" style after these effects take effect
+When this technique is used at 100% of its power, if the user has any effects that will take effect because "the enemy gains "Kill" style", these effects will take effect immediately without depleting the tier, and the enemy will have a higher chance of gaining 1 "Kill" style after these effects take effect
 Reverse - Throw\nTweet-Dragon
-When you start to perform this technique, the more "kill" styles the enemy has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the enemy's arranged "kill" styles and greatly increase the degree of direct damage caused by this technique to the enemy
+When you start to perform this technique, the more "Kill" styles the enemy has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the enemy's arranged "Kill" styles and greatly increase the degree of direct damage caused by this technique to the enemy
 Reverse - Divine Needle\nof Shadow-Stopped
-After this technique has been used for 100% of its power, the user gains 3 levels of this effect: Whenever an enemy gains the "kill" style, all of the enemy's Footwork and Stamina will be lost.
+After this technique has been used for 100% of its power, the user gains 3 levels of this effect: Whenever an enemy gains the "Kill" style, all of the enemy's Footwork and Stamina will be lost.
 Reverse - Divine\nNone-Thought
-If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has been used at 100% of its power, the "concealed weapon" used to perform this technique will gain "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of the distance, without counter-attack and without reflect, whenever the enemy gains "killing" style before it is used by the user. When this "concealed weapon" is not used by the user, whenever the enemy obtains the "kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without reflect, but the user will not obtain the style and Stance as a result.
-Spirituality: When this "concealed weapon" is not used by the user, whenever the enemy gets the "kill" style, it will immediately attack the enemy on its own without distance, counterattack or shock, but the user will not get the style and Stance for it.
+If the weapon used by the user has "spirit" at the beginning of this technique, the power of this technique will be greatly increased; after this technique has been used at 100% of its power, the "concealed weapon" used to perform this technique will gain "spirit" in this battle: this "concealed weapon" will immediately attack the enemy on its own, regardless of the distance, without counter-attack and without reflect, whenever the enemy gains "Kill" style before it is used by the user. When this "concealed weapon" is not used by the user, whenever the enemy obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without counterattack and without reflect, but the user will not obtain the style and Stance as a result.
+Spirituality: When this "concealed weapon" is not used by the user, whenever the enemy gets the "Kill" style, it will immediately attack the enemy on its own without distance, counterattack or shock, but the user will not get the style and Stance for it.
 Reverse - Jieqing\nRapid Sword
-When this technique is at least 10% powerful, the enemy will get 1 "kill" style; when this technique is 10% powerful, there is a higher chance that the enemy will be attacked by this technique immediately without consumption from 50% of its progress.
+When this technique is at least 10% powerful, the enemy will get 1 "Kill" style; when this technique is 10% powerful, there is a higher chance that the enemy will be attacked by this technique immediately without consumption from 50% of its progress.
 Reverse - Swordsmanship\nof Intercourse Breaking
-When attacking the enemy with this technique: If the enemy has 3 "kill" styles arranged together, the higher the good sense of the user and the enemy, the more direct damage this technique will cause to the enemy, and when the good sense of the user and the enemy is not less than intimate, the direct damage caused by this technique will not be reduced for any reason, and the enemy will have a grudge against the user after this technique is performed.
+When attacking the enemy with this technique: If the enemy has 3 "Kill" styles arranged together, the higher the good sense of the user and the enemy, the more direct damage this technique will cause to the enemy, and when the good sense of the user and the enemy is not less than intimate, the direct damage caused by this technique will not be reduced for any reason, and the enemy will have a grudge against the user after this technique is performed.
 Reverse - Sword Intent\nof Fear
 Reverse - Jieqing Hidden\nRapid Sword
-If the enemy has at least 2 "kill" styles, the user will be able to perform the 9th rank of "sword technique" immediately from 50% of the execution progress without consumption.
+If the enemy has at least 2 "Kill" styles, the user will be able to perform the 9th rank of "sword technique" immediately from 50% of the execution progress without consumption.
 Reverse - Swordsmanship\nof Kill
-When attacking an enemy with this technique, all the "kill" styles of the enemy that are aligned together will be considered as additional weaknesses in the enemy's attacked area; at the end of this technique, all the enemy's "kill" styles will be disrupted
+When attacking an enemy with this technique, all the "Kill" styles of the enemy that are aligned together will be considered as additional weaknesses in the enemy's attacked area; at the end of this technique, all the enemy's "Kill" styles will be disrupted
 Reverse - Swordsmanship\nof Netherworld
 When this technique is used at 100% of its power, the power of the enemy's 3 "Fire" techniques is reduced and lasts until the end of the battle.
 Reverse - Perfect\nSwordsmanship of 7 Ends
-After this technique has been used at 100% of its power, the user gains 7 levels of this effect: Whenever the enemy's "killing" styles change and are aligned together, if this technique is not blocked, the user will immediately perform a sixth-rank "sword technique" to attack the enemy without consumption from 100% of the performance progress. "When this effect takes effect, this technique will inevitably be blocked for a short period of time.
+After this technique has been used at 100% of its power, the user gains 7 levels of this effect: Whenever the enemy's "Kill" styles change and are aligned together, if this technique is not blocked, the user will immediately perform a sixth-rank "sword technique" to attack the enemy without consumption from 100% of the performance progress. "When this effect takes effect, this technique will inevitably be blocked for a short period of time.
 Reverse - Mysterious\nSword Intent
 When attacking an enemy with this technique, the deeper the Cryotoxin the user is struck by, the more layers of injury this technique will cause to the enemy in terms of direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Reverse - Crazy Dog Fist
@@ -3089,7 +3091,7 @@ Reverse - Blood Shadow\nKick
 If the user's Destructive Qi is lower than the initial value and lower than the enemy's Destructive Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user gains 6 points of Destructive Qi at the end of the technique.
 Reverse - Ghost Poison\nSand
 Change E·style
-When this technique is used at least 10% of its power, it will change up to 2 of the enemy's available stances into "poison" stances.
+When this technique is used at least 10% of its power, it will change up to 2 of the enemy's available styles into "Toxic" styles.
 Reverse - Decayed Worm\nSand
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's poison attacks his heart.
 Reverse - Bone-Corrosion\nSand
@@ -3135,9 +3137,9 @@ When attacking the enemy with this technique: the armor of the user increases dr
 Reverse - Shaolin Staff\nof 6 Directions
 Based on the power of this technique, the user's requirements to use all "Aegis" techniques will be reduced until the end of the battle.
 Reverse - Shaolin Staff\nof Yin-Yang
-When this technique is used at least 10% of its power, the user gains 2 "tantalizing" styles
+When this technique is used at least 10% of its power, the user gains 2 "Slash" styles
 Reverse - QiMei Staff of\n18 Points
-When this technique is used at 100% of its power, for every 3 "tantalizing" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Slash" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - Yakkha Staff
 The minimum attack distance of this technique is reduced by 2; when attacking the enemy with this technique, the closer the enemy and me are to the minimum attack distance of this technique, the more the power of this technique is increased
 Reverse - Staff of\nSheep-Hunting Tigers
@@ -3174,7 +3176,7 @@ Reduces the power of all the enemy's "Quick" techniques by the amount of power t
 Reverse - Emei Finger Zen
 Based on the power of this technique, apply a Internal Defense debuff to the enemy
 Reverse - Lame Fight\n80 Moves
-When this technique is used at 100% of its power, for every 3 "take" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Hold" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - Split Flower
 When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's Diversion, Parry, and Evasion, the enemy's corresponding resolution will replace the hit.
 Reverse - Lighten Finger
@@ -3190,7 +3192,7 @@ Reverse - Swordsmanship\nof Flower Brush
 Reduce enemy's dodge
 After at least 10% of the power of this technique, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the enemy's evasion will be reduced when the user attacks the enemy
 Reverse - Swordsmanship\nof Hidden Swordmaster
-When this technique is used at least 10% of its power, the user gains 2 "stab" styles
+When this technique is used at least 10% of its power, the user gains 2 "Stab" styles
 Reverse - Swordsmanship\nof White Eyebrow
 Reverse - Swordsmanship\nof Lotus
 When this technique inflicts at least 2 levels of direct internal damage to the enemy, it inflicts 1 additional higher level seal on the enemy's attacked area
@@ -3224,7 +3226,7 @@ After at least 10% of the power of this technique is exerted, the user gains 8 l
 Reverse - Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Finger Magenta
-When this technique is used at 100% of its power, for every 3 "point" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Point" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - Blue And White\nFlower Beauty
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the phantom poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Flower Rain
@@ -3238,9 +3240,9 @@ When this technique is used at ten percent of its power, 1 wound mark is added t
 Reverse - 8 Moves of\nBlood Red Flower
 When this technique exerts ten percent of its power: cumulative increase in the power of this technique; cumulative reduction in the maximum health of the user; cumulative reduction in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will last until the death of the user; unless the user retakes this technique, this technique will not change to Orthodox practice for any reason
 Reverse - Needle Control
-When this technique is used at 100% of its power, for every 3 "Royal" stances the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Drive" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - 5 Elements\nPinprick
-When this technique is used at least 10% of its power, the user gains 2 "Royal" styles.
+When this technique is used at least 10% of its power, the user gains 2 "Drive" styles.
 Reverse - Chilling Pinprick
 When you start to perform this technique, the deeper the Cryotoxin in the user, the more the power of this technique will increase
 Reverse - Bianque Pinprick
@@ -3276,7 +3278,7 @@ When this technique exerts 100% of its power, it randomly and significantly redu
 Reverse - Wudang\nLong Fist
 Based on the power of this technique, the user's requirement for the use of all "Nadis" techniques will be reduced until the end of the battle.
 Reverse - Wind Chasing\nPalm
-When this technique is used at least 10% of its power, the user gains 2 "take" styles
+When this technique is used at least 10% of its power, the user gains 2 "Hold" styles
 Reverse - Wudang Soft\nPalm
 When hitting the enemy with this technique, the enemy's protective gear cannot weaken the attack effect of the user; after this technique exerts at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Vitality to improve the user's Ext. and Int. Defense
 Reverse - The 8 Trigrams\nPalm
@@ -3562,7 +3564,7 @@ Clouds and water into spiritual clothes
 When defending with this divine power, the more poison markers the enemy has, the higher the chance that MoM will directly neutralize the enemy's attack
 Undefeated
 Immunity from direct damage
-When defending with this divine power, Danyue Yao Chang is protected from all direct damage that would cause his part to reach 6 levels of injury
+以此神力进行防御时，大岳瑶常免受所有会导致其部位伤势达到6层的直接伤害及重创
 Frost and Ice
 When defending with this divine power, whenever the enemy hits Jiuxian, the enemy's lift and Stance will be reduced
 Nine Pods
@@ -3586,7 +3588,7 @@ Induced position damage
 When defending with this divine power, the Sagashiki will continue to cause external injuries to the righteous enemy, internal injuries to the benevolent enemy, poisoning to the neutral enemy, blocking to the rebellious enemy, and breaking to the egoistic enemy, depending on the enemy's position in the world.
 No extinction of stone heart
 Accelerated marker removal
-When defending with this divine power, the rate of disappearance of all the marks of defeat that will fade over time will be doubled.
+以此神力进行防御时，染尘子免受重创，且染尘子所有会随时间逐渐消失的战败标记的消失速度均会加倍
 Phantom Heart
 When defending with this divine power, for every 1 buff of Huanxin, the degree of injury of all direct damage received is reduced by 1 level
 the moon in a false sense
@@ -3597,7 +3599,7 @@ When defending with this divine power, the degree of injury caused by the Dragon
 Donglai Yiqi
 The direct damage inflicted by Mo Mui on characters with the dominant internal element of "Earth" is greatly increased; the direct damage inflicted by characters with the dominant internal element of "Metal" on Mo Mui is greatly increased
 Vajra Breaks Evil
-The direct damage dealt by Dayue Yaochang to characters with the dominant internal element "Zi Xia" is greatly increased; the direct damage dealt by characters with the dominant internal element "Fire" to Dayue Yaochang is greatly increased
+The direct damage dealt by Dayue Yaochang to characters with the dominant internal element "Wood" is greatly increased; the direct damage dealt by characters with the dominant internal element "Fire" to Dayue Yaochang is greatly increased
 The Nine Netherworlds
 The direct damage dealt by Jiu Han to characters with internal energy attribute "Fire" is greatly increased; the direct damage dealt by characters with internal energy attribute "Earth" to Jiu Han is greatly increased
 Extra-Terrestrial True Fire
@@ -3631,7 +3633,7 @@ Resentment arises from greed and anger!
 When the "Demon Child" cannot be blocked, all of the defeat markings of the divine swords "Burning God's Refinement", "Unleashing Dragon's Soul" and "Demon Wood" will be changed to defeat markings. When he calls out Excalibur "Burning God Refinery", "Unleashing Dragon Spirit" and "Imprisoning Demon Wood", all his defeat marks will be changed to "Loss of Spirit" immediately; thereafter, all the defeat marks he receives will be changed to "Loss of Spirit" and will last until he calls out other Excalibur.
 Ten generations of one
 Ten lifetimes to one!
-“十世一人”无法被封禁；染尘子唤出神剑“鬼神霞”后，无法被击败，且会立即无消耗施展神力“九剑·鬼神霞”
+"Ten lifetimes of one person" cannot be blocked; after Dyeing Dusty calls out the divine sword "Ghost God Xia", he cannot be defeated and will immediately perform the divine power "Nine Swords - Ghost God Xia" without consumption
 Deadly robbery
 When Huan Xin has the "God" style, the direct damage taken is greatly reduced and the direct damage dealt is greatly increased; when Huan Xin does not have the "God" style, the direct damage taken is greatly increased and the direct damage dealt is greatly reduced
 Silent Dream
@@ -3701,8 +3703,8 @@ Repel and damage the enemy
 When this divine power exerts ten percent of its power, the golden phoenixer knocks the enemy back 6 distance, and if the distance between the enemy and the enemy's maximum distance is less than 6, loses all of the enemy's Footwork and Stamina, and inflicts 3 layers of old wounds that are more difficult to recover from in random parts of the enemy
 When this divine power exerts ten percent of its power, the user will knock the enemy back 6 distance, and if the distance between the enemy and the maximum distance between the enemy and us is less than 6, all the enemy's Footwork and Stamina will be lost and 3 layers of old wounds that are more difficult to recover will be inflicted on the enemy in random parts
 Goodness HeShi
-此神力施展结束时，金凰儿获得6层此效果：金凰儿的兵器攻击会重复4次
-此神力施展结束时，运用者获得6层此效果：运用者的兵器攻击会重复4次
+At the end of this divine power, Golden Phoenix gains 6 levels of this effect: Golden Phoenix's weapon attacks will repeat 4 times
+At the end of this power, the user gains 6 levels of this effect: the user's weapon attack will be repeated 4 times.
 The phoenix leads the nine daughters
 At the end of this power, Jin Huo'er gains 18 levels of this effect: the enemy will continue to have 2 weaknesses; every time the enemy has a weakness due to this effect, the number of levels of this effect is reduced by 1
 Golden Plume Breaks the Sky
