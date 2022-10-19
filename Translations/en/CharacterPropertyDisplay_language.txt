@@ -11,49 +11,49 @@ It represents the inner force, bone, and blood quality...\n\n<color=#pinkyellow>
 COM
 It represents understanding of a person, their perception, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_1>Finesse and<SpName=mousetip_huajie_1>Parry.\n·Increase can be achieved through<SpName=mousetip_zhuyao_5>using Comprehension, weapons, armor, studying better books, and breaking through martial arts.\n·Helps with studying books and Martial Art breakthroughs.</color>
 MIG
-以强大的力量击溃敌人，对敌人造成伤害的能力…\n\n<color=#pinkyellow>·基于力道的攻击方式有崩、劈、掷等</color>
+The ability to crush an enemy with great force and inflict damage on them...\n\n<color=#pinkyellow>·Force-based attacks such as Punch, Hack, Throw, etc.</color>
 FIN
-以巧妙的招式牵制敌人，对敌人造成伤害的能力…\n\n<color=#pinkyellow>·基于精妙的攻击方式有拿、撩、御等</color>
+The ability to hold the enemy in check with clever moves and inflict damage on them...\n\n<color=#pinkyellow>·Subtle-based attacks such as Hold, Slash, Drive, etc.</color>
 SWI
-以极快的速度攻击敌人，对敌人造成伤害的能力…\n\n<color=#pinkyellow>·基于迅疾的攻击方式有点、刺、弹等</color>
+The ability to attack an enemy with great speed and inflict damage on them...\n\n<color=#pinkyellow>·Swift-based attacks such as Point, Stab, Shot, etc.</color>
 HEA
-以摄人的魔音迷惑敌人，对敌人造成伤害的能力…\n\n<color=#pinkyellow>·基于动心的攻击方式有音、咒等</color>
+The ability to confuse enemies with a regal magical sound and inflict damage on them...\n\n<color=#pinkyellow>·Mind-based attacks such as Sound, Spell, etc.</color>
 Ext. Pen.
 The ability to break through the enemy's External Defense and increase the external wounds suffered by the enemy...
 Int. Pen.
 The ability to break through the enemy's Internal Defense and increase the internal injuries suffered by the enemy...
 DIV
-卸去敌人的劲力，避免因受到力道攻击而受伤的能力…
+The ability to diverse the enemy's strength and avoid injury from Might attacks...
 PAR
-拆解敌人的招式，避免因受到精妙攻击而受伤的能力…
+The ability to parry the enemy's moves and avoid being injured by Finesse attacks...
 EVA
-闪躲敌人的攻击，避免因受到迅疾攻击而受伤的能力…
+The ability to evade enemy attacks and avoid injury from Swiftness attacks...
 FOC
-抵御敌人的魔音，避免因受到动心攻击而受伤的能力…
+The ability to resist the enemy's magical voice and avoid being injured by Breath attacks...
 Ext. Def.
-外壮筋骨，固体护身，减轻受到的外伤的能力…
+The ability to strengthen the muscles and bones externally, protect the body solidly, and mitigate the sustained external injuries...
 Int. Def.
-内涤元神，守脉行气，减轻受到的内伤的能力…
+The ability to internally cleanse the vital energy, guard the chakra and move the qi, and mitigate the sustained internal injuries...
 Stance Recovery
-架势恢复越高，人物每次进行兵器攻击和每次受到兵器攻击时获得的架势值就越多，架势值主要用于施展外门功法
+The higher the Stance Recovery, the more Stance the character will receive each time he makes a weapon attack and each time he is attacked by a weapon. \nStance is mainly used to perform External skills.
 Inhale Recovery
-提气恢复越高，人物的提气值就恢复的越快，提气值主要用于施展内门功法
+The higher the Inhale Recovery, the faster the character's Inhale will recover. \nInhale is mainly used to perform Internal skills.
 MOV·Spd
-移动速度越高，人物在战斗中移动的速度越快
+The higher the Move Speed, the faster the character moves in battle.
 Ext. Recovery
-步伐稳健越高，人物在战斗中受到的破绽就消失得越快
+The higher the External Recovery, the faster the external injures character suffers in battle disappear.
 Cast Speed
-施展速度越高，人物在战斗中施展功法的速度就越快
+The higher the Cast Speed, the faster the character can cast skills in battle.
 Int. Recovery
-引气冲关越高，人物在战斗中受到的封穴就解开得越快
+The higher the Internal Recovery, the faster character will recover from internal injuries suffered in battle
 Wp·Switch CD
-兵器切换越高，人物在战斗中切换兵器的间隔时间就越短
+The higher the Weapon Switch Cooldown, the shorter the cooldown of switching weapons in battle
 Attack Speed
-攻击速度越高，人物在战斗中用于兵器攻击的攻势就恢复的越快
+The higher the Attack Speed, the faster the character will recover "attack tokens" that are used for weapon attacks in battle
 Int Ratio Bonus
-内功发挥越高，人物能够调整的功法、兵器的内、外功比例的范围就越广
+The higher the Internal Ratio Bonus, the wider the range of Internal and External power ratio of skills and weapons that the character can adjust
 Internal Breath
-调息吐纳越高，人物的内息紊乱就恢复的越快，受到的内息紊乱就越少
+调息吐纳越高，人物的内息紊乱就恢复的越快，受到的内息紊乱就越少，战斗中超过初始值的真气也消散地越慢，低于初始值的真气也恢复地越快
 Acritoxin Res
 守护心脉，抵抗烈毒的能力…
 Umbritoxin Res
@@ -127,7 +127,7 @@ Taoism attainment
 Buddhism attainment
 人物对佛学的认识、运用乃至成就…
 Culinary Arts attainment
-人物对厨艺的认识、运用乃至成就…
+The characters' knowledge, use and even achievement of the culinary arts...
 Lore attainment
 人物对杂学的认识、运用乃至成就…
 Inner Arts talent
@@ -201,7 +201,7 @@ The character's favor from the heavens.
 Perceptive
 Nothing get's past this character's perceptive gaze...
 Charm
-魅力代表着人物的相貌美丑和人格魅力…\n\n<color=#pinkyellow>·年幼之人的魅力没有高低之分\n·衣不蔽体会导致人物的魅力大减\n·魅力的评价从低到高：\n\n<SpName=mousetip_meili_0><color=#AttractionType_NonHuman>非人</color>\n<SpName=mousetip_meili_1><color=#AttractionType_Odious>可憎</color>\n<SpName=mousetip_meili_2><color=#AttractionType_Ugly>不扬</color>\n<SpName=mousetip_meili_3><color=#AttractionType_Normal>寻常</color>\n<SpName=mousetip_meili_4><color=#AttractionType_Outstanding>出众</color>\n<SpName=mousetip_meili_5><color=#AttractionType_Beautiful>瑾瑜（男）/瑶碧（女）</color>\n<SpName=mousetip_meili_6><color=#AttractionType_Brilliant>龙姿（男）/凤仪（女）</color>\n<SpName=mousetip_meili_7><color=#AttractionType_Stunning>绝世（男）/出尘（女）</color>\n<SpName=mousetip_meili_8><color=#AttractionType_Godlike>天人</color></color>
+Charm represents the appearance, ugliness and personality charm of a character…\n\n<color=#pinkyellow>·There is no difference in the charm of young people\n·People's charm is greatly reduced when naked.\n· Charm levels listed from low to high: \n\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_0><color=#AttractionType_NonHuman>Unhuman</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_1><color=#AttractionType_Odious>Disgusting</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_2><color=#AttractionType_Ugly>Ugly</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_3><color=#AttractionType_Normal>Ordinary</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_4><color=#AttractionType_Outstanding>Outstanding</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_5><color=#AttractionType_Beautiful>Handsome (Male)/ Beautiful (Female)</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_6><color=#AttractionType_Brilliant>Dragon (Male)/ Phoenix (Female)</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_7><color=#AttractionType_Stunning>Heavenly (Male)/ Otherworldy (Female)</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_meili_8><color=#AttractionType_Godlike>Divine</color></color>
 Fertility
 Like & Dislike Change Cycle
 EXP
