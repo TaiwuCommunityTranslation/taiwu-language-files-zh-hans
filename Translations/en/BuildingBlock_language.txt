@@ -450,13 +450,13 @@ Various medicinal materials are prepared by rolling,  frying,  concentrating,  e
 Can make elixirs. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying books on "medical arts". \nThe larger the size of the dispensary, the more the efficiency is increased, but the effects of multiple dispensaries do not stack.
 Pharmacy
 Shops that prepare and sell medicine depending on prescriptions. In addition,  there are doctors in the old drugstores who can conduct on-site medical treatment,  massage,  needle application,  etc. It is a comprehensive medical house.
-This is an extension building built next to the "pharmacy" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by selling potions.
+This is an extension building built next to the "Herbal Room" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by selling potions.
 Herbalist Hall
 A hall for experimenting and developing new drugs. It has dozens of apprentices and is also a place where prestigious physicians conduct consultations and discuss Medicine.
-An extension building is built next to the "pharmacy" with the "mahogany medicine cabinet" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent qualifications in the field of "medicine".
+An extension building is built next to the "Herbal Room" with the "mahogany medicine cabinet" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent qualifications in the field of "medicine".
 Welfare Hospital
 The Welfare Hospital is a place to receive and relieve those who are poor and sick. Not only does it give away medicines,  but it also has a ward kitchen and provides simple accommodation.
-This is an extension building built next to the "pharmacy" and needs to be operated by sending villagers. \nThe main purpose of the building is to sell pills to gain "prestige".
+This is an extension building built next to the "Herbal Room" and needs to be operated by sending villagers. \nThe main purpose of the building is to sell pills to gain "prestige".
 Animal Hospital
 A hospital that treats livestock and wildlife. Although veterinary halls are inconspicuous,  medical treatments are sometimes connected to human treatments,  and many brilliant medicines have experienced the process of birth and  verification here,  then played their part onto patients.
 An expansion building built next to the "Pharmacy", which needs to be adjacent to the "Beast". \nIt increases the chance that people within the influence of the town or sect to which it belongs will have a "flash of light" when studying books on "healing".
