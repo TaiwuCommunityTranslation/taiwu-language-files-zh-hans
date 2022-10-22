@@ -390,13 +390,13 @@ Equipped with furnaces,  bellows and anvils.
 You can make, repair, and refine metal tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Forge" books. \nThe larger the size of the fire refining room, the more efficiency is increased, but the effects of multiple fire refining rooms do not stack.
 Blacksmith
 To create and sell a variety of metal appliances to make a living. Small as nail tools,  large as swords and armor,  can be bought in the blacksmith shop.
-This is an extension building built next to the "fire room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to earn "silver money".
+This is an extension building built next to the "Forging Room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to earn "silver money".
 Workshop
 A huge open-air foundry with many blacksmiths and apprentices.
 An extension building is built next to the "Fire Room" with the "Red Furnace Forge" as the core material, and villagers must be dispatched to operate it. \nYou can find talented people who have excellent skills in "forging".
 Goldshop
 The gold shop is a shop that exchanges gold and silver or trading gold and silver appliances. Due to the value and importance of the gold shop,  only those of high prestige and prestige can host it.
-This is an extension building built next to the "fire room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to gain "prestige".
+This is an extension building built next to the "Forging Room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to gain "prestige".
 Hydraulic Bellow
 It is installed at the water’s edge,  and uses the water flow to pull the fan to open and close,  and conducts the blasting treatment device. Compared to the manpower blast,  the water drain is more powerful.
 The expansion building built next to the "Fire Refining Room" must be adjacent to the "Waters". \n increases the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying the "Forge" book.
@@ -405,7 +405,7 @@ The iron meteorite is extremely tough that water and fire can not invade. It req
 An extension building built next to the "Fire Refining Room" with the "Sky Iron Plow" as the core material, which must be adjacent to the "Meteorite Pit". \nIt can increase the "forging" attainments of the people within the influence of the town and sect to which it belongs.
 Washing Pond
 First,  collect the ore in the deposit that has been scattered by the wind and rain,  or that has been broken due to the mining process,  and then wash and re-select with water to obtain more goldstone.
-The extension building is built next to the "fire room" using "coarse gold sand" as the core material, and is adjacent to the "stone hill". \nYou can harvest gold and silver materials for "forging".
+The extension building is built next to the "Forging Room" using "coarse gold sand" as the core material, and is adjacent to the "stone hill". \nYou can harvest gold and silver materials for "forging".
 Refinary
 After the gold stone is burned into liquid,  impurities are removed by complex techniques,  then pure gold essence can be extracted.
 An extension building is built next to the "Fire Refining Room" with the "Fire Sinking Pond" as the core material, and it must be adjacent to the "Stone Mountain", and villagers must be dispatched to operate it. \nYou can harvest iron materials for "forging".
