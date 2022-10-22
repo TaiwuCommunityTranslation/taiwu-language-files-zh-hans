@@ -552,8 +552,7 @@ Rubbing precious stones and jade with tools of various hardness tools. It can he
 The expansion building built next to the "Crafty House" must be adjacent to the "Stone Mountain". \nThis building will increase the chance of people within the influence of your town or sect to have a "flash of light" when studying the "Craftsman" book.
 Blood Mirror
 The Blood Mirror is made of precious red stone spar,  built on the fire pool. When the mirror shines red light,  you can see the inside of gems and see the pros and cons of them.
-An extension building is built next to the "Craft House" with "Fire Pond Red Crystal" as the core material, and must be adjacent to the "Fire Pond". 
-This building will increase the skill of "Craftsmanship" of the people within the influence of the town or sect to which it belongs.
+An extension building is built next to the "Craft House" with "Fire Pond Red Crystal" as the core material, and must be adjacent to the "Fire Pond". \nThis building will increase the skill of "Craftsmanship" of the people within the influence of the town or sect to which it belongs.
 The Jewel Field
 It is filled with special mud and sand. The small stone embryos are buried in the field. After dozens of days,  the stone clothes will peel off,  showing the sparkling gems inside.
 An extension building is built next to the "Craftsman's House" with "Rumbo Sand" as the core material, which is adjacent to the "Jewel" and requires the dispatch of villagers to operate. 
