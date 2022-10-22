@@ -609,10 +609,10 @@ Belivers are copying and studying the scriptures and chanting in this small buil
 An extension building built next to the "Zen Room" using the "Thirty-Five True Sutras" as the core material. \n can reduce the consumption of enlightenment for all study strategies.
 Kitchen
 The upper floor of the Kitchen is for cooking while the lower floor is for temporary storage of ingredients.
-You can make dishes. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "cookery" books. \nThe larger the size of the food cellar, the more the efficiency is increased, but the effect of multiple food cellars does not stack.
+You can make dishes. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "cookery" books. \nThe larger the size of the Kitchen, the more the efficiency is increased, but the effect of multiple food cellars does not stack.
 Restaurant
 The restaurant has two floors and a gorgeous gatehouse.  The first floor is occupied with scattered seats while the second floor provides a few chic small compartments.
-This is an extension building built next to the "food cellar" and needs to be operated by the villagers. \nThe main purpose of the building is to sell food to earn money.
+This is an extension building built next to the "Kitchen" and needs to be operated by the villagers. \nThe main purpose of the building is to sell food to earn money.
 Folk Banquet
 Hosted by prestigious people,  a large-scale folk open-air banquet. Hundreds of chefs come and cook for countless people that sit around thousands of tables.
 An extension building is built next to the "Food Cellar" with "Hundred Thousand Bowls" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent qualifications in the field of "cooking".
@@ -636,7 +636,7 @@ It is used to collect and cultivate various kinds of spices,  such as: licorice,
 This is an extension building built next to the "Food Cellar" using the "Amphibious Universal Pot" as the core material. \nThis will enable the adjacent "Food Cellar" to produce better quality dishes.
 Dragon Palace
 An igloo built entirely of ice bricks for storing foods that are extremely precious and prone to deterioration. Because it is like the Crystal Palace of the Dragon King,  it is called “Dragon Palace“.
-This is an extension building built next to the "food cellar" using "crystal ice bricks" as the core material, which must be adjacent to the "basalt ice". \nThis building will reduce the requirement of "cooking" skill when making dishes.
+This is an extension building built next to the "Kitchen" using "crystal ice bricks" as the core material, which must be adjacent to the "basalt ice". \nThis building will reduce the requirement of "cooking" skill when making dishes.
 Long Street
 Wide street full of shops. Long Street is located in the main road of transportation,  bringing together a large number of people from all walks of life.
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Lore" books. The larger the \n scale of the long street, the more the efficiency will be increased, but the effect of multiple long streets will not stack.
