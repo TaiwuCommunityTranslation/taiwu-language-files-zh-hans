@@ -29,7 +29,7 @@ Adventure - Righteous Hall - Preparation
 Adventure - Chivalrous Alliance - Preparation
 Adventure - Secret World - Preparation
 Adventure - Wulin Assembly - Preparation
-Encounter - Capital City Recruiting Female - Preparation
+Adventure - Capital City Recruiting Female - Preparation
 Strange encounter - Chengdu recruiting Female - Preparation
 Strange encounter - Guizhou recruiting Female - Preparation
 Adventure - Xiangyang Recruiting Female - Preparation
@@ -39,8 +39,8 @@ Adventure - Qingzhou Recruiting Female - Preparation
 Adventure - Enrolled Female in Jiangling - Preparation
 Strange encounter - Fuzhou recruiting Female - prep
 Strange encounter-Liaoyang recruiting Female-Preparation
-Encounter - Qinzhou Recruiting Female - Preparation
-Encounter - Dali Recruiting Female - Preparation
-Encounter - Shouchun Recruiting Female - Preparation
+Adventure - Qinzhou Recruiting Female - Preparation
+Adventure - Dali Recruiting Female - Preparation
+Adventure - Shouchun Recruiting Female - Preparation
 Strange encounter-Hangzhou recruiting Female-Preparation
 Strange encounter-Yangzhou recruiting Female-Preparation
