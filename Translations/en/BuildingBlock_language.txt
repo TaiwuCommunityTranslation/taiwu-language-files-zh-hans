@@ -435,8 +435,7 @@ The Arboretum is a collection of exotic trees of all kinds,  in different shapes
 An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". \nThis building will increase the "woodworking" skill of the people within the influence of the town or sect to which it belongs.
 Logging Camp
 When it comes to felling trees,  nothing beats organized work gangs armed with a full complement of tools at a logging camp.
-An extension building is built next to the "woodworking room" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. 
-Wooden materials for woodworking can be harvested.
+An extension building is built next to the "woodworking room" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. \nWooden materials for woodworking can be harvested.
 Forest Farm
 A forest farm regulates tree-felling in its area in order to protect the forest. It also cultivates and nurses trees worthy of protection.
 An extension building is built next to the "woodworking room" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. 
