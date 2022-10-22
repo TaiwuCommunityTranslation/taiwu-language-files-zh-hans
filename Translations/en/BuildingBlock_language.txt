@@ -300,8 +300,7 @@ Books,  scrolls are on the shelves.The four treasures are on the desk: pen,  ink
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "poetry and books" books. \nThe larger the size of the study room, the more the efficiency will be increased, but the effect of multiple study rooms will not stack.
 Bookstore
 Bookstores are used to buy and sell books,  which is a shop frequented by literati. The books in the bookstore are mostly manuscripts,  and the content is very rich.
-The extension building is built next to the "study room" and needs to be operated by the villagers. 
-The main purpose of the building is to earn "silver money" by buying and selling books.
+The extension building is built next to the "study room" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by buying and selling books.
 Academy
 The academy is an facility for private lectures and teaching. It is also an important institution for literature collection and research.
 An extension building is built next to the "study" with "famous inscriptions" as the core material, and villagers must be dispatched to run it. 
