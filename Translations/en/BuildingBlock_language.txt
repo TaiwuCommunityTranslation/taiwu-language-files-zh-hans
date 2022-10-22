@@ -390,8 +390,7 @@ Equipped with furnaces,  bellows and anvils.
 You can make, repair, and refine metal tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Forge" books. \nThe larger the size of the fire refining room, the more efficiency is increased, but the effects of multiple fire refining rooms do not stack.
 Blacksmith
 To create and sell a variety of metal appliances to make a living. Small as nail tools,  large as swords and armor,  can be bought in the blacksmith shop.
-This is an extension building built next to the "fire room" and needs to be operated by the villagers. 
-The main purpose of the building is to sell metal tools to earn "silver money".
+This is an extension building built next to the "fire room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to earn "silver money".
 Workshop
 A huge open-air foundry with many blacksmiths and apprentices.
 An extension building is built next to the "Fire Room" with the "Red Furnace Forge" as the core material, and villagers must be dispatched to operate it. 
