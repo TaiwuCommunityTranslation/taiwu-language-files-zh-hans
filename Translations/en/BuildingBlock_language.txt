@@ -258,7 +258,7 @@ Elegant music room built beside a winding path,  surrounded by dense woods.  Var
 It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Music" books. \nThe larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
 Concert Hall
 A leisure place where musicians gather. They play quite ceremonial music,  perform mostly elegant and refined dances and songs,  deeply loved by the literati.
-This is an extension building built next to the "piano house" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by playing music.
+This is an extension building built next to the "Music Room" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by playing music.
 Musical Academy
 A folk place for music teaching,  an elegant school for musicians to appreciate music,  exchange and impart music knowledge and performance techniques.
 This is an extension building next to the Music House, using the "Echo Stage" as the core material, which requires the dispatch of villagers to operate. \nYou can find talented people who have excellent skills in "music".
