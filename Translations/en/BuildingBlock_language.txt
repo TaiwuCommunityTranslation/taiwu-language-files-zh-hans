@@ -543,7 +543,7 @@ Jewelry shop buys and sells a variety of valuable jewellery and jade objects,  a
 This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to earn "silver money".
 Raw Gem Pile
 Raw Gem Pile is built in the open air and stores a large amount of stones. The stonemasons can select the required stone for a small amount of money. Therefore,  the skilled craftsmen are often able to make profits,  fame and fortune from it.
-An extension building is built next to the "Artisan House" using "Sanzan Mawashi" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent skills in "craftsmanship".
+An extension building is built next to the "Gemcutting" using "Sanzan Mawashi" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent skills in "craftsmanship".
 Curios Shop
 There are many antique treasures in the shop. For most of the time only “treasure for treasure” exchanges are accepted here.
 This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to gain "prestige".
@@ -561,7 +561,7 @@ A stone solving table made of diamond, also known as a diamond saw. The diamond 
 An extension building is built next to the "Craftsman's House" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. \nYou can harvest stone materials for the "Craftsman".
 Workbench
 A workbench designed by famous craftsmen,  and its structure and function are extremely ingenious. It can be used to refine and process the gemstones that are small like mosquitoes and flies.
-An extension building is built next to the "Artisan House" using the "Lingering Eight Treasures" as the core material. \nIt will enable the adjacent "Gemcutting" to produce better quality jade products.
+An extension building is built next to the "Gemcutting" using the "Lingering Eight Treasures" as the core material. \nIt will enable the adjacent "Gemcutting" to produce better quality jade products.
 God’s Light Wall
 The wall is six feet high and are made of millenium spar taken from the earth’s veins. It is also called “The Mother of Jade“. It is a treasure that can trigger the spirituality of gems.
 This is an extension building built next to the "Gemcutting" with "Millennium Jade Mother" as the core material, and it must be adjacent to the "Spirit Vein". \nThis building will reduce the requirement for "skillful craftsmanship" in the manufacture, repair and refinement of jade products.
