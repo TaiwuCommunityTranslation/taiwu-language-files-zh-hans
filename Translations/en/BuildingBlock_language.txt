@@ -543,7 +543,7 @@ Jewelry shop buys and sells a variety of valuable jewellery and jade objects,  a
 This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to earn "silver money".
 Raw Gem Pile
 Raw Gem Pile is built in the open air and stores a large amount of stones. The stonemasons can select the required stone for a small amount of money. Therefore,  the skilled craftsmen are often able to make profits,  fame and fortune from it.
-An extension building is built next to the "Gemcutting" using "Sanzan Mawashi" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent skills in "craftsmanship".
+An extension building is built next to the "Gemcutting" using "Sanzan Mawashi" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent skills in "Gemcutting".
 Curios Shop
 There are many antique treasures in the shop. For most of the time only “treasure for treasure” exchanges are accepted here.
 This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to gain "prestige".
@@ -555,7 +555,7 @@ The Blood Mirror is made of precious red stone spar,  built on the fire pool. Wh
 An extension building is built next to the "Gemcutting" with "Fire Pond Red Crystal" as the core material, and must be adjacent to the "Fire Pond". \nThis building will increase the skill of "Gemcutting" of the people within the influence of the town or sect to which it belongs.
 The Jewel Field
 It is filled with special mud and sand. The small stone embryos are buried in the field. After dozens of days,  the stone clothes will peel off,  showing the sparkling gems inside.
-An extension building is built next to the "Gemcutting" with "Rumbo Sand" as the core material, which is adjacent to the "Jewel" and requires the dispatch of villagers to operate. \nYou can harvest jade materials for "artisan".
+An extension building is built next to the "Gemcutting" with "Rumbo Sand" as the core material, which is adjacent to the "Jewel" and requires the dispatch of villagers to operate. \nYou can harvest jade materials for "Gemcutting".
 Diamond Cutting Table
 A stone solving table made of diamond, also known as a diamond saw. The diamond saw is so hard that it can be used to cut any stubborn stone that is invulnerable to swords, fire and water.
 An extension building is built next to the "Gemcutting" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. \nYou can harvest stone materials for the "Gemcutting".
