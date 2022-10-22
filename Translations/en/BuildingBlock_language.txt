@@ -555,8 +555,7 @@ The Blood Mirror is made of precious red stone spar,  built on the fire pool. Wh
 An extension building is built next to the "Craft House" with "Fire Pond Red Crystal" as the core material, and must be adjacent to the "Fire Pond". \nThis building will increase the skill of "Craftsmanship" of the people within the influence of the town or sect to which it belongs.
 The Jewel Field
 It is filled with special mud and sand. The small stone embryos are buried in the field. After dozens of days,  the stone clothes will peel off,  showing the sparkling gems inside.
-An extension building is built next to the "Craftsman's House" with "Rumbo Sand" as the core material, which is adjacent to the "Jewel" and requires the dispatch of villagers to operate. 
-You can harvest jade materials for "artisan".
+An extension building is built next to the "Craftsman's House" with "Rumbo Sand" as the core material, which is adjacent to the "Jewel" and requires the dispatch of villagers to operate. \nYou can harvest jade materials for "artisan".
 Diamond Cutting Table
 A stone solving table made of diamond, also known as a diamond saw. The diamond saw is so hard that it can be used to cut any stubborn stone that is invulnerable to swords, fire and water.
 An extension building is built next to the "Craftsman's House" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. 
