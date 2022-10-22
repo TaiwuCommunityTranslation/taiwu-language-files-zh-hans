@@ -666,8 +666,7 @@ This field is full of strange flowers and stones,  and it is amazingly crafted e
 An extension building built next to "Long Street" with "exotic flowers and stones" as the core material needs to be adjacent to "Evergreen Stream". \nThe building will increase the attainment of "lore studies" of the people within the influence of the town and sect to which it belongs.
 Pawnshop
 A pawnshop is a place for people to trade in tools,  lands,  livestock or even servants as collateral for loans. Failure to repay the on times means forfeiture of the collateral.
-The extension building built next to the "Long Street" needs to be operated by sending villagers. 
-You can exchange "silver money" for groceries.
+The extension building built next to the "Long Street" needs to be operated by sending villagers. \nYou can exchange "silver money" for groceries.
 Wisdom Guild
 The wisdom guild employs wise men to work under their masters. Wise men can mean anyone who has a useful skill,  have exceptional knowledge,  or can plan and execute plans.
 The extension building built next to the "Long Street" needs to be operated by sending villagers. 
