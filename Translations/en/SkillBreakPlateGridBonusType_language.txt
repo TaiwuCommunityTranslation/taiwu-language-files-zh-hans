@@ -12,7 +12,7 @@ Ext. Def.
 Int. Def.
 Stance
 Inhale
-Speed of movement
+Movement Speed
 Robust
 Putting to use
 Passing
