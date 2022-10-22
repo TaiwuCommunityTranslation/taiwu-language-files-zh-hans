@@ -360,31 +360,31 @@ Life and Death Observatory
 This is an extension building built next to the "Stargazer" using the "Two Star Chart of Life and Death" as the core material. \n can improve Taigo's life legacy.
 Clarifier
 A small hall built in the deep well where the spring was excavated. In the Clarifier,  facilities for water purification are installed to optimize water quality.
-It increases the efficiency of characters within the area of influence of the town or sect to which they belong when studying "Appreciation" books. \nThe larger the size of the Gansen Hall, the greater the increase in efficiency, but the effects of multiple Gansen Halls do not stack.
+It increases the efficiency of characters within the area of influence of the town or sect to which they belong when studying "Appreciation" books. \nThe larger the size of the Clarifier, the greater the increase in efficiency, but the effects of multiple Gansen Halls do not stack.
 Teahouse
 In addition to the area where ordinary people drink tea,  the teahouse also has elegant seats and a valuable tea sets for the riches.
-This is an extension building built next to the "Gansen Hall" and needs to be operated by the villagers. \nThe main purpose of the building is to sell tea to earn money.
+This is an extension building built next to the "Clarifier" and needs to be operated by the villagers. \nThe main purpose of the building is to sell tea to earn money.
 Tavern
 The tarvern can store a large amount of fine wines. Beautiful women sell wine here day and night.
-This is an extension building built next to the "Gansen Hall" and needs to be operated by the villagers. \nThe main purpose of the building is to sell alcoholic beverages to earn "silver money".
+This is an extension building built next to the "Clarifier" and needs to be operated by the villagers. \nThe main purpose of the building is to sell alcoholic beverages to earn "silver money".
 Aroma Park
 A private institution specializing in the identification of drinks and tea. Hosted by a respected celebrity.
-An extension building is built next to the "Gansen Hall" with the "Golden Furnace of Incense" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent qualifications in "Appreciation".
+An extension building is built next to the "Clarifier" with the "Golden Furnace of Incense" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent qualifications in "Appreciation".
 Four-Seas Mansion
 This mansion is open seven days a year and is known as the “Four-Seas Club”. The host hire experts to collect the famous tea and wine in the world,  for the tea and wine masters to appreciate.
-This is an extension building built next to the "Gansen Hall" and needs to be operated by the villagers. \nThe main purpose of the building is to gain "prestige" by Appreciation tea and wine.
+This is an extension building built next to the "Clarifier" and needs to be operated by the villagers. \nThe main purpose of the building is to gain "prestige" by Appreciation tea and wine.
 Floating Bar
 A bar run by northern barbarian tribes. You can enjoy exotic wine and the dancings performed by beautiful ladies.
-An extension building is built next to the "Gansen Hall" with "exotic treasures" as the core material, and must be adjacent to the "water area". \nThis building will increase the chance of people within the influence of the town or sect to read the book "Appreciation".
+An extension building is built next to the "Clarifier" with "exotic treasures" as the core material, and must be adjacent to the "water area". \nThis building will increase the chance of people within the influence of the town or sect to read the book "Appreciation".
 Mystic Garden
 "White cranes in the cuiwei, yellow essence of the quiet stream. I know that the world's guests are not as good as the people in the mountains". The so-called fairyland on earth is nothing more than this divine garden in the paradise of the world.
 Using "Worldly Landscape Stone" as the core material, an extension building is built next to "Ganquan Hall", which needs to be adjacent to "Changchun Stream". \nThis building will increase the attainment of the "character" of the people within the influence of the town and sect to which it belongs.
 Tea Garden
 The tea garden is built on the low slope of the north facing the fertile land. It is a garden for cultivating tea trees,  collecting raw tea and frying tea.
-An extension building is built next to the "Gansen Hall" with "Yunlong Chosen Green Pond" as the core material, which is adjacent to the "fertile field" and needs to be operated by dispatching villagers. \nYou can harvest tea leaves.
+An extension building is built next to the "Clarifier" with "Yunlong Chosen Green Pond" as the core material, which is adjacent to the "fertile field" and needs to be operated by dispatching villagers. \nYou can harvest tea leaves.
 Wine Steamer
 A workshop that uses special equipments to make strong and fragrant shochu.
-The building is located next to the "Gansen Hall" and is adjacent to the "fertile field" and is operated by the villagers. \nThe villagers must be dispatched to operate it.
+The building is located next to the "Clarifier" and is adjacent to the "fertile field" and is operated by the villagers. \nThe villagers must be dispatched to operate it.
 Forging Room
 Equipped with furnaces,  bellows and anvils.
 You can make, repair, and refine metal tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Smithing" books. \nThe larger the size of the Forging Room, the more efficiency is increased, but the effects of multiple forging rooms do not stack.
