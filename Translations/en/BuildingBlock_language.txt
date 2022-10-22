@@ -486,7 +486,7 @@ A dungeon where sinners are imprisoned and tortured. The existence of dark priso
 This is an extension building built next to the "Cellar" using the "Killing Frame" as the core material, which requires the dispatch of villagers to operate. \nYou can find people with excellent qualifications in the field of "poison".
 Mad Medic
 Mad Medics are different,  non-conventional,  and even less respected by the world. These secret doctors are happy with the most difficult diseases,  but not with saving lives.
-This is an extension building built next to the "Pantheon", which requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell poisons to gain "prestige".
+This is an extension building built next to the "Cellar", which requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell poisons to gain "prestige".
 Animal Testing
 Secretly supporting livestock and beasts. Whenever a poisoner needs to test the toxicity of the poison,  hundreds of lives are cruelly killed here.
 The expansion building built next to the "Cellar" needs to be adjacent to the "Beast Herd". \n can increase the chance that characters within the influence of the town or sect they belong to will have a "flash of light" when studying "poison" books.
