@@ -387,7 +387,7 @@ A workshop that uses special equipments to make strong and fragrant shochu.
 The building is located next to the "Gansen Hall" and is adjacent to the "fertile field" and is operated by the villagers. \nThe villagers must be dispatched to operate it.
 Forging Room
 Equipped with furnaces,  bellows and anvils.
-You can make, repair, and refine metal tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Forge" books. \nThe larger the size of the Forging Room, the more efficiency is increased, but the effects of multiple fire refining rooms do not stack.
+You can make, repair, and refine metal tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Forge" books. \nThe larger the size of the Forging Room, the more efficiency is increased, but the effects of multiple forging rooms do not stack.
 Blacksmith
 To create and sell a variety of metal appliances to make a living. Small as nail tools,  large as swords and armor,  can be bought in the blacksmith shop.
 This is an extension building built next to the "Forging Room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to earn "silver money".
