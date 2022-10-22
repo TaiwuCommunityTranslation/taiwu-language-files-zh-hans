@@ -2203,7 +2203,7 @@ Whenever a toxin attack occurs, the user receives twice the amount of "Nadis" of
 Reverse - Flood Dragon's Bone Regeneration
 When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all internal injury marks of the user will be eliminated quickly by themselves with time; at the end of the defense of this technique, 6 severe injury marks of the user will be eliminated
 Reverse - 9 Colored Jade Cicada
-When the total number of defeat markers of the user reaches the defeat condition, the user will immediately consume 9 points of "Qi Qiao" true qi to randomly eliminate 9 non-injury markers and 6 severe injury markers of the user, but the user's internal breath disorder will be greatly increased as a result.
+When the total number of defeat markers of the user reaches the defeat condition, the user will immediately consume 9 points of "Nadis" true qi to randomly eliminate 9 non-injury markers and 6 severe injury markers of the user, but the user's internal breath disorder will be greatly increased as a result.
 Reverse - Go With The Flow
 Whenever an enemy deals direct damage to the user, the user gains 2 points of a random type of true qi or loses 1 point of a random type of true qi, and loses 1 unusable style.
 Reverse - Take The Pulse
@@ -3784,7 +3784,7 @@ When you start to perform this divine power, the artist increases the power of 2
 When this divine power starts, the user increases the power of 2 of his own techniques cumulatively until the end of the battle.
 Heaven and Earth Xuan Yi Order
 Weakening enemy attributes
-When this divine power starts to be applied, the operator will eliminate the enemy's "Aegis" and "Quick" techniques, and the enemy's total 3 "Aegis", "Quick", and "Qi Qiao" techniques will be "blocked" for a long time; until the end of this divine power, all the enemy's secondary attributes will be changed to the minimum.
+When this divine power starts to be applied, the operator will eliminate the enemy's "Aegis" and "Quick" techniques, and the enemy's total 3 "Aegis", "Quick", and "Nadis" techniques will be "blocked" for a long time; until the end of this divine power, all the enemy's secondary attributes will be changed to the minimum.
 Kunlun Twelve Evil Immortal Order
 Injuries cannot be reduced
 When this power begins, the artist gains 12 levels of this effect: the degree of damage the artist inflicts on the enemy as direct damage cannot be reduced by any effect, and the number of levels of this effect is reduced by 1 for every direct damage the artist inflicts on the enemy with a degree of not less than 3
