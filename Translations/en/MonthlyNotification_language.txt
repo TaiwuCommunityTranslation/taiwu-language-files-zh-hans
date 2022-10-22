@@ -5,9 +5,9 @@ In the month of Jian Mao, Yang and Bu Qi. The resources of 'food', 'wood' and 'm
 Early April
 In the month of Jianchen, the bucket handle points east. \nSome locations have some degree of recovery of "food", "wood" and "medicinal herbs" resources.
 Early May
-In the month of Jian Si, the grass and trees are in full bloom. \Food", "wood" and "medicinal herbs" resources in some locations have recovered to some extent.
+In the month of Jian Si, the grass and trees are in full bloom. \nFood", "wood" and "medicinal herbs" resources in some locations have recovered to some extent.
 Early June
-In the month of Jianwu, the rice seedlings are firstly gathered. \Food", "wood" and "fabric" resources in some places have recovered to some extent.
+In the month of Jianwu, the rice seedlings are firstly gathered. \nFood", "wood" and "fabric" resources in some places have recovered to some extent.
 Early July
 In the month of Jianwei, the bucket handle points south. \nSome locations have some degree of recovery of "food," "wood," and "fabric" resources.
 Early August
@@ -17,7 +17,7 @@ In the month of Jian You, the star of Shang flows westward. \n Some locations ha
 Early October
 In the month of Jianxu, the bucket handle points west. The resources of "food", "wood", "fabric" and "medicinal herbs" in \n some locations have recovered to some extent.
 Early November
-In the month of Jianhai, the willow declines and the valley shows. \The resources of "gold and stone" and "fabric" in some locations have recovered to some extent.
+In the month of Jianhai, the willow declines and the valley shows. \nThe resources of "gold and stone" and "fabric" in some locations have recovered to some extent.
 Early December
 In the month of Kenshi, all things are collected. \n Some locations have a certain degree of recovery of "gold stone" resources.
 Early January
