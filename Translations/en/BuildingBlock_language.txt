@@ -510,8 +510,7 @@ The Weaving Room is small in size but has exquisite gardens and elegant furnishi
 You can manufacture, repair, and refine brocade products. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "brocade weaving" books. \nThe larger the size of the embroidery house, the more the efficiency is increased, but the effect of multiple embroidery houses does not stack.
 Fabric Store
 In addition to selling finished fabrics and satin,  a Fabric Store also tailors,  sews and repairs all kinds of large and small textiles.
-This is an extension building built next to the "Embroidery House" and needs to be operated by the villagers. 
-The main purpose of the building is to sell brocade products to earn money.
+This is an extension building built next to the "Embroidery House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell brocade products to earn money.
 Fabric Workshop
 Fabric Workshop is divided into two areas of weaving and dyeing. There are 12 weavers in the Weaving area,  responsible for the textile and fur fabrics; there are 26 dyeing workers in the dyeing area,  responsible for bleaching or dyeing the fabric.
 An extension building is built next to the "Embroidery House" with "Loom Dye" as the core material, and villagers must be dispatched to run it. 
