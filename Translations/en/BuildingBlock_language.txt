@@ -588,8 +588,7 @@ A room in which the so called “elixir of life” is made. It is the place to p
 The "Purple Gold Alchemy Furnace" is used as the core material to build an extension building next to the "Cloud Room". \n can restore the longevity to the scale level of the dan room for the characters within the influence of the town and sect to which it belongs.
 Zen Room
 A living room for meditation practicing. The Zen Room is built between the grass and the trees. Quite small in size.
-It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Buddhist Studies" books. 
-The larger the size of the meditation room, the greater the increase in efficiency, but the effects of multiple meditation rooms do not stack.
+It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Buddhist Studies" books. \nThe larger the size of the meditation room, the greater the increase in efficiency, but the effects of multiple meditation rooms do not stack.
 Monastery
 The temple accepts the donation of the believers and will also help the needy. The giving of the monks to the world is not limited to property. For example,  depending on the myth,  Sakyamuni cut his own flesh to feed the eagle,  which was starving and chacing after a pigeon,  to prevent them both from death. The “giving” is the most important way of Buddhist cultivation.
 The extension building built next to the "Zen room" is to be operated by dispatching villagers. \nThe main purpose of the building is to receive alms by praying for blessings and pujas.
