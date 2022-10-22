@@ -540,8 +540,7 @@ A room filled with gems and jade,  full of complicated tools. Gemcutting process
 You can manufacture, repair, and refine jade products. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Crafty Craftsmanship" books. \The larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
 Jewelry Shop
 Jewelry shop buys and sells a variety of valuable jewellery and jade objects,  and often repairs and recreates various damaged treasures too.
-This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. 
-The main purpose of the building is to sell jade products to earn "silver money".
+This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to earn "silver money".
 Raw Gem Pile
 Raw Gem Pile is built in the open air and stores a large amount of stones. The stonemasons can select the required stone for a small amount of money. Therefore,  the skilled craftsmen are often able to make profits,  fame and fortune from it.
 An extension building is built next to the "Artisan House" using "Sanzan Mawashi" as the core material, and villagers must be dispatched to run it. 
