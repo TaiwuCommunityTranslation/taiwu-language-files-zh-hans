@@ -417,7 +417,7 @@ Built on the fire pool,  it is used to take the smelting iron of underground fir
 This is an extension building built next to the "Forging Room" with the "Fire Furnace" as the core material and adjacent to the "Fire Pond". \This building can reduce the requirement of "Smithing" attainment, repairing and refining gold and iron tools.
 Carpenter
 Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all available in the Carpenter.
-You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Carpentry" books. \nThe larger the size of the carpentryroom, the more the efficiency is increased, but the effects of multiple carpentryrooms do not stack.
+You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Carpentry" books. \nThe larger the size of the Carpentry Room, the more the efficiency is increased, but the effects of multiple carpentryrooms do not stack.
 Woodwork
 The woodwork mainly deals in the trade of small items of carpentry,  like tables,  chairs,  utensils,  or lanterns.
 The extension building built next to the "carpentry house" needs to be operated by dispatching villagers. \nThe main purpose of the building is to sell wooden tools to earn money.
@@ -435,16 +435,16 @@ The Arboretum is a collection of exotic trees of all kinds,  in different shapes
 An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". \nThis building will increase the "carpentry" skill of the people within the influence of the town or sect to which it belongs.
 Logging Camp
 When it comes to felling trees,  nothing beats organized work gangs armed with a full complement of tools at a logging camp.
-An extension building is built next to the "carpentryroom" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. \nWooden materials for carpentrycan be harvested.
+An extension building is built next to the "Carpentry Room" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. \nWooden materials for carpentrycan be harvested.
 Forest Farm
 A forest farm regulates tree-felling in its area in order to protect the forest. It also cultivates and nurses trees worthy of protection.
-An extension building is built next to the "carpentryroom" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. \nYou can harvest rattan and bamboo materials for "carpentry".
+An extension building is built next to the "Carpentry Room" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. \nYou can harvest rattan and bamboo materials for "carpentry".
 Wood Treatment Klin
 This klin is designed so that it can dry up wood while keeping them cool. Wood treated in it is immune to heat or moisture and can last for a long time.
-An extension building built next to the "carpentryroom" using "silver bone cold bituminous coal" as the core material. \nThis will enable the adjacent "carpentryroom" to produce better quality wooden tools.
+An extension building built next to the "Carpentry Room" using "silver bone cold bituminous coal" as the core material. \nThis will enable the adjacent "Carpentry Room" to produce better quality wooden tools.
 Sacred Woods
 This is a diagram created by morphing the roots of sacred trees. As long as it grows from the ground,  when put inside the diagram,  all its properties will be magnified for all to be seen.
-The extension building is built next to the "carpentryroom" with "sacred wood roots" as the core material, and is required to be adjacent to the "Taishiki Forest". \nThis building will reduce the requirement of "carpentry" skills for manufacturing, repairing and refining wooden tools.
+The extension building is built next to the "Carpentry Room" with "sacred wood roots" as the core material, and is required to be adjacent to the "Taishiki Forest". \nThis building will reduce the requirement of "carpentry" skills for manufacturing, repairing and refining wooden tools.
 Herbal Room
 Various medicinal materials are prepared by rolling,  frying,  concentrating,  etc.,  and are made into healing cream,  potions and pills.
 Can make elixirs. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying books on "medical arts". \nThe larger the size of the dispensary, the more the efficiency is increased, but the effects of multiple dispensaries do not stack.
