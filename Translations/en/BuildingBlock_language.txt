@@ -603,8 +603,7 @@ Buddhist doctors pay attention to “healing the heart.” They use decoction an
 An extension building built next to the "Meditation Room" with "Healing Buddha Medicine" as the heart material, which must be adjacent to the "Herbs". \nThis building will increase the chance of people within the influence of your town or sect to be able to read books on Buddhism.
 Vicissitude Stage
 The Vicissitude Stage was built between two trees,  and it was the place where the monks sit in meditation. The  scenery tells the view as “let it live,  and let it die“. It is extremely high level of Buddhism that one can look at everything in the world with a normal heart.
-An extension building built next to the "Meditation Room" using the "Double Tree of Withering" as the heart material, which must be adjacent to the "Forest of Taishiki". 
-It can increase the "Buddhist" attainments of the people within the influence of the town or sect to which it belongs.
+An extension building built next to the "Meditation Room" using the "Double Tree of Withering" as the heart material, which must be adjacent to the "Forest of Taishiki". \nIt can increase the "Buddhist" attainments of the people within the influence of the town or sect to which it belongs.
 Buddhist Library
 Belivers are copying and studying the scriptures and chanting in this small building. Any beliver can enter and and borrow the books at will. Therefore,  although the library is not as solemn as Dhammasala,  it is even more prominent in terms of spreading Buddhist spirits.
 An extension building built next to the "Zen Room" using the "Thirty-Five True Sutras" as the core material. \n can reduce the consumption of enlightenment for all study strategies.
