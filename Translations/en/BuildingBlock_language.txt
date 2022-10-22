@@ -480,8 +480,7 @@ The cellar was built in the deep and cold underground. There are utensils for th
 You can make poisons and quench poisons for props. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "poison" books. \The larger the size of the chamber, the greater the increase in efficiency, but the effects of multiple chambers do not stack.
 Poison Market
 The poison market sells common poisons such as arsenic which kills rats and has detailed sales records. However,  ordinary people do not know,  here also secretly sells other terrible poisons that hurt people.
-This is an extension building built next to the "Yakuza" and needs to be operated by the villagers. 
-The main purpose of the building is to sell poisons to earn money.
+This is an extension building built next to the "Yakuza" and needs to be operated by the villagers. \nThe main purpose of the building is to sell poisons to earn money.
 Oubliette
 A dungeon where sinners are imprisoned and tortured. The existence of dark prison is well known,  not a secret. The treacherous and wicked people often come here after the incident.
 This is an extension building built next to the "Chamber of Secrets" using the "Killing Frame" as the core material, which requires the dispatch of villagers to operate. 
