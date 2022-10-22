@@ -432,8 +432,7 @@ The Black Oil Pool collects oils and sap from neighbouring swamps for treating w
 The expansion building built next to the "Woodworking Room" must be adjacent to the "Poison Swamp". \nThis building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "woodworking".
 Arboretum
 The Arboretum is a collection of exotic trees of all kinds,  in different shapes. By working on and looking at them,  A woodworker gains insight and advancement in skill.
-An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". 
-This building will increase the "woodworking" skill of the people within the influence of the town or sect to which it belongs.
+An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". \nThis building will increase the "woodworking" skill of the people within the influence of the town or sect to which it belongs.
 Logging Camp
 When it comes to felling trees,  nothing beats organized work gangs armed with a full complement of tools at a logging camp.
 An extension building is built next to the "woodworking room" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. 
