@@ -399,22 +399,22 @@ The gold shop is a shop that exchanges gold and silver or trading gold and silve
 This is an extension building built next to the "Forging Room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to gain "prestige".
 Hydraulic Bellow
 It is installed at the water’s edge,  and uses the water flow to pull the fan to open and close,  and conducts the blasting treatment device. Compared to the manpower blast,  the water drain is more powerful.
-The expansion building built next to the "Fire Refining Room" must be adjacent to the "Waters". \n increases the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying the "Forge" book.
+The expansion building built next to the "Forging Room" must be adjacent to the "Waters". \n increases the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying the "Forge" book.
 Meteor Pit
 The iron meteorite is extremely tough that water and fire can not invade. It requires a lot of efforts to refine it into a device.
-An extension building built next to the "Fire Refining Room" with the "Sky Iron Plow" as the core material, which must be adjacent to the "Meteorite Pit". \nIt can increase the "forging" attainments of the people within the influence of the town and sect to which it belongs.
+An extension building built next to the "Forging Room" with the "Sky Iron Plow" as the core material, which must be adjacent to the "Meteorite Pit". \nIt can increase the "forging" attainments of the people within the influence of the town and sect to which it belongs.
 Washing Pond
 First,  collect the ore in the deposit that has been scattered by the wind and rain,  or that has been broken due to the mining process,  and then wash and re-select with water to obtain more goldstone.
 The extension building is built next to the "Forging Room" using "coarse gold sand" as the core material, and is adjacent to the "stone hill". \nYou can harvest gold and silver materials for "forging".
 Refinary
 After the gold stone is burned into liquid,  impurities are removed by complex techniques,  then pure gold essence can be extracted.
-An extension building is built next to the "Fire Refining Room" with the "Fire Sinking Pond" as the core material, and it must be adjacent to the "Stone Mountain", and villagers must be dispatched to operate it. \nYou can harvest iron materials for "forging".
+An extension building is built next to the "Forging Room" with the "Fire Sinking Pond" as the core material, and it must be adjacent to the "Stone Mountain", and villagers must be dispatched to operate it. \nYou can harvest iron materials for "forging".
 Mystic Water Treatment
 With seven stone well built in the name of seven stars as the Sun,  the Moon,  Venus,  Jupiter,  Mercury,  Mars and Saturn,  and water collected through them,  we can build the most spiritual weapons.
-This is an extension building built next to the "Fire Refining Room" using the "Dragon King's Water House" as the core material. \nIt will enable the adjacent "Fire Refining Room" to produce better quality metal tools.
+This is an extension building built next to the "Forging Room" using the "Dragon King's Water House" as the core material. \nIt will enable the adjacent "Forging Room" to produce better quality metal tools.
 Inferno Furnace
 Built on the fire pool,  it is used to take the smelting iron of underground fire. The temperature in the furnace is extremely high,  that any stone is melted.
-This is an extension building built next to the "Fire Refining Room" with the "Fire Furnace" as the core material and adjacent to the "Fire Pond". \nThis building can reduce the requirement of "forging" skill in manufacturing, repairing and refining metal tools.
+This is an extension building built next to the "Forging Room" with the "Fire Furnace" as the core material and adjacent to the "Fire Pond". \nThis building can reduce the requirement of "forging" skill in manufacturing, repairing and refining metal tools.
 Carpenter
 Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all available in the Carpenter.
 You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Carpentry" books. \nThe larger the size of the carpentryroom, the more the efficiency is increased, but the effects of multiple carpentryrooms do not stack.
