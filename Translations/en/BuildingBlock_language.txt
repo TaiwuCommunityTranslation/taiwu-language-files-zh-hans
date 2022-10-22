@@ -773,8 +773,7 @@ Designed by the famous designers,  it is built in a large area with beautiful sc
 An extension building built next to "Long Street" with "Famous Garden and Landscape" as the core material, which must be adjacent to "Flower Valley". \nThis building will increase the chance of people within the influence of the town or sect to read books on "lore studies".
 Occult Field
 This field is full of strange flowers and stones,  and it is amazingly crafted everywhere.
-An extension building built next to "Long Street" with "exotic flowers and stones" as the core material needs to be adjacent to "Evergreen Stream". 
-The building will increase the attainment of "miscellaneous studies" of the people within the influence of the town and sect to which it belongs.
+An extension building built next to "Long Street" with "exotic flowers and stones" as the core material needs to be adjacent to "Evergreen Stream". \nThe building will increase the attainment of "lore studies" of the people within the influence of the town and sect to which it belongs.
 Pawnshop
 A pawnshop is a place for people to trade in tools,  lands,  livestock or even servants as collateral for loans. Failure to repay the on times means forfeiture of the collateral.
 The extension building built next to the "Long Street" needs to be operated by sending villagers. 
