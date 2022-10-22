@@ -465,8 +465,7 @@ Patient samples are especially important when studying Medicine. However,  human
 Using "Cold Jade Ice Coffin" as the heart material, the extension building built next to "Pharmacy" needs to be adjacent to "Xuan Bing". \nIt can increase the "medical" attainments of the people within the influence of the town and sect to which it belongs.
 Herbal Garden
 A herbal plantation that is modeled after the living environment of wild herbs. The composition of the garden is very particular,  and it is necessary to plan depending on the “yin and yang,  cold and heat,  and five flavors” of the herbs.. 
-An extension building is built next to the "Pharmacy" with "Shikotsuki Tinggi beads" as the core material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. 
-You can harvest Yang herbs for "healing".
+An extension building is built next to the "Pharmacy" with "Shikotsuki Tinggi beads" as the core material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \nYou can harvest Yang herbs for "healing".
 Cultivation Room
 The rarest herbs often associated with specific things. The so-called “medicine cultivation” is to raise those rare herbs with special items to achieve the purpose of cultivation and reproduction.
 An extension building is built next to the "Pharmacy" with "Tong Yuan Bai Qiao Stone" as the heart material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. 
