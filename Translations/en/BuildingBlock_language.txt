@@ -501,8 +501,7 @@ The ruins that people infected by plague live,  also the most ideal place for th
 It is built next to the "poison swamp" with the "human feeding cage" as the core material, and the villagers must be dispatched to operate it. \nIt is necessary to send villagers to operate it. You can harvest the poisonous poison for "poison magic".
 Blood Pool
 The blood pool is a scary stone pool filled with the blood of many animals and living human beings. Common toxic substances are often digested by blood pool and immediately become rare poisons.
-This is an extension building built next to the "Pantheon Room" using "Bloodstone" as the core material. 
-This building will enable the adjacent room to produce better quality poisons.
+This is an extension building built next to the "Pantheon Room" using "Bloodstone" as the core material. \nThis building will enable the adjacent room to produce better quality poisons.
 Dragon Spine
 A tall wooden column made of fragrant wood mixed with poison. The column core is hollow,  in which the mysterious dragon spine is burned,  and any poisonous snake that touches it will be tamed.
 This is an extension of the "Mystery Room", which is built next to the "Cave of the Serpent", using the "Wonderful Scented Dragon Wood" as the core material. 
