@@ -498,8 +498,7 @@ Condensing and refining poison from toxic pool. In addition to providing poisono
 This is an extension building built next to the "Ghostly Miasma Furnace" and is adjacent to the "Poison Swamp". \nYou can harvest positive poisons for "poison magic".
 Infected Zone
 The ruins that people infected by plague live,  also the most ideal place for the toxic items to grow. The abandoned caves are dark,  and the bones are snarling,  stinking,  just like a hell on earth.
-It is built next to the "poison swamp" with the "human feeding cage" as the core material, and the villagers must be dispatched to operate it. 
-It is necessary to send villagers to operate it. You can harvest the poisonous poison for "poison magic".
+It is built next to the "poison swamp" with the "human feeding cage" as the core material, and the villagers must be dispatched to operate it. \nIt is necessary to send villagers to operate it. You can harvest the poisonous poison for "poison magic".
 Blood Pool
 The blood pool is a scary stone pool filled with the blood of many animals and living human beings. Common toxic substances are often digested by blood pool and immediately become rare poisons.
 This is an extension building built next to the "Pantheon Room" using "Bloodstone" as the core material. 
