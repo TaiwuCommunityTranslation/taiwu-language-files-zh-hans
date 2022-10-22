@@ -460,7 +460,7 @@ The Great Handprint
 As long as user has more True Qi in total than the enemy has, the amount of Styles other than "Divine" that enemy can have cannot exceed the amount of Styles user has.
 Buddha Body
 True qi offset marker
-When defending with this technique: the enemy's heavy wound marker on the user is halved; every 2 points of the user's "body protection" true qi can eliminate 1 wound marker on the user, but the user's internal breath disorder will increase as a result
+When defending with this technique: the enemy's heavy wound marker on the user is halved; every 2 points of the user's "Aegis" true qi can eliminate 1 wound marker on the user, but the user's internal breath disorder will increase as a result
 Lost Worm Incense
 Obtaining a Gu to cast a Gu
 Whenever an enemy's toxicity kicks in, the user gains a number of Gu equal to the number of markers for the onset of toxicity
