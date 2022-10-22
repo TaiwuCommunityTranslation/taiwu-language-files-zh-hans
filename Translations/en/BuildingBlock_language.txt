@@ -441,8 +441,7 @@ A forest farm regulates tree-felling in its area in order to protect the forest.
 An extension building is built next to the "woodworking room" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. \nYou can harvest rattan and bamboo materials for "woodworking".
 Wood Treatment Klin
 This klin is designed so that it can dry up wood while keeping them cool. Wood treated in it is immune to heat or moisture and can last for a long time.
-An extension building built next to the "woodworking room" using "silver bone cold bituminous coal" as the core material. 
-This will enable the adjacent "woodworking room" to produce better quality wooden tools.
+An extension building built next to the "woodworking room" using "silver bone cold bituminous coal" as the core material. \nThis will enable the adjacent "woodworking room" to produce better quality wooden tools.
 Sacred Woods
 This is a diagram created by morphing the roots of sacred trees. As long as it grows from the ground,  when put inside the diagram,  all its properties will be magnified for all to be seen.
 The extension building is built next to the "woodworking room" with "sacred wood roots" as the core material, and is required to be adjacent to the "Taishiki Forest". 
