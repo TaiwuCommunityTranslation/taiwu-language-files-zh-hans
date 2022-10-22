@@ -558,7 +558,7 @@ It is filled with special mud and sand. The small stone embryos are buried in th
 An extension building is built next to the "Gemcutting" with "Rumbo Sand" as the core material, which is adjacent to the "Jewel" and requires the dispatch of villagers to operate. \nYou can harvest jade materials for "artisan".
 Diamond Cutting Table
 A stone solving table made of diamond, also known as a diamond saw. The diamond saw is so hard that it can be used to cut any stubborn stone that is invulnerable to swords, fire and water.
-An extension building is built next to the "Gemcutting" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. \nYou can harvest stone materials for the "Craftsman".
+An extension building is built next to the "Gemcutting" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. \nYou can harvest stone materials for the "Gemcutting".
 Workbench
 A workbench designed by famous craftsmen,  and its structure and function are extremely ingenious. It can be used to refine and process the gemstones that are small like mosquitoes and flies.
 An extension building is built next to the "Gemcutting" using the "Lingering Eight Treasures" as the core material. \nIt will enable the adjacent "Gemcutting" to produce better quality jade products.
