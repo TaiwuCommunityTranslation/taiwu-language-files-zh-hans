@@ -297,8 +297,7 @@ There are maps hanging on the wall,  long tables in the center,  and all kinds o
 This is an extension building built next to "Yixuan" with "Founder's Guide" as the core material. \n can increase the upper limit of the number of Taigo's fellow trainees.
 Study Room
 Books,  scrolls are on the shelves.The four treasures are on the desk: pen,  ink,  paper,  enamel. There are lights and tea,  as well as a number of antiques.
-It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "poetry and books" books. 
-The larger the size of the study room, the more the efficiency will be increased, but the effect of multiple study rooms will not stack.
+It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "poetry and books" books. \nThe larger the size of the study room, the more the efficiency will be increased, but the effect of multiple study rooms will not stack.
 Bookstore
 Bookstores are used to buy and sell books,  which is a shop frequented by literati. The books in the bookstore are mostly manuscripts,  and the content is very rich.
 The extension building is built next to the "study room" and needs to be operated by the villagers. 
