@@ -471,8 +471,7 @@ The rarest herbs often associated with specific things. The so-called “medicin
 An extension building is built next to the "Pharmacy" with "Tong Yuan Bai Qiao Stone" as the heart material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \nIt is necessary to dispatch villagers to operate it. You can harvest Yin herbs for "healing".
 Intelligent Cauldron
 A cauldron that can change the heating power to fit the nature of the medical materials. Let it boil the medical soup,  the heat can be just accurate.
-An extension building is built next to the "Pharmacy" with "Water and Fire Smokeless Charcoal" as the core material. 
-This building will enable the "Pharmacy" adjacent to it to produce better quality pills.
+An extension building is built next to the "Pharmacy" with "Water and Fire Smokeless Charcoal" as the core material. \nThis building will enable the "Pharmacy" adjacent to it to produce better quality pills.
 Shennong Ravine
 The Shennong Ravine is the most spiritual place in the world,  no matter what kind of vegetation,  after transplanted to Shennong Ravine,  it may or may not grow,  it will never die either.
 Using "Shennong's blood" as the heart material, an extension building is built next to the "Pharmacy", which needs to be adjacent to the "Everlasting Spring Stream". \n can reduce the requirement of "medical skill" when making potions.
