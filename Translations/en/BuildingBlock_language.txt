@@ -492,8 +492,7 @@ Secretly supporting livestock and beasts. Whenever a poisoner needs to test the 
 The expansion building built next to the "Phantom Room" needs to be adjacent to the "Beast Herd". \n can increase the chance that characters within the influence of the town or sect they belong to will have a "flash of light" when studying "poison" books.
 Enclosed Chamber
 The process of poison refining is complicated and takes a long time. It is very easy for others to be injured by the poisonous gas mist produced in the process of refining,  and thus more troubles,  so this building is always hidden from the public.
-An extension building built next to the "Secret Room" with "Incense of Avoidance" as the heart material, which must be adjacent to the "Secret Forest". 
-It can increase the "poison" skill of the people within the influence of the town and sect to which it belongs.
+An extension building built next to the "Secret Room" with "Incense of Avoidance" as the heart material, which must be adjacent to the "Secret Forest". \nIt can increase the "poison" skill of the people within the influence of the town and sect to which it belongs.
 Miasma Pool
 Condensing and refining poison from toxic pool. In addition to providing poisonous water for refining,  the miasma pool can also be used to breed flowers and insects that are susceptible to toxic infections.
 This is an extension building built next to the "Ghostly Miasma Furnace" and is adjacent to the "Poison Swamp". 
