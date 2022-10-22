@@ -744,7 +744,7 @@ This is an extension building built next to the "food cellar" using "crystal ice
 This building will reduce the requirement of "cooking" skill when making dishes.
 Long Street
 Wide street full of shops. Long Street is located in the main road of transportation,  bringing together a large number of people from all walks of life.
-It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Miscellaneous" books. The larger the \n scale of the long street, the more the efficiency will be increased, but the effect of multiple long streets will not stack.
+It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Lore" books. The larger the \n scale of the long street, the more the efficiency will be increased, but the effect of multiple long streets will not stack.
 Fair
 The Fair is a place where merchants and sellers gather and sell all kinds of goods. In certain seasons,  special markets will be set up to sell seasonal goods.
 The extension building is built next to the "Long Street" and needs to be operated by the villagers. 
