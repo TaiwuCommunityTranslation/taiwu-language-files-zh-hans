@@ -438,8 +438,7 @@ When it comes to felling trees,  nothing beats organized work gangs armed with a
 An extension building is built next to the "woodworking room" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. \nWooden materials for woodworking can be harvested.
 Forest Farm
 A forest farm regulates tree-felling in its area in order to protect the forest. It also cultivates and nurses trees worthy of protection.
-An extension building is built next to the "woodworking room" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. 
-You can harvest rattan and bamboo materials for "woodworking".
+An extension building is built next to the "woodworking room" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. \nYou can harvest rattan and bamboo materials for "woodworking".
 Wood Treatment Klin
 This klin is designed so that it can dry up wood while keeping them cool. Wood treated in it is immune to heat or moisture and can last for a long time.
 An extension building built next to the "woodworking room" using "silver bone cold bituminous coal" as the core material. 
