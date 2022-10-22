@@ -396,8 +396,7 @@ A huge open-air foundry with many blacksmiths and apprentices.
 An extension building is built next to the "Fire Room" with the "Red Furnace Forge" as the core material, and villagers must be dispatched to operate it. \nYou can find talented people who have excellent skills in "forging".
 Goldshop
 The gold shop is a shop that exchanges gold and silver or trading gold and silver appliances. Due to the value and importance of the gold shop,  only those of high prestige and prestige can host it.
-This is an extension building built next to the "fire room" and needs to be operated by the villagers. 
-The main purpose of the building is to sell metal tools to gain "prestige".
+This is an extension building built next to the "fire room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to gain "prestige".
 Hydraulic Bellow
 It is installed at the water’s edge,  and uses the water flow to pull the fan to open and close,  and conducts the blasting treatment device. Compared to the manpower blast,  the water drain is more powerful.
 The expansion building built next to the "Fire Refining Room" must be adjacent to the "Waters". \n increases the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying the "Forge" book.
