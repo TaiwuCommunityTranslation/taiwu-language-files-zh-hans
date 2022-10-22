@@ -342,8 +342,7 @@ A huge platform for observing the shadows of daylight and the stars of the night
 It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying books on "arts and mathematics". \nThe larger the size of the observatory, the greater the increase in efficiency, but the effects of multiple observatories do not stack.
 Divination Room
 A venue for divination. There are many forms of fortune telling,  such as bone reading,  face reading,  kau cim,  bazi,  plum flower coculation,  etc..
-This is an extension building built next to the "Stargazer" and needs to be operated by the villagers. 
-The main purpose of the building is to earn "silver money" by divination.
+This is an extension building built next to the "Stargazer" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by divination.
 Necromancer Room
 A necromancer is a cultivator who is proficient in the five-elements technique,  a witch-like doctor and also an alchemy reasercher. This is the room that houses and supplies the necromancers.
 An extension building is built next to the "Stargazer" using the "Sundial Star Instrument" as the core material, and villagers must be dispatched to operate it. 
