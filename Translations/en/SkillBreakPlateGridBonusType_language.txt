@@ -12,70 +12,70 @@ Ext. Def.
 Int. Def.
 Stance
 Inhale
-移速
-稳健
-施展
-冲关
+Speed of movement
+Robust
+Putting to use
+Passing
 Weapon
-攻速
+Attack Speed
 Inner Arts
-调息
-强韧
+Tune in
+Tough
 Smooth
-炽烈
-活血
-辟尘
-明神
+Blaze
+improve blood circulation
+refute the dust
+Myojin
 Charm
 Fertility
-增威
-破限
-神合
-百炼
+Zengwei
+break the limit
+Shenhe
+hundred refinements
 Qi Transformation
-应变
-深湛
-通元
-融转
-秘诀
-捷足
-疾驰
-不动
-见机
-飞身
-听心
-松沉
-灵动
-金身
-气墙
-化力
-移形
-换影
-清心
-截击
-震响
-反噬
-罡气
-强顽
-摧元
-化极
-刚猛
-勇力
-虚余
+Strain
+Deep Cham
+Tongyuan
+fusion
+Tips
+Jetfoot
+Leapfrog
+No movement
+see the opportunity
+Flying Body
+listen to the heart
+loose and heavy
+be animated
+Golden Body
+Air Wall
+Chemical power
+Shift shape
+Change of shadow
+Clear Heart
+Intercept
+trembling sound
+backfire
+astral power
+strong and stubborn
+Destroying Yuan
+polarization
+fierce
+Bravery
+virtual residue
 Protection
-用巧
-坠星
-劲风
-摧心
-断肠
-绝手
-阻杀
-止行
-断脉
-摧坚
-烈杀
-郁气
+use ingenuity
+falling star
+Strong wind
+devastate the heart
+heartbroken
+Absolute Hand
+blocking
+Stop the line
+Broken Veins
+destroy the hard
+intense killing
+stagnant gas
 Eternal Ice
-焚血
-尸毒
-惑心
+Burning Blood
+necrotoxin
+confusion
