@@ -384,8 +384,7 @@ The tea garden is built on the low slope of the north facing the fertile land. I
 An extension building is built next to the "Gansen Hall" with "Yunlong Chosen Green Pond" as the core material, which is adjacent to the "fertile field" and needs to be operated by dispatching villagers. \nYou can harvest tea leaves.
 Wine Steamer
 A workshop that uses special equipments to make strong and fragrant shochu.
-The building is located next to the "Gansen Hall" and is adjacent to the "fertile field" and is operated by the villagers. 
-The villagers must be dispatched to operate it.
+The building is located next to the "Gansen Hall" and is adjacent to the "fertile field" and is operated by the villagers. \nThe villagers must be dispatched to operate it.
 Forging Room
 Equipped with furnaces,  bellows and anvils.
 You can make, repair, and refine metal tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Forge" books. \nThe larger the size of the fire refining room, the more efficiency is increased, but the effects of multiple fire refining rooms do not stack.
