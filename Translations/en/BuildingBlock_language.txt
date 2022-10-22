@@ -609,7 +609,7 @@ Belivers are copying and studying the scriptures and chanting in this small buil
 An extension building built next to the "Zen Room" using the "Thirty-Five True Sutras" as the core material. \n can reduce the consumption of enlightenment for all study strategies.
 Kitchen
 The upper floor of the Kitchen is for cooking while the lower floor is for temporary storage of ingredients.
-You can make dishes. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "cookery" books. \nThe larger the size of the Kitchen, the more the efficiency is increased, but the effect of multiple food cellars does not stack.
+You can make dishes. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "cookery" books. \nThe larger the size of the Kitchen, the more the efficiency is increased, but the effect of multiple Kitchens do not stack.
 Restaurant
 The restaurant has two floors and a gorgeous gatehouse.  The first floor is occupied with scattered seats while the second floor provides a few chic small compartments.
 This is an extension building built next to the "Kitchen" and needs to be operated by the villagers. \nThe main purpose of the building is to sell food to earn money.
