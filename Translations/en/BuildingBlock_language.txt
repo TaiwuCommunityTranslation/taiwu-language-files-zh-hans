@@ -360,7 +360,7 @@ Life and Death Observatory
 This is an extension building built next to the "Stargazer" using the "Two Star Chart of Life and Death" as the core material. \n can improve Taigo's life legacy.
 Clarifier
 A small hall built in the deep well where the spring was excavated. In the Clarifier,  facilities for water purification are installed to optimize water quality.
-It increases the efficiency of characters within the area of influence of the town or sect to which they belong when studying "Tasting" books. \nThe larger the size of the Gansen Hall, the greater the increase in efficiency, but the effects of multiple Gansen Halls do not stack.
+It increases the efficiency of characters within the area of influence of the town or sect to which they belong when studying "Appreciation" books. \nThe larger the size of the Gansen Hall, the greater the increase in efficiency, but the effects of multiple Gansen Halls do not stack.
 Teahouse
 In addition to the area where ordinary people drink tea,  the teahouse also has elegant seats and a valuable tea sets for the riches.
 This is an extension building built next to the "Gansen Hall" and needs to be operated by the villagers. \nThe main purpose of the building is to sell tea to earn money.
