@@ -489,7 +489,7 @@ Mad Medics are different,  non-conventional,  and even less respected by the wor
 This is an extension building built next to the "Cellar", which requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell poisons to gain "prestige".
 Animal Testing
 Secretly supporting livestock and beasts. Whenever a poisoner needs to test the toxicity of the poison,  hundreds of lives are cruelly killed here.
-The expansion building built next to the "Cellar" needs to be adjacent to the "Beast Herd". \n can increase the chance that characters within the influence of the town or sect they belong to will have a "flash of light" when studying "poison" books.
+The expansion building built next to the "Cellar" needs to be adjacent to the "Beast Herd". \n can increase the chance that characters within the influence of the town or sect they belong to will have a "flash of light" when studying "Toxicology" books.
 Enclosed Chamber
 The process of poison refining is complicated and takes a long time. It is very easy for others to be injured by the poisonous gas mist produced in the process of refining,  and thus more troubles,  so this building is always hidden from the public.
 An extension building built next to the "Cellar" with "Incense of Avoidance" as the heart material, which must be adjacent to the "Secret Forest". \nIt can increase the "poison" skill of the people within the influence of the town and sect to which it belongs.
