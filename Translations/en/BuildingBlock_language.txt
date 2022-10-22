@@ -642,8 +642,7 @@ Wide street full of shops. Long Street is located in the main road of transporta
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Lore" books. The larger the \n scale of the long street, the more the efficiency will be increased, but the effect of multiple long streets will not stack.
 Fair
 The Fair is a place where merchants and sellers gather and sell all kinds of goods. In certain seasons,  special markets will be set up to sell seasonal goods.
-The extension building is built next to the "Long Street" and needs to be operated by the villagers. 
-The main purpose of the building is to sell groceries to earn "silver money".
+The extension building is built next to the "Long Street" and needs to be operated by the villagers. \nThe main purpose of the building is to sell groceries to earn "silver money".
 Wager Shop
 A place for the gambling games. There are various games as well as cock fighting,  dog racing,  thrush fighting  and Cricket fighting. The gambling money is huge,  so the bodyguards can be as many as a hundred people.
 The extension building is built next to the "Long Street" and needs to be operated by the villagers. 
