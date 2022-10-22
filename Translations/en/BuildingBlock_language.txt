@@ -636,8 +636,7 @@ It is used to collect and cultivate various kinds of spices,  such as: licorice,
 This is an extension building built next to the "Food Cellar" using the "Amphibious Universal Pot" as the core material. \nThis will enable the adjacent "Food Cellar" to produce better quality dishes.
 Dragon Palace
 An igloo built entirely of ice bricks for storing foods that are extremely precious and prone to deterioration. Because it is like the Crystal Palace of the Dragon King,  it is called “Dragon Palace“.
-This is an extension building built next to the "food cellar" using "crystal ice bricks" as the core material, which must be adjacent to the "basalt ice". 
-This building will reduce the requirement of "cooking" skill when making dishes.
+This is an extension building built next to the "food cellar" using "crystal ice bricks" as the core material, which must be adjacent to the "basalt ice". \nThis building will reduce the requirement of "cooking" skill when making dishes.
 Long Street
 Wide street full of shops. Long Street is located in the main road of transportation,  bringing together a large number of people from all walks of life.
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Lore" books. The larger the \n scale of the long street, the more the efficiency will be increased, but the effect of multiple long streets will not stack.
