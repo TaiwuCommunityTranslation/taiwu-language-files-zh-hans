@@ -423,28 +423,28 @@ The woodwork mainly deals in the trade of small items of carpentry,  like tables
 The extension building built next to the "carpentry house" needs to be operated by dispatching villagers. \nThe main purpose of the building is to sell wooden tools to earn money.
 The Seven Workshops
 The seven workshops are designed to the needs for seven different Carpentry trades used in public works as recorded in history. Its products include musical instruments,  weapons,  carts or ships.
-An extension building is built next to the "Carpentry House" with the "Hakuho Carpentry" as the core material, and villagers must be dispatched to run it. \nYou can find people with excellent qualifications in "woodworking".
+An extension building is built next to the "Carpentry House" with the "Hakuho Carpentry" as the core material, and villagers must be dispatched to run it. \nYou can find people with excellent qualifications in "carpentry".
 Construction Team
 The construction team specializes in the construction of buildings,  though they can also help in building roads and bridges.
 An extension building built next to the "carpentry house" that requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell wooden tools to gain "prestige".
 Black Oil Pool
 The Black Oil Pool collects oils and sap from neighbouring swamps for treating wood. Treated wood have more stable properties which makes them easier to be worked on.
-The expansion building built next to the "Carpentry Room" must be adjacent to the "Poison Swamp". \nThis building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "woodworking".
+The expansion building built next to the "Carpentry Room" must be adjacent to the "Poison Swamp". \nThis building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "carpentry".
 Arboretum
 The Arboretum is a collection of exotic trees of all kinds,  in different shapes. By working on and looking at them,  A woodworker gains insight and advancement in skill.
-An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". \nThis building will increase the "woodworking" skill of the people within the influence of the town or sect to which it belongs.
+An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". \nThis building will increase the "carpentry" skill of the people within the influence of the town or sect to which it belongs.
 Logging Camp
 When it comes to felling trees,  nothing beats organized work gangs armed with a full complement of tools at a logging camp.
 An extension building is built next to the "carpentryroom" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. \nWooden materials for carpentrycan be harvested.
 Forest Farm
 A forest farm regulates tree-felling in its area in order to protect the forest. It also cultivates and nurses trees worthy of protection.
-An extension building is built next to the "carpentryroom" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. \nYou can harvest rattan and bamboo materials for "woodworking".
+An extension building is built next to the "carpentryroom" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. \nYou can harvest rattan and bamboo materials for "carpentry".
 Wood Treatment Klin
 This klin is designed so that it can dry up wood while keeping them cool. Wood treated in it is immune to heat or moisture and can last for a long time.
 An extension building built next to the "carpentryroom" using "silver bone cold bituminous coal" as the core material. \nThis will enable the adjacent "carpentryroom" to produce better quality wooden tools.
 Sacred Woods
 This is a diagram created by morphing the roots of sacred trees. As long as it grows from the ground,  when put inside the diagram,  all its properties will be magnified for all to be seen.
-The extension building is built next to the "carpentryroom" with "sacred wood roots" as the core material, and is required to be adjacent to the "Taishiki Forest". \nThis building will reduce the requirement of "woodworking" skills for manufacturing, repairing and refining wooden tools.
+The extension building is built next to the "carpentryroom" with "sacred wood roots" as the core material, and is required to be adjacent to the "Taishiki Forest". \nThis building will reduce the requirement of "carpentry" skills for manufacturing, repairing and refining wooden tools.
 Herbal Room
 Various medicinal materials are prepared by rolling,  frying,  concentrating,  etc.,  and are made into healing cream,  potions and pills.
 Can make elixirs. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying books on "medical arts". \nThe larger the size of the dispensary, the more the efficiency is increased, but the effects of multiple dispensaries do not stack.
