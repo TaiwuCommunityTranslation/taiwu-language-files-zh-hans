@@ -624,8 +624,7 @@ A farm that raises rare livestocks or wild animals for food material. The size o
 The expansion building built next to the "Food Cellar" needs to be adjacent to the "Beast Herd". \n can increase the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying "cookery" books.
 King Cauldron
 Made of a mixture of cooked copper and meteoric iron. This black cauldron has a bottom of thermal conductivity but also has body that is steadily cold,  so it requires extremely high cooking skills for the chiefs to cook with it.
-An extension building built next to the "Food Cellar" with "Heavenly Iron Xuan Ding" as the core material, which must be adjacent to the "Meteorite Pit". 
-It can increase the "cooking" skill of the people within the influence of the town and sect to which it belongs.
+An extension building built next to the "Food Cellar" with "Heavenly Iron Xuan Ding" as the core material, which must be adjacent to the "Meteorite Pit". \nIt can increase the "cooking" skill of the people within the influence of the town and sect to which it belongs.
 Seasons Park
 The Seasons Park has very peculiar structure. depending on the habits of the four seasons,  There are four layers of aerial gardens built in high and low levels depending on habits of the vegetables. No matter the winter of summer,  the garden is green like spring.
 The building is built next to the "Food Cellar" with "Four Seasons Wind" as the core material, and is adjacent to the "Fertile Field". 
