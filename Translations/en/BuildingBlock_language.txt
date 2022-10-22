@@ -453,8 +453,7 @@ Shops that prepare and sell medicine depending on prescriptions. In addition,  t
 This is an extension building built next to the "pharmacy" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by selling potions.
 Herbalist Hall
 A hall for experimenting and developing new drugs. It has dozens of apprentices and is also a place where prestigious physicians conduct consultations and discuss Medicine.
-An extension building is built next to the "pharmacy" with the "mahogany medicine cabinet" as the core material, and villagers must be dispatched to run it. 
-You can find talented people with excellent qualifications in the field of "medicine".
+An extension building is built next to the "pharmacy" with the "mahogany medicine cabinet" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent qualifications in the field of "medicine".
 Welfare Hospital
 The Welfare Hospital is a place to receive and relieve those who are poor and sick. Not only does it give away medicines,  but it also has a ward kitchen and provides simple accommodation.
 This is an extension building built next to the "pharmacy" and needs to be operated by sending villagers. 
