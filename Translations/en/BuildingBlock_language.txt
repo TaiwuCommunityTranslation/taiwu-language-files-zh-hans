@@ -561,8 +561,7 @@ A stone solving table made of diamond, also known as a diamond saw. The diamond 
 An extension building is built next to the "Craftsman's House" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. \nYou can harvest stone materials for the "Craftsman".
 Workbench
 A workbench designed by famous craftsmen,  and its structure and function are extremely ingenious. It can be used to refine and process the gemstones that are small like mosquitoes and flies.
-An extension building is built next to the "Artisan House" using the "Lingering Eight Treasures" as the core material. 
-It will enable the adjacent "Craft House" to produce better quality jade products.
+An extension building is built next to the "Artisan House" using the "Lingering Eight Treasures" as the core material. \nIt will enable the adjacent "Craft House" to produce better quality jade products.
 God’s Light Wall
 The wall is six feet high and are made of millenium spar taken from the earth’s veins. It is also called “The Mother of Jade“. It is a treasure that can trigger the spirituality of gems.
 This is an extension building built next to the "Craft House" with "Millennium Jade Mother" as the core material, and it must be adjacent to the "Spirit Vein". 
