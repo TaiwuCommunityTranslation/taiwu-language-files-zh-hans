@@ -420,8 +420,7 @@ Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all availab
 You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Woodworking" books. \nThe larger the size of the woodworking room, the more the efficiency is increased, but the effects of multiple woodworking rooms do not stack.
 Woodwork
 The woodwork mainly deals in the trade of small items of carpentry,  like tables,  chairs,  utensils,  or lanterns.
-The extension building built next to the "carpentry house" needs to be operated by dispatching villagers. 
-The main purpose of the building is to sell wooden tools to earn money.
+The extension building built next to the "carpentry house" needs to be operated by dispatching villagers. \nThe main purpose of the building is to sell wooden tools to earn money.
 The Seven Workshops
 The seven workshops are designed to the needs for seven different Carpentry trades used in public works as recorded in history. Its products include musical instruments,  weapons,  carts or ships.
 An extension building is built next to the "Woodworking House" with the "Hakuho Woodworking" as the core material, and villagers must be dispatched to run it. 
