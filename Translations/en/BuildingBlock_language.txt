@@ -537,7 +537,7 @@ Made of fragrant grass and spar,  this kind of shuttle is magnetic to fabric,  s
 An extension building is built next to the "Embroidery Building" with "Divine Color Crystal Magnet" as the core material, and it needs to be adjacent to the "Chika Plain". \nThis building can reduce the requirement of "brocade" attainment when manufacturing, repairing and refining brocade products.
 Gemcutting
 A room filled with gems and jade,  full of complicated tools. Gemcutting processing is extremely sophisticated and requires a lot of elaborate tools.
-You can manufacture, repair, and refine jade products. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Crafty Craftsmanship" books. \The larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
+You can manufacture, repair, and refine jade products. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Gemcutting" books. \nThe larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
 Jewelry Shop
 Jewelry shop buys and sells a variety of valuable jewellery and jade objects,  and often repairs and recreates various damaged treasures too.
 This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to earn "silver money".
