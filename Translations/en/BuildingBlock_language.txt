@@ -669,8 +669,7 @@ A pawnshop is a place for people to trade in tools,  lands,  livestock or even s
 The extension building built next to the "Long Street" needs to be operated by sending villagers. \nYou can exchange "silver money" for groceries.
 Wisdom Guild
 The wisdom guild employs wise men to work under their masters. Wise men can mean anyone who has a useful skill,  have exceptional knowledge,  or can plan and execute plans.
-The extension building built next to the "Long Street" needs to be operated by sending villagers. 
-You can use "Prestige" to recruit talents.
+The extension building built next to the "Long Street" needs to be operated by sending villagers. \nYou can use "Prestige" to recruit talents.
 Capital
 The Capital is the economic and political center of the Middle Kingdom,  croweded with the rich and powerful.
 Chengdu
