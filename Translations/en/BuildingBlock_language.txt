@@ -219,7 +219,7 @@ The cloud stages are a series of small steps around a giant tree that extends fo
 This is an extension building built next to the "Practice Room" using "Kirin Chisel" as the core material. \It can increase the success rate of "Footwork Technique" for characters within the influence of the town and sect to which they belong.
 Secret Room
 Buried deep underground and reached only by hidden passageways,  this secret room keeps the practicing of stunts an absolute secret. Inside there are books and drawings that acts as study aids.
-This is an extension building built next to the "Practice Room" using "Wind Hole Hyakki" as the core material. \This building can increase the success rate of "Jutsu" for characters within the influence of the town and sect to which they belong.
+This is an extension building built next to the "Practice Room" using "Wind Hole Hyakki" as the core material. \This building can increase the success rate of "Stunt" for characters within the influence of the town and sect to which they belong.
 Tiger ring
 The tiger ring is just taller than the human body in all directions,  which makes escaping impossible. Only by training fist skills one can defeat the beasts that reside inside it.
 This is an extension building built next to the "Training Room" using the "Tiger Feeding Cage" as the core material. \It can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Fist and Palm".
