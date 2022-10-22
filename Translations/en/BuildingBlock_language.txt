@@ -429,8 +429,7 @@ The construction team specializes in the construction of buildings,  though they
 An extension building built next to the "carpentry house" that requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell wooden tools to gain "prestige".
 Black Oil Pool
 The Black Oil Pool collects oils and sap from neighbouring swamps for treating wood. Treated wood have more stable properties which makes them easier to be worked on.
-The expansion building built next to the "Woodworking Room" must be adjacent to the "Poison Swamp". 
-This building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "woodworking".
+The expansion building built next to the "Woodworking Room" must be adjacent to the "Poison Swamp". \nThis building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "woodworking".
 Arboretum
 The Arboretum is a collection of exotic trees of all kinds,  in different shapes. By working on and looking at them,  A woodworker gains insight and advancement in skill.
 An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". 
