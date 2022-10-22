@@ -253,7 +253,7 @@ This is an extension building built next to the "Practice Room" using the "Light
 Strings Hall
 Seven strings made of exotic materials and in rainbow colours hang in this hall. They resonate to the internal energy and the mood of the music practioner respectively - happiness,  angriness,  sadness,  thoughtfulness,  sadness,  worriness and scaredness.
 This is an extension building built next to the "practice room" using "seven-color heart strings" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through "musical instruments".
-Musical Room
+Music Room
 Elegant music room built beside a winding path,  surrounded by dense woods.  Various kinds of instruments available.
 It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Music" books. \nThe larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
 Concert Hall
