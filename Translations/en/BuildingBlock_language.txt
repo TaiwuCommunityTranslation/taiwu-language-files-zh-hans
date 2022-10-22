@@ -612,8 +612,7 @@ The upper floor of the Kitchen is for cooking while the lower floor is for tempo
 You can make dishes. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "cookery" books. \nThe larger the size of the food cellar, the more the efficiency is increased, but the effect of multiple food cellars does not stack.
 Restaurant
 The restaurant has two floors and a gorgeous gatehouse.  The first floor is occupied with scattered seats while the second floor provides a few chic small compartments.
-This is an extension building built next to the "food cellar" and needs to be operated by the villagers. 
-The main purpose of the building is to sell food to earn money.
+This is an extension building built next to the "food cellar" and needs to be operated by the villagers. \nThe main purpose of the building is to sell food to earn money.
 Folk Banquet
 Hosted by prestigious people,  a large-scale folk open-air banquet. Hundreds of chefs come and cook for countless people that sit around thousands of tables.
 An extension building is built next to the "Food Cellar" with "Hundred Thousand Bowls" as the core material, and villagers must be dispatched to run it. 
