@@ -444,8 +444,7 @@ This klin is designed so that it can dry up wood while keeping them cool. Wood t
 An extension building built next to the "woodworking room" using "silver bone cold bituminous coal" as the core material. \nThis will enable the adjacent "woodworking room" to produce better quality wooden tools.
 Sacred Woods
 This is a diagram created by morphing the roots of sacred trees. As long as it grows from the ground,  when put inside the diagram,  all its properties will be magnified for all to be seen.
-The extension building is built next to the "woodworking room" with "sacred wood roots" as the core material, and is required to be adjacent to the "Taishiki Forest". 
-This building will reduce the requirement of "woodworking" skills for manufacturing, repairing and refining wooden tools.
+The extension building is built next to the "woodworking room" with "sacred wood roots" as the core material, and is required to be adjacent to the "Taishiki Forest". \nThis building will reduce the requirement of "woodworking" skills for manufacturing, repairing and refining wooden tools.
 Herbal Room
 Various medicinal materials are prepared by rolling,  frying,  concentrating,  etc.,  and are made into healing cream,  potions and pills.
 Can make elixirs. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying books on "medical arts". \nThe larger the size of the dispensary, the more the efficiency is increased, but the effects of multiple dispensaries do not stack.
