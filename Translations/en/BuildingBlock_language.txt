@@ -423,8 +423,7 @@ The woodwork mainly deals in the trade of small items of carpentry,  like tables
 The extension building built next to the "carpentry house" needs to be operated by dispatching villagers. \nThe main purpose of the building is to sell wooden tools to earn money.
 The Seven Workshops
 The seven workshops are designed to the needs for seven different Carpentry trades used in public works as recorded in history. Its products include musical instruments,  weapons,  carts or ships.
-An extension building is built next to the "Woodworking House" with the "Hakuho Woodworking" as the core material, and villagers must be dispatched to run it. 
-You can find people with excellent qualifications in "woodworking".
+An extension building is built next to the "Woodworking House" with the "Hakuho Woodworking" as the core material, and villagers must be dispatched to run it. \nYou can find people with excellent qualifications in "woodworking".
 Construction Team
 The construction team specializes in the construction of buildings,  though they can also help in building roads and bridges.
 An extension building built next to the "carpentry house" that requires the dispatch of villagers to operate. 
