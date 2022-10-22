@@ -426,8 +426,7 @@ The seven workshops are designed to the needs for seven different Carpentry trad
 An extension building is built next to the "Woodworking House" with the "Hakuho Woodworking" as the core material, and villagers must be dispatched to run it. \nYou can find people with excellent qualifications in "woodworking".
 Construction Team
 The construction team specializes in the construction of buildings,  though they can also help in building roads and bridges.
-An extension building built next to the "carpentry house" that requires the dispatch of villagers to operate. 
-The main purpose of the building is to sell wooden tools to gain "prestige".
+An extension building built next to the "carpentry house" that requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell wooden tools to gain "prestige".
 Black Oil Pool
 The Black Oil Pool collects oils and sap from neighbouring swamps for treating wood. Treated wood have more stable properties which makes them easier to be worked on.
 The expansion building built next to the "Woodworking Room" must be adjacent to the "Poison Swamp". 
