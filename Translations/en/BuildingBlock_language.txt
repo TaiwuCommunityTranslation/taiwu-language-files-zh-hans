@@ -417,19 +417,19 @@ Built on the fire pool,  it is used to take the smelting iron of underground fir
 This is an extension building built next to the "Fire Refining Room" with the "Fire Furnace" as the core material and adjacent to the "Fire Pond". \nThis building can reduce the requirement of "forging" skill in manufacturing, repairing and refining metal tools.
 Carpenter
 Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all available in the Carpenter.
-You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Woodworking" books. \nThe larger the size of the carpentryroom, the more the efficiency is increased, but the effects of multiple carpentryrooms do not stack.
+You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Carpentry" books. \nThe larger the size of the carpentryroom, the more the efficiency is increased, but the effects of multiple carpentryrooms do not stack.
 Woodwork
 The woodwork mainly deals in the trade of small items of carpentry,  like tables,  chairs,  utensils,  or lanterns.
 The extension building built next to the "carpentry house" needs to be operated by dispatching villagers. \nThe main purpose of the building is to sell wooden tools to earn money.
 The Seven Workshops
 The seven workshops are designed to the needs for seven different Carpentry trades used in public works as recorded in history. Its products include musical instruments,  weapons,  carts or ships.
-An extension building is built next to the "Woodworking House" with the "Hakuho Woodworking" as the core material, and villagers must be dispatched to run it. \nYou can find people with excellent qualifications in "woodworking".
+An extension building is built next to the "Carpentry House" with the "Hakuho Carpentry" as the core material, and villagers must be dispatched to run it. \nYou can find people with excellent qualifications in "woodworking".
 Construction Team
 The construction team specializes in the construction of buildings,  though they can also help in building roads and bridges.
 An extension building built next to the "carpentry house" that requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell wooden tools to gain "prestige".
 Black Oil Pool
 The Black Oil Pool collects oils and sap from neighbouring swamps for treating wood. Treated wood have more stable properties which makes them easier to be worked on.
-The expansion building built next to the "Woodworking Room" must be adjacent to the "Poison Swamp". \nThis building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "woodworking".
+The expansion building built next to the "Carpentry Room" must be adjacent to the "Poison Swamp". \nThis building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "woodworking".
 Arboretum
 The Arboretum is a collection of exotic trees of all kinds,  in different shapes. By working on and looking at them,  A woodworker gains insight and advancement in skill.
 An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". \nThis building will increase the "woodworking" skill of the people within the influence of the town or sect to which it belongs.
