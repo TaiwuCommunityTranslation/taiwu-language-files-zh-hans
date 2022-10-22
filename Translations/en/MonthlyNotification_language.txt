@@ -258,8 +258,8 @@ Nine cold as a scourge
 The geodesic grid near {0} was damaged due to the passage of Jiukan!
 Phoenix is a scourge
 Due to the passing of the golden phoenixer, {0} near {1} suffered a crossroad!
-Waiting is a curse.
-Because of the clothes to wait for the passage, {0} nearby characters are mourning, grief and indignation.
+calamity
+As Yi Yihou passed by, {0} the nearby characters were all mourning, grief and anger.
 Wei Qi is a scourge
 Weiqi transfers all damage to {1} near {0}!
 taking a direction for a disaster
@@ -276,7 +276,7 @@ Nine-Cold Relief
 {0}The nearby geographies are under the care of a mysterious man who calls himself Jiuchan, and all the resources are restored.
 Phoenix saves the suffering
 {0} saw the golden phoenix at {1} and subsequently received a heavenly cross blessing.
-in order to save the suffering
+Rescue the suffering
 {0} nearby characters are more likely to fall in love with others after meeting a mysterious person who calls himself Yi Yi Hou.
 Wei Qi saves suffering
 {0} was rescued by a mysterious man who called himself Wei Qi in {1} and transferred the injury to {2}.
