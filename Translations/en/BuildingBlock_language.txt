@@ -770,8 +770,7 @@ The extension building built next to "Long Street" needs to be operated by dispa
 The main purpose of the building is to gain "prestige" for people to play.
 Mega Park
 Designed by the famous designers,  it is built in a large area with beautiful scenery. The Mega Park is like a small town with green mountains and rivers,  streets,  bridges,  pavilions and all.
-An extension building built next to "Long Street" with "Famous Garden and Landscape" as the core material, which must be adjacent to "Flower Valley". 
-This building will increase the chance of people within the influence of the town or sect to read books on "miscellaneous studies".
+An extension building built next to "Long Street" with "Famous Garden and Landscape" as the core material, which must be adjacent to "Flower Valley". \nThis building will increase the chance of people within the influence of the town or sect to read books on "lore studies".
 Occult Field
 This field is full of strange flowers and stones,  and it is amazingly crafted everywhere.
 An extension building built next to "Long Street" with "exotic flowers and stones" as the core material needs to be adjacent to "Evergreen Stream". 
