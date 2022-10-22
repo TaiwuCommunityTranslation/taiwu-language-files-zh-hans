@@ -549,8 +549,7 @@ There are many antique treasures in the shop. For most of the time only “treas
 This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to gain "prestige".
 Engraver
 Rubbing precious stones and jade with tools of various hardness tools. It can help craftsmen to better understand properties of the gems.
-The expansion building built next to the "Crafty House" must be adjacent to the "Stone Mountain". 
-This building will increase the chance of people within the influence of your town or sect to have a "flash of light" when studying the "Craftsman" book.
+The expansion building built next to the "Crafty House" must be adjacent to the "Stone Mountain". \nThis building will increase the chance of people within the influence of your town or sect to have a "flash of light" when studying the "Craftsman" book.
 Blood Mirror
 The Blood Mirror is made of precious red stone spar,  built on the fire pool. When the mirror shines red light,  you can see the inside of gems and see the pros and cons of them.
 An extension building is built next to the "Craft House" with "Fire Pond Red Crystal" as the core material, and must be adjacent to the "Fire Pond". 
