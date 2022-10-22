@@ -255,12 +255,10 @@ Seven strings made of exotic materials and in rainbow colours hang in this hall.
 This is an extension building built next to the "practice room" using "seven-color heart strings" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through "musical instruments".
 Musical Room
 Elegant music room built beside a winding path,  surrounded by dense woods.  Various kinds of instruments available.
-It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Music" books. 
-The larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
+It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Music" books. \nThe larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
 Concert Hall
 A leisure place where musicians gather. They play quite ceremonial music,  perform mostly elegant and refined dances and songs,  deeply loved by the literati.
-This is an extension building built next to the "piano house" and needs to be operated by the villagers. 
-The main purpose of the building is to earn "silver money" by playing music.
+This is an extension building built next to the "piano house" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by playing music.
 Musical Academy
 A folk place for music teaching,  an elegant school for musicians to appreciate music,  exchange and impart music knowledge and performance techniques.
 This is an extension building next to the Music House, using the "Echo Stage" as the core material, which requires the dispatch of villagers to operate. 
