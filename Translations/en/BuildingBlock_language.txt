@@ -495,10 +495,10 @@ The process of poison refining is complicated and takes a long time. It is very 
 An extension building built next to the "Cellar" with "Incense of Avoidance" as the heart material, which must be adjacent to the "Secret Forest". \nIt can increase the "Toxicology" skill of the people within the influence of the town and sect to which it belongs.
 Miasma Pool
 Condensing and refining poison from toxic pool. In addition to providing poisonous water for refining,  the miasma pool can also be used to breed flowers and insects that are susceptible to toxic infections.
-This is an extension building built next to the "Ghostly Miasma Furnace" and is adjacent to the "Poison Swamp". \nYou can harvest positive poisons for "poison magic".
+This is an extension building built next to the "Ghostly Miasma Furnace" and is adjacent to the "Poison Swamp". \nYou can harvest positive poisons for "Toxicology".
 Infected Zone
 The ruins that people infected by plague live,  also the most ideal place for the toxic items to grow. The abandoned caves are dark,  and the bones are snarling,  stinking,  just like a hell on earth.
-It is built next to the "poison swamp" with the "human feeding cage" as the core material, and the villagers must be dispatched to operate it. \nIt is necessary to send villagers to operate it. You can harvest the poisonous poison for "poison magic".
+It is built next to the "poison swamp" with the "human feeding cage" as the core material, and the villagers must be dispatched to operate it. \nIt is necessary to send villagers to operate it. You can harvest the poisonous poison for "Toxicology".
 Blood Pool
 The blood pool is a scary stone pool filled with the blood of many animals and living human beings. Common toxic substances are often digested by blood pool and immediately become rare poisons.
 This is an extension building built next to the "Cellar" using "Bloodstone" as the core material. \nThis building will enable the adjacent room to produce better quality poisons.
