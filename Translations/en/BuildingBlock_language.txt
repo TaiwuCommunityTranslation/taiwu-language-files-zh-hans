@@ -459,22 +459,22 @@ The Welfare Hospital is a place to receive and relieve those who are poor and si
 This is an extension building built next to the "Herbal Room" and needs to be operated by sending villagers. \nThe main purpose of the building is to sell pills to gain "prestige".
 Animal Hospital
 A hospital that treats livestock and wildlife. Although veterinary halls are inconspicuous,  medical treatments are sometimes connected to human treatments,  and many brilliant medicines have experienced the process of birth and  verification here,  then played their part onto patients.
-An expansion building built next to the "Pharmacy", which needs to be adjacent to the "Beast". \nIt increases the chance that people within the influence of the town or sect to which it belongs will have a "flash of light" when studying books on "healing".
+An expansion building built next to the "Herbal Room", which needs to be adjacent to the "Beast". \nIt increases the chance that people within the influence of the town or sect to which it belongs will have a "flash of light" when studying books on "healing".
 Frozen Coffin
 Patient samples are especially important when studying Medicine. However,  human flesh is easy to break after dead,  so the Frozen Coffin is built to preserve the remains of the deceased,  which can be used for years without rot.
-Using "Cold Jade Ice Coffin" as the heart material, the extension building built next to "Pharmacy" needs to be adjacent to "Xuan Bing". \nIt can increase the "medical" attainments of the people within the influence of the town and sect to which it belongs.
+Using "Cold Jade Ice Coffin" as the heart material, the extension building built next to "Herbal Room" needs to be adjacent to "Xuan Bing". \nIt can increase the "medical" attainments of the people within the influence of the town and sect to which it belongs.
 Herbal Garden
 A herbal plantation that is modeled after the living environment of wild herbs. The composition of the garden is very particular,  and it is necessary to plan depending on the “yin and yang,  cold and heat,  and five flavors” of the herbs.. 
-An extension building is built next to the "Pharmacy" with "Shikotsuki Tinggi beads" as the core material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \nYou can harvest Yang herbs for "healing".
+An extension building is built next to the "Herbal Room" with "Shikotsuki Tinggi beads" as the core material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \nYou can harvest Yang herbs for "healing".
 Cultivation Room
 The rarest herbs often associated with specific things. The so-called “medicine cultivation” is to raise those rare herbs with special items to achieve the purpose of cultivation and reproduction.
-An extension building is built next to the "Pharmacy" with "Tong Yuan Bai Qiao Stone" as the heart material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \nIt is necessary to dispatch villagers to operate it. You can harvest Yin herbs for "healing".
+An extension building is built next to the "Herbal Room" with "Tong Yuan Bai Qiao Stone" as the heart material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \nIt is necessary to dispatch villagers to operate it. You can harvest Yin herbs for "healing".
 Intelligent Cauldron
 A cauldron that can change the heating power to fit the nature of the medical materials. Let it boil the medical soup,  the heat can be just accurate.
-An extension building is built next to the "Pharmacy" with "Water and Fire Smokeless Charcoal" as the core material. \nThis building will enable the "Pharmacy" adjacent to it to produce better quality pills.
+An extension building is built next to the "Herbal Room" with "Water and Fire Smokeless Charcoal" as the core material. \nThis building will enable the "Herbal Room" adjacent to it to produce better quality pills.
 Shennong Ravine
 The Shennong Ravine is the most spiritual place in the world,  no matter what kind of vegetation,  after transplanted to Shennong Ravine,  it may or may not grow,  it will never die either.
-Using "Shennong's blood" as the heart material, an extension building is built next to the "Pharmacy", which needs to be adjacent to the "Everlasting Spring Stream". \n can reduce the requirement of "medical skill" when making potions.
+Using "Shennong's blood" as the heart material, an extension building is built next to the "Herbal Room", which needs to be adjacent to the "Everlasting Spring Stream". \n can reduce the requirement of "medical skill" when making potions.
 Cellar
 The cellar was built in the deep and cold underground. There are utensils for the preparation of poisons in the room,  which also breeds highly venomous snakes and plants.
 You can make poisons and quench poisons for props. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "poison" books. \The larger the size of the chamber, the greater the increase in efficiency, but the effects of multiple chambers do not stack.
