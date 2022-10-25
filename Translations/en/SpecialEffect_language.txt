@@ -757,7 +757,7 @@ During the duration of this Footwork: the enemy cannot eliminate the Footwork an
 Seven-Star Spin
 During the duration of this Footwork, the less "attack tokens" user has, the more the user's Attack Speed will increase.
 Heaven Leap
-Penetration Up
+Increase your attack
 When advancing with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the distance will be advanced, up to 5 distance, and the farther the user advances, the stronger a buff will be applied to the user which improves External Penetration and Internal Penetartion.
 Moving Star
 Change the distance between enemy and us
@@ -954,7 +954,7 @@ After this technique has been used for 100% of its power, the user gains 4 level
 Swordsmanship\nof 9 Lights
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Nadis", this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, and then this effect reverts to 0 levels.
 Swordsmanship\nof Yinyang Reversed
-Improving external injury
+Ext. Def. UP
 When attacking an enemy with this technique, if this technique can cause direct internal damage and the user's Internal Penetration is lower than the enemy's Internal Defense, the user's External Penetration is greatly increased and the user's direct external damage to the enemy is greatly increased
 Origin\nSword Intent
 0 Inhale·Stance cost
@@ -1029,7 +1029,6 @@ Cuckoo's\nPecking
 Causes additional blocked points
 For every 1 external injury this technique inflicts on an enemy, it causes 1 sealed point to appear on the enemy's attacked area
 Small 8 Moves\nof Gold Clank
-Ext. Def. UP
 Lowering the enemy's External Defense
 This technique cannot be reflected; when attacking an enemy with this technique, if the enemy's External Defense is higher than the user's External Penetration, after this technique is performed, a buff that increases the External Penetration is applied to the user and a debuff that decreases the External Defense is applied to the enemy.
 Flood Dragon's\nWagging Tail
@@ -1067,19 +1066,18 @@ Once this technique has reached 10% of its power, the user will receive 6 levels
 12 Ways of\nAssassination
 Unblock your weapon
 If the weapon used by the user is the "Sword·YuChang", the user can perform this technique from 50% of its progress, and after this technique has been used at 100% of its power, the "Sword·YuChang" can be unsealed, and this sword can perform all "sword techniques" from 50% of its progress. It will last until the other weapons are unblocked or the battle is over.
-Unblocked: This sword is able to perform all "sword techniques" from 50% of its progress until the other weapons are unblocked or the battle is over.
+Unblocked: This sword can perform all "Sword Techniques" from 50% of its progress.
 Gongbu\nThe Unique Sword
 Skill Dmg Up
 If the weapon used by the user is the "Sword·GongBu", the direct damage dealt by this technique to the enemy is greatly increased and the "Sword·GongBu" can be unblocked after this technique has been used to 100% of its power, and this sword can increase the direct damage of all "sword techniques" until the other until the other weapons are unblocked or the battle is over
-Unblocked: This sword can increase the direct damage of all "sword techniques" and lasts until the other weapons are unblocked or the battle is over.
+Unblocked: This sword can increase the direct damage of all "sword techniques".
 Broken\nHoly Sword
 Skill accuracy up
 If the weapon used by the user is the "Sword·ShengXie", the chance of this technique hitting the enemy is greatly increased and the "Sword·ShengXie" can be unblocked after this technique has been used to 100% of its power, and this sword can increase the chance of all "sword techniques" hitting the enemy until other weapons are used. Unblocked or end of battle
-Unblocked: This sword increases the chance of all "sword techniques" hitting the enemy and lasts until the other weapons are unblocked or the battle is over.
+Unblocked: This sword can increase the chance of all "sword techniques" hitting enemies
 Heavy Sword of\nGreatTower
-Skill Ext. Pen. UP
-If the weapon used by the user is the "Sword·JuQue", the user's Ext. Pen. is greatly increased and the "Sword·JuQue" can be unsealed after this technique has been used at 100% of its power, and this sword can increase the Ext. Pen. of all "sword techniques" until the other weapons are unsealed or the battle is over.
-Unblocked: This sword can increase the Ext. Pen. of all "sword techniques" and lasts until the other weapons are unblocked or the battle is over.
+If the weapon used by the user is the "Great Que Sword", the user's body breakage is greatly increased and the "Great Que Sword" can be unsealed after this technique has been used at 10% of its power, and this sword can increase the user's body breakage when performing all "sword techniques" until other weapons are used. Unblocked or end of battle
+Unblocked: This sword can increase the body breakage of the user when performing all "sword techniques".
 7 Star\nSwordsmanship of DragonPool
 Reducing the consumption of techniques
 If the weapon used by the user is the "Sword·LongYuan", the user's Inhale and Stance consumption for performing this technique is greatly reduced, and the "Sword·LongYuan" can be unsealed after this technique has been used to 100% of its power, and this sword can reduce the Inhale and Stance consumption of all "sword techniques". It will last until the other weapons are unsealed or the battle is over.
@@ -1088,9 +1086,9 @@ Taier\nImmeasurable Sword
 If the weapon used by the user is the "Sword·TaiE", the attack range of this technique is greatly increased and the "Sword·TaiE" can be unblocked after this technique has been used to 100% of its power, and this sword can increase the attack range of all "sword techniques" until the other weapons are unblocked or End of battle
 Unblocked: This sword can increase the attack range of all "sword techniques".
 HU·Sword Intent\nof Pure Soul
-Skill Int. Pen UP
-If the weapon used by the user is the "Sword·ChunJun", the user's Internal Penetration is greatly increased, and after this technique has been used at 100% of its power, the "Sword·ChunJun" can be unsealed, and this sword can increase the Internal Penetration of all "sword techniques" until the other weapons are unsealed or the battle is over.
-Unblocked: This sword can increase the Internal Penetration of all "sword techniques".
+Int. Pen. UP
+If the weapon used by the user is the "Pure Jun Sword", the user's broken qi is greatly increased, and after this technique has been used at 10% of its power, the "Pure Jun Sword" can be unsealed, and this sword can increase the user's broken qi when performing all "sword techniques" until other weapons are used. Unblocked or end of battle
+Unblocked: This sword can increase the user's broken qi when performing all "sword techniques".
 Swordsmanship\nof SuperbCore
 If the weapon used by the user is the "Sword·ZhanLu", the power of this technique is greatly increased and the "Sword·ZhanLu" can be unsealed after this technique has been used to 100% of its power, and this sword can increase the power of all "sword techniques" until the other weapons are unsealed or the battle is over.
 Unblocked: This sword can increase the power of all "sword techniques".
@@ -1262,6 +1260,7 @@ Refining\nFire Palm
 Ignore E·Armor
 When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Constitution and increases the user's External Penetration and Internal Penetration
 Crazy Drunk Fist
+Improving external injury
 When this technique is at 100% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disturbed the user's internal breath is, the higher the external injury caused by this technique; if the user is drunk, the chance of performing this technique again increases significantly
 Great Colorful\nPalm
 When this technique starts, it transfers a portion of the power of the most powerful "Aegis" technique of the user and the enemy to this technique and lasts until the end of the battle.
@@ -1575,7 +1574,6 @@ This technique cannot be interrupted; this technique is bound to be 10% powerful
 Chilling Pinprick
 Increase the power of all the "Quick" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle
 Emei Finger Zen
-Int. Pen. UP
 The Internal Penetration of this technique is increased by the amount of power it exerts.
 Lame Fight\n80 Moves
 When this technique is used at 100% of its power, for every 2 "Hold" styles the user has, the level of damage the user can cause to the enemy will increase by 1 extra level.
@@ -2746,13 +2744,13 @@ If the user's Calmness does not fall below 40, the direct damage dealt by this t
 Reverse - Broken\nHoly Sword
 If the user's enthusiasm is at least 40, the chance of this technique hitting the enemy is greatly increased, and after this technique has become 100% more powerful, the user gains 2 levels of this effect: the chance of all "sword techniques" performed by the user hitting the enemy is increased.
 Reverse - Heavy Sword of\nGreatTower
-If the user's enthusiasm and bravery are not less than 30, the user's Ext. Pen. will be greatly increased, and after this technique has become 100% more powerful, the user will receive 2 levels of this effect: the Ext. Pen. of all "sword techniques" performed by the user will be increased.
+If the user's enthusiasm and bravery are not less than 30, the user's body breakage will be greatly increased and the user will get 2 levels of this effect after this technique has become 10% more powerful: the user's body breakage will be increased when performing all "sword techniques".
 Reverse - 7 Star\nSwordsmanship of DragonPool
 If the user's intelligence and perseverance are not less than 30, the user's energy and Stance consumption for performing this technique will be greatly reduced, and after this technique has become 100% more powerful, the user will receive 2 levels of this effect: the energy and Stance consumption of all "sword techniques" performed by the user will be reduced.
 Reverse - Taier\nImmeasurable Sword
 If the user's fortitude and aptitude are not less than 30, the attack range of this technique will be greatly increased and the user will receive 2 levels of this effect after this technique has become 100% more powerful: the attack range of all "sword techniques" performed by the user will be increased.
 Reverse - HU·Sword Intent\nof Pure Soul
-If the user's calmness, intelligence, and aptitude are not less than 20, the user's Internal Penetration is greatly increased, and the user gains 2 levels of this effect after this technique has become 100% more powerful: the Internal Penetration of all "sword techniques" the user performs is increased.
+If the user's calmness, intelligence, and aptitude are not less than 20, the user's broken qi is greatly increased, and the user gains 2 levels of this effect after this technique has become 10% more powerful: the user's broken qi is increased when performing all "sword techniques".
 Reverse - Swordsmanship\nof SuperbCore
 If the user's Fortunate Fate is not less than 40, the power of this technique will be greatly increased, and after this technique has become 100% more powerful, the user will receive 2 levels of this effect: the power of all "sword techniques" performed by the user will be increased.
 Reverse - Blade of General
@@ -3238,6 +3236,7 @@ If the enemy's internal energy attribute is "Fire" when this technique is at 100
 Reverse - A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all parts of the enemy that are broken
 Reverse - 8 Moves of\nBlood Red Flower
+Kung Fu reduces life and increases power
 When this technique exerts ten percent of its power: cumulative increase in the power of this technique; cumulative reduction in the maximum health of the user; cumulative reduction in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will last until the death of the user; unless the user retakes this technique, this technique will not change to Orthodox practice for any reason
 Reverse - Needle Control
 When this technique is used at 100% of its power, for every 3 "Drive" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
