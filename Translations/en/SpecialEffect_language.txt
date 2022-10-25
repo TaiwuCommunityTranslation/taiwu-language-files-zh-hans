@@ -1087,7 +1087,7 @@ If the weapon used by the user is the "Sword·TaiE", the attack range of this te
 Unblocked: This sword can increase the attack range of all "sword techniques".
 HU·Sword Intent\nof Pure Soul
 Int. Pen. UP
-If the weapon used by the user is the "Sword·ChunJun", the user's broken qi is greatly increased, and after this technique has been used at 10% of its power, the "Sword·ChunJun" can be unsealed, and this sword can increase the user's broken qi when performing all "sword techniques" until other weapons are used. Unblocked or end of battle
+If the weapon used by the user is the "Sword·ChunJun", the user's Internal Penetration is greatly increased, after this technique has been used at 100% of it's power, the "Sword·ChunJun" can be unsealed, and this sword can increase the user's Internal Penetration when performing all "Sword Technique" until other weapons are used. Unblocked or end of battle
 Unblocked: This sword can increase the user's Internal Penetration when performing all "Sword Technique".
 Swordsmanship\nof SuperbCore
 If the weapon used by the user is the "Sword·ZhanLu", the power of this technique is greatly increased and the "Sword·ZhanLu" can be unsealed after this technique has been used to 100% of its power, and this sword can increase the power of all "sword techniques" until the other weapons are unsealed or the battle is over.
