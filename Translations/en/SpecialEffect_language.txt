@@ -2750,7 +2750,7 @@ If the user's intelligence and perseverance are not less than 30, the user's ene
 Reverse - Taier\nImmeasurable Sword
 If the user's fortitude and aptitude are not less than 30, the attack range of this technique will be greatly increased and the user will receive 2 levels of this effect after this technique has become 100% more powerful: the attack range of all "sword techniques" performed by the user will be increased.
 Reverse - HU·Sword Intent\nof Pure Soul
-If the user's calmness, intelligence, and aptitude are not less than 20, the user's broken qi is greatly increased, and the user gains 2 levels of this effect after this technique has become 10% more powerful: the user's broken qi is increased when performing all "sword techniques".
+If the user's calmness, intelligence, and aptitude are not less than 20, the user's Internal Penetration is greatly increased, and the user gains 2 levels of this effect after this technique has been used at 100% of it's power: the user's Internal Penetration is increased when performing all "sword techniques".
 Reverse - Swordsmanship\nof SuperbCore
 If the user's Fortunate Fate is not less than 40, the power of this technique will be greatly increased, and after this technique has become 100% more powerful, the user will receive 2 levels of this effect: the power of all "sword techniques" performed by the user will be increased.
 Reverse - Blade of General
