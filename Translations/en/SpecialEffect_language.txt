@@ -1077,7 +1077,7 @@ If the weapon used by the user is the "Sword·ShengXie", the chance of this tech
 Unblocked: This sword can increase the chance of all "sword techniques" hitting enemies
 Heavy Sword of\nGreatTower
 If the weapon used by the user is the "Great Que Sword", the user's body breakage is greatly increased and the "Great Que Sword" can be unsealed after this technique has been used at 10% of its power, and this sword can increase the user's body breakage when performing all "sword techniques" until other weapons are used. Unblocked or end of battle
-Unblocked: This sword can increase the body breakage of the user when performing all "sword techniques".
+Unblocked: This sword can increase the External Penetration of the user when performing all "Sword Technique".
 7 Star\nSwordsmanship of DragonPool
 Reducing the consumption of techniques
 If the weapon used by the user is the "Sword·LongYuan", the user's Inhale and Stance consumption for performing this technique is greatly reduced, and the "Sword·LongYuan" can be unsealed after this technique has been used to 100% of its power, and this sword can reduce the Inhale and Stance consumption of all "sword techniques". It will last until the other weapons are unsealed or the battle is over.
