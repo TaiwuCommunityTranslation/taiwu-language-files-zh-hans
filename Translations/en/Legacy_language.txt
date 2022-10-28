@@ -35,7 +35,7 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Stimulation of knife skills
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 3!
 Long Soldier Excitation
-Spend the Legacy of Life to inspire your heir's potential and increase your heir's Long Soldier qualification by 3!
+Spend the Legacy of Life to inspire your heir's potential and increase your heir's Polearm talent by 3!
 Qi Men Inspire
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's oddball qualification by 3!
 Soft Soldier Inspired
@@ -85,7 +85,7 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Spend a Living Legacy to inspire your heir's potential and increase your heir's concealed weapons qualification by 6!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 6!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 6!
-Spend the Legacy of Life to inspire your heir's potential and increase your heir's Long Soldier qualification by 6!
+Spend the Legacy of Life to inspire your heir's potential and increase your heir's Polearm talent by 6!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's oddball qualification by 6!
 Spend a living legacy to inspire your heir to increase your heir's soft weapon qualifications by 6!
 Spend a living legacy to inspire your heir's potential and increase your heir's imperial shooting qualification by 6!
@@ -115,7 +115,7 @@ Spend a Living Legacy to inspire your heir's potential and increase your heir's 
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's concealed weapons qualification by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 9!
-Spend the Legacy of Life to inspire your heir's potential and increase your heir's Long Soldier qualification by 9!
+Spend the Legacy of Life to inspire your heir's potential and increase your heir's Polearm talent by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's oddball qualifications by 9!
 Spend a living legacy to inspire your heir to increase your heir's soft weapon qualifications by 9!
 Spend a living legacy to stimulate the potential of your heir to increase your heir's imperial shooting qualification by 9!
@@ -145,7 +145,7 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's concealed weapons qualification by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 12!
-Spend the Legacy of Life to inspire your heir's potential and increase your heir's Long Soldier qualification by 12!
+Spend the Legacy of Life to inspire your heir's potential and increase your heir's Polearm talent by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's oddball qualifications by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's soft weapon qualifications by 12!
 Spend a lifetime legacy to inspire your heir's potential and increase your heir's imperial shooting qualification by 12!
@@ -175,7 +175,7 @@ Spend a Living Legacy to inspire your heir's potential and increase your heir's 
 Spend a Living Legacy to inspire your heir's potential and increase your heir's concealed weapons qualification by 15!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 15!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 15!
-Spend the Legacy of Life to inspire your heir's potential and increase your heir's Long Soldier qualification by 15!
+Spend the Legacy of Life to inspire your heir's potential and increase your heir's Polearm talent by 15!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's oddball qualifications by 15!
 Spend a living legacy to inspire your heir to increase your heir's soft weapon qualifications by 15!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's imperial shooting qualification by 15!
@@ -215,7 +215,7 @@ Give up your heir's 3 points of swordsmanship qualification to gain more of the 
 Renunciation of knife techniques
 Give up your heir's 3 points of swordsmanship qualification to gain more of the legacy of life!
 Long Soldier Abandonment
-Give up your heir's 3 points of Long Soldier qualification to gain more of the Living Legacy!
+Give up your heir's 3 points of Polearm talent to gain more of the Living Legacy!
 Qi Men Abandonment
 Give up your heir's 3 odd points of qualification to get more of the legacy of life!
 abandonment of soft soldiers
@@ -265,7 +265,7 @@ Give up your heir's 6 points of legwork qualification to get more of the legacy 
 Give up your heir's 6 points of concealed weapons qualification to gain more of the legacy of life!
 Give up your heir's 6 points of swordsmanship qualification to gain more of the legacy of life!
 Give up your heir's 6 points of swordsmanship qualification to gain more of the legacy of life!
-Give up your heir's 6 points of Long Soldier qualification to gain more of the Living Legacy!
+Give up your heir's 6 points of Polearm talent to gain more of the Living Legacy!
 Give up your heir's 6 odd points of qualification to get more of the legacy of life!
 Give up your heir's 6 points of soft soldier qualification to get more of the legacy of life!
 Give up your heir's 6 points of imperial shooting qualification to get more of the legacy of life!
@@ -295,7 +295,7 @@ Give up your heir's 9 points of legwork qualification for more of the legacy of 
 Give up your heir's 9 points of concealed weapon qualification to gain more of the legacy of life!
 Give up your heir's 9 points of swordsmanship qualification to gain more of the legacy of life!
 Give up your heir's 9 points of swordsmanship qualification to gain more of the legacy of life!
-Give up your heir's 9 points of Long Soldier qualification to gain more of the Living Legacy!
+Give up your heir's 9 points of Polearm talent to gain more of the Living Legacy!
 Give up your heir's 9 odd points of qualification to gain more of the legacy of life!
 Give up your heirloom's 9 points of soft soldier qualification to get more of the legacy of life!
 Give up your heir's 9 points of imperial archery qualification to get more of the legacy of life!
@@ -325,7 +325,7 @@ Give up your heir's 12 points of legwork qualification for more of the legacy of
 Give up your heir's 12 points of concealed weapon qualification to gain more of the legacy of life!
 Give up your heir's 12 points of swordsmanship qualification to gain more of the legacy of life!
 Give up your heir's 12 points of swordsmanship qualification to gain more of the legacy of life!
-Give up 12 points of your heir's Long Soldier qualification to gain more of the Living Legacy!
+Give up 12 points of your heir's Polearm talent to gain more of the Living Legacy!
 Give up your heir's 12 odd points of qualification to gain more of the legacy of life!
 Give up your heir's 12 points of soft soldier qualification to get more of the legacy of life!
 Give up your heir's 12 points of imperial archery qualification to get more of the legacy of life!
