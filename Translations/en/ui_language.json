@@ -2916,7 +2916,7 @@
   "LK_EventEditor_AddEventGroup_InvalidKey_Exist": "\\\"{0}\\\"\\n is not an available event group Key (the event group Key that already exists in the mod)",
   "LK_EventEditor_AddEventGroup_InvalidName_Used": "\\\"{0}\\\"\\n is not an available event group name (already occupied by snailboat)",
   "LK_EventEditor_AddEventGroup_InvalidName_InputFailed": "\\\"{0}\\\"\\n is not an available event group name (contains accidental symbols)",
-  "LK_EventEditor_AddEventGroup_InvalidName_Exist": "\\\"{0}\\\"\\n is not an available event group name (the name of an already existing event group)",
+  "LK_EventEditor_AddEventGroup_InvalidName_Exist": "\"{0}\"\n is not an available event group name (the name of an already existing event group)",
   "LK_EventEditor_AddEventGroup_Complete": "Event group {0} added",
   "LK_EventEditor_WebAPI_Document": "API Documentation",
   "LK_EventEditor_Download_Example": "Download production example",
