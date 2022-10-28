@@ -75,7 +75,7 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Culinary Inspiration
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's culinary qualifications by 3!
 Miscellaneous studies to stimulate
-Spend a living legacy to stimulate your heir's potential and increase your heir's miscellaneous qualifications by 3!
+Spend a living legacy to stimulate your heir's potential and increase your heir's lore qualifications by 3!
 Spend the Legacy of Life to stimulate your heir's potential and increase your heir's internal power qualification by 6!
 Spend a Living Legacy to stimulate your heir's potential and increase your heir's stance qualification by 6!
 Spend the Legacy of Life to stimulate the potential of your heir to increase the qualification of your heir's jutsu by 6!
@@ -105,7 +105,7 @@ Spend a living legacy to inspire your heir's potential and increase your heir's 
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Daoist qualifications by 6!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Buddhist credentials by 6!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's culinary qualifications by 6!
-Spend a living legacy to stimulate your heir's potential and increase your heir's miscellaneous qualifications by 6!
+Spend a living legacy to stimulate your heir's potential and increase your heir's lore qualifications by 6!
 Spend the Legacy of Life to stimulate your heir's potential and increase your heir's internal power qualification by 9!
 Spend a Living Legacy to stimulate your heir's potential and increase your heir's stance qualification by 9!
 Spend your life's legacy to inspire your heir's potential and increase your heir's jutsu qualification by 9!
@@ -135,7 +135,7 @@ Spend a living legacy to inspire your heir to increase your heir's skillful craf
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Daoist qualifications by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Buddhist credentials by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's culinary qualifications by 9!
-Spend a living legacy to stimulate your heir's potential and increase your heir's miscellaneous qualifications by 9!
+Spend a living legacy to stimulate your heir's potential and increase your heir's lore qualifications by 9!
 Spend the Legacy of Life to stimulate your heir's potential and increase your heir's internal power qualification by 12!
 Spend a Living Legacy to stimulate your heir's potential and increase your heir's stance qualification by 12!
 Spend your life's legacy to inspire your heir's potential and increase your heir's jutsu qualification by 12!
@@ -165,7 +165,7 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Daoist qualifications by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Buddhist credentials by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's culinary qualifications by 12!
-Spend a living legacy to inspire your heir's potential and increase your heir's miscellaneous qualifications by 12!
+Spend a living legacy to inspire your heir's potential and increase your heir's lore qualifications by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's internal power qualifications by 15!
 Spend a Living Legacy to inspire your heir's potential and increase your heir's stance qualification by 15!
 Spend the Legacy of Life to stimulate the potential of your heir to increase the qualification of your heir's jutsu by 15!
@@ -195,7 +195,7 @@ Spend a living legacy to inspire your heir's potential and increase your heir's 
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Daoist qualifications by 15!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Buddhist credentials by 15!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's culinary qualifications by 15!
-Spend a living legacy to inspire your heir's potential and increase your heir's miscellaneous qualifications by 15!
+Spend a living legacy to inspire your heir's potential and increase your heir's lore qualifications by 15!
 Internal work abandonment
 Give up your heir's 3 points of internal qualification to gain more of the legacy of life!
 Bodywork renunciation
@@ -254,8 +254,8 @@ Buddhist Renunciation
 Give up your heir's 3 points of Buddhist qualification and get more of the legacy of birth!
 Culinary Abandonment
 Give up your heirloom's 3 points of culinary credentials to get more of the legacy of life!
-abandonment of miscellaneous studies
-Give up your heir's 3 points of miscellaneous qualifications to get more of the legacy of life!
+abandonment of lore studies
+Give up your heir's 3 points of lore qualifications to get more of the legacy of life!
 Give up your heir's 6 points of internal qualification to gain more of the legacy of life!
 Give up your heir's 6 points of stance qualification to gain more of the legacy of life!
 Give up your heir's 6 points of stunt qualification to get more of the legacy of life!
@@ -285,7 +285,7 @@ Give up your heir's 6 points of skillful craftsmanship qualification to gain mor
 Give up your heir's 6 points of Daoist qualification to gain more of the legacy of life!
 Give up your heir's 6 points of Buddhist qualification and get more of the legacy of birth!
 Give up your heirloom's 6 points of culinary credentials to get more of the legacy of life!
-Give up your heir's 6 points of miscellaneous qualifications to get more of the legacy of life!
+Give up your heir's 6 points of lore qualifications to get more of the legacy of life!
 Give up your heir's 9 points of internal qualification to gain more of the legacy of life!
 Give up your heir's 9 points of stance qualification to gain more of the legacy of life!
 Give up your heir's 9 points of stunt qualification to gain more of the legacy of life!
@@ -315,7 +315,7 @@ Give up your heir's 9 points of skillful craftsmanship qualification to gain mor
 Give up your heir's 9 points of Daoist qualification to gain more of the legacy of life!
 Give up your heir's 9 points of Buddhist credentials to gain more of the legacy of life!
 Give up your heirloom's 9 points of culinary credentials to get more of the living legacy!
-Give up your heir's 9 points of miscellaneous qualifications to get more of the legacy of life!
+Give up your heir's 9 points of lore qualifications to get more of the legacy of life!
 Give up your heir's 12 points of internal qualification to gain more of the legacy of life!
 Give up your heir's 12 points of stance qualification to gain more of the legacy of life!
 Give up your heir's 12 points of stunt qualification to get more of the legacy of life!
@@ -345,7 +345,7 @@ Give up your heir's 12 points of skillful craftsmanship qualification to gain mo
 Give up your heir's 12 points of Daoist qualification to gain more of the legacy of life!
 Give up your heir's 12 points of Buddhist credentials to gain more of the legacy of life!
 Give up your heirloom's 12 points of culinary credentials to get more of the legacy of life!
-Give up your heir's 12 points of miscellaneous qualifications to gain more of the legacy of life!
+Give up your heir's 12 points of lore qualifications to gain more of the legacy of life!
 Give up your heir's 15 points of internal qualification to gain more of the legacy of life!
 Give up your heir's 15 points of stance qualification to gain more of the legacy of life!
 Give up your heir's 15 points of jutsu qualification to get more of the legacy of life!
@@ -375,7 +375,7 @@ Give up your heir's 15 points of skillful craftsmanship qualifications to gain m
 Give up your heir's 15 points of Daoist qualification to gain more of the legacy of life!
 Give up your heir's 15 points of Buddhist credentials to gain more of the legacy of life!
 Give up your heir's 15 points of culinary credentials to gain more of the legacy of life!
-Give up your heir's 15 points of miscellaneous qualifications to gain more of the legacy of life!
+Give up your heir's 15 points of lore qualifications to gain more of the legacy of life!
 Brawn stimulation
 Spend a living legacy to inspire your heir's potential and increase your heir's brawn capacity by 3!
 Sensitive excitation
