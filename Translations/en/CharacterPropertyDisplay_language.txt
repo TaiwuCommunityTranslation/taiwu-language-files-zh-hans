@@ -46,8 +46,8 @@ Cast Speed
 The higher the Cast Speed, the faster the character can cast skills in battle.
 Int. Recovery
 The higher the Internal Recovery, the faster character will recover from internal injuries suffered in battle
-Wp·Switch CD
-The higher the Weapon Switch Cooldown, the shorter the cooldown of switching weapons in battle
+Equip. Eff.
+The higher the Equipment Efficiency, the shorter the cooldown between switching weapons in battle, and the higher the upper limit of weapons and armor.
 Attack Speed
 The higher the Attack Speed, the faster the character will recover "attack tokens" that are used for weapon attacks in battle
 Int Ratio Bonus
