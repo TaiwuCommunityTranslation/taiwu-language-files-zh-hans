@@ -1007,7 +1007,7 @@ Divine Flood\nDragon Palm
 When you start to perform this technique, the more the enemy's wounds are marked, the more the power of this technique will increase; the wounds caused to the enemy when this technique exerts ten percent of its power will change into old wounds that are more difficult to recover from
 Fallen Hands\nof Mt.Chai
 E·Move Spd Dn
-Reduces the enemy's movement speed by one according to the power of this technique.
+Based on the power of this technique, apply a debuff to the enemy that reduces their movement speed
 Hook Claw
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Iron Flower\nRotten Bone Claw
