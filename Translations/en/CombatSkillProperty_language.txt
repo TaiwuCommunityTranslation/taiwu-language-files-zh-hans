@@ -13,7 +13,7 @@ MOV·Spd
 Increase Might
 Increase Finesse
 Increase Swiftness
-Increase HEA
+Increase BRE
 Footwork Duration
 Footwork Cost
 Increase Ext. Def.
