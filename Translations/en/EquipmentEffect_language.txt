@@ -45,7 +45,7 @@ When attacking with this weapon or performing a Break Skill, if this weapon is d
 Qi Transformation
 When attacking with this weapon or performing the Destroy feat, the attacker takes 20% less internal Injury damage.
 Counter Handguards
-If the enemy uses a palm glove, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+If the enemy uses a palm glove, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Sword
 If the enemy uses a Sword, the enemy's Might, Finesse, Swiftness, and HEA are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Blade
