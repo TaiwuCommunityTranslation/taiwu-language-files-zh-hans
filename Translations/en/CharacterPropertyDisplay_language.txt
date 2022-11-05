@@ -16,7 +16,7 @@ FIN
 The ability to hold the enemy in check with clever moves and inflict damage on them...\n\n<color=#pinkyellow>·Subtle-based attacks such as Hold, Slash, Drive, etc.</color>
 SWI
 The ability to attack an enemy with great speed and inflict damage on them...\n\n<color=#pinkyellow>·Swift-based attacks such as Point, Stab, Shot, etc.</color>
-HEA
+BRE
 The ability to confuse enemies with a regal magical sound and inflict damage on them...\n\n<color=#pinkyellow>·Mind-based attacks such as Sound, Spell, etc.</color>
 Ext. Pen.
 The ability to break through the enemy's External Defense and increase the external wounds suffered by the enemy...
