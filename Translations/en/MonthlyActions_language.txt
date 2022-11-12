@@ -61,21 +61,21 @@ Adventure - Fu Long Altar competition - Preparation
 Adventure - Bloodhound Cult competition - Preparation
 Adventure-Spring Fair-Preparation
 Adventure-Tournament·Fist-Preparation
-Encounter - Tournament - Finger Technique - Preliminary Preparation
-Encounter - Tournament - Legwork - Prep
-Encounter - Tournament - Concealed Weapon - Preliminary Preparation
-Encounter - Tournament - Sword Technique - Preliminary Preparation
-Encounter - Martial Arts Competition - Blade Technique - Preliminary Preparation
-Encounter - Tournament - Long Soldier - Prepare
-Encounter-competitive martial arts tournament-Chimera-Preparation
-Encounter - Tournament - Soft Soldier - Prepare
-Encounter - Tournament - Imperial Shooting - Preliminary Preparation
-Encounter - Tournament - Musical Instrument - Preliminary Preparation
-Encounter - Weaving Competition - Prep
-Encounter - Art Competition - Forging - Prep
-Encounter - Art Competition - Wood Making - Prep
-Encounter - Art Competition - brocade weaving - prep
-Encounter - Art Competition - Artisan - Prep
-Encounter - Art Competition - Medical Arts - Prep
-Encounter - Art Competition - Poison - Prep
-Encounter-Competition-Cookery-Prep
+Adventure - Tournament - Finger Technique - Preliminary Preparation
+Adventure - Tournament - Legwork - Prep
+Adventure - Tournament - Concealed Weapon - Preliminary Preparation
+Adventure - Tournament - Sword Technique - Preliminary Preparation
+Adventure - Martial Arts Competition - Blade Technique - Preliminary Preparation
+Adventure - Tournament - Long Soldier - Prepare
+Adventure-competitive martial arts tournament-Chimera-Preparation
+Adventure - Tournament - Soft Soldier - Prepare
+Adventure - Tournament - Imperial Shooting - Preliminary Preparation
+Adventure - Tournament - Musical Instrument - Preliminary Preparation
+Adventure - Weaving Competition - Prep
+Adventure - Art Competition - Forging - Prep
+Adventure - Art Competition - Wood Making - Prep
+Adventure - Art Competition - brocade weaving - prep
+Adventure - Art Competition - Artisan - Prep
+Adventure - Art Competition - Medical Arts - Prep
+Adventure - Art Competition - Poison - Prep
+Adventure-Competition-Cookery-Prep
