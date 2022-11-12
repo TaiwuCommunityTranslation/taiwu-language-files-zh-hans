@@ -75,7 +75,7 @@ Adventure - Cricket Tournament - Preparation
 Adventure - Art Competition - Smithing - Preparation
 Adventure - Art Competition - Carpentry - Preparation
 Adventure - Art Competition - Weaving - Preparation
-Adventure - Art Competition - Artisan - Preparation
+Adventure - Art Competition - Gemcutting - Preparation
 Adventure - Art Competition - Medical Arts - Preparation
 Adventure - Art Competition - Poison - Preparation
 Adventure-Competition-Cookery-Preparation
