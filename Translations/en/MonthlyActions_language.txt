@@ -70,7 +70,7 @@ Adventure - Tournament - Polearm - Preparation
 Adventure-Tournament-Exotic Weapons-Preparation
 Adventure - Tournament - Soft Weapons - Preparation
 Adventure - Tournament - Ranged Weapons - Preparation
-Adventure - Tournament - Musical Instrument - Preparation
+Adventure - Tournament - Melody - Preparation
 Adventure - Weaving Competition - Preparation
 Adventure - Art Competition - Forging - Preparation
 Adventure - Art Competition - Wood Making - Preparation
