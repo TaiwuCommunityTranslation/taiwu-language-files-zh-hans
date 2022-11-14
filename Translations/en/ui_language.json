@@ -1105,7 +1105,7 @@
   "LK_Building_BuildingSpaceLack": "<color=#red>Not enough building space</color>",
   "LK_Taiwu_OpenWarehouse": "Storage",
   "LK_Shrine_Authority_Tips1": "Due to the size of the shrine and the reputation of Taiwu:",
-  "LK_Shrine_Authority_Tips2": "/Every [1: Beginning of Spring]",
+  "LK_Shrine_Authority_Tips2": "/Every 【1: Beginning of Spring】",
   "LK_Cost_Resource": "Resource Cost",
   "LK_Get_Resource": "Get Resource",
   "LK_Reading_CostIntelligence": "Comprehension Cost：{0}/{1}",
