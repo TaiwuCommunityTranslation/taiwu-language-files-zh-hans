@@ -631,7 +631,7 @@ Mysterious Armor
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming the Footwork and Stamina
 Shake Mountain
 Improve Stamina depletion
-During the duration of this Footwork, it increases the loss of Footwork and Stamina of the user against the enemy.
+During the duration of this Footwork, it increases the loss of Footwork and Stamina caused by the user to the enemy.
 Iron Bridge
 E·WP Accuracy Dn
 When the distance between the user and the enemy is not less than 7 during the duration of this Footwork, the further the distance between the enemy and me, the lower the chance of the enemy hitting the user.
