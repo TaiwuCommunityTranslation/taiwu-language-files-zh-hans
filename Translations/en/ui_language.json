@@ -3054,7 +3054,7 @@
   "LK_EventEditor_Publish": "Publish Current Mod",
   "LK_EventEditor_TestCurrentMod": "Test the current Mod event",
   "LK_EventEditor_StopTestCurrentMod": "Stop testing Mod events",
-  "LK_EventEditor_Publish_Complete": "The event library {0} has been published to { 1}, the path has been copied to the clipboard",
+  "LK_EventEditor_Publish_Complete": "The event library {0} has been published to {1}, the path has been copied to the clipboard",
   "Event_TombDiscribe0": "I can see that this place is lush with grass, no tomb, no grave, a scene of decay...",
   "Event_TombDiscribe1": "I can see that this place in a state of disrepair, the tombstone has also been submerged in a weed, difficult to identify...",
   "Event_TombDiscribe2": "I can see that the slope here is flat and the road is gentle, and the grave still has some paper money left on it from previous worshipers...",
