@@ -234,7 +234,7 @@ Hearing that {0} suddenly disobeyed and betrayed their sect and appeared in {1}.
 New Year Bazaar
 Ringing the New Year in and the old year out, merchants from every quarter are running a bustling bazaar, with the folks coming for it filling every corner
 Town Tournament
-The summer heat, summer training three volts, {0} is holding a town match, the three religions and nine streams gathered together, high stage compared to the common blood heat.
+The summer heat, summer practice three volt, {0} is holding a {1}, three religions and nine streams gathered, high stage competition together blood heat.
 Cricket Vibrancy
 Attending the golden season, the chirping of crickets pervades hither and thither, as goes the poem“Under the window and among the tussock, into the yearning hearts and the sorrowful ears”
 World Cricket Congress
@@ -248,6 +248,8 @@ Internal Master Tournament
 Rumor has it that {0} is holding a big sect competition, and all the senior members of the sect are participating in it...
 Martial Contest
 A declined nobleman is holding on a huge Martial Contest to looking for a spouse for their daughter at {0}...
+Green Hut Crossing Worship
+{0} and {1}'s wedding is being held at {2} ......
 Break out from the tomb
 A powerful enemy calling himself "XiangShu Incarnation" came out of the "{0}" sword mound near Taiwu Village! He is coming straight to Taiwu Village!
 No girl is a scourge
@@ -399,3 +401,5 @@ Lair demise
 {0} of {1} went extinct…
 Secret News Public
 No
+Sudden Insight
+While reading {0}, all of a sudden, everything becomes clear.
