@@ -15,7 +15,7 @@ The martial arts of the Ranshan Sect are not good at written records, \n the stu
 Goddess Beauty
 XuanNyu Sect is a matriarchal sect. \n For <color=#famale>women</color>, the study efficiency of the XuanNyu Sect secret manuals is <color=#brightblue> increased by 50%</color>. The chance of comprehending the XuanNyu Sect martial arts in actual combat is <color=#brightblue>is increased by 500%</color>.  \n For <color=#male>men</color>, the study efficiency of the XuanNyu Sect secret manuals is <color=#brightred> decreased by 50%</color>. The chance of comprehending the XuanNyu Sect martial arts in actual combat is <color=#brightred>is decreased by 80%</color>.
 Great Miracle
-When you practice or break through the martial arts of Casting Sword Villa, you can use the qualifications and attainments of <color=#pinkyellow> "Forging" </color> or <color=#pinkyellow> "Woodworking" </color> or <color=#pinkyellow> "Craftsmanship" </color> or <color=#pinkyellow> "Brocade" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
+When you practice or break through the martial arts of Sword Manor, you can use the qualifications and attainments of <color=#pinkyellow> "Smithing" </color> or <color=#pinkyellow> "Carpentry" </color> or <color=#pinkyellow> "Gemcutting" </color> or <color=#pinkyellow> "Weaving" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
 From Hard to Easy
 The martial arts of the KongSang Sect are easy before they are difficult. Early chapters will be <color=#brightblue>more efficient</color>. Later chapters will be <color=#brightred>less efficient</color>.
 Vidya-Raja's Spell
