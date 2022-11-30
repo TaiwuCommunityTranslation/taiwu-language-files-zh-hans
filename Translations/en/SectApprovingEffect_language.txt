@@ -1,11 +1,11 @@
 Martial by Zen
-The Shaolin martial arts use <color=#pinkyellow>"Buddhism"</color> is the foundation. When practicing Shaolin martial arts, you can substitute your attainment of <color=#pinkyellow>"Buddhism"</color> for unmet attainment and qualifications.
+The Shaolin School martial arts are based on <color=#pinkyellow> "Buddhist Studies" </color>. When you practice or break through the Shaolin School martial arts, you can use the qualifications and attainments of <color=#pinkyellow> "Buddhist Studies" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
 True Original
 The martial arts of Emei follow an authentic method. \n When studying the Orthodox version of Emei Martial Arts, <color=#brightblue>increase your efficiency by 50%</color>. When studying the Unorthodox version of Emei Martial Arts, <color=#brightred>decrease your efficiency by 50%</color>.
 Martial with Medical
-The Hundred Flowers Valley martial arts use <color=#pinkyellow>"Medicine"</color> is the foundation. When practicing Hundred Flowers Valley martial arts, you can substitute your attainment of <color=#pinkyellow>"Medicine"</color> for unmet attainment and qualifications.
+ <color=#pinkyellow> </color> When you practice or break through the Hundred Flowers Valley Martial Arts, you can use the qualifications and attainments of <color=#pinkyellow> "Medical Arts" </color> to replace the qualifications or attainments required for other lesser practices or breakthroughs.
 Natural Law
-The Wudang Sect martial arts use <color=#pinkyellow>"Taoism"</color> is the foundation. When practicing Wudang Sect martial arts, you can substitute your attainment of <color=#pinkyellow>"Taoism"</color> for unmet attainment and qualifications.
+The Wudang School martial arts are based on <color=#pinkyellow> "Daoism" </color>. When you practice or break through the Wudang School martial arts, you can use the qualifications and attainments of <color=#pinkyellow> "Daoism" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
 Justice and Bright
 The martial arts of Yuanshan Sect are fair and aboveboard. \n If the practitioner's attitude towards life is <color=#behaviortype_just>Just</color> or <color=#behaviortype_kind>Kind</color>, the efficiency of studying the secret scripts of Yuanshan Sect will <color=#brightblue>increase by 50%</color>; If the practitioner's attitude towards life is <color=#behaviortype_rebel>Rebellious or <color=#behaviortype_egoistic>Egoistic</color>, the study efficiency of Yuanshan Sect's secret scripts will be <color=#brightred>reduced by 50%</color>.
 Peremptory Practice
@@ -15,13 +15,13 @@ The martial arts of the Ranshan Sect are not good at written records, \n the stu
 Goddess Beauty
 XuanNyu Sect is a matriarchal sect. \n For <color=#famale>women</color>, the study efficiency of the XuanNyu Sect secret manuals is <color=#brightblue> increased by 50%</color>. The chance of comprehending the XuanNyu Sect martial arts in actual combat is <color=#brightblue>is increased by 500%</color>.  \n For <color=#male>men</color>, the study efficiency of the XuanNyu Sect secret manuals is <color=#brightred> decreased by 50%</color>. The chance of comprehending the XuanNyu Sect martial arts in actual combat is <color=#brightred>is decreased by 80%</color>.
 Great Miracle
-The martial arts of Sword Manor are based on the quality of weapons. When practicing Sword Manor martial arts, you can substitute your attainment of <color=#pinkyellow>"Smithing"</color>, <color=#pinkyellow>"Carpentry"</color>, <color=#pinkyellow>"Craft"</color>, or <color=#pinkyellow>"Weave"</color> for unmet attainment and qualifications.
+When you practice or break through the martial arts of Casting Sword Villa, you can use the qualifications and attainments of <color=#pinkyellow> "Forging" </color> or <color=#pinkyellow> "Woodworking" </color> or <color=#pinkyellow> "Craftsmanship" </color> or <color=#pinkyellow> "Brocade" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
 From Hard to Easy
 The martial arts of the KongSang Sect are easy before they are difficult. Early chapters will be <color=#brightblue>more efficient</color>. Later chapters will be <color=#brightred>less efficient</color>.
 Vidya-Raja's Spell
 Vajrayana is a patriarchal sect. \n For <color=#male>men</color>, the study efficiency of the Vajrayana secret manuals is <color=#brightblue> increased by 50%</color>. The chance of comprehending the Vajrayana martial arts in actual combat is <color=#brightblue>is increased by 500%</color>. \n For <color=#famale>women</color>, the study efficiency of the Vajrayana secret manuals is <color=#brightred> decreased by 50%</color>. The chance of comprehending the Vajrayana martial arts in actual combat is <color=#brightred>is decreased by 80%</color>.
 Poisonous Soul
-Five Immortals Cult martial arts use <color=#pinkyellow>"Toxicology"</color> is the foundation. When practicing Five Immortals Cult martial arts, you can substitute your attainment of <color=#pinkyellow>"Toxicology"</color> for unmet attainment and qualifications.
+The Five Immortals martial arts are based on <color=#pinkyellow> "Poison" </color>. When you practice or break through the Five Immortals martial arts, you can use the qualification and attainment of <color=#pinkyellow> "Poison" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
 Whimsy Path
 The martial arts of JieQing Gate are an unusual and innovative . \n When studying the Unorthodox version of JieQing Gate Martial Arts, <color=#brightblue>increase your efficiency by 50%</color>. When studying the Orthodox version of  JieQing Gate Martial Arts, <color=#brightred>decrease your efficiency by 50%</color>.
 From Easy to Hard
