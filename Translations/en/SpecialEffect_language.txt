@@ -796,7 +796,7 @@ Little Leap
 When you move with this Footwork, you have a higher chance of not consuming your Footwork
 Mountain\nPushing Palm
 Increase your Might
-After this technique has exerted at least 10% of its power, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the user's Might increases when he attacks the enemy.
+After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the user's power increases when he attacks the enemy.
 Iron Fist of\nLion Phase
 Change sytle gain
 After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "Point" and "Hold" styles obtained by the user are changed to "Punch" styles
@@ -864,7 +864,7 @@ Offsetting external injury
 When this technique is used at its full power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of external injury the user has taken as a result: the number of layers of this effect will offset the external injury marks the enemy has inflicted on the user.
 Emotions
 Improve your own motivation
-After this technique has exerted at least 10% of its power, the user gains 8 levels of this effect: the fewer the remaining levels of this effect, the more the user's Breath will increase when the user attacks the enemy
+After this technique has exerted at least 10% of its power, the user gains 10 levels of this effect: the fewer the remaining levels of this effect, the more the user's heartbeat will increase when the user attacks the enemy
 Crystal Tune
 When you start to perform this technique, if the enemy does not have the "None" style, the power of this technique will be greatly increased; when this technique is at 100% power, add 1 "None" style to the enemy, and if the enemy does not have the "None" style, add 1 additional "None" style to the enemy
 Heart-Breaking
@@ -1592,7 +1592,7 @@ Sealed cave reappears
 The level of the sealing points caused by this technique to the enemy will not be reduced for any reason; after this technique has become ten percent powerful, the user gains 7 levels of this effect: whenever an enemy unseals a sealing point with a level less than 4, the sealing point will reappear and the level of the sealing point will increase by 1 level, and it will not trigger any effect caused by the sealing point
 Swordsmanship\nof Flower Brush
 Improve your speed
-After at least 10% of the power of this technique is exerted, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the user's swiftness is increased when the user attacks the enemy.
+After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the user's swiftness will increase when the user attacks the enemy.
 Swordsmanship\nof Hidden Swordmaster
 After this technique is at least 10% powerful, the user gains 4 levels of this effect: all "Slash" and "Hack" styles gained by the user are changed to "Stab" styles
 Swordsmanship\nof White Eyebrow
@@ -1625,7 +1625,7 @@ Immortal\nNeedle of Golden Top
 If the user has at least 2 "Stab" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Stab" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Needle Finger
 Improve your subtlety
-After this technique has exerted at least 10% of its power, the user gains 8 layers of this effect: the fewer the remaining layers of this effect, the more the user's subtlety increases when the user attacks the enemy
+After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the user's subtlety increases when the user attacks the enemy
 Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Finger Magenta
@@ -2514,7 +2514,7 @@ The direct internal damage caused by this Footwork can't be reduced by any effec
 Reverse - Little Leap
 Reverse - Mountain\nPushing Palm
 Reducing the Diversion of the enemy
-After this technique has exerted at least 10% of its power, the user gains 8 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's Diversion power will be reduced when the user attacks the enemy.
+After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's unloading power will be reduced when the user attacks the enemy.
 Reverse - Iron Fist of\nLion Phase
 When this technique is used at least 10% of its power, the user gains 2 "Punch" styles
 Reverse - Gate Breaker\n8 Moves
@@ -2571,7 +2571,7 @@ Offsetting direct internal injuries
 When this technique is used at 100% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy, and receive twice the number of levels of this effect depending on the number of internal damage marks the user has taken as a result: the number of levels of this effect will cancel out the direct internal damage marks the enemy has inflicted on the user.
 Reverse - Emotions
 Lowering the enemy's Focus
-After this technique has exerted at least 10% of its power, the user gains 8 levels of this effect: the fewer the remaining levels of this effect, the more the enemy's Focus will be reduced when the user attacks the enemy.
+After at least 10% of the power of this technique is exerted, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's guard heart will be reduced when the user attacks the enemy
 Reverse - Crystal Tune
 When you start to perform this technique, if the enemy does not have a Breath injury, the power of this technique will be greatly increased; when this technique is at 100% power, 1 Breath injury will be added to the enemy, and if the enemy does not have a Breath injury, 1 additional Breath injury will be added to the enemy
 Reverse - Heart-Breaking
@@ -3188,7 +3188,7 @@ Breach re-emerges
 The level of the breach caused by this technique to the enemy will not be reduced for any reason; after this technique has been used with 100% of its power, the user gains 7 levels of this effect: whenever the enemy eliminates a breach of level less than 4, the breach will reappear and the level of the breach will increase by 1 level, and it will not trigger any effect caused by the breach
 Reverse - Swordsmanship\nof Flower Brush
 Reduce enemy's dodge
-After at least 10% of the power of this technique, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the enemy's evasion will be reduced when the user attacks the enemy
+After at least 10% of the power of this technique is exerted, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's dodge is reduced when the user attacks the enemy
 Reverse - Swordsmanship\nof Hidden Swordmaster
 When this technique is used at least 10% of its power, the user gains 2 "Stab" styles
 Reverse - Swordsmanship\nof White Eyebrow
@@ -3220,7 +3220,7 @@ Reverse - Immortal\nNeedle of Golden Top
 When you start to perform this technique, you will consume all the "stabbing" style of the user. The more "stabbing" style the user consumes, the more the power of this technique will increase.
 Reverse - Needle Finger
 Reduce the enemy's dismantling moves
-After at least 10% of the power of this technique is exerted, the user gains 8 layers of this effect: the fewer layers of this effect remain, the more the enemy's demolition moves will be reduced when the user attacks the enemy
+After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's dismantling moves will be reduced when the user attacks the enemy
 Reverse - Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Finger Magenta
@@ -3858,7 +3858,7 @@ To the - solution
 To-jack
 When you start to use this power, Dusty gains 9 levels of this effect: the chance of an enemy hitting Dusty is halved; the chance of Dusty hitting an enemy is doubled
 When the Dyeing Dust Son starts to perform this divine power, all the enemy's sealed points will be removed.
-To the completion of the chapter of the robbery, dyeing dust son began to cast this divine power, the enemy appeared 1 level 4 point
+To the completion of the chapter of robbery, dyeing dust son began to cast this divine power, the enemy appeared 1 level 4 sealing point
 Two swords - Mo female clothes
 Mok Girl - Solution
 Mok Girl - Robbery
