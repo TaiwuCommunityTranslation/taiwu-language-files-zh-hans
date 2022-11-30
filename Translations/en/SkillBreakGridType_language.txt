@@ -42,3 +42,7 @@ Ambition
 Increase the connection success chance for this cell and all adjacent cell, the more tries you have remaining.
 Advice
 Connecting to this cell costs one additional attempt. \n When connecting to this cell, automatically connect 1 "basic" cell.
+Complete
+You are already familiar with the main points of this frame. \n this frame is bound to be connected successfully.
+mistake
+Have suffered setbacks in this frame. \nThe success rate of the connection in this frame is increased by 100%, but the connection to this frame will lose a certain amount of health regardless of success or failure.
