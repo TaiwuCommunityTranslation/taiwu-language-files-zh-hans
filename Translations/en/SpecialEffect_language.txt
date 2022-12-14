@@ -3219,7 +3219,7 @@ After this technique has been used for ten percent of its power, the user will g
 Reverse - Immortal\nNeedle of Golden Top
 When you start to perform this technique, you will consume all the "stabbing" style of the user. The more "stabbing" style the user consumes, the more the power of this technique will increase.
 Reverse - Needle Finger
-Reduce the enemy's dismantling moves
+Reduce the enemy's Parry
 After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's dismantling moves will be reduced when the user attacks the enemy
 Reverse - Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
