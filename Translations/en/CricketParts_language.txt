@@ -260,7 +260,7 @@ PotBlack
 CarbonBlack
 PositiveWhite
 White
-dumb white
+DumbWhite
 Pale White
 grizzled white
 Rutabaga White
