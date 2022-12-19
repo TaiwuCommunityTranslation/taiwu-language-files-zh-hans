@@ -231,7 +231,7 @@ PaleYellow
 DarkYellow
 WhiteAndYellow
 BlackAndYellow
-Oily yellow
+OilyYellow
 Positive Purple
 Purple
 light purple
