@@ -241,9 +241,9 @@ BlackViolet
 SandPurple
 RedSandPurple
 WhiteViolet
-Positive Red
+PositiveRed
 Red
-White Red
+WhiteRed
 Violet Red
 Golden Red
 Xia Hong
