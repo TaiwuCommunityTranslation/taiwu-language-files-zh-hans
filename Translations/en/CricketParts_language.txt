@@ -222,8 +222,8 @@ LightGreen
 BaiQing
 CrabGreen
 CrabShellGreen
-heavy green
-Sand Green
+HeavyGreen
+SandGreen
 Red Sand Green
 Positive Yellow
 Yellow
