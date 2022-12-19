@@ -255,7 +255,7 @@ Black
 GreyAndBlack
 HempAndBlack
 MurkyBlack
-Stove Black
+StoveBlack
 Pot and Stove Black
 Carbon Black
 Positive White
