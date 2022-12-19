@@ -261,7 +261,7 @@ CarbonBlack
 PositiveWhite
 White
 DumbWhite
-Pale White
+PaleWhite
 grizzled white
 Rutabaga White
 Moon White
