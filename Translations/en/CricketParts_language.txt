@@ -262,7 +262,7 @@ PositiveWhite
 White
 DumbWhite
 PaleWhite
-grizzled white
+GrizzledWhite
 Rutabaga White
 Moon White
 Jade White
