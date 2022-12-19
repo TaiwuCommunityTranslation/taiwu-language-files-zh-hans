@@ -254,7 +254,7 @@ PositiveBlack
 Black
 GreyAndBlack
 HempAndBlack
-Murky Black
+MurkyBlack
 Stove Black
 Pot and Stove Black
 Carbon Black
