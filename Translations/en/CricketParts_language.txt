@@ -244,8 +244,8 @@ WhiteViolet
 PositiveRed
 Red
 WhiteRed
-Violet Red
-Golden Red
+VioletRed
+GoldenRed
 Xia Hong
 Sunset Red
 blood red
