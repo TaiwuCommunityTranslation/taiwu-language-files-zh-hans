@@ -224,8 +224,8 @@ CrabGreen
 CrabShellGreen
 HeavyGreen
 SandGreen
-Red Sand Green
-Positive Yellow
+RedSandGreen
+PositiveYellow
 Yellow
 Pale yellow
 Dark yellow
