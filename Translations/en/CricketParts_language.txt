@@ -264,5 +264,5 @@ DumbWhite
 PaleWhite
 GrizzledWhite
 RutabagaWhite
-Moon White
-Jade White
+MoonWhite
+JadeWhite
