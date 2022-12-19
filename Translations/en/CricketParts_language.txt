@@ -218,9 +218,9 @@ Heavytooth
 Four teeth of the same general size, \n not more than the ordinary bite fierce.
 PositiveGreen
 Cyan
-light green
-Bai Qing
-Crab Green
+LightGreen
+BaiQing
+CrabGreen
 Crab Shell Green
 heavy green
 Sand Green
