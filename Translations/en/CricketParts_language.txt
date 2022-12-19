@@ -232,7 +232,7 @@ DarkYellow
 WhiteAndYellow
 BlackAndYellow
 OilyYellow
-Positive Purple
+PositivePurple
 Purple
 light purple
 Chestnut Purple
