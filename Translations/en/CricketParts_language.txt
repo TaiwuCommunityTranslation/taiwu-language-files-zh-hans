@@ -234,7 +234,7 @@ BlackAndYellow
 OilyYellow
 PositivePurple
 Purple
-light purple
+LightPurple
 Chestnut Purple
 Chestnut Purple
 Black Violet
