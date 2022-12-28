@@ -3439,7 +3439,7 @@ Negate Int Heal
 It triggers in combat on healing Internal injury, which generates extra Umbritoxin and reduces this healing effect
 Watch Out
 First！！
-Survive a number of opponent‘s skill to win, the martial arts of the opponent do not consume the style
+Survive a number of opponent‘s skill to win, the martial skills of the opponent do not consume anything
 Second！
 Third！
 Fourth！
