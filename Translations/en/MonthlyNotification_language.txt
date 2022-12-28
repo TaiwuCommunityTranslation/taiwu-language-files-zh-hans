@@ -158,7 +158,7 @@ Poetry Reading
 Painting Showcase
 {0} viewed the paintings painted by {2} at {1}
 Masterpiece Manufactured
-{0} makes a {2} at {1}.
+{0} has created the fabled {2} in {1} and the fame has spread all over the world.
 Taoist Enlightenment
 {0} told {2} about the mysteries of the Tao in {1}, which enlightened {2} and enhanced {3}'s qualifications.
 Buddhist Enlightenment
