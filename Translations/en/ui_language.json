@@ -2782,7 +2782,7 @@
   "LK_LifeSkillCombat_Prepare": "Prepare",
   "UI_LifeSkillCombat_ScoreFormat": "{0} Points",
   "UI_LifeSkillCombat_ConfirmUseInstantCard": "Use",
-  "UI_LifeSkillCombat_Thesis": "Arguments:",
+  "UI_LifeSkillCombat_Thesis": "Argu.:",
   "UI_LifeSkillCombat_Strategy": "Strategy:",
   "UI_LifeSkillCombat_Thesis_Format": "Argument value: {0}",
   "Event_ItemGot_Notify_Title": "Gained An Item",
