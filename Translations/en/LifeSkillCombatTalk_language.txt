@@ -19,7 +19,7 @@ Wrong answer
 This sutra is so profound, i don't understand it.
 Speechless
 ......
-Concede
+Give up
 Your fine art skills are excellent, I admit defeat
 Looking speechless
 Your Excellency is.....
@@ -53,11 +53,11 @@ Threat Failed (Rebellious)
 You're threatening me with this? Ridiculous
 Threat Failed (Egoistic)
 You should watch your back. would be a shame if you got disemboweled
-Forced to concede
+Force to give up
 With your skill, how were you expecting to compete?
-Agree to be forced to concede
+Agree to give up
 You're such a well-known person, i wouldn't dare to win against you
-Refuse to be forced to concede
+Refuse to give up
 I see that your skills have never been better.
 Normal defeat
 You are too good, i admit defeat
