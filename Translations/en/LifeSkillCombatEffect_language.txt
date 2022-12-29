@@ -1,5 +1,5 @@
 Reconsideration
-You can put the question on the horizontal, vertical and oblique one of the opponent's arguments with low arguments
+You can place questions horizontally, vertically and diagonally 1 tile away from the opponent's argument with lower value
 express directly
 You can ask questions in the horizontal and vertical arbitrary grid of your own argument (not across the high argument of the other side)
 Jump off
