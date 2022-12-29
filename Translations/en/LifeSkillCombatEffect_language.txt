@@ -1,13 +1,13 @@
 Reconsideration
 You can place a question horizontally, vertically or diagonally 1 tile away from the opponent's argument with lower value
-express directly
+Direct
 You can place a question on any horizontal or vertical tile from your argument (can't jump over the opponent's argument with higher value)
-Jump off
+Jumping
 You can place a question diagonally from your argument to any tile (can't jump over the opponent's argument with higher value)
 Layout
 Your arguments increase the value of all your arguments on the horizontal, vertical and diagonal tiles
-chain
-Increase the value of the argument of the current landing when answering the opponent's questions and rhetorical questions
+Chain
+Whenever you answer opponent's Question and Doubt, increase value of this argument
 Implementing
 Your argument increases the argument value of all your fallen pieces in any horizontal or vertical square (blocked by your opponent's argument)
 checks and balances
