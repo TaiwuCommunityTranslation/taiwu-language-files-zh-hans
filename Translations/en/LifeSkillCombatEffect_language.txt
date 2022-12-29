@@ -1,7 +1,7 @@
 Reconsideration
 You can place questions horizontally, vertically and diagonally 1 tile away from the opponent's argument with lower value
 express directly
-You can place the question on any horizontal or vertical tile from your argument (can't jump over the opponent's argument with higher value)
+You can place a question on any horizontal or vertical tile from your argument (can't jump over the opponent's argument with higher value)
 Jump off
 You can ask a question in the diagonal direction of your own argument in any box (not across the argument of the opponent with high arguments)
 Layout
