@@ -37,7 +37,7 @@ When your Question or Doubt turns into your argument, eliminate all of your oppo
 Thoughtful
 Reduce the cooldown for random 3 of books by 1 turn
 Enrage
-Increase the cooldown of the opponent's three books for one turn after use
+Increase the cooldown of the opponent's random 3 books by 1 turn.
 Inspiration
 You can designate a book that is on cooldown to completely restore cooldown.
 Bo citation
