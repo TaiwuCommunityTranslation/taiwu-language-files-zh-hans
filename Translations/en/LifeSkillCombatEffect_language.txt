@@ -29,7 +29,7 @@ When you Question or Doubt, 3 more books are displayed to enter the cooldown
 Humble
 When you Question or Doubt, 3 less books are displayed to enter the cooldown
 Insight
-Can be used on an argument where the opponent has used a strategy to directly eliminate the effect of all strategies in this frame
+Can be used on the opponent's argument with a strategy to directly eliminate all strategies on that tile.
 Misinterpretation
 The effect of the strategy of eliminating all the opponent's arguments on the horizontal, vertical and diagonal frames when your own questions and rhetorical questions are transformed into your own arguments
 Understanding
