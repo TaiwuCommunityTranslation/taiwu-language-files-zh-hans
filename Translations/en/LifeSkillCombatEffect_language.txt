@@ -17,11 +17,11 @@ Your argument can reduce value of all of your opponent's tiles 1 tile away on ho
 Sideswipe
 Your argument can reduce value of all of your opponent's tiles anywhere on horizontal and vertical tiles from it
 Intimidation
-When your own Question or Doubt are transformed into your own argument, eliminate the opponent's tiles horizontally, vertically, and diagonally with 1 tile range.
+When your own Question or Doubt are transformed into your own argument, eliminate the opponent's arguments horizontally, vertically, and diagonally with 1 tile range.
 Defamation
 You can use it to eliminate 1 of your opponent's arguments in a horizontal, vertical, or diagonal 1 tile range that has a lower value than your own argument's.
 Reprimand
-When your own questions and rhetorical questions are turned into your own arguments, eliminate the horizontal and vertical arbitrary frames of the opponent's arguments that are low (do not cross the opponent's arguments that are high)
+When your own Question or Doubt are transformed into your own argument, eliminate the opponent's arguments that are horizontal or vertical (can't jump over the opponent's argument with higher value)
 foreshadowing
 When your question or rhetorical question is answered, the book used by the opponent for the answer increases the cooldown by one turn
 exaggerate
