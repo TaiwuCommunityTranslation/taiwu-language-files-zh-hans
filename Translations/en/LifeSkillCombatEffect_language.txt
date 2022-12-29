@@ -33,7 +33,7 @@ Can be used on the opponent's argument with a strategy to directly eliminate all
 Misinterpretation
 When your Question or Doubt turns into your argument, eliminate all of your opponent's strategies on tiles horizontally, vertically, and diagonally in 1 tile range
 Understanding
-When your own questions and rhetorical questions become your own arguments, the strategy effect of eliminating all the opponent's arguments in any horizontal or vertical frame
+When your Question or Doubt turns into your argument, eliminate all of your opponent's strategies on tiles horizontally and vertically to it.
 Thoughtful
 Reduce the cooldown of three of your books for one turn at random after use
 enrage
