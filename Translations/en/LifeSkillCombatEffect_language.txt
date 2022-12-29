@@ -15,7 +15,7 @@ If your opponent chooses to answer their own Question or Doubt, reduce the value
 Surprise
 Your argument can reduce value of all of your opponent's tiles 1 tile away on horizontal, vertical and diagonal tiles
 Sideswipe
-Your side's argument can be reduced by all the arguments of your opponent in any horizontal or vertical frame
+Your argument can reduce value of all of your opponent's tiles anywhere on horizontal and vertical tiles from it
 Intimidation
 When your own questions and rhetorical questions are transformed into your own arguments, eliminate the opponent's fall on the horizontal, vertical and oblique one frame with low arguments
 Defamation
