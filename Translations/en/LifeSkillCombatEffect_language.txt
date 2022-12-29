@@ -19,8 +19,8 @@ Your argument can reduce value of all of your opponent's tiles anywhere on horiz
 Intimidation
 When your own Question or Doubt are transformed into your own argument, eliminate the opponent's tiles horizontally, vertically, and diagonally with 1 tile range.
 Defamation
-You can use it to eliminate one of your opponent's discs on a horizontal, vertical, or diagonal square that has a lower argument than your own.
-reprimand
+You can use it to eliminate 1 of your opponent's arguments in a horizontal, vertical, or diagonal 1 tile range that has a lower value than your own argument's.
+Reprimand
 When your own questions and rhetorical questions are turned into your own arguments, eliminate the horizontal and vertical arbitrary frames of the opponent's arguments that are low (do not cross the opponent's arguments that are high)
 foreshadowing
 When your question or rhetorical question is answered, the book used by the opponent for the answer increases the cooldown by one turn
