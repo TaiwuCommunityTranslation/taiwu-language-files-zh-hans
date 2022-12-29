@@ -47,7 +47,7 @@ Draw strategies based on the difference in score
 Lead
 When your Question or Doubt turns into your argument, draw strategies depending on how many arguments you have horizontally and vertically (can be obstructed by opponent's argument)
 Compound
-You may land on your side's argument, reclaim all of your side's strategies for that argument, and replace that argument with this landing status
+You can replace your argument, and reclaim any strategies used on it
 Conclusion
 The book used by your team will not increase the number of turns
 powerful theory
