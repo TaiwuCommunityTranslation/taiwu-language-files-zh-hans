@@ -12,7 +12,7 @@ Implementing
 Your argument increases the value of all of your arguments in any horizontal or vertical tile (can be obstructed by opponent's argument)
 Balance
 If your opponent chooses to answer their own Question or Doubt, reduce the value of the opponent's argument for this answer
-attack by innuendo
+Surprise
 Your argument can reduce value of all of your opponent's tiles on the horizontal, vertical and diagonal tiles
 Sideswipe
 Your side's argument can be reduced by all the arguments of your opponent in any horizontal or vertical frame
