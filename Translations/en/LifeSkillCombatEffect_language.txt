@@ -5,7 +5,7 @@ You can place a question on any horizontal or vertical tile from your argument (
 Jump off
 You can place a question diagonally from your argument to any tile (can't jump over the opponent's argument with higher value)
 Layout
-Your side's arguments increase the value of all your side's arguments on the horizontal, vertical and diagonal squares
+Your arguments increase the value of all your arguments on the horizontal, vertical and diagonal tiles
 chain
 Increase the value of the argument of the current landing when answering the opponent's questions and rhetorical questions
 Implementing
