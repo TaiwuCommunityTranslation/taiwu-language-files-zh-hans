@@ -13,7 +13,7 @@ Your argument increases the value of all of your arguments in any horizontal or 
 Balance
 If your opponent chooses to answer their own Question or Doubt, reduce the value of the opponent's argument for this answer
 Surprise
-Your argument can reduce value of all of your opponent's tiles on the horizontal, vertical and diagonal tiles
+Your argument can reduce value of all of your opponent's tiles 1 tile away on horizontal, vertical and diagonal tiles
 Sideswipe
 Your side's argument can be reduced by all the arguments of your opponent in any horizontal or vertical frame
 Intimidation
