@@ -35,8 +35,8 @@ When your Question or Doubt turns into your argument, eliminate all of your oppo
 Understanding
 When your Question or Doubt turns into your argument, eliminate all of your opponent's strategies on tiles horizontally and vertically to it.
 Thoughtful
-Reduce the cooldown of three of your books for one turn at random after use
-enrage
+Reduce the cooldown for random 3 of books by 1 turn
+Enrage
 Increase the cooldown of the opponent's three books for one turn after use
 Inspiration
 You can designate a book that is on cooldown to completely restore cooldown.
