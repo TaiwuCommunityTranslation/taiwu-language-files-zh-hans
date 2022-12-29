@@ -10,8 +10,8 @@ Chain
 Whenever you answer opponent's Question and Doubt, increase value of this argument
 Implementing
 Your arguments increase the value of all of your side's blocked arguments in any horizontal or vertical tile (blocked by your opponent's argument)
-checks and balances
-If the other side chooses to answer their own questions, rhetorical questions, reduce the value of the other side's arguments for this answer
+Balance
+If your opponent chooses to answer their own Question or Doubt, reduce the value of the opponent's argument for this answer
 attack by innuendo
 Your side's argument can be reduced by all of your opponent's fallen arguments on the horizontal, vertical and diagonal squares
 Sideswipe
