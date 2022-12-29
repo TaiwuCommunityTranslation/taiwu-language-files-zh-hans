@@ -43,8 +43,8 @@ You can select a book that is on cooldown to completely restore cooldown.
 Quote
 When your Question or Doubt turns into your argument, draw strategies depending on how many arguments you have horizontally, vertically, and diagonally in 1 tile range
 Citation
-The same number of strategies can be used to draw on your side's arguments based on this grid score
-direct lead
+Draw strategies based on the difference in score
+Lead
 When your own question or rhetorical question is turned into your own argument, the strategy is to extract the number of your own arguments according to the horizontal and vertical arbitrary grid (blocked by your opponent's argument)
 compound theory
 You may land on your side's argument, reclaim all of your side's strategies for that argument, and replace that argument with this landing status
