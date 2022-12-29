@@ -39,7 +39,7 @@ Reduce the cooldown for random 3 of books by 1 turn
 Enrage
 Increase the cooldown of the opponent's random 3 books by 1 turn.
 Inspiration
-You can designate a book that is on cooldown to completely restore cooldown.
+You can select a book that is on cooldown to completely restore cooldown.
 Bo citation
 When your own questions and rhetorical questions are transformed into your own arguments, the strategy is based on the number of your arguments on the horizontal, vertical and oblique cells.
 side quotation
