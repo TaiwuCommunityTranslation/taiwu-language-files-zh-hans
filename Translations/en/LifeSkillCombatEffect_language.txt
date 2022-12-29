@@ -23,8 +23,8 @@ You can use it to eliminate 1 of your opponent's arguments in a horizontal, vert
 Reprimand
 When your own Question or Doubt are transformed into your own argument, eliminate the opponent's arguments that are horizontal or vertical (can't jump over the opponent's argument with higher value)
 Gotcha
-When your question or rhetorical question is answered, the book used by the opponent for the answer increases the cooldown by one turn
-exaggerate
+When your Question or Doubt is answered, the cooldown of the manual used by the opponent for the answer by 1 turn.
+Exaggerate
 When your side asks a question or rhetorical question, 3 more books are displayed to enter the cooldown
 hide behind a false cover
 When your side asks a question or rhetorical question, 3 less books are displayed to go into cooldown
