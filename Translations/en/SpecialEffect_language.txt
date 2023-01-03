@@ -2116,7 +2116,7 @@ Reverse - Divine Mysterious
 The more "Hack" styles the user has, the more the user's Diversion increases; the more "Stab" styles the user has, the more the user's Evasion increases; the more "Slash" styles the user has, the more the user's Parry increase.
 Reverse - Ultra Alpha Reflection
 No access to true qi
-When defending with this technique: the enemy cannot gain true qi; if the enemy can lose true qi and will gain it, the enemy's true qi will instead be increased by twice of what should've been lost.
+When defending with this technique: the enemy cannot gain true qi; if the enemy can lose true qi and will gain it, the enemy's true qi will instead be decreased by twice of what should've been lost.
 Reverse - Iron Head of Lion Phase
 When defending with this technique, any direct internal injury to the head and neck caused by the enemy at once that is not higher than 4 is invalid.
 Reverse - Comrade Service
