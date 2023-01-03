@@ -2635,7 +2635,7 @@
   "LK_MapAreaMousetip_Title": "Location Name",
   "LK_MapAreaMousetip_SpritualDebt": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_enyi> Area Envoy: {0} </color> ",
   "LK_MapAreaMousetip_Station": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_yizhan> This is where the stage is opened. </color> ",
-  "LK_MapAreaMousetip_Infected": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_rumo> There are {0} people here who are into magic. </color> ",
+  "LK_MapAreaMousetip_Infected": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_rumo> There are {0} people here who are possessed. </color> ",
   "LK_MapAreaMousetip_PurpleBamboo": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_zizhu> This site has purple bamboo incarnation activities. </color> ",
   "LK_MapAreaMousetip_Taiwu": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_taiwucun> Taiwu Village is located here. </color> ",
   "LK_MapAreaMousetip_introduction": " <color=#grey> Sentence introducing this location </color> ",
