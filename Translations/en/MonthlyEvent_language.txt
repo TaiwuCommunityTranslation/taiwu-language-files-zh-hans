@@ -56,7 +56,7 @@ Captives make enemies
 {0} had a grudge against {2} after {1} was imprisoned by {2}...
 Same-sex marriage
 {0} and {1} are in love and want to marry each other for life...
-Spring Bazaar
+Spring Fair
 Ringing the New Year in and the old year out, merchants from every quarter are running a bustling fair, with the folks coming for it filling every corner
 Town Tournament
 In the summer heat, three volcanoes, hard learning and hard practice, the hot town competition is being held in {0}.
