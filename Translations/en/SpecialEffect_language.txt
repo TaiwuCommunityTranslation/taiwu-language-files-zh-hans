@@ -1570,7 +1570,7 @@ Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Ext. Pen. when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
 Vajra Samadhi\nPalm
 Reduction of Enemy's External Defense
-This technique cannot be interrupted; this technique is bound to be 10% powerful, and the higher the enemy's Internal Defense, the more the enemy's External Defense will be reduced, up to half, but for every hit made by this technique that misses the user needs to consume 3 points of "Nadis" true qi, otherwise these effects will not take effect
+This technique cannot be interrupted; this technique will always be used at 100% power, and the higher the enemy's Internal Defense, the more the enemy's External Defense will be reduced, up to half, but for every hit made by this technique that misses the user needs to consume 3 points of "Nadis" true qi, otherwise these effects will not take effect
 Chilling Pinprick
 Increase the power of all the "Quick" techniques of the user according to the percentage of the power exercised by this technique, which lasts until the end of the battle
 Emei Finger Zen
