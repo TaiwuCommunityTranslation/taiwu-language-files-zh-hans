@@ -1052,7 +1052,7 @@
   "LK_Building_SpecialBtnTip": "Waiting for building construction to be completed",
   "LK_Building_NewBuildTip": "New construction in... /剩余",
   "LK_Building_ExpandTip": "Extension in progress.../剩余",
-  "LK_Building_RemoveTip": "Demolition in progress... /剩余",
+  "LK_Building_RemoveTip": "In progress... /Time left",
   "LK_Building_NewBuildTip2": "In progress",
   "LK_Building_RemoveTip2": "Removing",
   "LK_Building_ItemToWarehouse": "Items Stored In Warehouse",
