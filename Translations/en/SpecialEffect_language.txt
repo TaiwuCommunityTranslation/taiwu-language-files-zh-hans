@@ -1258,7 +1258,7 @@ Drunk\n8 Immortals Fist
 When this technique is used with at least 10% of its power, the user will get 8 levels of this effect: when the user attacks the enemy with a weapon, the enemy can only use the lowest one of Diversion, Parry, Evasion, and guarding; if the user is drunk, when the user attacks the enemy with a weapon, the lowest one of the enemy will be reduced.
 Refining\nFire Palm
 Ignore E·Armor
-When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Constitution and increases the user's External Penetration and Internal Penetration
+When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the user's attack; When this technique is used with at least 10% of its power, the user gains 3 layers of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Constitution and increases the user's External Penetration and Internal Penetration
 Crazy Drunk Fist
 Improving external injury
 When this technique is at 100% of its power, the user has a low chance of performing this technique again immediately after it is finished, starting from 50% of its progress without consumption, and the more disturbed the user's internal breath is, the higher the external injury caused by this technique; if the user is drunk, the chance of performing this technique again increases significantly
