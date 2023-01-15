@@ -796,7 +796,7 @@ Little Leap
 When you move with this Footwork, you have a higher chance of not consuming your Footwork
 Mountain\nPushing Palm
 Increase your Might
-After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the user's power increases when he attacks the enemy.
+When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the user's power increases when he attacks the enemy.
 Iron Fist of\nLion Phase
 Change sytle gain
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all "Point" and "Hold" styles obtained by the user are changed to "Punch" styles
@@ -864,7 +864,7 @@ Offsetting external injury
 When this technique is used at its full power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of external injury the user has taken as a result: the number of layers of this effect will offset the external injury marks the enemy has inflicted on the user.
 Emotions
 Improve your own motivation
-After this technique has exerted at least 10% of its power, the user gains 10 levels of this effect: the fewer the remaining levels of this effect, the more the user's heartbeat will increase when the user attacks the enemy
+When this technique is used with at least 10% of its power, the user gains 10 levels of this effect: the fewer the remaining levels of this effect, the more the user's heartbeat will increase when the user attacks the enemy
 Crystal Tune
 When you start to perform this technique, if the enemy does not have the "None" style, the power of this technique will be greatly increased; when this technique is at 100% power, add 1 "None" style to the enemy, and if the enemy does not have the "None" style, add 1 additional "None" style to the enemy
 Heart-Breaking
@@ -1050,7 +1050,7 @@ Shock Dream\nFragrant
 Interrupting enemy operations
 When you start to perform this technique: the closer the enemy is to the user, the more the progress of this technique will be increased; when this technique is at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
 Blood Narcissus
-After this technique has exerted at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the user inflicts on the enemy with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the user inflicts on the enemy with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
 9 Idiotic Fragrant
 After this technique has reached 100% of its power, the user gains 9 levels of this effect: the damage dealt by the enemy's "Break" technique is greatly increased, but there is a high chance that it will be "interrupted" when it reaches 90% of its progress.
 Black Water\nPoison
@@ -1467,7 +1467,7 @@ Lower Body Kick
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's head, the power of this technique increases and the progress of its execution at the beginning increases, and this effect accumulates up to 2 levels; when attacking male enemies with this technique, the power of this technique increases significantly
 Conversely Kick\nof Toad
 Reduces aura consumption
-After this technique has exerted at least 10% of its power, the user retreats 2 distances, and if the user continues to perform this technique continuously, the Stance and qi consumption of this technique will be greatly reduced cumulatively, up to 3 times
+When this technique is used with at least 10% of its power, the user retreats 2 distances, and if the user continues to perform this technique continuously, the Stance and qi consumption of this technique will be greatly reduced cumulatively, up to 3 times
 Unpredictable\nKick
 Power varies randomly
 Ortho to Hetero
@@ -1592,7 +1592,7 @@ Sealed cave reappears
 The level of the sealing points caused by this technique to the enemy will not be reduced for any reason; after this technique has become ten percent powerful, the user gains 7 levels of this effect: whenever an enemy unseals a sealing point with a level less than 4, the sealing point will reappear and the level of the sealing point will increase by 1 level, and it will not trigger any effect caused by the sealing point
 Swordsmanship\nof Flower Brush
 Improve your speed
-After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the user's swiftness will increase when the user attacks the enemy.
+When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the user's swiftness will increase when the user attacks the enemy.
 Swordsmanship\nof Hidden Swordmaster
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all "Slash" and "Hack" styles gained by the user are changed to "Stab" styles
 Swordsmanship\nof White Eyebrow
@@ -2514,7 +2514,7 @@ The direct internal damage caused by this Footwork can't be reduced by any effec
 Reverse - Little Leap
 Reverse - Mountain\nPushing Palm
 Reducing the Diversion of the enemy
-After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's unloading power will be reduced when the user attacks the enemy.
+When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's unloading power will be reduced when the user attacks the enemy.
 Reverse - Iron Fist of\nLion Phase
 When this technique is used with at least 10% of its power, the user gains 2 "Punch" styles
 Reverse - Gate Breaker\n8 Moves
@@ -2608,7 +2608,7 @@ Reverse - Divine Cold\nPalm
 Applying more toxins
 The Cryotoxin applied to the enemy by this technique is greatly increased, but there is a low chance that the user will also be applied a part of the Cryotoxin
 Reverse - One Mysterious\nHand
-After this technique has exerted at least 10% of its power, the person using it should stay away from the enemy by a distance of 2
+When this technique is used with at least 10% of its power, the person using it should stay away from the enemy by a distance of 2
 Reverse - Mysterious\nIce Finger
 When this technique is used with at least 10% of its power, the enemy loses 2 points of "Quick" true qi.
 Reverse - Fallen Finger
@@ -2726,7 +2726,7 @@ When this technique is used with at least 10% of its power, the user gets 4 leve
 Reverse - Shock Dream\nFragrant
 When you start to perform this technique: the farther the enemy is from the user, the more the progress of this technique will be increased; when this technique is at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
 Reverse - Blood Narcissus
-After this technique has exerted at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the enemy inflicts on the user with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the enemy inflicts on the user with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
 Reverse - 9 Idiotic\nFragrant
 After this technique has reached 100% of its power, the user gains 9 levels of this effect: the damage dealt by the user's "Break" technique is greatly increased, but there is a high chance that the technique will be "interrupted" when it reaches 90% of its progress.
 Reverse - Black Water\nPoison
@@ -2789,7 +2789,7 @@ Reverse - Mechanic\nSwallow
 Reduction of storage type consumption
 When this technique is at least 10% of its power, the user gains 6 levels of this effect: when the user loses a "Ware" style, there is a higher chance of losing 1 less "Ware" style.
 Reverse - Mechanic Hook
-After this technique has exerted at least 10% of its power, if the user consumes an additional "Ware" style, the enemy's Qi will be significantly reduced.
+When this technique is used with at least 10% of its power, if the user consumes an additional "Ware" style, the enemy's Qi will be significantly reduced.
 Reverse - Chain
 After this technique has reached 100% of its power, the user gains 4 levels of this effect: the fewer levels of this effect remain, the more the power of the enemy's "Destroy" technique is reduced.
 Reverse - Dragon Claw
@@ -3073,7 +3073,7 @@ When this technique is used at 100% of its power, the user transfers 1 non-old i
 Reverse - Lower Body Kick
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's head, the power of this technique increases and the progress of its execution at the beginning increases, and this effect accumulates up to 2 levels; when attacking female enemies with this technique, the power of this technique increases significantly
 Reverse - Conversely Kick\nof Toad
-After this technique has exerted at least 10% of its power, the user advances 2 distances, and if the user continues to perform this technique continuously, the Stance and qi consumption of this technique will be greatly reduced cumulatively, up to 3 times
+When this technique is used with at least 10% of its power, the user advances 2 distances, and if the user continues to perform this technique continuously, the Stance and qi consumption of this technique will be greatly reduced cumulatively, up to 3 times
 Reverse - Unpredictable\nKick
 Whenever the user accumulates 1 distance back, the power of this technique may increase or decrease, and continue until the user accumulates 1 distance back next time; after the performance of this technique, it will change from Heterodox practice to Orthodox practice
 Reverse - Scorpion's Soul\nHook Kick
@@ -3333,7 +3333,7 @@ Reverse - Yuanshan\nJump Kick
 Whenever the user uses "Sword" to chase the enemy at least 2 times, if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Heterodox training to Orthodox training
 Reverse - Mandarin Duck\nCombo Kick
 Inhale Cost Dn
-After this technique has exerted at least 10% of its power, the amount of Qi required to perform this technique is reduced by up to 90% and lasts until the end of the battle
+When this technique is used with at least 10% of its power, the amount of Qi required to perform this technique is reduced by up to 90% and lasts until the end of the battle
 Reverse - Tiger Tail
 At the beginning of the battle, the user gains 3 levels of this effect: when the enemy attacks the user at a position smaller than the user's minimum attack distance, the attack range of this technique is greatly increased, and the user immediately attacks the enemy without consumption from 50% of the execution progress; when the active execution of this technique is performed and the power of this technique is 100%, this effect regains 1 level
 Reverse - 8 Steps of\nSquared Up
