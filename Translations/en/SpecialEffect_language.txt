@@ -837,7 +837,7 @@ Gold Lion Blade
 Ban Hetero
 When you start to perform this technique, "interrupt" all the enemy's Heterodox training techniques and eliminate all the enemy's Heterodox training techniques; during the performance of this technique, the enemy cannot perform any Heterodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Heterodox training techniques, and every time the user performs any Orthodox training techniques, this effect is reduced by 1 level
 Coiled Dragon\nGhost Blade
-If the user has at least 2 "Hack" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Hack" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+When this technique is used with at least 10% of its power, If the user has at least 2 "Hack" styles, the user will only consume 2 "Hack" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 Wild Blade
 Whenever the user deals direct damage to the enemy, the power of this technique will increase cumulatively until the end of the battle, and the cumulative increase in power of this technique cannot be transferred or eliminated by any effect
 Spear of Evil
