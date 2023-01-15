@@ -931,7 +931,7 @@ When this technique is used at ten percent of its power, the enemy's attacked pa
 5 Mantra\n5 Phases
 When attacking an enemy with this technique, the more of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, the more the user's hits will increase; when this technique is at least 100% more powerful than the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, at least 3 of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, 2 "None" will be applied to the enemy.
 Pivot Move
-When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the "Break" technique performed by the user that has not been used for 10% of its power is greatly increased, and lasts until the "Break" technique with the increased power has been used for 10% of its power.
+When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: The power of "Break" techniques that don't reach 100% power will be massively increased. Effect lasts until a "Break" technique hits at 100% power.
 Clutch Finger
 Changing the Enemy's External Defense
 When attacking the enemy with this technique: the smaller the difference between the enemy's body and the broken body, the smaller the enemy's body will change to
