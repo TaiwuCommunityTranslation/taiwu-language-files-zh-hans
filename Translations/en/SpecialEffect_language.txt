@@ -1352,7 +1352,7 @@ Demon's Poke
 When this technique is performed, if the Club used by the user is enchanted, the higher the enchantment level, the more external injury the technique will cause; after the technique is performed, the enchantment on the Club used by the user will be removed.
 Vajra's Anger
 When this technique is used with at least 10% of its power, the Club used by the user is augmented by the "Enraged Vajra": as long as the user is holding this Club, the level of direct external injuries inflicted by the user on the enemy is increased by 1 level.
-Raging Vajra: As long as the user is holding this Club, the level of injury caused by the user to the enemy will be increased by 1 level.
+Raging Vajra: As long as the user is holding 「Pestle」, the level of External Injury caused by the user to the enemy will be increased by 1 level.
 Chakravarti\nPoke
 After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: the "Short Pestle" technique performed by the user is transformed from Heterodox practice to Orthodox practice, and the power of the transformed Heterodox practice "Short Pestle" technique is greatly increased.
 Yamantaka\nPoke
