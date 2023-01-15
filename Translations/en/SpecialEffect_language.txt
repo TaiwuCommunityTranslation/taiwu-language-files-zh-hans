@@ -913,7 +913,7 @@ Fallen Finger
 This technique will cause the same amount of external injury to both the enemy and us; the external injury caused by this technique cannot be reduced by any effect
 Peeling Move
 Remove E·Equipped
-When this technique exerts 100% of its power, it has a certain chance to remove 1 piece of clothing or protective gear or treasure from the enemy, and apply a reduced External Defense debuff to the enemy according to the level of the equipment removed.
+When this technique is used at 100% of its power, it has a certain chance to remove 1 piece of clothing or protective gear or treasure from the enemy, and apply a reduced External Defense debuff to the enemy according to the level of the equipment removed.
 Poisonous Snake\nHidden Move
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Quick" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
 12 Moves of\nChangxi
@@ -1245,7 +1245,7 @@ Stamina instead of Stance
 The strength of the user's feet can replace the Stance when the Stance is not enough to perform this technique, so the user can move and attack with weapons during the performance of this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
 Spider Silk\nWhip
 Blocking the enemy's weapon
-When this technique exerts 100% of its power, it will cause the enemy's weapon to be "sealed" for a long period of time. Whenever the enemy moves 1 distance, the enemy will receive the backlash damage from the "sealed" weapon; after this technique is finished, it will inevitably be "sealed" temporarily
+When this technique is used at 100% of its power, it will cause the enemy's weapon to be "sealed" for a long period of time. Whenever the enemy moves 1 distance, the enemy will receive the backlash damage from the "sealed" weapon; after this technique is finished, it will inevitably be "sealed" temporarily
 Dragon Whip
 When attacking the enemy with this technique, the deeper the enemy is poisoned with Acritoxin, the more layers the degree of injury caused by this technique to the enemy's direct damage increases; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Sky Snake Whip
@@ -1677,7 +1677,7 @@ When this technique is used at 100% of its power, eliminate 1 strongest debuff f
 Burydeer Orchid
 When you start to perform this technique, the more "no" forms the user has, the more the power of this technique will increase; when this technique becomes 100% powerful, it will eliminate 2 "no" forms for the user.
 The World\nAmused
-When this technique exerts 100% of its power, it randomly and significantly increases the power of 1 "Break" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
+When this technique is used at 100% of its power, it randomly and significantly increases the power of 1 "Break" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Strange Technique" technique that are not enhanced by this technique, respectively, until the end of the battle.
 Wudang\nLong Fist
 According to the power of this technique, it increases the power limit of all the "Nadis" techniques of the user by 30% until the end of the battle.
 Wind Chasing\nPalm
@@ -2687,7 +2687,7 @@ Subdue the enemy to induce Qi to rush through the gate
 Apply a Int. Recovery debuff to the enemy based on the power of this technique
 Reverse - Divine Drug\nPalm
 Absorb your own toxins
-When this technique exerts 100% of its power, it will absorb the toxin of the deepest non-tenacious poison that the user has been hit by, and change the poison mark of the user that disappeared due to the toxin being absorbed into a wound mark of a random part; after this technique exerts 100% of its power, the user gains 5 levels of this effect: whenever the user hits an enemy, the toxin absorbed by this technique will be applied separately to the enemy.
+When this technique is used at 100% of its power, it will absorb the toxin of the deepest non-tenacious poison that the user has been hit by, and change the poison mark of the user that disappeared due to the toxin being absorbed into a wound mark of a random part; after this technique exerts 100% of its power, the user gains 5 levels of this effect: whenever the user hits an enemy, the toxin absorbed by this technique will be applied separately to the enemy.
 Reverse - Divine Flood\nDragon Palm
 When you start to perform this technique, the more wound marks the user has, the more the power of this technique will increase; the wounds caused to the enemy When this technique is used at 100% of its power will change into old wounds that are more difficult to recover from
 Reverse - Fallen Hands\nof Mt.Chai
@@ -3273,7 +3273,7 @@ Reverse - Burydeer Orchid
 Elimination of dyscalculia markers
 When you start to perform this technique, the more markers of Breath injury the user receives, the more the power of this technique will increase; when this technique reaches 100% of its power, 2 markers of Breath injury will be removed for the user
 Reverse - The World\nAmused
-When this technique exerts 100% of its power, it randomly and significantly reduces the power of 1 "Break" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
+When this technique is used at 100% of its power, it randomly and significantly reduces the power of 1 "Break" technique, 1 "Aegis" technique, 1 "Quick" technique, and 1 "Nadis" technique of the enemy that are not weakened by this technique, and lasts until the end of the battle.
 Reverse - Wudang\nLong Fist
 Based on the power of this technique, the user's requirement for the use of all "Nadis" techniques will be reduced until the end of the battle.
 Reverse - Wind Chasing\nPalm
