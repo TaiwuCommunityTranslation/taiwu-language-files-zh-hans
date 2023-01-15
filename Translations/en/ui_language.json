@@ -817,7 +817,7 @@
   "LK_ItemSubType_801": "Poison",
   "LK_ItemSubType_900": "Tea",
   "LK_ItemSubType_901": "Liquor",
-  "LK_ItemSubType_1000": "Manual",
+  "LK_ItemSubType_1000": " Manual",
   "LK_ItemSubType_1001": "Skill Manual",
   "LK_ItemSubType_1100": "Cricket",
   "LK_ItemSubType_1200": "Miscellaneous",
