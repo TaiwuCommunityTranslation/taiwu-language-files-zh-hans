@@ -991,7 +991,7 @@ Seal the enemy's strange tricks
 Causes backlash damage
 When this incantation is at ten percent power, it will cause the enemy's 1 "odd body" technique that is not permanently sealed to be "sealed" for a long time; whenever the enemy performs any technique, the enemy will suffer the backlash damage of that "odd body" technique; after this incantation is finished, it will inevitably be temporarily "sealed".
 5 Animals Fist
-After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of injury of external injury suffered by the user is reduced by 1 level
+When this technique is used with at least 10% of its power, the user gains 5 levels of this effect: the degree of injury of external injury suffered by the user is reduced by 1 level
 The Great Snow\nMountain Palm
 When this technique is used with at least 10% of its power, the user gains 3 layers of this effect : The more the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are higher than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 Blood Palm
@@ -1045,7 +1045,7 @@ Zhen Fragrant
 When you start to perform this technique, the deeper the enemy is poisoned with Acritoxin, the more the power of this technique will increase
 8 Fairies\nof The Other Side
 Increase the number of toxic episodes
-After this technique plays at least 10% of its power, the user gains 4 levels of this effect: reduce the poisonous damage suffered by the enemy when they are poisoned, but each time the enemy is attacked by poison gas will make the poisonous attack 2 times
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: reduce the poisonous damage suffered by the enemy when they are poisoned, but each time the enemy is attacked by poison gas will make the poisonous attack 2 times
 Shock Dream\nFragrant
 Interrupting enemy operations
 When you start to perform this technique: the closer the enemy is to the user, the more the progress of this technique will be increased; when this technique is at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
@@ -2677,7 +2677,7 @@ When this spell is cast, the power of this spell will be greatly increased if th
 Reverse - Almighty Spell
 When this incantation is at 100% of its power, it will cause the enemy's 2 "odd trunk" techniques that are not permanently blocked to be "blocked" for a short period of time; whenever the enemy performs any technique, the enemy will suffer the backlash damage of that "odd trunk" technique; after this incantation is finished, it will inevitably be temporarily "blocked".
 Reverse - 5 Animals Fist
-After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of direct internal injuries suffered by the user is reduced by 1 level
+When this technique is used with at least 10% of its power, the user gains 5 levels of this effect: the degree of direct internal injuries suffered by the user is reduced by 1 level
 Reverse - The Great Snow\nMountain Palm
 When this technique is used with at least 10% of its power, the user gets 3 layers of this effect : The more the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are lower than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 Reverse - Blood Palm
@@ -2722,7 +2722,7 @@ After this technique has been used for ten percent of its power, the user gains 
 Reverse - Zhen Fragrant
 When you start to perform this technique, the deeper the user is poisoned with Acritoxin, the more the power of this technique will increase
 Reverse - 8 Fairies\nof The Other Side
-After this technique plays at least 10% of its power, the user gets 4 levels of this effect: reduce the poisonous damage the user receives when the poisonous attack occurs, but the user will make the poisonous attack 2 times per poisonous attack
+When this technique is used with at least 10% of its power, the user gets 4 levels of this effect: reduce the poisonous damage the user receives when the poisonous attack occurs, but the user will make the poisonous attack 2 times per poisonous attack
 Reverse - Shock Dream\nFragrant
 When you start to perform this technique: the farther the enemy is from the user, the more the progress of this technique will be increased; when this technique is at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
 Reverse - Blood Narcissus
@@ -3258,7 +3258,7 @@ Reverse - 12-String\nNeedles
 The more chances the user consumes, the more the power of this technique will increase; when this technique is at 100% of its power, every chance the user consumes will cause the enemy to lose 3 points of random type of true qi.
 Reverse - Cloud And Stream
 Increases qi consumption
-After this technique plays at least 10% of its power, the user gains 2 levels of this effect: the enemy needs to perform the technique's Inhale and Stance are greatly increased
+When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the enemy needs to perform the technique's Inhale and Stance are greatly increased
 Reverse - Home Forgetting
 Reduced enemy attack range
 When this technique is performed, the happier the enemy is, the more the power of this technique increases; when this technique is performed at 100% of its power, the range of the enemy's next "Break" technique is reduced according to how happy the enemy is; when this technique is finished, a buff that increases the enemy's mood is applied according to how much power this technique has performed
