@@ -906,7 +906,7 @@ Divine Cold\nPalm
 Toxins become persistent
 The Cryotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 One Mysterious\nHand
-When this technique is used with at least 10% of its power, the user is close to the enemy at a distance of 2
+When this technique is used with at least 10% of its power, the user moves 2 distance towards the enemy.
 Mysterious\nIce Finger
 When this technique exerts at least 10% of its power, the user gains 2 points of "Quick" true qi
 Fallen Finger
