@@ -1622,7 +1622,7 @@ When this technique exerts ten percent of its power, the enemy loses all memorie
 Pure Girl's Stab
 After this technique has been used for ten percent of its power, the user gains 3 layers of this effect: whenever the user counters an enemy, the user gains 1 random available style, if the user counters an enemy successfully, the user immediately performs this technique to attack the enemy without consumption, and the power of this technique increases significantly. When performed this way, this technique has no special effects.
 Immortal\nNeedle of Golden Top
-If the user has at least 2 "Stab" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Stab" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+When this technique is used with at least 10% of its power, If the user has at least 2 "Stab" styles, the user will only consume 2 "Stab" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 Needle Finger
 Improve your subtlety
 When this technique is used with at least 10% of its power, the user gets 10 layers of this effect: the fewer layers of this effect remain, the more the user's Finesse increases when the user attacks the enemy
