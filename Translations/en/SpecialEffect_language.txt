@@ -842,7 +842,7 @@ Wild Blade
 Whenever the user deals direct damage to the enemy, the power of this technique will increase cumulatively until the end of the battle, and the cumulative increase in power of this technique cannot be transferred or eliminated by any effect
 Spear of Evil
 Get "attack tokens"
-When this technique is used at least 10% of its power, the user gains 3 levels of this effect: when the user receives an external injury, the user gains 1 "attack token"
+When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: when the user receives an external injury, the user gains 1 "attack token"
 Soul-Severed\nSpear of 5 Tigers
 When you start to perform this technique, the greater the maximum attack distance of the user than the maximum attack distance of the enemy, the more the power of this technique will increase
 8 Mother's\nSpear of Lion Phase
@@ -1280,7 +1280,7 @@ When this technique is used at 100% of its power, for every 2 "throws" the user 
 Thunder Fire
 After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "Shot" and "Drive" styles acquired by the user are changed to "Throw" styles
 Dragon Spit\nDragon Ball
-When this technique is used at least 10% of its power, the user gains 2 points of "Break" true qi.
+When this technique is used with at least 10% of its power, the user gains 2 points of "Break" true qi.
 Divine Power\nof Red Blue Fire
 When this technique is used at 100% of its power, it imparts a buff to the user that significantly increases the External Penetration and a decrease in the buffs to the External Defense.
 Blood Burning
@@ -1306,7 +1306,7 @@ Hegemony\nBlade of 9 Dragons
 Transfer Power Gain
 When you start performing this technique, the power of up to 3 of your enemy's "Destroy" techniques will be transferred to the power of a random "Destroy" technique of the user, lasting until the end of the battle.
 Vajra Hammer
-When this technique is used at least 10% of its power, the user takes 1 enemy "Bash" style.
+When this technique is used with at least 10% of its power, the user takes 1 enemy "Bash" style.
 5 Anger Hands
 A buff that enhances the Ext. Pen. is applied to the user according to the power of this technique.
 Parami Palm
@@ -1346,12 +1346,12 @@ Damage to enemy's protective gear
 After this technique has reached 100% of its power, the user gains 3 levels of this effect: when the user hits an enemy, the user's armor is greatly increased, and if the user damages the enemy's protective gear, it damages an additional 2 points of durability.
 Dharma\nProtector's Poke
 Enchanted
-When this technique is used at least 10% of its power, the pestle used by the user will be enchanted by "Guardian Vajra": as long as the user is holding this pestle, the degree of direct external injuries caused by the enemy to the user will be reduced by 1 level.
+When this technique is used with at least 10% of its power, the pestle used by the user will be enchanted by "Guardian Vajra": as long as the user is holding this pestle, the degree of direct external injuries caused by the enemy to the user will be reduced by 1 level.
 Vajra Protector: As long as the user is holding this Club, the degree of external injury inflicted by enemies on the user is reduced by 1 level.
 Demon's Poke
 When this technique is performed, if the Club used by the user is enchanted, the higher the enchantment level, the more external injury the technique will cause; after the technique is performed, the enchantment on the Club used by the user will be removed.
 Vajra's Anger
-When this technique is used at least 10% of its power, the Club used by the user is augmented by the "Enraged Vajra": as long as the user is holding this Club, the level of direct external injuries inflicted by the user on the enemy is increased by 1 level.
+When this technique is used with at least 10% of its power, the Club used by the user is augmented by the "Enraged Vajra": as long as the user is holding this Club, the level of direct external injuries inflicted by the user on the enemy is increased by 1 level.
 Raging Vajra: As long as the user is holding this Club, the level of injury caused by the user to the enemy will be increased by 1 level.
 Chakravarti\nPoke
 After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: the "Short Pestle" technique performed by the user is transformed from Heterodox practice to Orthodox practice, and the power of the transformed Heterodox practice "Short Pestle" technique is greatly increased.
@@ -1361,7 +1361,7 @@ Vajra of Virtue: As long as the user holds this "Club", the more true qi the use
 Magical\nTreasure Tree
 When this technique is performed, if the pestle used by the user is enchanted, the higher the enchantment level, the more the power of this technique increases. When this technique is 100% successful, the strength of all the user's buffs is greatly increased; when this technique is finished, the enchantment on the pestle used by the user is removed.
 Acala Poke
-When this technique is used at least 10% of its power, the Club used by the user is augmented by "Fudo": as long as the user is holding this Club, the user's movement speed is greatly reduced and all direct damage to the user is greatly reduced.
+When this technique is used with at least 10% of its power, the Club used by the user is augmented by "Fudo": as long as the user is holding this Club, the user's movement speed is greatly reduced and all direct damage to the user is greatly reduced.
 Immovable King: As long as the user is holding this Club, the user's movement speed is greatly reduced, and all direct damage to the user is greatly reduced.
 None-Shape\nLittle Catch
 According to the power of this technique to play into the number of attrition of the enemy's frame
@@ -1390,7 +1390,7 @@ Leaf Picking
 After this technique is at least 10% powerful, the user gains 4 levels of this effect: all the "Throw" and "Drive" styles obtained by the user are changed to "Shot" styles.
 6 Hands of\nShadowless
 Obtain special Kill style
-When this technique is used at least 10% of its power, the user gains 1 "Kill" style.
+When this technique is used with at least 10% of its power, the user gains 1 "Kill" style.
 Shooting Star
 Variation of killing arrangement
 If the user has more than one "Kill" style when the power of this technique is at 100%, up to 3 "Kill" styles will be randomly arranged at the end of the user's stance.
@@ -1440,7 +1440,7 @@ Blood Evil Palm
 Chest injured
 When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts 100% of its power, it will cause the enemy's chest and back to be "damaged"; "damaged chest and back The person who has a "broken chest" cannot lift more than 60% of his Qi, and the external injury of the externally injured person's chest reaches 4 layers, which is considered as a broken chest, and this serious external injury will not disappear until the externally injured person has healed all the external injury of his chest.
 Bone Melting\nGhost Palm
-When this technique is used at least 10% of its power, if the user has at least 2 "Hold" styles after this technique, the user will consume only 2 "Hold" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+When this technique is used with at least 10% of its power, if the user has at least 2 "Hold" styles after this technique, the user will consume only 2 "Hold" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Sky Demon Palm
 The strong poison applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Blood Hou's\nEvil Palm
@@ -1485,7 +1485,7 @@ Blood Shadow\nKick
 If the user's Destructive Qi is higher than the initial value and higher than the enemy's Destructive Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user loses 6 points of Destructive Qi at the end of the technique.
 Ghost Poison\nSand
 Change styles
-When this technique is used at least 10% of its power, it will change up to 2 of the user's unusable styles into "Toxic" styles.
+When this technique is used with at least 10% of its power, it will change up to 2 of the user's unusable styles into "Toxic" styles.
 Decayed Worm\nSand
 When attacking an enemy with this technique, the special effect of the enemy's "Aegis" technique cannot take effect if the enemy's poison attacks his heart.
 Bone-Corrosion\nSand
@@ -1534,7 +1534,7 @@ When attacking the enemy with this technique: the armor of the user increases si
 Shaolin Staff\nof 6 Directions
 According to the power of this technique, the power limit of all "Aegis" techniques of the user will be increased by 30% until the end of the battle.
 Shaolin Staff\nof Yin-Yang
-When this technique is used at least 10% of its power, the user gains 4 layers of this effect: all "Hack" and "Stab" styles gained by the user are changed into "Slash" styles
+When this technique is used with at least 10% of its power, the user gains 4 layers of this effect: all "Hack" and "Stab" styles gained by the user are changed into "Slash" styles
 QiMei Staff of\n18 Points
 When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Slash" styles the user has.
 Yakkha Staff
@@ -1625,7 +1625,7 @@ Immortal\nNeedle of Golden Top
 If the user has at least 2 "Stab" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Stab" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
 Needle Finger
 Improve your subtlety
-When this technique is used at least 10% of its power, the user gets 10 layers of this effect: the fewer layers of this effect remain, the more the user's Finesse increases when the user attacks the enemy
+When this technique is used with at least 10% of its power, the user gets 10 layers of this effect: the fewer layers of this effect remain, the more the user's Finesse increases when the user attacks the enemy
 Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Finger Magenta
@@ -1761,7 +1761,7 @@ Eliminate external wounds
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives direct trauma from an enemy with a wound level of not less than 2, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's trauma mark and severe injury mark are removed, after which this effect reverts to 0 levels
 Swordsmanship\nof Arhat
 Recovery of "attack tokens"
-When this technique is used at least 10% of its power, if the weapon used by the user is "Sword" and can be switched to a "Blade", the user immediately switches to a "Blade" and regains 1 "attack token".
+When this technique is used with at least 10% of its power, if the weapon used by the user is "Sword" and can be switched to a "Blade", the user immediately switches to a "Blade" and regains 1 "attack token".
 Swordsmanship\nof Pudu
 Detention of defeated enemies
 When defeating an enemy in a deadly fight with this technique, if the enemy has become evil but not demonized, reduce the enemy's degree of demonization and imprison the enemy
@@ -1778,7 +1778,7 @@ This technique cannot be reflected; after this technique has been used at 100% o
 Swordsmanship\nof Dharma
 Depending on the power of this technique and the amount of Stance consumed by the user, the user will get up to 200 layers of this effect: when the user performs the "Break" technique, the number of layers of this effect will replace the amount of Inhale consumed, and the more it is consumed, the more the user's Ext. and Int. Pen. will be increased.
 Blade of\nTrigrams And Elements
-When this technique is used at least 10% of its power, if the weapon used by the user is "Blade" and can be switched to "Sword", the user immediately switches to "Sword" and regains 1 "attack token".
+When this technique is used with at least 10% of its power, if the weapon used by the user is "Blade" and can be switched to "Sword", the user immediately switches to "Sword" and regains 1 "attack token".
 Blade of\n6 Directions
 Wp·Switch CD Dn
 After this technique has been used for at least 10% of its power, the switching interval of 1 unused weapon of the user is eliminated, so that it can be switched to use immediately.
@@ -2516,7 +2516,7 @@ Reverse - Mountain\nPushing Palm
 Reducing the Diversion of the enemy
 After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's unloading power will be reduced when the user attacks the enemy.
 Reverse - Iron Fist of\nLion Phase
-When this technique is used at least 10% of its power, the user gains 2 "Punch" styles
+When this technique is used with at least 10% of its power, the user gains 2 "Punch" styles
 Reverse - Gate Breaker\n8 Moves
 When this technique is used at 100% of its power, for every 3 "Punch" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - The Great\nStonebreaker
@@ -2536,7 +2536,7 @@ At the end of this technique, the enemy's Diversion will be reduced, and the use
 Reverse - Ground Blade\nof Lion Face
 When you start to perform this technique, you will regain your Stamina; during the process of performing this technique, you can retreat up to 2 distances.
 Reverse - Rapid Blade\nof Mountain Cleave
-When this technique is used at least 10% of its power, the user gains 2 "Slash" styles.
+When this technique is used with at least 10% of its power, the user gains 2 "Slash" styles.
 Reverse - Shield Blade\nof Lion Phase
 When this technique is used at 100% of its power, for every 3 "Slash" styles the user has, the user will inflict an additional break on the enemy's attacked area.
 Reverse - Tremendous\nEffort Blade
@@ -2553,7 +2553,7 @@ When you start to perform this technique, you will consume all of the user's "Cl
 Reverse - Wild Blade
 Whenever an enemy deals direct damage to the user, the power of this technique will increase cumulatively until the end of the battle, and the cumulative increase in power of this technique cannot be transferred or eliminated by any effect
 Reverse - Spear of Evil
-When this technique is used at least 10% of its power, the user gains 3 levels of this effect: when the user suffers direct internal injuries, the user gains 1 "attack token"
+When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: when the user suffers direct internal injuries, the user gains 1 "attack token"
 Reverse - Soul-Severed\nSpear of 5 Tigers
 When you start to perform this technique, the smaller the minimum attack distance of the user than the minimum attack distance of the enemy, the more the power of this technique will increase
 Reverse - 8 Mother's\nSpear of Lion Phase
@@ -2610,7 +2610,7 @@ The Cryotoxin applied to the enemy by this technique is greatly increased, but t
 Reverse - One Mysterious\nHand
 After this technique has exerted at least 10% of its power, the person using it should stay away from the enemy by a distance of 2
 Reverse - Mysterious\nIce Finger
-When this technique is used at least 10% of its power, the enemy loses 2 points of "Quick" true qi.
+When this technique is used with at least 10% of its power, the enemy loses 2 points of "Quick" true qi.
 Reverse - Fallen Finger
 This technique causes the same amount of direct internal damage to both the enemy and us; the direct internal damage caused by this technique cannot be reduced by any effect
 Reverse - Peeling Move
@@ -2679,7 +2679,7 @@ When this incantation is at 100% of its power, it will cause the enemy's 2 "odd 
 Reverse - 5 Animals Fist
 After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of direct internal injuries suffered by the user is reduced by 1 level
 Reverse - The Great Snow\nMountain Palm
-When this technique is used at least 10% of its power, the user gets 3 layers of this effect : The more the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are lower than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
+When this technique is used with at least 10% of its power, the user gets 3 layers of this effect : The more the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are lower than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 Reverse - Blood Palm
 When you start to perform this technique, the deeper the Pyrotoxin the user has, the more the power of this technique will increase
 Reverse - Osbeck\nBone Melt Palm
@@ -2900,9 +2900,9 @@ After this technique has reached 100% of its power, the user gains 3 levels of t
 Reverse - Flying Sand
 When this technique is used at 100% of its power, for every 3 throws the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - Thunder Fire
-When this technique is used at least 10% of its power, the user gains 2 "throws".
+When this technique is used with at least 10% of its power, the user gains 2 "throws".
 Reverse - Dragon Spit\nDragon Ball
-When this technique is used at least 10% of its power, the enemy loses 2 points of "Destroy" true qi.
+When this technique is used with at least 10% of its power, the enemy loses 2 points of "Destroy" true qi.
 Reverse - Divine Power\nof Red Blue Fire
 When this technique is used at 100% of its power, it imparts to the user a buff that significantly increases the amount of Internal Penetration and a debuff that decreases the amount of Internal Defense.
 Reverse - Blood Burning
@@ -2965,12 +2965,12 @@ Improve your own broken blade
 Break Weapon
 After this technique has been used for ten percent of its power, the user gains three levels of this effect: when the enemy hits the user, the user's broken blade is greatly increased, and if the user damages the enemy's weapon, an additional 2 points of durability are damaged.
 Reverse - Dharma\nProtector's Poke
-When this technique is used at least 10% of its power, the pestle used by the user is augmented by the "Vajra Protector": as long as the user is holding this pestle, the degree of direct internal injuries inflicted by the enemy on the user is reduced by 1 level.
+When this technique is used with at least 10% of its power, the pestle used by the user is augmented by the "Vajra Protector": as long as the user is holding this pestle, the degree of direct internal injuries inflicted by the enemy on the user is reduced by 1 level.
 Vajra Protector: As long as the user is holding this pestle, the degree of direct internal injuries inflicted by enemies on the user is reduced by 1 level.
 Reverse - Demon's Poke
 When this technique is performed, if the Club used by the user is enchanted, the higher the enchantment level, the more internal injuries this technique will cause; after this technique is performed, the enchantment on the Club used by the user will be removed.
 Reverse - Vajra's Anger
-When this technique is used at least 10% of its power, the Club used by the user is enchanted by "Angry Eye Vajra": as long as the user is holding this Club, the level of direct internal injuries inflicted by the user on the enemy is increased by 1 level.
+When this technique is used with at least 10% of its power, the Club used by the user is enchanted by "Angry Eye Vajra": as long as the user is holding this Club, the level of direct internal injuries inflicted by the user on the enemy is increased by 1 level.
 Raging Vajra: As long as the user is holding this Club, the level of direct internal injuries inflicted by the user on the enemy is increased by 1 level.
 Reverse - Chakravarti\nPoke
 After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: the "Short Pestle" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Short Pestle" technique is greatly increased.
@@ -3004,10 +3004,10 @@ During the process of performing this technique: most of the Internal Defense of
 Reverse - 10 Methods of\nJieqing
 When this technique is used at 100% of its power, for every 3 "Shot" styles the user has, the user will inflict an additional 1 damage to the enemy's attacked area.
 Reverse - Leaf Picking
-When this technique is used at least 10% of its power, the user gains 2 "Shot" styles
+When this technique is used with at least 10% of its power, the user gains 2 "Shot" styles
 Reverse - 6 Hands of\nShadowless
 Make the enemy get the Kill style
-When this technique is used at least 10% of its power, the enemy gains 1 "Kill" style
+When this technique is used with at least 10% of its power, the enemy gains 1 "Kill" style
 Reverse - Shooting Star
 If the enemy has more than one "Kill" style when this technique is at its tenth power, randomly place up to 3 "Kill" styles at the end of the enemy's stance.
 Reverse - Snapshot
@@ -3089,7 +3089,7 @@ Reverse - Blood Shadow\nKick
 If the user's Destructive Qi is lower than the initial value and lower than the enemy's Destructive Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user gains 6 points of Destructive Qi at the end of the technique.
 Reverse - Ghost Poison\nSand
 Change E·style
-When this technique is used at least 10% of its power, it will change up to 2 of the enemy's available styles into "Toxic" styles.
+When this technique is used with at least 10% of its power, it will change up to 2 of the enemy's available styles into "Toxic" styles.
 Reverse - Decayed Worm\nSand
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's poison attacks his heart.
 Reverse - Bone-Corrosion\nSand
@@ -3190,7 +3190,7 @@ Reverse - Swordsmanship\nof Flower Brush
 Reduce enemy's dodge
 After at least 10% of the power of this technique is exerted, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's dodge is reduced when the user attacks the enemy
 Reverse - Swordsmanship\nof Hidden Swordmaster
-When this technique is used at least 10% of its power, the user gains 2 "Stab" styles
+When this technique is used with at least 10% of its power, the user gains 2 "Stab" styles
 Reverse - Swordsmanship\nof White Eyebrow
 Reverse - Swordsmanship\nof Lotus
 When this technique inflicts at least 2 levels of direct internal damage to the enemy, it inflicts 1 additional higher level seal on the enemy's attacked area
@@ -3220,7 +3220,7 @@ Reverse - Immortal\nNeedle of Golden Top
 When you start to perform this technique, you will consume all the "stabbing" style of the user. The more "stabbing" style the user consumes, the more the power of this technique will increase.
 Reverse - Needle Finger
 Reduce the enemy's Parry
-When this technique is used at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's Parry will be reduced when the user attacks the enemy
+When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's Parry will be reduced when the user attacks the enemy
 Reverse - Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Finger Magenta
@@ -3241,7 +3241,7 @@ When this technique exerts ten percent of its power: cumulative increase in the 
 Reverse - Needle Control
 When this technique is used at 100% of its power, for every 3 "Drive" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - 5 Elements\nPinprick
-When this technique is used at least 10% of its power, the user gains 2 "Drive" styles.
+When this technique is used with at least 10% of its power, the user gains 2 "Drive" styles.
 Reverse - Chilling Pinprick
 When you start to perform this technique, the deeper the Cryotoxin in the user, the more the power of this technique will increase
 Reverse - Bianque Pinprick
@@ -3277,7 +3277,7 @@ When this technique exerts 100% of its power, it randomly and significantly redu
 Reverse - Wudang\nLong Fist
 Based on the power of this technique, the user's requirement for the use of all "Nadis" techniques will be reduced until the end of the battle.
 Reverse - Wind Chasing\nPalm
-When this technique is used at least 10% of its power, the user gains 2 "Hold" styles
+When this technique is used with at least 10% of its power, the user gains 2 "Hold" styles
 Reverse - Wudang Soft\nPalm
 When hitting the enemy with this technique, the enemy's protective gear cannot weaken the attack effect of the user; after this technique exerts at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Vitality to improve the user's Ext. and Int. Defense
 Reverse - The 8 Trigrams\nPalm
@@ -3350,7 +3350,7 @@ Reverse - Holy White\nElephant With 6 Tusks
 Eliminate your own internal injuries
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives a direct internal wound of not less than 2 from the enemy, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's internal wound mark and severe wound mark are removed, after which this effect reverts to 0 levels
 Reverse - Swordsmanship\nof Arhat
-When this technique is used at least 10% of its power, if the weapon used by the user is a "Blade", the user regains 2 "attack tokens".
+When this technique is used with at least 10% of its power, if the weapon used by the user is a "Blade", the user regains 2 "attack tokens".
 Reverse - Swordsmanship\nof Pudu
 When defeating an enemy in a deadly fight with this technique, if the enemy is already evil but not demonized, it increases the enemy's degree of demonization and imprisons the enemy
 Reverse - Swordsmanship\nof Seventy Two Rages
@@ -3367,7 +3367,7 @@ This technique cannot be counter-shocked; after this technique has been used at 
 Reverse - Swordsmanship\nof Dharma
 Depending on the power of this technique and the amount of Stance consumed by the user, the user will receive up to 200 layers of this effect: when the user performs the "Break" technique, the number of layers of this effect will replace the amount of Inhale consumed, and the more it is consumed, the more the enemy's Ext. and Int. Def. will be reduced.
 Reverse - Blade of\nTrigrams And Elements
-When this technique is used at least 10% of its power, if the weapon used by the user is a "Sword", the user will regain 2 "attack tokens".
+When this technique is used with at least 10% of its power, if the weapon used by the user is a "Sword", the user will regain 2 "attack tokens".
 Reverse - Blade of\n6 Directions
 Ban E·Weapon
 After this technique exerts at least 10% of its power, it increases the switching interval of 1 unused weapon of the enemy, making it temporarily unable to be switched for use
