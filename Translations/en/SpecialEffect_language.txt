@@ -1346,7 +1346,7 @@ Damage to enemy's protective gear
 After this technique has reached 100% of its power, the user gains 3 levels of this effect: when the user hits an enemy, the user's armor is greatly increased, and if the user damages the enemy's protective gear, it damages an additional 2 points of durability.
 Dharma\nProtector's Poke
 Enchanted
-When this technique is used with at least 10% of its power, the pestle used by the user will be enchanted by "Guardian Vajra": as long as the user is holding this pestle, the degree of direct external injuries caused by the enemy to the user will be reduced by 1 level.
+When this technique is used with at least 10% of its power, the pestle used by the user will be enchanted by "Dharma Protector": as long as the user is holding this pestle, the degree of direct external injuries caused by the enemy to the user will be reduced by 1 level.
 Dharma Protector: As long as the user is holding 「Pestle」, the degree of external injury inflicted by enemies on the user is reduced by 1 level.
 Demon's Poke
 When this technique is performed, if the Club used by the user is enchanted, the higher the enchantment level, the more external injury the technique will cause; after the technique is performed, the enchantment on the Club used by the user will be removed.
