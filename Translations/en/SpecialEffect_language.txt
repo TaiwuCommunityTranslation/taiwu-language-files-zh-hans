@@ -881,7 +881,7 @@ When you start to perform this technique, if the enemy has a deceased spouse, th
 Increase your own motivation
 When you start to perform this technique: A part of the user's Charm is added to the user's Breath accuracy value;  if the enemy is male, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
 Song of\nThe Moon
-When you start to perform this technique, if the enemy does not have a partner to help you, the power of this technique will be greatly increased; when this technique is at 100% of its power, it adds 3 "None" styles to the enemy
+When you start to perform this technique, if the enemy does not have a partner to help you, the power of this technique will be greatly increased; When this technique is used at 100% of its power, it adds 3 "None" styles to the enemy
 Love Poem
 When you start to perform this technique, the more enemies and mutual love, the more the power of this technique will increase, but if the number of mutual love with the enemy exceeds 10 people, the power of this technique will be reduced instead
 Celestial Music\nof Goddess
@@ -1048,7 +1048,7 @@ Increase the number of toxic episodes
 When this technique is used with at least 10% of its power, the user gains 4 layers of this effect: Reduce poison damage to enemies when they are poisoned, but each time the enemy is attacked by poison gas will make the poisonous attack 2 times
 Shock Dream\nFragrant
 Interrupting enemy operations
-When you start to perform this technique: the closer the enemy is to the user, the more the progress of this technique will be increased; when this technique is at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
+When you start to perform this technique: the closer the enemy is to the user, the more the progress of this technique will be increased; When this technique is used at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
 Blood Narcissus
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the user inflicts on the enemy with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
 9 Idiotic Fragrant
@@ -1691,7 +1691,7 @@ In the process of performing this technique, the user can advance up to 6 distan
 Divine Fist
 When this technique is used at 100% of its power, the enemy's 3 "Metal" techniques will be "blocked" for a long time.
 Wudang\nPure Yang Fist
-When an enemy performs a "Break" technique with a higher percentage of internal energy, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of internal energy when this technique is at 100% of its power.
+When an enemy performs a "Break" technique with a higher percentage of internal energy, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of internal energy When this technique is used at 100% of its power.
 Purple Yang\nUpright Fist
 This technique cannot be reflected; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and When this technique is used at 100% of its power, the internal breath disorder of the user will be greatly reduced.
 Taichi Fist
@@ -2724,7 +2724,7 @@ When you start to perform this technique, the deeper the user is poisoned with A
 Reverse - 8 Fairies\nof The Other Side
 When this technique is used with at least 10% of its power, the user gets 4 levels of this effect: reduce the poisonous damage the user receives when the poisonous attack occurs, but the user will make the poisonous attack 2 times per poisonous attack
 Reverse - Shock Dream\nFragrant
-When you start to perform this technique: the farther the enemy is from the user, the more the progress of this technique will be increased; when this technique is at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
+When you start to perform this technique: the farther the enemy is from the user, the more the progress of this technique will be increased; When this technique is used at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
 Reverse - Blood Narcissus
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the enemy inflicts on the user with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
 Reverse - 9 Idiotic\nFragrant
@@ -3255,7 +3255,7 @@ This technique increases the amount of Oneirotoxin applied to the enemy signific
 Reverse - Meridian\nBreaking Pinprick
 When attacking an enemy with this technique, the deeper the poison the user is poisoned with Umbritoxin, the more layers of direct damage this technique will cause to the enemy; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Reverse - 12-String\nNeedles
-The more chances the user consumes, the more the power of this technique will increase; when this technique is at 100% of its power, every chance the user consumes will cause the enemy to lose 3 points of random type of true qi.
+The more chances the user consumes, the more the power of this technique will increase; When this technique is used at 100% of its power, every chance the user consumes will cause the enemy to lose 3 points of random type of true qi.
 Reverse - Cloud And Stream
 Increases qi consumption
 When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the enemy needs to perform the technique's Inhale and Stance are greatly increased
@@ -3287,7 +3287,7 @@ The farther the user retreats, the more the power of this technique will increas
 Reverse - Divine Fist
 When this technique is used at 100% of its power, the power of the enemy's 3 "Metal" techniques is reduced and lasts until the end of the battle.
 Reverse - Wudang\nPure Yang Fist
-When an enemy performs a "Break" technique with a higher percentage of external power, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of external power when this technique is at 100% of its power.
+When an enemy performs a "Break" technique with a higher percentage of external power, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of external power When this technique is used at 100% of its power.
 Reverse - Purple Yang\nUpright Fist
 This technique can't be reflected; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and When this technique is used at 100% of its power, it will greatly increase the enemy's internal breath disorder
 Reverse - Taichi Fist
