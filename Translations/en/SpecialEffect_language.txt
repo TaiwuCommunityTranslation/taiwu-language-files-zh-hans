@@ -1504,7 +1504,7 @@ Shaolin\nVajra Palm
 Increase the ratio of internal power
 According to the percentage of power played by this technique, the ratio of internal power of this technique increases, when it reaches 100% internal power, the power of this technique increases significantly, and the direct damage caused to the enemy will not be reduced for any reason
 The Great\nLong-Arm Fist
-The attack range of this technique is increased; after this technique exerts at least 10% of its power, the user gains 10 levels of this effect: the maximum attack distance of the user is increased by 1, and the power of this technique is increased when this technique is performed again under this effect
+The attack range of this technique is increased; When this technique is used with at least 10% of its power, the user gains 10 levels of this effect: the maximum attack distance of the user is increased by 1, and the power of this technique is increased when this technique is performed again under this effect
 68 Moves of\nArhat Fist
 Recovery of Aegis time
 This technique can be performed while the user is exercising the "Aegis" technique; the duration of the user's "Aegis" technique will be restored significantly according to the percentage of power exercised by this technique
@@ -1579,7 +1579,7 @@ Lame Fight\n80 Moves
 When this technique is used at 100% of its power, for every 2 "Hold" styles the user has, the level of damage the user can cause to the enemy will increase by 1 extra level.
 Split Flower
 Resolve to Accu
-When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the user's attack on the enemy are lower than the user's Diversion, Parry, or Evasion, the user's corresponding resolution replaces the hit.
+When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the user's attack on the enemy are lower than the user's Diversion, Parry, or Evasion, the user's corresponding resolution replaces the hit.
 Lighten Finger
 The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user will knock back the enemy by 4 distance, and if the distance between the enemy and the user after being knocked back is not greater than 8, the user will deal the same damage to the enemy once again
 A Thousand\nHands
@@ -3107,7 +3107,7 @@ Reverse - Shaolin\nVajra Palm
 Increase the ratio of external power
 According to the percentage of power played by this technique, the percentage of external power of this technique increases, when it reaches 100% external power, the power of this technique increases significantly, and the direct damage caused to the enemy will not be reduced for any reason
 Reverse - The Great\nLong-Arm Fist
-The attack range of this technique is increased; after this technique exerts at least 10% of its power, the user gains 10 levels of this effect: the user's minimum attack distance is reduced by 1, and when this technique is performed again under this effect, the power of this technique is increased
+The attack range of this technique is increased; When this technique is used with at least 10% of its power, the user gains 10 levels of this effect: the user's minimum attack distance is reduced by 1, and when this technique is performed again under this effect, the power of this technique is increased
 Reverse - 68 Moves of\nArhat Fist
 This technique can be performed while the user is exercising the "Aegis" technique; depending on the percentage of power exerted by this technique, the duration of the enemy's "Aegis" technique will be greatly depleted.
 Reverse - The Great Vajra\nFist
@@ -3176,7 +3176,7 @@ Based on the power of this technique, apply a Internal Defense debuff to the ene
 Reverse - Lame Fight\n80 Moves
 When this technique is used at 100% of its power, for every 3 "Hold" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - Split Flower
-When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; after this technique exerts at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's Diversion, Parry, and Evasion, the enemy's corresponding resolution will replace the hit.
+When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's Diversion, Parry, and Evasion, the enemy's corresponding resolution will replace the hit.
 Reverse - Lighten Finger
 The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user brings the enemy closer by 4 distance, and if the distance between the enemy and the user after being brought closer is not less than 4, the user deals the same damage to the enemy once again
 Reverse - A Thousand\nHands
@@ -3279,7 +3279,7 @@ Based on the power of this technique, the user's requirement for the use of all 
 Reverse - Wind Chasing\nPalm
 When this technique is used with at least 10% of its power, the user gains 2 "Hold" styles
 Reverse - Wudang Soft\nPalm
-When hitting the enemy with this technique, the enemy's protective gear cannot weaken the attack effect of the user; after this technique exerts at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Vitality to improve the user's Ext. and Int. Defense
+When hitting the enemy with this technique, the enemy's protective gear cannot weaken the attack effect of the user; When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Vitality to improve the user's Ext. and Int. Defense
 Reverse - The 8 Trigrams\nPalm
 At the beginning of the battle, the user gets 0 layers of this effect: for every 1 distance the user moves, this effect increases by 1 layer, up to 5 layers, the higher the number of layers of this effect, the less Inhale and Stance the user needs to consume when performing this technique, the more the user's Diversion, Parry and Evasion will increase; after the end of this technique, this effect decreases by 1 layer
 Reverse - The Ultra One\nUnfettered Palm
