@@ -971,7 +971,7 @@
   "LK_Stop_Villager_Collect_Resource_Confirm": "Are you sure you want <color=#darkbrown>{0}</color> villagers to stop collecting in this area and return to Taiwu Village?",
   "LK_Map_Block_Destroyed_Tip": "（Destroyed）",
   "LK_Building_Level": "LVL",
-  "LK_Building_Damage": "Damaged",
+  "LK_Building_Damage": "DMG",
   "LK_Building_Grow": "Growth",
   "LK_Building_Expand": "Expansion",
   "LK_Building_Message": "Message",
