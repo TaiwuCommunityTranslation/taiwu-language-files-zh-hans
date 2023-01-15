@@ -1894,7 +1894,7 @@
   "LK_Shop_DoDeal": "Confirm",
   "LK_Shop_DoDeal_Cost_Money": "Completing this transaction costs {0} 「{1}」,,,",
   "LK_Shop_DoDeal_Get_Money": "Complete this transaction to receive {0} 「{1}」…",
-  "LK_Shop_DoDeal_Money_Not_Enough": "You don't have enough「{0}」 to complete this transaction…",
+  "LK_Shop_DoDeal_Money_Not_Enough": "You don't have enough 「{0}」 to complete this transaction…",
   "LK_Shop_DoDealWarning": "The person you're trading with doesn't have enough「{0}」，do you still want to complete the transaction？",
   "LK_CricketBattle_Exit": "Exit from cricket battle",
   "LK_CricketBattle_ExitWarning": "The duel is not yet over, should we withdraw early?",
