@@ -799,7 +799,7 @@ Increase your Might
 After this technique has exerted at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the user's power increases when he attacks the enemy.
 Iron Fist of\nLion Phase
 Change sytle gain
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "Point" and "Hold" styles obtained by the user are changed to "Punch" styles
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all "Point" and "Hold" styles obtained by the user are changed to "Punch" styles
 Gate Breaker\n8 Moves
 Increase the level of breakage
 When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Punch" styles the user has.
@@ -1278,7 +1278,7 @@ When this technique is used at 100% of its power, it will eliminate the enemy's 
 Flying Sand
 When this technique is used at 100% of its power, for every 2 "throws" the user has, the level of damage caused by the user to the enemy will increase by 1 additional level.
 Thunder Fire
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "Shot" and "Drive" styles acquired by the user are changed to "Throw" styles
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all "Shot" and "Drive" styles acquired by the user are changed to "Throw" styles
 Dragon Spit\nDragon Ball
 When this technique is used with at least 10% of its power, the user gains 2 points of "Break" true qi.
 Divine Power\nof Red Blue Fire
@@ -1366,7 +1366,7 @@ Immovable King: As long as the user is holding this Club, the user's movement sp
 None-Shape\nLittle Catch
 According to the power of this technique to play into the number of attrition of the enemy's frame
 Picking Star\nMove
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all the "Punch" and "Hold" styles gained by the user are changed to "Point" styles
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all the "Punch" and "Hold" styles gained by the user are changed to "Point" styles
 Jade Well Hands
 When this technique is at 100% of its power, it will absorb 2 points of true qi from the enemy, and the type of true qi to be absorbed is the lowest amount of true qi of the user; if the user's true qi is still lower than its initial value after absorbing the enemy's true qi, the user will absorb an additional 3 points of this type of true qi from the enemy
 Latency Yin\nFinger
@@ -1664,7 +1664,7 @@ When attacking the enemy with this technique, the deeper the enemy is poisoned w
 The more chances the user consumes, the more the power of this technique will increase; when this technique is 100% powerful, for every chance the user consumes, the user will gain 3 points of random type of true qi.
 Cloud And Stream
 Inhale·Stance cost Dn
-After at least 10% of the power of this technique is exerted, the user gains 2 levels of this effect: the user needs significantly less Inhale and Stance to perform the technique
+When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the user needs significantly less Inhale and Stance to perform the technique
 Home Forgetting
 At the beginning of this technique, the happier the user is, the more the power of this technique increases; when this technique reaches 100% of its power, the range of the user's next "Break" technique increases according to the user's happiness; at the end of this technique, a buff that increases the user's mood is applied according to the power of this technique.
 Phoenix Arrival
@@ -1681,7 +1681,7 @@ When this technique exerts 100% of its power, it randomly and significantly incr
 Wudang\nLong Fist
 According to the power of this technique, it increases the power limit of all the "Nadis" techniques of the user by 30% until the end of the battle.
 Wind Chasing\nPalm
-After at least 10% of the power of this technique is exerted, the user gains 4 levels of this effect: all "Punch" and "Point" styles obtained by the user are changed to "Hold" styles
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all "Punch" and "Point" styles obtained by the user are changed to "Hold" styles
 Wudang Soft\nPalm
 When hitting the enemy with this technique, the enemy's protective gear cannot weaken the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Vitality and increases the user's Ext. and Int. Penetration
 The 8 Trigrams\nPalm
@@ -2571,7 +2571,7 @@ Offsetting direct internal injuries
 When this technique is used at 100% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy, and receive twice the number of levels of this effect depending on the number of internal damage marks the user has taken as a result: the number of levels of this effect will cancel out the direct internal damage marks the enemy has inflicted on the user.
 Reverse - Emotions
 Lowering the enemy's Focus
-After at least 10% of the power of this technique is exerted, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's guard heart will be reduced when the user attacks the enemy
+When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's guard heart will be reduced when the user attacks the enemy
 Reverse - Crystal Tune
 When you start to perform this technique, if the enemy does not have a Breath injury, the power of this technique will be greatly increased; when this technique is at 100% power, 1 Breath injury will be added to the enemy, and if the enemy does not have a Breath injury, 1 additional Breath injury will be added to the enemy
 Reverse - Heart-Breaking
@@ -2624,7 +2624,7 @@ When this technique is used, all the closed points of the enemy will be broken, 
 Reverse - The Great Moon\nFinger
 If you use this technique to inflict at least 3 internal injury marks on an enemy at once, the enemy loses all "Aegis" True Qi and a debuff is applied to the enemy that reduces all True Qi increases.
 Reverse - Taoism-Trinity\nFinger
-After at least 10% of the power of this technique is exerted, the user gains 2 levels of this effect: the enemy cannot obtain "point" style
+When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain "point" style
 Reverse - Hook Clamp
 Breakage increases internal injuries
 When this technique is used at ten percent of its power, the enemy's attacked part of the breach will additionally increase the degree of direct internal injuries suffered by the enemy
@@ -3188,7 +3188,7 @@ Breach re-emerges
 The level of the breach caused by this technique to the enemy will not be reduced for any reason; after this technique has been used with 100% of its power, the user gains 7 levels of this effect: whenever the enemy eliminates a breach of level less than 4, the breach will reappear and the level of the breach will increase by 1 level, and it will not trigger any effect caused by the breach
 Reverse - Swordsmanship\nof Flower Brush
 Reduce enemy's dodge
-After at least 10% of the power of this technique is exerted, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's dodge is reduced when the user attacks the enemy
+When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's dodge is reduced when the user attacks the enemy
 Reverse - Swordsmanship\nof Hidden Swordmaster
 When this technique is used with at least 10% of its power, the user gains 2 "Stab" styles
 Reverse - Swordsmanship\nof White Eyebrow
