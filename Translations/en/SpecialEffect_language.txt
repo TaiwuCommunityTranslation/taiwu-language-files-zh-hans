@@ -1316,7 +1316,7 @@ When attacking an enemy with this technique: the armor of the user is greatly in
 Soul Heat Palm
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Aegis" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Vajra\nAnnihilation Hands
-If the user has at least 2 "Punch" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Punch" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+When this technique is used with at least 10% of its power, If the user has at least 2 "Punch" styles, the user will only consume 2 "Punch" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 4 Divine Palm
 When this technique exerts at least 10% of its power, it accumulates 1 layer of effect, up to a maximum of 4 layers: accumulate 1 layer, the power of this technique increases significantly; accumulate 2 layers, the maximum attack distance of this technique increases; accumulate 3 layers, the external injury caused by this technique will not be reduced for any reason; accumulate 4 layers, at the end of the performance of this technique, all the stances consumed by the performance of this technique are restored
 The Great Sun\nBuddha Palm
