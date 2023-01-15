@@ -872,7 +872,7 @@ Worsen E·Injuries
 When you start to perform this technique, the more painful the enemy's mood is, the more the power of this technique increases; When this technique is used at 100% of its power, it randomly worsens the enemy's injury according to the enemy's painful mood; at the end of this technique, according to the power of this technique, a special debuff which reduces mood is applied to the enemy
 Yellow Bamboo
 Auto Cast
-When this technique exerts ten percent of its power, the user immediately performs another "Magic Sound" technique of a rank related to the number of "None" styles possessed by the enemy without consumption to attack the enemy, and if the technique immediately performed again is still this technique, the Orthodox practice effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique increases significantly"
+When this technique is used at 100% of its power, the user immediately performs another "Magic Sound" technique of a rank related to the number of "None" styles possessed by the enemy without consumption to attack the enemy, and if the technique immediately performed again is still this technique, the Orthodox practice effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique increases significantly"
 When you start performing this technique, the power of this technique increases dramatically
 Xiang Lady Tears
 Reduce the power of techniques
@@ -1200,17 +1200,17 @@ Reduced treatment effect
 When this technique is at 100% of its power, it will plant the Premature Sinister Blood Gu on the enemy; Premature Sinister Blood Gu will significantly reduce the host's "Healing" and "Detox" effects in battle; after each attack, the Premature Sinister Blood Gu needs to consume 3 Gu charges from the host or the opponent, otherwise this Gu will die
 Internal Demon\nDescent
 Additional loss of true qi
-When this technique exerts ten percent of its power, it will plant a heart demon Gu for the enemy; the heart demon Gu will reduce the host's true qi by 1 point when the host's true qi decreases, and will cause the opponent to obtain the Gu according to the host's original reduced true qi amount
+When this technique is used at 100% of its power, it will plant a heart demon Gu for the enemy; the heart demon Gu will reduce the host's true qi by 1 point when the host's true qi decreases, and will cause the opponent to obtain the Gu according to the host's original reduced true qi amount
 9 Yin Zombie Gu
 Worsening of random wounds
 When this technique is at 100% of its power, it plants a Premature Zombie Gu for the enemy; Premature Zombie Gu will worsen the degree of injury of 1 different random injury of the host by 1 level after the host is directly injured; Premature Zombie Gu needs to consume 7 Gu of the host or the opponent after each attack, otherwise this Gu will die
 Jade Ice\nSilkworm Gu Descent
-When this technique exerts ten percent of its power, it will plant an ice worm Gu for the enemy; the ice worm Gu will increase the degree of injury of the host from direct damage by 2 layers; the ice worm Gu will require 4 Gu of the host or the opponent to be consumed after each attack, otherwise this Gu will die
+When this technique is used at 100% of its power, it will plant an ice worm Gu for the enemy; the ice worm Gu will increase the degree of injury of the host from direct damage by 2 layers; the ice worm Gu will require 4 Gu of the host or the opponent to be consumed after each attack, otherwise this Gu will die
 King Golden\nSilkworm Insanity
 Swallow Gu
 When this technique is at its tenth power, it will plant the Golden Silkworm Gu for the enemy; the Golden Silkworm Gu will devour all the other Gu just planted by the host, and apply a lot of toxins to the host according to the Gu devoured; the Golden Silkworm Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 A Hundred\nColors Marrow Insanity
-When this technique exerts ten percent of its power, it will plant the Green Marrow Compulsion on the enemy; the Green Marrow Compulsion will continuously reduce the power of the technique performed by the host, up to 60%, according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise it will die
+When this technique is used at 100% of its power, it will plant the Green Marrow Compulsion on the enemy; the Green Marrow Compulsion will continuously reduce the power of the technique performed by the host, up to 60%, according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise it will die
 Swordsmanship\nof Green Beard
 When this technique is at least 10% of its power, the user takes away 1 "tug" from the enemy.
 Swordsmanship\nof Billhook
@@ -1618,7 +1618,7 @@ When you start to perform this technique, the more Agility the user has not cons
 Shadow Stab
 When this technique is used at 100% of its power, the enemy loses 6 points of "Quick" true qi.
 Divine Needle\nof Meditation Wisdom
-When this technique exerts ten percent of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the user increases significantly in the enemy's lost memories, lasting until the end of the battle
+When this technique is used at 100% of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the user increases significantly in the enemy's lost memories, lasting until the end of the battle
 Pure Girl's Stab
 After this technique has been used for ten percent of its power, the user gains 3 layers of this effect: whenever the user counters an enemy, the user gains 1 random available style, if the user counters an enemy successfully, the user immediately performs this technique to attack the enemy without consumption, and the power of this technique increases significantly. When performed this way, this technique has no special effects.
 Immortal\nNeedle of Golden Top
@@ -1642,7 +1642,7 @@ A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all closed acupuncture points of the enemy
 8 Moves of\nBlood Red Flower
 Life Up Power Dn
-When this technique exerts ten percent of its power: cumulative reduction in the power of this technique; cumulative increase in the maximum health of the user; cumulative increase in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will continue until the death of the user; unless the user retakes this technique, this technique will not change to Heterodox practice for any reason
+When this technique is used at 100% of its power: cumulative reduction in the power of this technique; cumulative increase in the maximum health of the user; cumulative increase in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will continue until the death of the user; unless the user retakes this technique, this technique will not change to Heterodox practice for any reason
 Needle Control
 When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Drive" styles the user has.
 5 Elements\nPinprick
@@ -1736,7 +1736,7 @@ The lower the disorder of the internal breath of the user when this technique ex
 Heavy Swipe
 When you start to perform this technique, the lower the disorder of the internal breath of the user, the more the power of this technique will increase; when this technique plays a tenth of its power, the lower the disorder of the internal breath of the user, the more the degree of direct injury caused by the user to the enemy will increase by multiple layers
 Formless Swipe
-When this technique exerts ten percent of its power, it completely eliminates the effect of the continuous reduction of the power of the technique that the user receives during the battle by three, and increases the power of this technique according to the sum of the power reduction eliminated, which lasts until the end of the battle.
+When this technique is used at 100% of its power, it completely eliminates the effect of the continuous reduction of the power of the technique that the user receives during the battle by three, and increases the power of this technique according to the sum of the power reduction eliminated, which lasts until the end of the battle.
 Yuanshan\nJump Kick
 Whenever the user chases an enemy at least 2 times with "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to Heterodox practice
 Mandarin Duck\nCombo Kick
@@ -2578,7 +2578,7 @@ Reverse - Heart-Breaking
 Reduce your mood
 At the beginning of this technique, the more painful the user's mood is, the more the power of this technique increases; When this technique is used at 100% of its power, it randomly worsens the enemy's injury according to the user's painful mood; at the end of this technique, a special state that reduces the user's mood is applied according to the number of percent of power exerted by this technique
 Reverse - Yellow Bamboo
-When this technique exerts ten percent of its power, the user immediately performs another "Magic Sound" technique of a rank related to the number of disorientation marks the enemy has received without consumption to attack the enemy, and if the technique immediately performed again is still this technique, the Heterodox effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique increases significantly"
+When this technique is used at 100% of its power, the user immediately performs another "Magic Sound" technique of a rank related to the number of disorientation marks the enemy has received without consumption to attack the enemy, and if the technique immediately performed again is still this technique, the Heterodox effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique increases significantly"
 Reverse - Xiang Lady Tears
 When you start to perform this technique, if the user has a deceased spouse, the higher the good sense of the user and the deceased spouse with the lowest good sense, the more the power of this technique will be increased, but if the good sense of the user and the deceased spouse with the lowest good sense is lower than enthusiasm, the power of this technique will be greatly reduced.
 Reverse - 3 Nights of Joy
@@ -2832,7 +2832,7 @@ Improving the effectiveness of treatment
 When this technique is at 100% of its power, the Premature Sinister Blood Gu is planted on the user; the Premature Sinister Blood Gu will greatly increase the host's "Healing" and "Detox" effects in battle; Premature Sinister Blood Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Reverse - Internal Demon\nDescent
 Additional increase of true qi
-When this technique exerts ten percent of its power, it will plant a Gu for the user; the Gu will increase the host's true qi by one point when the host's true qi increases, and will cause the host to obtain a Gu according to the host's original increased true qi amount
+When this technique is used at 100% of its power, it will plant a Gu for the user; the Gu will increase the host's true qi by one point when the host's true qi increases, and will cause the host to obtain a Gu according to the host's original increased true qi amount
 Reverse - 9 Yin Zombie Gu
 Elimination of random wounds
 When this technique is 100% powerful, it plants Premature Zombie Gu to the user; Premature Zombie Gu will reduce the degree of injury of 1 different random injury of the host by 2 levels after the host is directly injured; Premature Zombie Gu needs to consume 7 Gu of the host or the opponent after each attack, otherwise this Gu will die
@@ -2841,7 +2841,7 @@ When this technique is used at 100% of its power, it will plant an ice worm Gu o
 Reverse - King Golden\nSilkworm Insanity
 When this technique is at its tenth power, it will plant the Golden Silkworms Gu for the user; the Golden Silkworms Gu will devour all the other Gu just planted by the host, and dispel a lot of toxins for the host according to the Gu devoured; the Golden Silkworms Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 Reverse - A Hundred\nColors Marrow Insanity
-When this technique exerts ten percent of its power, it plants the Green Marrow Compulsion on the user; the Green Marrow Compulsion will continuously increase the power of the technique performed by the host, up to 60%, according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise it will die
+When this technique is used at 100% of its power, it plants the Green Marrow Compulsion on the user; the Green Marrow Compulsion will continuously increase the power of the technique performed by the host, up to 60%, according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise it will die
 Reverse - Swordsmanship\nof Green Beard
 When this technique is at least 10% of the power, the user gains 2 levels of this effect: the enemy fails to obtain the "Hack" style.
 Reverse - Swordsmanship\nof Billhook
@@ -3213,7 +3213,7 @@ When you start to perform this technique, the more Agility the user has consumed
 Reverse - Shadow Stab
 When this technique is used at 100% of its power, the user draws 3 points of "Quick" true energy from the enemy's body
 Reverse - Divine Needle\nof Meditation Wisdom
-When this technique exerts ten percent of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the enemy is greatly reduced in the enemy's lost memories, lasting until the end of the battle
+When this technique is used at 100% of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the enemy is greatly reduced in the enemy's lost memories, lasting until the end of the battle
 Reverse - Pure Girl's Stab
 After this technique has been used for ten percent of its power, the user will get 3 layers of this effect: whenever the enemy counterattacks the user, the user will get 1 random available style, if the enemy fails to counterattack the user, the user will immediately perform this technique to attack the enemy without consumption, and the power of this technique will be greatly increased, and when performed this way, this technique has no special effects.
 Reverse - Immortal\nNeedle of Golden Top
@@ -3237,7 +3237,7 @@ Reverse - A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all parts of the enemy that are broken
 Reverse - 8 Moves of\nBlood Red Flower
 Life Dn power Up
-When this technique exerts ten percent of its power: cumulative increase in the power of this technique; cumulative reduction in the maximum health of the user; cumulative reduction in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will last until the death of the user; unless the user retakes this technique, this technique will not change to Orthodox practice for any reason
+When this technique is used at 100% of its power: cumulative increase in the power of this technique; cumulative reduction in the maximum health of the user; cumulative reduction in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will last until the death of the user; unless the user retakes this technique, this technique will not change to Orthodox practice for any reason
 Reverse - Needle Control
 When this technique is used at 100% of its power, for every 3 "Drive" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
 Reverse - 5 Elements\nPinprick
@@ -3328,7 +3328,7 @@ The higher the disorder of the enemy's internal breath, the higher the number of
 Reverse - Heavy Swipe
 When you start to perform this technique, the higher the disorder of the enemy's internal breath, the more the power of this technique will increase; when this technique plays a tenth of its power, the higher the disorder of the enemy's internal breath, the more the degree of direct injury caused by the user to the enemy will increase by multiple layers
 Reverse - Formless Swipe
-When this technique exerts ten percent of its power, it completely eliminates the effect of the three enemy techniques that have been continuously enhanced during this battle, and increases the power of this technique according to the sum of the power enhancements eliminated, lasting until the end of the battle
+When this technique is used at 100% of its power, it completely eliminates the effect of the three enemy techniques that have been continuously enhanced during this battle, and increases the power of this technique according to the sum of the power enhancements eliminated, lasting until the end of the battle
 Reverse - Yuanshan\nJump Kick
 Whenever the user uses "Sword" to chase the enemy at least 2 times, if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Heterodox training to Orthodox training
 Reverse - Mandarin Duck\nCombo Kick
