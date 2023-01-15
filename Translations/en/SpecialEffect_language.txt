@@ -2981,7 +2981,7 @@ Reverse - Magical\nTreasure Tree
 When this technique is performed, if the pestle used by the user is enchanted, the higher the enchantment level, the more the power of this technique increases; when this technique is 100% powerful, the strength of all the user's debuffs is greatly reduced; when this technique is finished, the enchantment on the pestle used by the user is removed.
 Reverse - Acala Poke
 When this technique is at least 10% of its power, the Club used by the user is enhanced by "Fudo": as long as the user holds this Club, the user's movement speed is greatly increased and all direct damage to the user is greatly increased.
-Immovable King: As long as the user is holding this Club, the user's movement speed is greatly increased, and all direct damage to the user is greatly increased.
+Immovable King: As long as the user is holding 「Pestle」, the user's movement speed is greatly increased, and all direct damage to the user is also greatly increased.
 Reverse - None-Shape\nLittle Catch
 Depending on the percentage of power this technique exerts, the loss of the enemy's Qi
 Reverse - Picking Star\nMove
