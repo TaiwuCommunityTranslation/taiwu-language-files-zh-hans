@@ -1080,7 +1080,7 @@
   "LK_Building_BuildingCannotMoveTip1": "The building cannot be moved!",
   "LK_Building_BuildingCannotMoveTip2": "The building's health isn't full, it cannot be moved!",
   "LK_Building_BuildingCannotMoveTip3": "The building cannot be demolished or moved!",
-  "LK_Building_BuildingCannotMove": "Can't be moved",
+  "LK_Building_BuildingCannotMove": "Immovable",
   "LK_Building_MouseRightCancel": "Right click to cancel this selection",
   "LK_Building_Shop_Event": "Event",
   "LK_NonSectMonasticTitleSuffix_Taoist_Female": "Lion-Face Clan Disciple",
