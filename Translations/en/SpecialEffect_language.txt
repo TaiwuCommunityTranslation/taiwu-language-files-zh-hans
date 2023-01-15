@@ -869,7 +869,7 @@ Crystal Tune
 When you start to perform this technique, if the enemy does not have the "None" style, the power of this technique will be greatly increased; When this technique is used at 100% of its power, add 1 "None" style to the enemy, and if the enemy does not have the "None" style, add 1 additional "None" style to the enemy
 Heart-Breaking
 Worsen E·Injuries
-When you start to perform this technique, the more painful the enemy's mood is, the more the power of this technique increases; when this technique exerts ten percent of its power, it randomly worsens the enemy's injury according to the enemy's painful mood; at the end of this technique, according to the power of this technique, a special debuff which reduces mood is applied to the enemy
+When you start to perform this technique, the more painful the enemy's mood is, the more the power of this technique increases; When this technique is used at 100% of its power, it randomly worsens the enemy's injury according to the enemy's painful mood; at the end of this technique, according to the power of this technique, a special debuff which reduces mood is applied to the enemy
 Yellow Bamboo
 Auto Cast
 When this technique exerts ten percent of its power, the user immediately performs another "Magic Sound" technique of a rank related to the number of "None" styles possessed by the enemy without consumption to attack the enemy, and if the technique immediately performed again is still this technique, the Orthodox practice effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique increases significantly"
@@ -1004,7 +1004,7 @@ Absorbing enemy toxins
 Applying additional toxins
 When this technique is at 100% power, it absorbs the deepest non-tenacious toxin from the enemy and changes the poison mark of the enemy that disappeared due to the toxin being absorbed into a wound mark at a random location; after this technique is at 100% power, the user gains 5 levels of this effect: whenever the user hits the enemy, the toxin absorbed by this technique is applied separately to the enemy
 Divine Flood\nDragon Palm
-When you start to perform this technique, the more the enemy's wounds are marked, the more the power of this technique will increase; the wounds caused to the enemy when this technique exerts ten percent of its power will change into old wounds that are more difficult to recover from
+When you start to perform this technique, the more the enemy's wounds are marked, the more the power of this technique will increase; the wounds caused to the enemy When this technique is used at 100% of its power will change into old wounds that are more difficult to recover from
 Fallen Hands\nof Mt.Chai
 E·Move Spd Dn
 Based on the power of this technique, apply a debuff to the enemy that reduces their movement speed
@@ -1453,7 +1453,7 @@ Lock Throat
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's waist and abdomen, the power of this technique increases and the progress of its execution increases at the beginning of its execution, and this effect accumulates up to 2 levels; when this technique exerts 100% of its power, it significantly depletes the enemy's Stance
 Separation of\nBone And Muscle
 Shoulder injured
-When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts ten percent of its power, the enemy's arm with external injury will be "shoulder and arm damaged"; "shoulder and arm damaged The "shoulder arm injury" cannot be more than 6, and the external injury of the externally injured arm reaches 4 levels, then the arm will be regarded as disabled, and the external injury will not disappear until the externally injured person has healed all the external injury of the arm.
+When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; When this technique is used at 100% of its power, the enemy's arm with external injury will be "shoulder and arm damaged"; "shoulder and arm damaged The "shoulder arm injury" cannot be more than 6, and the external injury of the externally injured arm reaches 4 levels, then the arm will be regarded as disabled, and the external injury will not disappear until the externally injured person has healed all the external injury of the arm.
 Low-Body-Break\nFingers
 Waist Injured
 When you start to perform this technique, the more parts of the enemy that are "wounded", the more the power of this technique increases; when this technique is at its tenth power, it causes the enemy's waist and abdomen to be "wounded and destroyed"; the "wounded and destroyed waist and abdomen The "waist and abdomen injury" can not exceed 60%, and the external injury of the externally injured person's waist and abdomen reaches 4 layers, then the waist and abdomen is considered to be destroyed, until the externally injured person has healed all the external injury of the waist and abdomen, then this serious injury will disappear
@@ -1581,7 +1581,7 @@ Split Flower
 Resolve to Accu
 When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the user's attack on the enemy are lower than the user's Diversion, Parry, or Evasion, the user's corresponding resolution replaces the hit.
 Lighten Finger
-The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user will knock back the enemy by 4 distance, and if the distance between the enemy and the user after being knocked back is not greater than 8, the user will deal the same damage to the enemy once again
+The attack range of this technique is always the maximum; When this technique is used at 100% of its power, the user will knock back the enemy by 4 distance, and if the distance between the enemy and the user after being knocked back is not greater than 8, the user will deal the same damage to the enemy once again
 A Thousand\nHands
 Attacking weak areas
 This technique cannot be "blocked" or "interrupted"; when this technique exerts 100% of its power, it will automatically hit the part of the enemy with the weakest protection against external injury
@@ -1612,7 +1612,7 @@ Stab of Lost Soul
 Improving counterattack hits
 After this technique has been used for ten percent of its power, the user gains 2 levels of this effect: the user's hit rate when countering enemies is greatly increased.
 Beauty Stab
-If the distance between us and the enemy is less than the enemy's maximum attack distance, the user will immediately retreat to the enemy's maximum attack distance without consumption when this technique exerts ten percent of its power.
+If the distance between us and the enemy is less than the enemy's maximum attack distance, the user will immediately retreat to the enemy's maximum attack distance without consumption When this technique is used at 100% of its power.
 Stab of\nDexterity Snake
 When you start to perform this technique, the more Agility the user has not consumed, the more the power of this technique will increase
 Shadow Stab
@@ -1693,7 +1693,7 @@ When this technique is used at 100% of its power, the enemy's 3 "Metal" techniqu
 Wudang\nPure Yang Fist
 When an enemy performs a "Break" technique with a higher percentage of internal energy, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of internal energy when this technique is at 100% of its power.
 Purple Yang\nUpright Fist
-This technique cannot be reflected; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and when this technique exerts ten percent of its power, the internal breath disorder of the user will be greatly reduced.
+This technique cannot be reflected; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and When this technique is used at 100% of its power, the internal breath disorder of the user will be greatly reduced.
 Taichi Fist
 Suppressing enemy attacks
 After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: when the user is attacked by an enemy's technique, if the enemy's Internal Penetration is lower than the user's External Defense, the user's External Defense will additionally add the enemy's External Penetration; if the enemy's External Penetration is lower than the user's Internal Defense, the user's Internal Defense will additionally add the enemy's Internal Penetration; after this technique is performed, it will change from Orthodox practice to Heterodox practice, and the power of this technique will accumulate increases until the end of the battle.
@@ -2576,7 +2576,7 @@ Reverse - Crystal Tune
 When you start to perform this technique, if the enemy does not have a Breath injury, the power of this technique will be greatly increased; When this technique is used at 100% of its power, 1 Breath injury will be added to the enemy, and if the enemy does not have a Breath injury, 1 additional Breath injury will be added to the enemy
 Reverse - Heart-Breaking
 Reduce your mood
-At the beginning of this technique, the more painful the user's mood is, the more the power of this technique increases; when this technique exerts ten percent of its power, it randomly worsens the enemy's injury according to the user's painful mood; at the end of this technique, a special state that reduces the user's mood is applied according to the number of percent of power exerted by this technique
+At the beginning of this technique, the more painful the user's mood is, the more the power of this technique increases; When this technique is used at 100% of its power, it randomly worsens the enemy's injury according to the user's painful mood; at the end of this technique, a special state that reduces the user's mood is applied according to the number of percent of power exerted by this technique
 Reverse - Yellow Bamboo
 When this technique exerts ten percent of its power, the user immediately performs another "Magic Sound" technique of a rank related to the number of disorientation marks the enemy has received without consumption to attack the enemy, and if the technique immediately performed again is still this technique, the Heterodox effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique increases significantly"
 Reverse - Xiang Lady Tears
@@ -2629,7 +2629,7 @@ Reverse - Hook Clamp
 Breakage increases internal injuries
 When this technique is used at ten percent of its power, the enemy's attacked part of the breach will additionally increase the degree of direct internal injuries suffered by the enemy
 Reverse - 5 Mantra\n5 Phases
-When attacking the enemy with this technique, the more the calmness, intelligence, enthusiasm, bravery and perseverance of the user is higher than that of the enemy, the more the enemy's resolution will be reduced; when this technique exerts ten percent of its power, if at least three of the calmness, intelligence, enthusiasm, bravery and perseverance of the user are higher than that of the enemy, 2 marks of Breath injury will be applied to the enemy.
+When attacking the enemy with this technique, the more the calmness, intelligence, enthusiasm, bravery and perseverance of the user is higher than that of the enemy, the more the enemy's resolution will be reduced; When this technique is used at 100% of its power, if at least three of the calmness, intelligence, enthusiasm, bravery and perseverance of the user are higher than that of the enemy, 2 marks of Breath injury will be applied to the enemy.
 Reverse - Pivot Move
 When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Break" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Break" technique whose power has been reduced fails to be used for 10% of its power.
 Reverse - Clutch Finger
@@ -2689,7 +2689,7 @@ Reverse - Divine Drug\nPalm
 Absorb your own toxins
 When this technique exerts 100% of its power, it will absorb the toxin of the deepest non-tenacious poison that the user has been hit by, and change the poison mark of the user that disappeared due to the toxin being absorbed into a wound mark of a random part; after this technique exerts 100% of its power, the user gains 5 levels of this effect: whenever the user hits an enemy, the toxin absorbed by this technique will be applied separately to the enemy.
 Reverse - Divine Flood\nDragon Palm
-When you start to perform this technique, the more wound marks the user has, the more the power of this technique will increase; the wounds caused to the enemy when this technique exerts ten percent of its power will change into old wounds that are more difficult to recover from
+When you start to perform this technique, the more wound marks the user has, the more the power of this technique will increase; the wounds caused to the enemy When this technique is used at 100% of its power will change into old wounds that are more difficult to recover from
 Reverse - Fallen Hands\nof Mt.Chai
 E·ATK Spd Dn
 Apply an Attack Speed debuff to the enemy based on the power of this technique
@@ -2866,7 +2866,7 @@ Reverse - 5 Divine Whip
 After this technique has been used for 100% of its power, the user gains 2 levels of this effect: the "Whip" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Whip" technique is greatly increased.
 Reverse - Bone-Breaking\nWhip
 Reverse - Dreadlord's\nMetallic Whip
-When attacking the enemy with this technique: the armor breaking of the user is greatly increased; when this technique exerts ten percent of its power, it eliminates all the enemy's Footwork and Stamina and brings the enemy closer by 6 distance
+When attacking the enemy with this technique: the armor breaking of the user is greatly increased; When this technique is used at 100% of its power, it eliminates all the enemy's Footwork and Stamina and brings the enemy closer by 6 distance
 Reverse - Jade Breaking
 Stamina instead of lifting
 The strength of the user's feet can be used up in place of Qi when Qi is not enough to perform this technique, so the user can move and attack with weapons during the performance of this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique increases.
@@ -3063,7 +3063,7 @@ Shoulder pain
 When you start to perform this technique, the more "severe pain" the enemy has, the more the power of this technique will increase; when this technique exerts 100% of its power, the enemy's arm with internal injuries will have "severe pain in the shoulder and arm"; "severe pain in the shoulder and arm The "shoulder and arm pain" can not exceed 6, and the internal injuries of the injured arm reaches 4 levels, then the arm is considered to be crippled, until the injured person has healed all the internal injuries of the arm, then the serious injury will disappear.
 Reverse - Low-Body-Break\nFingers
 Waist pain
-When you start to perform this technique, the more "severe pain" the enemy has, the more the power of this technique will be increased; when this technique exerts ten percent of its power, it causes the enemy to have internal wounds in the waist and abdomen "severe pain in the waist and abdomen"; "severe pain in the waist and abdomen The "severe pain in the waist and abdomen" can not exceed 60%, and the internal injuries of the externally injured person's waist and abdomen reach 4 levels, which is considered as a crippled waist and abdomen, until the externally injured person has healed all the internal injuries of the waist and abdomen, this serious injury will disappear
+When you start to perform this technique, the more "severe pain" the enemy has, the more the power of this technique will be increased; When this technique is used at 100% of its power, it causes the enemy to have internal wounds in the waist and abdomen "severe pain in the waist and abdomen"; "severe pain in the waist and abdomen The "severe pain in the waist and abdomen" can not exceed 60%, and the internal injuries of the externally injured person's waist and abdomen reach 4 levels, which is considered as a crippled waist and abdomen, until the externally injured person has healed all the internal injuries of the waist and abdomen, this serious injury will disappear
 Reverse - Poison Dragon\nClaw
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Hade Finger
@@ -3178,7 +3178,7 @@ When this technique is used at 100% of its power, for every 3 "Hold" styles the 
 Reverse - Split Flower
 When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's Diversion, Parry, and Evasion, the enemy's corresponding resolution will replace the hit.
 Reverse - Lighten Finger
-The attack range of this technique is always the maximum; when this technique exerts ten percent of its power, the user brings the enemy closer by 4 distance, and if the distance between the enemy and the user after being brought closer is not less than 4, the user deals the same damage to the enemy once again
+The attack range of this technique is always the maximum; When this technique is used at 100% of its power, the user brings the enemy closer by 4 distance, and if the distance between the enemy and the user after being brought closer is not less than 4, the user deals the same damage to the enemy once again
 Reverse - A Thousand\nHands
 This technique cannot be "blocked" or "interrupted"; when this technique exerts 100% of its power, it will automatically hit the part of the enemy with the weakest protection against direct internal injuries
 Reverse - The Great\nFinger of Mt.Light
@@ -3207,7 +3207,7 @@ Reverse - Stab of Lost Soul
 Counterattack hit by surrendering the enemy
 After this technique has been used for ten percent of its power, the user gains 2 levels of this effect: the hit rate of the enemy's counterattack on the user is greatly reduced.
 Reverse - Beauty Stab
-If the distance between us and the enemy is greater than the enemy's minimum attack distance, the user will immediately advance to the enemy's minimum attack distance without consumption when this technique exerts ten percent of its power.
+If the distance between us and the enemy is greater than the enemy's minimum attack distance, the user will immediately advance to the enemy's minimum attack distance without consumption When this technique is used at 100% of its power.
 Reverse - Stab of\nDexterity Snake
 When you start to perform this technique, the more Agility the user has consumed, the more the power of this technique will increase
 Reverse - Shadow Stab
@@ -3266,7 +3266,7 @@ Reverse - Phoenix Arrival
 Reduce BRE and FOC
 When you start to perform this technique, if the user's Fortunate Fate is higher than the enemy's Fortunate Fate, the user's Fortunate Fate will be added as power to this technique; and if the user's Aptitude Fate is also higher than the enemy's Aptitude Fate, it will apply a debuff to the enemy that lowers the Breath and Focus. 
 Reverse - Imperial\nConcubine
-When you start to perform this technique, all the enemy's true qi above the initial value will be lost by 1 point; when this technique exerts ten percent of its power, all the enemy's true qi above the initial value will be lost again by a maximum of 2 points
+When you start to perform this technique, all the enemy's true qi above the initial value will be lost by 1 point; When this technique is used at 100% of its power, all the enemy's true qi above the initial value will be lost again by a maximum of 2 points
 Reverse - Flowers Sigh
 This technique removes one of the enemy's gain states of the highest strength when it is used at ten percent of its power, and removes a large number of disorientation marks for the user depending on the strength of the gain state removed.
 Reverse - Burydeer Orchid
@@ -3289,7 +3289,7 @@ When this technique is used at 100% of its power, the power of the enemy's 3 "Me
 Reverse - Wudang\nPure Yang Fist
 When an enemy performs a "Break" technique with a higher percentage of external power, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of external power when this technique is at 100% of its power.
 Reverse - Purple Yang\nUpright Fist
-This technique can't be reflected; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and when this technique exerts ten percent of its power, it will greatly increase the enemy's internal breath disorder
+This technique can't be reflected; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and When this technique is used at 100% of its power, it will greatly increase the enemy's internal breath disorder
 Reverse - Taichi Fist
 Suppressing the enemy's defense
 After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: when an enemy is attacked by the user's technique, if the enemy's Internal Defense is lower than the user's External Penetration, the user's External Penetration will additionally add the enemy's External Defense; if the enemy's External Defense is lower than the user's External Penetration, the user's External Penetration will additionally add the enemy's Internal Defense; after this technique is performed, it will change from Heterodox practice to Orthodox practice, and the power of this technique will accumulate increases until the end of the battle.
