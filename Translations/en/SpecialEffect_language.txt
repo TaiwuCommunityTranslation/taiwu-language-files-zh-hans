@@ -1741,7 +1741,7 @@ Yuanshan\nJump Kick
 Whenever the user chases an enemy at least 2 times with "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to Heterodox practice
 Mandarin Duck\nCombo Kick
 Stance Cost Dn
-After this technique exerts at least 10% of its power, the Stance required to perform this technique is reduced by up to 90%, lasting until the end of the battle
+When this technique is used with at least 10% of its power, the Stance required to perform this technique is reduced by up to 90%, lasting until the end of the battle
 Tiger Tail
 At the beginning of the battle, the user gains 3 levels of this effect: when an enemy attacks the user from a position greater than the user's maximum attack distance, the attack range of this technique is greatly increased, and the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress; when the active performance of this technique is performed and the power of the technique is 100%, this effect regains 1 level
 8 Steps of\nSquared Up
@@ -3370,7 +3370,7 @@ Reverse - Blade of\nTrigrams And Elements
 When this technique is used with at least 10% of its power, if the weapon used by the user is a "Sword", the user will regain 2 "attack tokens".
 Reverse - Blade of\n6 Directions
 Ban E·Weapon
-After this technique exerts at least 10% of its power, it increases the switching interval of 1 unused weapon of the enemy, making it temporarily unable to be switched for use
+When this technique is used with at least 10% of its power, it increases the switching interval of 1 unused weapon of the enemy, making it temporarily unable to be switched for use
 Reverse - Blade of\nTiger Step Extremely Far
 Whenever the weapon used by the user switches from a non-sword to a sword, the power of this technique increases dramatically and lasts until the user performs this technique.
 Reverse - Golden Blade\nof The Ultra One
