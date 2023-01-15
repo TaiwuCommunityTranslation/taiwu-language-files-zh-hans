@@ -1362,7 +1362,7 @@ Magical\nTreasure Tree
 When this technique is performed, if the pestle used by the user is enchanted, the higher the enchantment level, the more the power of this technique increases. When this technique is 100% successful, the strength of all the user's buffs is greatly increased; when this technique is finished, the enchantment on the pestle used by the user is removed.
 Acala Poke
 When this technique is used with at least 10% of its power, the Club used by the user is augmented by "Fudo": as long as the user is holding this Club, the user's movement speed is greatly reduced and all direct damage to the user is greatly reduced.
-Immovable King: As long as the user is holding this Club, the user's movement speed is greatly reduced, and all direct damage to the user is greatly reduced.
+Immovable King: As long as the user is holding 「Pestle」, the user's movement speed is greatly reduced, and all direct damage to the user is greatly reduced.
 None-Shape\nLittle Catch
 According to the power of this technique to play into the number of attrition of the enemy's frame
 Picking Star\nMove
