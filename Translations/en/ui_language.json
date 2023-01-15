@@ -503,7 +503,7 @@
   "LK_CombatSkill_Property_Title": "【Skill Attributes】",
   "LK_Attack_Penetrate": "Attack",
   "LK_AtkAcupoint": "Acupoint",
-  "LK_AtkAcupoint_Tips": "If used at 100% of power will close enemy's accupoint.",
+  "LK_AtkAcupoint_Tips": "At 100% power will close enemy's accupoint.",
   "LK_CombatSkill_Power_Count": "Cheng",
   "LK_CombatSkill_Cast_Effect_Title": "【Cast Effect】",
   "LK_CombatSkill_Cast_Effect_Duration": "Duration",
