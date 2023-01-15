@@ -811,7 +811,7 @@ The injury becomes an old injury
 Wounds inflicted by this technique on the enemy's arm will change to old wounds that are more difficult to recover from
 Warlord's\nPull Bow
 location DMG up
-When this technique is at its full power, the damage caused by the user to either arm of the enemy will be applied to both the left and right arm of the enemy.
+When this technique is used at 100% of its power, the damage caused by the user to either arm of the enemy will be applied to both the left and right arm of the enemy.
 Cloud Mania Style
 After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: the user can advance up to 4 distances while performing the "Destroy" technique, and the further the user advances, the more the attack range increases; if the next technique performed is still this technique, the power of this technique increases significantly
 Great Divine\nPalm
