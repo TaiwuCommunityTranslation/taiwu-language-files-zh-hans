@@ -1355,7 +1355,7 @@
   "LK_Xiangshu_Infecting_Tips": "You have already appeared in a dangerous state of the phase pivot into evil! <color=#red> If your mood decreases again, you are in danger of being completely controlled by the Sagittarius and losing your mind! </color> ",
   "LK_Xiangshu_Infected": "Possessed by XiangShu",
   "LK_Xiangshu_Infected_Tips": " <color=#red> The Phase Pivot will soon take over your entire mind and you are beyond saving! </color>  <color=#E3C66DFF> Please prepare \"your\" next successor as soon as possible! </color> ",
-  "LK_Game_Time": "{0}Year{1}Month  {2}{3}",
+  "LK_Game_Time": "Yr.{0} Mnth.{1}  {2}{3}",
   "LK_Season_0": "Spring",
   "LK_Season_1": "Summer",
   "LK_Season_2": "Autumn",
