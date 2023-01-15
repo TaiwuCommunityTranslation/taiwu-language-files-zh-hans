@@ -1018,7 +1018,7 @@ When you start to perform this technique, the toxin applied by the user to the e
 Flood Dragon's\nIron Tentacle
 No Harm Hands
 Eliminate the memory of the enemy
-When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memory of the battle; the enemy cannot attack with weapons, cannot perform techniques that require Stance consumption, until the enemy is attacked in any way
+When this technique is used at 100% of its power, if the user hits the enemy's head and neck: the enemy loses all memory of the battle; the enemy cannot attack with weapons, cannot perform techniques that require Stance consumption, until the enemy is attacked in any way
 Conversely\nBeating As Rocking Sky
 Attacks are not defended
 If the enemy has no memory of this technique when you start to perform it: the enemy's body protection is halved; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique, and this technique can cause an additional 1 critical hit mark after it has exerted at least 10% of its power
@@ -1208,7 +1208,7 @@ Jade Ice\nSilkworm Gu Descent
 When this technique is used at 100% of its power, it will plant an ice worm Gu for the enemy; the ice worm Gu will increase the degree of injury of the host from direct damage by 2 layers; the ice worm Gu will require 4 Gu of the host or the opponent to be consumed after each attack, otherwise this Gu will die
 King Golden\nSilkworm Insanity
 Swallow Gu
-When this technique is at its tenth power, it will plant the Golden Silkworm Gu for the enemy; the Golden Silkworm Gu will devour all the other Gu just planted by the host, and apply a lot of toxins to the host according to the Gu devoured; the Golden Silkworm Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is used at 100% of its power, it will plant the Golden Silkworm Gu for the enemy; the Golden Silkworm Gu will devour all the other Gu just planted by the host, and apply a lot of toxins to the host according to the Gu devoured; the Golden Silkworm Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 A Hundred\nColors Marrow Insanity
 When this technique is used at 100% of its power, it will plant the Green Marrow Compulsion on the enemy; the Green Marrow Compulsion will continuously reduce the power of the technique performed by the host, up to 60%, according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise it will die
 Swordsmanship\nof Green Beard
@@ -2525,7 +2525,7 @@ When attacking the enemy with this technique: the armor of the user increases si
 Reverse - Gold Palm of\nLion Phase
 This technique increases the direct damage dealt to the enemy's arm by 3 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Warlord's\nPull Bow
-When this technique is at its tenth power, the damage caused by the user to either leg and foot of the enemy will be applied to both the left and right legs of the enemy.
+When this technique is used at 100% of its power, the damage caused by the user to either leg and foot of the enemy will be applied to both the left and right legs of the enemy.
 Reverse -  Cloud Frenzy Style
 After this technique has reached 100% of its power, the user gains 2 levels of this effect: the user can retreat up to 4 distances while performing the "Destroy" technique, the further the user retreats, the more the attack range increases; if the next technique performed is still this technique, the power of this technique increases significantly
 Reverse - Great Divine\nPalm
@@ -2701,7 +2701,7 @@ Reverse - Jade Cicada\nFinger
 When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's poison, Cryotoxin, and phantom poison, and the power of this technique will be greatly increased if the phantom poison is still applied to the enemy after the change.
 Reverse - Flood Dragon's\nIron Tentacle
 Reverse - No Harm Hands
-When this technique is at its tenth power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require qi, until the enemy is attacked in any way
+When this technique is used at 100% of its power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require qi, until the enemy is attacked in any way
 Reverse - Conversely\nBeating As Rocking Sky
 If the enemy has no memory of this technique when you start to perform this technique: the enemy's Internal Defense is reduced by half; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique, and this technique can inflict an additional 1 critical hit mark after it has exerted at least 10% of its power
 Reverse - One Step Turn
@@ -2839,7 +2839,7 @@ When this technique is 100% powerful, it plants Premature Zombie Gu to the user;
 Reverse - Jade Ice\nSilkworm Gu Descent
 When this technique is used at 100% of its power, it will plant an ice worm Gu on the user; the ice worm Gu will reduce the degree of direct damage to the host by 2 levels; the ice worm Gu will require 4 Gu from the host or the opponent to be consumed after each attack, otherwise this Gu will die
 Reverse - King Golden\nSilkworm Insanity
-When this technique is at its tenth power, it will plant the Golden Silkworms Gu for the user; the Golden Silkworms Gu will devour all the other Gu just planted by the host, and dispel a lot of toxins for the host according to the Gu devoured; the Golden Silkworms Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
+When this technique is used at 100% of its power, it will plant the Golden Silkworms Gu for the user; the Golden Silkworms Gu will devour all the other Gu just planted by the host, and dispel a lot of toxins for the host according to the Gu devoured; the Golden Silkworms Gu needs to consume 8 Gu of the host or the opponent after each attack, otherwise this Gu will die
 Reverse - A Hundred\nColors Marrow Insanity
 When this technique is used at 100% of its power, it plants the Green Marrow Compulsion on the user; the Green Marrow Compulsion will continuously increase the power of the technique performed by the host, up to 60%, according to the number of compulsions of the host and the opponent; the Green Marrow Compulsion needs to consume 4 compulsions of the host or the opponent after each attack, otherwise it will die
 Reverse - Swordsmanship\nof Green Beard
