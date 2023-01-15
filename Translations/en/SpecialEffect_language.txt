@@ -861,7 +861,7 @@ When this technique is subjected to the enemy's reflect, the durability of the w
 Overlord Spear\nof Dragon
 Attack enemy companions
 Offsetting external injury
-When this technique is used at its full power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of external injury the user has taken as a result: the number of layers of this effect will offset the external injury marks the enemy has inflicted on the user.
+When this technique is used at 100% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of external injury the user has taken as a result: the number of layers of this effect will offset the external injury marks the enemy has inflicted on the user.
 Emotions
 Improve your own motivation
 When this technique is used with at least 10% of its power, the user gains 10 levels of this effect: the fewer the remaining levels of this effect, the more the user's heartbeat will increase when the user attacks the enemy
