@@ -927,7 +927,7 @@ Taoism-Trinity\nFinger
 When this technique is at least 10% powerful, the user takes 1 "point" from the enemy.
 Hook Clamp
 Breakage increases external injury
-When this technique is used at ten percent of its power, the enemy's attacked part of the breach will additionally increase the degree of external injury to the enemy
+When this technique is used at 100% of its power, the enemy's attacked part of the breach will additionally increase the degree of external injury to the enemy
 5 Mantra\n5 Phases
 When attacking an enemy with this technique, the more of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, the more the user's hits will increase; when this technique is at least 100% more powerful than the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, at least 3 of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, 2 "None" will be applied to the enemy.
 Pivot Move
@@ -1055,7 +1055,7 @@ When this technique is used with at least 10% of its power, the user gains 4 lev
 After this technique has reached 100% of its power, the user gains 9 levels of this effect: the damage dealt by the enemy's "Break" technique is greatly increased, but there is a high chance that it will be "interrupted" when it reaches 90% of its progress.
 Black Water\nPoison
 Deal Extra Dmg
-When this technique is used at ten percent of its power, the more the enemy is marked with poison, the more external injury are added to random parts of the enemy
+When this technique is used at 100% of its power, the more the enemy is marked with poison, the more external injury are added to random parts of the enemy
 Nippy Fragrant\nof Hundreds Evil
 The poison applied to the enemy by this technique will change to a more difficult to dispel stubborn poison
 Flood Dragon's\nBlood
@@ -1181,7 +1181,7 @@ Binding Enemy's technique
 Exemption from exertion
 After this technique has been used for 100% of its power: randomly select one of the enemy's most powerful "Break" techniques; when the user starts to perform this technique, the power of this technique increases by the same amount as the power of the selected technique; whenever the enemy performs the selected technique, the user can also perform this technique from 50% of the performance progress without consumption
 Poison Palm\nof Red Toad
-When this technique is used at ten percent of its power, the more Pyrotoxin markings the enemy has, the more external injuries are added to random parts of the enemy
+When this technique is used at 100% of its power, the more Pyrotoxin markings the enemy has, the more external injuries are added to random parts of the enemy
 4 Colors Palm
 The Necrotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Soul Peeling\nHands
@@ -1191,7 +1191,7 @@ When this technique is at least 10% powerful, the more external injury on the at
 Red-eyed\nGu Descent
 Plant Pre Gu
 Reduced attack hit
-When this technique is used at ten percent of its power, it will plant a Premature Red-eyed Gu on the enemy; the Premature Red-eyed Gu will make the host's chance of hitting the enemy greatly reduced; the Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is used at 100% of its power, it will plant a Premature Red-eyed Gu on the enemy; the Premature Red-eyed Gu will make the host's chance of hitting the enemy greatly reduced; the Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Chi Demon\nGu Descent
 Adding a disorientation marker
 When this technique is at 100% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
@@ -1478,7 +1478,7 @@ If the user's movement speed is higher than the enemy's, the power of this techn
 Walk And Kill
 The further the user advances, the more the power of this technique increases. For every distance the user advances, he/she gains 2 points of "Break" true qi.
 Great Yin-Wind\nKick
-When this technique is used at ten percent of its power, the more poisonous marks the enemy has, the more internal injury marks are added to random parts of the enemy
+When this technique is used at 100% of its power, the more poisonous marks the enemy has, the more internal injury marks are added to random parts of the enemy
 Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements within the field of view of the user that can transform the user's internal five elements into buried ones, the more the power of this technique will be increased
 Blood Shadow\nKick
@@ -1639,7 +1639,7 @@ When you start to perform this technique, the deeper the enemy is poisoned with 
 Flower Spirit\nMoon Finger
 When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Fire", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 A Hundred\nFlower Fight
-When this technique is used at ten percent of its power, 1 wound mark is added to all closed acupuncture points of the enemy
+When this technique is used at 100% of its power, 1 wound mark is added to all closed acupuncture points of the enemy
 8 Moves of\nBlood Red Flower
 Life Up Power Dn
 When this technique is used at 100% of its power: cumulative reduction in the power of this technique; cumulative increase in the maximum health of the user; cumulative increase in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will continue until the death of the user; unless the user retakes this technique, this technique will not change to Heterodox practice for any reason
@@ -2627,7 +2627,7 @@ Reverse - Taoism-Trinity\nFinger
 When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain "point" style
 Reverse - Hook Clamp
 Breakage increases internal injuries
-When this technique is used at ten percent of its power, the enemy's attacked part of the breach will additionally increase the degree of direct internal injuries suffered by the enemy
+When this technique is used at 100% of its power, the enemy's attacked part of the breach will additionally increase the degree of direct internal injuries suffered by the enemy
 Reverse - 5 Mantra\n5 Phases
 When attacking the enemy with this technique, the more the calmness, intelligence, enthusiasm, bravery and perseverance of the user is higher than that of the enemy, the more the enemy's resolution will be reduced; When this technique is used at 100% of its power, if at least three of the calmness, intelligence, enthusiasm, bravery and perseverance of the user are higher than that of the enemy, 2 marks of Breath injury will be applied to the enemy.
 Reverse - Pivot Move
@@ -2824,7 +2824,7 @@ When this technique is at least 10% powerful, the more internal injury marks on 
 Reverse - Red-eyed\nGu Descent
 Plant Pre Gu
 Increase attack hit
-When this technique is used at ten percent of its power, it will plant a Premature Red-eyed Gu on the user; the Premature Red-eyed Gu will increase the host's chance of hitting the enemy significantly; the Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise, this Gu will die
+When this technique is used at 100% of its power, it will plant a Premature Red-eyed Gu on the user; the Premature Red-eyed Gu will increase the host's chance of hitting the enemy significantly; the Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise, this Gu will die
 Reverse - Chi Demon\nGu Descent
 When this technique is 100% powerful, it will plant a Chi Mimic Gu on the user; the Chi Mimic Gu will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Reverse - Sinister Blood\nGu Descent
@@ -3234,7 +3234,7 @@ When you start to perform this technique, the deeper the illusionary poison the 
 Reverse - Flower Spirit\nMoon Finger
 If the enemy's internal energy attribute is "Fire" When this technique is used at 100% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
 Reverse - A Hundred\nFlower Fight
-When this technique is used at ten percent of its power, 1 wound mark is added to all parts of the enemy that are broken
+When this technique is used at 100% of its power, 1 wound mark is added to all parts of the enemy that are broken
 Reverse - 8 Moves of\nBlood Red Flower
 Life Dn power Up
 When this technique is used at 100% of its power: cumulative increase in the power of this technique; cumulative reduction in the maximum health of the user; cumulative reduction in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will last until the death of the user; unless the user retakes this technique, this technique will not change to Orthodox practice for any reason
