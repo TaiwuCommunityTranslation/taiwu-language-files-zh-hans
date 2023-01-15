@@ -1646,7 +1646,7 @@ When this technique exerts ten percent of its power: cumulative reduction in the
 Needle Control
 When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Drive" styles the user has.
 5 Elements\nPinprick
-After at least 10% of the power of this technique is exercised, the user gains 4 levels of this effect: all the "Throw" and "Shot" styles obtained by the user are changed to "Drive" styles.
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all the "Throw" and "Shot" styles obtained by the user are changed to "Drive" styles.
 Chilling Pinprick
 When you start to perform this technique, the deeper the enemy is poisoned by Cryotoxin, the more the power of this technique will increase
 Bianque Pinprick
