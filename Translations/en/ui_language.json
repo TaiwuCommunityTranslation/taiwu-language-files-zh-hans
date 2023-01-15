@@ -1071,7 +1071,7 @@
   "LK_Building_ClickGetResource": "Click to collect all collectable resources in Taiwu Village...",
   "LK_Building_ClickGetAllEarn": "Click to collect all collectable resources, items and talents in Taiwu Village, and the collected items will be put into the warehouse... \n (excluding Wisdom Guild and Pawnshops that cost resources)",
   "LK_Building_Booty_Storage": "Harvest Storage: {0}/{1} Total",
-  "LK_Building_BuildingPlan": "Move",
+  "LK_Building_BuildingPlan": "Relocate",
   "LK_Building_BuildingPlanning": "Moving buildings",
   "LK_Building_BuildingPlanConfirm": "Confirm",
   "LK_Building_BuildingPlanCancel": "Reject",
