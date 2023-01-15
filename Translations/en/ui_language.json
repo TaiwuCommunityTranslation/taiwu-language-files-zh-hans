@@ -1074,7 +1074,7 @@
   "LK_Building_BuildingPlan": "Relocate",
   "LK_Building_BuildingPlanning": "Moving buildings",
   "LK_Building_BuildingPlanConfirm": "Confirm",
-  "LK_Building_BuildingPlanCancel": "Reject",
+  "LK_Building_BuildingPlanCancel": "Cancel",
   "LK_Building_BuildingPlanConfirmTip": "Moved building will suffer 50% damage! \n Are you sure you want to move this building?",
   "LK_Building_BuildingPlanCancelTip": "Are you sure you want to abandon the architectural plans you've made?",
   "LK_Building_BuildingCannotMoveTip1": "The building cannot be moved!",
