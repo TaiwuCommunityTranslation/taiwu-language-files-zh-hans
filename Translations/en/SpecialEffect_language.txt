@@ -866,7 +866,7 @@ Emotions
 Improve your own motivation
 When this technique is used with at least 10% of its power, the user gains 10 levels of this effect: the fewer the remaining levels of this effect, the more the user's heartbeat will increase when the user attacks the enemy
 Crystal Tune
-When you start to perform this technique, if the enemy does not have the "None" style, the power of this technique will be greatly increased; when this technique is at 100% power, add 1 "None" style to the enemy, and if the enemy does not have the "None" style, add 1 additional "None" style to the enemy
+When you start to perform this technique, if the enemy does not have the "None" style, the power of this technique will be greatly increased; When this technique is used at 100% of its power, add 1 "None" style to the enemy, and if the enemy does not have the "None" style, add 1 additional "None" style to the enemy
 Heart-Breaking
 Worsen E·Injuries
 When you start to perform this technique, the more painful the enemy's mood is, the more the power of this technique increases; when this technique exerts ten percent of its power, it randomly worsens the enemy's injury according to the enemy's painful mood; at the end of this technique, according to the power of this technique, a special debuff which reduces mood is applied to the enemy
@@ -2573,7 +2573,7 @@ Reverse - Emotions
 Lowering the enemy's Focus
 When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's guard heart will be reduced when the user attacks the enemy
 Reverse - Crystal Tune
-When you start to perform this technique, if the enemy does not have a Breath injury, the power of this technique will be greatly increased; when this technique is at 100% power, 1 Breath injury will be added to the enemy, and if the enemy does not have a Breath injury, 1 additional Breath injury will be added to the enemy
+When you start to perform this technique, if the enemy does not have a Breath injury, the power of this technique will be greatly increased; When this technique is used at 100% of its power, 1 Breath injury will be added to the enemy, and if the enemy does not have a Breath injury, 1 additional Breath injury will be added to the enemy
 Reverse - Heart-Breaking
 Reduce your mood
 At the beginning of this technique, the more painful the user's mood is, the more the power of this technique increases; when this technique exerts ten percent of its power, it randomly worsens the enemy's injury according to the user's painful mood; at the end of this technique, a special state that reduces the user's mood is applied according to the number of percent of power exerted by this technique
@@ -3232,7 +3232,7 @@ For every 10% of the power of this technique, the user has a low chance of infli
 Reverse - The Great\nFlower Finger of Mandala
 When you start to perform this technique, the deeper the illusionary poison the user has, the more the power of this technique will increase
 Reverse - Flower Spirit\nMoon Finger
-If the enemy's internal energy attribute is "Fire" when this technique is at 100% power, the direct damage caused by the user to the enemy will be increased by 3 levels.
+If the enemy's internal energy attribute is "Fire" When this technique is used at 100% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
 Reverse - A Hundred\nFlower Fight
 When this technique is used at ten percent of its power, 1 wound mark is added to all parts of the enemy that are broken
 Reverse - 8 Moves of\nBlood Red Flower
