@@ -2966,7 +2966,7 @@ Break Weapon
 After this technique has been used for ten percent of its power, the user gains three levels of this effect: when the enemy hits the user, the user's broken blade is greatly increased, and if the user damages the enemy's weapon, an additional 2 points of durability are damaged.
 Reverse - Dharma\nProtector's Poke
 When this technique is used with at least 10% of its power, the pestle used by the user is augmented by the "Vajra Protector": as long as the user is holding this pestle, the degree of direct internal injuries inflicted by the enemy on the user is reduced by 1 level.
-Vajra Protector: As long as the user is holding this pestle, the degree of direct internal injuries inflicted by enemies on the user is reduced by 1 level.
+Dharma Protector: As long as the user is holding 「Pestle」, the degree of direct internal injuries inflicted by enemies on the user is reduced by 1 level.
 Reverse - Demon's Poke
 When this technique is performed, if the Club used by the user is enchanted, the higher the enchantment level, the more internal injuries this technique will cause; after this technique is performed, the enchantment on the Club used by the user will be removed.
 Reverse - Vajra's Anger
