@@ -1547,7 +1547,7 @@ Skanda Staff
 Cause Extra WS
 After this technique has been used for ten percent of its power, the user gains 18 layers of this effect: when the user is about to break, he will consume the same number of layers of the effect as the level of the break, causing a break in a random part of the enemy with the same number of layers of the effect consumed, and will not trigger any effect that caused the break.
 The Great\nWisdom Bodhi Staff
-If the user has at least 2 "Slash" styles after this technique has been used for at least 10% of its power, the user will consume only 2 "Slash" styles and immediately perform this technique again to attack the enemy from 50% of its progress.
+When this technique is used with at least 10% of its power, If the user has at least 2 "Slash" styles, the user will only consume 2 "Slash" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 Dharma Staff
 Free Def
 The higher the power of this technique, the more the power of the "Aegis" technique that the user can perform in this way will increase until the end of the "Aegis" technique.
