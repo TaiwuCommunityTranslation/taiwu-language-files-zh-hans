@@ -891,7 +891,7 @@ When you start attacking an enemy with this technique, if the enemy has 3 or mor
 Pure Lady's\nHidden Hand
 When this technique is at least 10% of the power, the user takes 1 "Hold" from the enemy.
 Jade Hand
-After this technique has been used for at least 10% of its power, the user gains 2 levels of this effect: the degree of injury from direct damage caused by the enemy or the user's "Break" technique is increased by 2 levels.
+When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the degree of injury from direct damage caused by the enemy or the user's "Break" technique is increased by 2 levels.
 Cold Yin Palm
 Wounds inflicted by this technique on the enemy's waist and abdomen will change to old wounds that are more difficult to recover from
 9 Moves of\n9 Heavens
@@ -931,7 +931,7 @@ When this technique is used at ten percent of its power, the enemy's attacked pa
 5 Mantra\n5 Phases
 When attacking an enemy with this technique, the more of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, the more the user's hits will increase; when this technique is at least 100% more powerful than the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, at least 3 of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, 2 "None" will be applied to the enemy.
 Pivot Move
-After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the "Break" technique performed by the user that has not been used for 10% of its power is greatly increased, and lasts until the "Break" technique with the increased power has been used for 10% of its power.
+When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the "Break" technique performed by the user that has not been used for 10% of its power is greatly increased, and lasts until the "Break" technique with the increased power has been used for 10% of its power.
 Clutch Finger
 Changing the Enemy's External Defense
 When attacking the enemy with this technique: the smaller the difference between the enemy's body and the broken body, the smaller the enemy's body will change to
@@ -993,7 +993,7 @@ When this incantation is at ten percent power, it will cause the enemy's 1 "odd 
 5 Animals Fist
 After this technique plays at least 10% of its power, the user gains 5 levels of this effect: the degree of injury of external injury suffered by the user is reduced by 1 level
 The Great Snow\nMountain Palm
-After this technique has been used for at least 10% of its power, the user gains 3 layers of this effect : The more the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are higher than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
+When this technique is used with at least 10% of its power, the user gains 3 layers of this effect : The more the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are higher than those of the enemy, the more the power of the "Break" technique performed by the user will be increased.
 Blood Palm
 When you start to perform this technique, the deeper the enemy is poisoned with Pyrotoxin, the more the power of this technique will increase
 Osbeck Bone Melt
@@ -1147,7 +1147,7 @@ Iron Staff of\nMixed Element
 If the weapon used by the user is the "Polearm·Mysterious Iron", the power of this technique is greatly increased, and after this technique has been used at 100% of its power, the "Polearm·Mysterious Iron" can be unsealed. Once unsealed, will increase the power of all "Polearm techniques" until the battle ends, or other weapons are unblocked.
 Unblocked: This Polearm can increase the power of all "Polearm" techniques
 Mechanic\nSwallow
-After this technique has been used for at least 10% of its power, the user gains 6 levels of this effect: When the user gains a "Ware" style, there is a higher chance of gaining 1 more "Ware" style.
+When this technique is used with at least 10% of its power, the user gains 6 levels of this effect: When the user gains a "Ware" style, there is a higher chance of gaining 1 more "Ware" style.
 Mechanic Hook
 When this technique is used with at least 10% of its power, if the user can consume an additional "Ware" style, the enemy's Stance will be significantly reduced
 Chain
@@ -1295,7 +1295,7 @@ When you start to perform this technique, you can eliminate up to 2 unusable for
 Force E·skill
 When you start to perform this technique, if the enemy has any "Aegis" technique to perform, the enemy will start to perform it immediately, and the higher the rank of the "Aegis" technique performed by the enemy, the more the external injury caused by this technique will be increased.
 Blade of\nMindsets And Thoughts
-After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: all "Destroy" techniques performed by the user are affected by the continuous power enhancement effect of another "Destroy" technique of the user with the most continuous power enhancement, and if the user is drunk, the effect is significantly increased.
+When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: all "Destroy" techniques performed by the user are affected by the continuous power enhancement effect of another "Destroy" technique of the user with the most continuous power enhancement, and if the user is drunk, the effect is significantly increased.
 81 Slashes of\nMadness Dragon
 After this technique has been used for ten percent of its power, the user gains 9 layers of this effect: the fewer layers of this effect remain, the more external injury the enemy receives from the parts hit by this technique
 The Great\nDrunk Blade of Yinyang
@@ -1553,7 +1553,7 @@ Free Def
 The higher the power of this technique, the more the power of the "Aegis" technique that the user can perform in this way will increase until the end of the "Aegis" technique.
 36 Close Hands
 Offsetting useless storage type
-After this technique has been used for at least 10% of its power, the user gains 6 levels of this effect: Whenever the user is added by an enemy to a style that cannot be used, the same number of levels of this effect are consumed to cancel it out.
+When this technique is used with at least 10% of its power, the user gains 6 levels of this effect: Whenever the user is added by an enemy to a style that cannot be used, the same number of levels of this effect are consumed to cancel it out.
 Rejuvenation\nFinger
 Reduce enemy crisis
 When you fail to perform this technique at 100% of it's power, reduce the sense of crisis of your enemy.
@@ -1781,7 +1781,7 @@ Blade of\nTrigrams And Elements
 When this technique is used with at least 10% of its power, if the weapon used by the user is "Blade" and can be switched to "Sword", the user immediately switches to "Sword" and regains 1 "attack token".
 Blade of\n6 Directions
 Wp·Switch CD Dn
-After this technique has been used for at least 10% of its power, the switching interval of 1 unused weapon of the user is eliminated, so that it can be switched to use immediately.
+When this technique is used with at least 10% of its power, the switching interval of 1 unused weapon of the user is eliminated, so that it can be switched to use immediately.
 Blade of\nTiger Step Extremely Far
 Whenever the weapon used by the user switches from a weapon other than a "Blade" to a "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption from 50% of the execution progress.
 Golden Blade\nof The Ultra One
@@ -2593,7 +2593,7 @@ Reverse - Pure Lady's\nHidden Hand
 Ban style gain
 When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "take" style.
 Reverse - Jade Hand
-After this technique has been used for at least 10% of its power, the user gains 2 levels of this effect: the degree of injury from direct damage caused by the enemy or the user's "Destroy" technique is reduced by 2 levels.
+When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the degree of injury from direct damage caused by the enemy or the user's "Destroy" technique is reduced by 2 levels.
 Reverse - Cold Yin Palm
 This technique increases the direct damage to the enemy's waist and abdomen by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - 9 Moves of\n9 Heavens
@@ -2631,7 +2631,7 @@ When this technique is used at ten percent of its power, the enemy's attacked pa
 Reverse - 5 Mantra\n5 Phases
 When attacking the enemy with this technique, the more the calmness, intelligence, enthusiasm, bravery and perseverance of the user is higher than that of the enemy, the more the enemy's resolution will be reduced; when this technique exerts ten percent of its power, if at least three of the calmness, intelligence, enthusiasm, bravery and perseverance of the user are higher than that of the enemy, 2 marks of Breath injury will be applied to the enemy.
 Reverse - Pivot Move
-After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Break" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Break" technique whose power has been reduced fails to be used for 10% of its power.
+When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Break" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Break" technique whose power has been reduced fails to be used for 10% of its power.
 Reverse - Clutch Finger
 Changing the Enemy's Internal Defense
 When attacking the enemy with this technique: the smaller the difference between the enemy's imperial qi and broken qi, the smaller the enemy's imperial qi will change to
@@ -2916,7 +2916,7 @@ When you start to perform this technique, you can eliminate up to 2 usable forms
 Reverse - 4 Slashes of\nDragontooth
 When you start to perform this technique, if the enemy has any "Aegis" technique to perform, the enemy will start to perform it immediately, and the higher the rank of the "Aegis" technique performed by the enemy, the more the direct internal injuries caused by this technique will be increased.
 Reverse - Blade of\nMindsets And Thoughts
-After this technique has been used for at least 10% of its power, the user gains 3 levels of this effect: all "Break" techniques performed by the enemy will be affected by the continuous power reduction effect of another "Break" technique of the enemy with the most continuous power reduction, and if the user is drunk, the effect will be significantly increased.
+When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: all "Break" techniques performed by the enemy will be affected by the continuous power reduction effect of another "Break" technique of the enemy with the most continuous power reduction, and if the user is drunk, the effect will be significantly increased.
 Reverse - 81 Slashes of\nMadness Dragon
 After this technique has exerted ten percent of its power, the user gains nine layers of this effect: the fewer layers of this effect remain, the more direct internal injuries the enemy receives from the parts hit by this technique
 Reverse - The Great\nDrunk Blade of Yinyang
@@ -3153,7 +3153,7 @@ Reverse - Dharma Staff
 In the process of performing this technique, the user can perform the "Aegis" technique without consumption and without preparation, and the higher the power of the "Aegis" technique performed by the user in this way, the more the power of this technique will increase, and it will continue until the end of this technique.
 Reverse - 36 Close Hands
 Offsetting storage loss
-After this technique has been used for at least 10% of its power, the user gains 6 levels of this effect: Whenever the user is eliminated by an enemy, the same number of levels of this effect are consumed to cancel it out.
+When this technique is used with at least 10% of its power, the user gains 6 levels of this effect: Whenever the user is eliminated by an enemy, the same number of levels of this effect are consumed to cancel it out.
 Reverse - Duck Shape Fist
 Increase enemy crisis
 When you fail to perform this technique at 100% of it's power, increase the sense of crisis of your enemy.
