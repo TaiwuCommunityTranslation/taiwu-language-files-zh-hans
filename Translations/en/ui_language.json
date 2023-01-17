@@ -1050,7 +1050,7 @@
   "LK_Building_ShopRecruitPeopleBtn": "Recruit",
   "LK_Building_RecruitPeople": "Recruit",
   "LK_Building_SpecialBtnTip": "Waiting for building construction to be completed",
-  "LK_Building_NewBuildTip": "Time left",
+  "LK_Building_NewBuildTip": "Time left:",
   "LK_Building_ExpandTip": "Time left",
   "LK_Building_RemoveTip": "Time left",
   "LK_Building_NewBuildTip2": "In progress",
