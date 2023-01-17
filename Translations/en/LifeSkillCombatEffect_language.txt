@@ -3,7 +3,7 @@ You can place a question horizontally, vertically or diagonally 1 tile away from
 Direct
 You can place a question on any horizontal or vertical tile from your argument (can't go over the enemy argument with higher value)
 Jumping
-You can place a question diagonally from your argument to any tile (can't jump over the opponent's argument with higher value)
+You can place a question diagonally from your argument to any tile (can't go over the enemy argument with higher value)
 Layout
 Your arguments increase the value of all your arguments on the horizontal, vertical and diagonal tiles
 Chain
@@ -21,7 +21,7 @@ When your Question or Doubt turns into your argument, eliminate the opponent's a
 Defamation
 You can use it to eliminate 1 of your opponent's arguments in a horizontal, vertical, or diagonal 1 tile range that has a lower value than your own argument's.
 Reprimand
-When your Question or Doubt turns into your argument, eliminate the opponent's arguments that are Horiz. or Vert.. (can't jump over the opponent's argument with higher value)
+When your Question or Doubt turns into your argument, eliminate the opponent's arguments that are Horiz. or Vert.. (can't go over the enemy argument with higher value)
 Gotcha
 When your Question or Doubt is answered, the cooldown of the manual used by the opponent for the answer by 1 turn.
 Exaggerate
