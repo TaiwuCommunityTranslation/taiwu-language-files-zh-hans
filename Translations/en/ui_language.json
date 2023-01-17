@@ -2694,7 +2694,7 @@
   "LK_Equip_Skill_Order_Change_Confirm_Title": "Confirm",
   "LK_Equip_Skill_Order_Change_Confirm_Tips": "Are you sure you want to change skill slots?",
   "LK_Equip_Skill_Order_Change_Cancel_Title": "Cancel",
-  "LK_Equip_Skill_Order_Change_Cancel_Tips": "Are you sure you want to cancel modifying martial arts？\n<color=#darkred>Changes won't be saved！</color>",
+  "LK_Equip_Skill_Order_Change_Cancel_Tips": "Are you sure you want to cancel chaning skill slots？\n<color=#darkred>Changes won't be saved！</color>",
   "LK_Equip_Skill_Order_Change_Reset_Title": "Reset Sorting",
   "LK_Equip_Skill_Order_Change_Reset_Tips": "Are you sure you want to reset marital arts sorting to the default sorting?",
   "LK_Equip_Skill_Order_Extra_Slot_Title": "Extra Slots",
