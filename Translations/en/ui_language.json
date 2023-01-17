@@ -2692,7 +2692,7 @@
   "LK_Equip_Skill_Order_Setting_Btn_Tips": "Change skill slots",
   "LK_Equip_Skill_Order_Reset": "Reset All",
   "LK_Equip_Skill_Order_Change_Confirm_Title": "Confirm",
-  "LK_Equip_Skill_Order_Change_Confirm_Tips": "Are you sure you want to modify order of martial arts?",
+  "LK_Equip_Skill_Order_Change_Confirm_Tips": "Are you sure you want to change skill slots?",
   "LK_Equip_Skill_Order_Change_Cancel_Title": "Cancel",
   "LK_Equip_Skill_Order_Change_Cancel_Tips": "Are you sure you want to cancel modifying martial arts？\n<color=#darkred>Changes won't be saved！</color>",
   "LK_Equip_Skill_Order_Change_Reset_Title": "Reset Sorting",
