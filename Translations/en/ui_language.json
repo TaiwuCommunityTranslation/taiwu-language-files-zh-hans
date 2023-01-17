@@ -2645,7 +2645,7 @@
   "LK_Multiply_Select_Get": "Pick up fellow items",
   "LK_Multiply_Select_Option": "Select Options",
   "LK_Multiply_Select_Grade_Tip": "Valuable items, choose carefully...",
-  "LK_ItemMultipyOption_Title": "Precious Grade",
+  "LK_ItemMultipyOption_Title": "Limit",
   "LK_ItemMultipyOption_Tip": "When an item of the set grade or higher is selected, a valuable item alert will be displayed，\nWhen dismantling or discarding in bulk, a confirmation window will pop up to remind again，\nWill not be selected as a target when the warehouse is accessed with one click.",
   "LK_LifeSkillType_0": "Music",
   "LK_LifeSkillType_1": "Chess",
