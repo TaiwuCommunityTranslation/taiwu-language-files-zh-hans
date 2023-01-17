@@ -1904,7 +1904,7 @@
   "LK_Item_DiscardWarning": "Are you sure you want to discard this item {0} X{1}?",
   "LK_Item_DiscardWarning_Multiply": "The selected items contain a valuable item, are you sure you want to discard them?",
   "LK_Item_DisassembleWarning_Multiply": "The selected items contain a valuable item, are you sure you want to disassemble them?",
-  "LK_Item_Exit_Multiply": "Is it confirmed that the item is selected to exit the batch operation?",
+  "LK_Item_Exit_Multiply": "Are you sure you want to cancel mass action?",
   "LK_CombatSkill_Revoked_Tips": "<color=#E4504DFF>This skill has been revoked and cannot be used!</color>",
   "UI_CharacterMenu_FeatureEffect": "【Trait Effect】",
   "LK_ChangeValuePerMonth": "{0} value change per month:",
