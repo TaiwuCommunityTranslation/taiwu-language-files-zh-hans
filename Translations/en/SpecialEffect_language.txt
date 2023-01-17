@@ -2536,7 +2536,7 @@ At the end of this technique, the enemy's Diversion will be reduced, and the use
 Reverse - Ground Blade\nof Lion Face
 When you start to perform this technique, you will regain your Stamina; during the process of performing this technique, you can retreat up to 2 distances.
 Reverse - Rapid Blade\nof Mountain Cleave
-When this technique is used with at least 10% of its power, the user gains 2 "Slash" styles.
+When this technique is used with at least 10% of its power, the user gains 2 "Hack" styles.
 Reverse - Shield Blade\nof Lion Phase
 When this technique is used at 100% of its power, for every 3 "Hack" styles the user has, the user will inflict an additional break on the enemy's attacked area.
 Reverse - Tremendous\nEffort Blade
