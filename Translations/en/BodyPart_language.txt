@@ -1,8 +1,8 @@
-Chest and Back
-On a successful Style Change to <color=#darkbrown>Chest and Back</color>, the enemy's Qi progress is reduced by <color=#white>20% </color>!
-AcuPt on <color=#darkbrown>Chest and Back</color> is inactivated, inhale speed is reduced by <color=#white>25%</color>！
-(Chest and Back-Scratch, Chest and Back-Bleeding, Chest and Back-Fracture)
-(Chest and Back-Bruises, Chest and Back-AcuPt Inactivation, Chest and Back-Broken Meridian)
+Torso
+On a successful Style Change to <color=#darkbrown>Torso</color>, the enemy's Qi progress is reduced by <color=#white>20% </color>!
+AcuPt on <color=#darkbrown>Torso</color> is inactivated, inhale speed is reduced by <color=#white>25%</color>！
+(Torso-Scratch, Torso-Bleeding, Torso-Fracture)
+(Torso-Bruises, Torso-AcuPt Inactivation, Torso-Broken Meridian)
 Waist
 On a successful Style Change to <color=#darkbrown>Waist</color>, the enemy's Stance progress is reduced by <color=#white>20</color>!
 AcuPt on <color=#darkbrown>Waist</color> is inactivated, Stance speed is reduced by <color=#white>25</color>！
