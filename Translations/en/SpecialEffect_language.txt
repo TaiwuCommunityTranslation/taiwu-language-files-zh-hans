@@ -1011,7 +1011,7 @@ Based on the power of this technique, apply a debuff to the enemy that reduces t
 Hook Claw
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Iron Flower\nRotten Bone Claw
-Wounds inflicted by this technique on the enemy's chest and back will change to older wounds that are more difficult to recover from
+Wounds inflicted by this technique on the enemy's Torso will change to older wounds that are more difficult to recover from
 Jade Cicada\nFinger
 Variable toxin type
 When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of poison among the enemy's poison, Cryotoxin and phantom poison, and the power of this technique will be greatly increased if the phantom poison is still applied to the enemy after the change.
@@ -1438,7 +1438,7 @@ Zombie\nPoison Palm
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Blood Evil Palm
 Chest injured
-When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts 100% of its power, it will cause the enemy's chest and back to be "damaged"; "damaged chest and back The person who has a "broken chest" cannot lift more than 60% of his Qi, and the external injury of the externally injured person's chest reaches 4 layers, which is considered as a broken chest, and this serious external injury will not disappear until the externally injured person has healed all the external injury of his chest.
+When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; when this technique exerts 100% of its power, it will cause the enemy's Torso to be "damaged"; "damaged Torso The person who has a "broken chest" cannot lift more than 60% of his Qi, and the external injury of the externally injured person's chest reaches 4 layers, which is considered as a broken chest, and this serious external injury will not disappear until the externally injured person has healed all the external injury of his chest.
 Bone Melting\nGhost Palm
 When this technique is used with at least 10% of its power, if the user has at least 2 "Hold" styles after this technique, the user will only consume 2 "Hold" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 Sky Demon Palm
@@ -2696,7 +2696,7 @@ Apply an Attack Speed debuff to the enemy based on the power of this technique
 Reverse - Hook Claw
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Iron Flower\nRotten Bone Claw
-This technique increases the direct damage dealt to the enemy's chest and back by 2 levels, but has a higher chance of attacking other parts of the enemy
+This technique increases the direct damage dealt to the enemy's Torso by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Jade Cicada\nFinger
 When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's poison, Cryotoxin, and phantom poison, and the power of this technique will be greatly increased if the phantom poison is still applied to the enemy after the change.
 Reverse - Flood Dragon's\nIron Tentacle
@@ -3046,7 +3046,7 @@ Reverse - Zombie\nPoison Palm
 After this technique has been used for 100% of its power, the user will gain 10 levels of this effect: the Necrotoxin applied to the user by the enemy will be reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Blood Evil Palm
 Chest pain
-When you start to perform this technique, the more "severe pain" the enemy has, the more the power of this technique will be increased; when this technique exerts 100% of its power, it will cause "severe pain in the chest and back" of the enemy with internal injuries; "severe pain in the chest and back The person with "severe pain in the chest and back" cannot raise more than 60% of his Qi, and the internal injuries of the externally injured person's chest and back reach 4 levels, which is considered to be a broken chest and back, until the externally injured person has healed all the internal injuries of the chest and back, this serious injury will disappear
+When you start to perform this technique, the more "severe pain" the enemy has, the more the power of this technique will be increased; when this technique exerts 100% of its power, it will cause "severe pain in the Torso" of the enemy with internal injuries; "severe pain in the Torso The person with "severe pain in the Torso" cannot raise more than 60% of his Qi, and the internal injuries of the externally injured person's Torso reach 4 levels, which is considered to be a broken Torso, until the externally injured person has healed all the internal injuries of the Torso, this serious injury will disappear
 Reverse - Bone Melting\nGhost Palm
 When you start to perform this technique, you will consume all of the "take" style of the user. The more "take" style the user consumes, the more the power of this technique will increase.
 Reverse - Sky Demon Palm
