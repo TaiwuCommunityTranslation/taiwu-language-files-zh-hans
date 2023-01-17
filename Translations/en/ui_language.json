@@ -389,7 +389,7 @@
   "LK_CurrentReadingBook": "Studying {0}",
   "LK_ReadingEffect": "【Study Effect】",
   "LK_ReferenceBook": "【Reference Books】",
-  "LK_ReadingSkillRequire": "【Study Requirements】",
+  "LK_ReadingSkillRequire": "【Requirements】",
   "LK_ReadingInfo": "Book info: ",
   "LK_TotalReadingEfficiency": "Current study efficiency: {0}",
   "LK_ReadingInspireRatio": "Sudden insight chance: {0}",
