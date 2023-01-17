@@ -9,7 +9,7 @@
   "UI_AnyKeyToContinue": "Press Any Button to Continue",
   "UI_RecordSelect_Title": "Select A Character",
   "UI_RecordSelect_EmptyScroll": "<color=#8E8E8EFF>New Character</color>",
-  "UI_RecordSelect_Year": "Year {0} of Generation {1} of Taiwu",
+  "UI_RecordSelect_Year": "Year {0} of {1} Gen. of Taiwu",
   "UI_RecordSelect_GameSet_None": "<color=#8E8E8EFF>-</color>",
   "UI_RecordSelect_CharacterSeat": "Continue <color=#B97D4BFF>{0}</color><color=#9B8773FF>「{1}」</color>",
   "UI_RecordSelect_Tip_CreateTaiwu_Content": "Create a character to start a new game...",
