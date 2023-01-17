@@ -2639,7 +2639,7 @@
   "LK_MapAreaMousetip_PurpleBamboo": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_zizhu> This site has purple bamboo incarnation activities. </color> ",
   "LK_MapAreaMousetip_Taiwu": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_taiwucun> Taiwu Village is located here. </color> ",
   "LK_MapAreaMousetip_introduction": " <color=#grey> Sentence introducing this location </color> ",
-  "LK_Multiply_Select": "Batch operation",
+  "LK_Multiply_Select": "Mass action",
   "LK_MultiplySelect_Exit": "Cancel batch operation",
   "LK_Multiply_Select_Send": "Choose to pass on to fellow travellers",
   "LK_Multiply_Select_Get": "Pick up fellow items",
