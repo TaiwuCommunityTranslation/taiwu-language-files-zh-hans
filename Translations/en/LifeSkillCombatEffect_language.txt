@@ -1,7 +1,7 @@
 Reconsider
 You can place a question horizontally, vertically or diagonally 1 tile away from the opponent's argument with lower value
 Direct
-You can place a question on any horizontal or vertical tile from your argument (can't jump over the opponent's argument with higher value)
+You can place a question on any horizontal or vertical tile from your argument (can't go over the enemy argument with higher value)
 Jumping
 You can place a question diagonally from your argument to any tile (can't jump over the opponent's argument with higher value)
 Layout
