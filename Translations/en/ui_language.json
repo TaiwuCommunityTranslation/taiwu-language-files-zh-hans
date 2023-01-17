@@ -1958,7 +1958,7 @@
   "LK_Item": "Item",
   "LK_Resource": "Resource",
   "LK_Kidnap": "Kidnap",
-  "LK_Discard_Item": "Discard Item",
+  "LK_Discard_Item": "Discard",
   "LK_Disassemble_Item": "Scrap",
   "LK_Craft_Tool_Broken": "Tool Broken",
   "LK_Kidnap_Empty_Slot": "Empty Slot",
