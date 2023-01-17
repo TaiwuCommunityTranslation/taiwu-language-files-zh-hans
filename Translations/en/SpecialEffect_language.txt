@@ -2514,7 +2514,7 @@ The direct internal damage caused by this Footwork can't be reduced by any effec
 Reverse - Little Leap
 Reverse - Mountain\nPushing Palm
 Reducing the Diversion of the enemy
-When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's unloading power will be reduced when the user attacks the enemy.
+When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's Diversion will be reduced when the user attacks the enemy.
 Reverse - Iron Fist of\nLion Phase
 When this technique is used with at least 10% of its power, the user gains 2 "Punch" styles
 Reverse - Gate Breaker\n8 Moves
