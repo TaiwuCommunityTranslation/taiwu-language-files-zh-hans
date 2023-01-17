@@ -3,7 +3,7 @@ You can place a question horizontally, vertically or diagonally 1 tile away from
 Direct
 You can place a question on any horizontal or vertical tile from your argument (can't go over higher value arguments)
 Jumping
-You can place a question diagonally from your argument to any tile (can't go over the enemy argument with higher value)
+You can place a question diagonally from your argument to any tile (can't go over higher value arguments)
 Layout
 Your arguments increase the value of all your arguments on the horizontal, vertical and diagonal tiles
 Chain
