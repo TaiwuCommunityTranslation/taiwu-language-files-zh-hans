@@ -2549,7 +2549,7 @@ Reverse - Gold Lion Blade
 Ban Ortho
 When you start to perform this technique, "interrupt" all Orthodox training techniques being performed by the enemy, and eliminate all Orthodox training techniques being performed by the enemy; during the performance of this technique, the enemy cannot perform any Orthodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Orthodox training techniques, and every time the user performs any Heterodox training techniques, this effect is reduced by 1 level.
 Reverse - Coiled Dragon\nGhost Blade
-When you start to perform this technique, you will consume all of the user's "Cleave", and the more "Cleave" you consume, the more the power of this technique will increase.
+When you start to perform this technique, you will consume all of the user's "Hack" styles, and the more "Hack" styles you consume, the more the power of this technique will increase.
 Reverse - Wild Blade
 Whenever an enemy deals direct damage to the user, the power of this technique will increase cumulatively until the end of the battle, and the cumulative increase in power of this technique cannot be transferred or eliminated by any effect
 Reverse - Spear of Evil
