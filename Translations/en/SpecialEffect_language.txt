@@ -823,7 +823,7 @@ At the end of the technique, the force of the user will be increased, and the us
 Ground Blade\nof Lion Face
 When you start to perform this technique, it restores the strength of your feet; in the process of performing this technique, you can advance up to 2 distances
 Rapid Blade\nof Mountain Cleave
-When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all the "Stab" and "Slash" styles that the user gains are changed to "Slash" styles
+When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all the "Stab" and "Slash" styles that the user gains are changed to "Hack" styles
 Shield Blade\nof Lion Phase
 When this technique is used at 100% of its power, for every 2 "Slash" styles the user has, the level of damage caused by the user to the enemy increases by 1 additional level.
 Tremendous\nEffort Blade
