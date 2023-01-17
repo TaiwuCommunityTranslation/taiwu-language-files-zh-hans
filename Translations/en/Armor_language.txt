@@ -507,7 +507,7 @@ Tiezha armor pieces are small and leaf-like, with fine seams and light texture, 
 Stepman A
 The walking man armor is made of 1,825 pieces of armor, tightly woven, impermeable to wind and hard enough to withstand crossbow fire.
 Two crotch iron terrain
-The two crotch iron terrain is exquisitely crafted, with iron armor embedded in the abdomen of the chest and back to protect the vitals, and the rest is sewn with leather, light in texture, both offensive and defensive.
+The two crotch iron terrain is exquisitely crafted, with iron armor embedded in the abdomen of the Torso to protect the vitals, and the rest is sewn with leather, light in texture, both offensive and defensive.
 Tube Sleeve Armor
 According to legend, this armor was created by Zhuge Liang, which is made of overlapping iron pieces in the shape of fish scales, and its shoulders are made of iron armor with short sleeves to prevent arm stab wounds and the inability to fight back.
 Five fold steel armor
@@ -611,7 +611,7 @@ Underworld Treasure
 Generation form clothing
 When making the clothes, not moving a single thread, all of them are made of wooden armor, and there are hidden buckles between the armor and the armor, which can be rotated smoothly and reversibly to adjust the form, and divided into a hundred kinds of models, and there is no one who cannot wear it.
 Tiger Skin Vest
-"short clothes without sleeves, only cover the chest and back, called the undershirt". Tiger skin undershirt is cut from tiger skin, simple to make, mostly worn by hunters.
+"short clothes without sleeves, only cover the Torso, called the undershirt". Tiger skin undershirt is cut from tiger skin, simple to make, mostly worn by hunters.
 thick fur coat
 Thick fur phi is very thick, things hit not damage, fur down dense, not wet in water. This fur is mostly worn by northern people in winter, can keep warm and cold.
 Mythical armor
