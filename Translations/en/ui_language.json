@@ -1536,7 +1536,7 @@
   "LK_Char_Name": "Name",
   "LK_Char_Age": "Age",
   "LK_Health": "Health",
-  "LK_Out_Injury": "External Damage",
+  "LK_Out_Injury": "Ext. Inj.",
   "LK_Out_Injury_Short": "External",
   "LK_Inner_Injury": "Int Injury",
   "LK_Inner_Injury_Short": "Inner",
