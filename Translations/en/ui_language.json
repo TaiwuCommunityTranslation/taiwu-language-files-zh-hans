@@ -2686,7 +2686,7 @@
   "LK_Teammate_Auto_Equip_Tog_Label": "more",
   "LK_Teammate_Auto_Equip_Tog_Tips": "When this switch is on, the character will actively change into more suitable equipment when passing the moon ......",
   "LK_Make_SubType_Manual_Tip": "Specifying the word skill will increase the skill attainment requirement ......",
-  "LK_Equip_Display_In_Combat": "Combat image",
+  "LK_Equip_Display_In_Combat": "Look",
   "LK_Equip_Display_In_Combat_Show_All": "Show all",
   "LK_Equip_Skill_Order_Setting_Title": "Sort martial arts",
   "LK_Equip_Skill_Order_Setting_Btn_Tips": "Modify order of martial arts",
