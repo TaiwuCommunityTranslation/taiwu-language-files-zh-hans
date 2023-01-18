@@ -625,7 +625,7 @@ Tiger Stance
 Improve Ext. Pen. of the Kick arts
 The Ext. Pen. of the Kicks performed by the user with this Footwork is greatly increased
 Step Alone A Thousand Mile
-Whenever you advance 1 distance with this Footwork, it restores the strength of your feet.
+Whenever you advance 1 distance with this Footwork, it restores your Stamina.
 Mysterious Armor
 0 skill cost
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming the Footwork and Stamina
