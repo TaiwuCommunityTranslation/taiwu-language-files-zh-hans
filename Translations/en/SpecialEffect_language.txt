@@ -2365,7 +2365,7 @@ Reverse - Tiger Stance
 Kick Int. Pen. UP
 The Internal Penetration of the Kick performed by the user with this Footwork is greatly increased
 Reverse - Step Alone A Thousand Mile
-Whenever you retreat 1 distance with this Footwork, the strength of your feet is restored.
+Whenever you retreat 1 distance with this Footwork, your Stamina gets restored.
 Reverse - Mysterious Armor
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming Inhale or Footwork
 Reverse - Shake Mountain
