@@ -1225,7 +1225,7 @@
   "LK_Char_Attainment_Tips": "Higher attainment will allow you to process higher rank materials, repair and refine hight rank equipments and items. ",
   "LK_Making_Not_Select_Tips": "<color=#8E8E8EFF> not selected</color>",
   "LK_Making_Resource_Enough_Tips": "Material is ready!",
-  "LK_Making_Times": "Craft{0}times",
+  "LK_Making_Times": "Craft {0}",
   "LK_Making_Cost_Time": "{0}",
   "LK_Making_Start_Tip_Title": "Start Crafting",
   "LK_Making_Start_Tip_Desc": "Begin Crafting...",
