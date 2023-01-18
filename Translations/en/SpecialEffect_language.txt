@@ -2120,7 +2120,7 @@ When defending with this technique: the enemy cannot gain true qi; if the enemy 
 Reverse - Iron Head of Lion Phase
 When defending with this technique, any direct internal injury to the head and neck caused by the enemy at once that is not higher than 4 is invalid.
 Reverse - Comrade Service
-Whenever an enemy deals direct damage to the applicator, the enemy's footing is damaged
+Whenever an enemy deals direct damage to the user, the enemy's Stamina will be damaged.
 Reverse -  Loss of rigidity and flexibility
 External injuries become internal injuries
 When defending with this technique, most of the direct external injuries inflicted by the enemy on the user change to internal injuries
