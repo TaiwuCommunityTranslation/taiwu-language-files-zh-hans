@@ -634,7 +634,7 @@ Improve Stamina depletion
 During the duration of this Footwork, it increases the loss of Footwork and Stamina caused by the user to the enemy.
 Iron Bridge
 E·WP Accuracy Dn
-When the distance between the user and the enemy is not less than 7 during the duration of this Footwork, the further the distance between the enemy and me, the lower the chance of the enemy hitting the user.
+During the duration of this Footwork, when the distance between the user and the enemy is less than 7, the further the distance between the two, the lower the chance of the enemy hitting the user
 Chain of River-Block
 During the duration of this Footwork, every time an enemy advances 1 meter, the user immediately makes an unchallengeable weapon attack on the enemy without consumption.
 Lion's Swift
