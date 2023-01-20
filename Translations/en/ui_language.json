@@ -325,7 +325,7 @@
   "UI_MapMoveTransit_PageTitle": "Long-distance Traveling...",
   "UI_MapMoveTransit_FromInfo": "From:  \n {0} \n<color=#yellow>「{1}」</color>",
   "UI_MapMoveTransit_ToInfo": "To:  \n{0}\n<color=#yellow>「{1}」</color>",
-  "UI_Stop_Travel": "Cancel Traveling",
+  "UI_Stop_Travel": "Stop",
   "UI_Stop_Travel_Confirm": "Are you sure you want to cancel traveling? The money and prestige spent will not be returned.",
   "LK_LifeSkill": "Fine arts",
   "LK_CombatSkill": "Skills",
