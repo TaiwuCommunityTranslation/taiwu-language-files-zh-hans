@@ -510,7 +510,7 @@
   "LK_CombatSkill_Move_Distance": "MOV·Dist",
   "LK_CombatSkill_Bounce": "Reflect",
   "LK_CombatSkill_Bounce_Range": "Reflect Range: <color=#F8E0CAFF>{0}</color>",
-  "LK_CombatSkill_Bounce_Outer": "Reflect External: <color=#F8E0CAFF>{0}%</color>给敌人",
+  "LK_CombatSkill_Bounce_Outer": "Reflect External: <color=#F8E0CAFF>{0}%</color>",
   "LK_CombatSkill_Bounce_Inner": "Reflect Internal: <color=#F8E0CAFF>{0}%</color>给敌人",
   "LK_CombatSkill_FightBack": "Counterattack",
   "LK_CombatSkill_FightBack_Desc": "Counter enemy's normal attack {0} with <color=#F8E0CAFF>{1}%</color> power",
