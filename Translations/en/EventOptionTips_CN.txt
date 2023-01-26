@@ -15,7 +15,7 @@ At the time of the secret story {0} was the lover of {1}
 The secret story happened when {0} was a victim
 Your standpoint is {0}
 {0}'s local deeds are more than {1}%
-Experience no less than {0}
+Experience required {0}
 Purity no higher than {0}
 Less companions than {0}
 {0}Not for Taiwu villagers
