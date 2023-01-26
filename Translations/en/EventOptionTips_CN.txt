@@ -4,7 +4,7 @@ Turns remaining {0}
 {0} is not a companion
 Cooldown: {0}
 Favor at or above {0}
-{0} of the area ennui not less than {1}%
+Favor of the {0} is more than {1}%
 Silver money no less than {0}
 Prestige no less than {0}
 The number of associates is less than {0}
@@ -14,7 +14,7 @@ At the time of the secret story {0} was a family friend of {1}
 At the time of the secret story {0} was the lover of {1}
 The secret story happened when {0} was a victim
 The player's position is {0}
-{0} of the area ennui not less than {1}%
+Favor of the {0} is more than {1}%
 Experience no less than {0}
 Purity no higher than {0}
 Number of companions is less than {0}
