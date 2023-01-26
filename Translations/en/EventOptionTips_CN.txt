@@ -1,4 +1,4 @@
-Number of companions is less than {0}
+Less companions than {0}
 Number of companions is more than {0}
 Turns remaining {0}
 {0} is not a companion
@@ -17,5 +17,5 @@ The player's position is {0}
 {0}'s local deeds are more than {1}%
 Experience no less than {0}
 Purity no higher than {0}
-Number of companions is less than {0}
+Less companions than {0}
 {0}Not for Taiwu villagers
