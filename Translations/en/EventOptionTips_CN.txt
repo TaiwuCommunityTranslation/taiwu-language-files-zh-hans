@@ -10,7 +10,7 @@ Prestige required {0}
 Less sworn siblings than {0}
 When the secret news happened, {0}'s Fame was positive.
 When the secret news happened, {0}'s Fame was negative.
-At the time of the secret story {0} was a family friend of {1}
+When the secret news happened, {0} was close to {1}
 At the time of the secret story {0} was the lover of {1}
 The secret story happened when {0} was a victim
 Your standpoint is {0}
