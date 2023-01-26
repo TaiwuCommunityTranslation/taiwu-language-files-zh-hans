@@ -18,4 +18,4 @@ Your standpoint is {0}
 Experience required {0}
 Purity not higher than {0}
 Less companions than {0}
-{0}Not for Taiwu villagers
+{0} isn't a Taiwu villager
