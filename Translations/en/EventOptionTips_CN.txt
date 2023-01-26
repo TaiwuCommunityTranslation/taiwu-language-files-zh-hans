@@ -2,7 +2,7 @@ Number of companions is less than {0}
 Number of companions is more than {0}
 Turns remaining {0}
 {0} Not a companion
-Cooling time period: {0}
+Cooldown: {0}
 Good sense at or above {0}
 {0} of the area ennui not less than {1}%
 Silver money no less than {0}
