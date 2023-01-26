@@ -7,7 +7,7 @@ Favor at or above {0}
 Favor of the {0} is more than {1}%
 Amount of money is more than {0}
 Amount of prestige is more than {0}
-Number of sword siblings less than {0}
+Less than {0} sworn siblings
 The reputation of {0} at the time of the secret news was positive
 The reputation of {0} at the time of the secret news is negative
 At the time of the secret story {0} was a family friend of {1}
