@@ -1,6 +1,6 @@
 Number of companions is less than {0}
 Number of companions is more than {0}
-Turns left remaining {0}
+Turns remaining {0}
 {0} Not for the same way
 Cooling time period: {0}
 Good sense at or above {0}
