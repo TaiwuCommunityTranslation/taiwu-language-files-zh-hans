@@ -6,7 +6,7 @@ Cooldown: {0}
 Favor at or above {0}
 {0}'s local deeds are more than {1}%
 Amount of money is more than {0}
-Amount of prestige is more than {0}
+Prestige required {0}
 Less than {0} sworn siblings
 The reputation of {0} at the time of the secret news was positive
 The reputation of {0} at the time of the secret news is negative
