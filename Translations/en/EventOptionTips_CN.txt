@@ -6,7 +6,7 @@ Cooling time period: {0}
 Good sense at or above {0}
 {0} of the area ennui not less than {1}%
 Silver money no less than {0}
-Prestige no less than { 0}
+Prestige no less than {0}
 The number of associates is less than { 0}
 The reputation of { 0} at the time of the secret news was positive
 The reputation of { 0} at the time of the secret news is negative
