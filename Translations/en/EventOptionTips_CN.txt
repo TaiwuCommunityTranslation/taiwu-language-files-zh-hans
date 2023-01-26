@@ -1,7 +1,7 @@
 Number of companions is less than {0}
 Number of companions is more than {0}
 Turns remaining {0}
-{0} Not a companion
+{0} is not a companion
 Cooldown: {0}
 Good sense at or above {0}
 {0} of the area ennui not less than {1}%
