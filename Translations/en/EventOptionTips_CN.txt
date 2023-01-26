@@ -13,7 +13,7 @@ The reputation of {0} at the time of the secret news is negative
 At the time of the secret story {0} was a family friend of {1}
 At the time of the secret story {0} was the lover of {1}
 The secret story happened when {0} was a victim
-The player's position is {0}
+Your standpoint is {0}
 {0}'s local deeds are more than {1}%
 Experience no less than {0}
 Purity no higher than {0}
