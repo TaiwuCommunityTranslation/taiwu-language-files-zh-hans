@@ -1,4 +1,4 @@
-The number of fellow travellers is less than {0}
+Number of companions is less than {0}
 The number of fellow travellers is not less than {0}
 Available mobility is no less than {0}
 {0} Not for the same way
@@ -17,5 +17,5 @@ The player's position is {0}
 {0} of the area ennui not less than {1}%
 Experience no less than {0}
 Purity no higher than {0}
-The number of fellow travellers is less than {0}
+Number of companions is less than {0}
 {0}Not for Taiwu villagers
