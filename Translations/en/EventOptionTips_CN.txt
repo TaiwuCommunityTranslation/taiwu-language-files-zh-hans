@@ -1,5 +1,5 @@
 Number of companions is less than {0}
-The number of fellow travellers is not less than {0}
+Number of companions is more than {0}
 Available mobility is no less than {0}
 {0} Not for the same way
 Cooling time period: {0}
