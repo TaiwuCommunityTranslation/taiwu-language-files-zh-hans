@@ -8,7 +8,7 @@ Good sense at or above {0}
 Silver money no less than {0}
 Prestige no less than {0}
 The number of associates is less than {0}
-The reputation of { 0} at the time of the secret news was positive
+The reputation of {0} at the time of the secret news was positive
 The reputation of { 0} at the time of the secret news is negative
 At the time of the secret story { 0} was a family friend of { 1}
 At the time of the secret story { 0} was the lover of { 1}
