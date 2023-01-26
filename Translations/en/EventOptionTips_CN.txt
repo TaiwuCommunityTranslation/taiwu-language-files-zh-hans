@@ -18,4 +18,4 @@ The player's position is {0}
 Experience no less than {0}
 Purity no higher than {0}
 The number of fellow travellers is less than {0}
-{ 0}Not for Taiwu villagers
+{0}Not for Taiwu villagers
