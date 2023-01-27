@@ -1525,7 +1525,7 @@
   "LK_SecretInformation_AuthorityCost": "Spreading this secret requires the consumption of {0} Authority",
   "LK_SecretInformation_RemainTime_Simple": "Time Left",
   "LK_SecretInformation_HolderCount_Simple": "Witnesses",
-  "LK_SecretInformation_AuthorityCost_Simple": "Auth Cost",
+  "LK_SecretInformation_AuthorityCost_Simple": "Cost",
   "LK_SecretInformation_DisseminationBranchCharacter": "Source",
   "LK_SecretInformation_SourceCharacter": "This secret news is from: {0}",
   "LK_SecretInformation_OccurredLocation": "This secret story took place on: {0}",
