@@ -1531,7 +1531,7 @@
   "LK_SecretInformation_OccurredLocation": "This secret story took place on: {0}",
   "LK_Information_Tips_Use": "Use News",
   "LK_SecretInformation_Tips_Info": "Secret Information",
-  "LK_SecretInformation_Tips_Use": "Use Secret Information",
+  "LK_SecretInformation_Tips_Use": "Use Information",
   "LK_SecretInformation_Tips_Broadcast": "Public News",
   "LK_Char_Name": "Name",
   "LK_Char_Age": "Age",
