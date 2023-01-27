@@ -1,6 +1,6 @@
 Less companions than: {0}
 More companions than: {0}
-Turns remaining {0}
+Turns remaining: {0}
 {0} is not a companion
 Cooldown: {0}
 Favor at or above {0}
