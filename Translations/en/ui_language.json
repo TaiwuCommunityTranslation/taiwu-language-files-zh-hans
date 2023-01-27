@@ -2455,7 +2455,7 @@
   "LK_CharacterAttribute_Eating_Title": "Ingested",
   "LK_CharacterAttribute_QiDisorder_Title": "Internal Disorder",
   "LK_CharacterAttribute_Samsara_Char_Title": "The Reincarnated",
-  "LK_Equip_Slot_Empty_Tips": "{0} slot empty",
+  "LK_Equip_Slot_Empty_Tips": "{0} unequipped",
   "LK_Chicken_Name": "Chicken",
   "LK_BuildingOverview_NewBuilding": "New Building",
   "LK_Preset": "Preset",
