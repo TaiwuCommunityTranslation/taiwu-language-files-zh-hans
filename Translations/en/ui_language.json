@@ -1530,7 +1530,7 @@
   "LK_SecretInformation_SourceCharacter": "This secret news is from: {0}",
   "LK_SecretInformation_OccurredLocation": "This secret story took place on: {0}",
   "LK_Information_Tips_Use": "Use News",
-  "LK_SecretInformation_Tips_Info": "Secret Information",
+  "LK_SecretInformation_Tips_Info": "Information",
   "LK_SecretInformation_Tips_Use": "Use Information",
   "LK_SecretInformation_Tips_Broadcast": "Public News",
   "LK_Char_Name": "Name",
