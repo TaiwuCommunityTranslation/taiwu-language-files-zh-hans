@@ -1513,7 +1513,7 @@
   "LK_Sect_Knowledge": "Sect",
   "LK_Life_Skill_Knowledge": "Fine arts",
   "LK_Western_Knowledge": "West",
-  "LK_SecretInformation": "Knowledge",
+  "LK_SecretInformation": "Secret",
   "LK_BroadcastSecretInformation": "Public News",
   "LK_SecretInformationForCharacter": "{0} 's knowledge",
   "LK_NormalInformationForCharacter": "{0} 's hearsay",
