@@ -1515,7 +1515,7 @@
   "LK_Western_Knowledge": "West",
   "LK_SecretInformation": "Secret",
   "LK_BroadcastSecretInformation": "Public News",
-  "LK_SecretInformationForCharacter": "{0} 's knowledge",
+  "LK_SecretInformationForCharacter": "{0}'s knowledge",
   "LK_NormalInformationForCharacter": "{0} 's hearsay",
   "LK_SecretInformationRelatedToSelf": "Secret Info Related To You",
   "LK_SecretInformationRelatedToSelfNo": "Secret Info Unrelated To You",
