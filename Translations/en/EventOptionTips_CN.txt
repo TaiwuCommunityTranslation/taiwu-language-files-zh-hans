@@ -1,4 +1,4 @@
-Less companions than {0}
+Less companions than: {0}
 More companions than {0}
 Turns remaining {0}
 {0} is not a companion
@@ -17,5 +17,5 @@ Your standpoint is {0}
 {0}'s local deeds are more than {1}%
 Experience required {0}
 Purity not higher than {0}
-Less companions than {0}
+Less companions than: {0}
 {0} isn't a Taiwu villager
