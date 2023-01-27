@@ -1,31 +1,31 @@
 Metal·Exocism of Adamancy
-"Vajra voodoo, building to break the filth". \n\nThe power limit of "Vajra" type feats is increased by 30%. \nThe power limit of "Purple Haze" type feats is reduced by 30%. \nEvery time you use "Pure Yang"-type feats, you will suffer backlash damage and internal breath disruption.
+"Metal voodoo, building to break the filth". \n\nThe power limit of "Metal" type feats is increased by 30%. \nThe power limit of "Purple Haze" type feats is reduced by 30%. \nEvery time you use "Pure Yang"-type feats, you will suffer backlash damage and internal breath disruption.
 Wood·Violet Haze From East
-"Violet Haze, Seven Elements of Doom". \n\nThe power cap of "Purple Haze" type feats is increased by 30%. \nThe power cap of "Return to the Origin" type feats is reduced by 30%. \nEvery time you use "Vajra" type feats, you will suffer backlash damage and internal breath disorder.
+"Violet Haze, Seven Elements of Doom". \n\nThe power cap of "Purple Haze" type feats is increased by 30%. \nThe power cap of "Return to the Origin" type feats is reduced by 30%. \nEvery time you use "Metal" type feats, you will suffer backlash damage and internal breath disorder.
 Water·Icy Cold
 "Xuan Yin Ice Cold, Kun Hidden in the North". \n\nThe power limit of "Xuan Yin" type feats is increased by 30%. \nThe power limit of "Pure Yang" type feats is reduced by 30%. \nEvery time you use "Return to the Source" type of feats, you will suffer backlash damage and internal breath disruption.
 Fire·Pure as Flame
-"Pure Yang Blazing Fire, Red Son Not Confused". \n\nThe power limit of "Pure Yang" type feats is increased by 30%. \nThe power limit of "Vajra" type feats is reduced by 30%. \nEvery time you use "Xuan Yin" type feats, you will suffer backlash damage and internal breath disorder.
+"Pure Yang Blazing Fire, Red Son Not Confused". \n\nThe power limit of "Pure Yang" type feats is increased by 30%. \nThe power limit of "Metal" type feats is reduced by 30%. \nEvery time you use "Xuan Yin" type feats, you will suffer backlash damage and internal breath disorder.
 Earth·Dust to Dust
 "Returning to the origin and transforming into the implication, bearing the sky." \n\nThe power cap of "Return to the Origin" type of feats is increased by 30%. \nThe power limit of "Xuan Yin" type feats is reduced by 30%. \nEvery time you use "Purple Haze" type of feats, you will suffer from backlash damage and internal breath disorder.
 Harmony·Ultra Unification
 "Heaven and man are one, mixed elements are one". \n \n The power limit of "Mixed Element" type skills is increased by 30%.
 Metal·Overwhelmed by Water(Greater Metal-Water Transmution)
-"Water with much gold sinks, and only then does it live its form". \n\nThe power cap of "Vajra" and "Xuan Yin" type feats is increased by 20%. \nThe power ceiling of "Purple Haze" and "Pure Yang" type of feats is reduced by 20%.
+"Water with much gold sinks, and only then does it live its form". \n\nThe power cap of "Metal" and "Xuan Yin" type feats is increased by 20%. \nThe power ceiling of "Purple Haze" and "Pure Yang" type of feats is reduced by 20%.
 Metal·Blunted by Water(Minor Metal-Water Transmution)
-"When strong gold gets water, it will thwart its edge". \n\nThe power limit of "Vajra" type feats is increased by 20%. \nThe power cap of "Purple Haze" type feats is reduced by 20%. \nEvery time you use "Pure Yang" type feats, you will suffer from backlash damage and internal breath disruption.
+"When strong gold gets water, it will thwart its edge". \n\nThe power limit of "Metal" type feats is increased by 20%. \nThe power cap of "Purple Haze" type feats is reduced by 20%. \nEvery time you use "Pure Yang" type feats, you will suffer from backlash damage and internal breath disruption.
 Metal·Dominated by Wood(Sever Metal-Wood Confliction)
-"If there is a lack of wood and gold, you will see the weakness. \n\nThe power limit of "Vajra"-type feats is reduced by 30%. \nEvery time you use "Vajra"-type feats, you will suffer backlash damage and internal breath disruption.
+"If there is a lack of wood and gold, you will see the weakness. \n\nThe power limit of "Metal"-type feats is reduced by 30%. \nEvery time you use "Metal"-type feats, you will suffer backlash damage and internal breath disruption.
 Metal·Disturbed by Wood(Minor Metal-Wood Confiction)
 "When wood is weak and meets gold, it will be cut and broken". \n\nThe power limit of "Purple Haze"-type feats is reduced by 20%. \nEvery time you use "Purple Haze" type feats, you will suffer from backlash damage and internal breath disruption.
 Metal·Enchanted by Earth(Greater Earth-Metal Transmution)
-"The earth is full of gold, and it becomes a mound of diffused veins". \n\nThe power cap of "Vajra" and "Return to the Origin" type feats is increased by 20%. \nThe power limit of "Purple Haze" and "Xuan Yin" type of feats is reduced by 20%.
+"The earth is full of gold, and it becomes a mound of diffused veins". \n\nThe power cap of "Metal" and "Return to the Origin" type feats is increased by 20%. \nThe power limit of "Purple Haze" and "Xuan Yin" type of feats is reduced by 20%.
 Metal·Concealed by Earth(Minor Earth-Metal Transmution)
-"When gold is hidden by the earth, its preciousness is contained." \n\nThe power ceiling of "Vajra" type feats is increased by 20%. \nThe power cap of "Purple Haze" type feats is reduced by 20%. \nEvery time you use "Pure Yang"-type feats, you will suffer backlash damage and internal breath disruption.
+"When gold is hidden by the earth, its preciousness is contained." \n\nThe power ceiling of "Metal" type feats is increased by 20%. \nThe power cap of "Purple Haze" type feats is reduced by 20%. \nEvery time you use "Pure Yang"-type feats, you will suffer backlash damage and internal breath disruption.
 Wood·Sacrificed to Fire(Greater Wood-Fire Transmution)
-"Fire is more wood burning, to show its intensity". \n\nThe power cap of "Purple Haze" and "Pure Yang" type feats is increased by 20%. \nThe power cap of "Return to the Source" and "Vajra" type of feats is reduced by 20%.
+"Fire is more wood burning, to show its intensity". \n\nThe power cap of "Purple Haze" and "Pure Yang" type feats is increased by 20%. \nThe power cap of "Return to the Source" and "Metal" type of feats is reduced by 20%.
 Wood·Solftened by Fire(Minor Wood-Fire Transmution)
-"When strong wood gets fire, it can only be turned into its stubbornness". \n\nThe power ceiling of "Purple Haze" type feats is increased by 20%. \nThe power limit of "Return to the Origin" type feats is reduced by 20%. \nEvery time you use "Vajra" type of feats, you will suffer from backlash damage and internal breath disorder.
+"When strong wood gets fire, it can only be turned into its stubbornness". \n\nThe power ceiling of "Purple Haze" type feats is increased by 20%. \nThe power limit of "Return to the Origin" type feats is reduced by 20%. \nEvery time you use "Metal" type of feats, you will suffer from backlash damage and internal breath disorder.
 Wood·Dominated by Earth(Sever Wood-Earth Confliction)
 "If the earth is full of wood, there will be damage". \n\nThe power limit of "Purple Haze"-type feats is reduced by 30%. \nEvery time you use "Purple Haze" type feats, you will suffer from backlash damage and internal breath disruption.
 Wood·Disturbed by Earth(Minor Wood-Earth Confiction)
@@ -33,7 +33,7 @@ Wood·Disturbed by Earth(Minor Wood-Earth Confiction)
 Wood·Prosperous on Water(Greater Water-Wood Transmution)
 "Water lives and wood grows, gathering wood into a forest". \n\nThe power cap of "Purple Haze" and "Xuan Yin" type feats is increased by 20%. \nThe power cap of "Return to the Source" and "Pure Yang" type of feats is reduced by 20%.
 Wood·Nurished by Water(Minor Water-Wood Transmution)
-"When wood is moistened by water, its branches grow." \n\nThe power ceiling of "Purple Haze" type feats is increased by 20%. \nThe power cap of "Return to the Source" type of feats is reduced by 20%. \nEvery time you use "Vajra" type feats, you will suffer from backlash damage and internal breath disruption.
+"When wood is moistened by water, its branches grow." \n\nThe power ceiling of "Purple Haze" type feats is increased by 20%. \nThe power cap of "Return to the Source" type of feats is reduced by 20%. \nEvery time you use "Metal" type feats, you will suffer from backlash damage and internal breath disruption.
 Water·Nurishment to Wood(Greater Water-Wood Transmution)
 "Wood is more water shrinkage, so that the quality of the wood is alive". \n\nThe power cap of "Xuan Yin" and "Purple Haze" type feats is increased by 20%. \nThe power ceiling of "Pure Yang" and "Return to Origin" type of feats is reduced by 20%.
 Water·Diffusion to Wood(Minor Water-Wood Transmution)
@@ -43,23 +43,23 @@ Water·Boiled by Fire(Sever Water-Fire Confliction)
 Water·Evaporated by Fire(Minor Water-Fire Confiction)
 "When fire is weak and meets water, it will be extinguished". \n\nThe power limit of "Pure Yang" type feats is reduced by 20%. \nEvery time you use "pure yang" type feats, you will suffer backlash damage and internal breath disruption.
 Water·Flood from Metal(Greater Metal-Water Transmution)
-"When gold and water accumulate, rivers converge". \n\nThe power cap of "Xuan Yin" and "Vajra" type feats is increased by 20%. \nThe power ceiling of "Pure Yang" and "Purple Haze" type feats is reduced by 20%.
+"When gold and water accumulate, rivers converge". \n\nThe power cap of "Xuan Yin" and "Metal" type feats is increased by 20%. \nThe power ceiling of "Pure Yang" and "Purple Haze" type feats is reduced by 20%.
 Water·Condensed over Metal(Minor Metal-Water Transmution)
 "When water is assisted by metal, it transforms into qi and condenses into form". \n\nThe power ceiling of the "Xuan Yin" category of feats is increased by 20%. \nThe power limit of "Pure Yang" type feats is reduced by 20%. \nEvery time you use "Return to the Source" type of feats, you will suffer backlash damage and internal breath disruption.
 Fire·Prolonged by Earth(Greater Fire-Earth Transmution)
-"If earth is more obscure than fire, it will prolong its life". \n\nThe power cap of "Pure Yang" and "Return to Origin" type of feats is increased by 20%. \nThe power limit of "Vajra" and "Xuan Yin" type feats is reduced by 20%.
+"If earth is more obscure than fire, it will prolong its life". \n\nThe power cap of "Pure Yang" and "Return to Origin" type of feats is increased by 20%. \nThe power limit of "Metal" and "Xuan Yin" type feats is reduced by 20%.
 Fire·Converged by Earth(Minor Fire-Earth Transmution)
-"Strong fire gets earth to stop its flames". \n\nThe power ceiling of "Pure Yang"-type feats is increased by 20%. \nThe power limit of "Vajra" type feats is reduced by 20%. \nEvery time you use "Xuan Yin" type feats, you will suffer from backlash damage and internal breath disorder.
+"Strong fire gets earth to stop its flames". \n\nThe power ceiling of "Pure Yang"-type feats is increased by 20%. \nThe power limit of "Metal" type feats is reduced by 20%. \nEvery time you use "Xuan Yin" type feats, you will suffer from backlash damage and internal breath disorder.
 Fire·Extinguished by Metal(Sever Fire-Metal Confliction)
 "When much gold is extinguished by fire, it will be extinguished". \n\nThe power limit of "Pure Yang" type feats is reduced by 30%. \nEvery time you use "Pure Yang" type of feats, you will suffer from backlash damage and internal breath disruption.
 Fire·Melting out Metal(Minor Fire-Metal Confiction)
-"If gold is weak when it meets fire, it will see pinning and melting". \n\nThe power limit of "Vajra"-type feats is reduced by 20%. \nEvery time you use "Vajra"-type feats, you will suffer backlash damage and internal breath disruption.
+"If gold is weak when it meets fire, it will see pinning and melting". \n\nThe power limit of "Metal"-type feats is reduced by 20%. \nEvery time you use "Metal"-type feats, you will suffer backlash damage and internal breath disruption.
 Fire·Enhanced by Wood(Greater Wood-Fire Transmution)
-"When wood is much burned by fire, the power will be fierce". \n\nThe power cap of "Pure Yang" and "Purple Haze" type feats is increased by 20%. \nThe power cap of "Vajra" and "Return to Origin" type of feats is reduced by 20%.
+"When wood is much burned by fire, the power will be fierce". \n\nThe power cap of "Pure Yang" and "Purple Haze" type feats is increased by 20%. \nThe power cap of "Metal" and "Return to Origin" type of feats is reduced by 20%.
 Fire·Sparkle from Wood(Minor Wood-Fire Transmution)
-"Adding wood to fire, burning each other". \n\nThe power ceiling of "Pure Yang"-type feats is increased by 20%. \nThe power limit of "Vajra" type feats is reduced by 20%. \nEvery time you use "Xuan Yin" type feats, you will suffer backlash damage and internal breath disorder.
+"Adding wood to fire, burning each other". \n\nThe power ceiling of "Pure Yang"-type feats is increased by 20%. \nThe power limit of "Metal" type feats is reduced by 20%. \nEvery time you use "Xuan Yin" type feats, you will suffer backlash damage and internal breath disorder.
 Earth·Rammed by Metal(Greater Earth-Metal Transmution)
-"The gold is much changed by the earth, so that it can get its firmness". \n\nThe power cap of "Return to the Origin" and "Vajra" type feats is increased by 20%. \nThe power limit of "Xuan Yin" and "Purple Haze" type feats is reduced by 20%.
+"The gold is much changed by the earth, so that it can get its firmness". \n\nThe power cap of "Return to the Origin" and "Metal" type feats is increased by 20%. \nThe power limit of "Xuan Yin" and "Purple Haze" type feats is reduced by 20%.
 Earth·Ploughed by Metal(Minor Earth-Metal Transmution)
 "The strong earth gets gold, and the party controls its congestion". \n\nThe power ceiling of the "Return to the Origin" category of feats is increased by 20%. \nThe power limit of "Xuan Yin" type feats is reduced by 20%. \nEvery time you use "Purple Haze" type of feats, you will suffer from backlash damage and internal breath disorder.
 Earth·Washed away by Water(Sever Earth-Water Confliction)
@@ -67,6 +67,6 @@ Earth·Washed away by Water(Sever Earth-Water Confliction)
 Earth·Silted up by Water(Minor Earth-Water Confiction)
 "If water is weak when it meets earth, it will be silted up". \n\nThe power limit of "Xuan Yin" type feats is reduced by 20%. \nEvery time you use "Xuan Yin" type of feats, you will suffer from backlash damage and internal breath disruption.
 Earth·Revealed by Fire(Greater Fire-Earth Transmution)
-"The earth is burned by fire, and the fire is exhausted." \n\nThe power cap of "Return to the Origin" and "Pure Yang" type feats is increased by 20%. \nThe power limit of "Xuan Yin" and "Vajra" type feats is reduced by 20%.
+"The earth is burned by fire, and the fire is exhausted." \n\nThe power cap of "Return to the Origin" and "Pure Yang" type feats is increased by 20%. \nThe power limit of "Xuan Yin" and "Metal" type feats is reduced by 20%.
 Earth·Solidified from Fire(Minor Fire-Earth Transmution)
 "Fire moxibustion and earth knotting, refining quality and forging form". \n\nThe power ceiling of "Return to the Origin" type feats is increased by 20%. \nThe power limit of "Xuan Yin" type of feats is reduced by 20%. \nEvery time you use "Purple Haze" type of feats, you will suffer from backlash damage and internal breath disorder.
