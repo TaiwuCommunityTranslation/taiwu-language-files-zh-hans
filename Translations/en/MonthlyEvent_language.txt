@@ -32,7 +32,7 @@ have a difficult birth and lose a child
 {0} had an accident during {1} childbirth, resulting in the painful loss of the fetus in the womb.
 Blessed with a Son
 {0} gave birth to a son in {1}
-Stork Delivers a Girl
+Blessed with a Daughter
 {0} gave birth to a daughter in {1}
 difficult-to-birth leftover son
 {0} had an accident during {1} childbirth, and although she gave birth to a son, she eventually perished.
