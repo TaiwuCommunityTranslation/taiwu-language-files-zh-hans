@@ -40,7 +40,7 @@ Open encounter
  In {0}<color=#yellow> A new adventure opens up: "{1}"...</color>
 Experiencing natural disasters
 Due to a <color=#red>natural disaster </color>at {0} , all party members were damaged!
-Become a Fellow
+Joining team
 {0} has become a new cohort!
 Leaving team
 {0} has left the team...
