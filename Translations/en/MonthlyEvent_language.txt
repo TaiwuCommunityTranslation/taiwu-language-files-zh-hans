@@ -30,7 +30,7 @@ difficult childbirth and double death
 {0} had an accident during {1} childbirth, which resulted in the loss of the baby in her womb.
 have a difficult birth and lose a child
 {0} had an accident during {1} childbirth, resulting in the painful loss of the fetus in the womb.
-Stork Delivers a Boy
+Blessed with a Son
 {0} gave birth to a son in {1}
 Stork Delivers a Girl
 {0} gave birth to a daughter in {1}
