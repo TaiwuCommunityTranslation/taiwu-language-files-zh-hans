@@ -42,7 +42,7 @@ Experiencing natural disasters
 Due to a <color=#red>natural disaster </color>at {0} , all party members were damaged!
 Become a Fellow
 {0} has become a new cohort!
-Withdrawal from the same path
+Leaving team
 {0} has left the team...
 Change of position
 {0} of the change of position in the world in order to {1}...
