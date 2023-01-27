@@ -3,7 +3,7 @@ More companions than: {0}
 Turns remaining: {0}
 {0} is not a companion
 Cooldown: {0}
-Favor at or above {0}
+Favor at or above: {0}
 {0}'s local deeds are more than {1}%
 Money required {0}
 Prestige required {0}
