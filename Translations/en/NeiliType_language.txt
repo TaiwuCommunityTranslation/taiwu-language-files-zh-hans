@@ -29,13 +29,13 @@ Wood·Solftened by Fire(Minor Wood-Fire Transmution)
 Wood·Dominated by Earth(Sever Wood-Earth Confliction)
 "If the earth is full of wood, there will be damage". \n\nThe power limit of "Wood"-type feats is reduced by 30%. \nEvery time you use "Wood" type feats, you will suffer from backlash damage and internal breath disruption.
 Wood·Disturbed by Earth(Minor Wood-Earth Confiction)
-"If the earth is weak and meets wood, it will be dumped and trapped". \n\nThe power limit of "Return to Origin" type of feats is reduced by 20%. \nEvery time you use the "Return to Origin" type of feats, you will suffer from backlash damage and internal breath disruption.
+"If the earth is weak and meets wood, it will be dumped and trapped". \n\nThe power limit of "Earth" type of feats is reduced by 20%. \nEvery time you use the "Earth" type of feats, you will suffer from backlash damage and internal breath disruption.
 Wood·Prosperous on Water(Greater Water-Wood Transmution)
 "Water lives and wood grows, gathering wood into a forest". \n\nThe power cap of "Wood" and "Water" type feats is increased by 20%. \nThe power cap of "Earth" and "Fire" type of feats is reduced by 20%.
 Wood·Nurished by Water(Minor Water-Wood Transmution)
 "When wood is moistened by water, its branches grow." \n\nThe power ceiling of "Wood" type feats is increased by 20%. \nThe power cap of "Earth" type of feats is reduced by 20%. \nEvery time you use "Metal" type feats, you will suffer from backlash damage and internal breath disruption.
 Water·Nurishment to Wood(Greater Water-Wood Transmution)
-"Wood is more water shrinkage, so that the quality of the wood is alive". \n\nThe power cap of "Water" and "Wood" type feats is increased by 20%. \nThe power ceiling of "Fire" and "Return to Origin" type of feats is reduced by 20%.
+"Wood is more water shrinkage, so that the quality of the wood is alive". \n\nThe power cap of "Water" and "Wood" type feats is increased by 20%. \nThe power ceiling of "Fire" and "Earth" type of feats is reduced by 20%.
 Water·Diffusion to Wood(Minor Water-Wood Transmution)
 "When strong water gets wood, it will drain its power". \n\nThe power ceiling of "Water" type of feats is increased by 20%. \nThe power limit of "pure yang" type feats is reduced by 20%. \nEvery time you use "Earth" type of feats, you will suffer backlash damage and internal breath disruption.
 Water·Boiled by Fire(Sever Water-Fire Confliction)
@@ -47,7 +47,7 @@ Water·Flood from Metal(Greater Metal-Water Transmution)
 Water·Condensed over Metal(Minor Metal-Water Transmution)
 "When water is assisted by metal, it transforms into qi and condenses into form". \n\nThe power ceiling of the "Water" category of feats is increased by 20%. \nThe power limit of "Fire" type feats is reduced by 20%. \nEvery time you use "Earth" type of feats, you will suffer backlash damage and internal breath disruption.
 Fire·Prolonged by Earth(Greater Fire-Earth Transmution)
-"If earth is more obscure than fire, it will prolong its life". \n\nThe power cap of "Fire" and "Return to Origin" type of feats is increased by 20%. \nThe power limit of "Metal" and "Water" type feats is reduced by 20%.
+"If earth is more obscure than fire, it will prolong its life". \n\nThe power cap of "Fire" and "Earth" type of feats is increased by 20%. \nThe power limit of "Metal" and "Water" type feats is reduced by 20%.
 Fire·Converged by Earth(Minor Fire-Earth Transmution)
 "Strong fire gets earth to stop its flames". \n\nThe power ceiling of "Fire"-type feats is increased by 20%. \nThe power limit of "Metal" type feats is reduced by 20%. \nEvery time you use "Water" type feats, you will suffer from backlash damage and internal breath disorder.
 Fire·Extinguished by Metal(Sever Fire-Metal Confliction)
@@ -55,7 +55,7 @@ Fire·Extinguished by Metal(Sever Fire-Metal Confliction)
 Fire·Melting out Metal(Minor Fire-Metal Confiction)
 "If gold is weak when it meets fire, it will see pinning and melting". \n\nThe power limit of "Metal"-type feats is reduced by 20%. \nEvery time you use "Metal"-type feats, you will suffer backlash damage and internal breath disruption.
 Fire·Enhanced by Wood(Greater Wood-Fire Transmution)
-"When wood is much burned by fire, the power will be fierce". \n\nThe power cap of "Fire" and "Wood" type feats is increased by 20%. \nThe power cap of "Metal" and "Return to Origin" type of feats is reduced by 20%.
+"When wood is much burned by fire, the power will be fierce". \n\nThe power cap of "Fire" and "Wood" type feats is increased by 20%. \nThe power cap of "Metal" and "Earth" type of feats is reduced by 20%.
 Fire·Sparkle from Wood(Minor Wood-Fire Transmution)
 "Adding wood to fire, burning each other". \n\nThe power ceiling of "Fire"-type feats is increased by 20%. \nThe power limit of "Metal" type feats is reduced by 20%. \nEvery time you use "Water" type feats, you will suffer backlash damage and internal breath disorder.
 Earth·Rammed by Metal(Greater Earth-Metal Transmution)
@@ -63,7 +63,7 @@ Earth·Rammed by Metal(Greater Earth-Metal Transmution)
 Earth·Ploughed by Metal(Minor Earth-Metal Transmution)
 "The strong earth gets gold, and the party controls its congestion". \n\nThe power ceiling of the "Earth" category of feats is increased by 20%. \nThe power limit of "Water" type feats is reduced by 20%. \nEvery time you use "Wood" type of feats, you will suffer from backlash damage and internal breath disorder.
 Earth·Washed away by Water(Sever Earth-Water Confliction)
-"If there is much water and earth flow, it will be dissipated". \n\nThe power limit of "Earth" type of feats is reduced by 30%. \nEvery time you use the "Return to Origin" type of feats, you will suffer from backlash damage and internal breath disruption.
+"If there is much water and earth flow, it will be dissipated". \n\nThe power limit of "Earth" type of feats is reduced by 30%. \nEvery time you use the "Earth" type of feats, you will suffer from backlash damage and internal breath disruption.
 Earth·Silted up by Water(Minor Earth-Water Confiction)
 "If water is weak when it meets earth, it will be silted up". \n\nThe power limit of "Water" type feats is reduced by 20%. \nEvery time you use "Water" type of feats, you will suffer from backlash damage and internal breath disruption.
 Earth·Revealed by Fire(Greater Fire-Earth Transmution)
