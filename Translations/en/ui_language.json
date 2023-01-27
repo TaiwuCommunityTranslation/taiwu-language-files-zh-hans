@@ -1516,7 +1516,7 @@
   "LK_SecretInformation": "Secret",
   "LK_BroadcastSecretInformation": "Public News",
   "LK_SecretInformationForCharacter": "{0}'s secrets",
-  "LK_NormalInformationForCharacter": "{0} 's hearsay",
+  "LK_NormalInformationForCharacter": "{0}'s news",
   "LK_SecretInformationRelatedToSelf": "Secret Info Related To You",
   "LK_SecretInformationRelatedToSelfNo": "Secret Info Unrelated To You",
   "LK_SecretInformation_RemainTime": "This secret info will be forgotten in {0} months...",
