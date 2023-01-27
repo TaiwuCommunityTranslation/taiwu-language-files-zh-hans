@@ -41,7 +41,7 @@ Open encounter
 Experiencing natural disasters
 Due to a <color=#red>natural disaster </color>at {0} , all party members were damaged!
 Joining team
-{0} has become a teammate
+{0} has joined the team...
 Leaving team
 {0} has left the team...
 Change of position
