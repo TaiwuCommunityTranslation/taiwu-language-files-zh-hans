@@ -1141,7 +1141,7 @@ If the weapon used by the user is the "Polearm·PengLai", the user's Inhale and 
 Unblocked: This Polearm can reduce the Inhale and Stance consumption of all "Polearm" techniques
 Divine Staff of\nOcean Carry
 technique is more difficult to interrupt
-If the weapon used by the wielder is the "Sea-holding God Staff", this technique cannot be "interrupted" and the "Sea-holding God Staff" can be unblocked after this technique has been used to 100% of its power, this Polearm can make all "Polearm" techniques more difficult to be "interrupted" and last until other weapons are used. Unblocked or end of battle
+If the weapon used by the wielder is the "Divine Staff of Ocean Carry", this technique cannot be "interrupted" and the "Divine Staff of Ocean Carry" can be unblocked after this technique has been used to 100% of its power, this Polearm can make all "Polearm" techniques more difficult to be "interrupted" and last until other weapons are used. Unblocked or end of battle
 Unblocked: This Polearm can make all "Polearm" techniques harder to "interrupt"
 Iron Staff of\nMixed Element
 If the weapon used by the user is the "Polearm·Mysterious Iron", the power of this technique is greatly increased, and after this technique has been used at 100% of its power, the "Polearm·Mysterious Iron" can be unsealed. Once unsealed, will increase the power of all "Polearm techniques" until the battle ends, or other weapons are unblocked.
