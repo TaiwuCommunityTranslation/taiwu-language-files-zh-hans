@@ -1250,7 +1250,7 @@
   "LK_Making_State_Finished": "Crafting Finished",
   "LK_Making_Left_Time": "Month Needed",
   "LK_Making_Tool_Info_Title": "【Tool Effect】",
-  "LK_Making_Tool_Info": "·{0}Attainment+{1}",
+  "LK_Making_Tool_Info": "·{0} Attainment+{1}",
   "LK_Repair_Item_Title": "Repair Info",
   "LK_Add_Durability": "Durability Repair",
   "LK_Durability_Change": "<color=#{0}>{1} → {2}</color> / {3}",
