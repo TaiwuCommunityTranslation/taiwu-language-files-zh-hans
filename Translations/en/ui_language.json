@@ -2685,7 +2685,7 @@
   "LK_BuildingOverview_BuildingCountInArea": "Constructed {0}",
   "LK_Teammate_Auto_Equip_Tog_Label": "more",
   "LK_Teammate_Auto_Equip_Tog_Tips": "When this switch is on, the character will actively change into more suitable equipment when passing the moon ......",
-  "LK_Make_SubType_Manual_Tip": "Specifying the word skill will increase the skill attainment requirement ......",
+  "LK_Make_SubType_Manual_Tip": "Specifying a style will increase the required attainment!",
   "LK_Equip_Display_In_Combat": "Look",
   "LK_Equip_Display_In_Combat_Show_All": "Show all",
   "LK_Equip_Skill_Order_Setting_Title": "Sort martial arts",
