@@ -2414,7 +2414,7 @@
   "LK_Day_Tips": "Tian",
   "LK_Due_To_Medicine_Attainment": "Due to character's current<SpName=mousetip_jiyi_8>Medicine attainment",
   "LK_Heal_Injury_Count_Per_Month": "You can heal {0} times per month<SpName=sp_icon_shijiehecheng>",
-  "LK_Due_To_Toxicology_Attainment": "Due to character's current<SpName=mousetip_jiyi_9>Toxicology attainment",
+  "LK_Due_To_Toxicology_Attainment": "Due to character's current <SpName=mousetip_jiyi_9>Toxicology attainment",
   "LK_Heal_Poison_Count_Per_Month": "You can detox {0} times per month<SpName=sp_icon_shijiehecheng>",
   "LK_Heal_Injury_No_Need_Tips": "You are at full health, no healing needed.",
   "LK_Heal_Poison_No_Need_Tips": "You are not poisoned, no need to detox.",
