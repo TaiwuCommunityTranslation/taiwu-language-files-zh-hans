@@ -709,7 +709,7 @@
   "LK_Combat_Skill_Mobility": "Footwork",
   "LK_Combat_Skill_Mobility_Tips": "After consuming Stamina to use Footwork art, you will gain Footwork's Stamina that gives special effects, and is consumed instead of Stamina when moving...",
   "LK_Combat_AtkRange": "Attack Range：{0}",
-  "LK_Combat_Attack_Count": "Range",
+  "LK_Combat_Attack_Count": "Cost",
   "LK_Combat_Attack_Count_Tips": "Performing weapon attacks requires attack tokens. Different weapons use different amount of attack tokens. The attack tokens recover on their own, and their recovery speed depends on Attack Speed stat...",
   "LK_Combat_Out_Range_Tips": "Out of range",
   "LK_Combat_Weapon_Durability_Not_Enough_Tips": "Low Weapon Durability",
