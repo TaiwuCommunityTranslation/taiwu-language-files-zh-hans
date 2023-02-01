@@ -1210,7 +1210,7 @@
   "LK_Make_Resource_Count": "({0}/{1})",
   "LK_Make_Resource_Require_Meet": "{0}/{1}",
   "LK_Make_Resource_Require_Not_Meet": "<color=#C16927>{0}</color>/{1}",
-  "LK_Tool_Add_Attainment": "{0}Attainment：+{1}",
+  "LK_Tool_Add_Attainment": "{0} Attainment：+{1}",
   "LK_Tool_Add_Attainment_Tips": "The better tools will provide you more attainment bonus during crafting、repairing and refining…",
   "LK_Making_Ingredient": "Ingredient",
   "LK_Select_Making_Material": "Select Materials",
