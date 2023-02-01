@@ -2419,7 +2419,7 @@
   "LK_Heal_Injury_No_Need_Tips": "You are at full health, no healing needed.",
   "LK_Heal_Poison_No_Need_Tips": "You are not poisoned, no need to detox.",
   "LK_Heal_Injury_No_Effect_Tips": "The Doctor's attainment in Medicine is not high enough to heal your injuries.",
-  "LK_Heal_Poison_No_Effect_Tips": "The Doctor's attainment in Poison is not high enough to heal your injuries.",
+  "LK_Heal_Poison_No_Effect_Tips": "The Doctor's attainment in Toxicology is not high enough to heal your injuries.",
   "LK_Heal_Injury_In_Combat_No_Effect_Tips": "Current attainment in Medicine is not high enough to heal your injuries.",
   "LK_Heal_Poison_In_Combat_No_Effect_Tips": "Your attainment in Poison is not high enough to heal your injuries.",
   "LK_Per_Month": "/Month",
