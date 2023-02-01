@@ -2411,7 +2411,7 @@
   "LK_ItemTips_Culture_Tips": "Wen",
   "LK_ItemTips_Eating_Time": "Will be digested in <color=#pinkyellow> {0}</color> months.",
   "LK_Cost_Time": "Time Cost",
-  "LK_Day_Tips": "Tian",
+  "LK_Day_Tips": "Days",
   "LK_Due_To_Medicine_Attainment": "Due to character's current<SpName=mousetip_jiyi_8>Medicine attainment",
   "LK_Heal_Injury_Count_Per_Month": "You can heal {0} times per month<SpName=sp_icon_shijiehecheng>",
   "LK_Due_To_Toxicology_Attainment": "Due to character's current <SpName=mousetip_jiyi_9>Toxicology attainment",
