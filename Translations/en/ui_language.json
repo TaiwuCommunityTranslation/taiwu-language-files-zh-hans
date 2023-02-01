@@ -2421,7 +2421,7 @@
   "LK_Heal_Injury_No_Effect_Tips": "The Doctor's attainment in Medicine is not high enough to heal your injuries.",
   "LK_Heal_Poison_No_Effect_Tips": "The Doctor's attainment in Toxicology is not high enough to heal your injuries.",
   "LK_Heal_Injury_In_Combat_No_Effect_Tips": "Current attainment in Medicine is not high enough to heal your injuries.",
-  "LK_Heal_Poison_In_Combat_No_Effect_Tips": "Your attainment in Poison is not high enough to heal your injuries.",
+  "LK_Heal_Poison_In_Combat_No_Effect_Tips": "Your attainment in Toxicology is not high enough to heal your injuries.",
   "LK_Per_Month": "/Month",
   "LK_Char_MainAttribute": "{0} Main Attribute",
   "LK_Char_LifeSkill_Qualification": "{0} Life Skill Qualifications",
