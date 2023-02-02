@@ -3437,7 +3437,7 @@ It triggers in combat on healing External injury, which generates extra Acritoxi
 TA·Oneirotoxin
 Negate Int Heal
 It triggers in combat on healing Internal injury, which generates extra Umbritoxin and reduces this healing effect
-Watch Out
+Receiving moves
 First！！
 Survive a number of opponent‘s skill to win, the martial skills of the opponent do not consume anything
 Second！
