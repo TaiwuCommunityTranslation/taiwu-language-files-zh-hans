@@ -777,7 +777,7 @@ Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Drunk Lying In The East Sea
 Increase the power of gong methods
-If the user is drunk during the duration of this technique, the user will consume all of the user's energy and Footwork when performing the "Destroy" technique, but the power of the technique will also increase in proportion to the amount of energy and Footwork required to perform it.
+If the user is drunk during the duration of this technique, the user will consume all of the user's energy and Footwork when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of energy and Footwork required to perform it.
 Fox Move
 Accelerated mobile storage
 When moving forward with this Footwork, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
@@ -813,7 +813,7 @@ Warlord's\nPull Bow
 location DMG up
 When this technique is used at 100% of its power, the damage caused by the user to either arm of the enemy will be applied to both the left and right arm of the enemy.
 Cloud Mania Style
-After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: the user can advance up to 4 distances while performing the "Destroy" technique, and the further the user advances, the more the attack range increases; if the next technique performed is still this technique, the power of this technique increases significantly
+After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: the user can advance up to 4 distances while performing the "Break" technique, and the further the user advances, the more the attack range increases; if the next technique performed is still this technique, the power of this technique increases significantly
 Great Divine\nPalm
 Eliminate the enemy's Aegis
 When attacking an enemy with this technique, the power of this technique will be greatly increased if the enemy is using the "Aegis" technique; when this technique is at least 10% of its power, the "Aegis" technique used by the enemy will be eliminated
@@ -1151,7 +1151,7 @@ When this technique is used with at least 10% of its power, the user gains 6 lev
 Mechanic Hook
 When this technique is used with at least 10% of its power, if the user can consume an additional "Ware" style, the enemy's Stance will be significantly reduced
 Chain
-After this technique has reached 100% of its power, the user gains 4 levels of this effect: the fewer levels of this effect remain, the more the user's power of the "Destroy" technique increases.
+After this technique has reached 100% of its power, the user gains 4 levels of this effect: the fewer levels of this effect remain, the more the user's power of the "Break" technique increases.
 Dragon Claw
 Move away
 The minimum attack distance of this technique is greatly reduced; when this technique is used at 100% of its power, the enemy is knocked back by 6 distance, and if the user consumes an additional "Ware" style, the closer the enemy is knocked back, the more damage he will receive.
@@ -1286,7 +1286,7 @@ When this technique is used at 100% of its power, it imparts a buff to the user 
 Blood Burning
 When you start performing this technique, if the user has any new external injury, it will change 1 random new external injury of the user to an old one that is harder to recover from, and then the power and attack range of this technique will increase significantly
 9 Refining of\nThe Sun
-At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Destroy" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, after which this effect reverts to 0 levels.
+At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Break" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, after which this effect reverts to 0 levels.
 Blade of Fulong
 Increase the power of all the "Break" techniques of the user according to the power this technique exerted, up to 20%, and lasts until the end of the battle.
 Drunk Blade
@@ -1304,7 +1304,7 @@ Dragonslayed\nBlade of Innocent Child
 When you start to perform this technique, if the user is a child or a virgin, the power of this technique and the chance of hitting the enemy will be greatly increased.
 Hegemony\nBlade of 9 Dragons
 Transfer Power Gain
-When you start performing this technique, the power of up to 3 of your enemy's "Destroy" techniques will be transferred to the power of a random "Destroy" technique of the user, lasting until the end of the battle.
+When you start performing this technique, the power of up to 3 of your enemy's "Break" techniques will be transferred to the power of a random "Break" technique of the user, lasting until the end of the battle.
 Vajra Hammer
 When this technique is used with at least 10% of its power, the user takes 1 enemy "Bash" style.
 5 Anger Hands
@@ -1774,7 +1774,7 @@ Skanda\nSwordsmanship of Defeat Demon
 When this technique is not at full power, the user advances 2 distances and then, if the enemy is still within the range of the attack, the user will immediately perform a "Blade technique" of a rank no higher than this technique to attack the enemy without any consumption from 50% of the progress of the technique.
 Swordsmanship\nof Supreme Bodhi
 Reversal is less powerful
-This technique cannot be reflected; after this technique has been used at 100% of its power, the user gains 2 levels of this effect: when the user performs the "Destroy" technique to attack an enemy, any power reduction suffered by this technique will be temporarily doubled to a power increase.
+This technique cannot be reflected; after this technique has been used at 100% of its power, the user gains 2 levels of this effect: when the user performs the "Break" technique to attack an enemy, any power reduction suffered by this technique will be temporarily doubled to a power increase.
 Swordsmanship\nof Dharma
 Depending on the power of this technique and the amount of Stance consumed by the user, the user will get up to 200 layers of this effect: when the user performs the "Break" technique, the number of layers of this effect will replace the amount of Inhale consumed, and the more it is consumed, the more the user's Ext. and Int. Pen. will be increased.
 Blade of\nTrigrams And Elements
@@ -2498,7 +2498,7 @@ During the duration of this Footwork, when the user is attacked by an enemy, the
 Reverse - Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Drunk Lying In The East Sea
-If the user is drunk during the duration of this Footwork, the user can perform the "Destroy" technique without the required Qi and Footwork, but the power of the technique will be reduced in proportion to the lack of Qi and Footwork.
+If the user is drunk during the duration of this Footwork, the user can perform the "Break" technique without the required Qi and Footwork, but the power of the technique will be reduced in proportion to the lack of Qi and Footwork.
 Reverse - Fox Move
 When retreating with this Footwork, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 Reverse - Tomb Escape
@@ -2527,7 +2527,7 @@ This technique increases the direct damage dealt to the enemy's arm by 3 levels,
 Reverse - Warlord's\nPull Bow
 When this technique is used at 100% of its power, the damage caused by the user to either leg and foot of the enemy will be applied to both the left and right legs of the enemy.
 Reverse -  Cloud Frenzy Style
-After this technique has reached 100% of its power, the user gains 2 levels of this effect: the user can retreat up to 4 distances while performing the "Destroy" technique, the further the user retreats, the more the attack range increases; if the next technique performed is still this technique, the power of this technique increases significantly
+After this technique has reached 100% of its power, the user gains 2 levels of this effect: the user can retreat up to 4 distances while performing the "Break" technique, the further the user retreats, the more the attack range increases; if the next technique performed is still this technique, the power of this technique increases significantly
 Reverse - Great Divine\nPalm
 Eliminate the Quick of the enemy
 When attacking an enemy with this technique, if the enemy is using the "Quick" technique, the power of this technique will be greatly increased; when this technique exerts at least 10% of its power, the "Quick" technique used by the enemy will be eliminated
@@ -2593,7 +2593,7 @@ Reverse - Pure Lady's\nHidden Hand
 Ban style gain
 When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "take" style.
 Reverse - Jade Hand
-When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the degree of injury from direct damage caused by the enemy or the user's "Destroy" technique is reduced by 2 levels.
+When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the degree of injury from direct damage caused by the enemy or the user's "Break" technique is reduced by 2 levels.
 Reverse - Cold Yin Palm
 This technique increases the direct damage to the enemy's waist and abdomen by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - 9 Moves of\n9 Heavens
@@ -2776,7 +2776,7 @@ If the user's agility is not less than 70, this technique loses the enemy's Foot
 Reverse - Staff of\n10 Directions
 If the user's constitution is not less than 70, this technique will "interrupt" the enemy's healing, poison expulsion, and escape when it reaches 100% of its power, and the user will gain 2 levels of this effect: all "Long Soldier" techniques performed by the user will "interrupt" the enemy's healing, poison expulsion, and escape when it reaches 100% of its power
 Reverse - Staff of\nGhost Head
-If the user's Agility and Comprehension are not less than 60, this technique will randomly reduce the number of layers of the enemy's "Destroy" technique's lasting effect by 1 when the technique is used at 100% of its power, and the user will gain 2 layers of this effect: all "Long Soldier" techniques performed by the user will randomly reduce the number of layers of the enemy's "Destroy" technique's lasting effect by 1 when the technique is used at 100% of its power.
+If the user's Agility and Comprehension are not less than 60, this technique will randomly reduce the number of layers of the enemy's "Break" technique's lasting effect by 1 when the technique is used at 100% of its power, and the user will gain 2 layers of this effect: all "Long Soldier" techniques performed by the user will randomly reduce the number of layers of the enemy's "Break" technique's lasting effect by 1 when the technique is used at 100% of its power.
 Reverse - Staff of\nGold Eyes Tiger
 If the user's Strength and determination are not less than 60, this technique will immediately eliminate 3 helper orders from random enemy helpers when it is at 100% power, and the user will get 2 levels of this effect: all "Long Soldier" techniques performed by the user will eliminate 1 helper order from random enemy helpers when they are at 100% power
 Reverse - Staff of\nMystical Island
@@ -2791,7 +2791,7 @@ When this technique is at least 10% of its power, the user gains 6 levels of thi
 Reverse - Mechanic Hook
 When this technique is used with at least 10% of its power, if the user consumes an additional "Ware" style, the enemy's Qi will be significantly reduced.
 Reverse - Chain
-After this technique has reached 100% of its power, the user gains 4 levels of this effect: the fewer levels of this effect remain, the more the power of the enemy's "Destroy" technique is reduced.
+After this technique has reached 100% of its power, the user gains 4 levels of this effect: the fewer levels of this effect remain, the more the power of the enemy's "Break" technique is reduced.
 Reverse - Dragon Claw
 The maximum attack distance of this technique is greatly increased; when this technique is used at 100% of its power, the enemy will be brought closer by 6 distance, and if the user consumes an additional "Ware" style, the further the enemy is brought closer from, the more damage he will receive.
 Reverse - Web
@@ -2902,13 +2902,13 @@ When this technique is used at 100% of its power, for every 3 throws the user ha
 Reverse - Thunder Fire
 When this technique is used with at least 10% of its power, the user gains 2 "throws".
 Reverse - Dragon Spit\nDragon Ball
-When this technique is used with at least 10% of its power, the enemy loses 2 points of "Destroy" true qi.
+When this technique is used with at least 10% of its power, the enemy loses 2 points of "Break" true qi.
 Reverse - Divine Power\nof Red Blue Fire
 When this technique is used at 100% of its power, it imparts to the user a buff that significantly increases the amount of Internal Penetration and a debuff that decreases the amount of Internal Defense.
 Reverse - Blood Burning
 When you start performing this technique, if the user has any new internal injuries, it will change 1 random new internal injury of the user to an old injury that is harder to recover from, and then the power and attack range of this technique will increase significantly
 Reverse - 9 Refining of\nThe Sun
-At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Destroy" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
+At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Break" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Reverse - Blade of Fulong
 Reduces the power of all the enemy's "Break" techniques by the amount of power the technique exerts, and lasts until the end of the battle.
 Reverse - Drunk Blade
@@ -2925,7 +2925,7 @@ Reverse - Dragonslayed\nBlade of Innocent Child
 When you start to perform this technique, if the user is not a child or a virgin, the power of this technique and the chance of hitting the enemy will be greatly increased.
 Reverse - Hegemony\nBlade of 9 Dragons
 Transfer of power reduction benefits
-When you start performing this technique, you will transfer the power of up to 3 of your "Destroy" techniques to the enemy's random "Destroy" techniques for the duration of the battle.
+When you start performing this technique, you will transfer the power of up to 3 of your "Break" techniques to the enemy's random "Break" techniques for the duration of the battle.
 Reverse - Vajra Hammer
 When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "collapse" style.
 Reverse - 5 Anger Hands
@@ -3304,7 +3304,7 @@ When you start to perform this technique, the more Vitality the user has consume
 Reverse - Pure Yang\nSword Intent
 When you start to perform this technique, if the user is not a child or a virgin, the power of this technique will be increased according to the internal power of the user.
 Reverse - Swordsmanship\nof Roving Dragon
-At the beginning of the battle, the user gains 0 levels of this effect: every time the user accumulates 2 distance back, this effect increases by 1 level, up to a maximum of 4 levels; the user can advance a distance equal to the number of levels of this effect during the performance of any "Destroy" technique, and for every distance the user accumulates, this effect decreases by 1 level.
+At the beginning of the battle, the user gains 0 levels of this effect: every time the user accumulates 2 distance back, this effect increases by 1 level, up to a maximum of 4 levels; the user can advance a distance equal to the number of levels of this effect during the performance of any "Break" technique, and for every distance the user accumulates, this effect decreases by 1 level.
 Reverse - Swordsmanship\nof Taichi
 Reduction of enemy's defense
 After this technique has reached 100% of its power, the user gains 5 levels of this effect: When an enemy attacks the user with a weapon, the chance of all the enemy's Breath hits hitting the user is greatly reduced, and whenever the user resolves an enemy's non-chasing, non-moving attack, a debuff to Ext. and Int. Defense is applied to the enemy.
@@ -3363,7 +3363,7 @@ Reverse - Skanda\nSwordsmanship of Defeat Demon
 When this technique is not at full power, the user retreats 2 distances and then, if the enemy is still within the range of the attack, the user will  will immediately perform a "Blade technique" of a rank no higher than this one to attack the enemy without consumption from 50% of the execution progress.
 Reverse - Swordsmanship\nof Supreme Bodhi
 Reverse power enhancement
-This technique cannot be counter-shocked; after this technique has been used at 100% of its power, the user gains 2 levels of this effect: when an enemy attacks the user with the "Destroy" technique, any power increase received by this technique will be temporarily doubled to a power decrease.
+This technique cannot be counter-shocked; after this technique has been used at 100% of its power, the user gains 2 levels of this effect: when an enemy attacks the user with the "Break" technique, any power increase received by this technique will be temporarily doubled to a power decrease.
 Reverse - Swordsmanship\nof Dharma
 Depending on the power of this technique and the amount of Stance consumed by the user, the user will receive up to 200 layers of this effect: when the user performs the "Break" technique, the number of layers of this effect will replace the amount of Inhale consumed, and the more it is consumed, the more the enemy's Ext. and Int. Def. will be reduced.
 Reverse - Blade of\nTrigrams And Elements
@@ -3666,13 +3666,13 @@ Automatic application of divine power
 At the end of this power, the power of this power increases cumulatively and lasts until the end of the battle, and Da Yue Yao Chang can repeat this power 2 times and attack the enemy with 40% power from 50% of the progress of the power without consumption
 At the end of this power, the power of this power increases cumulatively and lasts until the end of the battle, and the user can repeat this power 2 times and attack the enemy at 40% of the power from 50% of the progress of the power without consumption.
 Heavenly Demon Subjugation
-When attacking an enemy with this power: If the enemy is performing a Heterodox training technique, the power of this power is greatly increased; if the enemy is not performing the "Destroy" technique, the power of this power is greatly increased; if the enemy is not within the attack range of this power, the enemy will have 3 random weaknesses
+When attacking an enemy with this power: If the enemy is performing a Heterodox training technique, the power of this power is greatly increased; if the enemy is not performing the "Break" technique, the power of this power is greatly increased; if the enemy is not within the attack range of this power, the enemy will have 3 random weaknesses
 Kill the evil dragon
 Severance of three cuts
 At the end of this power, the power of this power increases cumulatively and lasts until the end of the battle, and Danyue Yaochang can repeat this power 2 times, and attack the enemy with 80% power from 50% of the progress of the power without consumption
 At the end of this power, the power of this power increases cumulatively and lasts until the end of the battle, and the user can repeat this power 2 times and attack the enemy with 80% power from 50% of the progress of the power without consumption.
 Heavenly Demon Breaks All
-When attacking an enemy with this power: If the enemy is performing a Heterodox training technique, the power of this power is greatly increased; if the enemy is not performing the "Destroy" technique, the power of this power is greatly increased; if the enemy is not within the range of this power, the enemy randomly appears 6 weaknesses
+When attacking an enemy with this power: If the enemy is performing a Heterodox training technique, the power of this power is greatly increased; if the enemy is not performing the "Break" technique, the power of this power is greatly increased; if the enemy is not within the range of this power, the enemy randomly appears 6 weaknesses
 Plastic Snow
 Stop enemy action
 When this divine power exerts 100% of its power, Jiu Han gains 30 layers of this effect: at the cost of consuming 1 layer of this effect per 0.1 distance, the distance the enemy moves is offset, and while this effect exists, the enemy cannot switch weapons other than empty hands, branches, or stones
@@ -3794,7 +3794,7 @@ When this divine power starts, the user accumulates the power of the enemy by re
 Ghost God Genichi Order
 When this divine power starts to be applied, the operator will eliminate the enemy's "Aegis" and "Quick" techniques, and the enemy's 6 "Aegis", "Quick", and "Nadis" techniques will be "blocked" for a long time; until the end of this divine power, all the enemy's secondary attributes will be changed to the minimum.
 Entering the mind's edge phase
-When you start to use this power, the pivot gains 3 levels of this effect: Whenever an enemy uses the "Destroy" technique, the enemy immediately receives a large amount of repercussion damage from that "Destroy" technique
+When you start to use this power, the pivot gains 3 levels of this effect: Whenever an enemy uses the "Break" technique, the enemy immediately receives a large amount of repercussion damage from that "Break" technique
 Enter the phase of falsehoods
 technique loss of true qi
 This divine power to play ten percent of the power, the phase pivot to obtain 3 levels of this effect: the enemy of all techniques, need to consume a large amount of true qi corresponding to the level and type of techniques, otherwise can not be performed
@@ -3845,7 +3845,7 @@ Seize the power of the enemy
 When you start to perform this divine power, Dragon Speak Por deals 1 level of external injury to each of your own leg and foot parts with a external injury level below 4, and accordingly: transfer the continuously enhanced power of multiple techniques suffered by the enemy to the power enhancement of this divine power, lasting until the end of the battle
 Fire Dragon Burning Heart
 Destroy the enemy's Break
-When this power starts to work, Dragon Speak Por inflicts 1 level of external injury to his neck area with a external injury level below 4, randomly changes the number of levels of the enemy's 3 "Destroy" techniques to the lower limit, and causes the enemy to take the backlash damage from these "Destroy" techniques
+When this power starts to work, Dragon Speak Por inflicts 1 level of external injury to his neck area with a external injury level below 4, randomly changes the number of levels of the enemy's 3 "Break" techniques to the lower limit, and causes the enemy to take the backlash damage from these "Break" techniques
 Fire pistil kills proud phoenix
 This power is not limited by the part of the crippled; if the dragon language Por any arm part of the external injury reached 4 levels: when you start to cast this power, this power from 100% progress, and restore all the power to cast this power consumed Qi, Stance; during the process of casting this power, the enemy's arms as crippled
 Geibi in Red
