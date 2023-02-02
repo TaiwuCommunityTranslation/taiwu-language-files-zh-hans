@@ -1809,7 +1809,7 @@ Reverse -  Aloha Divine technique
 The higher the user's "Buddhism" attainment, the more toxins the user can dispel when performing "exorcism" in battle.
 Reverse -  Ease of the Tendon
 Reducing the enemy's Aegis real qi
-At the beginning of a battle, significantly reduce the amount of "Body Protective" True Qi of the enemy and their helpers; significantly reduce the amount of "Body Protective" True Qi gained by the enemy during the battle; significantly increase the amount of "Body Protective" True Qi lost by the enemy during the battle
+At the beginning of a battle, significantly reduce the amount of "Aegis" True Qi of the enemy and their helpers; significantly reduce the amount of "Aegis" True Qi gained by the enemy during the battle; significantly increase the amount of "Aegis" True Qi lost by the enemy during the battle
 Reverse -  Marrow Washing Sutra
 Greatly reduce the consumption of all major attributes of the user; if the user is a virgin, increase the power of all techniques of the user, and make the user look youthful.
 Reverse -  Dantian Opening and Closing Gong
@@ -2129,7 +2129,7 @@ The heavier the weapon of the user, the more direct damage the enemy inflicts on
 Reverse - Lion Roar
 When the battle starts and also when the total number of defeat marks of the user exceeds half of the defeat condition, all of the enemy's Inhale and Stance are removed
 Reverse - Overlord's Armor Absorb
-When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Break" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the "Break" True Qi depleted by the user will change to "Body Protective" True Qi
+When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Break" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the "Break" True Qi depleted by the user will change to "Aegis" True Qi
 Reverse - 5 Ghosts Handling
 Exchange of External Penetration Internal Defense
 When defending with this technique, if the user's Internal Defense is lower than the enemy's External Penetration, the Internal Defense and External Penetration of the user and the enemy will be temporarily exchanged.
