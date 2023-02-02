@@ -1131,7 +1131,7 @@ Unblocked: This Polearm can "interrupt" enemy's healing, poison repelling, and e
 Staff of\nGhost Head
 Reduce the number of effect layers
 If the weapon used by the user is the "Polearm·Cyan Ghost", this technique will randomly reduce the number of layers of the enemy's "Break" technique's ongoing effects by 1 when the technique is at 100% power, and the "Polearm·Cyan Ghost" is unblocked, this Polearm will enable all "Polearm" techniques to reduce the number of levels of the "Break" technique by 1 randomly until the other weapons are unblocked or the battle is over.
-Unblocked: This Polearm can cause all "Polearm" techniques to randomly reduce the number of levels of the enemy's "destroy" technique's ongoing effect by 1 when the technique is used at 100% of its power.
+Unblocked: This Polearm can cause all "Polearm" techniques to randomly reduce the number of levels of the enemy's "Break" technique's ongoing effect by 1 when the technique is used at 100% of its power.
 Staff of\nGold Eyes Tiger
 Eliminate helper commands
 If the weapon used by the user is the "Polearm·Golden-eyed Tiger", when this technique is at 100% of its power, it immediately removes 3 helper commands from the enemy's random helper companions, and the "Polearm·Golden-eyed Tiger" is unblocked. Once it's unblocked, it enables all "Polearm techniques" to be used at 100% of their power, and eliminate 1 helper command from a random enemy helper. Lasts until the other weapons are unblocked or the battle is over
