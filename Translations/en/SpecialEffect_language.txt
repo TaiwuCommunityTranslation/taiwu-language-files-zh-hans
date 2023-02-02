@@ -2818,7 +2818,7 @@ When this technique is at ten percent power, the more Pyrotoxin markers the user
 Reverse - 4 Colors Palm
 This technique increases the amount of Necrotoxin poison applied to the enemy, but has a low chance of causing the user to be partially poisoned with Necrotoxin at the same time.
 Reverse - Soul Peeling\nHands
-When attacking an enemy with this technique, the deeper the illusionary poison the user is struck by, the more layers of injury this technique will cause to the enemy in terms of direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
+When attacking an enemy with this technique, the deeper the Oneirotoxin the user is struck by, the more layers of injury this technique will cause to the enemy in terms of direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Reverse - Snake Insanity\nHands
 When this technique is at least 10% powerful, the more internal injury marks on the attacked part of the enemy, the more Gu the user can obtain.
 Reverse - Red-eyed\nGu Descent
@@ -3230,7 +3230,7 @@ After this technique has been used for 100% of its power, the user gains 10 leve
 Reverse - Flower Rain
 For every 10% of the power of this technique, the user has a low chance of inflicting an additional 1 damage to the enemy
 Reverse - The Great\nFlower Finger of Mandala
-When you start to perform this technique, the deeper the illusionary poison the user has, the more the power of this technique will increase
+When you start to perform this technique, the deeper the Oneirotoxin the user has, the more the power of this technique will increase
 Reverse - Flower Spirit\nMoon Finger
 If the enemy's internal energy attribute is "Fire" When this technique is used at 100% of its power, the direct damage caused by the user to the enemy will be increased by 3 levels.
 Reverse - A Hundred\nFlower Fight
