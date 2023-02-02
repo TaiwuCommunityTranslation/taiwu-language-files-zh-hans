@@ -1482,7 +1482,7 @@ When this technique is used at 100% of its power, the more poisonous marks the e
 Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements within the field of view of the user that can transform the user's internal five elements into buried ones, the more the power of this technique will be increased
 Blood Shadow\nKick
-If the user's Destructive Qi is higher than the initial value and higher than the enemy's Destructive Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user loses 6 points of Destructive Qi at the end of the technique.
+If the user's Break Qi is higher than the initial value and higher than the enemy's Break Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user loses 6 points of Break Qi at the end of the technique.
 Ghost Poison\nSand
 Change styles
 When this technique is used with at least 10% of its power, it will change up to 2 of the user's unusable styles into "Toxic" styles.
@@ -2129,7 +2129,7 @@ The heavier the weapon of the user, the more direct damage the enemy inflicts on
 Reverse - Lion Roar
 When the battle starts and also when the total number of defeat marks of the user exceeds half of the defeat condition, all of the enemy's Inhale and Stance are removed
 Reverse - Overlord's Armor Absorb
-When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Destructive" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the "Destructive" True Qi depleted by the user will change to "Body Protective" True Qi
+When defending with this technique, whenever an enemy inflicts direct damage on the user, both the enemy's and the user's "Break" True Qi will be depleted according to the number of injuries inflicted by the enemy, and the "Break" True Qi depleted by the user will change to "Body Protective" True Qi
 Reverse - 5 Ghosts Handling
 Exchange of External Penetration Internal Defense
 When defending with this technique, if the user's Internal Defense is lower than the enemy's External Penetration, the Internal Defense and External Penetration of the user and the enemy will be temporarily exchanged.
@@ -3086,7 +3086,7 @@ When this technique is 100% powerful, the more poisonous markers the user has, t
 Reverse - Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements that can restrain the enemy's internal five elements are buried within the field of vision of the user, the more the power of this technique will increase
 Reverse - Blood Shadow\nKick
-If the user's Destructive Qi is lower than the initial value and lower than the enemy's Destructive Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user gains 6 points of Destructive Qi at the end of the technique.
+If the user's Break Qi is lower than the initial value and lower than the enemy's Break Qi, this technique can be performed without the use of Qi or Stance, in which case the power of this technique is greatly increased and the user gains 6 points of Break Qi at the end of the technique.
 Reverse - Ghost Poison\nSand
 Change E·style
 When this technique is used with at least 10% of its power, it will change up to 2 of the enemy's available styles into "Toxic" styles.
@@ -3522,7 +3522,7 @@ Kneel Before The King
 When Huan Xin is defeated for the first time, it will enter a new combat phase: whenever Huan Xin's attack is defeated, apply 1 buff that increases the corresponding hit to Huan Xin; whenever Huan Xin fails to defeat an enemy attack, apply 1 buff that increases the corresponding defeat to Huan Xin
 No Dye
 Purple bamboo spirit illusion birth!
-When Violet is defeated for the first time, she will enter a new stage of battle: Whenever Violet's "Destructive" technique becomes 100% powerful, she will add 1 death mark to the enemy, the more death marks there are, the more the power of all the enemy's techniques will be increased, once the enemy has 6 death marks, the enemy will be defeated and his health will be reduced to 0
+When Violet is defeated for the first time, she will enter a new stage of battle: Whenever Violet's "Break" technique becomes 100% powerful, she will add 1 death mark to the enemy, the more death marks there are, the more the power of all the enemy's techniques will be increased, once the enemy has 6 death marks, the enemy will be defeated and his health will be reduced to 0
 No change in blazing heart
 The language Porphyra phantom born!
 The first time the Dragon's Por is defeated, it will enter a new phase of the battle: the direct damage dealt by the Dragon's Por to different parts of the enemy increases according to the injury of the different parts of the Dragon's Por; the direct damage dealt by the enemy to different parts of the Dragon's Por decreases according to the injury of the different parts of the enemy
