@@ -1867,7 +1867,7 @@ The user's "Earth" type of technique will cause more direct damage and repercuss
 Reverse -  No Mind Tricks
 Converts the user's "Wood" internal energy into "Earth" internal energy. The more energy is converted, the more the power of the user's "Earth" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
 Reverse -  Hunyuan WuXiangGong
-Changing the "Orthodox" effect of the user's "rejuvenation" techniques other than "internal energy" into a "Heterodox" effect
+Turns "Orthodox" skill effects into their "Heterodox" versions on all "Earth" element skills other than "Inner Arts"
 Reverse -  seal gas fixation method
 Reduces the requirements (by 20%) to use the "Lion's Gate" techniques of the user
 Reverse -  Thirteen Tai Bao cross practice
