@@ -1624,7 +1624,7 @@ After this technique has been used for ten percent of its power, the user gains 
 Immortal\nNeedle of Golden Top
 When this technique is used with at least 10% of its power, If the user has at least 2 "Stab" styles, the user will only consume 2 "Stab" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 Needle Finger
-Improve your subtlety
+Improve your Finesse
 When this technique is used with at least 10% of its power, the user gets 10 layers of this effect: the fewer layers of this effect remain, the more the user's Finesse increases when the user attacks the enemy
 Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
