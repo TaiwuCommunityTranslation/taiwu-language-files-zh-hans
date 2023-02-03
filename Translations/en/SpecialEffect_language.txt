@@ -74,7 +74,7 @@ The user's "Earth" type techniques will cause more direct damage and repercussio
 Silence Methods
 Convert the user's "Metal" internal energy into "Earth" internal energy. The more energy is converted, the more the power of the user's "Earth" type techniques will be increased. (Bonus = 0.2 * [percentage converted] )
 Inscrutable\nRound
-Converts the "Heterodox" effect of the user's "rejuvenation" techniques other than "internal energy" into a "Orthodox" effect.
+Turns "Heterodox" skill effects into their "Orthodox" versions on all "Earth" element skills other than "Inner Arts"
 Stable Breath
 Increases the power limit of the user's "Lion's Gate" techniques by 30%.
 13 Taibaos'\nIron Surface
