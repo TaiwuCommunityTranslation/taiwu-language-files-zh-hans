@@ -194,7 +194,7 @@ Resource Growth
 Resource Expansion
 {0} of {1} has expanded to the surrounding area.
 Construction Damage
-{0} of {1} is being compromised and the scale level is decreasing.
+{0} in {1} is being compromised and the scale level is decreasing.
 Construction Collapse
 {1}’s {0} crumbled into debris.
 Construction Complete
