@@ -23,7 +23,7 @@ The connection success chance of this cell is reduced by 30%. \n Connecting to t
 Reversal
 The connection success chance of this cell is reduced by 60%. \n Connecting this cell increases your attempts by 2.
 Steady
-The connection success chance of this cell is increased by 60%. \n Connecting this cell increases cost 1 addition attempt.
+The connection success chance of this cell is increased by 60%. \n Connecting to this cell decreases your attempts by 1.
 Hard Work
 The connection success chance of this cell is increased by 100%. \n Connecting this cell increases cost 2 addition attempts.
 Clairty
