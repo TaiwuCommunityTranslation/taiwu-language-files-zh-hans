@@ -27,7 +27,7 @@ Ph Reflect
 Qi Reflect
 Reflection Range
 Duration
-Increase Attack
+Increase ATK
 Increase Accuracies
 Might Ratio
 Finesse Ratio
