@@ -2719,7 +2719,7 @@
   "UI_MouseTip_SecretInforBroadcast_AndMoreCharacters": "...",
   "UI_MouseTip_SecretInforBroadcast_CharactersHappinessUp": "{0}'s mood <color=#brightblue>Increases</color>…",
   "UI_MouseTip_SecretInforBroadcast_CharactersHappinessDown": "{0}'s mood <color=#brightred>Decreases</color>…",
-  "UI_MouseTip_SecretInforBroadcast_CharactersFavorUp": "{0}'s liking of {1} <color=#brightblue>Increases</color>…",
+  "UI_MouseTip_SecretInforBroadcast_CharactersFavorUp": "{0}'s liking of {1} <color=#brightblue>Increases</color>...",
   "UI_MouseTip_SecretInforBroadcast_CharactersFavorDown": "{0}'s liking of {1} <color=#brightred>Decreases</color>...",
   "UI_MouseTip_SecretInforBroadcast_StartEmemyRelation": "{0} has a grudge against {1}...",
   "LK_Tool_Not_Enough": "You lack tools",
