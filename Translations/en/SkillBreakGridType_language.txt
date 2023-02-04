@@ -15,7 +15,7 @@ For each failed connection around this cell, the success chance of this cell is 
 Foundation
 The connection success chance of this cell is reduced by 100%. \n The connection success rate of all cells around this cell is increased by 60%.
 Transition
-The next 1 attempt to connect cell to this one is guaranteed to be succesful.
+The next 1 attempt to connect cell is guaranteed to be successful.
 Inspiration
 Connecting to this cell does not cost an attempt.
 Refreshment
