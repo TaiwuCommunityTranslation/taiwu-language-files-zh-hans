@@ -28,7 +28,7 @@ Qi Reflect
 Reflection Range
 Duration
 Increase Attack
-Increase Hit Chance
+Increase Accuracies
 Might Ratio
 Finesse Ratio
 Swiftness Ratio
