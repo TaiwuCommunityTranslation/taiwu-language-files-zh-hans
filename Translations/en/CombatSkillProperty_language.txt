@@ -30,7 +30,7 @@ Duration
 Increase Attack
 Increase Hit Chance
 Might Ratio
-Fineness Ratio
+Finesse Ratio
 Swiftness Ratio
 Attack Range
 Attack Chest/Back
