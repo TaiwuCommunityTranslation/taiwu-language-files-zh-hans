@@ -266,8 +266,8 @@ Wei Qi is a scourge
 Weiqi transfers all damage to {1} near {0}!
 taking a direction for a disaster
 As a result of to pass by, {0} the position of the nearby characters has changed!
-Blood Maple as a scourge
-Due to the passage of Blood Maple, more pivotal minions appeared near {0}!
+Xue Feng as a scourge
+Due to the passage of Xue Feng, more pivotal minions appeared near {0}!
 Surgery is a scourge
 Due to the passing of the operative side, {0} near {1} age extra!
 Mowgirls Save the Suffering
@@ -284,8 +284,8 @@ Wei Qi saves suffering
 {0} was rescued by a mysterious man who called himself Wei Qi in {1} and transferred the injury to {2}.
 to the relief of suffering
 {0} The characters in the neighborhood are temporarily converted to a benevolent stance by a mysterious man who calls himself Ezra.
-Blood Maple to Save the Suffering
-{0} was attacked by a mysterious man calling himself Blood Maple at {1}.
+Xue Feng to Save the Suffering
+{0} was attacked by a mysterious man calling himself Xue Feng at {1}.
 Artistic formula to save suffering
 {0} stumbled upon a mysterious man in {1} who called himself Jitsufang, and then seemed to get younger!
 Civilian Disappearance
