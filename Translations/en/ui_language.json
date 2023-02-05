@@ -1238,7 +1238,7 @@
   "LK_Strengthen_Material_Not_Selected": "<color=#red>Refining material isn't selected</color>",
   "LK_Strengthen_Count_Not_Enough": "<color=#red>This item is fully refined</color>",
   "LK_Add_Poison_Item_Not_Selected": "<color=#red>Poison is not selected</color>",
-  "LK_Add_Poison_Material_Not_Selected": "<color=#red>Poison Material Not Selected</color>",
+  "LK_Add_Poison_Material_Not_Selected": "<color=#red>Item to Envenom is not selected</color>",
   "LK_Remove_Poison_Item_Not_Selected": "<color=#red>Detoxifying item is not selected</color>",
   "LK_Remove_Poison_Material_Not_Selected": "<color=#red>Remove Poison Material Not Selected</color>",
   "LK_Making_Tool_Durability_Not_Enough": "<color=#red>Not Enough Tool Durability</color>",
