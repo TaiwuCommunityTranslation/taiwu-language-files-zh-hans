@@ -1235,7 +1235,7 @@
   "LK_Making_Attainment_Not_Enough": "<color=#red>Attainment Not High Enough</color>",
   "LK_Repair_Item_Not_Selected": "<color=#red>Repaid Item Not Selected</color>",
   "LK_Strengthen_Item_Not_Selected": "<color=#red>Item not selected</color>",
-  "LK_Strengthen_Material_Not_Selected": "<color=#red>Strengthen Material Not Selected</color>",
+  "LK_Strengthen_Material_Not_Selected": "<color=#red>Refining material isn't selected</color>",
   "LK_Strengthen_Count_Not_Enough": "<color=#red>Not Enough Strengthen Material</color>",
   "LK_Add_Poison_Item_Not_Selected": "<color=#red>Add Poison Item Not Selected</color>",
   "LK_Add_Poison_Material_Not_Selected": "<color=#red>Poison Material Not Selected</color>",
