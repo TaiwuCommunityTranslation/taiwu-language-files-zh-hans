@@ -1229,7 +1229,7 @@
   "LK_Making_Cost_Time": "{0}",
   "LK_Making_Start_Tip_Title": "Start Crafting",
   "LK_Making_Start_Tip_Desc": "Begin Crafting...",
-  "LK_Making_Tool_Not_Selected": "<color=#red>Tool Not Selected</color>",
+  "LK_Making_Tool_Not_Selected": "<color=#red>Tool is not selected</color>",
   "LK_Making_Tool_Broken": "<color=#red>Tool broken</color>",
   "LK_Make_Material_Not_Selected": "<color=#red>Material Not Selected</color>",
   "LK_Making_Attainment_Not_Enough": "<color=#red>Attainment Not High Enough</color>",
