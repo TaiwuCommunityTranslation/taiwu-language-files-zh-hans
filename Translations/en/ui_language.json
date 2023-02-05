@@ -1240,7 +1240,7 @@
   "LK_Add_Poison_Item_Not_Selected": "<color=#red>Poison is not selected</color>",
   "LK_Add_Poison_Material_Not_Selected": "<color=#red>Item to Envenom is not selected</color>",
   "LK_Remove_Poison_Item_Not_Selected": "<color=#red>Detoxifying item is not selected</color>",
-  "LK_Remove_Poison_Material_Not_Selected": "<color=#red>Remove Poison Material Not Selected</color>",
+  "LK_Remove_Poison_Material_Not_Selected": "<color=#red>Item to Detoxify is not selected</color>",
   "LK_Making_Tool_Durability_Not_Enough": "<color=#red>Not Enough Tool Durability</color>",
   "LK_Making_Material_Not_Enough": "<color=#red>Not Enough Materials</color>",
   "LK_Making_Resource_Count_Not_Match": "<color=#red>Required resources don't match</color>",
