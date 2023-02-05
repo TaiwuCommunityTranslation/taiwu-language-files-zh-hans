@@ -3509,7 +3509,7 @@ Anchorite！
 The first time Ezra is defeated, he will enter a new phase of the battle: the more Ezra's Stamina is left, the more Ezra's Diversion, Parry, Evasion, and Focus will be improved
 Octobrachial Octopod
 Infernal Acerjail！
-When Blood Maple is defeated for the first time, it will enter a new combat phase: all direct damage dealt by Blood Maple to the enemy is significantly increased; all direct damage dealt by the enemy to Blood Maple is significantly reduced
+When Xue Feng is defeated for the first time, it will enter a new combat phase: all direct damage dealt by Xue Feng to the enemy is significantly increased; all direct damage dealt by the enemy to Xue Feng is significantly reduced
 Celestial Edict
 Wonderglow！
 The first time the art side is defeated, it will enter a new phase of combat: when the enemy deals direct damage to the art side, the greater the difference between the ratio of internal and external damage of this damage, the more damage the art side will reflect to the enemy
@@ -3544,7 +3544,7 @@ Injuries from changes
 During the duration of this divine power, all direct damage to the direction will be changed to the loss of Footwork
 bleeding and sculling
 Increase the power of the gods
-The power of this divine power will increase dramatically with the number of injuries of Blood Maple
+The power of this divine power will increase dramatically with the number of injuries of Xue Feng
 ride the light and cloak the haze
 When moving with this divine power, the operator needs to accumulate power. After accumulating power, the operator can appear at any distance without triggering various movement effects
 Magic I am free
@@ -3578,7 +3578,7 @@ Resting Earth Devouring Spirit
 When defending with this divine power, whenever an enemy hits, 3 points of a random type of true qi will be drawn from the enemy's body.
 Maple God Called to Order
 Changes in injuries sustained
-When defending with this divine power: Whenever Blood Maple receives direct damage, it will first change the non-old injuries Blood Maple already has into old ones, and only when all of Blood Maple's injuries are old will he receive new ones again
+When defending with this divine power: Whenever Xue Feng receives direct damage, it will first change the non-old injuries Xue Feng already has into old ones, and only when all of Xue Feng's injuries are old will he receive new ones again
 Three Elements and Nine Transportations
 Transfer of defeat markers
 When defending with this divine power, the artist continuously transfers his random defeat mark to the enemy
@@ -3610,7 +3610,7 @@ Weiqi deals significantly more direct damage to characters with lower Might or D
 play ghosts and collect gods
 The direct damage dealt by Ekai to a character whose Swiftness or Dodge is lower than his own is increased significantly; the direct damage dealt by a character whose Swiftness or Dodge is higher than Ekai to Ekai is increased significantly
 Gods and Earths
-The direct damage dealt by Blood Maple to characters with the dominant internal element "Water" is greatly increased; the direct damage dealt by characters with the dominant internal element "Wood" to Blood Maple is greatly increased
+The direct damage dealt by Xue Feng to characters with the dominant internal element "Water" is greatly increased; the direct damage dealt by characters with the dominant internal element "Wood" to Xue Feng is greatly increased
 Distracted God Realm
 The direct damage dealt by the jutsu side to characters with lower subtlety or dismantling moves than their own is significantly increased; the direct damage dealt by characters with higher subtlety or dismantling moves than the jutsu side to the jutsu side is significantly increased
 Out-of-bounds Heart Swallowing
@@ -3757,23 +3757,23 @@ During the application of this power, the chance of the enemy hitting the user i
 Sword into no sword
 Spiritualization without soul
 War Without Pardon
-When attacking an enemy with this divine power, the wound that Blood Maple inflicts on the enemy will change to an old wound that is harder to recover from
+When attacking an enemy with this divine power, the wound that Xue Feng inflicts on the enemy will change to an old wound that is harder to recover from
 When attacking an enemy with this divine power, the wounds inflicted by the user on the enemy will change to old wounds that are more difficult to recover from
 The fierce soldiers broke through the three formations
 Stimulate combat potential
-During the process of exercising this divine power, Blood Maple can move and attack, and the movement speed and attack speed are increased
+During the process of exercising this divine power, Xue Feng can move and attack, and the movement speed and attack speed are increased
 While exercising this power, the user can move and attack, and the movement speed and attack speed are increased.
 The fishy wind sweeps the four fields
-The more old wounds on Blood Maple's body when he started to exercise this divine power, the more the power of this divine power increased
+The more old wounds on Xue Feng's body when he started to exercise this divine power, the more the power of this divine power increased
 kill without pardon
-When attacking the enemy with this power, the wound that Blood Maple inflicts on the enemy will change to an old wound that is harder to recover from; if this power causes the enemy's part to reach 6 levels of wound, Blood Maple will immediately attack the enemy with this power again without consumption from 75% of the progress of its application
+When attacking the enemy with this power, the wound that Xue Feng inflicts on the enemy will change to an old wound that is harder to recover from; if this power causes the enemy's part to reach 6 levels of wound, Xue Feng will immediately attack the enemy with this power again without consumption from 75% of the progress of its application
 When attacking an enemy with this power, the wounds the user inflicts on the enemy will change to old wounds that are more difficult to recover from; if this power causes the enemy to reach 6 levels of wounds, the user will immediately attack the enemy with this power again without consumption starting from 75% of the progress of the application.
 Warlords fighting in the Sixth Harmony
-During the process of exercising this divine power: Blood Maple can move and attack, and the movement speed and attack speed are increased; the wound degree of direct damage that Blood Maple inflicts on enemies is increased by 3 levels, and the wound degree of direct damage that enemies inflict on Blood Maple is reduced by 3 levels
+During the process of exercising this divine power: Xue Feng can move and attack, and the movement speed and attack speed are increased; the wound degree of direct damage that Xue Feng inflicts on enemies is increased by 3 levels, and the wound degree of direct damage that enemies inflict on Xue Feng is reduced by 3 levels
 During the application of this power: the user can move and attack, and the movement speed and attack speed are increased; the degree of direct damage inflicted by the user on the enemy is increased by 3 levels, and the degree of direct damage inflicted by the enemy on the user is reduced by 3 levels
 Blood Rain Bathing Eight Wastelands
 Transferring your old wounds
-The more old wounds Blood Maple has, the more the power of this power will increase; when this power is at 100%, Blood Maple will transfer up to 8 of his old wounds to his enemy or his helper.
+The more old wounds Xue Feng has, the more the power of this power will increase; when this power is at 100%, Xue Feng will transfer up to 8 of his old wounds to his enemy or his helper.
 Kunlun Twelve Golden Immortal Order
 Injuries cannot be increased
 When this power begins, the artist gains 12 levels of this effect: the degree of damage dealt by an enemy to the artist's direct damage cannot be increased by any effect, and the number of levels of this effect is reduced by 1 for every direct damage dealt by an enemy to the artist of not less than 3
@@ -3883,8 +3883,8 @@ Transferring the Disorientation Marker
 Greed, Anger and Dementia - Solution
 Greed, Anger and Dementia - Robbery
 When you start to perform this power, the more markers of Breath injury you have, the more the power of this power will increase; when this power is at 100% of its power, you will transfer up to 6 markers of Breath injury to your enemy.
-When Blood Maple, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Dye Dusty starts to perform this divine power, the enemy removes 2 markers of Breath injury
-When Blood Maple, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Dye Dusty begins to perform this divine power, the enemy gains 2 markers of Breath injury
+When Xue Feng, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Dye Dusty starts to perform this divine power, the enemy removes 2 markers of Breath injury
+When Xue Feng, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Dye Dusty begins to perform this divine power, the enemy gains 2 markers of Breath injury
 Nine Swords - Ghost God Xia
 Technique formula - solution
 Art side - robbery
