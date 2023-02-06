@@ -2394,7 +2394,7 @@
   "LK_Heal_Random_Inner_Injury_Tips": "Heal <color=#pinkyellow>{0} random Internal Injuries <color=#pinkyellow>-{1}</color>",
   "LK_Heal_All_BodyPart_Outer_Injury_Tips": "Heal <color=#pinkyellow>{0} External Injuries on a body part <color=#pinkyellow>-{1}</color>",
   "LK_Heal_All_BodyPart_Inner_Injury_Tips": "Heal <color=#pinkyellow>{0} Internal Injuries on a body part <color=#pinkyellow>-{1}</color>",
-  "LK_ItemTips_Medicine_Topical_Tips0": "Heals ",
+  "LK_ItemTips_Medicine_Topical_Tips0": "Heals next ",
   "LK_ItemTips_Medicine_Topical_Tips1_0": "next External Injuries",
   "LK_ItemTips_Medicine_Topical_Tips1_1": "next Internal Injuries",
   "LK_ItemTips_Recover_Neili": "Internal Power Restored",
