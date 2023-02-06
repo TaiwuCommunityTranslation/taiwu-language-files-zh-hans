@@ -2396,7 +2396,7 @@
   "LK_Heal_All_BodyPart_Inner_Injury_Tips": "Cures all Int. Injuries of lvl <color=#pinkyellow>{0}</color> or lower <color=#pinkyellow>{1}</color> time",
   "LK_ItemTips_Medicine_Topical_Tips0": "Next lvl... ",
   "LK_ItemTips_Medicine_Topical_Tips1_0": " Ext. Inj. taken is cured",
-  "LK_ItemTips_Medicine_Topical_Tips1_1": " level or lower Int. Injury taken is cured",
+  "LK_ItemTips_Medicine_Topical_Tips1_1": " Int. Inj. taken is cured",
   "LK_ItemTips_Recover_Neili": "Internal Power Restored",
   "LK_ItemTips_WeaponEffect_Title": "【Weapon Attributes】",
   "LK_ItemTips_Weapon_Range": "Attack Range",
