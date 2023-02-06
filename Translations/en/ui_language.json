@@ -2390,7 +2390,7 @@
   "LK_ItemTips_Property_Recover_Postfix": "Restored",
   "LK_ItemTips_Medicine_Eat_Effect_Title": "【Ingested Drug Effect】",
   "LK_ItemTips_Medicine_Topical_Effect_Title": "【Topical Drug Effect】",
-  "LK_Heal_Random_Outer_Injury_Tips": "Cures <color=#pinkyellow>{1}</color> random Ext. Injuries of level <color=#pinkyellow>{0}</color> or lower",
+  "LK_Heal_Random_Outer_Injury_Tips": "Cures <color=#pinkyellow>{1}</color> random Ext. Injuries of lvl <color=#pinkyellow>{0}</color> or lower",
   "LK_Heal_Random_Inner_Injury_Tips": "Cures <color=#pinkyellow>{1}</color> random Int. Injuries of level <color=#pinkyellow>{0}</color> or lower",
   "LK_Heal_All_BodyPart_Outer_Injury_Tips": "Heal <color=#pinkyellow>{0} External Injuries on a body part <color=#pinkyellow>-{1}</color>",
   "LK_Heal_All_BodyPart_Inner_Injury_Tips": "Heal <color=#pinkyellow>{0} Internal Injuries on a body part <color=#pinkyellow>-{1}</color>",
