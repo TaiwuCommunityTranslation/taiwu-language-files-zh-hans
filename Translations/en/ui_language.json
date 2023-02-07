@@ -2096,7 +2096,7 @@
   "LK_Poison": "Poison",
   "LK_Poison_Desc": "{0} quality {1} level",
   "LK_Poison_Level_Desc": "{0} level",
-  "LK_Poison_Max_Level_Tips": "({0} poison and below)",
+  "LK_Poison_Max_Level_Tips": " ({0} lvl)",
   "LK_Poison_Level_1": "1st",
   "LK_Poison_Level_2": "2nd",
   "LK_Poison_Level_3": "3rd",
