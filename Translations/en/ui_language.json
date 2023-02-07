@@ -2392,7 +2392,7 @@
   "LK_ItemTips_Medicine_Topical_Effect_Title": "【Apply Effect】",
   "LK_Heal_Random_Outer_Injury_Tips": "Randomly heals Ext. Injuries of lvl <color=#pinkyellow>{0}</color> or lower <color=#pinkyellow>{1}</color> times",
   "LK_Heal_Random_Inner_Injury_Tips": "Randomly heals Int. Injuries of lvl <color=#pinkyellow>{0}</color> or lower <color=#pinkyellow>{1}</color> times",
-  "LK_Heal_All_BodyPart_Outer_Injury_Tips": "Cures all lvl <color=#pinkyellow>{0}</color> Ext. Injuries <color=#pinkyellow>{1}</color> time",
+  "LK_Heal_All_BodyPart_Outer_Injury_Tips": "Heals all Ext. Injuries of lvl <color=#pinkyellow>{0}</color> or lower <color=#pinkyellow>{1}</color>+1 times",
   "LK_Heal_All_BodyPart_Inner_Injury_Tips": "Cures all lvl <color=#pinkyellow>{0}</color> Int. Injuries <color=#pinkyellow>{1}</color> time",
   "LK_ItemTips_Medicine_Topical_Tips0": "Next lvl... ",
   "LK_ItemTips_Medicine_Topical_Tips1_0": " Ext. Inj. taken is cured",
