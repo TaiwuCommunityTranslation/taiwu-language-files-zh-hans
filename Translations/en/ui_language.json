@@ -1576,7 +1576,7 @@
   "LK_FameLevel_1": "<color=#FameType_Worse>Infamous</color>",
   "LK_FameLevel_2": "<color=#FameType_Bad>Delinquent</color>",
   "LK_FameLevel_3": "<color=#FameType_Normal>Unknown</color>",
-  "LK_FameLevel_4": "<color=#FameType_Good>Samaritan</color>",
+  "LK_FameLevel_4": "<color=#FameType_Good>Distinguished</color>",
   "LK_FameLevel_5": "<color=#FameType_Better>Famous</color>",
   "LK_FameLevel_6": "<color=#FameType_Best>Paragon</color>",
   "LK_FameLevel_7": "<color=#FameType_BothGoodAndBad>Mercenary</color>",
