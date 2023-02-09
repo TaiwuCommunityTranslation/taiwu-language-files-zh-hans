@@ -1574,7 +1574,7 @@
   "LK_Main_SummaryInfo_Fame_TipContent": "Fame represents how the world sees the character, and has nothing to do with the actual standpoint of the character.\n\n<color=#pinkyellow>·The level of Fame  affects how other characters will feel about a character.\n·When a character's fame is as low as「<color=#FameType_Worse>Infamous</color>」,they might get attacked by chivalrous characters.\n·Fame from lowest to highest：\n\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_0><color=#FameType_Worst>Monstrous</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_1><color=#FameType_Worse>Infamous</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_2><color=#FameType_Bad>Disgraced</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_3><color=#FameType_Normal>Unknown</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_4><color=#FameType_Good>Distinguished</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_5><color=#FameType_Better>Famous</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_6><color=#FameType_Best>Saintly</color></color>",
   "LK_FameLevel_0": "<color=#FameType_Worst>Monstrous</color>",
   "LK_FameLevel_1": "<color=#FameType_Worse>Infamous</color>",
-  "LK_FameLevel_2": "<color=#FameType_Bad>Disgraced</color>",
+  "LK_FameLevel_2": "<color=#FameType_Bad>Delinquent</color>",
   "LK_FameLevel_3": "<color=#FameType_Normal>Unknown</color>",
   "LK_FameLevel_4": "<color=#FameType_Good>Samaritan</color>",
   "LK_FameLevel_5": "<color=#FameType_Better>Famous</color>",
