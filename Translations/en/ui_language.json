@@ -2633,7 +2633,7 @@
   "LK_Block_Tip_NemeyNest_Type_0": "Outlaw Lair",
   "LK_Block_Tip_NemeyNest_Type_1": "Righteous stronghold",
   "LK_MapAreaMousetip_Title": "Location Name",
-  "LK_MapAreaMousetip_SpritualDebt": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_enyi> Area Envoy: {0} </color> ",
+  "LK_MapAreaMousetip_SpritualDebt": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_enyi> Regional Favor: {0} </color> ",
   "LK_MapAreaMousetip_Station": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_yizhan> This is where the stage is opened. </color> ",
   "LK_MapAreaMousetip_Infected": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_rumo> There are {0} people here who are possessed. </color> ",
   "LK_MapAreaMousetip_PurpleBamboo": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_zizhu> This site has purple bamboo incarnation activities. </color> ",
