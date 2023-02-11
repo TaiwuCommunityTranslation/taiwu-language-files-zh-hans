@@ -3,7 +3,7 @@ Haste
 Increase Progress
 Pull Back
 ATK
-Defense
+Defend
 Heal
 Detox
 Guard
