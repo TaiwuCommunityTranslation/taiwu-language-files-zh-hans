@@ -2097,7 +2097,7 @@ Whenever the wielder performs the "Break" technique, the power of the wielder's 
 Reverse - 5 Qi In One
 When defending with this technique, the true qi gained by the enemy in battle will rapidly decrease over time and recover to the initial limit
 Reverse - True Art Demon Slaying
-When the user's helper uses the "True Qi" command, more True Qi can be transferred to the user.
+When your teammate uses the「True Qi」command, more True Qi will be transferred to the user.
 Reverse - Endless Power
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user removes all the enemy's Qi, and the more the enemy's Qi is removed, the more the user's counterattack damage increases.
 Reverse - 3 Flower On Top
