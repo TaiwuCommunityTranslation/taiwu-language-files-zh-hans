@@ -541,7 +541,7 @@ Heart-Self Destroy Spell
 Obtain a large amount of true qi
 Whenever a partner of the user's helper reaches the defeat condition, the user will receive a large amount of true qi according to the amount of various types of true qi of that partner
 12 Blood Child Formation
-The companion of the user's helper can only obtain the "substitute life" command which can share a lot of trauma and serious injury for the user in the battle.
+The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of External Injuries and Fatal Wounds of the user in battle.
 Sky Demon
 Worsening enemy external injury
 When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 4 levels; whenever the user reacts to an enemy's attack, the user applies a large amount of Pyrotoxin to the enemy, and at the same time worsens the external wounds of all parts of the enemy by 1 level
