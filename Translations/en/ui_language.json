@@ -3025,7 +3025,7 @@
   "Event_Yishi_Skill_1": "Chess",
   "Event_Yishi_Skill_2": "Literature",
   "Event_Yishi_Skill_3": "Painting",
-  "LK_OptionNeedBehavior": "Need position for",
+  "LK_OptionNeedBehavior": "Adjacent Standpoints: ",
   "LK_EventInput_IntegerTips": "Enter a value between {0} ~ {1} ...",
   "LK_EventInput_NameHolderTips": "Type your name ...",
   "LK_EventInput_StringHolderTips": "Enter the information ...",
