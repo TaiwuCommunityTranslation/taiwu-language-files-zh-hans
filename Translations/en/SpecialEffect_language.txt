@@ -267,7 +267,7 @@ Quiet Return In One
 E·Stance Dn
 Whenever the user resolves a non-chasing enemy attack, the enemy's Stance is reduced and the user gains 1 randomly available style.
 4 Images of Lotus Formation
-The user's helper can use the "Heal" and "Detox" commands more frequently to heal and expel poison for the user.
+Teammates can perform「Heal」and「Detox」commands more frequently, which heal and detox poison for the user.
 Immortal Yang's Golden Body
 When defending with this technique, the more styles the user has available, the less direct damage the enemy will inflict on the user.
 Seven-Star Cross Chain
