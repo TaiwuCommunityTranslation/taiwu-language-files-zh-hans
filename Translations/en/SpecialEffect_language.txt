@@ -330,7 +330,7 @@ Sword Or Blade
 skill power up
 When the user performs a Sword Technique with a Blade the power of the Sword Technique increases.
 Yuanshan 7 Formations
-The companion who uses the helper can use the "Attack" command more frequently to attack the enemy.
+Teammates can perform「Attack」command more frequently, which makes them attack the enemy.
 Golden Blade Fist
 Reduce enemy's "attack tokens"
 Dmg Immunity
