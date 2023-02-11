@@ -307,7 +307,7 @@ Wudang Iron Clothes
 Equal share of Ext. and Int. Def.
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 1 level; the user defends against enemy attacks with the average of his own External and Internal Defense
 Sword Formation of The 3 Elements
-The user's helper can use the "return protection" and "unblock" commands more frequently to remove the weaknesses and unblock the points for the user.
+The user's helper can use the "Guard" and "Release" commands more frequently to remove the weaknesses and unblock the points for the user.
 Cloud Bed
 Steady pace of improvement
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, a buff is applied to the user which improves Stance Recovery.
