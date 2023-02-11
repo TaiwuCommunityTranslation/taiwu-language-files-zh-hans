@@ -129,7 +129,7 @@ Grave Robbing
 {0} stole {3} from the grave of {2} in {1}.
 Stealing props
 {0} in {1} has stolen the {2} from {3}。
-Bluffing props
+Scamming props
 Grabbing props
 Excavation props
 {0} stole {3} from the grave of {2} in {1}
