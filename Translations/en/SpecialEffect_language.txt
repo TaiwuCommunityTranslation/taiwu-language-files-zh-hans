@@ -2290,7 +2290,7 @@ When defending with this technique, whenever the user successfully counters an e
 Reverse - Heart-Self Destroy Spell
 Whenever a companion of the user's helper reaches the defeat condition, the enemy loses a large amount of true qi according to the amount of each type of true qi of that companion
 Reverse - 12 Blood Child Formation
-The companion of the user's helper can only get the command of "substitute life" which can share a lot of internal injuries and serious damage for the user in the battle.
+The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of Internal Injuries and Fatal Wounds of the user in battle.
 Reverse - Sky Demon
 Worsening the enemy's internal wounds
 When defending with this technique: all direct internal injuries suffered by the user are reduced by 4 levels; whenever the user reacts to an enemy attack, the user applies a large amount of Cryotoxin to the enemy, and at the same time worsens the internal injuries of all parts of the enemy by 1 level
