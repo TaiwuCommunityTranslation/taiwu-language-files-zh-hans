@@ -2107,7 +2107,7 @@ When defending with this technique, whenever the user successfully counters an e
 Reverse - Sword Or Blade
 When the user performs a Blade technique with a Sword, the power of the Blade techniques increases
 Reverse - Yuanshan 7 Formations
-When an attacker's partner uses the "Attack" command, the External Penetration, Internal Penetration, Might, Finesse, Swiftness, and Breath of the attack are greatly increased.
+When your teammate uses the「Attack」command, the External Penetration, Internal Penetration, Might, Finesse, Swiftness, and Breath of the attack are greatly increased.
 Reverse - Golden Blade Fist
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user gains an "attack token", and if the user's "attack tokens" reached the maximum amount before being increased, the user's counterattack damage to the enemy is greatly increased
 Reverse - Sakyamuni Elephant Throwing
