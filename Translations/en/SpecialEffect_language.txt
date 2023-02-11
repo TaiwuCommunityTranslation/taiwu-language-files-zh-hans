@@ -499,7 +499,7 @@ When using this technique for defense, whenever the user dodges an enemy's attac
 Reduction of direct internal injuries
 When defending with this technique, the degree of direct internal injury inflicted by the enemy on the user is reduced by 3 levels
 Formation of 6 Stars
-The companions of the user's helper can use the "push" command more frequently to increase the progress of the user's technique.
+The companions of the user's helper can use the "Haste" command more frequently to increase the progress of the user's technique.
 9 Star Eye
 The more "Throw" styles the user has, the more the user's Might increases; the more "Shot" styles the user has, the more the user's Swiftness increases; the more "Drive" styles the user has, the more the user's Finesse increases.
 Seven elements of the great method to solve the evil
