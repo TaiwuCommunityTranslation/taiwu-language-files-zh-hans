@@ -241,7 +241,7 @@ Reduce the extent of injury
 Remove WeakSpot
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to the enemy's attack, 2 randomly eliminated weaknesses in the user's body
 Arhat's Stick Formation
-Teammates can perform「Defend」command more frequently. It makes them perform Aegis skill to defend the user against enemy attacks.
+Teammates can perform「Defend」command more frequently, which makes them perform Aegis skill to defend user against enemy attacks.
 Buddhism Lion Roar
 Attrition of enemy's Stamina
 Whenever the user starts to perform a "Break" type technique (Attack technique), if the enemy is within the user's attack range, all of the enemy's Footwork and Stamina will be lost.
