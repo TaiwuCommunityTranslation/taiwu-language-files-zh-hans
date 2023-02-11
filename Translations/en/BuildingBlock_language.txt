@@ -477,7 +477,7 @@ The Shennong Ravine is the most spiritual place in the world,  no matter what ki
 Using "Shennong's blood" as the heart material, an extension building is built next to the "Herbal Room", which needs to be adjacent to the "Everlasting Spring Stream". \n can reduce the requirement of "medical skill" when making potions.
 Cellar
 The cellar was built in the deep and cold underground. There are utensils for the preparation of poisons in the room,  which also breeds highly venomous snakes and plants.
-You can make poisons and quench poisons for props. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Toxicology" books. \nThe larger the size of the chamber, the greater the increase in efficiency, but the effects of multiple chambers do not stack.
+You can make poisons and quench poisons for items. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Toxicology" books. \nThe larger the size of the chamber, the greater the increase in efficiency, but the effects of multiple chambers do not stack.
 Poison Market
 The poison market sells common poisons such as arsenic which kills rats and has detailed sales records. However,  ordinary people do not know,  here also secretly sells other terrible poisons that hurt people.
 This is an extension building built next to the "Cellar" and needs to be operated by the villagers. \nThe main purpose of the building is to sell poisons to earn money.
