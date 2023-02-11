@@ -174,7 +174,7 @@ Caught stealing items
 Stole items and escaped
 {2} of {3} was stolen in {1}...
 Encounter scamming items
-Encounter robbery items
+Encounter stealing items
 Caught stealing skills
 {0} stole {2}'s {3}th {4} article in {1} and was discovered by {2}...
 Stealing skills to escape
