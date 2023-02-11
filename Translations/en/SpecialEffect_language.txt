@@ -387,7 +387,7 @@ When defending with this technique, whenever the user dodges an enemy's attack, 
 Dark Jade Practice
 The duration of the disorientation marker suffered by the user is significantly reduced.
 Formation of Scattered Flowers
-The partner of the user's helper can push and pull the user more frequently with the "Push" and "Pull" commands to change the distance between the user and the enemy.
+Teammates can perform「Push」and「Pull」commands more frequently, which makes them push you forward or pull you back 1 distance.
 Rainbow Fairy Dress
 Dramatically increases the duration of the user's "Quick" techniques
 Mirror Flower Water Moon
