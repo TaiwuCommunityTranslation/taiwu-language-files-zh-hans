@@ -127,11 +127,11 @@ Swindled Resources
 {0} tried to trick {2} of {3} at {1}, but was unsuccessful.
 Grave Robbing
 {0} stole {3} from the grave of {2} in {1}.
-Stealing props
+Stealing items
 {0} in {1} has stolen the {2} from {3}。
-Scamming props
-Grabbing props
-Excavation props
+Scamming items
+Grabbing items
+Excavation items
 {0} stole {3} from the grave of {2} in {1}
 Stole Life Skill
 At {1}, {0} tried to steal {3} from {2}, but did not get any results.
