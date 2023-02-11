@@ -318,7 +318,7 @@ Whenever the "Break" technique is performed by the user, the power of the techni
 Recover Force
 When using this technique for defense, the True Qi lost by the user in battle will increase rapidly over time and recover to the initial limit
 True Art Demon Slaying
-The user's helper can use the "True Qi" command more frequently to transmit his or her own True Qi to the user.
+Teammates can perform「True Qi」command more frequently, which makes them transmit their own True Qi to the user.
 Endless Power
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user eliminates all the enemy's Stance, and the more the enemy's Stance is eliminated, the more the user's counterattack damage will increase
 3 Flower On Top
