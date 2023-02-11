@@ -2157,7 +2157,7 @@ When defending with this technique, whenever the user dodges an enemy's attack, 
 Reverse - Dark Jade Practice
 Enemies suffer a significant increase in the duration of the Disorientation Mark
 Reverse - Formation of Scattered Flowers
-When the user's helper uses the "swift advance" and "pull back" commands, the user can be pushed and pulled farther.
+When your teammate uses the「Push」or「Pull」commands, the user will be pushed and pulled farther.
 Reverse - Rainbow Fairy Dress
 Significantly reduce the duration of the enemy's "Quick" technique
 Reverse - Mirror Flower Water Moon
