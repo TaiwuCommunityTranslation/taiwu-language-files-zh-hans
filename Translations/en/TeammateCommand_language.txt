@@ -2,7 +2,7 @@ Go Fight
 Haste
 Increase Progress
 Pull Back
-ATK
+Attack
 Defend
 Heal
 Detox
