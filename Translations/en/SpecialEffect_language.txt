@@ -371,7 +371,7 @@ The Great Dementor
 Unable to add no style
 When defending with this technique: the user will not gain any "none" wounds; if the enemy can gain "none" wounds and the user's Breath is higher than the enemy's Focus, the "none" wounds which should have been added to the user will be added to the enemy instead.
 Formation of 6 Men 6 Armor
-The companion of the user's helper can use the "Swap" command more frequently to fight instead of the user for a short period of time.
+Teammates can perform「Swap」command more frequently, which makes them swap into the fight for a short amount of time.
 Spell of Heavenly Spirit
 When defending with this technique, the direct damage inflicted by the enemy on the user with the Heterodox technique is greatly reduced
 Elephant Imitation
