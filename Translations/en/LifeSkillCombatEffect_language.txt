@@ -23,7 +23,7 @@ You can use it to eliminate 1 of your opponent's arguments in a horizontal, vert
 Reprimand
 When your Question or Doubt turns into your argument, eliminate the opponent's arguments that are Horiz. or Vert. (can't go over higher value arguments)
 Gotcha
-When your Question or Doubt is answered, the cooldown of the manual used by the opponent for the answer by 1 turn.
+When your Question or Doubt is answered, the cooldown of the manual used by the opponent for the answer is increased by 1 turn.
 Exaggerate
 When you Question or Doubt, 3 more books are displayed to enter the cooldown
 Humble
