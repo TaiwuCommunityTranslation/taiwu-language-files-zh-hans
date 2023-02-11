@@ -6,7 +6,7 @@ Attack
 Defend
 Heal
 Detox
-Guard
+Mend
 Release
 Attack Array
 Warn
