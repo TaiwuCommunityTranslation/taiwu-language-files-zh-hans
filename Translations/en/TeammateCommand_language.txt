@@ -10,5 +10,5 @@ Guard
 Release
 Attack Array
 Warn
-Qi
+True Qi
 Sacrifice
