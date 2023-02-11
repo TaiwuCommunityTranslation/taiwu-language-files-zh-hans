@@ -2172,7 +2172,7 @@ When defending with this technique: the degree of injury of all direct damage re
 Reverse - 14 Methods of Real Steel
 Significantly increase the edge breaking and toughness of the user's protective gear
 Reverse - Mechanical Formation
-When the user's helper uses the "warning" command, it can increase the user's Diversion, Parry, and Evasion more.
+When your teammate uses the「Warn」command, it will increase the user's Diversion, Parry, and Evasion more.
 Reverse - Heavenly Armor
 When defending with this technique, if the grade of the weapon used by the enemy is not higher than the grade of the protective gear of the attacked part, the degree of all direct internal injuries caused by the enemy to the user is reduced by 4 levels.
 Reverse - Exquisite 9
