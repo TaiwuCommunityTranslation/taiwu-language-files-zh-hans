@@ -2141,7 +2141,7 @@ Reverse - The Great Dementor
 Freedom from the Breath injury
 When defending with this technique: the user will not be marked with a loss of concentration; if the enemy can be marked with a loss of concentration, and the user's Breath is higher than the enemy's Focus, the loss of concentration mark applied to the user by the enemy will be applied to the enemy instead
 Reverse - Formation of 6 Men 6 Armor
-When a companion of the user's helper uses the "Battle" command, the time that he/she fights instead of the user increases significantly.
+When your teammate uses the「Swap」command, the amount of time they're swapped for increases significantly.
 Reverse - Spell of Heavenly Spirit
 When defending with this technique, the direct damage inflicted by the enemy on the user with the technique being practiced is greatly reduced
 Reverse - Elephant Imitation
