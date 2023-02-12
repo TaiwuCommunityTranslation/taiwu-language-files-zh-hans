@@ -195,7 +195,7 @@ The Swordplay Room is a place to specialize in Sword. Swordplay requires one to 
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Sword Technique".
 Blade Room
 A place for specializing in Blade. There are all kinds of blades in the hall: long blades,  short blades,  double blades,  western blades and so on.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "sword technique".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "Blade Technique".
 Polearm Room
 The open space surrounded by low mud walls. Huge drums stand on the side of the central stage,  various long weapons are listed aside.
 An expansion building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "long armament".
