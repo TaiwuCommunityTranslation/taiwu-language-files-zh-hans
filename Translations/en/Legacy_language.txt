@@ -34,7 +34,7 @@ Inspired by Swordplay
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 3!
 Stimulation of knife skills
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's swordplay qualification by 3!
-Long Soldier Excitation
+Polearm Excitation
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Polearm talent by 3!
 Qi Men Inspire
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's oddball qualification by 3!
@@ -214,7 +214,7 @@ Swordsmanship Abandonment
 Give up your heir's 3 points of swordsmanship qualification to gain more of the legacy of life!
 Renunciation of knife techniques
 Give up your heir's 3 points of swordsmanship qualification to gain more of the legacy of life!
-Long Soldier Abandonment
+Polearm Abandonment
 Give up your heir's 3 points of Polearm talent to gain more of the Living Legacy!
 Qi Men Abandonment
 Give up your heir's 3 odd points of qualification to get more of the legacy of life!
