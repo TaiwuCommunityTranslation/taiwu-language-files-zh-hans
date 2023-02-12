@@ -198,7 +198,7 @@ A place for specializing in Blade. There are all kinds of blades in the hall: lo
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "Blade Technique".
 Polearm Room
 The open space surrounded by low mud walls. Huge drums stand on the side of the central stage,  various long weapons are listed aside.
-An expansion building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "long armament".
+An expansion building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "Polearm".
 Trick Battle
 It is a place where all kinds of odd-shaped blades are collected and studied. It also has a number of rooms for practicers to share their opinions on Special martial arts.
 An extension building built next to the "Training Hall". \n can reduce the "training" required for characters in the area of influence of the town and sect they belong to when they practice and break through the "ki gong".
