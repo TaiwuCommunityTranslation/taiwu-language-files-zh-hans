@@ -162,7 +162,7 @@ The escort agency deals in the protection of important people or objects. To be 
 This extension building must be built next to the "Training Hall" building. Needs to be operated by up to 3 villagers to earn "Money". The larger the Escort Agency, the more "Money" you earn.
 Trial Peak
 The Trial Peak is made up of a series of martial tests through various obstacles built upon the cliffs. While it certainly measures the skill of a martial artist, the challenge is often to be found harsher mentally then physically.
-Must be built both adjacent to the "Training Hall" building and the "Skyward Mountain" resource, using the "Nine Tests of Spiritual Refinement" as the core material. Needs to be operated by up to 3 villagers to acquire new villagers talented in "Martial Arts". The larger the Trial Peak, the better the talents that can be acquired.
+Must be built both adjacent to the "Training Hall" building and the "Skyward Mountain" resource, using the "Nine Trials of Talent" as the core material. Needs to be operated by up to 3 villagers to acquire new villagers talented in "Martial Arts". The larger the Trial Peak, the better the talents that can be acquired.
 Reception Room
 As the Successor of Taiwu cannot start his own school, the reception hall often takes the place of a school door to receive martial artists. The reception hall is made of very simple but age-tested construction and has good views of the area.
 Must be built next to the "Training Hall" building. Needs to be operated by up to 3 villagers to earn "Prestige". The larger the Reception Room, the more "Prestige" you earn.
