@@ -156,7 +156,7 @@ A business group formed from merchants who transport large quantities of goods a
 Constructed using the 'Western Region Map' as the core material. By sending merchants westward, you can harvest exotic treasures.
 Training Hall
 The training hall is a place to practice martial arts. The building is spacious and airy, and the atmosphere of the room can be arranged to suit the mood of the practitioner. There are various props for training in the room.
-Increases the efficiency of a character's martial arts "Practice" within the influence of the location the building resides in. The larger the Training Hall, the more the efficiency increases. Multiple training rooms will not stack benefits.
+Increases the efficiency of a character's martial arts "Practice" within the influence of the location the building resides in. The larger the Training Hall, the more the efficiency increases. Multiple Training Halls will not stack benefits.
 Escort Agency
 The escort agency deals in the protection of important people or objects. To be successful one has to be connected with both good and bad forces in the martial world.
 This extension building must be built next to the "Training Hall" building. Needs to be operated by up to 3 villagers to earn "Money". The larger the Escort Agency, the more "Money" you earn.
@@ -171,16 +171,16 @@ The Meditation Wall is made of extreme ice and crafted cold jade. It's a special
 Must be built adjacent to the "Training Hall" building and the "Eternal Ice" resource, using the "Cold Jade Terrace" as the core material. Increases the upper limit of martial talent when performing a "Breakthrough" for characters within the influence of the town and sect they belong to.
 Silence Room
 The Silence Room is hidden in a quiet place. Black clothes are hung on the interior doors and windows to isolate the indoor and outdoor,  so that those who practice Inner Arts can concentrate on one’s mind and forget about the outter world.
-An extended building built next to the "training room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "internal skills".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "internal skills".
 Forest of Poles
 A large forest of poles,  with a huge number of extremely high stakes and stone piles. There is no other place to rest except those thin stakes and piles.
 An extended building built next to the "practice room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "Footwork Techniques".
 Stunt Room
 The Stunt Room is built in a clean and uninhabited place. Although small in size,  it is guarded by strict garrison. It is the place to practice secret martial arts.
-An expansion building built next to the "training room". \n reduces the amount of "training" required for characters within the influence of the town or sect they belong to practice and break through "stunt".
+An expansion building built next to the "Training Hall". \n reduces the amount of "training" required for characters within the influence of the town or sect they belong to practice and break through "stunt".
 Wooden Dummies
 Equipped with sixty wooden dummies controlled by rail slings of subtle design. Practicing Fist with them is like practicing with 60 masters at the same time.
-An extension building built next to the "training room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "kung fu palm".
+An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "kung fu palm".
 Bronze Dummies
 The Bronze Dummies are carefully crafted. Each bronze dummy has many acupoints which are connected to contraptions inside. When the acupoints are hit with different finger forces,  different sounds will be made.
 An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "finger techniques".
