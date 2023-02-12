@@ -192,7 +192,7 @@ The Dart Range has seventy big wooden targets,  seventy small wooden targets,  s
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Hidden Weapons".
 Swordplay Room
 The Swordplay Room is a place to specialize in Sword. Swordplay requires one to follow the heart so it’s important to keep a peace mind. Therefore,  the room is built in the open air at a high place,  away from noises.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "sword techniques".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Sword Technique".
 Blade Room
 A place for specializing in Blade. There are all kinds of blades in the hall: long blades,  short blades,  double blades,  western blades and so on.
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "sword technique".
