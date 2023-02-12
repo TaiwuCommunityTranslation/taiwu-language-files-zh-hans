@@ -186,7 +186,7 @@ The Bronze Dummies are carefully crafted. Each bronze dummy has many acupoints w
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "finger techniques".
 Mire
 The Mire is full of dense and heavy mud mixed with sand and iron,  and  the depth is just at the waist and abdomen position of ordinary people. One’s leg strength can be greatly advanced if he/she practice Kick here.
-An extended building built next to the "Training Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "legwork".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "legwork".
 Dart Range
 The Dart Range has seventy big wooden targets,  seventy small wooden targets,  seventy automatic targets and a number of moving birds and animals. It is a place dedicated to the practice of eyesight and flying needles.
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "concealed weapons".
@@ -198,7 +198,7 @@ A place for specializing in Blade. There are all kinds of blades in the hall: lo
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "sword technique".
 Polearm Room
 The open space surrounded by low mud walls. Huge drums stand on the side of the central stage,  various long weapons are listed aside.
-An expansion building built next to the "Training Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "long armament".
+An expansion building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "long armament".
 Trick Battle
 It is a place where all kinds of odd-shaped blades are collected and studied. It also has a number of rooms for practicers to share their opinions on Special martial arts.
 An extension building built next to the "Training Hall". \n can reduce the "training" required for characters in the area of influence of the town and sect they belong to when they practice and break through the "ki gong".
@@ -213,7 +213,7 @@ This is a silent man-made valley,  surrounded by hills that reflects every sound
 An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town and sect to which they belong to practice and break through "musical instruments".
 Isolated Tower
 The Isolated tower havs 9 levels,  symbolizing the 9 steps into immortality. There is only very spartan provisions inside the tower which help force practitioners concentrate.
-This is an extension building built next to the "Training Room" using the "Absolute Sound Stone" as the core material. \nIt can increase the success rate of "Inner Arts" for characters within the influence of the town and sect to which they belong.
+This is an extension building built next to the "Training Hall" using the "Absolute Sound Stone" as the core material. \nIt can increase the success rate of "Inner Arts" for characters within the influence of the town and sect to which they belong.
 Cloud Stages
 The cloud stages are a series of small steps around a giant tree that extends for a hundred jiang from the ground. So small and weak are that steps that even birds are challenged to stand on it,  and more so for a footwork practitioner.
 This is an extension building built next to the "Training Hall" using "Kirin Chisel" as the core material. \nIt can increase the success rate of "Footwork Technique" for characters within the influence of the town and sect to which they belong.
@@ -222,13 +222,13 @@ Buried deep underground and reached only by hidden passageways,  this secret roo
 This is an extension building built next to the "Training Hall" using "Wind Hole Hyakki" as the core material. \nThis building can increase the success rate of "Stunt" for characters within the influence of the town and sect to which they belong.
 Tiger ring
 The tiger ring is just taller than the human body in all directions,  which makes escaping impossible. Only by training fist skills one can defeat the beasts that reside inside it.
-This is an extension building built next to the "Training Room" using the "Tiger Feeding Cage" as the core material. \nIt can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Fist and Palm".
+This is an extension building built next to the "Training Hall" using the "Tiger Feeding Cage" as the core material. \nIt can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Fist and Palm".
 Cocoon Wall
 The cocoon wall has two layers - towards the practitioner is a stone wall,  and behind it are silk worm cocoons. Some finger skills is needed to break cocoons behind the wall only by fingering skills,  but true masters can break the wall without breaking any cocoon.
 An extension building built next to the "Training Hall" using "Everlasting Cocoon" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Finger Technique".
 Web Roof
 The roof of the web roof was covered by a net made of thick ropes. One put on strength and skill in his Kicks by keeping themselves hanging upside-down on their feet.
-An extension building built next to the "Training Room" with "Dragon Bone Golden Hook" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "legwork".
+An extension building built next to the "Training Hall" with "Dragon Bone Golden Hook" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "legwork".
 Pitch Black
 There is no light in the dark room. A hidden weapon practioner need very good ears to hit the 24 sparrows inside this room with only a handful of cinnabar. The truly skillful can hit the birds without killing them.
 This is an extension building built next to the "Training Hall" using the "Absolute Light Wall" as the core material. \nIt can increase the success rate of the "Dark Weapon" for characters within the influence of the town and sect to which they belong.
