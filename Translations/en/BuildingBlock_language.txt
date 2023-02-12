@@ -174,7 +174,7 @@ The Silence Room is hidden in a quiet place. Black clothes are hung on the inter
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "internal skills".
 Forest of Poles
 A large forest of poles,  with a huge number of extremely high stakes and stone piles. There is no other place to rest except those thin stakes and piles.
-An extended building built next to the "practice room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "Footwork Techniques".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "Footwork Techniques".
 Stunt Room
 The Stunt Room is built in a clean and uninhabited place. Although small in size,  it is guarded by strict garrison. It is the place to practice secret martial arts.
 An expansion building built next to the "Training Hall". \n reduces the amount of "training" required for characters within the influence of the town or sect they belong to practice and break through "stunt".
@@ -201,7 +201,7 @@ The open space surrounded by low mud walls. Huge drums stand on the side of the 
 An expansion building built next to the "Training Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "long armament".
 Trick Battle
 It is a place where all kinds of odd-shaped blades are collected and studied. It also has a number of rooms for practicers to share their opinions on Special martial arts.
-An extension building built next to the "practice room". \n can reduce the "training" required for characters in the area of influence of the town and sect they belong to when they practice and break through the "ki gong".
+An extension building built next to the "Training Hall". \n can reduce the "training" required for characters in the area of influence of the town and sect they belong to when they practice and break through the "ki gong".
 Wind Room
 The wind room has a series of intricate gust generating mechanisms. A soft weapon practicioner must maintain his control in order not to hit himself.
 An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters within the influence of the town or sect to which they belong to practice and break through "soft arms".
@@ -210,7 +210,7 @@ Contraptions Room is a quiet and tidy workshop. The room is equipped with all ki
 An extension building built next to the "Training Hall". \n reduces the "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "imperial shooting".
 Empty Valley
 This is a silent man-made valley,  surrounded by hills that reflects every sound musical instruments made inside them. No error,  large or small,  can escape the year.
-An extension building built next to the "practice room". \n reduces the amount of "training" required for characters in the area of influence of the town and sect to which they belong to practice and break through "musical instruments".
+An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town and sect to which they belong to practice and break through "musical instruments".
 Isolated Tower
 The Isolated tower havs 9 levels,  symbolizing the 9 steps into immortality. There is only very spartan provisions inside the tower which help force practitioners concentrate.
 This is an extension building built next to the "Training Room" using the "Absolute Sound Stone" as the core material. \nIt can increase the success rate of "Inner Arts" for characters within the influence of the town and sect to which they belong.
@@ -252,7 +252,7 @@ The many gems studded into the walls of this room will reflect moonlight into a 
 This is an extension building built next to the "Training Hall" using the "Light Chasing Pearl" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Royal Shot".
 Strings Hall
 Seven strings made of exotic materials and in rainbow colours hang in this hall. They resonate to the internal energy and the mood of the music practioner respectively - happiness,  angriness,  sadness,  thoughtfulness,  sadness,  worriness and scaredness.
-This is an extension building built next to the "practice room" using "seven-color heart strings" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through "musical instruments".
+This is an extension building built next to the "Training Hall" using "seven-color heart strings" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through "musical instruments".
 Music Room
 Elegant music room built beside a winding path,  surrounded by dense woods.  Various kinds of instruments available.
 It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Music" books. \nThe larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
