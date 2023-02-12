@@ -183,19 +183,19 @@ Equipped with sixty wooden dummies controlled by rail slings of subtle design. P
 An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "kung fu palm".
 Bronze Dummies
 The Bronze Dummies are carefully crafted. Each bronze dummy has many acupoints which are connected to contraptions inside. When the acupoints are hit with different finger forces,  different sounds will be made.
-An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "finger techniques".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "finger techniques".
 Mire
 The Mire is full of dense and heavy mud mixed with sand and iron,  and  the depth is just at the waist and abdomen position of ordinary people. One’s leg strength can be greatly advanced if he/she practice Kick here.
 An extended building built next to the "Training Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "legwork".
 Dart Range
 The Dart Range has seventy big wooden targets,  seventy small wooden targets,  seventy automatic targets and a number of moving birds and animals. It is a place dedicated to the practice of eyesight and flying needles.
-An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "concealed weapons".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "concealed weapons".
 Swordplay Room
 The Swordplay Room is a place to specialize in Sword. Swordplay requires one to follow the heart so it’s important to keep a peace mind. Therefore,  the room is built in the open air at a high place,  away from noises.
-An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "sword techniques".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "sword techniques".
 Blade Room
 A place for specializing in Blade. There are all kinds of blades in the hall: long blades,  short blades,  double blades,  western blades and so on.
-An extended building built next to the "Practice Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "sword technique".
+An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "sword technique".
 Polearm Room
 The open space surrounded by low mud walls. Huge drums stand on the side of the central stage,  various long weapons are listed aside.
 An expansion building built next to the "Training Room". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "long armament".
@@ -204,10 +204,10 @@ It is a place where all kinds of odd-shaped blades are collected and studied. It
 An extension building built next to the "practice room". \n can reduce the "training" required for characters in the area of influence of the town and sect they belong to when they practice and break through the "ki gong".
 Wind Room
 The wind room has a series of intricate gust generating mechanisms. A soft weapon practicioner must maintain his control in order not to hit himself.
-An extension building built next to the "Practice Room". \n reduces the amount of "training" required for characters within the influence of the town or sect to which they belong to practice and break through "soft arms".
+An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters within the influence of the town or sect to which they belong to practice and break through "soft arms".
 Contraptions Room
 Contraptions Room is a quiet and tidy workshop. The room is equipped with all kinds of clever instruments,  ranging from small awls,  tapers to large slings and lathes. Range weapon is the art of using contraptions to deal damage at a distance.
-An extension building built next to the "Practice Room". \n reduces the "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "imperial shooting".
+An extension building built next to the "Training Hall". \n reduces the "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "imperial shooting".
 Empty Valley
 This is a silent man-made valley,  surrounded by hills that reflects every sound musical instruments made inside them. No error,  large or small,  can escape the year.
 An extension building built next to the "practice room". \n reduces the amount of "training" required for characters in the area of influence of the town and sect to which they belong to practice and break through "musical instruments".
@@ -216,40 +216,40 @@ The Isolated tower havs 9 levels,  symbolizing the 9 steps into immortality. The
 This is an extension building built next to the "Training Room" using the "Absolute Sound Stone" as the core material. \nIt can increase the success rate of "Inner Arts" for characters within the influence of the town and sect to which they belong.
 Cloud Stages
 The cloud stages are a series of small steps around a giant tree that extends for a hundred jiang from the ground. So small and weak are that steps that even birds are challenged to stand on it,  and more so for a footwork practitioner.
-This is an extension building built next to the "Practice Room" using "Kirin Chisel" as the core material. \nIt can increase the success rate of "Footwork Technique" for characters within the influence of the town and sect to which they belong.
+This is an extension building built next to the "Training Hall" using "Kirin Chisel" as the core material. \nIt can increase the success rate of "Footwork Technique" for characters within the influence of the town and sect to which they belong.
 Secret Room
 Buried deep underground and reached only by hidden passageways,  this secret room keeps the practicing of stunts an absolute secret. Inside there are books and drawings that acts as study aids.
-This is an extension building built next to the "Practice Room" using "Wind Hole Hyakki" as the core material. \nThis building can increase the success rate of "Stunt" for characters within the influence of the town and sect to which they belong.
+This is an extension building built next to the "Training Hall" using "Wind Hole Hyakki" as the core material. \nThis building can increase the success rate of "Stunt" for characters within the influence of the town and sect to which they belong.
 Tiger ring
 The tiger ring is just taller than the human body in all directions,  which makes escaping impossible. Only by training fist skills one can defeat the beasts that reside inside it.
 This is an extension building built next to the "Training Room" using the "Tiger Feeding Cage" as the core material. \nIt can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Fist and Palm".
 Cocoon Wall
 The cocoon wall has two layers - towards the practitioner is a stone wall,  and behind it are silk worm cocoons. Some finger skills is needed to break cocoons behind the wall only by fingering skills,  but true masters can break the wall without breaking any cocoon.
-An extension building built next to the "Practice Room" using "Everlasting Cocoon" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Finger Technique".
+An extension building built next to the "Training Hall" using "Everlasting Cocoon" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Finger Technique".
 Web Roof
 The roof of the web roof was covered by a net made of thick ropes. One put on strength and skill in his Kicks by keeping themselves hanging upside-down on their feet.
 An extension building built next to the "Training Room" with "Dragon Bone Golden Hook" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "legwork".
 Pitch Black
 There is no light in the dark room. A hidden weapon practioner need very good ears to hit the 24 sparrows inside this room with only a handful of cinnabar. The truly skillful can hit the birds without killing them.
-This is an extension building built next to the "Practice Room" using the "Absolute Light Wall" as the core material. \nIt can increase the success rate of the "Dark Weapon" for characters within the influence of the town and sect to which they belong.
+This is an extension building built next to the "Training Hall" using the "Absolute Light Wall" as the core material. \nIt can increase the success rate of the "Dark Weapon" for characters within the influence of the town and sect to which they belong.
 Swords Collection
 A swordsman can hold no sword if he sees them as anonymous sticks. Only by understanding the intention of thousands of swords one can truly be a swordsman. This mound of disused swords shows how the inner toil the swordsman had endured.
-An extension building built next to the "Practice Room" using "Burial Stone" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when breaking through the "Sword Technique".
+An extension building built next to the "Training Hall" using "Burial Stone" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when breaking through the "Sword Technique".
 Shura House
 In the art of blades,  skills takes second place to momentum. Here a blade practitoner had clashed many blades together in order to train his mental state.
-This is an extension building built next to the "Practice Room" using the "Blade Calming Stone" as the core material. \nIt can increase the success rate of the "Blade Technique" for characters within the influence of the town and sect to which they belong.
+This is an extension building built next to the "Training Hall" using the "Blade Calming Stone" as the core material. \nIt can increase the success rate of the "Blade Technique" for characters within the influence of the town and sect to which they belong.
 Iron Horses
 Iron pony formation is fifty feet long and two feet wide. Both ends of the long formation have ten iron armor war horses. Once the formation is started, the iron horses charge back and forth with each other, the sound is amazing, non-hundred battles of the body can not resist.
-An expansion building built next to the "Practice Room" with "Breaking Iron Pony" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when breaking through the "Polearm".
+An expansion building built next to the "Training Hall" with "Breaking Iron Pony" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when breaking through the "Polearm".
 Diagram Field
 The trickery of exotic weapons often leans on the five elements and the eight directions,  depending on the diagrams. This field is built upon the principle of diagrams and training exotic weapons inside means better understanding of its use.
-This is an extension building built next to the "Practice Room" using the "Formation Eye Stone" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "strange door".
+This is an extension building built next to the "Training Hall" using the "Formation Eye Stone" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "strange door".
 Web Alley
 The web alley is only one step wide and is covered by strips of cloth tranversing it,  looking like a spider’s web. Extreme control is needed for a soft weapon to attack into and retreat from it with ease.
-This is an extension building built next to the "Practice Room" with "100-twists Soft Rope" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Soft Weapons".
+This is an extension building built next to the "Training Hall" with "100-twists Soft Rope" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Soft Weapons".
 Reflection Room
 The many gems studded into the walls of this room will reflect moonlight into a myriad of shapes and colours. This trickery can helps with concentration needed for ranged weapons.
-This is an extension building built next to the "Practice Room" using the "Light Chasing Pearl" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Royal Shot".
+This is an extension building built next to the "Training Hall" using the "Light Chasing Pearl" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Royal Shot".
 Strings Hall
 Seven strings made of exotic materials and in rainbow colours hang in this hall. They resonate to the internal energy and the mood of the music practioner respectively - happiness,  angriness,  sadness,  thoughtfulness,  sadness,  worriness and scaredness.
 This is an extension building built next to the "practice room" using "seven-color heart strings" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through "musical instruments".
