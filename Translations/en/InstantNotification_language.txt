@@ -5,7 +5,7 @@ Removal completed
 {0}{1}Removal complete!
 {0} of {1} removal complete!
 Crafting Finished
-{0}{1}finish making!
+{0}{1} finished making!
 {0} of {1} finished making!
 Construction completed
 {0}{1}Construction complete!
