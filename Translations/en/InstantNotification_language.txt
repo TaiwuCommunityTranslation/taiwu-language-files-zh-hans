@@ -8,7 +8,7 @@ Crafting Finished
 {0}{1} finished making!
 {0} of {1} finished making!
 Construction completed
-{0}{1}Construction complete!
+{0}{1} Construction complete!
 {0} of {1} construction complete!
 Harvesting is complete
 {0}{1}Have rewarding news!
