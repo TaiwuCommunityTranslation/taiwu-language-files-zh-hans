@@ -1,5 +1,5 @@
 Expansion completed
-{0}{1}Expansion complete!
+{0}{1} Expansion complete!
 {0} of {1} expansion complete!
 Removal completed
 {0}{1}Removal complete!
