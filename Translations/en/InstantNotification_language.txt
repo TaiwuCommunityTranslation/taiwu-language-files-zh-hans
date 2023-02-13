@@ -11,7 +11,7 @@ Construction completed
 {0}{1} Construction complete!
 {0} of {1} construction complete!
 Harvesting is complete
-{0}{1}Have rewarding news!
+{0}{1} Have rewarding news!
 {0} of {1} has new harvest news!
 Decline in size
 {0}{1} scale is going down at <color=#red> </color> !
