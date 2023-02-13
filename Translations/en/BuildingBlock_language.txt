@@ -254,7 +254,7 @@ Strings Hall
 Seven strings made of exotic materials and in rainbow colours hang in this hall. They resonate to the internal energy and the mood of the music practioner respectively - happiness,  angriness,  sadness,  thoughtfulness,  sadness,  worriness and scaredness.
 This is an extension building built next to the "Training Hall" using "Seven Color Heartstrings" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through "Melody".
 Music Room
-Elegant music room built beside a winding path,  surrounded by dense woods.  Various kinds of instruments available.
+The qin house is clean and elegant, surrounded by a green mantle, built in a place with a winding path. Although it is called the Qin House, the house has all the instruments, bells, drums, pipes and flutes, because the Qin is the first of the "four arts of the literati", so it is called the Qin House.
 It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Music" books. \nThe larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
 Concert Hall
 A leisure place where musicians gather. They play quite ceremonial music,  perform mostly elegant and refined dances and songs,  deeply loved by the literati.
@@ -299,7 +299,7 @@ Study Room
 Books,  scrolls are on the shelves.The four treasures are on the desk: pen,  ink,  paper,  enamel. There are lights and tea,  as well as a number of antiques.
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Literature" books. \nThe larger the size of the study room, the more the efficiency will be increased, but the effect of multiple study rooms will not stack.
 Bookstore
-Bookstores are used to buy and sell books,  which is a shop frequented by literati. The books in the bookstore are mostly manuscripts,  and the content is very rich.
+The bookstore is a store frequented by literati and scholars who buy and sell books. The books in the bookstore are mostly hand-copied and very rich in content, including the Four Books and Five Classics, word posters and novels.
 The extension building is built next to the "study room" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by buying and selling books.
 Academy
 The academy is an facility for private lectures and teaching. It is also an important institution for literature collection and research.
@@ -335,7 +335,7 @@ Gallery
 A pavilion built with precious wood. This colorful pavilion is fragrant and elegant.
 An extension building built next to the "Art Room" with "Hundred Colorful Fragrant Wood Stone" as the core material, which must be adjacent to the "Fragrance Land". \nThe building will increase the "painting" attainment of the people within the influence of the town and sect to which it belongs.
 Makeup Room
-Where beauties do their make up. Very popular among ladies.
+Also known as the painting eyebrow xuan, is the beauty of the powder white Dai black, Shi Fangze only xuan house, extremely popular attention and worship. There are often "once the new makeup throw the old kind, the six palaces compete to draw black smoke eyebrows" and other escapades occur.
 An extension building built next to the "Art Room" using the "Jade Mirror Flower Terrace" as the heart material. \n can greatly increase the goodwill with Taiwu's first acquaintance.
 Observatory
 A huge platform for observing the shadows of daylight and the stars of the night. In addition to observing the sun,  moon,  and stars,  it is also used to identify “the four periods and six qi” so as to predict the fortune.
@@ -479,7 +479,7 @@ Cellar
 The cellar was built in the deep and cold underground. There are utensils for the preparation of poisons in the room,  which also breeds highly venomous snakes and plants.
 You can make poisons and quench poisons for items. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Toxicology" books. \nThe larger the size of the chamber, the greater the increase in efficiency, but the effects of multiple chambers do not stack.
 Poison Market
-The poison market sells common poisons such as arsenic which kills rats and has detailed sales records. However,  ordinary people do not know,  here also secretly sells other terrible poisons that hurt people.
+The poison market sells ordinary poisons such as arsenic to kill rats and pests, and has detailed records of sales and purchases. However, the ordinary people do not know, here will also be hidden to sell other terrible poison that hurts people's lives.
 This is an extension building built next to the "Cellar" and needs to be operated by the villagers. \nThe main purpose of the building is to sell poisons to earn money.
 Oubliette
 A dungeon where sinners are imprisoned and tortured. The existence of dark prison is well known,  not a secret. The treacherous and wicked people often come here after the incident.
@@ -488,7 +488,7 @@ Mad Medic
 Mad Medics are different,  non-conventional,  and even less respected by the world. These secret doctors are happy with the most difficult diseases,  but not with saving lives.
 This is an extension building built next to the "Cellar", which requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell poisons to gain "prestige".
 Animal Testing
-Secretly supporting livestock and beasts. Whenever a poisoner needs to test the toxicity of the poison,  hundreds of lives are cruelly killed here.
+The secret enclosures where livestock and beasts are kept. Whenever the poisoner needs to test the toxicity of the same poison, it is often necessary to brutally poison hundreds of lives here.
 The expansion building built next to the "Cellar" needs to be adjacent to the "Beast Herd". \n can increase the chance that characters within the influence of the town or sect they belong to will have a "flash of light" when studying "Toxicology" books.
 Enclosed Chamber
 The process of poison refining is complicated and takes a long time. It is very easy for others to be injured by the poisonous gas mist produced in the process of refining,  and thus more troubles,  so this building is always hidden from the public.
@@ -542,13 +542,13 @@ Jewelry Shop
 Jewelry shop buys and sells a variety of valuable jewellery and jade objects,  and often repairs and recreates various damaged treasures too.
 This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to earn "silver money".
 Raw Gem Pile
-Raw Gem Pile is built in the open air and stores a large amount of stones. The stonemasons can select the required stone for a small amount of money. Therefore,  the skilled craftsmen are often able to make profits,  fame and fortune from it.
+The rough stone workshop was built in the open air and stored a large amount of stone. The stonemasons can select the required rough stones at a very small cost, so the discerning and skilled craftsmen are often able to make a fortune and gain both fame and fortune.
 An extension building is built next to the "Gemcutting" using "Sanzan Mawashi" as the core material, and villagers must be dispatched to run it. \nYou can find talented people with excellent skills in "Gemcutting".
 Curios Shop
 There are many antique treasures in the shop. For most of the time only “treasure for treasure” exchanges are accepted here.
 This is an extension building built next to the "Artisan House" and needs to be operated by the villagers. \nThe main purpose of the building is to sell jade products to gain "prestige".
 Engraver
-Rubbing precious stones and jade with tools of various hardness tools. It can help craftsmen to better understand properties of the gems.
+Faceting gems and jade with a variety of gold and stone tools of different hardnesses helps the artisan to better understand their properties.
 The expansion building built next to the "Gemcutting" must be adjacent to the "Stone Mountain". \nThis building will increase the chance of people within the influence of your town or sect to have a "flash of light" when studying "Gemcutting" books.
 Blood Mirror
 The Blood Mirror is made of precious red stone spar,  built on the fire pool. When the mirror shines red light,  you can see the inside of gems and see the pros and cons of them.
@@ -560,7 +560,7 @@ Diamond Cutting Table
 A stone solving table made of diamond, also known as a diamond saw. The diamond saw is so hard that it can be used to cut any stubborn stone that is invulnerable to swords, fire and water.
 An extension building is built next to the "Gemcutting" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. \nYou can harvest stone materials for the "Gemcutting".
 Workbench
-A workbench designed by famous craftsmen,  and its structure and function are extremely ingenious. It can be used to refine and process the gemstones that are small like mosquitoes and flies.
+Designed by a famous craftsman, the exquisite table is so cleverly constructed and functional that it can grind and process those gems and jades as fine as flies without any difference.
 An extension building is built next to the "Gemcutting" using the "Lingering Eight Treasures" as the core material. \nIt will enable the adjacent "Gemcutting" to produce better quality jade products.
 God’s Light Wall
 The wall is six feet high and are made of millenium spar taken from the earth’s veins. It is also called “The Mother of Jade“. It is a treasure that can trigger the spirituality of gems.
@@ -626,7 +626,7 @@ King Cauldron
 Made of a mixture of cooked copper and meteoric iron. This black cauldron has a bottom of thermal conductivity but also has body that is steadily cold,  so it requires extremely high cooking skills for the chiefs to cook with it.
 An extension building built next to the "Kitchen" with "Heavenly Iron Xuan Ding" as the core material, which must be adjacent to the "Meteorite Pit". \nIt can increase the "cooking" skill of the people within the influence of the town and sect to which it belongs.
 Seasons Park
-The Seasons Park has very peculiar structure. depending on the habits of the four seasons,  There are four layers of aerial gardens built in high and low levels depending on habits of the vegetables. No matter the winter of summer,  the garden is green like spring.
+The structure of the Four Seasons Garden is very peculiar, according to the habitual characteristics of seasonal vegetables, there are four levels of air vegetable beds built in a staggered manner, regardless of the cold and summer, the garden is verdant, like the spring breeze.
 The building is built next to the "Kitchen" with "Four Seasons Wind" as the core material, and is adjacent to the "Fertile Field". \nVegetarian and animal ingredients for "cooking" can be harvested.
 Natural Village
 This village is built in ingenious structure and well planned,  that it actually forms a perfect ecosphere that provides all kinds of natural materials.
@@ -697,7 +697,7 @@ People in Dali are unsophiscated and committed in Buddhism. Dali is comprised of
 Shouchun
 Shouchun is the capital of the Huainan area and it is easy to control the surrounding area from there. Both the Chu people and Tofu originates there.
 Hangzhou
-It is said that Hangzhou is the most beautiful place in the southeast for its lakes and hills. It is also the capital of three different Wu kingdoms.
+The most important state in the southeast is said to be Hangzhou,  which has been prosperous since ancient times.
 Yangzhou
 The three cities of Yangzhou is filled by pleasure crafts afloat and songs at night. So good that a poet once declared that two thirds of the night’s beauty belongs here.
 Shaolin Temple
@@ -707,9 +707,9 @@ Emei Sect
 Flowers Valley
 Flowers Valley is like spring in all seasons. There are seven big waterfalls and fourteen water pools in the valley. Because of the white deers living in the valley,  it is also called “White Deer Valley.” Flowers Valley is famous for its medicine research and superb acupuncture techniques. The Flowers Valley doctors are admired by the world for their unparalleled healing skills,  righteousness and justice spirit.
 Wudang Sect
-Together with Shaolin and Emei,  it is one of the three most famous martial art schools. The Wudang martial arts are profound,  with the training of Inner Arts as the most important course. Zhang Sanfeng,  the founder of Wudang,  gained a wild reputation because of his advanced Taiji techniques.
+Together with Shaolin and Emei, it is called the three most famous sects in the martial arts. Wudang school of martial arts is profound and profound, the most important internal cultivation, the founding ancestor of the school of the true monarch of profound Taoism, Taiji Shen Gong is famous all over the world, known as the world's internal martial arts first.
 Yuanshan Sect
-With a large popularity of disciples,  the Yuanshan School sees upholding Wulin justice as its duty. The Big Yuanshan school is majored in Taoist Blade martial arts,  while the Small Yuanshan school is majored in Buddhist Swordplay martial arts. The most outstanding disciples of Yuanshan often master both Blade and Sword martial arts to defeat the evil and spread the fame of Yuanshan to all over the world.
+There are many disciples in the Yuanshan School, and it is their duty to maintain the righteousness of the martial arts. The Great Mountain has a sword mound for monasticism, and the Small Mountain has a sword mound for Buddhist practice. The big and small Yuanshan are united in the same spirit, and with the divine skill of combining swords and knives, they are able to eliminate the devil and defend the way, and their fame spreads far and wide.
 Lion-Face Clan
 The Lion-Face martial arts are arrogant and powerful. Although they don’t pay much attention to Inner Arts’s cultivation,  they are specialized in tough attack and defense skills described as “gold and stones breaking”,  or invulnerable.
 Ranshan Sect
