@@ -426,8 +426,8 @@ Because {0} passed away, { 2} shadow reappeared, many good and evil experts grad
 Because {0} fallen demons, { 2} shadow reappear, many good and evil experts gradually gathered in { 1}, only to fight for that has no owner of rare treasures ......
 The strange book now, hard to find its trace, but heard {0} in {1} to obtain the long-lost {2} treasures, is trying to explore its mysteries ......
 Odd Book Challenge
-{0} challenged {2} to win { 3} in its hand at {1}.
+{0} challenged {2} to win {3} in its hand at {1}.
 Capture the Curious Book
-{0} took { 3} from {2} in {1}
+{0} took {3} from {2} in {1}
 leave without saying goodbye
 {0} left a letter with only "strange book has aspirations, my heart is difficult to calm, temporarily cut goodbye, see you later ......" sixteen words and then left ......
