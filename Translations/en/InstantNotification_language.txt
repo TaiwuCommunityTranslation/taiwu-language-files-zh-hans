@@ -14,7 +14,7 @@ Harvesting is complete
 {0}{1} Have rewarding news!
 {0} of {1} has new harvest news!
 Decline in size
-{0}{1} scale is going down at <color=#red> </color> !
+{0}{1} level is being <color=#red>Reduced</color>!
 {0} of {1} is declining in size due to lack of maintenance at <color=#red>! </color> 
 Building dereliction
 {0}{1} has been deserted!
