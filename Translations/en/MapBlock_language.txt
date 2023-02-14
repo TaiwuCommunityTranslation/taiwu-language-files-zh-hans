@@ -299,7 +299,7 @@ The plain terrain is open and flat, endless, with many flowers and plants growin
 Plain
 The plains cover a vast area, boundless, low and flat, with an open view. Its fertile soil is conducive to the growth of all things.
 Woodland
-The woodlands are filled with a variety of trees, not only trees, bamboo, shrubs and other trees, but perhaps more cherished woods can be found here.
+The woodland has a wide variety of trees, not only trees, bamboo, shrubs and other trees, but perhaps even rarer woods can be found here.
 Forest
 The forest is vast and endless, with a vast array of trees and grasses, and although there are many fierce beasts and pythons in its depths, there are often rare spiritual plants.
 River Beach
@@ -317,10 +317,10 @@ Swamp mud and water sticky, weeds, it is difficult to walk, if you encounter the
 Wonderland
 Peach and plum on both sides of the shore, falling flowers by the water, the occasional fish jump out, scrambling to eat petals. When you enter this place, you can't feel that your worries are gone and you can only smell the peach fragrance.
 Gorge
-The water of the stream flows into the mountain. The valley is full of moss and vines, so people should be careful when walking through it.
+The water of the stream flows into the mountain. The valley is full of moss and vines, so people need to be careful when walking through it.
 Wilderness
 Desolate land...
-Destruction of plots of land
+Destroyed land
 The horrible, abominable place full of blood and ash and basalt...
 dark abyss
 A profound abyss that is extremely difficult to surmount. \n\n <color=#red> Attention! Passing through the abyss not only takes a lot of time, but also leads to injuries and damage to those involved, so you should avoid passing over the abyss if possible. </color> 
