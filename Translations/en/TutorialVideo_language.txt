@@ -1,0 +1,169 @@
+Map movement
+Mouse controls
+Keyboard controls
+Click your left mouse button to select a tile, and then click again to move there. (Moving costs <color=#orange>Time</color>，and you can see how much <color=#orange>Time</color> you have left on the bottom of the screen）
+You can use <color=#orange>WASD</color> keys on the keyboard to move. (Moving costs <color=#orange>Time</color>，and you can see how much <color=#orange>Time</color> you have left on the bottom of the screen）
+Taiwu Practice - Part 1
+Go to the tile where Adoptive Father is
+Equip a mount
+View Character Menu
+Click on the character portrait at the bottom left to enter the Character Menu
+Click on an item you wish to equip, it will be automatically equipped to the corresponding equipment slot
+Equip a Thin horse
+Restore weight
+Weight limit increases
+Normal movement is resumed
+After equipping the mount, the weight limit is increased and the mobility is restored to normal
+Mobility back to normal
+Start again
+Opening Industry
+Access to Industry menu
+Click on the <color=#orange>Industry</color> button above the town tile to enter the Industry menu
+Taiwu Practice - Part 2
+Open the Industry Menu
+Assign Construction
+Go to the Build menu
+Select builders
+Select where to build
+Click <color=#orange>Build</color> button on the bottom right to enter the build menu
+Click on the <color=#orange>+</color> buttons to go to the list of available workers
+Click on the icon of the person to be assigned to work
+Placement of buildings onto the industrial map
+Build a bamboo hut
+Start Construction
+Construction completed
+Buildings get constructed over <color=#orange>Months</color>. To pass a month, click on the <color=#orange>Calendar</color> at the bottom of the screen.
+Completed industrial buildings are shown on the <color=#orange>Last Month Review</color> screen
+Go to the next month
+Look for a tile
+View Tile Information
+Automatic pathfinding
+The higher the resource value on a tile, the more resources you can collect from it, and the higher the probability of obtaining materials is.
+Clicking on a tile will automatically generate the fastest path to that tile, and by clicking on it again you will immediately start moving there
+Taiwu Practice - Part 3
+Learn about resources
+Collect Resources
+Select current tile
+Resource gathering will always be done on the tile your character is currently standing.
+Click on the <color=#orange>Collect</color> button at the bottom right of the screen, and press on the resource type you wish to gather.
+Collect Wood
+Enter the Crafting menu
+Industry menu
+Crafting Menu
+Click on the Industry button to enter the Industrial menu
+Click <color=#orange>Carpentry</color> and enter the crafting menu
+Crafting items
+Crafting item menu
+Choose tool
+Select Materials
+Add resources
+To make items you need <color=#orange>Tool</color>, <color=#orange>Material</color> and <color=#orange>Resources</color> 
+Switch to the <color=#orange>Storage</color> tab in the Tools panel on the left and tap on the <color=#orange>Tool·Carpentry box</color> 
+Switch to the <color=#orange>Storage</color> tab on the right and tap on the <color=#orange>Bamboo piece</color>
+Add the required <color=#orange>Resources</color>, the quantity can be adjusted via <color=#orange>+</color> and <color=#orange>-</color> buttons
+Click <color=#orange>Craft 1</color> button to craft the item.
+Crafting Bamboo Spikes
+Combat movement
+In battle, you can move by holding the right mouse button. Whether you go backward or forward depends on whether your mouse is located on the left or right from your character.
+Use the <color=#orange>A</color> and <color=#orange>D</color> keys on the keyboard to move, <color=#orange>A</color> key to move to the left and <color=#orange>D</color> key to move to the right.
+Taiwu Practice - Part 4
+Go to Xu Xiangong
+Break skill usage
+The "Styles" that have to be consumed
+Normal Attack
+Accuracy and Resolve
+Resolve effect
+To perform a Break skill, you need to consume <color=#orange>Styles</color>. If the amount of available <color=#orange>Styles</color> is insufficient, you will not be able to perform the skill.
+Click the left mouse button or use the <color=#orange>J</color> key on the keyboard to perform a Normal Attack, each Normal Attack requires the consumption of a certain amount of <color=#orange>attack tokens</color> (<color=#orange> sword icons</color> below the character)
+When the attacker's <color=#orange>Accuracy Value</color> is lower than the defender's <color=#orange>Resolve Value</color>, defender will <color=#orange>Resolve</color> that attack.
+After <color=#orange>Resolving</color> an attack, the attacker won't get <color=#orange>Styles</color> and the defender won't take any damage
+Understand Combat, Accuracy and Resolve
+Deflect
+Deflect Charges
+Deflect Break
+Deflect Cooldown
+Deflect Effect
+Each weapon has its own <color=#orange>Deflect Value</color>, which corresponds to <color=#orange>Deflect Charges</color> for the character in combat 
+When you receive a normal attack, you will trigger the <color=#orange>Deflect</color> and deflect that attack. Each attack deducts a certain amount of <color=#orange>Deflect Charges</color>, and once the Deflect Charges are reduced to <color=#orange>0</color>, you will start taking damage.
+After <color=#orange>Deflect</color> gets broken, the Deflect Cooldown will start, and only once it's finished will you get your Deflect Charges back.
+After the successful <color=#orange>Deflect</color>, the attacker will still get <color=#orange>Styles</color>, but the defender will not get hurt.
+Understand Deflect
+Using a Break skill
+Break skill cast time 1
+When the amount of <color=#orange>Styles</color> required to cast a Break skill are sufficient, it can be used.
+Click on the icon of the Break skill to perform the Break skill. The Break skill has to be charged before it will be performed
+Cultivation
+Opening the Cultivation menu
+Selecting Inner Arts
+Activating Cultivation
+Click on the <color=#orange>Cultivation</color> slot next to the character portrait at the bottom left of the screen to enter the Cultivation menu
+Click on the Inner Art that you want to Cultivate
+The Inner Art put into <color=#orange>Cultivation</color> will be automatically cultivated.
+Taiwu Practice - Part 5
+Cultivation Progress
+Dantian 
+By putting an Inner Art in the Cultivation slot, you will get a certain amount of internal energy every month (amount depends on the Inner Art) that you can spend on True Qi in Loadout - Dantian menu.
+Viewing internal energy
+Activating Study
+Going to the Study menu
+Select Books
+Click on the <color=#orange>Study</color> slot next to the portrait at the bottom left of your screen to enter the Study menu
+Tap on the book you want to study, each page of the book has a separate study progress, when the page's progress reaches 100%, the study of that page will be complete
+Book that's been selected in the <color=#orange>Study</color> menu will be automatically read on the start of every month.
+Taiwu Practice - Part 6
+Study books
+Sudden Insight
+Sudden Insight pop-up
+Accessing Sudden Insight menu
+<color=#orange>Every month</color> there's a chance that a <color=#orange>Sudden Insight</color> will be triggered，and you will be notified about it in the <color=#orange>Last Month Review</color> screen.
+Click on the <color=#orange>Study</color> slot next to the character portrait at the bottom left of your screen, and then click on the <color=#orange>Sudden Insight</color> button to enter the Sudden Insight menu.
+Study Strategies
+Using Sudden Insight
+Exiting Sudden Insight
+There are <color=#orange>Study Strategies</color> on the top right of the Sudden Insight menu. By using <color=#orange>Study Strategies</color> you can greatly improve the speed of reading books. Using <color=#orange>Study Strategies</color> requires consuming a certain amount of <color=#orange>Comprehension Stat</color> 
+After using <color=#orange>Study Strategy</color>, the progress of the book page will change instantly, click <color=#orange>Skip this page</color> to go to the next book page
+When the last page has been read, close the Sudden Insight menu by pressing right click.
+Advance Sudden Insight
+Practicing skills
+Entering Practice menu
+How to Practice
+Click the character portrait at the bottom left to enter the character panel, then click <color=#orange>Martial Arts</color> tab, and select <color=#orange>Practice </color> tab to enter the practice menu
+Click on (or hold) <color=#orange>Practice</color>, to increase your practice percentage by consuming <color=#orange>Experience</color>, when the practice percentage reaches 100%, it will be completed.
+Advance skill practice
+Combat Skill Breakthrough
+Breakthrough Preparation
+Select Breakthrough Pages
+A breakthrough requires you to have 6 pages read: 1 <color=#white>White</color> page that is a general outline, and 5 pages of any combination of <color=#red>Red</color> pages (Heterodox) or <color=#darkcyan>Blue</color> pages (Orthodox)
+When the page study in a book reaches 100%, you can choose the corresponding page when you are preparing for the breakthrough. You can only choose 1 of each page, and you will be able to breakthrough once you have selected 6 pages in total.
+Advance skill breakthrough
+Breakthrough Rules
+Breakthrough Success
+Breakthrough Consumption
+Normal Cells in Breakthrough
+Special Cells in Breakthrough
+Golden Cells in Breakthrough
+Connection failure
+Breakthrough Failed
+The breakthrough needs to start from the <color=#orange>Start Cell</color> and end at the <color=#orange>End Cell</color> to be successful
+<color=#orange>Talent Limit</color> determines the number of times you can connect cells. Each connection attempt consumes 1 point of talent, and if you go beyond the <color=#orange>Talent Limit</color>, you will enter <color=#orange>Obsessed</color> state.
+<color=#orange>Common Cells</color> are normal cells that don't provide any special effects
+<color=#orange>Special Cells</color> are cells that provide various connection effects.
+<color=#orange>Golden Cells</color> will make the skill gain permanent effects. Connect to as many Golden Cells as possible to maximize the benefit of breakthroughs.
+If the connection fails, the cell will be closed and its effect will not be activated
+When all adjacent cells fail to connect, the breakthrough fails
+Understand the rules of skill breakthrough
+Assign True Qi
+Enter the Dantian menu
+Qi Limit
+Click on the character portrait on the bottom left to access the Details menu
+Click on (or hold) the <color=#orange>+</color> and <color=#orange>-</color> buttons next to the <color=#orange>Break</color>, <color=#orange>Quick</color>, <color=#orange>Aegis</color>, and <color=#orange>Nadis</color> buttons to adjust True Qi. Increasing True Qi will consume <color=#orange>Internal Energy</color> 
+The total number of the four True Qi stats cannot exceed the Qi Limit
+Taiwu Practice - Part 7
+Stance and Inhale
+Break skill cast time 2
+In addition to <color=#orange>Styles</color>, you also need to consume <color=#orange>Stance Value</color> and <color=#orange>Inhale Value</color> to perform Break skills
+Opponents can attack you during the skill's cast time
+Understand Stance and Inhale
+Month Change
+Activate Month Change
+Click on the <color=#orange>Month Change</color> button at the bottom of the screen and select to consume all remaining days of the month to move to the next month
