@@ -1,0 +1,291 @@
+Chirping Cricket
+Adoptive Father asked to capture <color=#orange>Crickets</color> 
+Move to a tile with a <color=#orange>Cricket Icon</color> on it and click it. Then consume <color=#orange>「Bug Net」</color> to start catching it. Don't be discouraged if you miss it. Simply go to another spot with a Cricket Icon on it and try again.
+I will catch some weaving for my father in the valley...
+Ferocious Valley Monkeys
+Go and drive away the Monkey King
+Go to the edge of the map where <color=#orange>「Heroic Monkey」</color> icon is, and click on it to go to the Monkey King's hideout.
+Those monkeys hurt people, so why not go to their hideout to drive them away...
+Return to Bamboo Hut
+Go back to the <color=#orange>Bamboo Hut</color> 
+Go to <color=#orange> 「Deep Valley - Bamboo Hut」</color> and click on it's icon to open <color=#orange> 「Return to Bamboo Hut」</color> adventure.
+Adoptive Father has been waiting for me for a long time, i should return to Bamboo Hut as soon as possible...
+Valley Exit
+Go to the edge of the Deep Valley to find an exit
+Go to <color=#orange>「Deep Valley Exit」</color> at the edge of the Deep Valley map, click on the encounter icon and leave Deep Valley.
+Since Adoptive Father instructed me to, i should immediately leave Deep Valley...
+Down the river
+Go down the river and leave the area
+Go to the edge of the map, find the <color=#orange>「Down the river」</color> icon and click on it to enter the adventure.
+Go to the river and leave this place just like Adoptive Father has instructed me...
+Ask for a vessel
+Go to <color=#orange>Hidden Village</color> and ask to borrow a boat
+Look for <color=#orange>「Hidden Village」</color> on the map. I wonder if there are any boats in the village that could help me pass through the dark river?
+Now the only way to get out of here is to borrow a boat from a nearby village...
+Old Dish
+Search for wild vegetables for the Old Daoist
+Search around the village for <color=#orange>Wild Vegetables</color> and deliver them to the Old Daoist.
+Old Daoist wants wild vegetables, I can only search around for a bit...
+Find Young Man
+Find <color=#orange>Young Man</color>
+Find <color=#orange>Young Man</color> and talk to him.
+Fortunately i can also ask villagers here for advice... But i don't know where these people are actually from...
+Gathering wild vegetables
+Collect <color=#orange>Food</color> 
+When you are in a resource tile, select <color=#orange>「Collect」</color> and select the <color=#orange>「Resource」</color> to obtain a certain number of resources. The amount of a given resource will be affected by the status of the world and the type of resources that the different tiles produce.
+It's not difficult to pick wild vegetables, pick some and go back...
+Cooking dishes
+Use <color=#orange>Kitchen</color> to cook food
+Click on the <color=#orange>Industry Icon</color> in the 「Hidden Village」 to open the industry screen. Select building <color=#orange>「Kitchen」</color>, press the <color=#orange>「Crafting」</color> button, and add a tool, resources, and an ingredient to cook a dish with.
+If you cook some wild vegetables for Old Daoist, you should be able to borrow a boat...
+Find an Official
+Find an <color=#orange>Official</color> 
+Find an <color=#orange>Official</color> and talk to them.
+Take a boat by force
+Choose whether to pick up the boat and leave by yourself
+Go back to <color=#orange>「Hidden Village」</color> and make your decision.
+What should i do now? Should i just take the boat and leave on my own...
+Steal a boat
+Go along <color=#orange>Dark River</color>
+After obtaining <color=#orange>「A secure boat」</color>, go to the edge of the map to <color=#orange>「Dark River」</color> icon to enter an adventure that will let you leave this area.
+Since the boat has been obtained, quickly follow along the dark river to leave and find Adoptive Father...
+Pick up a boat
+Return to the Hidden Village and find a boat to leave
+Go back to the <color=#orange>「Hidden Village」</color> and get the <color=#orange>「A secure boat」</color> item.
+So many things happened after i've left the valley, i hope Adoptive Father will be able to explain them to me. I should pick up the boat from the village and leave this place...
+Cross the River
+Take <color=#orange>A Secure Boat</color> and leave this place
+Go to the adventure <color=#orange>「Dark River」</color> and use the item <color=#orange>「A secure boat」</color> to enter it.
+So many things happened after i've left the valley, i hope Adoptive Father will be able to explain them to me. I have already obtained the boat, now i should leave this place...
+Find Young Urchiin
+Find <color=#orange>Young Urchin</color>
+Find <color=#orange>Young Urchin</color> and talk to him.
+Find Huanyue
+Find <color=#orange>Huanyue</color>
+Find <color=#orange>Huanyue</color> and talk to her.
+Changes in the village
+Hurry back to the <color=#orange>Small village</color> 
+Go to the 「Hidden Village」 tile and click on the adventure icon to enter the <color=#orange>「Changes in the village」</color> adventure.
+It seems that someone is still in the small village! Go and get them!
+Expelled from the village
+In that case, just take the boat and leave...
+Exile Station
+Find a Station that leads to <color=#orange>Taiwu Village</color>
+Explore the map and find a <color=#orange>「Station」</color> to find a way to reach <color=#orange>「Taiwu Village」</color>.
+There must be a station here that can go to Taiwu Village, I need to visit it as soon as i can...
+Find a path to Taiwu
+Go to <color=#orange>Taiwu Village</color>
+Explore the map and go to the <color=#orange>「Taiwu Village」</color>.
+I have no time to care about that coachman, gotta find the Taiwu Village...
+Rebuilding the Ancestral Hall
+Build the <color=#orange>Taiwu Ancestral Hall</color> 
+On 「Taiwu Village」 tile click on the <color=#orange>Industry Icon</color> to enter the industry screen. Click on the <color=#orange>「Build」</color> button on the bottom right to enter the construction mode, and select the <color=#orange>「Ancestral Hall」</color>. Make sure that you have enough resources to build it. To build it, you can either manually select workers or click on the 「Auto Arrange」 button to automatically set the most efficient workers possible. Then press the 「Start Construction」 button and select the available space on the industry screen to start building. You will have to wait a certain amount of time before that building is finished.
+I should build this Ancestral Hall while waiting for Adoptive Father to return...
+Revitalize Taiwu
+Create buildings in the village
+Go to <color=#orange>「Industry」</color> in 「Taiwu Village」, then click on 「Build」 to create a building. On the 「Study」 screen you can click on the <color=#orange>「Fine arts」</color> button to study Fine art books to unlock new buildings based on the books you read. Natural resources will grow and expand in different seasons. Some specific buildings will promote the growth of natural resources. Buildings and natural resources can be removed by going to the <color=#orange>Remove</color> tab in their info screen. When a building or resource are removed, you will empty a space and get some resources back.
+To revitalize Taiwu Village, i will have to create some buildings...
+Mark Location
+<color=#orange>Dispatch villagers</color> to collect resources
+When you are on a resource tile, click on <color=#orange>「Dispatch」</color> button to dispatch a villager from Taiwu Village to collect resources from that tile. Click on the character icon in the middle of the dispatch screen to manually send a specific villager, or click on <color=#orange>「Auto Dispatch」</color> to automatically send a random villager. After dispatching a villager, you can select a specific resource and earn it every month.
+There are so many resources... They have to be gathered through collective efforts...
+News about an Immortal
+Find the <color=#orange>「Ancient Tomb of the Immortal」</color> adventure
+While taking care of Taiwu Village, I'm looking for a <color=#orange>「Ancient Tomb of the Immortal」</color> adventure. Maybe i should wait for a while...
+I don't know where this "Ancient Tomb of the Immortal" is...
+Ancient Tomb of the Immortal
+Find <color=#orange>Ancient Tomb of the Immortal</color>
+The rumored <color=#orange>Ancient Tomb of the Immortal</color> really exists. I should go and check it out...
+This "Ancient Tomb of the Immortal" seems to be associated with Taiwu, this trip may be able to answer some of my questions...
+Mystery of the Immortals
+Return to <color=#orange>Taiwu Village</color>
+Return to <color=#orange>「Taiwu Village」</color>.
+More and more mysteries are being solved... Let's go back to the village first...
+Inhumans Now
+Meet the stranger
+Meet the stranger near the <color=#orange>「Taiwu Village」</color>
+Is this stranger coming for Taiwu Village?! If I am not in the village, the village will be destroyed!
+Misfortune
+Protect the <color=#orange>「Taiwu Village」</color>!
+This stranger is wreaking havoc in the village, if I don't return, I'm afraid it will be in a grave danger!
+Disastrous Avatar
+Fight the <color=#orange>XiangShu Avatar</color>!
+Return to the <color=#orange>Taiwu Village</color> area to fight the XiangShu Avatar and unseal the Sword Tomb.
+The XiangShu Avatar is raging, if I don't go back to the village, I'm afraid there will be more disasters!
+Taiwu Station
+Restore the Taiwu Village's <color=#orange>Station</color>
+Go to the <color=#orange>「Taiwu Village-Derelict Stagecoach」</color> and enter the <color=#orange>「Derelict Stagecoach」</color> adventure.
+For now the only thing i can do is to try to rebuild the Station and communicate with various sects...
+Visiting Sects
+Visit <color=#orange>Sects</color> to learn martial arts
+Press the <color=#orange>「World Map」</color> at the top of the map on the bottom right, select a sect that has an opened Station on the World Map menu, and spend Money and time to travel to the sect. The cost increases with the travel distance. Equipping better <color=#orange>「Mounts」</color> can reduce the cost of traveling. If you are traveling through an area that doesn't have a Station, you will need to spend a certain amount of <color=#orange>「Prestige」</color> to open a Station in that area. The Prestige cost grows with each opened Station.
+Quickly go to various sects to practice martial arts, and conspire together to defeat XiangShu!
+Faceless Monk visits the tomb
+Talk to the <color=#orange>Shi Shufu</color> near the Sword Tomb
+Go to the tile where <color=#orange>Shi Shufu</color> is located, and talk to him to get information.
+Master Shi Shufu is exploring near the Sword Tomb, why not go and hear what he found...
+Destroy the Demonic Mounds
+Unseal the <color=#orange>Sword Tomb</color> and meet the <color=#orange>XiangShu Avatar</color>
+Go to <color=#orange>「Sword Tomb」</color> to enter the adventure. Unseal the Sword Tomb and face the enemy. The battle will be extremely dangerous, so be sure to prepare carefully...
+The Sword Tombs must be the key to defeating the XiangShu! I will unseal the Sword Tombs and find out!
+MoNyu
+Go to the <color=#orange>「Sword Tomb “MoNyu”」</color> and unseal the Sword Tomb to face the enemy. Here the birds are hovering, the green smoke is lingering, and it is extremely dangerous...
+Vanquish Evil
+Go to the <color=#orange>「Sword Tomb “Vanquish Evil”」</color> and unseal the Sword Tomb to face the enemy. Not a single blade of grass grows here, full of evil spirits, this place is extremely dangerous...
+Glacial Vassal
+Go to the <color=#orange>「Sword Tomb “Glacial Vessel”」</color> and unseal the Sword Tomb to face the enemy. Dripping water here turns into ice, this place is extremely cold and dangerous...
+Phoenix Cocoon
+Go to the <color=#orange>「Sword Tomb “Phoenix Cocoon”」</color> and unseal the Sword Tomb to face the enemy. Here the golden light shines brightly, the phoenix sings, and it is extremely dangerous...
+Spirit Smelting
+Go to the <color=#orange>「Sword Tomb “Spirit Smelting”」</color> and unseal the Sword Tomb to face the enemy. The strange fire is not extinguished here, and sorrowful songs are often sung. The danger here is abnormal...
+Draconic Anima
+Go to the <color=#orange>「Sword Tomb “Draconic Anima”」</color> and unseal the Sword Tomb to face the enemy. Flood dragons come and go here, there are hidden dragons singing, it is extremely dangerous...
+Anchorite
+Go to the <color=#orange>「Sword Tomb “Anchorite”」</color> and unseal the Sword Tomb to face the enemy. There are bursts of brilliance here, the mist is dense, and the danger is abnormal...
+Infernal Acerjail
+Go to the <color=#orange>「Sword Tomb “Infernal Acerjail”」</color> and unseal the Sword Tomb to face the enemy. Here, the maple forest is bright red, killing is endless, it is extremely dangerous in here...
+Wonderglow
+Go to the <color=#orange>「Sword Tomb “Wonderglow”」</color> and unseal the Sword Tomb to face the enemy. Here the sun is shining, the sun and the moon are in the same sky, and it is extremely dangerous...
+Escape from here
+Get out of here quickly!
+The land covered with red basalt stones has been swallowed up by the XiangShu... Leave the area, click the <color=#orange>「World Map」</color> button on top of the map on the bottom right, and select the area without the <color=#orange>Destruction Marker</color> on the World Map screen.
+This place is very dangerous, i need to escape quickly!
+Worldly Skills
+Ask someone from a sect to <color=#orange>Consult a martial art</color>
+Once you have obtained permission to learn skills from a sect, talk to the person who belongs to that sect and ask them to teach you skills in the <color=#orange>（Learn arts...）</color> tab. Click on the <color=#orange>「Settlement」</color> icon at the top of the sect tile to see who belongs to the sect.
+To practice the world's techniques, to destroy the Sword Tombs, and to eradicate the XiangShu, I am obliged to do so as a Taiwu!
+Practicing Martial Art
+<color=#orange>Practice</color> skills and equip them in <color=#orange>Loadout</color> tab
+After obtaining books, you can read them by clicking on <color=#orange>「Study」</color> button on the bottom left. You can randomly get <color=#orange>「Sudden Insight」</color> and use study strategies to improve the reading efficiency. To practice martial arts, go to the <color=#orange>「Martial Arts」</color> menu and select <color=#orange>「Practice」</color>. There you can select a skill that you want to practice, and spend <color=#orange>「Time」</color> and <color=#orange>「Experience」</color> to practice it. Practice and Study do not conflict with each other. When the practice percentage of a skill reaches 50%, the skill can be equipped to the corresponding slot in the <color=#orange>「Loadout」</color> screen to be used in battle. When the practice percentage of a skill reaches 100%, you can <color=#orange>「Breakthrough」</color> it in the <color=#orange>「Practice」</color> menu to increase it's power, and get an <color=#orange>「Understanding」</color> provided by the pages you've read.
+Practicing martial arts is hard, but that's what i have to do...
+Sect Support Level
+Getting Sect Support
+You can see the current Sect Support either on the bottom right of the 「Industry」 screen, or on top of the 「Sect」 menu. The level of skills and fine arts that will be taught to you depends on how high your Sect Support is.
+If you want to practice more profound techniques, you have to get higher Sect Support...
+Regional Favor
+Getting Regional Favor
+You can see the current Regional Favor on the bottom right of the 「Industry」 screen, or on the area icon on 「World Map」. You can obtain Regional Favor by defeating 「Outlaws」 and destroying the 「Outlaw Hideouts」 in the area.
+If you want to obtain more Regional Favor, you need to fight wicked people...
+Immortal guest pays a visit
+The first Sword Tomb has been destroyed, you can return back to<color=#orange>「Taiwu Village」</color>.
+After breaking Sword Tomb, why not return to the village to see what changed...
+Seeking Legendary Manuals
+Look for <color=#orange>Legendary Manuals</color>
+Legendary Manuals will be released in the area <color=#orange>「Legendary Manual Adventure」</color>, all sorts of people will fight for them. Defeat all of them to get the manual, or take advantage of the person who acquires it first with the <color=#orange>「Legendary Manual Interaction」</color>.
+The ownerless Legendary Manuals will surely be contested by the experts from all over the world..... Those who hold the Legendary Manuals will inevitably attract all kinds of people...
+Interpret the classic
+Decipher the <color=#orange>Legendary Manual</color> 
+Click on <color=#orange>「Legendary Manuals」</color> to enter the interface. When acquiring a legendary manual, you can consume <color=#orange>「Experience」</color> to open the corresponding attribute bonuses and open the special effect slots where you can place specific weapons or skills to obtain special enhancements; defeating the demons in the legendary manuals will unlock the breakthrough result save slot for such skills.
+These strange books are definitely not from this world, it's as if gods sent them here...
+Attracting the dead
+The second Sword Tomb has been destroyed, you should return to the <color=#orange>「Taiwu Village」</color>.
+Destroyed another Sword Tomb, might as well go back to the village to see if anyone is visiting...
+Platform of Reincarnation
+Build <color=#orange>Soul Bridges</color>
+Go to the 「Taiwu Village」 Industry and click on the Build button to make <color=#orange>「Soul Bridges」</color> using the 「Wheel of Six Paths」 core material. Enter the 「Soul Bridges」 screen to send the deceased to reincarnation. Expanding the 「Soul Bridges」 will increase the number of places where the deceased can be sent to reincarnation.
+Life and death are different ways, but this thing can send souls into reincarnation, which is a real miracle...
+Immortal guest returns
+The third Sword Tomb has been destroyed, you should return to the <color=#orange>「Taiwu Village」</color>.
+Another Sword Tomb has been destroyed, maybe it's time to inform Daoist Master Ran Chenzi about it...
+Mysterious bamboo
+Look for <color=#orange>Mysterious bamboo's</color> location
+Go to <color=#orange>「Mysterious bamboo」</color> to find out more.
+Daoist Master said that this is where the Mysterious bamboo should be, I should check it out...
+Zizhu Avatar
+Befriend <color=#orange>Zizhu Avatar</color>
+Look for <color=#orange>「Zizhu Avatar」</color> wandering around the world and interact with them to improve their goodwill and to learn the cause of their appearance...
+In order to "Enlighten their aspirations, guide their heart", i must become friends with this child first...
+Mo Nyu Avatar
+Befriend <color=#orange>Mo Nyu</color>
+The child is surrounded by birds, joking and playing, very intimate...
+Yao Chang Avatar
+Befriend <color=#orange> Dayue Yao Chang</color>
+This young man wears tough and sharp equipment, dedicated to slaying demons and demons, and is always accompanied by armored soldiers...
+Jiu Han Avatar
+Befriend <color=#orange>Jiu Han</color>
+Ice has its own uses... such as shaping and sculpting...
+Huang'er Avatar
+Befriend <color=#orange>Jin Huang'er</color>
+The spirit of a child should be treated with good wine!
+Yihou Avatar
+Befriend <color=#orange>Yi Yihou</color>
+Pin the flowers and wear a crown, taste the bamboo and tune the strings, the raw silk and the brocade, all for the infatuation of burning love...
+Wei Qi Avatar
+Befriend <color=#orange>Wei Qi</color>
+If you really don't know what the "Dao" is, you might as well follow the former sages and worship them...
+Yi Xiang Avatar
+Befriend <color=#orange>Yi Xiang</color>
+The jade of the He family, the pearl of the Marquis of the Sui Dynasty, may not be flawless...
+Xue Feng Avatar
+Befriend <color=#orange>Xue Feng</color>
+Immortality is of course only a gorgeous dress, and the embroidered clothes can match it...
+Shu Fang Avatar
+Befriend <color=#orange>Shu Fang</color>
+From the scriptures to the history, the mouth recites the heart, this child is really an unparalleled talent...
+Sword Tomb Change
+Sword Tombs are temporarily closed, you should return to the <color=#orange>「Taiwu Village」</color>.
+Since the Sword Tombs have been sealed, it is impossible to destroy them for the time being... let's go back to the village and have a break...
+Meet Tea Caravans
+Build <color=#orange>Tea Caravans</color>
+Enter the 「Taiwu Village」 industry and click on the construction space, use the 「Map of Western Region」 to make the <color=#orange>「Tea Caravans」</color> building. Enter the 「Tea Caravans」 menu, click <color=#orange>「Set out」</color> after carrying the goods, and the Tea Caravans will head west in the next month. After exchanging rare treasures from the Western Regions, you can click <color=#orange>「Go back」</color>, or return to Taiwu Village by yourself after all the goods have been exchanged. Tea Caravans will consume supplies every month, and you can stop at the same place to collect supplies on the way. You need to pay attention to the supply situation to prevent loss of goods.
+I think there should be many rare treasures in the Western Regions that can be exchanged here...
+Western Treasures
+Gift <color=#orange>Western Treasures</color>
+Gift <color=#orange>「Western Treasures」</color> to <color=#orange>「Avatars」</color> to increase their Favor.
+Western treasures are so rare, they must be an excellent gift... But I don't know who will like them...
+Preparing for the Alliance
+Assist in the preparation of <color=#orange>The World Martial Arts Tournament</color>
+During the preparation process of <color=#orange>「The World Martial Arts Tournament」</color> you can discuss this matter with the t3-t1 people of each sect and donate resources. After the preparatory period expires, the sect with the highest preparatory strength will hold the <color=#orange>「The World Martial Arts Tournament」</color>. This matter is related to the fate of martial arts, so you must go to participate...
+The martial arts conference is being prepared, and when it is held, I will go to watch it...
+Martial Arts Tournament
+Go to <color=#orange>The World Martial Arts Tournament</color>
+<color=#orange>「The World Martial Arts Tournament」</color> is about the fate of the martial arts world, so be sure to attend when it is held.
+The martial arts conference is extremely important, i must attend it...
+Visit from Yufu
+Talk to <color=#orange>Ran Chenzi</color>
+Go back to <color=#orange>「Taiwu Village」</color> area and look for <color=#orange>Ran Chenzi</color>.
+Divine Flower is actually acquainted with Daoist Master Ran Chenzi... I must ask Daoist Master to learn more about it...
+FuYu Sword Furnace
+Unseal the Sword Tomb and retrieve the <color=#orange>FuYu Sword Furnace</color>
+Go to the Sword Tomb <color=#orange>「Name of Sword Tomb」</color> and enter the adventure.
+Sword Tomb has finally reopened, now I was can go in there and retrieve the sword furnace...
+Find the sword furnace
+Discover the mystery of <color=#orange>Fuyu Sword Furnace</color>
+Take time to explore the wonders of<color=#orange>"Fuyu Sword Furnace"</color>.
+This sacred furnace must have a mystery......
+Xuanzhu Avatar Descent
+Scout the <color=#orange>Xuanzhu Avatar Descent</color> descent.
+Go to the <color=#orange>「Xuanzhu Avatar Descent」</color> adventure.
+What does “Xuanzhu Avatar Descent” means?...
+The Two Beauties Compete
+Wait for <color=#orange>Zi Wuxiao</color>
+Wait for <color=#orange>「Zi Wuxiao」</color>
+Now that Wuxiao girl has returned to the present world, where is she now...
+Servants Resurrected
+Think carefully about the <color=#orange>Countermeasures</color> you can take
+Think of a method to deal with <color=#orange>「XiangShu Servants」</color>.
+Now that the Servants of XiangShu have appeared...the world is in chaos...I'm afraid something strange will happen...
+Exterminate the Servants
+Face the <color=#orange>XiangShu Servants</color>
+Go to the <color=#orange>「Destroyed land」</color>, meet the powerful <color=#orange>「XiangShu Servants」</color>, and defeat them.
+Xu Xiangong was stolen... Now the only way is to face the XiangShu Servants...
+Xu Xiangong shows the way
+Go back to the <color=#orange>「Taiwu Village」</color>.
+How can I kill them all by myself? Let's go back to Taiwu Village to see if anyone has a solution...
+The Land of the Divine
+Go to <color=#orange>The Land of the Divine</color> 
+When <color=#orange>「The Land of the Divine」</color> adventure appears, go and enter it.
+After Xu Xiangong shows me the way to The Land of the Divine, I will immediately go to the Xuan Shi realm and retreive the sword's blade!
+Demon Sealing Light
+Go to <color=#orange>Demon Sealing Light</color> 
+Enter the <color=#orange>「Demon Sealing Light」</color> adventure.
+It's a close call, so hurry to the divine light, embed the divine swords, and seal the demon together!
+Go to 「a」 and embed their divine sword.
+Go to 「a」 and embed their divine sword.
+Go to 「a」 and embed their divine sword.
+Go to 「a」 and embed their divine sword.
+Go to 「a」 and embed their divine sword.
+Go to 「a」 and embed their divine sword.
+Go to 「a」 and embed their divine sword.
+Go to 「a」 and embed their divine sword.
+Go to 「a」 and embed their divine sword.
