@@ -1124,7 +1124,7 @@
   "LK_TeaHorse_Replenishment": "Tea Caravan Supplies: \n{0}/{1}({2}/month)",
   "LK_TeaHorse_LoseProb": "Chance For Loss Goods: \n{0}/month",
   "LK_TeaHorse_Forward": "Set out",
-  "LK_TeaHorse_Back": "Back",
+  "LK_TeaHorse_Back": "Go back",
   "LK_TeaHorse_ForwardWest": "Go West",
   "LK_TeaHorse_ForwardEast": "Go East",
   "LK_TeaHorse_DiaryLack": "No Diary",
