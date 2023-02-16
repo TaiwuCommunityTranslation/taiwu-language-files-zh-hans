@@ -2123,7 +2123,7 @@
   "LK_Building_No_Need_For_Maintenance_Title": "No maintenance needed",
   "LK_Building_No_Need_For_Maintenance_Desc": "Current building does not require maintenance",
   "LK_Resource_Cost": "Resource Cost",
-  "LK_Building_MakeingItemCostTime": "Being made,  {0}  turns remaining",
+  "LK_Building_MakeingItemCostTime": "Crafting, {0} turns remaining",
   "LK_Building_ResidentNum": "Num. Residents: {0}",
   "LK_Building_WaitReceiveNum": "Waiting {0}",
   "LK_Building_ManageProgress": "In operation, operating progress {0}",
