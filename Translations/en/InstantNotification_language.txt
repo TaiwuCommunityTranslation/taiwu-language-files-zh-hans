@@ -117,7 +117,7 @@ Becoming Possessed
 {0} is being <color=#red>Possessed</color>!
 Becoming Enthralled
 {0} is being <color=#red>Enthralled</color>!
-Restore Properties
+Stats Recovered
 {0} of {1} <color=#lightblue> restored </color>...
 {0} of {1} <color=#lightblue> restored </color> up {2} point...
 Consumable Properties
