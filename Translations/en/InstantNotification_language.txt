@@ -113,8 +113,8 @@ Increase in enchantment value
 Decrease in enchantment value
 {0}The level of enchantment <color=#lightblue>Decreased</color>...
 {0}Feeling firm in the path, the level of enchantment <color=#lightblue> decreases </color>...
-Role into evil
-{0} <color=#red> into the evil </color> up!
+Becoming Possessed
+{0} is being <color=#red>Possessed</color>!
 Role into the magic
 {0} <color=#red> into the magic </color> up!
 Restore Properties
