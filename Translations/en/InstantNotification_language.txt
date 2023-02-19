@@ -45,7 +45,7 @@ Loss of prestige
 Due to lack of maintenance, {1} of {0} will <color=#red>continuously lose prestige</color>...
 New Station
 Found a new station: {1}!
-Found a new post at {0}: {1}!
+Found a new station at {0}: {1}!
 Through the Dark Abyss
 All party members received damage!
 Due to crossing <color=#red>Chasm</color>, All party members received damage!
