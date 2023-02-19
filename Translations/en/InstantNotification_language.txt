@@ -49,7 +49,7 @@ Found a new post at {0}: {1}!
 Through the Dark Abyss
 All party members received damage!
 Due to crossing <color=#red>Chasm</color>, All party members received damage!
-A strange encounter
+Adventure appears
 New Adventure: 「{1}」...
 {0} A new event has appeared: 「{1}」...
 Experiencing natural disasters
