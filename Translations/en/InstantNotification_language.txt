@@ -115,8 +115,8 @@ Decrease in enchantment value
 {0}Feeling firm in the path, the level of enchantment <color=#lightblue> decreases </color>...
 Becoming Possessed
 {0} is being <color=#red>Possessed</color>!
-Role into the magic
-{0} <color=#red> into the magic </color> up!
+Becoming Enthralled
+{0} is being <color=#red>Enthralled</color>!
 Restore Properties
 {0} of {1} <color=#lightblue> restored </color>...
 {0} of {1} <color=#lightblue> restored </color> up {2} point...
