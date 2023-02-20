@@ -383,7 +383,7 @@
   "LK_CombatSkill_Reverse_Page_2_Desc": "Skill requirements -30%",
   "LK_CombatSkill_Direct_Page_3_Desc": "When you breakthrough successfully while not obsessed, the power of skill+10%",
   "LK_CombatSkill_Reverse_Page_3_Desc": "When you breakthrough successfully while obsessed, the power of skill+10%",
-  "LK_CombatSkill_Direct_Page_4_Desc": "Power of skill +10% \n Double this effect if breakthrough activates the Orthodox Understanding.",
+  "LK_CombatSkill_Direct_Page_4_Desc": "Power of skill +10% \nDouble this effect if breakthrough activates the Orthodox Understanding.",
   "LK_CombatSkill_Reverse_Page_4_Desc": "Power of skill +10% \nDouble this effect if breakthrough activates the Heterodox Understanding.",
   "LK_Reading": "Study",
   "LK_CurrentReadingBook": "Studying {0}",
