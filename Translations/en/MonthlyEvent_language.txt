@@ -15,7 +15,7 @@ While in {0}, you have been attacked by {1}！
 Righteous attack
 You were attacked at {0} by a group of vigilantes led by {1}!
 Possessed Attack
-1You have been attacked by {0} who have fallen into the demonic path of the Aikatsu!
+In {0}, you were attacked by {1} who fell into the demonic way of XiangShu!
 Minion Attack
 You were attacked at {0} by {1} who have been reduced to the minions of the Sagashiki!
 Weaving into dreams
