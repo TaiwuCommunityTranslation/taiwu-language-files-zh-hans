@@ -14,7 +14,7 @@ Animal Attack
 While in {0}, you have been attacked by {1}！
 Righteous attack
 You were attacked at {0} by a group of vigilantes led by {1}!
-Possessed Attack
+Attacked by a Possessed
 In {0}, you were attacked by {1} who fell into the demonic way of XiangShu!
 Minion Attack
 You were attacked at {0} by {1} who have been reduced to the minions of the Sagashiki!
