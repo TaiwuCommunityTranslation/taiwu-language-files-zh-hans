@@ -190,7 +190,7 @@ Punishment: Heaven Sent Disaster
 {0} in {1} dreamed of fierce and evil spirits, and the {2} in the body increased.
 {0} in {1} dreams of fierce and evil spirits, and the internal breath becomes more disturbed.
 Resource Growth
-{0} of {1} has increased in size level.
+{1} in {0} has grown bigger.
 Resource Expansion
 {0} of {1} has expanded to the surrounding area.
 Construction Damage
