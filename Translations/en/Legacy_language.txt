@@ -217,7 +217,7 @@ Give up 3 points of your heir's swordsmanship qualification to gain more of the 
 Polearm Abandonment
 Give up 3 points of your heir's Polearm talent to gain more of the Living Legacy!
 Qi Men Abandonment
-Give up your heir's 3 odd points of qualification to get more of the Legacy Points!
+Give up 3 points of your heir's odd points of qualification to get more of the Legacy Points!
 abandonment of soft soldiers
 Give up 3 points of your heir's soft soldier qualification to get more of the Legacy Points!
 Imperial Shooting Abandonment
@@ -227,7 +227,7 @@ Give up your heirloom's 3 points of instrumental qualification to get more of th
 Sound Abandonment
 Give up 3 points of your heir's music talent to get more of the Legacy Points!
 Game abandonment
-Give up your heir's 3 gaming points of qualification and get more of the Legacy Points!
+Give up 3 points of your heir's gaming points of qualification and get more of the Legacy Points!
 poetry and books abandoned
 Give up 3 points of your heir's poetic qualification and get more of the Legacy Points!
 Painting abandonment
@@ -467,7 +467,7 @@ Spend Legacy Points to extend the life of your heirs by 25 years!
 Spend the Legacy Points to make your heir face new and increase your charisma by 300!
 Spend Legacy Points to extend the life of your heirs by 30 years!
 Charming abandonment
-Give up your heir's 30 points of charisma to get more of the Legacy Points!
+Give up 3 points of your heir's0 points of charisma to get more of the Legacy Points!
 Lifespan Abandonment
 Give up 3 years of your heir's life to get more of the Legacy Points!
 Give up your heirloom's 60 points of charisma to get more of the Legacy Points!
