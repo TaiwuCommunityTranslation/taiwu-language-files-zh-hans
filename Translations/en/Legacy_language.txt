@@ -19,7 +19,7 @@ With the divine power of the Ghost God Xia, make your heir live longer!
 Internal power stimulation
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 3!
 Stance Activation
-Spend Legacy Points to stimulate your heir's potential and increase their footwork Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 3!
 Stunting
 Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 3!
 Fist and palm stimulation
@@ -77,7 +77,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their culina
 Miscellaneous studies to stimulate
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 3!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their footwork Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's jutsu by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their fist and palm Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 6!
@@ -107,7 +107,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Buddhi
 Spend Legacy Points to stimulate your heir's potential and increase their culinary Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their footwork Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Fist Palm Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 9!
@@ -137,7 +137,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Buddhi
 Spend Legacy Points to stimulate your heir's potential and increase their culinary Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their footwork Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Fist Palm Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 12!
@@ -167,7 +167,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Buddhi
 Spend Legacy Points to stimulate your heir's potential and increase their culinary Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their footwork Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's jutsu by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their fist and palm Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 15!
@@ -199,7 +199,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their lore T
 Internal work abandonment
 Give up 3 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Bodywork renunciation
-Give up 3 points of your heir's footwork Talent to gain more of the Legacy Points!
+Give up 3 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Jedi Abandonment
 Give up 3 points of your heir's stunt Talent to get more of the Legacy Points!
 Fist and Palm Abandonment
@@ -257,7 +257,7 @@ Give up 3 points of your heir's culinary Talent to get more of the Legacy Points
 abandonment of lore studies
 Give up 3 points of your heir's lore Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
-Give up 6 points of your heir's footwork Talent to gain more of the Legacy Points!
+Give up 6 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's stunt Talent to get more of the Legacy Points!
 Give up 6 points of your heir's fist and palm Talent to get more of the Legacy Points!
 Give up 6 points of your heir's fingering Talent to get more of the Legacy Points!
@@ -287,7 +287,7 @@ Give up 6 points of your heir's Buddhist Talent and get more of the legacy of bi
 Give up 6 points of your heir's points of culinary Talent to get more of the Legacy Points!
 Give up 6 points of your heir's lore Talent to get more of the Legacy Points!
 Give up 9 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
-Give up 9 points of your heir's footwork Talent to gain more of the Legacy Points!
+Give up 9 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's stunt Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's fist and palm Talent to gain more of the Legacy Points!
 Give up your heir's 9-point fingering Talent to gain more of the Legacy Points!
@@ -317,7 +317,7 @@ Give up 9 points of your heir's Buddhist Talent to gain more of the Legacy Point
 Give up 9 points of your heir's points of culinary Talent to get more of the living legacy!
 Give up 9 points of your heir's lore Talent to get more of the Legacy Points!
 Give up 12 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's footwork Talent to gain more of the Legacy Points!
+Give up 12 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's stunt Talent to get more of the Legacy Points!
 Give up 12 points of your heir's fist and palm Talent to gain more of the Legacy Points!
 Give up your heir's 12-point fingering Talent to gain more of the Legacy Points!
@@ -347,7 +347,7 @@ Give up 12 points of your heir's Buddhist Talent to gain more of the Legacy Poin
 Give up 12 points of your heir's culinary Talent to get more of the Legacy Points!
 Give up 12 points of your heir's lore Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's footwork Talent to gain more of the Legacy Points!
+Give up 15 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's jutsu Talent to get more of the Legacy Points!
 Give up 15 points of your heir's fist and palm Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's fingering Talent to get more of the Legacy Points!
