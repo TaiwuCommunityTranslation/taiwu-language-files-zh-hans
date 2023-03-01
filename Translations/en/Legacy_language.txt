@@ -103,7 +103,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their poison
 Spend Legacy Points to stimulate your heir's potential and increase their tapestry Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their skillful craftsmanship Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Daoist Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their Buddhist credentials by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Buddhist Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their culinary Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 9!
@@ -133,7 +133,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their poison
 Spend Legacy Points to stimulate your heir's potential and increase their tapestry weaving Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their skillful craftsmanship Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Daoist Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their Buddhist credentials by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Buddhist Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their culinary Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 12!
@@ -163,7 +163,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their poison
 Spend Legacy Points to stimulate your heir's potential and increase their brocade weaving Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their skillful craftsmanship Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Daoist Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their Buddhist credentials by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Buddhist Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their culinary Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 15!
@@ -193,7 +193,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their poison
 Spend Legacy Points to stimulate your heir's potential and increase their brocade weaving Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their skillful craftsmanship Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Daoist Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their Buddhist credentials by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Buddhist Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their culinary Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 15!
 Internal work abandonment
@@ -253,7 +253,7 @@ Give up 3 points of your heir's Daoist Talent to gain more of the Legacy Points!
 Buddhist Renunciation
 Give up 3 points of your heir's Buddhist Talent and get more of the legacy of birth!
 Culinary Abandonment
-Give up 3 points of your heir's culinary credentials to get more of the Legacy Points!
+Give up 3 points of your heir's culinary Talent to get more of the Legacy Points!
 abandonment of lore studies
 Give up 3 points of your heir's lore Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
@@ -284,7 +284,7 @@ Give up 6 points of your heir's weaving Talent to gain more of the Legacy Points
 Give up 6 points of your heir's skillful craftsmanship Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's Daoist Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's Buddhist Talent and get more of the legacy of birth!
-Give up 6 points of your heir's points of culinary credentials to get more of the Legacy Points!
+Give up 6 points of your heir's points of culinary Talent to get more of the Legacy Points!
 Give up 6 points of your heir's lore Talent to get more of the Legacy Points!
 Give up 9 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's footwork Talent to gain more of the Legacy Points!
@@ -301,7 +301,7 @@ Give up 9 points of your heir's points of soft soldier Talent to get more of the
 Give up 9 points of your heir's imperial archery Talent to get more of the Legacy Points!
 Give up 9 points of your heir's points of instrument Talent to gain more of the living legacy!
 Give up 9 points of your heir's points of sonic Talent to gain more of the Legacy Points!
-Give up 9 points of your heir's points of gaming credentials to gain more of the Legacy Points!
+Give up 9 points of your heir's points of gaming Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's poetic Talent to get more of the Legacy Points!
 Give up 9 points of your heir's points of painting Talent to get more of the living legacy!
 Give up 9 points of your heir's artistry Talent to gain more of the Legacy Points!
@@ -313,8 +313,8 @@ Give up 9 points of your heir's poison Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's weaving Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's skillful craftsmanship Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Daoist Talent to gain more of the Legacy Points!
-Give up 9 points of your heir's Buddhist credentials to gain more of the Legacy Points!
-Give up 9 points of your heir's points of culinary credentials to get more of the living legacy!
+Give up 9 points of your heir's Buddhist Talent to gain more of the Legacy Points!
+Give up 9 points of your heir's points of culinary Talent to get more of the living legacy!
 Give up 9 points of your heir's lore Talent to get more of the Legacy Points!
 Give up 12 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's footwork Talent to gain more of the Legacy Points!
@@ -331,11 +331,11 @@ Give up 12 points of your heir's soft soldier Talent to get more of the Legacy P
 Give up 12 points of your heir's imperial archery Talent to get more of the Legacy Points!
 Give up 12 points of your heir's instrument Talent to gain more of the living legacy!
 Give up 12 points of your heir's music Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's gaming credentials to gain more of the Legacy Points!
+Give up 12 points of your heir's gaming Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's poetic Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's painting Talent to get more of the Legacy Points!
 Give up 12 points of your heir's artistry Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's tasting credentials to gain more of the Legacy Points!
+Give up 12 points of your heir's tasting Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's forging Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's wood making Talent to gain more of the living legacy!
 Give up 12 points of your heir's medical Talent to gain more of the Legacy Points!
@@ -343,8 +343,8 @@ Give up 12 points of your heir's poison Talent to gain more of the Legacy Points
 Give up 12 points of your heir's weaving Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's skillful craftsmanship Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Daoist Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's Buddhist credentials to gain more of the Legacy Points!
-Give up 12 points of your heir's culinary credentials to get more of the Legacy Points!
+Give up 12 points of your heir's Buddhist Talent to gain more of the Legacy Points!
+Give up 12 points of your heir's culinary Talent to get more of the Legacy Points!
 Give up 12 points of your heir's lore Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's footwork Talent to gain more of the Legacy Points!
@@ -361,11 +361,11 @@ Give up 15 points of your heir's soft soldier Talent to get more of the Legacy P
 Give up 15 points of your heir's imperial archery Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's instrument Talent to get more of the Legacy Points!
 Give up 15 points of your heir's sonic Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's gaming credentials to gain more of the Legacy Points!
+Give up 15 points of your heir's gaming Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's poetic Talent to get more of the Legacy Points!
 Give up 15 points of your heir's painting Talent to get more of the Legacy Points!
 Give up 15 points of your heir's artistry Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's tasting credentials to gain more of the Legacy Points!
+Give up 15 points of your heir's tasting Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's forging Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's wood making Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's medical Talent to gain more of the Legacy Points!
@@ -373,8 +373,8 @@ Give up 15 points of your heir's poison Talent to gain more of the Legacy Points
 Give up 15 points of your heir's weaving Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's skillful craftsmanship Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Daoist Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's Buddhist credentials to gain more of the Legacy Points!
-Give up 15 points of your heir's culinary credentials to gain more of the Legacy Points!
+Give up 15 points of your heir's Buddhist Talent to gain more of the Legacy Points!
+Give up 15 points of your heir's culinary Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's lore Talent to gain more of the Legacy Points!
 Brawn stimulation
 Spend Legacy Points to stimulate your heir's potential and increase their brawn capacity by 3!
