@@ -21,7 +21,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their intern
 Stance Activation
 Spend Legacy Points to stimulate your heir's potential and increase their footwork talent by 3!
 Stunting
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's jutsu qualification by 3!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's jutsu qualification by 3!
 Fist and palm stimulation
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Fist Palm qualification by 3!
 Fingerstyle stimulation
@@ -49,11 +49,11 @@ Spend Legacy Points to stimulate your heir's potential and increase their tonal 
 Inspired by the game of chess
 Spend your life's legacy to stimulate your heir's potential and increase your heir's chess qualification by 3!
 Inspired by poetry and books
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's poetic qualifications by 3!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's poetic qualifications by 3!
 Painting inspires
 Spend the Legacy of Life to stimulate the potential of your heir to increase your heir's painting qualifications by 3!
 Art number stimulation
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's jutsu qualifications by 3!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's jutsu qualifications by 3!
 Tasting stimulation
 Spend a living legacy to inspire your heir to increase your heir's tasting qualifications by 3!
 Forging excitement
@@ -120,10 +120,10 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Spend a living legacy to inspire your heir to increase your heir's soft weapon qualifications by 9!
 Spend a living legacy to stimulate the potential of your heir to increase your heir's imperial shooting qualification by 9!
 Spend a living legacy to inspire your heir to increase the instrument qualification of your heir by 9!
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's tonal qualifications by 9!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's tonal qualifications by 9!
 Spend your life's legacy to stimulate your heir's potential and increase your heir's chess qualification by 9!
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's poetic qualifications by 9!
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's painting qualifications by 9!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's poetic qualifications by 9!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's painting qualifications by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's jutsu qualifications by 9!
 Spend a living legacy to inspire your heir to increase your heir's tasting qualifications by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's forging qualifications by 9!
@@ -148,7 +148,7 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Polearm talent by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's oddball qualifications by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's soft weapon qualifications by 12!
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's imperial shooting qualification by 12!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's imperial shooting qualification by 12!
 Spend a living legacy to inspire your heir to increase the instrument qualification of your heir by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's tonal qualifications by 12!
 Spend your life's legacy to stimulate your heir's potential and increase your heir's chess qualification by 12!
@@ -397,13 +397,13 @@ Spend the Legacy of Life to stimulate the potential of your heir to increase you
 Spend a living legacy to inspire your heir's potential and increase your heir's brawn capacity by 9!
 Spend the Legacy of Life to stimulate the potential of your heir to increase your heir's sensitivity by 9!
 Spend the Legacy of Life to stimulate the potential of your heir to increase your heir's physical ability by 9!
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's root capacity by 9!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's root capacity by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's enlightenment ability by 9!
 Spend the Legacy of Life to stimulate your heir's potential to increase your heir's fixation ability by 9!
 Spend a living legacy to inspire your heir's potential and increase your heir's brawn capacity by 12!
 Spend a living legacy to inspire your heir's potential and increase your heir's sensitivity by 12!
 Spend the Legacy of Life to stimulate the potential of your heir to increase your heir's physical abilities by 12!
-Spend a lifetime legacy to inspire your heir's potential and increase your heir's root ability by 12!
+Spend a Legacy of Life to inspire your heir's potential and increase your heir's root ability by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's enlightenment ability by 12!
 Spend the Legacy of Life to stimulate the potential of your heir to increase your heir's fixation power capacity by 12!
 Spend a living legacy to inspire your heir's potential and increase your heir's brawn capacity by 15!
