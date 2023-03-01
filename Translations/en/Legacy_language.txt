@@ -219,7 +219,7 @@ Give up 3 points of your heir's Polearm Talent to gain more of the Living Legacy
 Qi Men Abandonment
 Give up 3 points of your heir's Exotic Weapons Talent to get more of the Legacy Points!
 abandonment of soft soldiers
-Give up 3 points of your heir's soft soldier Talent to get more of the Legacy Points!
+Give up 3 points of your heir's Soft Weapons Talent to get more of the Legacy Points!
 Imperial Shooting Abandonment
 Give up 3 points of your heir's imperial archery Talent to get more of the Legacy Points!
 Instrument abandonment
@@ -267,7 +267,7 @@ Give up 6 points of your heir's swordsmanship Talent to gain more of the Legacy 
 Give up 6 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's Polearm Talent to gain more of the Living Legacy!
 Give up your heir's 6 odd points of Talent to get more of the Legacy Points!
-Give up 6 points of your heir's soft soldier Talent to get more of the Legacy Points!
+Give up 6 points of your heir's Soft Weapons Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Ranged Weapons Talent to get more of the Legacy Points!
 Give up 6 points of your heir's points of Melodyal Talent to gain more of the living legacy!
 Give up 6 points of your heir's music Talent to gain more of the Legacy Points!
@@ -297,7 +297,7 @@ Give up 9 points of your heir's swordsmanship Talent to gain more of the Legacy 
 Give up 9 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Polearm Talent to gain more of the Living Legacy!
 Give up your heir's 9 odd points of Talent to gain more of the Legacy Points!
-Give up 9 points of your heir's points of soft soldier Talent to get more of the Legacy Points!
+Give up 9 points of your heir's points of Soft Weapons Talent to get more of the Legacy Points!
 Give up 9 points of your heir's imperial archery Talent to get more of the Legacy Points!
 Give up 9 points of your heir's points of Melody Talent to gain more of the living legacy!
 Give up 9 points of your heir's points of sonic Talent to gain more of the Legacy Points!
@@ -327,7 +327,7 @@ Give up 12 points of your heir's swordsmanship Talent to gain more of the Legacy
 Give up 12 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Polearm Talent to gain more of the Living Legacy!
 Give up your heir's 12 odd points of Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's soft soldier Talent to get more of the Legacy Points!
+Give up 12 points of your heir's Soft Weapons Talent to get more of the Legacy Points!
 Give up 12 points of your heir's imperial archery Talent to get more of the Legacy Points!
 Give up 12 points of your heir's Melody Talent to gain more of the living legacy!
 Give up 12 points of your heir's music Talent to gain more of the Legacy Points!
@@ -357,7 +357,7 @@ Give up 15 points of your heir's swordsmanship Talent to gain more of the Legacy
 Give up 15 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's long-armed Talent to gain more of the Legacy Points!
 Give up your heir's 15 odd points of Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's soft soldier Talent to get more of the Legacy Points!
+Give up 15 points of your heir's Soft Weapons Talent to get more of the Legacy Points!
 Give up 15 points of your heir's imperial archery Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Melody Talent to get more of the Legacy Points!
 Give up 15 points of your heir's sonic Talent to gain more of the Legacy Points!
