@@ -910,7 +910,7 @@ Spending the Legacy Points and death immediately increases the regional benefice
 Jiangbei Enyi
 Spend the Legacy Points and immediately increase the regional beneficence of the Jiangbei region by 30%!
 Spending the Legacy Points immediately increases the regional beneficence of the Gyeonggi region by 60%!
-Spending a lifetime of legacy benefits immediately increases the regional beneficence of the Basho region by 60%!
+Spending Legacy Points immediately increases the regional beneficence of the Basho region by 60%!
 Spending the Legacy Points and death immediately increases the regional beneficence of the Guangnan region by 60%!
 Spend the Legacy Points and immediately increase the regional beneficence of Jingbei region by 60%!
 Spend the Legacy Points and immediately increase the regional beneficence of the Shanxi region by 60%!
@@ -922,27 +922,27 @@ Spending the Legacy Points and death immediately increases the regional benefice
 Spending the Legacy Points immediately increases the regional beneficence of the Western Region by 60%!
 Spend the Legacy Points to immediately increase the regional beneficence of the Yunnan region by 60%!
 Spend the Legacy Points and immediately increase the regional beneficence of the Huainan region by 60%!
-Spending a lifetime of legacy benefits immediately increases the regional beneficence of the Jiangnan region by 60%!
+Spending Legacy Points immediately increases the regional beneficence of the Jiangnan region by 60%!
 Spending the Legacy Points and death immediately increases the regional beneficence of the north of the river by 60%!
 Spending the Legacy Points and death immediately increases the regional beneficence of the Gyeonggi region by 90%!
-Spending a lifetime of legacy benefits immediately increases the regional beneficence of the Basho region by 90%!
+Spending Legacy Points immediately increases the regional beneficence of the Basho region by 90%!
 Spending the Legacy Points and death immediately increases the regional beneficence of the Guangnan region by 90%!
 Spending the Legacy Points immediately increases the regional beneficence of the Jingbei region by 90%!
 Spend the Legacy Points and immediately increase the regional beneficence of the Shanxi region by 90%!
 Spend the Legacy Points and immediately increase the regional beneficence of the Guangdong region by 90%!
 Spending the Legacy Points and death immediately increases the regional beneficence of the Shandong region by 90%!
-Spending a lifetime of legacy benefits immediately increases the regional beneficence of the Jingnan region by 90%!
+Spending Legacy Points immediately increases the regional beneficence of the Jingnan region by 90%!
 Spending the Legacy Points and death immediately increases the regional beneficence of the Fujian region by 90%!
 Spending the Legacy Points and death immediately increases the regional beneficence of Liaodong by 90%!
-Spending a lifetime of legacy benefits immediately increases the regional beneficence of the Western Region by 90%!
+Spending Legacy Points immediately increases the regional beneficence of the Western Region by 90%!
 Spend the Legacy Points and immediately increase the regional beneficence of the Yunnan region by 90%!
-Spending a lifetime of legacy benefits immediately increases the regional beneficence of the Huainan region by 90%!
-Spending a lifetime of legacy benefits immediately increases the regional beneficence of the Jiangnan region by 90%!
+Spending Legacy Points immediately increases the regional beneficence of the Huainan region by 90%!
+Spending Legacy Points immediately increases the regional beneficence of the Jiangnan region by 90%!
 Spending the Legacy Points immediately increases the regional beneficence of the north of the river by 90%!
 Shaolin Order
-Spend a lifetime of legacy benefits, and immediately get some of the lower-ranked disciples of Shaolin sect sect support!
+Spend Legacy Points, and immediately get some of the lower-ranked disciples of Shaolin sect sect support!
 Emei Order
-Spend a lifetime of legacy benefits, immediately obtain the sect support of some of the lower-ranked disciples of the Emei School!
+Spend Legacy Points, immediately obtain the sect support of some of the lower-ranked disciples of the Emei School!
 The Hundred Flowers Order
 Spend the life legacy benefit, immediately obtain the sect support of some of the lower-ranked disciples of the Hundred Flowers Valley!
 Wudang Order
@@ -954,71 +954,71 @@ Spend the life legacy benefit, immediately obtain the sect support of some of th
 Ranzan Order
 Spend the life legacy benefit, immediately obtain the sect support of some of the lower-ranked disciples of the Ransan sect!
 The Order of Xuan Maiden
-Spend a lifetime of legacy benefits, and immediately get some of the lower-ranked disciples of the Xuan Nui sect sect support!
+Spend Legacy Points, and immediately get some of the lower-ranked disciples of the Xuan Nui sect sect support!
 Sword Casting Order
 Spend the life legacy benefit, immediately obtain the sect support of some of the lower-ranked disciples of Casting Sword Villa!
 Airsan Order
-Spend a lifetime of legacy benefits, and immediately obtain the sect support of some of the lower-ranked disciples of the Kongsang School!
+Spend Legacy Points, and immediately obtain the sect support of some of the lower-ranked disciples of the Kongsang School!
 Vajra Order
-Spend a lifetime of legacy benefits, immediately obtain the sect support of some of the lower-ranked disciples of the Infinite Vajra Sect!
+Spend Legacy Points, immediately obtain the sect support of some of the lower-ranked disciples of the Infinite Vajra Sect!
 The Five Immortals' Order
 Spend the life legacy benefit, immediately obtain the sect support of some of the lower-ranked disciples of the Five Immortals!
 Boundary Green Order
-Spend a lifetime of legacy benefits, immediately obtain the sect support of some of the lower-ranked disciples of the Boundary Green Gate!
+Spend Legacy Points, immediately obtain the sect support of some of the lower-ranked disciples of the Boundary Green Gate!
 Voltron Order
 Spend the life legacy benefit, immediately obtain the sect support of some of the lower-ranked disciples of the Volcano Altar!
 Bloodhound Order
 Spend a life legacy benefit, immediately obtain the sect support of some of the lower-ranked disciples of the Blood Hollow Sect!
 Spend the life legacy benefit, immediately obtain the Shaolin sect part of the middle-ranking disciples of the sect support!
 Spend the life legacy benefit, immediately obtain the Emei sect part of the middle-ranking disciples of the sect support!
-Spend a lifetime of legacy benefits, and immediately obtain the sect support of some of the middle-ranking disciples of the Hundred Flowers Valley!
+Spend Legacy Points, and immediately obtain the sect support of some of the middle-ranking disciples of the Hundred Flowers Valley!
 Spend the life legacy benefit, immediately obtain the sect support of some middle-ranking disciples of the Wudang school!
 Spend the life legacy benefit, immediately obtain the sect support of some middle-ranking disciples of the Yuanshan School!
 Spend the life legacy benefit, immediately obtain the sect support of some of the middle-ranking disciples of the Lion Phase Gate!
 Spend the life legacy benefit, immediately obtain the sect support of some of the middle-ranking disciples of Ransan sect!
-Spend a lifetime of legacy benefits, immediately obtain Xuan female sect part of the middle-ranking disciples of the sect support!
+Spend Legacy Points, immediately obtain Xuan female sect part of the middle-ranking disciples of the sect support!
 Spend the life legacy benefit, immediately obtain the sect support of some middle-ranking disciples of Casting Sword Villa!
-Spend a lifetime of legacy benefits, and immediately obtain the sect support of some of the middle-ranking disciples of the Kongsang School!
+Spend Legacy Points, and immediately obtain the sect support of some of the middle-ranking disciples of the Kongsang School!
 Spend the life legacy benefit, immediately obtain the sect support of some middle-ranking disciples of the Infinite Vajra Sect!
 Spend the life legacy benefit, immediately obtain the sect support of some middle-ranking disciples of the Five Immortals!
-Spend a lifetime of legacy benefits, immediately obtain the sect support of some of the middle-ranking disciples of the Boundary Green Gate!
-Spend a lifetime of legacy benefits, immediately obtain the sect support of some of the middle-ranking disciples of the volcano altar!
+Spend Legacy Points, immediately obtain the sect support of some of the middle-ranking disciples of the Boundary Green Gate!
+Spend Legacy Points, immediately obtain the sect support of some of the middle-ranking disciples of the volcano altar!
 Spend a life legacy benefit, immediately obtain the sect support of some of the middle-ranking disciples of the Blood Hollow Sect!
 Spend the Legacy Points to immediately obtain the sect support of some of the high-ranking figures of the Shaolin sect!
 Spend the Legacy Points and get immediate sect support from some of the high ranking figures in the Emei sect!
 Spend a living legacy to immediately gain the sect support of some of the high-ranking figures in the Hundred Flowers Valley!
 Spend the Legacy Points and immediately obtain the sect support of some high-ranking figures of Wudang Sect!
-Spend a lifetime of legacy benefits to immediately gain sect support from some of the high-ranking figures in the Yuanshan School!
+Spend Legacy Points to immediately gain sect support from some of the high-ranking figures in the Yuanshan School!
 Spend the Legacy Points to immediately obtain the sect support of some high-ranking figures of the Lion Phase Sect!
 Spend the life legacy benefit, immediately obtain the sect support of some of the high ranking figures of Ransan sect!
-Spend a lifetime of legacy benefits to immediately obtain the sect support of some of the high ranking figures of the Xuan Nui sect!
-Spend a lifetime of legacy benefits to immediately gain sect support from some of the higher ranking figures at Casting Mountain!
+Spend Legacy Points to immediately obtain the sect support of some of the high ranking figures of the Xuan Nui sect!
+Spend Legacy Points to immediately gain sect support from some of the higher ranking figures at Casting Mountain!
 Spend the life legacy benefit and immediately get the sect support from some of the high ranking figures of the Kongsang sect!
 Spend the life legacy benefit, immediately obtain the sect support of some high-ranking figures of the Infinite Vajra Sect!
-Spend a lifetime of legacy benefits to immediately obtain the sect support of some of the high-ranking figures of the Five Immortals!
+Spend Legacy Points to immediately obtain the sect support of some of the high-ranking figures of the Five Immortals!
 Spend the life legacy benefit, immediately obtain the sect support of some of the high-ranking figures of the Boundary Green Gate!
 Spend the life legacy benefit, immediately obtain the sect support of some high-ranking figures of the Volcano Altar!
-Spend a lifetime of legacy benefits to immediately obtain the sect support of some of the high-ranking figures of the Blood Hollow Sect!
+Spend Legacy Points to immediately obtain the sect support of some of the high-ranking figures of the Blood Hollow Sect!
 Weed pile found
-Spend a lifetime of legacy benefits and immediately find a weed pile in the village of Taiwu!
+Spend Legacy Points and immediately find a weed pile in the village of Taiwu!
 Discover the rock pile
-Spend a lifetime of legacy benefits and immediately found a pile of rocks in the village of Taiwu!
+Spend Legacy Points and immediately found a pile of rocks in the village of Taiwu!
 Discover the ruins
-Spend a lifetime of legacy benefits and immediately found a ruin in the village of Taiwu!
+Spend Legacy Points and immediately found a ruin in the village of Taiwu!
 Discover the waters
-Spend a lifetime of legacy benefits and immediately find a water in the village of Taiwu!
+Spend Legacy Points and immediately find a water in the village of Taiwu!
 Discover Stone Mountain
-Spend a lifetime of legacy benefits, immediately found a stone mountain in the village of Taiwu!
+Spend Legacy Points, immediately found a stone mountain in the village of Taiwu!
 Discover the woods
-Spend a lifetime of legacy benefits and immediately found a woods in the village of Taiwu!
+Spend Legacy Points and immediately found a woods in the village of Taiwu!
 Discover the Lone Peak
-Spend a lifetime of legacy benefits, immediately found a lonely peak in the village of Taiwu!
+Spend Legacy Points, immediately found a lonely peak in the village of Taiwu!
 Discovering Herbs
 Spend a life legacy benefit, immediately found a herb in the village of Taiwu!
 Discovery of poisonous swamp
 Spend a life legacy benefit, immediately found a poisonous swamp in the village of Taiwu!
 Discover the Valley of Flowers
-Spend a lifetime of legacy benefits, immediately found a flower valley in the village of Taiwu!
+Spend Legacy Points, immediately found a flower valley in the village of Taiwu!
 Discovering Gems
 Spend a life legacy benefit and immediately find a gem in the village of Taiwu!
 Discover Warfield
@@ -1026,7 +1026,7 @@ Spend the life legacy benefit and immediately find a fertile field in the villag
 Discover the herd
 Spend a life legacy benefit and immediately find a beast in the village of Taiwu!
 Discover the fire pit
-Spend a lifetime of legacy benefits and immediately found a fire pond in the village of Taiwu!
+Spend Legacy Points and immediately found a fire pond in the village of Taiwu!
 Discovery of a meteorite crater
 Spend a life legacy benefit, immediately found a meteorite iron crater in the village of Taiwu!
 Discover the dense forest
@@ -1034,13 +1034,13 @@ Spend a life legacy benefit, immediately found a dense forest in the village of 
 Discovering Tai Shi Lin
 Spend the life legacy benefit, immediately found a Tai Shi forest in the village of Taiwu!
 Discover Changchunjian
-Spend a lifetime of legacy benefits, immediately found a Changchun stream in the village of Taiwu!
+Spend Legacy Points, immediately found a Changchun stream in the village of Taiwu!
 Discovering the Cave of the Gentoo
 Spend the life legacy benefit, immediately found a Xuan snake cave in the village of Taiwu!
 Discover Chikangwon
-Spending a lifetime of legacy benefits, immediately found a strange fragrance original in the village of Taiwu!
+Spending Legacy Points, immediately found a strange fragrance original in the village of Taiwu!
 Discovering feng shui dragon points
-Spending a lifetime of legacy benefits, immediately found a feng shui dragon point in the village of Taiwu!
+Spending Legacy Points, immediately found a feng shui dragon point in the village of Taiwu!
 Discovering Spiritual Veins
 Spend the life legacy benefit, immediately found a spiritual vein in the village of Taiwu!
 Discovery of basalt ice
