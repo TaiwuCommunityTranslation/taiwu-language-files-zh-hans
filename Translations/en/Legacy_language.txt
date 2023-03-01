@@ -582,7 +582,7 @@ Spend Legacy Points to give your heirs the "Eight Faces" trait!
 Transcendental
 Spend Legacy Points to give your heirs "extraordinary" characteristics!
 Fickle and Inconstant
-How do you know what you're getting into when you lose a horse? Give your heir the "unpredictable" trait and gain more of the legacy of his life!
+How do you know what you're getting into when you lose a horse? Give your heir the "unpredictable" trait and gain more of Legacy Points!
 Sarcastic and Annoying
 How do you know when you've lost a horse? Make your heirs acquire "caustic" traits while gaining more of the Legacy Points!
 Arrogant and Cruel
@@ -850,9 +850,9 @@ Spend Legacy Points to make your heir's internal force change into Returning Int
 Celestial Harmony
 Spend Legacy Points to make your heir's internal power change into mixed internal power!
 Gyeonggi Wizards
-Spend the legacy of his life so that the capital region subsequently emerged several wizards one after another!
+Spend Legacy Points so that the capital region subsequently emerged several wizards one after another!
 Marsh Wizard
-Spend the legacy of his life so that several wizards subsequently emerged in succession in the Pashu region!
+Spend Legacy Points so that several wizards subsequently emerged in succession in the Pashu region!
 Guangnan Wizards
 Spend the Legacy Points so that several wizards subsequently emerged in the Guangnan area one after another!
 Jingbei Wizards
@@ -868,11 +868,11 @@ Spend the Legacy Points, so that the Jingnan area subsequently appeared in succe
 Fujian Wizards
 Spend the Legacy Points to make several wizards subsequently appear in Fujian area one after another!
 Liaodong Wizards
-Spend the legacy of his life to make several wizards subsequently appear in Liaodong area one after another!
+Spend Legacy Points to make several wizards subsequently appear in Liaodong area one after another!
 Western Wizards
 Spend the Legacy Points, so that the Western region subsequently appeared in succession several wizards!
 Yunnan Wizards
-Spending the legacy of his life so that several wizards subsequently emerged one after another in the Yunnan region!
+Spending Legacy Points so that several wizards subsequently emerged one after another in the Yunnan region!
 Huainan Wizards
 Spend the Legacy Points to make the Huainan area subsequently emerge several wizards one after another!
 Jiangnan Wizards
