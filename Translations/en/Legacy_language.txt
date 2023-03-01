@@ -17,7 +17,7 @@ With the divine power of the Demon Wood, your heir will have a great increase in
 Celestial Edict
 With the divine power of the Ghost God Xia, make your heir live longer!
 Internal power stimulation
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's internal power qualification by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their internal power qualification by 3!
 Stance Activation
 Spend a Living Legacy to stimulate your heir's potential and increase your heir's footwork talent by 3!
 Stunting
@@ -45,7 +45,7 @@ Spend a living legacy to inspire your heir's potential and increase your heir's 
 Instrumental stimulation
 Spend a living legacy to stimulate the potential of your heir to increase the instrument qualification of your heir by 3!
 Tonal stimulation
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's tonal qualifications by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their tonal qualifications by 3!
 Inspired by the game of chess
 Spend your life's legacy to stimulate your heir's potential and increase your heir's chess qualification by 3!
 Inspired by poetry and books
@@ -76,7 +76,7 @@ Culinary Inspiration
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's culinary qualifications by 3!
 Miscellaneous studies to stimulate
 Spend a living legacy to stimulate your heir's potential and increase your heir's lore qualifications by 3!
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's internal power qualification by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their internal power qualification by 6!
 Spend a Living Legacy to stimulate your heir's potential and increase your heir's footwork talent by 6!
 Spend the Legacy of Life to stimulate the potential of your heir to increase the qualification of your heir's jutsu by 6!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's fist and palm qualifications by 6!
@@ -90,9 +90,9 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Spend a living legacy to inspire your heir to increase your heir's soft weapon qualifications by 6!
 Spend a living legacy to inspire your heir's potential and increase your heir's imperial shooting qualification by 6!
 Spend a living legacy to stimulate the potential of your heir to increase the instrument qualification of your heir by 6!
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's tonal qualifications by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their tonal qualifications by 6!
 Spend your life's legacy to stimulate your heir's potential and increase your heir's chess qualification by 6!
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's poetic qualifications by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their poetic qualifications by 6!
 Spend the Legacy of Life to stimulate the potential of your heir to increase your heir's painting qualifications by 6!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's jutsu qualifications by 6!
 Spend a living legacy to inspire your heir to increase your heir's tasting qualifications by 6!
@@ -106,7 +106,7 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Buddhist credentials by 6!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's culinary qualifications by 6!
 Spend a living legacy to stimulate your heir's potential and increase your heir's lore qualifications by 6!
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's internal power qualification by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their internal power qualification by 9!
 Spend a Living Legacy to stimulate your heir's potential and increase your heir's footwork talent by 9!
 Spend your life's legacy to inspire your heir's potential and increase your heir's jutsu qualification by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Fist Palm qualification by 9!
@@ -136,7 +136,7 @@ Spend the Legacy of Life to inspire your heir's potential and increase your heir
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Buddhist credentials by 9!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's culinary qualifications by 9!
 Spend a living legacy to stimulate your heir's potential and increase your heir's lore qualifications by 9!
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's internal power qualification by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their internal power qualification by 12!
 Spend a Living Legacy to stimulate your heir's potential and increase your heir's footwork talent by 12!
 Spend your life's legacy to inspire your heir's potential and increase your heir's jutsu qualification by 12!
 Spend the Legacy of Life to inspire your heir's potential and increase your heir's Fist Palm qualification by 12!
@@ -385,7 +385,7 @@ Spend a living legacy to stimulate the potential of your heir to increase your h
 Root and bone stimulation
 Spend the Legacy of Life to stimulate the potential of your heir to increase your heir's root ability by 3!
 Enlightenment stimulation
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's enlightenment ability by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their enlightenment ability by 3!
 Stamina stimulation
 Spend a living legacy to stimulate your heir's potential and increase your heir's fixation ability by 3!
 Spend a living legacy to inspire your heir's potential and increase your heir's brawn capacity by 6!
@@ -485,11 +485,11 @@ Give up 25 years of your heir's life to gain more of the legacy of life!
 Give up 300 points of charisma for your heirloom and get more of the legacy of life!
 Give up 30 years of your heir's life to gain more of the legacy of life!
 Passing on the power and casting the qi
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's maximum internal strength by 60!
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's maximum internal strength by 120!
+Spend Legacy Points to stimulate your heir's potential and increase their maximum internal strength by 60!
+Spend Legacy Points to stimulate your heir's potential and increase their maximum internal strength by 120!
 Spend the Legacy of Life to stimulate the potential of your heir to increase the maximum internal power of your heir by 180!
 Spend the Legacy of Life to stimulate the potential of your heir to increase your heir's maximum internal power by 240!
-Spend the Legacy of Life to stimulate your heir's potential and increase your heir's maximum internal power by 300!
+Spend Legacy Points to stimulate your heir's potential and increase their maximum internal power by 300!
 Spend the Legacy of Life to stimulate the potential of your heir to increase the maximum internal power of your heir by 360!
 Spend the Legacy of Life to stimulate your heir's potential to increase your heir's maximum internal power by 420!
 Spend the Legacy of Life to stimulate the potential of your heir to increase the maximum internal power of your heir by 480!
