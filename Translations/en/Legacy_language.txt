@@ -79,7 +79,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Lore T
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's Stunt by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their fist and palm Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Fist Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Finger Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Kick Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Hidden Weapons Talent by 6!
@@ -169,7 +169,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Lore T
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's Stunt by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their fist and palm Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Fist Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Finger Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Kick Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Hidden Weapons Talent by 15!
@@ -203,7 +203,7 @@ Give up 3 points of your heir's Footwork Talent to gain more of the Legacy Point
 Jedi Abandonment
 Give up 3 points of your heir's stunt Talent to get more of the Legacy Points!
 Fist and Palm Abandonment
-Give up 3 points of your heir's fist and palm Talent to get more of the Legacy Points!
+Give up 3 points of your heir's Fist Talent to get more of the Legacy Points!
 Fingerprint abandonment
 Give up 3 points of your heir's Finger Talent to get more of the Legacy Points!
 Legwork abandonment
@@ -259,7 +259,7 @@ Give up 3 points of your heir's Lore Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's stunt Talent to get more of the Legacy Points!
-Give up 6 points of your heir's fist and palm Talent to get more of the Legacy Points!
+Give up 6 points of your heir's Fist Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Finger Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Kick Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Hidden Weapons Talent to gain more of the Legacy Points!
@@ -289,7 +289,7 @@ Give up 6 points of your heir's Lore Talent to get more of the Legacy Points!
 Give up 9 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's stunt Talent to gain more of the Legacy Points!
-Give up 9 points of your heir's fist and palm Talent to gain more of the Legacy Points!
+Give up 9 points of your heir's Fist Talent to gain more of the Legacy Points!
 Give up your heir's 9-point Finger Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Kick Talent for more of the Legacy Points!
 Give up 9 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
@@ -319,7 +319,7 @@ Give up 9 points of your heir's Lore Talent to get more of the Legacy Points!
 Give up 12 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's stunt Talent to get more of the Legacy Points!
-Give up 12 points of your heir's fist and palm Talent to gain more of the Legacy Points!
+Give up 12 points of your heir's Fist Talent to gain more of the Legacy Points!
 Give up your heir's 12-point Finger Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Kick Talent for more of the Legacy Points!
 Give up 12 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
@@ -349,7 +349,7 @@ Give up 12 points of your heir's Lore Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Stunt Talent to get more of the Legacy Points!
-Give up 15 points of your heir's fist and palm Talent to gain more of the Legacy Points!
+Give up 15 points of your heir's Fist Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Finger Talent to get more of the Legacy Points!
 Give up 15 points of your heir's legacy Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
