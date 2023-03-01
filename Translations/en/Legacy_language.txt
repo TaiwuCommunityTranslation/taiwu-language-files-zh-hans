@@ -97,7 +97,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Painti
 Spend Legacy Points to stimulate your heir's potential and increase their Astrology Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their wood making Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Carpentry Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Medicine Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Toxicology Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Weaving Talent by 6!
@@ -127,7 +127,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Painti
 Spend Legacy Points to stimulate your heir's potential and increase their Astrology Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their wood making Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Carpentry Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Medicine Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Toxicology Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Weaving weaving Talent by 9!
@@ -239,7 +239,7 @@ Give up your heirloom's 3 Appreciation points Talent and get more of the Legacy 
 Forging abandonment
 Give up 3 points of your heir's Forging Talent to get more of the Legacy Points!
 Making wood and abandoning the house
-Give up 3 points of your heir's wood making Talent to gain more of the Legacy Points!
+Give up 3 points of your heir's Carpentry Talent to gain more of the Legacy Points!
 Medical Abandonment
 Give up 3 points of your heir's Medicine Talent to gain more of the Legacy Points!
 Toxic Art Abandonment
@@ -277,7 +277,7 @@ Give up 6 points of your heir's points of Painting Talent and get more of the Le
 Give up 6 points of your heir's artistry Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Appreciation points Talent and get more of the Legacy Points!
 Give up 6 points of your heir's Forging Talent to get more of the Legacy Points!
-Give up 6 points of your heir's wood making Talent to gain more of the Legacy Points!
+Give up 6 points of your heir's Carpentry Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's Medicine Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Toxicology Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's weaving Talent to gain more of the Legacy Points!
@@ -307,7 +307,7 @@ Give up 9 points of your heir's points of Painting Talent to get more of the liv
 Give up 9 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Appreciation points of Talent and get more of the Legacy Points!
 Give up 9 points of your heir's Forging Talent to gain more of the Legacy Points!
-Give up 9 points of your heir's wood making Talent to gain more of the Legacy Points!
+Give up 9 points of your heir's Carpentry Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Medicine Talent to get more of the Legacy Points!
 Give up 9 points of your heir's Toxicology Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's weaving Talent to gain more of the Legacy Points!
@@ -337,7 +337,7 @@ Give up 12 points of your heir's Painting Talent to get more of the Legacy Point
 Give up 12 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Appreciation Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Forging Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's wood making Talent to gain more of the living legacy!
+Give up 12 points of your heir's Carpentry Talent to gain more of the living legacy!
 Give up 12 points of your heir's Medicine Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Toxicology Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's weaving Talent to gain more of the Legacy Points!
@@ -367,7 +367,7 @@ Give up 15 points of your heir's Painting Talent to get more of the Legacy Point
 Give up 15 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Appreciation Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Forging Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's wood making Talent to gain more of the Legacy Points!
+Give up 15 points of your heir's Carpentry Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Medicine Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Toxicology Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's weaving Talent to gain more of the Legacy Points!
