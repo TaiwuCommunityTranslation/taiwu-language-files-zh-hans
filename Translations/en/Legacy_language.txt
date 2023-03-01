@@ -49,7 +49,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Music 
 Inspired by the game of chess
 Spend Legacy Points to stimulate your heir's potential and increase their Chess Talent by 3!
 Inspired by poetry and books
-Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Literature Talent by 3!
 Painting inspires
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 3!
 Art number stimulation
@@ -92,7 +92,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Ranged
 Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Chess Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Literature Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 6!
@@ -122,7 +122,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Ranged
 Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Chess Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Literature Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 9!
@@ -152,7 +152,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Ranged
 Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Chess Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Literature Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 12!
@@ -182,7 +182,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Ranged
 Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Chess Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Literature Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 15!
@@ -229,7 +229,7 @@ Give up 3 points of your heir's music Talent to get more of the Legacy Points!
 Game abandonment
 Give up 3 points of your heir's gaming points of Talent and get more of the Legacy Points!
 poetry and books abandoned
-Give up 3 points of your heir's poetic Talent and get more of the Legacy Points!
+Give up 3 points of your heir's Literature Talent and get more of the Legacy Points!
 Painting abandonment
 Give up 3 points of your heir's painting Talent and get more of the Legacy Points!
 Artistic discard
@@ -272,7 +272,7 @@ Give up 6 points of your heir's Ranged Weapons Talent to get more of the Legacy 
 Give up 6 points of your heir's points of Melodyal Talent to gain more of the living legacy!
 Give up 6 points of your heir's music Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's gaming points of Talent to get more of the Legacy Points!
-Give up 6 points of your heir's poetic Talent to get more of the Legacy Points!
+Give up 6 points of your heir's Literature Talent to get more of the Legacy Points!
 Give up 6 points of your heir's points of painting Talent and get more of the Legacy Points!
 Give up 6 points of your heir's artistry Talent to get more of the Legacy Points!
 Give up 6 points of your heir's tasting points Talent and get more of the Legacy Points!
@@ -302,7 +302,7 @@ Give up 9 points of your heir's imperial archery Talent to get more of the Legac
 Give up 9 points of your heir's points of Melody Talent to gain more of the living legacy!
 Give up 9 points of your heir's points of sonic Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's points of gaming Talent to gain more of the Legacy Points!
-Give up 9 points of your heir's poetic Talent to get more of the Legacy Points!
+Give up 9 points of your heir's Literature Talent to get more of the Legacy Points!
 Give up 9 points of your heir's points of painting Talent to get more of the living legacy!
 Give up 9 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's tasting points of Talent and get more of the Legacy Points!
@@ -332,7 +332,7 @@ Give up 12 points of your heir's imperial archery Talent to get more of the Lega
 Give up 12 points of your heir's Melody Talent to gain more of the living legacy!
 Give up 12 points of your heir's music Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's gaming Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's poetic Talent to gain more of the Legacy Points!
+Give up 12 points of your heir's Literature Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's painting Talent to get more of the Legacy Points!
 Give up 12 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's tasting Talent to gain more of the Legacy Points!
@@ -362,7 +362,7 @@ Give up 15 points of your heir's imperial archery Talent to gain more of the Leg
 Give up 15 points of your heir's Melody Talent to get more of the Legacy Points!
 Give up 15 points of your heir's sonic Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's gaming Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's poetic Talent to get more of the Legacy Points!
+Give up 15 points of your heir's Literature Talent to get more of the Legacy Points!
 Give up 15 points of your heir's painting Talent to get more of the Legacy Points!
 Give up 15 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's tasting Talent to gain more of the Legacy Points!
