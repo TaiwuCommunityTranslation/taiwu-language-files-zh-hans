@@ -25,7 +25,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Stunt 
 Fist and palm stimulation
 Spend Legacy Points to stimulate your heir's potential and increase their Fist Talent by 3!
 Fingerstyle stimulation
-Spend Legacy Points to stimulate your heir's potential and increase their Finger Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 3!
 Legwork stimulation
 Spend Legacy Points to stimulate your heir's potential and increase their kick Talent by 3!
 Concealed Weapon Activation
@@ -80,7 +80,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Inner 
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's Stunt by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their fist and palm Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their Finger Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their kick Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their concealed weapons Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their swordplay Talent by 6!
@@ -110,7 +110,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Inner 
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Fist Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their Finger Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their heir's Legacy Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their concealed weapons Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their swordplay Talent by 9!
@@ -140,7 +140,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Inner 
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Fist Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their Finger Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their kick Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their concealed weapons Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their swordplay Talent by 12!
@@ -170,7 +170,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Inner 
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's Stunt by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their fist and palm Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their Finger Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their kick Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their concealed weapons Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their swordplay Talent by 15!
@@ -205,7 +205,7 @@ Give up 3 points of your heir's stunt Talent to get more of the Legacy Points!
 Fist and Palm Abandonment
 Give up 3 points of your heir's fist and palm Talent to get more of the Legacy Points!
 Fingerprint abandonment
-Give up 3 points of your heir's Finger Talent to get more of the Legacy Points!
+Give up 3 points of your heir's fingering Talent to get more of the Legacy Points!
 Legwork abandonment
 Give up 3 points of your heir's legacy Talent to get more of the Legacy Points!
 Concealed weapon abandonment
@@ -260,7 +260,7 @@ Give up 6 points of your heir's Inner Arts Talent to gain more of the Legacy Poi
 Give up 6 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's stunt Talent to get more of the Legacy Points!
 Give up 6 points of your heir's fist and palm Talent to get more of the Legacy Points!
-Give up 6 points of your heir's Finger Talent to get more of the Legacy Points!
+Give up 6 points of your heir's fingering Talent to get more of the Legacy Points!
 Give up 6 points of your heir's kick Talent to get more of the Legacy Points!
 Give up 6 points of your heir's concealed weapons Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
@@ -290,7 +290,7 @@ Give up 9 points of your heir's Inner Arts Talent to gain more of the Legacy Poi
 Give up 9 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's stunt Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's fist and palm Talent to gain more of the Legacy Points!
-Give up your heir's 9-point Finger Talent to gain more of the Legacy Points!
+Give up your heir's 9-point fingering Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's kick Talent for more of the Legacy Points!
 Give up 9 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
@@ -320,7 +320,7 @@ Give up 12 points of your heir's Inner Arts Talent to gain more of the Legacy Po
 Give up 12 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's stunt Talent to get more of the Legacy Points!
 Give up 12 points of your heir's fist and palm Talent to gain more of the Legacy Points!
-Give up your heir's 12-point Finger Talent to gain more of the Legacy Points!
+Give up your heir's 12-point fingering Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's kick Talent for more of the Legacy Points!
 Give up 12 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
@@ -350,7 +350,7 @@ Give up 15 points of your heir's Inner Arts Talent to gain more of the Legacy Po
 Give up 15 points of your heir's Footwork Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Stunt Talent to get more of the Legacy Points!
 Give up 15 points of your heir's fist and palm Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's Finger Talent to get more of the Legacy Points!
+Give up 15 points of your heir's fingering Talent to get more of the Legacy Points!
 Give up 15 points of your heir's legacy Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
