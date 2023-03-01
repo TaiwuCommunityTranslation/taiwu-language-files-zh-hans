@@ -21,9 +21,9 @@ Spend Legacy Points to stimulate your heir's potential and increase their Inner 
 Stance Activation
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 3!
 Stunting
-Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 3!
 Fist and palm stimulation
-Spend Legacy Points to stimulate your heir's potential and increase their Fist Palm Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Fist Talent by 3!
 Fingerstyle stimulation
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 3!
 Legwork stimulation
@@ -53,7 +53,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their poetic
 Painting inspires
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 3!
 Art number stimulation
-Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 3!
 Tasting stimulation
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 3!
 Forging excitement
@@ -78,7 +78,7 @@ Miscellaneous studies to stimulate
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 3!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's jutsu by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's Stunt by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their fist and palm Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their kick Talent by 6!
@@ -94,7 +94,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their tonal 
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their wood making Talent by 6!
@@ -108,8 +108,8 @@ Spend Legacy Points to stimulate your heir's potential and increase their culina
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their Fist Palm Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Fist Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their heir's Legacy Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their concealed weapons Talent by 9!
@@ -124,7 +124,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their tonal 
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their wood making Talent by 9!
@@ -138,8 +138,8 @@ Spend Legacy Points to stimulate your heir's potential and increase their culina
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their Fist Palm Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Fist Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their kick Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their concealed weapons Talent by 12!
@@ -154,7 +154,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their tonal 
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their wood-making Talent by 12!
@@ -168,7 +168,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their culina
 Spend Legacy Points to stimulate your heir's potential and increase their lore Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Inner Arts Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Footwork Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's jutsu by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their to increase the Talent of your heir's Stunt by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their fist and palm Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their fingering Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their kick Talent by 15!
@@ -184,7 +184,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their tonal 
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their jutsu Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their tasting Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their wood-making Talent by 15!
@@ -233,7 +233,7 @@ Give up 3 points of your heir's poetic Talent and get more of the Legacy Points!
 Painting abandonment
 Give up 3 points of your heir's painting Talent and get more of the Legacy Points!
 Artistic discard
-Give up 3 points of your heir's jutsu Talent to gain more of the Legacy Points!
+Give up 3 points of your heir's Stunt Talent to gain more of the Legacy Points!
 Tasting discard
 Give up your heirloom's 3 tasting points Talent and get more of the Legacy Points!
 Forging abandonment
@@ -348,7 +348,7 @@ Give up 12 points of your heir's culinary Talent to get more of the Legacy Point
 Give up 12 points of your heir's lore Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Inner Arts Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Footwork Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's jutsu Talent to get more of the Legacy Points!
+Give up 15 points of your heir's Stunt Talent to get more of the Legacy Points!
 Give up 15 points of your heir's fist and palm Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's fingering Talent to get more of the Legacy Points!
 Give up 15 points of your heir's legacy Talent to gain more of the Legacy Points!
