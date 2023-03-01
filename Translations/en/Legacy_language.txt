@@ -57,7 +57,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Astrol
 Tasting stimulation
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 3!
 Forging excitement
-Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 3!
 Making wood to inspire
 Spend Legacy Points to stimulate your heir's potential and increase their wood-making Talent by 3!
 Medical stimulation
@@ -96,7 +96,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Litera
 Spend Legacy Points to stimulate your heir's potential and increase their Painting Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their wood making Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their medical Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their poison Talent by 6!
@@ -126,7 +126,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Litera
 Spend Legacy Points to stimulate your heir's potential and increase their Painting Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their wood making Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their medical Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their poison Talent by 9!
@@ -156,7 +156,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Litera
 Spend Legacy Points to stimulate your heir's potential and increase their Painting Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their wood-making Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their medical Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their poison Talent by 12!
@@ -186,7 +186,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Litera
 Spend Legacy Points to stimulate your heir's potential and increase their Painting Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their forging Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their wood-making Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their medical Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their poison Talent by 15!
@@ -237,7 +237,7 @@ Give up 3 points of your heir's Stunt Talent to gain more of the Legacy Points!
 Tasting discard
 Give up your heirloom's 3 Appreciation points Talent and get more of the Legacy Points!
 Forging abandonment
-Give up 3 points of your heir's forging Talent to get more of the Legacy Points!
+Give up 3 points of your heir's Forging Talent to get more of the Legacy Points!
 Making wood and abandoning the house
 Give up 3 points of your heir's wood making Talent to gain more of the Legacy Points!
 Medical Abandonment
@@ -276,7 +276,7 @@ Give up 6 points of your heir's Literature Talent to get more of the Legacy Poin
 Give up 6 points of your heir's points of Painting Talent and get more of the Legacy Points!
 Give up 6 points of your heir's artistry Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Appreciation points Talent and get more of the Legacy Points!
-Give up 6 points of your heir's forging Talent to get more of the Legacy Points!
+Give up 6 points of your heir's Forging Talent to get more of the Legacy Points!
 Give up 6 points of your heir's wood making Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's medical Talent to get more of the Legacy Points!
 Give up 6 points of your heir's poison Talent to gain more of the Legacy Points!
@@ -306,7 +306,7 @@ Give up 9 points of your heir's Literature Talent to get more of the Legacy Poin
 Give up 9 points of your heir's points of Painting Talent to get more of the living legacy!
 Give up 9 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Appreciation points of Talent and get more of the Legacy Points!
-Give up 9 points of your heir's forging Talent to gain more of the Legacy Points!
+Give up 9 points of your heir's Forging Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's wood making Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's medical Talent to get more of the Legacy Points!
 Give up 9 points of your heir's poison Talent to gain more of the Legacy Points!
@@ -336,7 +336,7 @@ Give up 12 points of your heir's Literature Talent to gain more of the Legacy Po
 Give up 12 points of your heir's Painting Talent to get more of the Legacy Points!
 Give up 12 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Appreciation Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's forging Talent to gain more of the Legacy Points!
+Give up 12 points of your heir's Forging Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's wood making Talent to gain more of the living legacy!
 Give up 12 points of your heir's medical Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's poison Talent to gain more of the Legacy Points!
@@ -366,7 +366,7 @@ Give up 15 points of your heir's Literature Talent to get more of the Legacy Poi
 Give up 15 points of your heir's Painting Talent to get more of the Legacy Points!
 Give up 15 points of your heir's artistry Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Appreciation Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's forging Talent to gain more of the Legacy Points!
+Give up 15 points of your heir's Forging Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's wood making Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's medical Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's poison Talent to gain more of the Legacy Points!
