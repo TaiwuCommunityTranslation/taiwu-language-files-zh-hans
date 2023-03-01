@@ -59,7 +59,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Apprec
 Forging excitement
 Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 3!
 Making wood to inspire
-Spend Legacy Points to stimulate your heir's potential and increase their wood-making Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Carpentry Talent by 3!
 Medical stimulation
 Spend Legacy Points to stimulate your heir's potential and increase their medical Talent by 3!
 Toxic stimulation
@@ -157,7 +157,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Painti
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their wood-making Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Carpentry Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their medical Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their poison Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their brocade weaving Talent by 12!
@@ -187,7 +187,7 @@ Spend Legacy Points to stimulate your heir's potential and increase their Painti
 Spend Legacy Points to stimulate your heir's potential and increase their Stunt Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Appreciation Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Forging Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their wood-making Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Carpentry Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their medical Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their poison Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their brocade weaving Talent by 15!
