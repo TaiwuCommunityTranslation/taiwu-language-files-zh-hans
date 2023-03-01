@@ -43,9 +43,9 @@ Spend Legacy Points to stimulate your heir's potential and increase their Soft W
 Inspired by imperial shooting
 Spend Legacy Points to stimulate your heir's potential and increase their Ranged Weapons Talent by 3!
 Instrumental stimulation
-Spend Legacy Points to stimulate your heir's potential and increase their instrument Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 3!
 Tonal stimulation
-Spend Legacy Points to stimulate your heir's potential and increase their tonal Talent by 3!
+Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 3!
 Inspired by the game of chess
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 3!
 Inspired by poetry and books
@@ -89,8 +89,8 @@ Spend Legacy Points to stimulate your heir's potential and increase their Polear
 Spend Legacy Points to stimulate your heir's potential and increase their Exotic Weapons Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Soft Weapons Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their Ranged Weapons Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their instrument Talent by 6!
-Spend Legacy Points to stimulate your heir's potential and increase their tonal Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 6!
+Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 6!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 6!
@@ -119,8 +119,8 @@ Spend Legacy Points to stimulate your heir's potential and increase their Polear
 Spend Legacy Points to stimulate your heir's potential and increase their Exotic Weapons Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Soft Weapons Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their Ranged Weapons Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their instrument Talent by 9!
-Spend Legacy Points to stimulate your heir's potential and increase their tonal Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 9!
+Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 9!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 9!
@@ -149,8 +149,8 @@ Spend Legacy Points to stimulate your heir's potential and increase their Polear
 Spend Legacy Points to stimulate your heir's potential and increase their Exotic Weapons Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Soft Weapons Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their Ranged Weapons Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their instrument Talent by 12!
-Spend Legacy Points to stimulate your heir's potential and increase their tonal Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 12!
+Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 12!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 12!
@@ -179,8 +179,8 @@ Spend Legacy Points to stimulate your heir's potential and increase their Polear
 Spend Legacy Points to stimulate your heir's potential and increase their Exotic Weapons Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Soft Weapons Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their Ranged Weapons Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their instrument Talent by 15!
-Spend Legacy Points to stimulate your heir's potential and increase their tonal Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Melody Talent by 15!
+Spend Legacy Points to stimulate your heir's potential and increase their Music Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their chess Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their poetic Talent by 15!
 Spend Legacy Points to stimulate your heir's potential and increase their painting Talent by 15!
@@ -223,7 +223,7 @@ Give up 3 points of your heir's soft soldier Talent to get more of the Legacy Po
 Imperial Shooting Abandonment
 Give up 3 points of your heir's imperial archery Talent to get more of the Legacy Points!
 Instrument abandonment
-Give up 3 points of your heir's instrumental Talent to get more of the living legacy!
+Give up 3 points of your heir's Melodyal Talent to get more of the living legacy!
 Sound Abandonment
 Give up 3 points of your heir's music Talent to get more of the Legacy Points!
 Game abandonment
@@ -269,7 +269,7 @@ Give up 6 points of your heir's Polearm Talent to gain more of the Living Legacy
 Give up your heir's 6 odd points of Talent to get more of the Legacy Points!
 Give up 6 points of your heir's soft soldier Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Ranged Weapons Talent to get more of the Legacy Points!
-Give up 6 points of your heir's points of instrumental Talent to gain more of the living legacy!
+Give up 6 points of your heir's points of Melodyal Talent to gain more of the living legacy!
 Give up 6 points of your heir's music Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's gaming points of Talent to get more of the Legacy Points!
 Give up 6 points of your heir's poetic Talent to get more of the Legacy Points!
@@ -299,7 +299,7 @@ Give up 9 points of your heir's Polearm Talent to gain more of the Living Legacy
 Give up your heir's 9 odd points of Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's points of soft soldier Talent to get more of the Legacy Points!
 Give up 9 points of your heir's imperial archery Talent to get more of the Legacy Points!
-Give up 9 points of your heir's points of instrument Talent to gain more of the living legacy!
+Give up 9 points of your heir's points of Melody Talent to gain more of the living legacy!
 Give up 9 points of your heir's points of sonic Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's points of gaming Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's poetic Talent to get more of the Legacy Points!
@@ -329,7 +329,7 @@ Give up 12 points of your heir's Polearm Talent to gain more of the Living Legac
 Give up your heir's 12 odd points of Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's soft soldier Talent to get more of the Legacy Points!
 Give up 12 points of your heir's imperial archery Talent to get more of the Legacy Points!
-Give up 12 points of your heir's instrument Talent to gain more of the living legacy!
+Give up 12 points of your heir's Melody Talent to gain more of the living legacy!
 Give up 12 points of your heir's music Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's gaming Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's poetic Talent to gain more of the Legacy Points!
@@ -359,7 +359,7 @@ Give up 15 points of your heir's long-armed Talent to gain more of the Legacy Po
 Give up your heir's 15 odd points of Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's soft soldier Talent to get more of the Legacy Points!
 Give up 15 points of your heir's imperial archery Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's instrument Talent to get more of the Legacy Points!
+Give up 15 points of your heir's Melody Talent to get more of the Legacy Points!
 Give up 15 points of your heir's sonic Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's gaming Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's poetic Talent to get more of the Legacy Points!
