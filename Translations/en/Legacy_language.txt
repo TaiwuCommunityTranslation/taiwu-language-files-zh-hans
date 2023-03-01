@@ -297,15 +297,15 @@ Give up your heir's 9 points of swordsmanship qualification to gain more of the 
 Give up your heir's 9 points of swordsmanship qualification to gain more of the Legacy Points!
 Give up your heir's 9 points of Polearm talent to gain more of the Living Legacy!
 Give up your heir's 9 odd points of qualification to gain more of the Legacy Points!
-Give up your heirloom's 9 points of soft soldier qualification to get more of the Legacy Points!
+Give up 9 points of your heir's points of soft soldier qualification to get more of the Legacy Points!
 Give up your heir's 9 points of imperial archery qualification to get more of the Legacy Points!
-Give up your heirloom's 9 points of instrument qualification to gain more of the living legacy!
-Give up your heirloom's 9 points of sonic qualification to gain more of the Legacy Points!
-Give up your heirloom's 9 points of gaming credentials to gain more of the Legacy Points!
+Give up 9 points of your heir's points of instrument qualification to gain more of the living legacy!
+Give up 9 points of your heir's points of sonic qualification to gain more of the Legacy Points!
+Give up 9 points of your heir's points of gaming credentials to gain more of the Legacy Points!
 Give up your heir's 9 points of poetic qualification to get more of the Legacy Points!
-Give up your heirloom's 9 points of painting qualification to get more of the living legacy!
+Give up 9 points of your heir's points of painting qualification to get more of the living legacy!
 Give up your heir's 9 points of artistry qualification to gain more of the Legacy Points!
-Give up your heirloom's 9 tasting points of qualification and get more of the Legacy Points!
+Give up 9 points of your heir's tasting points of qualification and get more of the Legacy Points!
 Give up your heir's 9 points of forging qualification to gain more of the Legacy Points!
 Give up your heir's 9 points of wood making qualification to gain more of the Legacy Points!
 Give up your heir's 9 points of medical qualification to get more of the Legacy Points!
@@ -314,7 +314,7 @@ Give up 9 points of your heir's weaving qualification to gain more of the Legacy
 Give up your heir's 9 points of skillful craftsmanship qualification to gain more of the Legacy Points!
 Give up your heir's 9 points of Daoist qualification to gain more of the Legacy Points!
 Give up your heir's 9 points of Buddhist credentials to gain more of the Legacy Points!
-Give up your heirloom's 9 points of culinary credentials to get more of the living legacy!
+Give up 9 points of your heir's points of culinary credentials to get more of the living legacy!
 Give up your heir's 9 points of lore qualifications to get more of the Legacy Points!
 Give up your heir's 12 points of Inner Arts Talent to gain more of the Legacy Points!
 Give up your heir's 12 points of footwork talent to gain more of the Legacy Points!
@@ -431,11 +431,11 @@ Give up 6 points of your heir's root ability to gain more of the Legacy Points!
 Give up 6 points of your heir's enlightenment ability to gain more of the legacy of birth!
 Give up 6 points of your heir's fixed power ability and get more of the legacy of birth!
 Give up your heir's 9 points of brawn ability to gain more of the Legacy Points!
-Give up your heirloom's 9 points of sensitive ability to gain more of the Legacy Points!
+Give up 9 points of your heir's points of sensitive ability to gain more of the Legacy Points!
 Give up your heir's 9 points of physical ability to gain more of the Legacy Points!
-Give up your heirloom's 9-point root ability to gain more of the Legacy Points!
+Give up 9 points of your heir's-point root ability to gain more of the Legacy Points!
 Give up your heir's 9 points of enlightenment ability to gain more of the legacy of birth!
-Give up your heirloom's 9 points of fixed power ability to gain more of the legacy of birth!
+Give up 9 points of your heir's points of fixed power ability to gain more of the legacy of birth!
 Give up your heir's 12 points of brawn ability for more of the Legacy Points!
 Give up your heirloom's 12 points of sensitive ability to gain more of the Legacy Points!
 Give up your heir's 12 points of physical ability to gain more of the Legacy Points!
@@ -472,7 +472,7 @@ Lifespan Abandonment
 Give up 3 years of your heir's life to get more of the Legacy Points!
 Give up 60 points of your heir's charisma to get more of the Legacy Points!
 Give up 6 years of your heir's life to get more of the Legacy Points!
-Give up your heirloom's 90 points of charisma and get more of the Legacy Points!
+Give up 9 points of your heir's0 points of charisma and get more of the Legacy Points!
 Give up 9 years of your heir's life to get more of the Legacy Points!
 Give up 120 points of charisma for your heirloom and get more of the Legacy Points!
 Give up 12 years of your heir's life to gain more of the Legacy Points!
