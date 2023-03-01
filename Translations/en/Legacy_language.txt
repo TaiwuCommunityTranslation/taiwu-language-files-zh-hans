@@ -213,7 +213,7 @@ Give up 3 points of your heir's Hidden Weapons Talent to gain more of the Legacy
 Swordsmanship Abandonment
 Give up 3 points of your heir's Sword Talent to gain more of the Legacy Points!
 Renunciation of knife techniques
-Give up 3 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
+Give up 3 points of your heir's Blade Talent to gain more of the Legacy Points!
 Polearm Abandonment
 Give up 3 points of your heir's Polearm Talent to gain more of the Living Legacy!
 Qi Men Abandonment
@@ -264,7 +264,7 @@ Give up 6 points of your heir's Finger Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Kick Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Hidden Weapons Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's Sword Talent to gain more of the Legacy Points!
-Give up 6 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
+Give up 6 points of your heir's Blade Talent to gain more of the Legacy Points!
 Give up 6 points of your heir's Polearm Talent to gain more of the Living Legacy!
 Give up your heir's 6 Exotic Weapons Talent to get more of the Legacy Points!
 Give up 6 points of your heir's Soft Weapons Talent to get more of the Legacy Points!
@@ -294,7 +294,7 @@ Give up your heir's 9-point Finger Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Kick Talent for more of the Legacy Points!
 Give up 9 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Sword Talent to gain more of the Legacy Points!
-Give up 9 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
+Give up 9 points of your heir's Blade Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's Polearm Talent to gain more of the Living Legacy!
 Give up your heir's 9 Exotic Weapons Talent to gain more of the Legacy Points!
 Give up 9 points of your heir's points of Soft Weapons Talent to get more of the Legacy Points!
@@ -324,7 +324,7 @@ Give up your heir's 12-point Finger Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Kick Talent for more of the Legacy Points!
 Give up 12 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Sword Talent to gain more of the Legacy Points!
-Give up 12 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
+Give up 12 points of your heir's Blade Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Polearm Talent to gain more of the Living Legacy!
 Give up your heir's 12 Exotic Weapons Talent to gain more of the Legacy Points!
 Give up 12 points of your heir's Soft Weapons Talent to get more of the Legacy Points!
@@ -354,7 +354,7 @@ Give up 15 points of your heir's Finger Talent to get more of the Legacy Points!
 Give up 15 points of your heir's legacy Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's concealed weapon Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Sword Talent to gain more of the Legacy Points!
-Give up 15 points of your heir's swordsmanship Talent to gain more of the Legacy Points!
+Give up 15 points of your heir's Blade Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's long-armed Talent to gain more of the Legacy Points!
 Give up your heir's 15 Exotic Weapons Talent to gain more of the Legacy Points!
 Give up 15 points of your heir's Soft Weapons Talent to get more of the Legacy Points!
