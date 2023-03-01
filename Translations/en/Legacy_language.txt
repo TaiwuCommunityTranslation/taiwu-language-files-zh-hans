@@ -449,7 +449,7 @@ Give up 15 points of your heir's root ability to gain more of the Legacy Points!
 Give up your heir's 15 points of enlightenment ability to gain more of the Legacy Points!
 Give up your heir's 15 points of fixed power ability to gain more of the Legacy Points!
 Glamour inspires
-Spend a living legacy to make your heir glow and increase their charisma by 30!
+Spend a Legacy Points to make your heir glow and increase their charisma by 30!
 Lifetime excitation
 Spend Legacy Points to extend the life of your heirs by 3 years!
 Spend the Legacy Points to make your heir glow and increase their charisma by 60!
@@ -460,7 +460,7 @@ Spend the Legacy Points to make your heir glow and increase your charisma by 120
 Spend Legacy Points to extend the life of your heirs by 12 years!
 Spend the Legacy Points to make your heir glow and increase charisma by 150!
 Spend Legacy Points to extend the life of your heirs by 15 years!
-Spend a living legacy to make your heir glow and increase charisma by 200!
+Spend a Legacy Points to make your heir glow and increase charisma by 200!
 Spend Legacy Points to extend the life of your heirs by 20 years!
 Spend Legacy Points to make your heir face new and increase your charm by 250!
 Spend Legacy Points to extend the life of your heirs by 25 years!
@@ -986,7 +986,7 @@ Spend Legacy Points, immediately obtain the sect support of some of the middle-r
 Spend Legacy Points, immediately obtain the sect support of some of the middle-ranking disciples of the Blood Hollow Sect!
 Spend the Legacy Points to immediately obtain the sect support of some of the high-ranking figures of the Shaolin sect!
 Spend the Legacy Points and get immediate sect support from some of the high ranking figures in the Emei sect!
-Spend a living legacy to immediately gain the sect support of some of the high-ranking figures in the Hundred Flowers Valley!
+Spend a Legacy Points to immediately gain the sect support of some of the high-ranking figures in the Hundred Flowers Valley!
 Spend the Legacy Points and immediately obtain the sect support of some high-ranking figures of Wudang Sect!
 Spend Legacy Points to immediately gain sect support from some of the high-ranking figures in the Yuanshan School!
 Spend the Legacy Points to immediately obtain the sect support of some high-ranking figures of the Lion Phase Sect!
