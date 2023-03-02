@@ -536,9 +536,9 @@ Spend Legacy Points to give your heir the "Immortal Bone" trait!
 Qi fails to enter the Marrow
 How do you know that you have lost a horse? Make your heirs acquire the trait of "Qi does not enter the bone", and at the same time acquire more Legacy Points!
 Obstruction of Seven Orifices
-How do you know that you have lost a horse? Make your heirs obtain the "seven obscure traits", and at the same time obtain more Legacy Points!
+How do you know that you have lost a horse? Make your heirs obtain the "seven obscure trait", and at the same time obtain more Legacy Points!
 Qi Turbid as a Dog
-How do you know that you are not blessed? Make your heirs acquire the traits of "dusty dogs" and at the same time gain more Legacy Points!
+How do you know that you are not blessed? Make your heirs acquire the trait of "dusty dogs" and at the same time gain more Legacy Points!
 Shrewd
 Spend Legacy Points to give your heirs the "quick thinking" trait!
 Sagacious
@@ -570,7 +570,7 @@ Spend Legacy Points to make your heirs acquire the "unparalleled talent" trait!
 Harmony of Original Qi
 Spend Legacy Points to enable your heir to acquire the "Heavenly Energy" trait!
 Impure Root
-How do you know that you are not blessed when you lose a horse? Make your heirs acquire the traits of "mustard root" and at the same time acquire more of the Legacy Points!
+How do you know that you are not blessed when you lose a horse? Make your heirs acquire the trait of "mustard root" and at the same time acquire more of the Legacy Points!
 Misshapen limbs
 What a blessing it is to lose a horse! Make your heirs acquire the "four body aberrations" trait and at the same time gain more Legacy Points!
 Collapsing Internal Universe
@@ -584,7 +584,7 @@ Spend Legacy Points to give your heirs "extraordinary" traits!
 Fickle and Inconstant
 How do you know what you're getting into when you lose a horse? Give your heir the "unpredictable" trait and gain more of Legacy Points!
 Sarcastic and Annoying
-How do you know when you've lost a horse? Make your heirs acquire "caustic" traits while gaining more of the Legacy Points!
+How do you know when you've lost a horse? Make your heirs acquire "caustic" trait while gaining more of the Legacy Points!
 Arrogant and Cruel
 What a blessing it is to lose a horse! Give your heir the "arrogant and perverse" trait, and at the same time gain more of the Legacy Points!
 Illuminated by Lucky Star
@@ -656,7 +656,7 @@ Spend Legacy Points to give your heir the "Clothed in Light" trait!
 Disharmony of Fire and Water
 How do you know that you've lost a horse? Give your heirs the "fire and water" trait and more of the Legacy Points!
 Mutual Restraint of Five Qi
-How do you know that you have lost a horse? Make your heirs acquire the "five qi" traits and gain more Legacy Points!
+How do you know that you have lost a horse? Make your heirs acquire the "five qi" trait and gain more Legacy Points!
 Crumbling Source
 How do you know it's a blessing when you lose a horse? Make your heir gain the "true essence collapse" trait, and gain more Legacy Points!
 Peaceful Mind
@@ -670,7 +670,7 @@ How do you know when you lose a horse? Make your heirs acquire the trait of "imp
 Anxiety Causing Qi Stagnation
 What a blessing it is to lose a horse! Make your heirs acquire the trait of "melancholy and depression", and at the same time acquire more of the Legacy Points!
 Sanjiao Converse
-How do you know that you have lost a horse? Make your heir acquire the "three jiao rebellious" traits and gain more Legacy Points!
+How do you know that you have lost a horse? Make your heir acquire the "three jiao rebellious" trait and gain more Legacy Points!
 Calm and Silent
 Spend Legacy Points to give your heirs the "silent" trait!
 Unaffected by Dilemma
@@ -706,7 +706,7 @@ What's the difference? Give your heir the "unresponsiveness" trait, and gain mor
 Confuses Left with Right
 How do you know that you are not blessed when you lose a horse? Give your heirs the "left and right" trait and more of the Legacy Points!
 Discord of Mind and Body
-How do you know that you are not blessed when you lose a horse? Make your heirs acquire the traits of "physical and mental inconsistency", and at the same time acquire more of the Legacy Points!
+How do you know that you are not blessed when you lose a horse? Make your heirs acquire the trait of "physical and mental inconsistency", and at the same time acquire more of the Legacy Points!
 Adventurous
 Spend Legacy Points to give your heirs the "guts over body" trait!
 Dauntless
@@ -726,7 +726,7 @@ Spend Legacy Points so that your heirs can acquire the trait of "calmness and ch
 Master of Strategy
 Spend Legacy Points so that your heirs can acquire the traits of the "Ultimate Essentials"!
 Frank but Dull
-How do you know that you are not blessed when you lose a horse? Make your heirs acquire the traits of "Mnemosyne" and at the same time gain more of the Legacy Points!
+How do you know that you are not blessed when you lose a horse? Make your heirs acquire the trait of "Mnemosyne" and at the same time gain more of the Legacy Points!
 Incautious and Impetuous
 How do you know what you're doing? Give your heirs the "recklessness" trait and more of the Legacy Points!
 Reckless as a Tiger
@@ -752,7 +752,7 @@ Spend Legacy Points to give your heir the "Evil Ghost Rakshasa" trait!
 Tenderhearted
 How do you know that you are not blessed when you lose a horse? Make your heirs acquire the "soft heart and soft face" trait, and at the same time gain more Legacy Points!
 Merciful to Enemies
-How do you know that a lost horse is not a blessing? Make your heirs acquire the traits of "Song Xiang's benevolence", and at the same time gain more of the Legacy Points!
+How do you know that a lost horse is not a blessing? Make your heirs acquire the trait of "Song Xiang's benevolence", and at the same time gain more of the Legacy Points!
 Sympethetic to Flowers
 How do you know that you are not blessed when you lose a horse? Make your heirs acquire the trait of "compassion for flowers and grasses", and at the same time acquire more Legacy Points!
 Might Pulse
