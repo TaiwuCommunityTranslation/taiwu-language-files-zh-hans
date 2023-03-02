@@ -494,9 +494,9 @@ Spend Legacy Points to stimulate your heir's potential and increase their maximu
 Spend Legacy Points to stimulate your heir's potential and increase their maximum Internal Energy by 420!
 Spend Legacy Points to stimulate your heir's potential and increase their maximum Internal Energy by 480!
 Robust as a beast
-Spend Legacy Points to give your heir the "Bull and Tiger" feature!
+Spend Legacy Points to give your heir the "Bull and Tiger" trait!
 Mountainous Strength
-Spend Legacy Points to give your heir the "mountain-breaking" feature!
+Spend Legacy Points to give your heir the "mountain-breaking" trait!
 Weak and Feeble
 What a blessing it is to lose a horse! Make your heirs acquire the "weakness" characteristic, and at the same time gain more Legacy Points!
 Extremely Feeble
@@ -506,7 +506,7 @@ How do you know what you're doing? Give your heirs the "strength of an ant" char
 Physically Healthy
 Spend Legacy Points to give your heirs the "strong and healthy" characteristic!
 Vigorous as a Horse
-Spend Legacy Points to give your heir the "Dragon God and Horse Strength" feature!
+Spend Legacy Points to give your heir the "Dragon God and Horse Strength" trait!
 Godlike Constitution
 Spend Legacy Points to give your heir the "Celestial Bone and Blood" characteristic!
 Thin as a willow
@@ -520,7 +520,7 @@ Spend Legacy Points to give your heirs the "hearing and seeing" characteristic!
 As Swiftness as Running Water
 Spend Legacy Points so that your heirs can acquire the characteristic of "cutting like a stream"!
 Traceless
-Spend Legacy Points to give your heir the "change without trace" feature!
+Spend Legacy Points to give your heir the "change without trace" trait!
 Awkward Limbs
 How do you know that you've lost a horse? Give your heir the "brute hand and brute foot" trait, and gain more of the Legacy Points!
 Clumsy and Inarticular
@@ -532,7 +532,7 @@ Spend Legacy Points to give your heir the "skeleton" characteristic!
 Spiritual Pure Essence
 Spend Legacy Points to make your heirs acquire the characteristics of "Form and Spirit"!
 Immortal Vitality
-Spend Legacy Points to give your heir the "Immortal Bone" feature!
+Spend Legacy Points to give your heir the "Immortal Bone" trait!
 Qi fails to enter the Marrow
 How do you know that you have lost a horse? Make your heirs acquire the characteristic of "Qi does not enter the bone", and at the same time acquire more Legacy Points!
 Obstruction of Seven Orifices
@@ -544,7 +544,7 @@ Spend Legacy Points to give your heirs the "quick thinking" trait!
 Sagacious
 Spend Legacy Points to give your heirs the "Spiritual Heart and Wisdom" trait!
 Unrivalled Wisdom
-Spend Legacy Points to give your heir the "Wisdom of the World" feature!
+Spend Legacy Points to give your heir the "Wisdom of the World" trait!
 Silliy Mind
 How do you know you've lost a horse? Give your heirs the "silly head" trait and more of the Legacy Points!
 Idiotic as a chicken
@@ -614,7 +614,7 @@ What a blessing it is to lose a horse! Make your heir acquire the "soft body" ch
 Harmony of Six Meridians
 Spend Legacy Points to give your heirs the "Six Chakra Harmony" characteristic!
 Everlasting Circulation of Qi
-Spend Legacy Points to give your heirs the "endlessness" feature!
+Spend Legacy Points to give your heirs the "endlessness" trait!
 Unity of the Individual and Universe
 Spend Legacy Points so that your heirs can acquire the "celestial" characteristics!
 Blockage of Meridians
@@ -652,7 +652,7 @@ Spend Legacy Points to give your heirs the "triple convergence" characteristic!
 Congenital Abundance of Qi
 Spend Legacy Points to give your heirs the "innate gas" characteristic!
 Shone by Marvellous Light
-Spend Legacy Points to give your heir the "Clothed in Light" feature!
+Spend Legacy Points to give your heir the "Clothed in Light" trait!
 Disharmony of Fire and Water
 How do you know that you've lost a horse? Give your heirs the "fire and water" characteristic and more of the Legacy Points!
 Mutual Restraint of Five Qi
@@ -664,7 +664,7 @@ Spend Legacy Points to give your heirs the "free spirit" characteristic!
 Unity of Qi and Mind
 Spend Legacy Points to make your heirs acquire the "Godly Fusion" characteristic!
 Unobstructive Eight Meridians
-Spend Legacy Points to give your heir the "Eight Veins of Heaven" feature!
+Spend Legacy Points to give your heir the "Eight Veins of Heaven" trait!
 Irritable
 How do you know when you lose a horse? Make your heirs acquire the characteristic of "impatience" and at the same time acquire more of the Legacy Points!
 Anxiety Causing Qi Stagnation
@@ -688,7 +688,7 @@ Spend Legacy Points to give your heirs the "thoughtfulness" trait!
 Insightful
 Spend Legacy Points to give your heirs the "insightful" characteristic!
 Piecing Eyes
-Spend Legacy Points to give your heirs the "FireEye" feature!
+Spend Legacy Points to give your heirs the "FireEye" trait!
 Hesitant
 How do you know that you are not blessed when you lose a horse? Give your heirs the characteristic of "hesitancy and indecision" and at the same time gain more of the Legacy Points!
 Paranoid
@@ -696,11 +696,11 @@ How do you know that you've lost a horse? Give your heir the "one step, one ghos
 Upside Down Dressed
 How do you know that you have lost a horse? Make your heirs acquire the "upside-down garment" characteristic, and at the same time gain more Legacy Points!
 Faster than the eyes can track
-Spend Legacy Points to give your heir the "quick eye" feature!
+Spend Legacy Points to give your heir the "quick eye" trait!
 Whisper from Wind
-Spend Legacy Points to give your heirs the "Hear the wind and know the place" feature!
+Spend Legacy Points to give your heirs the "Hear the wind and know the place" trait!
 Elusive as Shadow
-Spend Legacy Points to give your heir the "shadow hiding" feature!
+Spend Legacy Points to give your heir the "shadow hiding" trait!
 Slow Reaction Time
 What's the difference? Give your heir the "unresponsiveness" trait, and gain more of the Legacy Points!
 Confuses Left with Right
@@ -732,11 +732,11 @@ How do you know what you're doing? Give your heirs the "recklessness" trait and 
 Reckless as a Tiger
 How do you know that you've lost a horse? Give your heir the "Fenghe Tyrant Tiger" feature and more of the Legacy Points!
 Move as a Running Rabit
-Spend Legacy Points to give your heir the "move like a rabbit" feature!
+Spend Legacy Points to give your heir the "move like a rabbit" trait!
 Move in a Flash
-Spend Legacy Points to give your heir the "Lightning" feature!
+Spend Legacy Points to give your heir the "Lightning" trait!
 Swiftness as Immortals
-Spend Legacy Points to give your heir the "Runaway" feature!
+Spend Legacy Points to give your heir the "Runaway" trait!
 Indolent
 What a blessing it is to lose a horse! Make your heirs acquire the "lazy and sluggish" characteristic, and at the same time gain more Legacy Points!
 Extremely Indolent
@@ -772,7 +772,7 @@ Spend Legacy Points to give your heirs the "All Five Elements" trait!
 Supreme Harmony of Qi
 Spend Legacy Points to give your heir the "Taihe Aura" characteristic!
 Unity of Nadis
-Spend Legacy Points to enable your heir to obtain the "mixed elemental magic" feature!
+Spend Legacy Points to enable your heir to obtain the "mixed elemental magic" trait!
 Disorder of Spirit
 How do you know that you have lost a horse? Make your heirs acquire the "mind diffusion" characteristic, and at the same time acquire more Legacy Points!
 Obstruction of Life Gate
@@ -780,9 +780,9 @@ How do you know that you have lost a horse? Make your heirs acquire the "unopene
 Iron Embryo
 How do you know that you have lost a horse? Give your heir the "Iron Tire" characteristic and more of Legacy Points!
 Flying Pace
-Spend Legacy Points to give your heirs the "Fit as a fiddle" feature!
+Spend Legacy Points to give your heirs the "Fit as a fiddle" trait!
 Mighty Stride
-Spend Legacy Points to give your heirs the "high view" feature!
+Spend Legacy Points to give your heirs the "high view" trait!
 Leap as a Dragon
 Spend Legacy Points to make your heir acquire the "Dragon" characteristic!
 Tottering
@@ -794,9 +794,9 @@ How do you know that you've lost a horse? Give your heir the "snail's pace" feat
 Distinctive Constitution
 Spend Legacy Points to give your heirs the "physiognomy" trait!
 Jade Bone and Clear Heart
-Spend Legacy Points to give your heir the "Ice Heart and Jade Bone" feature!
+Spend Legacy Points to give your heir the "Ice Heart and Jade Bone" trait!
 Immune to Toxins
-Spend Legacy Points to give your heirs the "invulnerability" feature!
+Spend Legacy Points to give your heirs the "invulnerability" trait!
 Invaded by Evil Qi
 How do you know that you have lost a horse? Make your heir gain the "evil quality into the body" characteristic, and at the same time gain more Legacy Points!
 Chaos of Qi and Blood
