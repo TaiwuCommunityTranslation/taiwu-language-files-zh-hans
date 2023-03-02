@@ -510,7 +510,7 @@ Spend Legacy Points to give your heir the "Vigorous as a Horse" trait!
 Godlike Constitution
 Spend Legacy Points to give your heir the "Godlike Constitution" trait!
 Thin as a willow
-How do you know that you have lost a horse? Make your heirs acquire the "Thin as a willow" trait, and at the same time gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the "Thin as a willow" trait, and at the same time gain more Legacy Points!
 Extremely Frail
 How do you know what you're getting into when you lose a horse? Give your heirs the "Extremely Frail" trait and more of the Legacy Points!
 Fated Early Death
@@ -526,7 +526,7 @@ How do you know that you've lost a horse? Give your heir the "Awkward Limbs" tra
 Clumsy and Inarticular
 How can you know when you have lost a horse? Make your heirs acquire the trait of "Clumsy and Inarticular" and gain more Legacy Points!
 Dull as a Doll
-How do you know that you have lost a horse? Make your heirs acquire the trait of "Dull as a Doll" and at the same time gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the trait of "Dull as a Doll" and at the same time gain more Legacy Points!
 Miraculous Skeletal Structure
 Spend Legacy Points to give your heir the "Miraculous Skeletal Structure" trait!
 Spiritual Pure Essence
@@ -534,9 +534,9 @@ Spend Legacy Points to make your heirs acquire the traits of "Spiritual Pure Ess
 Immortal Vitality
 Spend Legacy Points to give your heir the "Immortal Vitality" trait!
 Weak Qi Flow
-How do you know that you have lost a horse? Make your heirs acquire the trait of "Weak Qi Flow", and at the same time acquire more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the trait of "Weak Qi Flow", and at the same time acquire more Legacy Points!
 Obstruction of Seven Orifices
-How do you know that you have lost a horse? Make your heirs obtain the "Obstruction of Seven Orifices", and at the same time obtain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs obtain the "Obstruction of Seven Orifices", and at the same time obtain more Legacy Points!
 Qi Turbid as a Dog
 How do you know that you are not blessed? Make your heirs acquire the trait of "Qi Turbid as a Dog" and at the same time gain more Legacy Points!
 Shrewd
@@ -594,7 +594,7 @@ Spend Legacy Points to make your heirs acquire the "Rokuhma hometown" trait!
 Heavenly Bestowed Fortune
 Spend Legacy Points so that your heirs can acquire the traits of "heavenly bliss"!
 Jinx
-How do you know that you have lost a horse? Give your heirs the trait of "broken luck" and more Legacy Points!
+How can you know it's not a blessing in disguise? Give your heirs the trait of "broken luck" and more Legacy Points!
 Cursed Divination
 How do you know that you are lucky to lose a horse? Give your heirs the "back-luck-and-horse" trait and more of the Legacy Points!
 Disastrous Destiny
@@ -606,7 +606,7 @@ Spend Legacy Points to give your heirs the "steel and iron" trait!
 Unbreakable
 Spend Legacy Points to give your heir the "invulnerable" trait!
 Lustreless Face
-How do you know that you have lost a horse? Make your heirs acquire the trait of "no color" and at the same time gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the trait of "no color" and at the same time gain more Legacy Points!
 Refractory Wound
 How can you know it's not a blessing in disguise? Make your heirs acquire the "long lasting wound" trait and at the same time gain more Legacy Points!
 Tenuous Hold on Life
@@ -656,7 +656,7 @@ Spend Legacy Points to give your heir the "Clothed in Light" trait!
 Disharmony of Fire and Water
 How do you know that you've lost a horse? Give your heirs the "fire and water" trait and more of the Legacy Points!
 Mutual Restraint of Five Qi
-How do you know that you have lost a horse? Make your heirs acquire the "five qi" trait and gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the "five qi" trait and gain more Legacy Points!
 Crumbling Source
 How do you know it's a blessing when you lose a horse? Make your heir gain the "true essence collapse" trait, and gain more Legacy Points!
 Peaceful Mind
@@ -670,7 +670,7 @@ How do you know when you lose a horse? Make your heirs acquire the trait of "imp
 Anxiety Causing Qi Stagnation
 How can you know it's not a blessing in disguise? Make your heirs acquire the trait of "melancholy and depression", and at the same time acquire more of the Legacy Points!
 Sanjiao Converse
-How do you know that you have lost a horse? Make your heir acquire the "three jiao rebellious" trait and gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heir acquire the "three jiao rebellious" trait and gain more Legacy Points!
 Calm and Silent
 Spend Legacy Points to give your heirs the "silent" trait!
 Unaffected by Dilemma
@@ -694,7 +694,7 @@ How do you know that you are not blessed when you lose a horse? Give your heirs 
 Paranoid
 How do you know that you've lost a horse? Give your heir the "one step, one ghost" trait and more of Legacy Points!
 Upside Down Dressed
-How do you know that you have lost a horse? Make your heirs acquire the "upside-down garment" trait, and at the same time gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the "upside-down garment" trait, and at the same time gain more Legacy Points!
 Faster than the eyes can track
 Spend Legacy Points to give your heir the "quick eye" trait!
 Whisper from Wind
@@ -742,7 +742,7 @@ How can you know it's not a blessing in disguise? Make your heirs acquire the "l
 Extremely Indolent
 How can you know it's not a blessing in disguise? Make your heirs acquire the trait of "laziness and conformity" and at the same time acquire more of the Legacy Points!
 Completely Indolent
-How do you know that you have lost a horse? Give your heir the "heavy body" trait and more Legacy Points!
+How can you know it's not a blessing in disguise? Give your heir the "heavy body" trait and more Legacy Points!
 Filled with Murderous Qi
 Spend Legacy Points to give your heir the "killing spirit" trait!
 Merciless
@@ -764,9 +764,9 @@ Spend Legacy Points to give your heir the "Pure Qi" trait!
 Floating Pulse
 How do you know that you are not blessed when you lose a horse? Make your heirs acquire the "pulse of the floating" trait, and at the same time acquire more of the Legacy Points!
 Void of Qihao
-How do you know that you have lost a horse? Give your heir the "Sea of Qi" trait and more of the Legacy Points!
+How can you know it's not a blessing in disguise? Give your heir the "Sea of Qi" trait and more of the Legacy Points!
 Impure Genuine Qi
-How do you know that you have lost a horse? Make your heir acquire the "true qi barge" trait, and gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heir acquire the "true qi barge" trait, and gain more Legacy Points!
 Complete Five Elements
 Spend Legacy Points to give your heirs the "All Five Elements" trait!
 Supreme Harmony of Qi
@@ -774,11 +774,11 @@ Spend Legacy Points to give your heir the "Taihe Aura" trait!
 Unity of Nadis
 Spend Legacy Points to enable your heir to obtain the "mixed elemental magic" trait!
 Disorder of Spirit
-How do you know that you have lost a horse? Make your heirs acquire the "mind diffusion" trait, and at the same time acquire more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the "mind diffusion" trait, and at the same time acquire more Legacy Points!
 Obstruction of Life Gate
-How do you know that you have lost a horse? Make your heirs acquire the "unopened" trait and gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the "unopened" trait and gain more Legacy Points!
 Iron Embryo
-How do you know that you have lost a horse? Give your heir the "Iron Tire" trait and more of Legacy Points!
+How can you know it's not a blessing in disguise? Give your heir the "Iron Tire" trait and more of Legacy Points!
 Flying Pace
 Spend Legacy Points to give your heirs the "Fit as a fiddle" trait!
 Mighty Stride
@@ -798,9 +798,9 @@ Spend Legacy Points to give your heir the "Ice Heart and Jade Bone" trait!
 Immune to Toxins
 Spend Legacy Points to give your heirs the "invulnerability" trait!
 Invaded by Evil Qi
-How do you know that you have lost a horse? Make your heir gain the "evil quality into the body" trait, and at the same time gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heir gain the "evil quality into the body" trait, and at the same time gain more Legacy Points!
 Chaos of Qi and Blood
-How do you know that you have lost a horse? Give your heir the "Laxity of Blood" trait and more of the Legacy Points!
+How can you know it's not a blessing in disguise? Give your heir the "Laxity of Blood" trait and more of the Legacy Points!
 Congenital Diseases
 How do you know that you've lost a horse? Give your heir the "congenital disease" trait and more of Legacy Points!
 Long-limbed
