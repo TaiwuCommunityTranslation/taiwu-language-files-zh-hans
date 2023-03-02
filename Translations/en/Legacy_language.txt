@@ -500,9 +500,9 @@ Spend Legacy Points to give your heir the "Mountainous Strength" trait!
 Weak and Feeble
 How can you know it's not a blessing in disguise? Make your heirs acquire the "Weak and Feeble" trait, and at the same time gain more Legacy Points!
 Extremely Feeble
-How do you know what you're doing? Make your heirs acquire the "Extremely Feeble" trait, and at the same time gain more Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the "Extremely Feeble" trait, and at the same time gain more Legacy Points!
 Feeble as an Ant
-How do you know what you're doing? Give your heirs the "Feeble as an Ant" trait and more of the Legacy Points!
+How can you know it's not a blessing in disguise? Give your heirs the "Feeble as an Ant" trait and more of the Legacy Points!
 Physically Healthy
 Spend Legacy Points to give your heirs the "Physically Healthy" trait!
 Vigorous as a Horse
@@ -728,7 +728,7 @@ Spend Legacy Points so that your heirs can acquire the traits of the "Ultimate E
 Frank but Dull
 How do you know that you are not blessed when you lose a horse? Make your heirs acquire the trait of "Mnemosyne" and at the same time gain more of the Legacy Points!
 Incautious and Impetuous
-How do you know what you're doing? Give your heirs the "recklessness" trait and more of the Legacy Points!
+How can you know it's not a blessing in disguise? Give your heirs the "recklessness" trait and more of the Legacy Points!
 Reckless as a Tiger
 How do you know that you've lost a horse? Give your heir the "Fenghe Tyrant Tiger" trait and more of the Legacy Points!
 Move as a Running Rabit
@@ -824,7 +824,7 @@ Spend Legacy Points to give your heirs the trait of "fidelity"!
 Faithless
 How do you know when you have lost a horse? Make your heirs acquire the trait of "three hearts and two minds" and at the same time acquire more of the Legacy Points!
 Extremely Faithless
-How do you know what you're doing? Make your heirs acquire the trait of "seeing things differently" and at the same time acquire more of the Legacy Points!
+How can you know it's not a blessing in disguise? Make your heirs acquire the trait of "seeing things differently" and at the same time acquire more of the Legacy Points!
 Completely Faithless
 How do you know that you've lost a horse? Make your heirs acquire the trait of "the three and the four", and at the same time gain more Legacy Points!
 upright and plainspoken
