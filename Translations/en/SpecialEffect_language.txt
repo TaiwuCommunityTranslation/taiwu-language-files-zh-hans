@@ -262,7 +262,7 @@ Multifarious
 When the user has 3 or more different types of available styles, the user's Might, Finesse, Swiftness, and Breath will increase.
 Boneless Stance
 Obtain random storage style
-When defending with this technique, whenever the user dodges an enemy's attack, the user gains 2 randomly available styles.
+When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user gains 2 randomly available styles.
 Quiet Return In One
 E·Stance Dn
 Whenever the user resolves a non-chasing enemy attack, the enemy's Stance is reduced and the user gains 1 randomly available style.
@@ -383,7 +383,7 @@ Pure Virgin
 The higher the Appearance of the user, the higher the Breath of the user.
 Reclamation Stance
 Interrupt E·Style
-When defending with this technique, whenever the user dodges an enemy's attack, the user adds 1 "None" to the enemy.
+When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user adds 1 "None" to the enemy.
 Dark Jade Practice
 The duration of the disorientation marker suffered by the user is significantly reduced.
 Formation of Scattered Flowers
