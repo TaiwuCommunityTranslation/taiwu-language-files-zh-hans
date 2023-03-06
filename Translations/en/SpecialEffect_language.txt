@@ -3608,7 +3608,7 @@ Yi Yi Hou deals significantly more direct damage to characters whose Breath is l
 seek the law outside the body
 Weiqi deals significantly more direct damage to characters with lower Might or Diversion than himself; characters with higher Might or Diversion than Weiqi deal significantly more direct damage to Weiqi
 play ghosts and collect gods
-The direct damage dealt by Ekai to a character whose Swiftness or Dodge is lower than his own is increased significantly; the direct damage dealt by a character whose Swiftness or Dodge is higher than Ekai to Ekai is increased significantly
+The direct damage dealt by Ekai to a character whose Swiftness or Evasion is lower than his own is increased significantly; the direct damage dealt by a character whose Swiftness or Evasion is higher than Ekai to Ekai is increased significantly
 Gods and Earths
 The direct damage dealt by Xue Feng to characters with the dominant internal element "Water" is greatly increased; the direct damage dealt by characters with the dominant internal element "Wood" to Xue Feng is greatly increased
 Distracted God Realm
