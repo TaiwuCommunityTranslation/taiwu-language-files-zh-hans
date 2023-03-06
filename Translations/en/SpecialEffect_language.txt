@@ -3743,7 +3743,7 @@ At the end of this power, the user will change up to 3 non-injury markers on the
 Shed Heart Type
 When this power is finished, Wei Qi will change up to 3 random styles of himself into up to 3 layers of this effect: Whenever Wei Qi performs a power, Wei Qi consumes the number of layers of this effect and accumulates a significant increase in the power of the power he performs, lasting until the number of layers of this effect is exhausted
 No heart, no mind
-During the application of this power, the chance of the enemy hitting the direction of the enemy is halved, and whenever the enemy fails to hit the direction of the enemy, the enemy randomly appears 2 sealed points
+During the application of this power, the enemy's chance of hitting Yi Xiang is halved, and whenever the enemy fails to hit Yi Xiang, the enemy randomly receives 2 sealed acupoints
 During the application of this power, the chance of the enemy hitting the user is halved, and whenever the enemy fails to hit the user, the enemy randomly appears 2 sealed points
 Swordless Sword
 When you start to perform this power, you will recover all your Footwork and Stamina; when you attack the enemy with this power, the more Stamina you have left, the more the power of this power will increase.
