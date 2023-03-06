@@ -3187,8 +3187,8 @@ Reverse - Heavenly Spirit\nFinger
 Breach re-emerges
 The level of the breach caused by this technique to the enemy will not be reduced for any reason; after this technique has been used with 100% of its power, the user gains 7 levels of this effect: whenever the enemy eliminates a breach of level less than 4, the breach will reappear and the level of the breach will increase by 1 level, and it will not trigger any effect caused by the breach
 Reverse - Swordsmanship\nof Flower Brush
-Reduce enemy's dodge
-When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's dodge is reduced when the user attacks the enemy
+Reduce enemy's Evasion
+When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's Evasion is reduced when the user attacks the enemy
 Reverse - Swordsmanship\nof Hidden Swordmaster
 When this technique is used with at least 10% of its power, the user gains 2 "Stab" styles
 Reverse - Swordsmanship\nof White Eyebrow
