@@ -3158,7 +3158,7 @@ Reverse - Duck Shape Fist
 Increase enemy crisis
 When you fail to perform this technique at 100% of it's power, increase the sense of crisis of your enemy.
 Reverse - 12 Hands of\nSilk Fist
-As long as this technique is not dodged by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
+As long as this technique is not resolved with Evasion by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
 Reverse - White Ape's\nLong-Arm Fist
 Depending on the power of this technique, the duration of the enemy's "Quick" technique is greatly depleted.
 Reverse - Transfer Flower\nPicker
