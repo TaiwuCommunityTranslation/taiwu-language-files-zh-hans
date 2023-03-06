@@ -1558,7 +1558,7 @@ Rejuvenation\nFinger
 Reduce enemy crisis
 When you fail to perform this technique at 100% of it's power, reduce the sense of crisis of your enemy.
 12 Hands of\nSilk Fist
-As long as this technique is not dodged by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
+As long as this technique is not resolved with Evasion by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
 White Ape's\nLong-Arm Fist
 Recovery of body time
 The duration of the "Quick" technique will be restored to the user according to the power of the technique.
@@ -2047,7 +2047,7 @@ Reverse - Multifarious
 When the user has 3 or more different types of available styles, the user's Diversion, Parry, Evasion, and Focus will be increased.
 Reverse - Boneless Stance
 Attrition of enemy's storage style
-When defending with this technique, whenever the user dodges an enemy's attack, the enemy loses 2 randomly available styles.
+When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the enemy loses 2 randomly available styles.
 Reverse - Quiet Return In One
 E·Inhale Dn
 Whenever the user neutralizes an enemy's non-chasing attack, the enemy's boost is reduced and the user gains 1 randomly available style.
@@ -2153,7 +2153,7 @@ Reverse - Pure Virgin
 The higher the charisma of the user, the higher the compliance of the user.
 Reverse - Reclamation Stance
 Applying a mind marker
-When defending with this technique, whenever the user dodges an enemy's attack, the user applies 1 Breath injury to the enemy
+When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user applies 1 Breath injury to the enemy
 Reverse - Dark Jade Practice
 Enemies suffer a significant increase in the duration of the Disorientation Mark
 Reverse - Formation of Scattered Flowers
@@ -2248,7 +2248,7 @@ Reverse - River Immortals Wedding
 Handover Styles
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 1 of the user's unavailable styles will be transferred to the enemy.
 Reverse - 6 Turn of Royal
-When defending with this technique, whenever the user dodges an enemy's attack, the user draws 1 point of "Break" True Qi from the enemy's body.
+When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user draws 1 point of "Break" True Qi from the enemy's body.
 Reverse - 8 Threads of Frozen
 Increasing anti-shock damage
 When defending with this technique, the degree of injury caused to the enemy by the user's reflect internal injury is increased by 1 level
