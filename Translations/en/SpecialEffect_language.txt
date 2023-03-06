@@ -3575,7 +3575,7 @@ When defending with this divine power, Yi Yi Hou is protected from "Breakdown" a
 Skeleton armor
 When defending with this divine power, all direct damage received by Wei Qi will change to the loss of defense duration
 Resting Earth Devouring Spirit
-When defending with this divine power, whenever an enemy hits, 3 points of a random type of true qi will be drawn from the enemy's body.
+When defending with this divine power, whenever an enemy hits, 3 points of a random type of true qi will be stolen from them.
 Maple God Called to Order
 Changes in injuries sustained
 When defending with this divine power: Whenever Xue Feng receives direct damage, it will first change the non-old injuries Xue Feng already has into old ones, and only when all of Xue Feng's injuries are old will he receive new ones again
