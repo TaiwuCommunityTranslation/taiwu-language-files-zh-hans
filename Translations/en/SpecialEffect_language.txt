@@ -2655,7 +2655,7 @@ At the beginning of the battle, the user gains 0 levels of this effect: every ti
 Reverse - Swordsmanship\nof Yinyang Reversed
 When attacking an enemy with this technique, if this technique can cause direct external injuries and the user's External Penetration is lower than the enemy's External Defense, the user's Internal Penetration is greatly increased and the user's direct internal injuries to the enemy are greatly increased
 Reverse - Origin\nSword Intent
-If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Qi or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
+If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Inhale or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
 Reverse - Ever-Changing\n14 Swordmanship
 When attacking an enemy with this technique, the user only hits with the highest of his Might, Finesse, and Swiftness, and only attacks with the highest of his Ext. and Int.  Penetration values; after this technique has reached 100% of its power, the user gains 3 levels of this effect: when an enemy performs any "Break" technique that consumes the "Hack", "Stab", or "Slash" style, if the user can use the "Hack", "Stab", or "Slash" style, the user immediately performs the same technique to attack the enemy without consumption, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
 Reverse - Tripping Spell
