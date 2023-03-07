@@ -2997,7 +2997,7 @@ The more Cryotoxin markers the user has, the more internal injury markers will b
 Reverse - Source Extinct\nHands
 The higher the power of this technique, the higher the chance of "interrupting" the technique being performed by the enemy, and the cumulative power of the interrupted technique will be reduced according to the power of this technique until the end of the battle.
 Reverse - Staggered\nFinger
-If the user's "Quick" True Qi is lower than the initial value and lower than the enemy's "Quick" True Qi, this technique can be performed without using up Qi or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of "Quick" True Qi at the end of this technique.
+If the user's "Quick" True Qi is lower than the initial value and lower than the enemy's "Quick" True Qi, this technique can be performed without using up Inhale or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of "Quick" True Qi at the end of this technique.
 Reverse - The Ultra One\nCrystal Finger
 Changing Int. Def. to Int. Pen.
 During the process of performing this technique: most of the Internal Defense of the user and the enemy changes to Internal Penetration; all direct internal injuries suffered by the user will not exceed 2 levels of injury
