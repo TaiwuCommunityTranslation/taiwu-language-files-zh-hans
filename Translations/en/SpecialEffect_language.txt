@@ -2058,7 +2058,7 @@ Increasing anti-shock damage
 When defending with this technique, the more storages available to the user, the higher the reflect damage the user can inflict on the enemy.
 Reverse - Seven-Star Cross Chain
 No lifting consumption
-When the user has 7 or more available styles, all "Break" type techniques performed by the user do not need to consume Qi, and the more Qi that is exempted from consumption, the more the power of the technique increases.
+When the user has 7 or more available styles, all "Break" type techniques performed by the user do not need to consume Inhale, and the more Inhale that is exempted from consumption, the more the power of the technique increases.
 Reverse - Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 non-injury markers
 Reverse - 36 Moves of Needle Change
@@ -2099,7 +2099,7 @@ When defending with this technique, the true qi gained by the enemy in battle wi
 Reverse - True Art Demon Slaying
 When your teammate uses the「True Qi」command, more True Qi will be transferred to the user.
 Reverse - Endless Power
-When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user removes all the enemy's Qi, and the more the enemy's Qi is removed, the more the user's counterattack damage increases.
+When defending with this technique, every time the user successfully counters an enemy's weapon attack, the user removes all the enemy's Inhale, and the more the enemy's Inhale is removed, the more the user's counterattack damage increases.
 Reverse - 3 Flower On Top
 If the total number of defeat marks of the user exceeds half of the defeat condition, all direct damage dealt by the user to the enemy is significantly increased.
 Reverse - 9 Rollings
@@ -2347,7 +2347,7 @@ During the duration of this Footwork: the enemy's Focus will not be raised by an
 Reverse - 5 Steps of Plum Poling
 During the duration of this Footwork, if the enemy attacks the user with a hit that is lower than the user's resolution, the chance of the enemy hitting the user is significantly reduced.
 Reverse - 8 Trigrams Step
-During the duration of this Footwork, if the user uses the "Aegis" technique, the enemy's Qi recovery will be reduced.
+During the duration of this Footwork, if the user uses the "Aegis" technique, the enemy's Inhale recovery will be reduced.
 Reverse - Cloud Surround
 During the duration of this technique, whenever the user hits the enemy with a "Whisk" type weapon, the enemy's Stamina will be lost.
 Reverse - Big Dipper Step of Heavenly Spirit
@@ -2425,7 +2425,7 @@ Reverse -  Stardust Fury Avoidance
 Increase weapon toughness
 When the user attacks an enemy during the duration of this technique, the toughness of the user's weapon will be greatly increased if the level of the enemy's protective gear is not higher than the level of the weapon used by the user.
 Reverse - Dragon Riding
-Bodywork instead of Qi lifting
+Bodywork instead of Inhale lifting
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Inhale is not enough to perform the "Break" technique, the user's Footwork can replace the user's Inhale consumption.
 Reverse -  Tenkai Flow Meteor Style
 Enhancement of Diversion reduction
@@ -2498,7 +2498,7 @@ During the duration of this Footwork, when the user is attacked by an enemy, the
 Reverse - Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Drunk Lying In The East Sea
-If the user is drunk during the duration of this Footwork, the user can perform the "Break" technique without the required Qi and Footwork, but the power of the technique will be reduced in proportion to the lack of Qi and Footwork.
+If the user is drunk during the duration of this Footwork, the user can perform the "Break" technique without the required Inhale and Footwork, but the power of the technique will be reduced in proportion to the lack of Inhale and Footwork.
 Reverse - Fox Move
 When retreating with this Footwork, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 Reverse - Tomb Escape
