@@ -3141,7 +3141,7 @@ When this technique is used at 100% of its power, for every 3 "Slash" styles the
 Reverse - Yakkha Staff
 The minimum attack distance of this technique is reduced by 2; when attacking the enemy with this technique, the closer the enemy and me are to the minimum attack distance of this technique, the more the power of this technique is increased
 Reverse - Staff of\nSheep-Hunting Tigers
-The user can perform the "Aegis" technique from 50% of its progress without using up Qi.
+The user can perform the "Aegis" technique from 50% of its progress without using up Inhale.
 Reverse - Shaolin Staff\nof Madness
 In the process of performing this technique, the user can attack the enemy with weapons, and the more times the enemy is hit, the more the user's Internal Penetration will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
 Reverse - Skanda Staff
@@ -3333,7 +3333,7 @@ Reverse - Yuanshan\nJump Kick
 Whenever the user uses "Sword" to chase the enemy at least 2 times, if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Heterodox training to Orthodox training
 Reverse - Mandarin Duck\nCombo Kick
 Inhale Cost Dn
-When this technique is used with at least 10% of its power, the amount of Qi required to perform this technique is reduced by up to 90% and lasts until the end of the battle
+When this technique is used with at least 10% of its power, the amount of Inhale required to perform this technique is reduced by up to 90% and lasts until the end of the battle
 Reverse - Tiger Tail
 At the beginning of the battle, the user gains 3 levels of this effect: when the enemy attacks the user at a position smaller than the user's minimum attack distance, the attack range of this technique is greatly increased, and the user immediately attacks the enemy without consumption from 50% of the execution progress; when the active execution of this technique is performed and the power of this technique is 100%, this effect regains 1 level
 Reverse - 8 Steps of\nSquared Up
@@ -3427,7 +3427,7 @@ Int Poison Dmg
 After accumulating 9 styles more than a certain number of times, it will attack, and according to the amount of toxin derived from Cryotoxin, according to the amount of toxin caused internal injuries
 TA·Cryotoxin
 Worsen Int injuries
-It comes on when you consume Qi, and depending on the amount of toxin, it can cause up to 3 internal injuries to worsen.
+It comes on when you consume Inhale, and depending on the amount of toxin, it can cause up to 3 internal injuries to worsen.
 TA·Pyrotoxin
 Worsen Ext injuries
 When consuming the Stance, it attacks, and depending on the amount of toxin derived from the Necrotoxin, it makes up to 3 external injuries worse
@@ -3659,7 +3659,7 @@ Chaotic colored warbler
 When she starts to use this power, MoM gains 6 levels of this effect: Whenever an enemy attacks MoM with a weapon, MoM immediately makes 4 weapon attacks on the enemy; when she attacks an enemy with this power, MoM consumes all the remaining levels of this effect to significantly increase the power of this power
 Break the demonic filth
 Continuously causing wear and tear
-During the process of exercising this divine power, if the enemy is within the attack range of Dayue Yao Chang, constantly lose the enemy's Footwork, Stamina, Qi lifting and Footwork
+During the process of exercising this divine power, if the enemy is within the attack range of Dayue Yao Chang, constantly lose the enemy's Footwork, Stamina, Inhale lifting and Footwork
 During the process of exercising this divine power, if the enemy is within the attack range of the applicator, the enemy's Footwork, Stamina, Inhale and Stance will be continuously lost
 Exterminate the three cuts
 Automatic application of divine power
@@ -3847,7 +3847,7 @@ Fire Dragon Burning Heart
 Destroy the enemy's Break
 When this power starts to work, Dragon Speak Por inflicts 1 level of external injury to his neck area with a external injury level below 4, randomly changes the number of levels of the enemy's 3 "Break" techniques to the lower limit, and causes the enemy to take the backlash damage from these "Break" techniques
 Fire pistil kills proud phoenix
-This power is not limited by the part of the crippled; if the dragon language Por any arm part of the external injury reached 4 levels: when you start to cast this power, this power from 100% progress, and restore all the power to cast this power consumed Qi, Stance; during the process of casting this power, the enemy's arms as crippled
+This power is not limited by the part of the crippled; if the dragon language Por any arm part of the external injury reached 4 levels: when you start to cast this power, this power from 100% progress, and restore all the power to cast this power consumed Inhale, Stance; during the process of casting this power, the enemy's arms as crippled
 Geibi in Red
 The exercise of this power is not subject to the limitations of the parts of the crippled; if the external injury of any part of the legs and feet of the dragon language Por reached 4 levels: when you start to exercise this power, the enemy will be subject to all techniques of continuous enhancement of the power of this power to enhance the power of this power, lasting until the end of the battle; during the exercise of this power, the enemy's legs as crippled
 red heart deters the demon dragon
