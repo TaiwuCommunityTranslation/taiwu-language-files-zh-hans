@@ -2598,7 +2598,7 @@ Reverse - Cold Yin Palm
 This technique increases the direct damage to the enemy's waist and abdomen by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - 9 Moves of\n9 Heavens
 Reduces internal reflect
-After this technique has been performed at 100% of its power, the user will receive 9 levels of this effect: if all the "Break" techniques performed by the user are not performed at 100% of their power, the user will receive significantly less internal shock, and at the end of the technique, the user will receive a portion of the qi consumed to perform the technique.
+After this technique has been performed at 100% of its power, the user will receive 9 levels of this effect: if all the "Break" techniques performed by the user are not performed at 100% of their power, the user will receive significantly less internal shock, and at the end of the technique, the user will receive a portion of the Inhale consumed to perform the technique.
 Reverse - Jade Tripot Fist
 Toxin level reduction
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Cryotoxin applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
@@ -2701,7 +2701,7 @@ Reverse - Jade Cicada\nFinger
 When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's poison, Cryotoxin, and phantom poison, and the power of this technique will be greatly increased if the phantom poison is still applied to the enemy after the change.
 Reverse - Flood Dragon's\nIron Tentacle
 Reverse - No Harm Hands
-When this technique is used at 100% of its power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require qi, until the enemy is attacked in any way
+When this technique is used at 100% of its power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require Inhale, until the enemy is attacked in any way
 Reverse - Conversely\nBeating As Rocking Sky
 If the enemy has no memory of this technique when you start to perform this technique: the enemy's Internal Defense is reduced by half; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique, and this technique can inflict an additional 1 critical hit mark after it has exerted at least 10% of its power
 Reverse - One Step Turn
@@ -2938,7 +2938,7 @@ At the beginning of the battle, the user gains 0 levels of this effect: every ti
 Reverse - Vajra\nAnnihilation Hands
 When you start to perform this technique, you will consume all the "Punch" styles of the user. The more "Punch" styles the user consumes, the more the power of this technique will increase.
 Reverse - 4 Divine Palm
-When this technique exerts at least 10% of its power, it accumulates 1 layer of effect, up to a maximum of 4 layers: accumulate 1 layer, the power of this technique increases significantly; accumulate 2 layers, the minimum attack distance of this technique is reduced; accumulate 3 layers, the direct internal injuries caused by this technique will not be reduced for any reason; accumulate 4 layers, at the end of the performance of this technique, all the qi consumed by the performance of this technique is restored
+When this technique exerts at least 10% of its power, it accumulates 1 layer of effect, up to a maximum of 4 layers: accumulate 1 layer, the power of this technique increases significantly; accumulate 2 layers, the minimum attack distance of this technique is reduced; accumulate 3 layers, the direct internal injuries caused by this technique will not be reduced for any reason; accumulate 4 layers, at the end of the performance of this technique, all the Inhale consumed by the performance of this technique is restored
 Reverse - The Great Sun\nBuddha Palm
 Reduce E·Buff
 Enhanced Benefit Reduction Buffs
