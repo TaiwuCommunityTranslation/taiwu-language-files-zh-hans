@@ -40,3 +40,64 @@ Sword Trial
 Dismantle The Blade
 Lost
 Shaken
+Return to Innocence
+Because of the mystery of the book, the power of one's own techniques will be greatly increased or reduced according to the five elements of one's internal power
+Storm Swiftness
+Due to the mystery of the strange book, the consumption of Footwork value in battle is greatly reduced.
+Myriads
+Because of the mystery of the strange book, the power of Aegis and Nadis skills are multiplied
+Dragon-like Carving
+Because of the mystery of the strange book, in battle, when you break the enemy's Deflect with Fist, you will make the enemy throw away their weapons, and the closer you are to the enemy, the higher the damage of your Fist skill
+Finger of Hades
+Because of the secrets of the strange book, in the battle, after chasing the enemy 5 times in 1 round of weapon attacks with Fist, a random skill of the enemy will be blocked for a short time, and the more Acupoints are sealed on the enemy, the more powerful the Finger Technique damage will be.
+Omnidirectional Kick
+Because of the mystery of the strange book, in the battle, the weapons used by oneself replace the Legwear in using Kick Technique, and the lower the enemy's Stamina, the higher the damage of your Kick Technique will be.
+Shadow Sneak
+Because of the mystery of the strange book, in the battle, when you attack the enemy with Hidden Weapons, ignore the enemy's protective gear, and the farther you are from the enemy, the higher the damage of your Hidden Weapons techniques
+Nameless Sword
+Because of the secrets of the strange book, in battle, when hitting enemy that has no deflect with a Sword, there is a 50% chance to restore the consumed attack, and the less Style the enemy has, the higher the damage of his own Sword Technique
+Murderous Mara
+Because of the mystery of the strange book, in the battle, the enemy's Deflect cooldown caused by the Blade is increased by 3 times, and the more Weak Points enemy has, the higher the damage of the Blade Techniques
+Symbol of Sky
+Because of the mystery of the strange book, in the battle, the Polearm used by you can Deflect more defeat marks, and the more defeat marks you have, the higher the damage of your Polearm Techniques.
+Unprecedented One
+Because of the mystery of the strange book, in battle, when attacking the enemy with Exotic Weapons, the enemy's Deflect is more easily broken, and the lower the enemy's Stance, the higher the damage of your Exotic Weapon Techniques
+Dragon Treasure
+Because of the mystery of the strange book, in the battle, the attack range of your Soft Weapons increases, and the lower the enemy's Inhale is, the higher the damage of your Soft Weapons Techniques
+Heavenly Divine
+Because of the mystery of the strange book, in the battle, when you Style Change when attacking with Ranged Weapons, the chance of chasing the enemy is multiplied, and the more times you Style Change, the higher the damage of your Ranged Weapons Techniques
+Ragnarok
+Because of the mystery of the strange book, in battle, when hitting the enemy with Melody, it will damage the enemy's True Qi, and the more Sound Styles one has, the higher the damage of one's own Melody Techniques
+King of the Hill
+Attack token recovery speed increased by 50%
+<color=#lightgrey>When located on<color=#brightblue> Mountain or Mountain Range</color> tile, the attack token recovery speed is greatly increased</color> 
+A line of sky
+Skill Cast Speed increased by 50%
+<color=#lightgrey>When located on <color=#brightblue>Canyon or Natural Hazards</color> tile, the Cast Speed of skills is greatly increased</color>
+Nine-fold Path
+Enemy's Accuracy is reduced by 25%
+<color=#lightgrey>When located on <color=#brightblue>Hills, Highlands</color> tiles, the enemy's Accuracy is reduced</color>
+Pale and Wild
+Your Accuracy is increased by 25%
+<color=#lightgrey>When located on <color=#brightblue>Fields or Plains</color> tiles, your Accuracy increases</color>
+One with the Forest
+Inhale and Stance Recoveries are increased by 50%
+<color=#lightgrey>When located in <color=#brightblue>Woodland or Forest</color> tiles, the Inhale and Stance Recoveries are greatly improved</color>
+Empty Stream
+Stamina recovery speed increased by 50%
+<color=#lightgrey>When located in <color=#brightblue>River Beach, River Valley, or Gorge</color> tiles, the Stamina recovery speed is greatly improved</color>
+Smoky Wave
+Footwork charge speed (?) increased by 50%
+<color=#lightgrey>When located in  <color=#brightblue>Lake</color> tiles, the Footwork charging speed (?) is greatly increased</color>
+Moro Roach
+Style Change acquisition speed increased by 50%
+<color=#lightgrey>When located in <color=#brightblue>Dense Forest</color> tile, the Style Change acquisition speed is greatly increased</color>
+Cave All Night
+Increase the cooldown of enemy's Deflect by 100%
+<color=#lightgrey>When located in <color=#brightblue>Cave</color> tiles, the cooldown of enemy's Deflect is greatly increased</color>
+Pond Sink
+Increase the amount of toxin applied to the enemy in battle by 100% and increase the toxin level by one level
+<color=#lightgrey>When located in <color=#brightblue>Swamp</color> tiles, the amount of poison applied to the enemy during the battle is greatly increased, and the poison level is increased by one level</color>
+The Peach Blossom
+Recover all consumed internal energy after the battle
+<color=#lightgrey>When you are in <color=#brightblue>Wonderland</color> tiles, all consumed internal energy will be restored after the battle</color>
