@@ -1,2 +1,2 @@
-Erase secret data
+Wiping secret data
 Due to the detection of illegal secret data, it has been deleted
