@@ -1,7 +1,7 @@
 Torso
 Each sealed Acupoint reduces Inhale limit by 20%
 Waist
-Each sealed Acupoint reduces 20% of the Stance limit
+Each sealed Acupoint reduces Stance limit by 20%
 Head
 Each sealed Acupoint reduces Style limit by 2
 L. Arm
