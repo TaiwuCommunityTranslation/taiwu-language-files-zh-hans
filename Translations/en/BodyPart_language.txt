@@ -1,35 +1,12 @@
 Torso
-On a successful Style Change to <color=#darkbrown>Torso</color>, the enemy's Qi progress is reduced by <color=#white>20% </color>!
-AcuPt on <color=#darkbrown>Torso</color> is inactivated, inhale speed is reduced by <color=#white>25%</color>！
-(Torso-Scratch, Torso-Bleeding, Torso-Fracture)
-(Torso-Bruises, Torso-AcuPt Inactivation, Torso-Broken Meridian)
+Each sealed Acupoint reduces 20% of the Inhale limit
 Waist
-On a successful Style Change to <color=#darkbrown>Waist</color>, the enemy's Stance progress is reduced by <color=#white>20</color>!
-AcuPt on <color=#darkbrown>Waist</color> is inactivated, Stance speed is reduced by <color=#white>25</color>！
-(Waist-Scratch, Waist-Bleeding, Waist-Spilled Guts)
-(Waist-Bruises, Waist-AcuPt Inactivation, Waist-Broken Meridian)
+Each sealed Acupoint reduces 20% of the Stance limit
 Head
-On a successful Style Change to <color=#darkbrown>Head</color>, the enemy will lose <color=#white>3</color> random Styles!
-AcuPt on <color=#darkbrown>Head</color> is inactivated, cast speed is reduced by <color=#white>25</color>！
-(Head-Scratch, Head-Bleeding, Head-Fracture)
-(Head-Bruises, Head-AcuPt Inactivation, Head-Broken Meridian)
+Each sealed Acupoint reduces Style limit by 2
 L. Arm
-On a successful Style Change to <color=#darkbrown>L. Arm</color>, the enemy will lose <color=#white>3</color> Style Changes!
-AcuPt on <color=#darkbrown>L. Arm</color> is inactivated, attack speed is reduced by <color=#white>10</color> and block chance is reduced by <color=#white>25%</color>！
-(L. Arm-Scratch, L. Arm-Bleeding, L. Arm-Fracture)
-(L. Arm-Bruises, L. Arm-AcuPt Inactivation, L. Arm-Broken Meridian)
+Each 3 sealed Acupoints in total on both arms reduce the attack token limit by 1
 R. Arm
-On a successful Style Change to <color=#darkbrown>R. Arm</color>, the enemy will lose <color=#white>3</color> Style Changes!
-AcuPt on <color=#darkbrown>R. Arm</color> is inactivated, attack speed is reduced by <color=#white>10</color> and block chance is reduced by <color=#white>25%</color>！
-(R. Arm-Scratch, R. Arm-Bleeding, R. Arm-Fracture)
-(R. Arm-Bruises, R. Arm-AcuPt Inactivation, R. Arm-Broken Meridian)
 L. Leg
-On a successful Style Change to <color=#darkbrown>L. Leg</color>, the enemy will lose <color=#white>20%</color> Mobility!
-AcuPt on <color=#darkbrown>L. Leg</color> is inactivated, maximum Mobility is reduced by <color=#white>10</color>!
-(L. Leg-Scratch, L. Leg-Bleeding, L. Leg-Fracture)
-(L. Leg-Bruises, L. Leg-AcuPt Inactivation, L. Leg-Broken Meridian)
+Each sealed Acupoint reduces Stamina limit by 10%
 R. Leg
-On a successful Style Change to <color=#darkbrown>R. Leg</color>, the enemy will lose <color=#white>20%</color> Mobility!
-AcuPt on <color=#darkbrown>R. Leg</color> is inactivated, maximum Mobility is reduced by <color=#white>10</color>!
-(R. Leg-Scratch, R. Leg-Bleeding, R. Leg-Fracture)
-(R. Leg-Bruises, R. Leg-AcuPt Inactivation, R. Leg-Broken Meridian)
