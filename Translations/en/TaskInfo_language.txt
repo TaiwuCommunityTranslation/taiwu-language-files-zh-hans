@@ -307,9 +307,9 @@ Guangdong
 Travel to <color=#orange>Guangdong</color> to visit temples.
 Shandong
 Travel to <color=#orange>Shandong</color> to visit temples.
-Jingnan
+Jingnan Temples
 Travel to <color=#orange>Jingnan</color> to visit temples.
-Fujian
+Fujian Temples
 Travel to <color=#orange>Fujian</color> to visit temples.
 Liaodong Temples
 Travel to <color=#orange>Liaodong</color> to visit temples.
