@@ -3282,17 +3282,7 @@
   "Event_ConquerInfected_NoVillage": " <Character key=RoleTaiwu str=Name/> Around",
   "Event_ForSecretInformationAppliedSelection_Cost": "Consumption",
   "Event_ForSecretInformationAppliedSelection_CanNotFight": " <color=#red> [You are too injured to fight!] </color> ",
-  "LK_EventEditor_DownloadExampleNotice": "By viewing the \"Documentation\", you can better help you use the Event Editor 
-
- click \" <color=#darkcyan> <u> <link=\"Document\"> here </link> </u> </color> \", you can view the documentation of the Event Editor, which has the usage of the Event Editor 
-
- click \" <color=#darkcyan> <u> <link=\"Example\"> here </link> </u> </color> \" to view a set of sample events to help you further understand how to make an event by example 
-
-
-
-
-
- <color=#lightgrey> (When you select or create your own event, this information will no longer be displayed, you can find the usage documentation and sample events in the Event Editor at <color=#darkcyan> <u> <link=\"FAQ\"> \"Q&amp;A Library\" </link> </u> </color> , if you have any questions or suggestions about the Event Editor (If you have any questions or suggestions about the Event Editor, you are welcome to send us your questions and suggestions through the \"Support\" section of the game launcher, thank you very much!) </color> ",
+  "LK_EventEditor_DownloadExampleNotice": "By viewing the \"Documentation\", you can better help you use the Event Editor \n\n click \" <color=#darkcyan> <u> <link=\"Document\"> here </link> </u> </color> \", you can view the documentation of the Event Editor, which has the usage of the Event Editor \n\n click \" <color=#darkcyan> <u> <link=\"Example\"> here </link> </u> </color> \" to view a set of sample events to help you further understand how to make an event by example \n\n\n\n\n\n <color=#lightgrey> (When you select or create your own event, this information will no longer be displayed, you can find the usage documentation and sample events in the Event Editor at <color=#darkcyan> <u> <link=\"FAQ\"> \"Q&amp;A Library\" </link> </u> </color> , if you have any questions or suggestions about the Event Editor (If you have any questions or suggestions about the Event Editor, you are welcome to send us your questions and suggestions through the \"Support\" section of the game launcher, thank you very much!) </color> ",
   "LK_EventEditor_AddEventGroup": "New event group",
   "LK_EventEditor_AddEventGroup_EnterKey": "Enter the event group Key ...",
   "LK_EventEditor_AddEventGroup_EnterName": "Enter the event group name ...",
@@ -3340,36 +3330,18 @@
  master if you do not understand anything, please ask the poor monk is ......",
   "Event_SectCompetitionTeachDialog_2": "Good, your skills today, the disciples of our school can see, \nIs really a new talent, when the bright moon to the clear sky! \nIf you don't understand anything, please ask me for advice ......",
   "Event_SectCompetitionTeachDialog_3": "Well, your skills today to overpower the group, my school disciples have witnessed, n\there are Tong Hua Wanli Danshan Road, the road ahead is a long way, but heard the sound of the phoenix clear ......\n if you do not understand the place, feel free to ask me for advice is ......",
-  "Event_SectCompetitionTeachDialog_4": "Good, your skills today, my school disciples can see, 
- can be said to be out of the blue but better than blue ......
- If you do not understand the place, please ask me for advice is ......",
-  "Event_SectCompetitionTeachDialog_5": "Good, your skills today, my school disciples are witnessed, 
- is the so-called cultivation of suffering today, my way to support ...... 
- if you do not understand anything, please ask me for advice is ......",
-  "Event_SectCompetitionTeachDialog_6": "Good, your skills today, my school disciples have witnessed, 
- if you learn my school of divine skills, the future walking in the jianghu, can help my school to make a name ah ......",
-  "Event_SectCompetitionTeachDialog_7": "As the saying goes, the use of people must be measured ...... 
- you today's skills over the group, my school disciples can see, 
- if there is still not understand the place, feel free to ask me for advice is ......",
-  "Event_SectCompetitionTeachDialog_8": "If there is anything you don't understand, please feel free to ask me for advice ......
- Perhaps we will need your help to unlock the mystery of the jade carving... ...",
-  "Event_SectCompetitionTeachDialog_9": "Your skills today, the disciples of our school can see it for all to see, 
- is 'sharp sword out of the sheath, sharp can't be done' ...... 
- If you still don't understand anything, just ask me for advice ......",
-  "Event_SectCompetitionTeachDialog_10": "Your skills today, the disciples of our school can see, 
- can have this achievement, it is your natural creation ......
- If you still do not understand, feel free to ask me for advice is ......",
-  "Event_SectCompetitionTeachDialog_11": "Haha! 
-If you have any questions, please ask me!",
-  "Event_SectCompetitionTeachDialog_12": "Haha! You dare to learn, don't I dare to teach? 
-If there is anything you don't understand, just ask me for advice!",
-  "Event_SectCompetitionTeachDialog_13": "It's rare that you look up to these humble skills of mine, 
- if you do not understand anything, feel free to ask me for advice is ......",
-  "Event_SectCompetitionTeachDialog_14": "Good, your skills today, our school disciples can see, 
- think is already understand the essence of our school of divine power, 
- if there is still something not understand, feel free to ask me for advice!",
-  "Event_SectCompetitionTeachDialog_15": "Good, your skills today overwhelmed the group, our school disciples can see it for all to see, 
- think you have got the true transmission of the Great God of the Xiang Shu! Since this is the case, how can we hide our secret ......",
+  "Event_SectCompetitionTeachDialog_4": "Good, your skills today, my school disciples can see, \n can be said to be out of the blue but better than blue ......\n If you do not understand the place, please ask me for advice is ......",
+  "Event_SectCompetitionTeachDialog_5": "Good, your skills today, my school disciples are witnessed, \n is the so-called cultivation of suffering today, my way to support ...... \n if you do not understand anything, please ask me for advice is ......",
+  "Event_SectCompetitionTeachDialog_6": "Good, your skills today, my school disciples have witnessed, \n if you learn my school of divine skills, the future walking in the jianghu, can help my school to make a name ah ......",
+  "Event_SectCompetitionTeachDialog_7": "As the saying goes, the use of people must be measured ...... \n you today's skills over the group, my school disciples can see, \n if there is still not understand the place, feel free to ask me for advice is ......",
+  "Event_SectCompetitionTeachDialog_8": "If there is anything you don't understand, please feel free to ask me for advice ......\n Perhaps we will need your help to unlock the mystery of the jade carving... ...",
+  "Event_SectCompetitionTeachDialog_9": "Your skills today, the disciples of our school can see it for all to see, \n is 'sharp sword out of the sheath, sharp can't be done' ...... \n If you still don't understand anything, just ask me for advice ......",
+  "Event_SectCompetitionTeachDialog_10": "Your skills today, the disciples of our school can see, \n can have this achievement, it is your natural creation ......\n If you still do not understand, feel free to ask me for advice is ......",
+  "Event_SectCompetitionTeachDialog_11": "Haha! \nIf you have any questions, please ask me!",
+  "Event_SectCompetitionTeachDialog_12": "Haha! You dare to learn, don't I dare to teach? \nIf there is anything you don't understand, just ask me for advice!",
+  "Event_SectCompetitionTeachDialog_13": "It's rare that you look up to these humble skills of mine, \n if you do not understand anything, feel free to ask me for advice is ......",
+  "Event_SectCompetitionTeachDialog_14": "Good, your skills today, our school disciples can see, \n think is already understand the essence of our school of divine power, \n if there is still something not understand, feel free to ask me for advice!",
+  "Event_SectCompetitionTeachDialog_15": "Good, your skills today overwhelmed the group, our school disciples can see it for all to see, \n think you have got the true transmission of the Great God of the Xiang Shu! Since this is the case, how can we hide our secret ......",
   "Event_TownCompetitionTalkDialog_0": "What can I do for you?",
   "Event_TownCompetitionTalkDialog_1": "If you don't understand anything, just ask me for advice!",
   "Event_TownCompetitionTalkDialog_2": "Later on, you and I will do our best to fight fairly!",
