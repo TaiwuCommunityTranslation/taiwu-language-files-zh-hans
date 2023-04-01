@@ -1908,7 +1908,7 @@
   "LK_Buddhist_Title": "Buddhist Title",
   "LK_Birth_Record_Name": "Birth Name",
   "LK_Birth_Record": "Born <color=#B97D4B>{0}</color>. name <color=#9B8773FF>「{1}」</color>. ",
-  "LK_Birth_Record_Before": "{0} was born <color=#B97D4B>{1 }</color> years ago. Named <color=#9B8773FF>'{2}'</color>.",
+  "LK_Birth_Record_Before": "{0} was born <color=#B97D4B>{1}</color> years ago. Named <color=#9B8773FF>'{2}'</color>.",
   "LK_Birth_Tips": "Born in {0}",
   "LK_Tips_Recent_LifeRecords": "Recent experiences",
   "LK_Shop_DoDeal": "Confirm",
@@ -3282,7 +3282,7 @@
   "Event_ConquerInfected_NoVillage": " <Character key=RoleTaiwu str=Name/> Around",
   "Event_ForSecretInformationAppliedSelection_Cost": "Consumption",
   "Event_ForSecretInformationAppliedSelection_CanNotFight": " <color=#red> [You are too injured to fight!] </color> ",
-  "LK_EventEditor_DownloadExampleNotice": "By viewing the \"Documentation\", you can better help you use the Event Editor \n\n click \" <color=#darkcyan> <u> <link=\"Document\"> here </link> </u> </color> \", you can view the documentation of the Event Editor, which has the usage of the Event Editor \n\n click \" <color=#darkcyan> <u> <link=\"Example\"> here </link> </u> </color> \" to view a set of sample events to help you further understand how to make an event by example \n\n\n\n\n\n <color=#lightgrey> (When you select or create your own event, this information will no longer be displayed, you can find the usage documentation and sample events in the Event Editor at <color=#darkcyan> <u> <link=\"FAQ\"> \"Q&amp;A Library\" </link> </u> </color> , if you have any questions or suggestions about the Event Editor (If you have any questions or suggestions about the Event Editor, you are welcome to send us your questions and suggestions through the \"Support\" section of the game launcher, thank you very much!) </color> ",
+  "LK_EventEditor_DownloadExampleNotice": "By viewing the \"Documentation\", you can better help you use the Event Editor \n\n click \" <color=#darkcyan> <u> <link=\"Document\"> here </link> </u> </color> \", you can view the documentation of the Event Editor, which has the usage of the Event Editor \n\n click \" <color=#darkcyan> <u> <link=\"Example\"> here </link> </u> </color> \" to view a set of sample events to help you further understand how to make an event by example \n\n\n\n\n\n <color=#lightgrey> (When you select or create your own event, this information will no longer be displayed, you can find the usage documentation and sample events in the Event Editor at <color=#darkcyan> <u> <link=\"FAQ\"> \"Q&amp;A Library\" </link> </u> </color> , if you have any questions or suggestions about the Event Editor If you have any questions or suggestions about the Event Editor, you are welcome to send us your questions and suggestions through the \"Support\" section of the game launcher, thank you very much!) </color> ",
   "LK_EventEditor_AddEventGroup": "New event group",
   "LK_EventEditor_AddEventGroup_EnterKey": "Enter the event group Key ...",
   "LK_EventEditor_AddEventGroup_EnterName": "Enter the event group name ...",
@@ -3315,19 +3315,12 @@
   "Event_TombDiscribe1": "I can see that this place in a state of disrepair, the tombstone has also been submerged in a weed, difficult to identify...",
   "Event_TombDiscribe2": "I can see that the slope here is flat and the road is gentle, and the grave still has some paper money left on it from previous worshipers...",
   "Event_TombDiscribe3": "I can see the high tomb here, in good condition, orderly, incense and offerings at the grave...",
-  "LK_EventEditor_Publish_Steps": "Congratulations, the current Mod event library is ready! You can follow this process to publish your Mod: 
-1. In the automatically opened Config.lua file, fill in the name of your Mod to the value of the Title field and fill in the description of your Mod to the value of the Description field. (If you see the FileId field in the file, don't change the value of this field!)  
-2、Ctrl+S to save Config.lua. 
-3、Make your own Mod cover, copy the Mod cover mapping to the automatically opened Publish, and rename it to Cover.png. 
-4、Return to the main interface, click Module Select-&gt;Upload, enter the path of the automatically opened Publish folder just now at the path of the Module folder to be uploaded. path. 
-5、Select the module visibility, fill in the update brief, click OK to upload",
+  "LK_EventEditor_Publish_Steps": "Congratulations, the current Mod event library is ready! You can follow this process to publish your Mod: \n1. In the automatically opened Config.lua file, fill in the name of your Mod to the value of the Title field and fill in the description of your Mod to the value of the Description field. (If you see the FileId field in the file, don't change the value of this field!)  \n2、Ctrl+S to save Config.lua. \n3、Make your own Mod cover, copy the Mod cover mapping to the automatically opened Publish, and rename it to Cover.png. \n4、Return to the main interface, click Module Select-&gt;Upload, enter the path of the automatically opened Publish folder just now at the path of the Module folder to be uploaded. path. \n5、Select the module visibility, fill in the update brief, click OK to upload",
   "LK_EventEditor_EditConfigTemplate": "Edit configuration table entries",
   "LK_EventEditor_EditConfigTemplate_Guide": "A file that allows you to customize the configuration table has been opened for you, follow the guidelines in the file to edit the content of the new configuration items, remember to save it after editing! After editing, we suggest you rename this file (do not use Chinese, keep the .lua suffix)",
   "LK_EventEditor_EventGroupDirectory_NotExist": "The event group directory to which the event belongs no longer exists, please check if the directory has been deleted?",
   "LK_EventEditor_Open_CustomConfig_Directory": "Custom Configuration Directory",
-  "Event_SectCompetitionTeachDialog_1": "Good, master today's skill over the group, my school disciples are witnessed, 
- the so-called how to know that those who do not come today, this should be the greatest blessing of the martial arts ...... 
- master if you do not understand anything, please ask the poor monk is ......",
+  "Event_SectCompetitionTeachDialog_1": "Good, master today's skill over the group, my school disciples are witnessed, \n the so-called how to know that those who do not come today, this should be the greatest blessing of the martial arts ...... \n master if you do not understand anything, please ask the poor monk is ......",
   "Event_SectCompetitionTeachDialog_2": "Good, your skills today, the disciples of our school can see, \nIs really a new talent, when the bright moon to the clear sky! \nIf you don't understand anything, please ask me for advice ......",
   "Event_SectCompetitionTeachDialog_3": "Well, your skills today to overpower the group, my school disciples have witnessed, n\there are Tong Hua Wanli Danshan Road, the road ahead is a long way, but heard the sound of the phoenix clear ......\n if you do not understand the place, feel free to ask me for advice is ......",
   "Event_SectCompetitionTeachDialog_4": "Good, your skills today, my school disciples can see, \n can be said to be out of the blue but better than blue ......\n If you do not understand the place, please ask me for advice is ......",
