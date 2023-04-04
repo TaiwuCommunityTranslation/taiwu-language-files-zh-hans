@@ -2846,7 +2846,7 @@
   "LK_CharacterDefaultNickName_Man": "Ah {0}",
   "LK_CharacterDefaultNickName_Woman": "{0}'er",
   "LK_Combat_Config_Tips_No_Loot": "No item drops in this combat",
-  "LK_Combat_Config_Tips_No_Flee": "No escape in this combat",
+  "LK_Combat_Config_Tips_No_Flee": "Can't escape in this combat",
   "LK_Combat_Config_Tips_No_Capture": "No capturing opponent in this combat",
   "LK_Combat_Config_Tips_Skill_Sect": "Skills other than 「{0}'s」 are banned in this combat",
   "LK_Combat_Config_Tips_Skill_FiveElements": "Elements other than {0} are banned in this combat",
