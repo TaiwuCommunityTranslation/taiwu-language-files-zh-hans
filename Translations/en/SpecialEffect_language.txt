@@ -864,7 +864,7 @@ Offsetting external injury
 When this technique is used at 100% of its power, the user and all of the enemy's helpers will inevitably take the same damage as the enemy and receive twice the number of layers of this effect depending on the number of external injury the user has taken as a result: the number of layers of this effect will offset the external injury marks the enemy has inflicted on the user.
 Emotions
 Improve Breath
-When this technique is used with at least 10% of its power, the user gains 10 levels of this effect: the fewer the remaining levels of this effect, the more the user's heartbeat will increase when the user attacks the enemy
+When this technique is used with at least 10% of its power, the user gains 10 levels of this effect: the fewer the remaining levels of this effect, the more the user's Breath will increase when attacking enemy
 Crystal Tune
 When you start to perform this technique, if the enemy does not have the "None" style, the power of this technique will be greatly increased; When this technique is used at 100% of its power, add 1 "None" style to the enemy, and if the enemy does not have the "None" style, add 1 additional "None" style to the enemy
 Heart-Breaking
