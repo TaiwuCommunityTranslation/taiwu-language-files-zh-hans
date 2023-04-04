@@ -2342,7 +2342,7 @@ During the duration of this Footwork, when the wielder is attacked by an enemy, 
 Reverse - Jade Step
 When retreating with this Footwork, the user needs to accumulate power to move 3 distances at once, and then the degree of injury of a random wound on the user's body will be reduced by 2 levels.
 Reverse - Flower Listen Rain
-Enhancement of mindfulness reduction
+Enhancement of Focus reduction
 During the duration of this Footwork: the enemy's Focus will not be raised by any effect; all the effects of techniques and buffs that lower Focus the enemy receives are greatly increased
 Reverse - 5 Steps of Plum Poling
 During the duration of this Footwork, if the enemy attacks the user with a hit that is lower than the user's resolution, the chance of the enemy hitting the user is significantly reduced.
