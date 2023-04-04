@@ -819,7 +819,7 @@ Eliminate the enemy's Aegis
 When attacking an enemy with this technique, the power of this technique will be greatly increased if the enemy is using the "Aegis" technique; when this technique is at least 10% of its power, the "Aegis" technique used by the enemy will be eliminated
 Great Slow Hand
 Repeated cast
-At the end of the technique, the force of the user will be increased, and the user will be able to attack the enemy again from 50% of the progress of the technique without consumption until the enemy leaves the attack range of the technique.
+At the end of the technique, the Might of the user will be increased, and the user will be able to attack the enemy again from 50% of the progress of the skill without consumption until the enemy leaves the attack range of the technique.
 Ground Blade\nof Lion Face
 When you start performing this technique, it restores Stamina; in the process of performing this technique, you can advance up to 2 distances
 Rapid Blade\nof Mountain Cleave
