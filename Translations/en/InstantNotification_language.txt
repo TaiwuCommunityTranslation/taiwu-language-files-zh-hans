@@ -48,7 +48,7 @@ Found a new station: {1}!
 Found a new station at {0}: {1}!
 Through the Dark Abyss
 All party members received damage!
-Due to crossing <color=#brightred> Dark Abyss </color>, all fellow team members have suffered damage!
+Due to crossing <color=#brightred>Dark Abyss</color>, your entire team suffered damage!
 Adventure appears
 New Adventure: 「{1}」...
 {0} A new event has appeared: 「{1}」...
