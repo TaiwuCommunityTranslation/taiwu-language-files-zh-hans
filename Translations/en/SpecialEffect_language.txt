@@ -2504,7 +2504,7 @@ When retreating with this Footwork, the user needs to build up strength to move 
 Reverse - Tomb Escape
 During the duration of this technique, whenever the user hits the enemy with a "poisonous sand" type weapon, the enemy's Stamina will be lost.
 Reverse - Ghost Move
-The percentage of hits of leg kicks performed by the user with this Footwork other than Swift is significantly reduced and shifted to Swift.
+The percentage of Accuracies of Kick Techniques performed by the user with this Footwork other than Swiftness is significantly shifted to Swiftness.
 Reverse - Ghost Hou's Rage
 Increase the internal injury of legwork
 Direct internal damage to the enemy caused by the leg technique performed by the user with this Footwork is increased by an additional 2 levels
