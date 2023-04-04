@@ -3987,7 +3987,7 @@
   "LK_Adventure_Spend_Group_Character_Tips_Content": "Send Companion to open path.\nRequires {0} Attainment：{1}",
   "LK_Adventure_Start_Point": "Starting Point",
   "LK_Adventure_GainRecord_Tips_1": "Nothing...",
-  "LK_Adventure_GainRecord_Tips_2": "Skill check failed...",
+  "LK_Adventure_GainRecord_Tips_2": "Fine art check failed...",
   "LK_Adventure_GainRecord_Tips_3": "Successfully obtained {0}",
   "LK_Adventure_GainRecord_Tips_4": "Encounters {0}",
   "LK_Adventure_Gains_Title": "Rewards: {0}",
