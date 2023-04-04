@@ -2464,7 +2464,7 @@ Surrendering the enemy's momentum to restore
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Inhale and Stance Recoveries.
 Reverse - Hundred Feet's Drill
 Attrition of the enemy's bodywork
-During the duration of this Footwork, when the user is attacked by an enemy, the user will first hit the enemy with a Finesse attack, each one less and less accurate, and if the enemy fails to resolve this Finesse attack, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced.
+During the duration of this Footwork, they will first hit the enemy with a Swiftness attack that gradually weakens with the number of uses, and if the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced.
 Reverse - Sky Snake Rolling
 When retreating with this Footwork, the user needs to accumulate power to move 3 distances at once, and then apply a debuff that reduces all toxin resistance to the enemy according to the distance moved
 Reverse - A Hundred Feet Poling
