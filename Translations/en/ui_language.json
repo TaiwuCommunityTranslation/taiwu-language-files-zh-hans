@@ -2884,7 +2884,7 @@
   "UI_Profession_UnLcokSkillTips_2": "This skill will be unlocked when you reach 100% Seniority",
   "UI_Profession_AddSeniorityTips": "You can increase Aspiration's Seniority by using skills from that aspiration...",
   "LK_Treasure_Find": "Dig",
-  "LK_Treasure_Expect_Tips_Title": "【Excavation: pinch fingers to calculate】",
+  "LK_Treasure_Expect_Tips_Title": "【Digging: Calculation】",
   "LK_Treasure_Expect_Tips_Content": "After observation, there are treasures buried in {0}. If you excavate and search carefully, you may find {1}...",
   "LK_Life": "Life",
   "LK_ProfessionSkill_Confirm_Title": "Confirm use",
