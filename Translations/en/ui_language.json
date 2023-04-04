@@ -3995,7 +3995,7 @@
   "LK_Adventure_ArrangeNode_Tip": "Consuming the specified Seven Instincts stat can change the route of Adventure.\nWhen a Seven Instincts stat is consumed, its corresponding mutual generation and mutual restraint stat will increase or decrease accordingly.",
   "LK_Adventure_PerceiveNode_Tip": "Consuming the specified Seven Instincts value can reduce the Fine arts requirements required to obtain items to 0.",
   "LK_Adventure_Conquered_Tip": "\n\nYou have taken over this lair, you can now dispatch villagers to this location....",
-  "LK_Adventure_NodeTip_Title": "【Seven Instincts Change】",
+  "LK_Adventure_NodeTip_Title": "【Seven Instincts】",
   "LK_Mod_Name": "Mod Name",
   "LK_Mod_Manage": "Mods",
   "LK_Mod": "Mod",
