@@ -835,7 +835,7 @@
   "LK_ItemSubType_1207": "Reward",
   "LK_UnableTransfer": "（non-transferable）",
   "LK_UnablePoison": "（can't be laced with poison）",
-  "LK_UnableRepair": "（not repairable）",
+  "LK_UnableRepair": "（Unrepairable）",
   "LK_UnableRemould": "（can't be refined）",
   "LK_UnableChangeTrick": "(Can't Change)",
   "LK_Item_Type_Title": "【Item Type】",
