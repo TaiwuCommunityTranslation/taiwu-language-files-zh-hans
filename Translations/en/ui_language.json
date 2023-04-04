@@ -836,7 +836,7 @@
   "LK_UnableTransfer": "（non-transferable）",
   "LK_UnablePoison": "（Can't be poisoned）",
   "LK_UnableRepair": "（Unrepairable）",
-  "LK_UnableRemould": "（can't be refined）",
+  "LK_UnableRemould": "（Can't be refined）",
   "LK_UnableChangeTrick": "(Can't Change)",
   "LK_Item_Type_Title": "【Item Type】",
   "LK_Weapon_Property_Title": "【Weapon Attributes】",
