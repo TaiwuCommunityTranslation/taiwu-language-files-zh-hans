@@ -940,7 +940,7 @@
   "LK_Resource_Cannot_Collect_Not_Reach_Tips": "This location cannot be reached, gathering is impossible ......",
   "LK_Resource_Cannot_Collect_No_Resource_Tips": "There are no resources to gather at this location ......",
   "LK_Resource_Cannot_Collect_No_Time_Tips": "There are not enough days in the month to collect...",
-  "LK_Resource_Tips_Title": "{0} of {1}",
+  "LK_Resource_Tips_Title": "{0}'s {1}",
   "LK_Ui_Heal_Title": "Healing",
   "LK_Heal_Injury": "Heal",
   "LK_Heal_Injury_Tips": "Spend <color=#white>{0}</color> \"herbs\" to heal.",
