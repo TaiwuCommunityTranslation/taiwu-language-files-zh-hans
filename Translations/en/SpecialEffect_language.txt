@@ -2150,7 +2150,7 @@ When defending with this technique: the degree of injury of all direct damage re
 Reverse - Thousands Incarnation Return
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user's internal injury will be restored to the amount it was at the beginning of the defense with this technique, and half of the non-old internal injuries removed by the restoration will be applied to the enemy.
 Reverse - Pure Virgin
-The higher the charisma of the user, the higher the compliance of the user.
+The higher the charisma of the user, the higher the Focus of the user.
 Reverse - Reclamation Stance
 Applying a mind marker
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user applies 1 Breath injury to the enemy
