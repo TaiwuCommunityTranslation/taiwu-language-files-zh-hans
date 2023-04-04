@@ -673,7 +673,7 @@ Learae's Snowsteps
 Remove E·Style
 During the duration of this Footwork, when the user attacks the enemy, he/she will first hit the enemy with a Breath attack, each one less and less accurate, and if the enemy fails to resolve this Breath attack, he/she will randomly eliminate a portion of the enemy's available styles.
 Lady Azure's Icesteps
-Enhanced Swift Gain
+Enhanced Swiftness Gain
 During the duration of this Footwork: the swiftness of the user will not be reduced by any effect; all swiftness-enhancing techniques and buffs received by the user will be greatly increased
 Luoshen's Riversteps
 Restore your momentum
