@@ -3981,7 +3981,7 @@
   "LK_Adventure_Query_ExitAdventure": "Are you sure you want to exit this adventure?",
   "LK_Adventure_Status_Planning": "Planning route...",
   "LK_Adventure_Status_Planning_Tips": "Consume Seven Instincts to plan the path to the next adventure point.",
-  "LK_Adventure_Status_Moving": "Progressing adventure",
+  "LK_Adventure_Status_Moving": "Adventuring...",
   "LK_Adventure_Status_Moving_Tips": "Progressing adventure based on selected route...",
   "LK_Adventure_Spend_Group_Character_Tips_Title": "Send Companion",
   "LK_Adventure_Spend_Group_Character_Tips_Content": "Send Companion to open path.\nRequires {0} Attainment：{1}",
