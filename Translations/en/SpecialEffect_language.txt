@@ -737,7 +737,7 @@ Improves aura recovery
 Every time you move 1 distance with this Footwork, you apply a buff to the user that increases your Inhale and Stance Recoveries.
 Hundred Feet's Drill
 Attrition of the enemy's Aegis
-During the duration of this technique, when the user attacks an enemy, he/she will first hit the enemy with a swift attack that decreases with the number of times it is used. If the enemy fails to neutralize this swift attack, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced.
+During the duration of this Footwork, when the user attacks the enemy, they will first perform a Swiftness attack on the enemy that gradually weakens with the number of uses. If the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced
 Sky Snake Rolling
 Antitoxin resistance
 When advancing with this Footwork, the user needs to accumulate power to move 3 distances at once, and then apply a debuff to the enemy which reduces all toxin resistance according to the distance moved
@@ -2464,7 +2464,7 @@ Surrendering the enemy's momentum to restore
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Inhale and Stance Recoveries.
 Reverse - Hundred Feet's Drill
 Attrition of the enemy's bodywork
-During the duration of this Footwork, they will first hit the enemy with a Swiftness attack that gradually weakens with the number of uses, and if the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced.
+During the duration of this Footwork, they will first hit the enemy with a Swiftness attack that gradually weakens with the number of uses, and if the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced.
 Reverse - Sky Snake Rolling
 When retreating with this Footwork, the user needs to accumulate power to move 3 distances at once, and then apply a debuff that reduces all toxin resistance to the enemy according to the distance moved
 Reverse - A Hundred Feet Poling
