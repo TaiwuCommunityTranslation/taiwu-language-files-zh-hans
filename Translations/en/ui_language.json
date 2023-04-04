@@ -2192,7 +2192,7 @@
   "LK_CombatSkill_Sort_PracticeLevel": "repair",
   "LK_CombatSkill_Sort_Power": "Power",
   "LK_Revoke": "Revoke",
-  "LK_Outer_Skill": "Outer Skill",
+  "LK_Outer_Skill": "External",
   "LK_Inner_Skill": "Inner Arts",
   "LK_Skill_InnerOuterRatio": "Inner - Outer Ratio",
   "LK_Skill_InnerOuterRatioTip": "As your Inner - Outer Ratio improves, you'll be able to adjust internal and external ration of Martial Arts more...",
