@@ -656,7 +656,7 @@ During the duration of this Footwork, when the enemy attacks the user, the dista
 Divine Swift
 During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not less than 7, the user does not consume Footwork when moving.
 Above The Sky
-Enhanced subtle gain
+Enhanced Finesse gain
 During the duration of this Footwork: the user's Finesse will not be reduced by any effect; all Finesse-raising techniques and buffs effects received by the user are greatly increased
 Fallen Flower
 Whenever the user hits an enemy with a "Zither" type weapon during the duration of this Footwork, the user's Stamina is restored.
