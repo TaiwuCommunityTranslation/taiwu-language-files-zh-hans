@@ -1,7 +1,7 @@
 MIG 
 FIN 
-SWI
-BRE
+SWI 
+BRE 
 Ext. Pen.
 Int. Pen.
 DIV
