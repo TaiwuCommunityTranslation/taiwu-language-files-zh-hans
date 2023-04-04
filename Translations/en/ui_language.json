@@ -2583,7 +2583,7 @@
   "LK_Collect_Cost_Time": "Time required for collection: <SpName=sp_icon_shijian> 1",
   "LK_Fame_Tip_Record": "-{0} persist {1} time period",
   "LK_WorldMap_SweepNet_Amount": "Insect Trap {0}/1",
-  "LK_MiniMap_Lock": "Lock Minimap",
+  "LK_MiniMap_Lock": "Minimap Locked",
   "LK_RecordSelect_Continue": "Continue...",
   "LK_SetSelectCount_Tip": "Click again to confirm",
   "LK_ExchangeBook_Tip_0": "Your Pure Qi is not high enough. You will not be able to read and understand. The other party is not willing to hand over this manual...",
