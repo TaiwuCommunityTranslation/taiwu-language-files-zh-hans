@@ -2556,7 +2556,7 @@
   "LK_Item_Disassemble_Tip_Resource_Name": "{0}: ",
   "LK_Item_Disassemble_Tip_Resource_Header": "【Possible Resource】",
   "LK_Item_Disassemble_Tip_Material_Chance": "【Possible drops】",
-  "LK_Item_Disassemble_Tip_Material_Certain": "【Obtain Item】",
+  "LK_Item_Disassemble_Tip_Material_Certain": "【Obtainable Items】",
   "LK_Item_Operaiton_Tip_Tool": "Tool Durability：<color=#C16927>{0}</color>/{1}",
   "LK_Item_Repair_Tip_Title": "Repair Items",
   "LK_Item_Repair_Tip_Durability_Sufficient": "Durability: {0}/{1}",
