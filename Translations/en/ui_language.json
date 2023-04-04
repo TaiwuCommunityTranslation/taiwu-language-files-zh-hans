@@ -2261,7 +2261,7 @@
   "LK_RelationShipSpec_Spouse": "Spouse",
   "LK_RelationShipSpec_Child": "Children",
   "LK_RelationShipSpec_StepChild": "Step Child",
-  "LK_RelationShipSpec_FosterChild": "Foster Child",
+  "LK_RelationShipSpec_FosterChild": "Adopted Child",
   "LK_RelationShipSpec_GrandChildren": "Grandchild",
   "LK_RelationShipSpec_Blood": "Blood relatives",
   "LK_RelationShipSpec_Step": "Step relatives",
