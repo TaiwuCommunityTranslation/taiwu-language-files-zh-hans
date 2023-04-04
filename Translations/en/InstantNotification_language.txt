@@ -53,7 +53,7 @@ Adventure appears
 New Adventure: 「{1}」...
 {0} A new event has appeared: 「{1}」...
 Experiencing natural disasters
-Due to a natural disaster <color=#brightred> </color> in {0}, all fellow team members were damaged!
+Due to a <color=#brightred>Natural Disaster</color> in {0}, your entire team suffered damage!
 Joining team
 {0} has joined the team!
 Leaving team
