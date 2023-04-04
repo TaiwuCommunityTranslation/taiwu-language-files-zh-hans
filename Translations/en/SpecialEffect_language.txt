@@ -2392,7 +2392,7 @@ Reverse - Divine Swift
 During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not greater than 7, the user does not consume Footwork when moving.
 Reverse - Above The Sky
 Enhancement Parry
-During the duration of this Footwork: the enemy's Might attacks will not be increased by any effect; the enemy suffers a significant increase in all techniques and buffs that reduce Might attacks.
+During the duration of this Footwork: the enemy's Parry stat will not be increased by any effect; the enemy suffers significantly more effect from all skills and negative effects that reduce Parry stat.
 Reverse - Fallen Flower
 During the duration of this technique, whenever the user hits the enemy with a "Zither" type weapon, the enemy's Stamina will be lost.
 Reverse - Skyscraper Climbing
