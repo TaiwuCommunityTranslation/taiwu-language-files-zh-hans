@@ -3979,7 +3979,7 @@
   "LK_Adventure_Button_Exit_Disable": "Cannot leave in the middle of this adventure",
   "LK_Adventure_Query_ConfirmPath": "Are you sure you want to follow this route?",
   "LK_Adventure_Query_ExitAdventure": "Are you sure you want to exit this adventure?",
-  "LK_Adventure_Status_Planning": "Planning routes",
+  "LK_Adventure_Status_Planning": "Planning route...",
   "LK_Adventure_Status_Planning_Tips": "Consume Seven Instincts to plan the path to the next adventure point.",
   "LK_Adventure_Status_Moving": "Progressing adventure",
   "LK_Adventure_Status_Moving_Tips": "Progressing adventure based on selected route...",
