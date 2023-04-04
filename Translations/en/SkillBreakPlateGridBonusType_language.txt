@@ -2,17 +2,17 @@ MIG
 FIN 
 SWI 
 BRE 
-Ext. Pen.
-Int. Pen.
-DIV
-PAR
-EVA
-FOC
-Ext. Def.
-Int. Def.
-Stance
-Inhale
-Movement Speed
+Ext. Pen. 
+Int. Pen. 
+DIV 
+PAR 
+EVA 
+FOC 
+Ext. Def. 
+Int. Def. 
+Stance 
+Inhale 
+Movement Speed 
 Robust
 Putting to use
 Passing
