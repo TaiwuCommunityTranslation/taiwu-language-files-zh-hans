@@ -2,7 +2,7 @@ Expansion completed
 {0} {1} Expansion complete!
 {0}'s {1} expansion complete!
 Removal completed
-{0} {1}Removal complete!
+{0} {1} Removal complete!
 {0}'s {1} removal complete!
 Crafting Finished
 {0} {1} finished making!
