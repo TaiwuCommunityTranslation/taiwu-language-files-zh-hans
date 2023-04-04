@@ -2063,7 +2063,7 @@ Reverse - Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 non-injury markers
 Reverse - 36 Moves of Needle Change
 Surrendering the enemy to change the move to hit
-Reduces the force, Finesse, Swiftness, and Breath of an enemy's "move".
+Reduces the Might, Finesse, Swiftness, and Breath of an enemy's "Style Change".
 Reverse - Net Clothes
 Poison Dmg Dn
 Reduces the degree of injury of the poisonous damage suffered by the user during a poisonous attack
@@ -2880,7 +2880,7 @@ Reverse - Forged Bone\nFist
 Reduced usage requirements
 Based on the power of this technique, it reduces the user's requirements to use all "Break" techniques until the end of the battle.
 Reverse - Drunk\n8 Immortals Fist
-When this technique is used with at least 10% of its power, the user will get 8 levels of this effect: when the enemy attacks the user with a weapon, the enemy can only hit with the lowest of force, Finesse, Swiftness and Breath; if the user is drunk, when the enemy attacks the user with a weapon, the lowest of the enemy's hits will be reduced.
+When this technique is used with at least 10% of its power, the user will get 8 levels of this effect: when the enemy attacks the user with a weapon, the enemy can only hit with the lowest of Might, Finesse, Swiftness and Breath; if the user is drunk, when the enemy attacks the user with a weapon, the lowest of the enemy's hits will be reduced.
 Reverse - Refining\nFire Palm
 Improve your defense
 When hitting the enemy with this technique, the enemy's protective gear cannot reduce the effect of the attack of the user; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the user is attacked by the enemy's technique, it consumes 10 points of the user's Constitution and improves the user's Ext. and Int. Defense.
