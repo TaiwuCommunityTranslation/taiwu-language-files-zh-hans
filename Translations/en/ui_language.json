@@ -2894,7 +2894,7 @@
   "LK_ProfessionSkill_Confirm_Confirm": "，are you sure you want to use this skill？",
   "LK_TimeCost": "Time Cost: <color=#pinkyellow>{0}/{1}</color>",
   "LK_ExpCost": "Exp Cost：<color=#pinkyellow>{0}/{1}</color>",
-  "LK_SocialSkill": "Social Skill",
+  "LK_SocialSkill": "Actions",
   "LK_CombatPractice": "Combat Practice",
   "LK_ProfessionSkill_Seniority_NotMeet": "Insufficient Seniority...",
   "LK_ProfessionSkill_Time_NotMeet": "Not enough time left...",
