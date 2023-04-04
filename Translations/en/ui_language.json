@@ -955,7 +955,7 @@
   "LK_Collect_Resource_Tip_Title": "Collect",
   "LK_Collect_Resource_Tip_Desc": "Spend time to collect various resources, the more abundant the resource is in a location, the more of them you will get, and the higher the chance of getting an item will be.",
   "LK_Time_Collect_Resource_Tip_Title": "Gather Yourself",
-  "LK_Time_Collect_Resource_Tip_Desc": "Spend <color=#8FBAE7FF> 1 1 time to collect resources…",
+  "LK_Time_Collect_Resource_Tip_Desc": "Spend <color=#8FBAE7FF> 1 time to collect resources…",
   "LK_Villager_Collect_Resource_Tip_Title": "Send manpower",
   "LK_Villager_Collect_Resource_Tip_Desc": "Taiwu villager has been dispatched here to collect resources...",
   "LK_Villager_Collect_Resource_And_Mark_Confirm": "Are you sure you want to Dispatch <color=#darkbrown>{0}</color> villagers to this location?",
