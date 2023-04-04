@@ -3604,7 +3604,7 @@ The direct damage dealt by Jiu Han to characters with internal energy attribute 
 Extra-Terrestrial True Fire
 The direct damage dealt by Jin Huo'er to characters with dominant internal element "Metal" is greatly increased; the direct damage dealt by characters with dominant internal element "Water" to Jin Huo'er is greatly increased
 illusion
-Yi Yi Hou deals significantly more direct damage to characters whose Breath is lower than her own; characters whose Breath is higher than Yi Yi Hou's deal significantly more direct damage to Yi Yi Hou
+Yi Yihou deals significantly more direct damage to characters whose Breath or Focus is lower than her own; Characters whose Breath or Focus is higher than Yi Yihou's deal significantly more direct damage to Yi Yihou
 seek the law outside the body
 Weiqi deals significantly more direct damage to characters with lower Might or Diversion than himself; characters with higher Might or Diversion than Weiqi deal significantly more direct damage to Weiqi
 play ghosts and collect gods
