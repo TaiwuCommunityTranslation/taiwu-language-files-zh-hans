@@ -3990,7 +3990,7 @@
   "LK_Adventure_GainRecord_Tips_2": "Skill check failed...",
   "LK_Adventure_GainRecord_Tips_3": "The skill judgment was successful, and {0} was obtained",
   "LK_Adventure_GainRecord_Tips_4": "Encounters {0}",
-  "LK_Adventure_Gains_Title": "Adventure gains: {0}",
+  "LK_Adventure_Gains_Title": "Rewards: {0}",
   "LK_Adventure_Gain_Item": "{0} Items",
   "LK_Adventure_ArrangeNode_Tip": "Consuming the specified Seven Instincts stat can change the route of Adventure.\nWhen a Seven Instincts stat is consumed, its corresponding mutual generation and mutual restraint stat will increase or decrease accordingly.",
   "LK_Adventure_PerceiveNode_Tip": "Consuming the specified Seven Instincts value can reduce the Fine arts requirements required to obtain items to 0.",
