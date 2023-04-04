@@ -3988,7 +3988,7 @@
   "LK_Adventure_Start_Point": "Starting Point",
   "LK_Adventure_GainRecord_Tips_1": "Nothing happened...",
   "LK_Adventure_GainRecord_Tips_2": "Skill check failed...",
-  "LK_Adventure_GainRecord_Tips_3": "The skill judgment was successful, and {0} was obtained",
+  "LK_Adventure_GainRecord_Tips_3": "Successfully obtained {0}",
   "LK_Adventure_GainRecord_Tips_4": "Encounters {0}",
   "LK_Adventure_Gains_Title": "Rewards: {0}",
   "LK_Adventure_Gain_Item": "{0} Items",
