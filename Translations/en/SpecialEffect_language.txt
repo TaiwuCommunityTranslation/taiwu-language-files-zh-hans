@@ -3612,7 +3612,7 @@ The direct damage dealt by Yi Xiang to a character whose Swiftness or Evasion is
 Gods and Earths
 The direct damage dealt by Xue Feng to characters with the dominant internal element "Water" is greatly increased; the direct damage dealt by characters with the dominant internal element "Wood" to Xue Feng is greatly increased
 Distracted God Realm
-The direct damage dealt by the jutsu side to characters with lower subtlety or dismantling moves than their own is significantly increased; the direct damage dealt by characters with higher subtlety or dismantling moves than the jutsu side to the jutsu side is significantly increased
+The direct damage dealt by Shu Fang to characters with lower Finesse or Parry than his own is significantly increased; the direct damage dealt to Shu Fang by characters with higher Finesse or Parry than Shu Fang is significantly increased
 Out-of-bounds Heart Swallowing
 The more direct damage an armature deals to a character with a higher enchantment value, the more direct damage a character with a lower enchantment value deals to an armature.
 hidden dust
