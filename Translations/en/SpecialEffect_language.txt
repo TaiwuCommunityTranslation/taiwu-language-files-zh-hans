@@ -1685,7 +1685,7 @@ When this technique is used with at least 10% of its power, the user gains 4 lev
 Wudang Soft\nPalm
 When hitting the enemy with this technique, the enemy's protective gear cannot weaken the effect of the user's attack; after this technique has exerted at least 10% of its power, the user gains 3 levels of this effect: when the enemy is attacked by the user's technique, it consumes 10 points of the user's Vitality and increases the user's Ext. and Int. Penetration
 The 8 Trigrams\nPalm
-At the beginning of the battle, the user gains 0 layers of this effect: for every distance the user moves, this effect increases by 1 layer, up to a maximum of 5 layers. The higher the number of layers of this effect, the less Inhale and Stance the user needs to consume when performing this technique, and the more the user's strength, Finesse and Swiftness will increase; after the performance of this technique is finished, this effect decreases by 1 layer
+At the beginning of the battle, the user gains 0 layers of this effect: for every distance the user moves, this effect increases by 1 layer, up to a maximum of 5 layers. The higher the number of layers of this effect, the less Inhale and Stance the user needs to consume when performing this technique, and the more the user's Might, Finesse and Swiftness will increase; after the performance of this technique is finished, this effect decreases by 1 layer
 The Ultra One\nUnfettered Palm
 In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique increases, and the user can gain 2 points of "Nadis" for every 1 distance.
 Divine Fist
