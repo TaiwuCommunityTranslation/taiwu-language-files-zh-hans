@@ -834,7 +834,7 @@
   "LK_ItemSubType_1206": "Rope",
   "LK_ItemSubType_1207": "Reward",
   "LK_UnableTransfer": "（non-transferable）",
-  "LK_UnablePoison": "（can't be laced with poison）",
+  "LK_UnablePoison": "（Can't be poisoned）",
   "LK_UnableRepair": "（Unrepairable）",
   "LK_UnableRemould": "（can't be refined）",
   "LK_UnableChangeTrick": "(Can't Change)",
