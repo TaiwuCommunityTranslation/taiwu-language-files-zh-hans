@@ -2870,7 +2870,7 @@
   "UI_Profession_Profession_AdditonalClothing_Tips": "When you wear clothes that match your aspiration, you can double the growth rate of your Seniority corresponding to your aspiration.",
   "UI_Profession_Profession_ChangeProfessionCooldown": "In cooldown for <color=#yellow>{0}</color> months…",
   "UI_Profession_ProfessionDescBase_1": "{0} aspiration",
-  "UI_Profession_ProfessionDescBase_2": "Consistent with <color=#brightblue>{0}</color> aspirations,",
+  "UI_Profession_ProfessionDescBase_2": " is consistent with <color=#brightblue>{0}</color> aspirations,",
   "UI_Profession_ProfessionDescBase_3": "Contradicts <color=#brightred>{0}</color> aspirations.",
   "UI_Profession_ProfessionDesc_Tips": "Linked aspirations affect the cooldown when switching aspirations. \n<color=#lightgrey>Neutral Aspirations</color>: {0} months\n<color=#brightblue>Consistent aspirations</color>: {1} months\n<color=#brightred> Contradicting aspirations</color>: {2} months",
   "UI_Profession_ChangeProfession_Notify_1": "After switching aspirations, all aspirations except the currently selected aspiration will enter the <color=#brightred>Switch Cooldown</color>, and most of the aspiration abilities and effects that are not from the current aspiration will also <color=#brightred>be invalid</color> >. Are you sure you want to switch aspirations?",
