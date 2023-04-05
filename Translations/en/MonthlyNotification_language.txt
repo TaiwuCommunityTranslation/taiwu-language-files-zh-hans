@@ -160,9 +160,9 @@ Painting Showcase
 Masterpiece Manufactured
 {0} has created the fabled {2} in {1} and the fame has spread all over the world.
 Taoist Enlightenment
-{0} told {2} about the mysteries of the Tao in {1}, which enlightened {2} and enhanced {3}'s qualifications.
+{0} told {2} about the mysteries of the Tao in {1}, which enlightened {2} and enhanced {3}'s talent.
 Buddhist Enlightenment
-{0} spoke to {2} in {1} about the subtleties of Buddhism, which led to {2}'s enlightenment and enhanced {3}'s qualifications.
+{0} spoke to {2} in {1} about the subtleties of Buddhism, which led to {2}'s enlightenment and enhanced {3}'s talent.
 Divination
 {0} divined in {1} a certain secret story possessed by {2}.
 Heavenly Treasures
