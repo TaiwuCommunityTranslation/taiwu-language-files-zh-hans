@@ -1364,7 +1364,7 @@ Acala Poke
 When this technique is used with at least 10% of its power, the 「Pestle」 used by the user is augmented by "Immovable King": as long as the user is holding 「Pestle」, the user's movement speed is greatly reduced and all direct damage to the user is greatly reduced.
 Immovable King: As long as the user is holding 「Pestle」, the user's movement speed is greatly reduced, and all direct damage to the user is greatly reduced.
 None-Shape\nLittle Catch
-According to the power of this technique to play into the number of attrition of the enemy's frame
+Based on the power of this technique, enemy's Stance will be depleted
 Picking Star\nMove
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all the "Punch" and "Hold" styles gained by the user are changed to "Point" styles
 Jade Well Hands
