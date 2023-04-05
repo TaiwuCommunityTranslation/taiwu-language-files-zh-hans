@@ -5,7 +5,7 @@ Time required: {0}
 Cooldown after using: {0} months
 Their Favor is at least {0}
 {0}'s Regional Favor is at: {1}%
-Taiwu has at least {0} money
+Money required: {0}
 Taiwu has at least {0} prestige
 Taiwu has less than {0} sworn siblings
 When the secret news happened, {0}'s Fame was positive.
