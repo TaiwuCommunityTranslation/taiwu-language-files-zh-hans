@@ -1060,7 +1060,7 @@
   "LK_Building_RemoveTip": "Time left:",
   "LK_Building_NewBuildTip2": "In progress",
   "LK_Building_RemoveTip2": "Removing",
-  "LK_Building_ItemToWarehouse": "Items Stored In Warehouse",
+  "LK_Building_ItemToWarehouse": "Items Go to Storage",
   "LK_Building_GetResource": "Resources Harvested",
   "LK_Building_LockOfResource": "Insufficient resources",
   "LK_Building_LockOfMoney": "Insufficient money",
