@@ -2,7 +2,7 @@ Amount of Taiwu's teammates is less than {0}
 Amount of Taiwu teammates is not less than {0}
 Taiwu has at least {0} time available
 {0} is not Taiwu's teammate
-Have to wait {0} months before using
+Cooldown after using: {0} months
 Favor with them is at {0} or higher
 {0}'s local deeds are more than: {1}%
 Taiwu has at least {0} money
