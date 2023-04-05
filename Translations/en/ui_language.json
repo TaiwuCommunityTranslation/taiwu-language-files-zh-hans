@@ -2863,7 +2863,7 @@
   "UI_Profession_ProfessionCloth_TipTitle": "Aspiration's Clothing",
   "UI_Profession_ProfessionCloth_TipContent_1": "<color=#brightblue>·Wearing Aspiration's Clothes</color>\n·Seniority Acquisition Bonus: <color=#pinkyellow>100%</color>",
   "UI_Profession_ProfessionCloth_TipContent_2": "<color=#brightred>·Not Wearing Aspiration's Clothes</color>\n·Seniority Acquisition Bonus: <color=#pinkyellow>0%</color>",
-  "UI_Profession_ProfessionAttainment_LifeSkill": "·Aspiration's skills: <color=#brightblue>{0}</color>",
+  "UI_Profession_ProfessionAttainment_LifeSkill": "·Aspiration's skill: <color=#brightblue>{0}</color>",
   "UI_Profession_ProfessionAttainment_CombatSkill": "·Aspiration's martial arts: <color=#brightblue>{0}</color>",
   "UI_Profession_ProfessionAttainment_TipTitle": "Aspiration's Attainment",
   "UI_Profession_ProfessionAttainment_TipAttainment_Content": "·{0} attainment: <color=#brightblue>{1}</color>\n·Seniority Acquisition Bonus: <color=#pinkyellow>{2}%</color>",
