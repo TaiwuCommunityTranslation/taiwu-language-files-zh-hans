@@ -731,7 +731,7 @@ Reduced Footwork consumption
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at once. If the user has not attacked before the next accumulation of power, the cumulative amount of Footwork consumed by the user when advancing with this Footwork is reduced.
 Flying Head
 Free from breakage and sealing points
-During the duration of this body method, when the distance between the enemy and me is not less than 7, the user will not appear new breakthroughs and will not be closed acupuncture points
+During the duration of this body method, when the distance between the enemy and me is not less than 7, the user won't receive new Weak Points or Sealed Acupoints
 Rope Overhang
 Improves aura recovery
 Every time you move 1 distance with this Footwork, you apply a buff to the user that increases your Inhale and Stance Recoveries.
