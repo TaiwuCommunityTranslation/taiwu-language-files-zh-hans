@@ -4,7 +4,7 @@ Time required: {0}
 {0} is not Taiwu's teammate
 Cooldown after using: {0} months
 Their Favor is at least {0}
-{0}'s local deeds are more than: {1}%
+{0}'s Regional Favor is at: {1}%
 Taiwu has at least {0} money
 Taiwu has at least {0} prestige
 Taiwu has less than {0} sworn siblings
@@ -14,7 +14,7 @@ When the secret news happened, {0} and {1} were close
 When the secret news happened, {0} and {1} were lovers
 When the secret news happened, {0} was a victim
 Taiwu's standpoint is {0}
-{0}'s local deeds are more than: {1}%
+{0}'s Regional Favor is at: {1}%
 Taiwu has at least {0} experience
 The opponent's purity isn't higher than {0}
 Amount of Taiwu's teammates is less than {0}
