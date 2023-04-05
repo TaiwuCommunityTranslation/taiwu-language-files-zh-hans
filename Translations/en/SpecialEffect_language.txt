@@ -927,7 +927,7 @@ Taoism-Trinity\nFinger
 When this technique is at least 10% powerful, the user takes 1 "point" from the enemy.
 Hook Clamp
 Breakage increases external injury
-When this technique is used at 100% of its power, the enemy's attacked part of the breach will additionally increase the degree of external injury to the enemy
+When this technique is used at 100% of its power, the enemy's attacked part of the Weak Point will additionally increase the degree of external injury to the enemy
 5 Mantra\n5 Phases
 When attacking an enemy with this technique, the more of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, the more the user's hits will increase; When this technique is used at 100% of its power than the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, at least 3 of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, 2 "None" will be applied to the enemy.
 Pivot Move
@@ -1873,7 +1873,7 @@ Reduces the requirements (by 20%) to use the "Lion's Gate" techniques of the use
 Reverse -  Thirteen Tai Bao cross practice
 When the user continuously attacks the enemy with the same technique in this battle, the damage dealt by the user will be increased each time, up to a maximum of 3 times.
 Reverse -  Iron Tripod Golden Body Technique
-Significantly reduces the maximum number of breaches per part of the user's body, but if the user has at least 3 breaches, the external injury caused by the user is also reduced
+Significantly reduces the maximum number of Weak Pointes per part of the user's body, but if the user has at least 3 Weak Pointes, the external injury caused by the user is also reduced
 Reverse -  Light Lion Power
 Significantly reduce the "Strength" consumption of the user
 Reverse -  Nourishing the will method
@@ -2412,7 +2412,7 @@ During the duration of this Footwork: the enemy's Evasion will not be increased 
 Reverse - Luoshen's Riversteps
 Every time you retreat 1 distance with this Footwork, you will regain your energy and Footwork.
 Reverse - Feather Stance
-When retreating with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the more random parts of the enemy will be added to the breach, sealing points
+When retreating with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the more random parts of the enemy will be added to the Weak Point, sealing points
 Reverse - Wooden Track
 Whenever an enemy deals direct damage to the user during the duration of this Footwork, the user's Footwork and Stamina are restored.
 Reverse - Car Driving Chapter
@@ -2458,7 +2458,7 @@ During the duration of this Footwork, the enemy's movement speed cannot be incre
 Reverse - Toad Leap
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at once. If the user has not attacked before the next accumulation of power, the cumulative amount of Footwork consumed by the user when advancing with this Footwork is reduced.
 Reverse - Flying Head
-During the duration of this body method, when the distance between the enemy and me is not greater than 7, the user will not appear a new breach nor be closed acupuncture points
+During the duration of this body method, when the distance between the enemy and me is not greater than 7, the user will not appear a new Weak Point nor be closed acupuncture points
 Reverse - Rope Overhang
 Surrendering the enemy's momentum to restore
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Inhale and Stance Recoveries.
@@ -2627,7 +2627,7 @@ Reverse - Taoism-Trinity\nFinger
 When this technique is used with at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain "point" style
 Reverse - Hook Clamp
 Breakage increases internal injuries
-When this technique is used at 100% of its power, the enemy's attacked part of the breach will additionally increase the degree of direct internal injuries suffered by the enemy
+When this technique is used at 100% of its power, the enemy's attacked part of the Weak Point will additionally increase the degree of direct internal injuries suffered by the enemy
 Reverse - 5 Mantra\n5 Phases
 When attacking the enemy with this technique, the more the calmness, intelligence, enthusiasm, bravery and perseverance of the user is higher than that of the enemy, the more the enemy's resolution will be reduced; When this technique is used at 100% of its power, if at least three of the calmness, intelligence, enthusiasm, bravery and perseverance of the user are higher than that of the enemy, 2 marks of Breath injury will be applied to the enemy.
 Reverse - Pivot Move
@@ -3127,7 +3127,7 @@ Based on the power of this technique, apply an External Defense debuff to the en
 Reverse - Finger of\nCatching Flower
 As long as this technique is not resolved with Parry by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
 Reverse - Great Finger\nof Vajra
-When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at ten percent of its power, one of the enemy's attacked parts will be changed into an internal injury marker for both the breach and one of the sealed points.
+When attacking the enemy with this technique: the armor of the user is greatly increased; when this technique is used at ten percent of its power, one of the enemy's attacked parts will be changed into an internal injury marker for both the Weak Point and one of the sealed points.
 Reverse - Whirling\nVajra Ring
 After this technique has reached 100% of its power, the user gains 6 layers of this effect: the degree of direct internal injuries suffered by the user is reduced by 2 layers, and the user is able to counteract the direct internal injuries caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and when performed this way, this technique has no special effects.
 Reverse - Shaolin\nDragon Claw
@@ -3185,7 +3185,7 @@ Reverse - The Great\nFinger of Mt.Light
 When you start to perform this technique, if the enemy's dominant internal element is "mixed element", the power of this technique will be greatly increased.
 Reverse - Heavenly Spirit\nFinger
 Breach re-emerges
-The level of the breach caused by this technique to the enemy will not be reduced for any reason; after this technique has been used with 100% of its power, the user gains 7 levels of this effect: whenever the enemy eliminates a breach of level less than 4, the breach will reappear and the level of the breach will increase by 1 level, and it will not trigger any effect caused by the breach
+The level of the Weak Point caused by this technique to the enemy will not be reduced for any reason; after this technique has been used with 100% of its power, the user gains 7 levels of this effect: whenever the enemy eliminates a Weak Point of level less than 4, the Weak Point will reappear and the level of the Weak Point will increase by 1 level, and it will not trigger any effect caused by the Weak Point
 Reverse - Swordsmanship\nof Flower Brush
 Reduce enemy's Evasion
 When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's Evasion is reduced when the user attacks the enemy
