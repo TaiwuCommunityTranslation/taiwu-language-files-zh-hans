@@ -2929,7 +2929,7 @@
   "LK_ProfessionSkill_DukeSkill1_Vacancy": "Vacancies",
   "LK_ProfessionSkill_AristocratSkill1": "Does not work for owners of Strange Books",
   "LK_ProfessionSkill_NotCoolDown": "The skill is not on cooldown...",
-  "LK_ProfessionSkill_CoolDown": "Cooldown: <color=#brightblue>{0}</color>",
+  "LK_ProfessionSkill_CoolDown": "CD: <color=#brightblue>{0}</color>",
   "LK_ProfessionSkill_SettlementType_SectCity": "Sect, Capital",
   "LK_ProfessionSkill_CurrentBonus": "【Current Gain】: {0}",
   "LK_EquipmentEffect_Current": "Current",
