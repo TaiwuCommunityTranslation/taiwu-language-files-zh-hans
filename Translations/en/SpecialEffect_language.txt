@@ -2983,7 +2983,7 @@ Reverse - Acala Poke
 When this technique is at least 10% of its power, the Club used by the user is enhanced by "Fudo": as long as the user holds this Club, the user's movement speed is greatly increased and all direct damage to the user is greatly increased.
 Immovable King: As long as the user is holding 「Pestle」, the user's movement speed is greatly increased, and all direct damage to the user is also greatly increased.
 Reverse - None-Shape\nLittle Catch
-Depending on the percentage of power this technique exerts, the loss of the enemy's Inhale
+Based on the power of this technique, the enemy's Inhale will be depleted
 Reverse - Picking Star\nMove
 When this technique is at least 10% of its power, the user gains 2 "points".
 Reverse - Jade Well Hands
