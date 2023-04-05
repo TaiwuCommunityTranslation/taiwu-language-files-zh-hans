@@ -2694,7 +2694,7 @@ Reverse - Fallen Hands\nof Mt.Chai
 E·ATK Spd Dn
 Apply an Attack Speed debuff to the enemy based on the power of this technique
 Reverse - Hook Claw
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the poison applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Acritoxin applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Iron Flower\nRotten Bone Claw
 This technique increases the direct damage dealt to the enemy's Torso by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Jade Cicada\nFinger
