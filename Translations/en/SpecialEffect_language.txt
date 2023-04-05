@@ -2458,7 +2458,7 @@ During the duration of this Footwork, the enemy's movement speed cannot be incre
 Reverse - Toad Leap
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at once. If the user has not attacked before the next accumulation of power, the cumulative amount of Footwork consumed by the user when advancing with this Footwork is reduced.
 Reverse - Flying Head
-During the duration of this body method, when the distance between the enemy and me is not greater than 7, the user will not appear a new Weak Point nor be closed acupuncture points
+During the duration of this Footwork, when the distance between the enemy and me is not greater than 7, the user won't receive new Weak Points or Sealed Acupoints
 Reverse - Rope Overhang
 Surrendering the enemy's momentum to restore
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Inhale and Stance Recoveries.
