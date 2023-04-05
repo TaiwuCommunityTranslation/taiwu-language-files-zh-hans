@@ -1290,7 +1290,7 @@
   "LK_Abyss_Injury_Tip": "Crossing <color=#red>Chasm</color>！All party members received damage！",
   "LK_Discover_New_Station_Tip": "<color=#yellow>Discovered a new station: <color=#darkbrown>{0}</color>!</color>",
   "LK_Select_Travel_Destination": "Select Travel Destination",
-  "LK_Mark_Location": "Mark Location",
+  "LK_Mark_Location": "Dispatch villagers",
   "LK_Mark_Location_Tip": "After dispatching villagers at this location, you can recall them from the villager dispatch screen...",
   "LK_Mark_Location_Confirm_Tip": "Are you sure you want to send villagers here?",
   "LK_Unmark_Location": "Recall Villager",
