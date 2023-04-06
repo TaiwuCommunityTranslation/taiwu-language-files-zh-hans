@@ -3,7 +3,7 @@ Amount of Taiwu teammates is not less than {0}
 Time required: {0}
 {0} is not Taiwu's teammate
 Cooldown after using: {0} months
-Their Favor is at least at {0}
+Favor required: {0}
 {0}'s Regional Favor is at: {1}%
 Money required: {0}
 Prestige required: {0}
@@ -29,7 +29,7 @@ Taiwu needs to have {0}
 {0} Qi Disorder needs to be lower than {1}
 Taiwu's Qi Disorder needs to be lower than {0}
 {0}'s standpoint has to be {1} or {2}
-Their Favor is at least at {0}
+Favor required: {0}
 {0} cannot be a monk
 {0} must be a city lord
 {0} can't be Possessed or Enthralled by XiangShu
