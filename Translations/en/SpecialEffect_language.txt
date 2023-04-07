@@ -1487,7 +1487,7 @@ Ghost Poison\nSand
 Change styles
 When this technique is used with at least 10% of its power, it will change up to 2 of the user's unusable styles into "Toxic" styles.
 Decayed Worm\nSand
-When attacking an enemy with this technique, the special effect of the enemy's "Aegis" technique cannot take effect if the enemy's poison attacks his heart.
+When attacking an enemy with this technique, the special effect of the enemy's "Aegis" technique cannot take effect if the enemy's Necrotoxin attacks his heart.
 Bone-Corrosion\nSand
 Grave Sand
 Doing legwork to perform
@@ -3091,7 +3091,7 @@ Reverse - Ghost Poison\nSand
 Change E·style
 When this technique is used with at least 10% of its power, it will change up to 2 of the enemy's available styles into "Toxic" styles.
 Reverse - Decayed Worm\nSand
-When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's poison attacks his heart.
+When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's Necrotoxin attacks his heart.
 Reverse - Bone-Corrosion\nSand
 Reverse - Grave Sand
 When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 100% power, the user will get 2 layers of this effect: for every cumulative distance back, the user will perform this technique to attack the enemy without consumption starting from 50% of the performance progress, and when performed this way, this technique has no special effects.
