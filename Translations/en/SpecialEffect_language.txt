@@ -1014,7 +1014,7 @@ Iron Flower\nRotten Bone Claw
 Wounds inflicted by this technique on the enemy's Torso will change to older wounds that are more difficult to recover from
 Jade Cicada\nFinger
 Variable toxin type
-When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of poison among the enemy's poison, Cryotoxin and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
+When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of poison among the enemy's Umbritoxin, Cryotoxin and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
 Flood Dragon's\nIron Tentacle
 No Harm Hands
 Eliminate the memory of the enemy
