@@ -3082,7 +3082,7 @@ If the attack speed of the user is higher than the enemy's, the power of this te
 Reverse - Walk And Kill
 The farther the user retreats, the more the power of this technique will increase. For every 1 distance the user retreats, he/she will be able to gain 2 points of "Break" true qi.
 Reverse - Great Yin-Wind\nKick
-When this technique is 100% powerful, the more poisonous markers the user has, the more internal injury markers will be added to the enemy in random areas.
+When this technique is 100% powerful, the more Umbritoxin markers the user has, the more internal injury markers will be added to the enemy in random areas.
 Reverse - Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements that can restrain the enemy's internal five elements are buried within the field of vision of the user, the more the power of this technique will increase
 Reverse - Blood Shadow\nKick
