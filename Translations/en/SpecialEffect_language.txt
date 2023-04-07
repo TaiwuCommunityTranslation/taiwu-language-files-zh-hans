@@ -1014,7 +1014,7 @@ Iron Flower\nRotten Bone Claw
 Wounds inflicted by this technique on the enemy's Torso will change to older wounds that are more difficult to recover from
 Jade Cicada\nFinger
 Variable toxin type
-When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of poison among the enemy's poison, Cryotoxin and phantom poison, and the power of this technique will be greatly increased if the phantom poison is still applied to the enemy after the change.
+When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of poison among the enemy's poison, Cryotoxin and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
 Flood Dragon's\nIron Tentacle
 No Harm Hands
 Eliminate the memory of the enemy
@@ -1172,7 +1172,7 @@ Scorpion Hand
 When you start to perform this technique, the deeper the enemy is poisoned with Umbritoxin, the more the power of this technique will increase
 Python Hand
 Ignore Def Effect
-When attacking the enemy with this technique, if the enemy's phantom poison attacks the heart, the special effect of the enemy's "Aegis" technique cannot take effect
+When attacking the enemy with this technique, if the enemy's Oneirotoxin attacks the heart, the special effect of the enemy's "Aegis" technique cannot take effect
 Blood Fluke\nPalm
 Soul-Extinct\nPalm
 When you start to perform this technique, the toxin applied to the enemy by the user will change according to the least poisoned of the enemy's Acritoxin, Pyrotoxin and Necrotoxin, if the poison applied to the enemy after the change is still Necrotoxin, the power of this technique will be greatly increased
@@ -1657,7 +1657,7 @@ When this technique is used at 100% of its power, the enemy will lose 6 points o
 Deadly Pinprick
 All external injuries caused by this technique are not direct external injuries, but will change to worsen the existing external injuries to the enemy
 9-Needle Strike
-The phantom poison applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
+The Oneirotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Meridian\nBreaking Pinprick
 When attacking the enemy with this technique, the deeper the enemy is poisoned with Umbritoxin, the more layers of injury this technique will cause to the enemy in terms of direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 12-String\nNeedles
@@ -2698,7 +2698,7 @@ After this technique has been used for 100% of its power, the user gains 10 leve
 Reverse - Iron Flower\nRotten Bone Claw
 This technique increases the direct damage dealt to the enemy's Torso by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Jade Cicada\nFinger
-When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's poison, Cryotoxin, and phantom poison, and the power of this technique will be greatly increased if the phantom poison is still applied to the enemy after the change.
+When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's poison, Cryotoxin, and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
 Reverse - Flood Dragon's\nIron Tentacle
 Reverse - No Harm Hands
 When this technique is used at 100% of its power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require Inhale, until the enemy is attacked in any way
@@ -2807,7 +2807,7 @@ Reverse - Scorpion Hand
 When you start to perform this technique, the deeper the depression poison the user is, the more the power of this technique will increase
 Reverse - Python Hand
 Ignore light effects
-When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's phantom poison attacks his heart
+When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's Oneirotoxin attacks his heart
 Reverse - Blood Fluke\nPalm
 Reverse - Soul-Extinct\nPalm
 When you start to perform this technique, the toxin applied by the user to the enemy will change according to the one with the lowest amount of poisoning among the user's strong Acritoxin, Pyrotoxin and Necrotoxin, and if the poison applied to the enemy after the change is still Necrotoxin, the power of this technique will be greatly increased
