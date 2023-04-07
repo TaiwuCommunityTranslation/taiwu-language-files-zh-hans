@@ -1055,7 +1055,7 @@ When this technique is used with at least 10% of its power, the user gains 4 lev
 After this technique has reached 100% of its power, the user gains 9 levels of this effect: the damage dealt by the enemy's "Break" technique is greatly increased, but there is a high chance that it will be "interrupted" when it reaches 90% of its progress.
 Black Water\nPoison
 Deal Extra Dmg
-When this technique is used at 100% of its power, the more the enemy is marked with poison, the more external injury are added to random parts of the enemy
+When this technique is used at 100% of its power, the more the enemy is poisoned by Acritoxin, the more external injury are added to random parts of the enemy
 Nippy Fragrant\nof Hundreds Evil
 The Umbritoxin applied to the enemy by this technique will change to a more difficult to dispel stubborn poison
 Flood Dragon's\nBlood
