@@ -2804,7 +2804,7 @@ Reverse - The Impulse
 When this technique reaches 10% of its power, the user gains 1 level of this effect: When the user's total number of defeat marks reaches the defeat condition, all of the user's removable non-injury marks and critical damage marks are removed, and a portion of the removed non-injury marks are transferred to the enemy, after which the technique is inevitably "blocked" until the end of the battle.
 Reverse - Ancestor's\nLong Fist
 Reverse - Scorpion Hand
-When you start to perform this technique, the deeper the depression poison the user is, the more the power of this technique will increase
+When you start to perform this technique, the deeper the Umbritoxin the user is, the more the power of this technique will increase
 Reverse - Python Hand
 Ignore light effects
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's Oneirotoxin attacks his heart
