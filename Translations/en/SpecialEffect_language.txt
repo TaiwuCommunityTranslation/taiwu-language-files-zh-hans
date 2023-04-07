@@ -1442,7 +1442,7 @@ When you start to perform this technique, the more parts of the enemy are "damag
 Bone Melting\nGhost Palm
 When this technique is used with at least 10% of its power, if the user has at least 2 "Hold" styles after this technique, the user will only consume 2 "Hold" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 Sky Demon Palm
-The strong poison applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
+The Acritoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Blood Hou's\nEvil Palm
 When attacking an enemy with this technique, the deeper the enemy is poisoned with Pyrotoxin, the more layers the degree of injury caused by this technique to the enemy's direct damage increases; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Poke Eye and\nCut Ear
@@ -2730,7 +2730,7 @@ When this technique is used with at least 10% of its power, the user gains 4 lev
 Reverse - 9 Idiotic\nFragrant
 After this technique has reached 100% of its power, the user gains 9 levels of this effect: the damage dealt by the user's "Break" technique is greatly increased, but there is a high chance that the technique will be "interrupted" when it reaches 90% of its progress.
 Reverse - Black Water\nPoison
-When this technique is 100% powerful, the more poisonous markers the user has, the more random external injury will be added to the enemy.
+When this technique is 100% powerful, the more Acritoxin markers the user has, the more random external injury will be added to the enemy.
 Reverse - Nippy Fragrant\nof Hundreds Evil
 This technique increases the amount of Umbritoxin poison applied to the enemy significantly, but there is a low chance that the user will be partially poisoned with Umbritoxin at the same time.
 Reverse - Flood Dragon's\nBlood
