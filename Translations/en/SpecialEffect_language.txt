@@ -1478,7 +1478,7 @@ If the user's movement speed is higher than the enemy's, the power of this techn
 Walk And Kill
 The further the user advances, the more the power of this technique increases. For every distance the user advances, he/she gains 2 points of "Break" true qi.
 Great Yin-Wind\nKick
-When this technique is used at 100% of its power, the more poisonous marks the enemy has, the more internal injury marks are added to random parts of the enemy
+When this technique is used at 100% of its power, the more Umbritoxin marks the enemy has, the more internal injury marks are added to random parts of the enemy
 Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements within the field of view of the user that can transform the user's internal five elements into buried ones, the more the power of this technique will be increased
 Blood Shadow\nKick
@@ -2698,7 +2698,7 @@ After this technique has been used for 100% of its power, the user gains 10 leve
 Reverse - Iron Flower\nRotten Bone Claw
 This technique increases the direct damage dealt to the enemy's Torso by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Jade Cicada\nFinger
-When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's poison, Cryotoxin, and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
+When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's Umbritoxin, Cryotoxin, and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
 Reverse - Flood Dragon's\nIron Tentacle
 Reverse - No Harm Hands
 When this technique is used at 100% of its power, if the user hits the enemy's head and neck: the enemy loses all memories of the battle; the enemy cannot attack with weapons, cannot perform techniques that require Inhale, until the enemy is attacked in any way
