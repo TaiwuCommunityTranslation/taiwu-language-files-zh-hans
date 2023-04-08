@@ -2315,7 +2315,7 @@ Reverse - Shorten Distance
 EVA all basic Atk
 During the duration of this Footwork, as long as the enemy does not have an effect that can change the way they hit, all enemy weapon attacks can be defeated by the user with Evasion.
 Reverse - White Ape's Leap
-When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack that cannot be pursued against the enemy without consumption.
+When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack that can't chase against the enemy without consumption.
 Reverse - Unpredictable
 Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the enemy's Stamina is lost.
 Reverse - Lotus Displacement
@@ -2373,7 +2373,7 @@ During the duration of this Footwork, whenever the user deals direct damage to t
 Reverse - Iron Bridge
 During the duration of this Footwork, when the distance between the user and the enemy is less than 7, the closer the distance between the two, the lower the chance of the enemy hitting the user.
 Reverse - Chain of River-Block
-During the duration of this Footwork, for every 1 distance the enemy has accumulated, the user will immediately make 1 weapon attack on the enemy without consumption that cannot be pursued.
+During the duration of this Footwork, for every 1 distance the enemy has accumulated, the user will immediately make 1 weapon attack on the enemy without consumption that can't chase
 Reverse - Lion's Swift
 Whenever the user hits an enemy with a "Hand Guard" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Ghost Step
