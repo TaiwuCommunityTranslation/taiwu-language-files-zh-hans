@@ -569,7 +569,7 @@ Basic Atk All SWI
 During the duration of this Footwork, as long as the enemy has no effect that can change the way of defusing, all weapon attacks of the user will use the Swiftness accuracy value.
 White Ape's Leap
 Automatic Weapon Attack
-When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack on the enemy that cannot be pursued without consumption.
+When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack on the enemy that can't chase
 Unpredictable
 Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Lotus Displacement
