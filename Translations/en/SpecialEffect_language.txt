@@ -1748,7 +1748,7 @@ At the beginning of the battle, the user gains 3 levels of this effect: when an 
 Transferring your mark
 In the process of performing this technique, the user can advance up to 6 distances, and for every 1 distance the user advances, 1 non-injury marker received by the user in the process of performing this technique will be transferred to the enemy
 The Great Vajra\nKick
-When attacking the enemy with this technique: the armor of the user is increased significantly; depending on the power of this technique, the enemy is knocked back up to 5 distances, and if the enemy is knocked back to the maximum distance of the enemy, 3 higher level breaks are randomly added to the enemy
+When attacking the enemy with this technique: the user's DES is increased significantly; Based on the power of this technique, the enemy is knocked back up to 5 distances, and if the enemy is knocked back to the maximum attack distance of the enemy, 3 higher level Weak Points will be randomly added to the enemy
 Kick of\nMove The Mountain
 When this technique is used at 100% of its power, the enemy's 3 "Water" techniques will be "blocked" for a long time.
 Cloud Dragon\n9 Kick
