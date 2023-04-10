@@ -2518,7 +2518,7 @@ When this technique is used with at least 10% of its power, the user gains 10 la
 Reverse - Iron Fist of\nLion Phase
 When this technique is used with at least 10% of its power, the user gains 2 "Punch" styles
 Reverse - Gate Breaker\n8 Moves
-When this technique is used at 100% of its power, for every 3 "Punch" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Punch" styles the user has, the user inflicts 1 additional Weak Point to the enemy's attacked area.
 Reverse - The Great\nStonebreaker
 E·PhD·QiD Dn
 When attacking the enemy with this technique: the armor of the user increases significantly; if the armor of the user is higher than the toughness of the enemy, the enemy's External Defense and Internal Defense decrease significantly
