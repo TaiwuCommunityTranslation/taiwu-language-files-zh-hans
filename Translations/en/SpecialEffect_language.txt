@@ -825,7 +825,7 @@ When you start performing this technique, it restores Stamina; in the process of
 Rapid Blade\nof Mountain Cleave
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all the "Stab" and "Slash" styles that the user gains are changed to "Hack" styles
 Shield Blade\nof Lion Phase
-When this technique is used at 100% of its power, for every 2 "Hack" styles the user has, the level of damage caused by the user to the enemy increases by 1 additional level.
+When this technique is used at 100% of its power, for every 2 "Hack" styles the user has, the level of Weak Points caused by the user to the enemy increases by 1 additional level.
 Tremendous\nEffort Blade
 When you start to perform this technique, the more Strength the user has not consumed, the more the power of this technique will increase
 Blade of\nAo Slashing
