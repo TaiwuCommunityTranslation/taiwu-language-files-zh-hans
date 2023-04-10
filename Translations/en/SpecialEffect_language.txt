@@ -1234,7 +1234,7 @@ Lowering the enemy advance distance
 When this technique is used with at least 10% of its power, the user gets 3 levels of this effect: when the enemy builds up strength to advance a long distance, the distance advanced is significantly reduced
 Centipede-Like\nWhip
 Recovery of Weak Point
-When attacking the enemy with this technique, this technique will directly attack the part of the enemy with the most and highest level of brokenness, and make the duration of all the brokenness of the attacked part of the enemy change to the maximum
+When attacking the enemy with this technique, it will directly attack the part of the enemy that has the most and highest leveled Weak Points, and the duration of all the Weak Points of the attacked part of the enemy will change to the maximum
 5 Divine Whip
 After this technique has been used for 100% of its power, the user gains 2 levels of this effect: the "Whip" technique performed by the user is transformed from Heterodox practice to Orthodox practice, and the power of the transformed Heterodox practice "Whip" technique is greatly increased
 Bone-Breaking\nWhip
