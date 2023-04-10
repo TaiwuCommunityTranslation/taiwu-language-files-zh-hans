@@ -2538,7 +2538,7 @@ When you start to perform this technique, you will regain your Stamina; during t
 Reverse - Rapid Blade\nof Mountain Cleave
 When this technique is used with at least 10% of its power, the user gains 2 "Hack" styles.
 Reverse - Shield Blade\nof Lion Phase
-When this technique is used at 100% of its power, for every 3 "Hack" styles the user has, the user will inflict an additional break on the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Hack" styles the user has, the user will inflict 1 additional Weak Point on the enemy's attacked area.
 Reverse - Tremendous\nEffort Blade
 When you start to perform this technique, the more Strength the user has consumed, the more the power of this technique will increase
 Reverse - Blade of\nAo Slashing
