@@ -2861,7 +2861,7 @@ Descending enemy retreat distance
 When this technique is used with at least 10% of its power, the user obtains 3 levels of this effect: when the enemy builds up strength to retreat a long distance, the retreat distance is significantly reduced
 Reverse - Centipede-Like\nWhip
 Extra hit
-When you hit an enemy with this technique, this technique will additionally hit another part of the enemy that has the most breakage and the highest level of breakage
+When you hit an enemy with this technique, this technique will additionally hit another body part of the enemy that has the most and strongest Weak Points on it.
 Reverse - 5 Divine Whip
 After this technique has been used for 100% of its power, the user gains 2 levels of this effect: the "Whip" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Whip" technique is greatly increased.
 Reverse - Bone-Breaking\nWhip
