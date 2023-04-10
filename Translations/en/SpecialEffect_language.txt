@@ -2243,7 +2243,7 @@ Invalidated by severe internal injuries
 The internal injury marker of the user will be removed by itself over time; the user will not be seriously injured by internal injury unless there are 4 levels of internal injury on the injured body part when the user receives internal injury.
 Reverse - Sky Bridge
 Eliminate all breakdowns
-Whenever the total number of broken spots in the whole body of the user is not less than 7, all the broken spots on the user's body will be eliminated, and no effect from the elimination of the broken spots will be triggered.
+Whenever the total number of Weak Point on the whole body of a user is at 7 or more, all of the Weak Point on the user's body will be eliminated, and no effect from their elimination will be triggered.
 Reverse - River Immortals Wedding
 Handover Styles
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 1 of the user's unavailable styles will be transferred to the enemy.
