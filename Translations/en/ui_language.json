@@ -505,7 +505,7 @@
   "LK_Attack_Penetrate": "ATK",
   "LK_AtkAcupoint": "Acupoint",
   "LK_AtkAcupoint_Tips": "At 100% power will close enemy's accupoint.",
-  "LK_CombatSkill_Power_Count": "%",
+  "LK_CombatSkill_Power_Count": "0%",
   "LK_CombatSkill_Cast_Effect_Title": "【Cast Effect】",
   "LK_CombatSkill_Cast_Effect_Duration": "Duration",
   "LK_CombatSkill_Move_Distance": "MOV·Dist",
