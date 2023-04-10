@@ -398,7 +398,7 @@ News came from afar that the tea and horse gang from Taiwu Village no longer had
 At the end of lifespan
 {0} is getting thinner and thinner, and seems to be running out of life...
 Lair demise
-{0} of {1} went extinct…
+{0}'s {1} went extinct...
 Secret News Public
 No
 Sudden Insight
