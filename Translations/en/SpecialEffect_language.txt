@@ -3472,7 +3472,7 @@ The lower the reputation of the enemy, the more the Might, Finesse, Swiftness an
 Demoniac
 The more enemy's various types of defeat markers, the longer the distance of the attack of dispelling goodness
 FoulVisage
-Evoke the eye to dramatically increase the negative effect of a break that appears on the enemy
+Eye-calling greatly increases the negative effect of the Weak Points that appear on the enemy
 EvilUprise
 The happier or more painful the enemy's "mood" is, the more the demon heart will show the External Pen. and Int. Pen..
 A·Sinster
