@@ -17,6 +17,6 @@ Sweep
 Collide
 Grab
 Bite
-Murderous
+Kill
 None
 Divine
