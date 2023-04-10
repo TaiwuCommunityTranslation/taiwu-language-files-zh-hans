@@ -730,7 +730,7 @@ Toad Leap
 Reduced Footwork consumption
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at once. If the user has not attacked before the next accumulation of power, the cumulative amount of Footwork consumed by the user when advancing with this Footwork is reduced.
 Flying Head
-Free from breakage and sealing points
+Heal Weak Points and Sealed Acupoints
 During the duration of this Footwork, when the distance between you and the enemy is not less than 7, the user won't receive new Weak Points or Sealed Acupoints
 Rope Overhang
 Improves aura recovery
