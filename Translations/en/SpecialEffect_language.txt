@@ -2847,7 +2847,7 @@ When this technique is at least 10% of the power, the user gains 2 levels of thi
 Reverse - Swordsmanship\nof Billhook
 Based on the power of this technique, applies a Movement Speed debuff to the enemy；When this technique is performed with at least 10% power, bring the enemy closer by 2 distance
 Reverse - Swordsmanship\nof Ghost Old Lady
-When this technique is used at 100% of its power, for every 3 "Stab" styles the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Stab" styles the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - Holy Wood\nSwordsmanship
 When the power of this technique is at 100%, part of the power of this technique will be transferred to 2 random "Break" techniques of the user, which will last until the power of this technique is not at 100%, then the transferred power will be restored and multiplied when it is restored, which will last until the end of the battle.
 Reverse - Soul Chasing\nSwordsmanship
@@ -2898,7 +2898,7 @@ When you start to perform this technique, the more the number of levels of the e
 Reverse - Dragon Palm
 After this technique has reached 100% of its power, the user gains 3 levels of this effect: all counter training "fist and palm" techniques performed by the user are changed into this technique, and the power of the changed techniques is greatly increased according to the power of this technique, which lasts until the end of the battle; the counter training effect of the changed technique temporarily changes to: "When this technique reaches 100% of its power, the enemy's "Aegis" is removed technique will be removed as well as all Footwork and Stamina."
 Reverse - Flying Sand
-When this technique is used at 100% of its power, for every 3 throws the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 throws the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - Thunder Fire
 When this technique is used with at least 10% of its power, the user gains 2 "throws".
 Reverse - Dragon Spit\nDragon Ball
@@ -3002,7 +3002,7 @@ Reverse - The Ultra One\nCrystal Finger
 Changing Int. Def. to Int. Pen.
 During the process of performing this technique: most of the Internal Defense of the user and the enemy changes to Internal Penetration; all direct internal injuries suffered by the user will not exceed 2 levels of injury
 Reverse - 10 Methods of\nJieqing
-When this technique is used at 100% of its power, for every 3 "Shot" styles the user has, the user will inflict an additional 1 Weak Point to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Shot" styles the user has, the user will inflict an 1 additional Weak Point to the enemy's attacked area.
 Reverse - Leaf Picking
 When this technique is used with at least 10% of its power, the user gains 2 "Shot" styles
 Reverse - 6 Hands of\nShadowless
@@ -3137,7 +3137,7 @@ Based on the power of this technique, the user's requirements to use all "Aegis"
 Reverse - Shaolin Staff\nof Yin-Yang
 When this technique is performed with at least 10% power, the user gains 2 "Slash" styles
 Reverse - QiMei Staff of\n18 Points
-When this technique is used at 100% of its power, for every 3 "Slash" styles the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Slash" styles the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - Yakkha Staff
 The minimum attack distance of this technique is reduced by 2; when attacking the enemy with this technique, the closer the enemy and me are to the minimum attack distance of this technique, the more the power of this technique is increased
 Reverse - Staff of\nSheep-Hunting Tigers
@@ -3174,7 +3174,7 @@ Reduces the power of all the enemy's "Quick" techniques by the amount of power t
 Reverse - Emei Finger Zen
 Based on the power of this technique, apply a Internal Defense debuff to the enemy
 Reverse - Lame Fight\n80 Moves
-When this technique is used at 100% of its power, for every 3 "Hold" styles the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Hold" styles the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - Split Flower
 When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's Diversion, Parry, and Evasion, the enemy's corresponding resolution will replace the hit.
 Reverse - Lighten Finger
@@ -3224,11 +3224,11 @@ When this technique is used with at least 10% of its power, the user gains 10 la
 Reverse - Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Umbritoxin applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Finger Magenta
-When this technique is used at 100% of its power, for every 3 "Point" styles the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Point" styles the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - Blue And White\nFlower Beauty
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Oneirotoxin applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Flower Rain
-For every 10% of the power of this technique, the user has a low chance of inflicting an additional 1 Weak Point to the enemy
+For every 10% of the power of this technique, the user has a low chance of inflicting an 1 additional Weak Point to the enemy
 Reverse - The Great\nFlower Finger of Mandala
 When you start to perform this technique, the deeper the Oneirotoxin the user has, the more the power of this technique will increase
 Reverse - Flower Spirit\nMoon Finger
@@ -3239,7 +3239,7 @@ Reverse - 8 Moves of\nBlood Red Flower
 Life Dn power Up
 When this technique is used at 100% of its power: cumulative increase in the power of this technique; cumulative reduction in the maximum health of the user; cumulative reduction in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will last until the death of the user; unless the user retakes this technique, this technique will not change to Orthodox practice for any reason
 Reverse - Needle Control
-When this technique is used at 100% of its power, for every 3 "Drive" styles the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Drive" styles the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - 5 Elements\nPinprick
 When this technique is used with at least 10% of its power, the user gains 2 "Drive" styles.
 Reverse - Chilling Pinprick
