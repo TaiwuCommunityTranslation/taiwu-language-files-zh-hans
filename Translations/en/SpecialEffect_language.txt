@@ -2026,7 +2026,7 @@ When defending with this technique, the user will not be moved forward passively
 Reverse - Iron Skin
 When the uninjured body part of the user receives direct internal injuries from the enemy, the degree of injury is reduced to 1
 Reverse - Golden Bell Sheild
-When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, it randomly causes 2 breakdowns to appear on the enemy
+When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user Reflects an enemy attack, they will randomly cause 2 Weak Points to appear on the enemy
 Reverse - Arhat's Stick Formation
 When your teammate uses the「Defend」command, their External Defense, Internal Defense, Diversion, Parry, Evasion, and Focus are greatly increased when defending.
 Reverse - Buddhism Lion Roar
