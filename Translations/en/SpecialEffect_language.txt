@@ -680,7 +680,7 @@ Restore your momentum
 Every time you advance 1 distance with this Footwork, you will regain your energy and Footwork.
 Feather Stance
 Cause Weak Point and Sealed Acupoint
-When advancing with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the more random parts of the enemy will be added to the breakage, sealing points
+When advancing with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the more random parts of the enemy will receive Weak Points and Sealed Acupoints
 Wooden Track
 Reduced movement loss
 During the duration of this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
