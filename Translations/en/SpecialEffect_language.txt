@@ -1276,7 +1276,7 @@ Change skills
 When this technique reaches 100% of its power, the user gains 3 levels of this effect: all of the techniques performed by the user will be changed into this technique, and the power of the changed techniques will be greatly increased according to the power of this technique until the end of the battle; the effect of the changed techniques will be temporarily changed to: "When this technique reaches 100% of its power, the enemy's "Aegis" technique will be removed as well as all Footwork and Stamina."
 When this technique is used at 100% of its power, it will eliminate the enemy's "Aegis" technique and all Footwork and Stamina.
 Flying Sand
-When this technique is used at 100% of its power, for every 2 "throws" the user has, the level of damage caused by the user to the enemy will increase by 1 additional level.
+When this technique is used at 100% of its power, for every 2 "Throw" Styles the user has, the level of Weak Points caused by the user to the enemy will increase by 1 additional level.
 Thunder Fire
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all "Shot" and "Drive" styles acquired by the user are changed to "Throw" styles
 Dragon Spit\nDragon Ball
@@ -1385,7 +1385,7 @@ The Ultra One\nCrystal Finger
 Changing the Ext. Def. for Ext. Pen.
 During the process of performing this technique: most of the External Defense changes between the user and the enemy to External Penetration; all direct external injuries suffered by the user will not exceed 2 levels of injury
 10 Methods of\nJieqing
-When this technique is used at 100% of its power, for every 2 "Shot" styles the user has, the level of damage caused by the user to the enemy will increase by 1 extra level.
+When this technique is used at 100% of its power, for every 2 "Shot" styles the user has, the level of Weak Points caused by the user to the enemy will increase by 1 extra level.
 Leaf Picking
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all the "Throw" and "Drive" styles obtained by the user are changed to "Shot" styles.
 6 Hands of\nShadowless
