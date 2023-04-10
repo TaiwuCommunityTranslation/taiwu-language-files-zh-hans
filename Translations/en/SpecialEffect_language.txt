@@ -1629,7 +1629,7 @@ When this technique is used with at least 10% of its power, the user gets 10 lay
 Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Umbritoxin applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Finger Magenta
-When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Point" styles the user has.
+When this technique is used at 100% of its power, the level of Weak Points caused by the user to the enemy will increase by 1 extra level for every 2 "Point" styles the user has.
 Blue And White\nFlower Beauty
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Oneirotoxin applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Flower Rain
