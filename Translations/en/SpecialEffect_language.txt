@@ -2847,7 +2847,7 @@ When this technique is at least 10% of the power, the user gains 2 levels of thi
 Reverse - Swordsmanship\nof Billhook
 Based on the power of this technique, applies a Movement Speed debuff to the enemy；When this technique is performed with at least 10% power, bring the enemy closer by 2 distance
 Reverse - Swordsmanship\nof Ghost Old Lady
-When this technique is used at 100% of its power, for every 3 "Stab" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Stab" styles the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
 Reverse - Holy Wood\nSwordsmanship
 When the power of this technique is at 100%, part of the power of this technique will be transferred to 2 random "Break" techniques of the user, which will last until the power of this technique is not at 100%, then the transferred power will be restored and multiplied when it is restored, which will last until the end of the battle.
 Reverse - Soul Chasing\nSwordsmanship
