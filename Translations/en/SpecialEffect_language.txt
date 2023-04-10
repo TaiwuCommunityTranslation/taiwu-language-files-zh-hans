@@ -3011,7 +3011,7 @@ When this technique is used with at least 10% of its power, the enemy gains 1 "K
 Reverse - Shooting Star
 If the enemy has more than one "Kill" style when this technique is at its tenth power, randomly place up to 3 "Kill" styles at the end of the enemy's stance.
 Reverse - Snapshot
-When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever an enemy obtains a "Kill" style, the more "Kill" styles the enemy has arranged together, the more random parts of the enemy appear to be broken.
+When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever an enemy obtains a "Kill" style, the more "Kill" styles the enemy has arranged together, the more random parts of the enemy will receive Weak Points.
 Reverse - Special Action\nof Trigram Map
 When this technique is used at 100% of its power, if the user has any effects that will take effect because "the enemy gains "Kill" style", these effects will take effect immediately without depleting the tier, and the enemy will have a higher chance of gaining 1 "Kill" style after these effects take effect
 Reverse - Throw\nTweet-Dragon
