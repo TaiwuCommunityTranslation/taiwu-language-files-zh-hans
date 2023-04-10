@@ -81,7 +81,7 @@ Increases the power limit of the user's "Lion's Gate" techniques by 30%.
 Reduces damage from techniques.
 If the user receives consecutive attacks from the same enemy technique in this battle, each time it will cumulatively reduce the damage taken by the user, up to a maximum of 3 times
 Tripod Stance\nof Golden Body
-Reduces the maximum number of breakdowns per part of the user's body
+Reduces the maximum number of Weak Points per user's body part
 Bright Lion\nPower
 Significantly increase (by 30) the "Strength" limit of the user
 Develop\nAmbition
