@@ -1420,7 +1420,7 @@ If the user has at least 2 "Kill" styles, the user will be able to perform a nin
 Swordsmanship\nof Kill
 Murderous Style is considered a Weak Point
 Disrupt all Kill styles
-When attacking an enemy with this technique, all the "Kill" styles of the user are considered to be additional weaknesses in the enemy's attacked area; at the end of this technique, all the "Kill" styles of the user are removed
+When attacking an enemy with this technique, all the "Kill" styles of the user are considered to be additional Weak Points in the enemy's attacked area; at the end of this technique, all the "Kill" styles of the user are removed
 Swordsmanship\nof Netherworld
 When this technique is used at 100% of its power, the enemy's 3 "Fire" techniques will be "blocked" for a long time.
 Perfect\nSwordsmanship of 7 Ends
