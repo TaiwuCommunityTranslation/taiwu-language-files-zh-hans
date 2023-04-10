@@ -446,7 +446,7 @@ Surrendering the enemy's position to resume
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, a debuff is applied to the enemy which reduces Stance Recovery.
 Muscle Displacement Bone Contraction
 Strengthening of extremity defense
-When defending with this technique, the limbs of the user will not be newly broken and enemy attacks targeting the limbs of the user will be more easily defeated.
+When defending with this technique, the limbs of the user will not receive Weak Points and enemy attacks targeting the limbs of the user will be more easily resolved.
 7 Wheel Induction
 Enhancement of your own gain
 The initial strength of all gain states to which the user is subjected is increased, and the strength of the user's gain state is increased when it is enhanced.
