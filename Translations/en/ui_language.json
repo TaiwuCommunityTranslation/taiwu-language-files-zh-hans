@@ -2405,7 +2405,7 @@
   "LK_ItemTips_Carrier_Add_DropRate": "Loot",
   "LK_ItemTips_Carrier_Add_CaptureRate": "Exorcism",
   "LK_ItemTips_Carrier_Add_TravelSpeed": "Travel Speed",
-  "LK_ItemTips_Carrier_Add_Inventory": "Inventory size",
+  "LK_ItemTips_Carrier_Add_Inventory": "Max Inv. Weight",
   "LK_ItemTips_Food_Eat_Effect_Title": "【Food Effect】",
   "LK_ItemTips_Eat_Duration": "Duration",
   "LK_ItemTips_UseInCombat_Title": "【Combat Use】",
