@@ -3029,7 +3029,7 @@ Reverse - Sword Intent\nof Fear
 Reverse - Jieqing Hidden\nRapid Sword
 If the enemy has at least 2 "kill" styles, the user will be able to use the 9th rank of "sword technique" to attack the enemy without consumption from 50% of the execution progress.
 Reverse - Swordsmanship\nof Kill
-When attacking an enemy with this technique, all the "Kill" styles of the enemy that are aligned together will be considered as additional weaknesses in the enemy's attacked area; at the end of this technique, all the enemy's "Kill" styles will be disrupted
+When attacking an enemy with this technique, all the "Kill" styles of the enemy that are aligned together will be considered as additional Weak Points in the enemy's attacked area; at the end of this technique, all the enemy's "Kill" styles will be shuffled
 Reverse - Swordsmanship\nof Netherworld
 When this technique is used at 100% of its power, the power of the enemy's 3 "Fire" techniques is reduced and lasts until the end of the battle.
 Reverse - Perfect\nSwordsmanship of 7 Ends
