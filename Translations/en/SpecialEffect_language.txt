@@ -1396,7 +1396,7 @@ Variation of killing arrangement
 If the user has more than one "Kill" style when the power of this technique is at 100%, up to 3 "Kill" styles will be randomly arranged at the end of the user's stance.
 Snapshot
 Causes random Weak Point
-When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever the user gains a "Murderous" style, the more "Murderous" styles the user has arranged together, the more random parts of the enemy will be broken.
+When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever the user gains a "Murderous" style, the more "Murderous" styles the user has arranged together, the more random parts of the enemy will receive Weak Points.
 Special Action\nof Trigram Map
 Triggering the kill effect
 If the user has any effects that will take effect because the user gains a "Kill" style when this technique is used at 100% of its power, these effects will take effect immediately without depleting the tier, and the user will have a higher chance of gaining a "Kill" style after these effects take effect
