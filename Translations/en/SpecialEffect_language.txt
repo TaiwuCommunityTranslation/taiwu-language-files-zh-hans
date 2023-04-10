@@ -1644,7 +1644,7 @@ When this technique is used at 100% of its power, 1 wound mark is added to all c
 Life Up Power Dn
 When this technique is used at 100% of its power: cumulative reduction in the power of this technique; cumulative increase in the maximum health of the user; cumulative increase in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will continue until the death of the user; unless the user retakes this technique, this technique will not change to Heterodox practice for any reason
 Needle Control
-When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Drive" styles the user has.
+When this technique is used at 100% of its power, the level of Weak Points caused by the user to the enemy will increase by 1 extra level for every 2 "Drive" styles the user has.
 5 Elements\nPinprick
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: all the "Throw" and "Shot" styles obtained by the user are changed to "Drive" styles.
 Chilling Pinprick
