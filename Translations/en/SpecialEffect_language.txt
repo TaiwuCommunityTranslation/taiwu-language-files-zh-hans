@@ -3174,7 +3174,7 @@ Reduces the power of all the enemy's "Quick" techniques by the amount of power t
 Reverse - Emei Finger Zen
 Based on the power of this technique, apply a Internal Defense debuff to the enemy
 Reverse - Lame Fight\n80 Moves
-When this technique is used at 100% of its power, for every 3 "Hold" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Hold" styles the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
 Reverse - Split Flower
 When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's Diversion, Parry, and Evasion, the enemy's corresponding resolution will replace the hit.
 Reverse - Lighten Finger
@@ -3224,7 +3224,7 @@ When this technique is used with at least 10% of its power, the user gains 10 la
 Reverse - Rejuvenation\nFinger
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Umbritoxin applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Finger Magenta
-When this technique is used at 100% of its power, for every 3 "Point" styles the user has, the user inflicts an additional 1 damage to the enemy's attacked area.
+When this technique is used at 100% of its power, for every 3 "Point" styles the user has, the user inflicts an additional 1 Weak Point to the enemy's attacked area.
 Reverse - Blue And White\nFlower Beauty
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Oneirotoxin applied to the user by the enemy is reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Flower Rain
