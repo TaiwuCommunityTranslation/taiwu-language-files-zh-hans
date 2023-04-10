@@ -769,7 +769,7 @@ Increase chase damage
 If the user is drunk during the duration of this technique, the damage dealt by the user when chasing an enemy is increased.
 Dragon Tail
 Increase the Weak Points level
-During the duration of this Footwork, the level of damage caused by the user to the enemy is increased.
+During the duration of this Footwork, the level of Weak Points caused by the user to the enemy is increased.
 Dragon Leap
 Increase direct damage
 During the duration of this Footwork, when the user attacks an enemy, the user will first hit the enemy with a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might attack, the user increases the degree of injury of all direct damage inflicted on the enemy by 1 level
