@@ -768,7 +768,7 @@ Drunk 8 Immortals
 Increase chase damage
 If the user is drunk during the duration of this technique, the damage dealt by the user when chasing an enemy is increased.
 Dragon Tail
-Increase the breakage level
+Increase the Weak Points level
 During the duration of this Footwork, the level of damage caused by the user to the enemy is increased.
 Dragon Leap
 Increase direct damage
