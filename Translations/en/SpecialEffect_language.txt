@@ -1576,7 +1576,7 @@ Increase the power of all the "Quick" techniques of the user according to the pe
 Emei Finger Zen
 The Internal Penetration of this technique is increased by the amount of power it exerts.
 Lame Fight\n80 Moves
-When this technique is used at 100% of its power, for every 2 "Hold" styles the user has, the level of damage the user can cause to the enemy will increase by 1 extra level.
+When this technique is used at 100% of its power, for every 2 "Hold" styles the user has, the level of Weak Points the user can cause to the enemy will increase by 1 extra level.
 Split Flower
 Resolve to Accu
 When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the user's attack on the enemy are lower than the user's Diversion, Parry, or Evasion, the user's corresponding resolution replaces the hit.
