@@ -2620,7 +2620,7 @@ At the beginning of the battle, the user gains 0 levels of this effect: every ti
 Reverse - 12 Moves of\nChangxi
 The more "points" the user consumes, the more the power of the technique will increase.
 Reverse - Polaris Finger\nPoint
-When this technique is used, all the closed points of the enemy will be broken, and the level of the broken points will be the same as the highest level of the closed points on the corresponding parts of the enemy.
+When this technique is used at 100% of its power, 1 Weak Point will appear on all of the enemy's body parts that have a Sealed Acupoint, and the level of these Weak Points will be the same as the highest level Sealed Acupoint on the corresponding body part.
 Reverse - The Great Moon\nFinger
 If you use this technique to inflict at least 3 internal injury marks on an enemy at once, the enemy loses all "Aegis" True Qi and a debuff is applied to the enemy that reduces all True Qi increases.
 Reverse - Taoism-Trinity\nFinger
