@@ -926,7 +926,7 @@ If you use this technique to inflict at least 3 external injury on an enemy at o
 Taoism-Trinity\nFinger
 When this technique is at least 10% powerful, the user takes 1 "point" from the enemy.
 Hook Clamp
-Breakage increases external injury
+Weak Point increases External Injury
 When this technique is used at 100% of its power, the enemy's attacked part of the Weak Point will additionally increase the degree of external injury to the enemy
 5 Mantra\n5 Phases
 When attacking an enemy with this technique, the more of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, the more the user's hits will increase; When this technique is used at 100% of its power than the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, at least 3 of the user's Calmness, Intelligence, Passion, Bravery and Fortitude are higher than the enemy's, 2 "None" will be applied to the enemy.
