@@ -2242,7 +2242,7 @@ Reverse - Sky Snake Bone Exchange
 Invalidated by severe internal injuries
 The internal injury marker of the user will be removed by itself over time; the user will not be seriously injured by internal injury unless there are 4 levels of internal injury on the injured body part when the user receives internal injury.
 Reverse - Sky Bridge
-Eliminate all breakdowns
+Eliminate all Weak Points
 Whenever the total number of Weak Point on the whole body of a user is at 7 or more, all of the Weak Point on the user's body will be eliminated, and no effect from their elimination will be triggered.
 Reverse - River Immortals Wedding
 Handover Styles
@@ -2491,7 +2491,7 @@ Reverse - Drunk 8 Immortals
 Reduced chase damage
 If the user is drunk during the duration of this technique, the damage dealt by the enemy when chasing the user is reduced.
 Reverse - Dragon Tail
-Reduce the level of breakage
+Reduce the level of Weak Points
 During the duration of this Footwork, it reduces the level of damage caused by the enemy to the user.
 Reverse - Dragon Leap
 During the duration of this Footwork, when the user is attacked by an enemy, the user will first hit the enemy with a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might attack, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 2 levels
