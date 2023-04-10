@@ -239,7 +239,7 @@ When an uninjured body part of the user receives external injury from the enemy,
 Golden Bell Sheild
 Reduce the extent of injury
 Remove Weak Point
-When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to the enemy's attack, 2 randomly eliminated weaknesses in the user's body
+When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user Reflects enemy's attack, randomly eliminate 2 Weak Points on user's body
 Arhat's Stick Formation
 Teammates can perform「Defend」command more frequently, which makes them perform Aegis skill to defend user against enemy attacks.
 Buddhism Lion Roar
