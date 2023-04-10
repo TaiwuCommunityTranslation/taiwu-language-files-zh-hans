@@ -1217,7 +1217,7 @@ Swordsmanship\nof Billhook
 Reduce enemy attack speed
 Apply a reduced attack speed to the enemy based on the power of this technique; when this technique is at least 10% of the power, knock the enemy back by 2 distance
 Swordsmanship\nof Ghost Old Lady
-When this technique is used at 100% of its power, the level of damage caused by the user to the enemy will increase by 1 extra level for every 2 "Stab" styles the user has.
+When this technique is used at 100% of its power, the level of Weak Points caused by the user to the enemy will increase by 1 extra level for every 2 "Stab" styles the user has.
 Holy Wood\nSwordsmanship
 Transferring the power of techniques
 When the power of this technique is not at 100%, part of the power of the 2 random "Break" techniques of the user will be transferred to this technique, and it will last until the technique is at 100%, then the transferred power will be restored and multiplied when it is restored, and it will last until the end of the battle.
@@ -1233,7 +1233,7 @@ Snaking Whip
 Lowering the enemy advance distance
 When this technique is used with at least 10% of its power, the user gets 3 levels of this effect: when the enemy builds up strength to advance a long distance, the distance advanced is significantly reduced
 Centipede-Like\nWhip
-Recovery of breakage time
+Recovery of Weak Point
 When attacking the enemy with this technique, this technique will directly attack the part of the enemy with the most and highest level of brokenness, and make the duration of all the brokenness of the attacked part of the enemy change to the maximum
 5 Divine Whip
 After this technique has been used for 100% of its power, the user gains 2 levels of this effect: the "Whip" technique performed by the user is transformed from Heterodox practice to Orthodox practice, and the power of the transformed Heterodox practice "Whip" technique is greatly increased
