@@ -157,7 +157,7 @@ Convert the user's "Earth" internal energy into "Metal" internal energy. The mor
 The Great Vajra\nScripture
 Significantly increases the power of the user's "Metal" type techniques, by 20%.
 Mahakala\nGuardian's Cultivation
-If the total number of defeat marks of the user exceeds half of the defeat condition, the user will no longer be broken
+If the total number of defeat marks of the user exceeds half of the defeat condition, the user will no longer receive Weak Points
 Tantric Atiyoga
 When the dominant internal element of the user is "Metal", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 Poisoning\nMethod
@@ -238,7 +238,7 @@ Iron Skin
 When an uninjured body part of the user receives external injury from the enemy, the degree of injury is reduced to 1
 Golden Bell Sheild
 Reduce the extent of injury
-Remove WeakSpot
+Remove Weak Point
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 2 levels; whenever the user reacts to the enemy's attack, 2 randomly eliminated weaknesses in the user's body
 Arhat's Stick Formation
 Teammates can perform「Defend」command more frequently, which makes them perform Aegis skill to defend user against enemy attacks.
