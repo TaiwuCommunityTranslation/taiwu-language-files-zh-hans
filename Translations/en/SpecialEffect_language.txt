@@ -1545,7 +1545,7 @@ Shaolin Staff\nof Madness
 In the process of performing this technique, the user can make weapon attacks on the enemy, and the more times the enemy is hit, the more the user's Ext. Pen. will accumulate and the more the attack range of this technique will accumulate and increase, up to a maximum of 6 times.
 Skanda Staff
 Cause Extra WS
-After this technique has been used for ten percent of its power, the user gains 18 layers of this effect: when the user is about to break, he will consume the same number of layers of the effect as the level of the break, causing a break in a random part of the enemy with the same number of layers of the effect consumed, and will not trigger any effect that caused the break.
+After this technique has been used with at least 100% of it's power, the user gains 18 layers of this effect: when the user is about receive a Weak Point, he will consume the same number of layers of the effect as the level of the Weak Point, causing a Weak Point in a random part of the enemy, and will not trigger any effect that caused the Weak Point.
 The Great\nWisdom Bodhi Staff
 When this technique is used with at least 10% of its power, If the user has at least 2 "Slash" styles, the user will only consume 2 "Slash" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 Dharma Staff
