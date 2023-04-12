@@ -1790,7 +1790,7 @@
   "LK_ResidentState_ComfortableHouse": "Wingroom",
   "LK_ResidentState_Homeless": "Homeless",
   "LK_ResidentState_Infected": "Possessed and ran away",
-  "LK_CombatSkillTree_Title": "Discipline Skills",
+  "LK_CombatSkillTree_Title": "Sect Skills",
   "LK_CombatSkillTree_ApproveUpperLimit": "\n\n(Current Discipline Support Limit:{0}% + {1}%)",
   "LK_CombatSkillTree_OrganizationApprove": "Sect Support Level",
   "LK_CombatSkillTree_OrganizationApproveAndColon": "Sect Support：",
