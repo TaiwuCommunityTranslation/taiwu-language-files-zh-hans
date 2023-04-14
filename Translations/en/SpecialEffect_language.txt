@@ -1693,7 +1693,7 @@ When this technique is used at 100% of its power, the enemy's 3 "Metal" techniqu
 Wudang\nPure Yang Fist
 When an enemy performs a "Break" technique with a higher percentage of internal energy, the user can start performing this technique from 50% of its progress and "interrupt" an enemy performing a "Break" technique with a higher percentage of internal energy When this technique is used at 100% of its power.
 Purple Yang\nUpright Fist
-This technique cannot be reflected; when you start to perform this technique, the higher the breath adjustment and exhalation of the user, the more the power of this technique will be increased, and When this technique is used at 100% of its power, the internal breath disorder of the user will be greatly reduced.
+This technique cannot be reflected; when you start to perform this technique, the higher the Internal Breath stat of the user, the more the power of this technique will be increased, and When this technique is used at 100% of its power, the internal breath disorder of the user will be greatly reduced.
 Taichi Fist
 Suppressing enemy attacks
 After this technique has been performed at 100% of its power, the user gains 2 levels of this effect: when the user is attacked by an enemy's technique, if the enemy's Internal Penetration is lower than the user's External Defense, the user's External Defense will additionally add the enemy's External Penetration; if the enemy's External Penetration is lower than the user's Internal Defense, the user's Internal Defense will additionally add the enemy's Internal Penetration; after this technique is performed, it will change from Orthodox practice to Heterodox practice, and the power of this technique will accumulate increases until the end of the battle.
