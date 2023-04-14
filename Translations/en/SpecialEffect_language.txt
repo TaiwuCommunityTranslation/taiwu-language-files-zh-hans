@@ -591,7 +591,7 @@ Flying Needle
 Whenever the user hits an enemy with a "Needle box" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Needle Driving
 Get the opportunity to change moves
-When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to change his Footwork
+When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
 Snow Step
 Increase the level of sealing points
 During the duration of this Footwork, the level of the blocked points caused by the user to the enemy is increased.
