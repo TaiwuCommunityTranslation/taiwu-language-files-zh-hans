@@ -2333,7 +2333,7 @@ During the duration of this technique, whenever the user hits the enemy with a "
 Reverse - Flying Needle
 During the duration of this technique, whenever the user hits the enemy with a "needle box" type weapon, the enemy's Stamina will be lost.
 Reverse - Needle Driving
-When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to change his Footwork
+When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
 Reverse - Snow Step
 Reduce the level of sealing points
 During the duration of this Footwork, it reduces the level of the enemy's blocked points on the user.
