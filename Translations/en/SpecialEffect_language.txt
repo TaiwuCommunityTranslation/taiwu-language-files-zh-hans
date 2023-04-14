@@ -1642,7 +1642,7 @@ A Hundred\nFlower Fight
 When this technique is used at 100% of its power, 1 wound mark is added to all closed acupuncture points of the enemy
 8 Moves of\nBlood Red Flower
 Life Up Power Dn
-When this technique is used at 100% of its power: cumulative reduction in the power of this technique; cumulative increase in the maximum health of the user; cumulative increase in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will continue until the death of the user; unless the user retakes this technique, this technique will not change to Heterodox practice for any reason
+When this technique is used at 100% of its power: cumulatively reduce the power of this skill; cumulatively increase the user's maximum Health; cumulatively increase the user's Health loss; this effect can accumulate up to 20 layers, and will not be increased or decreased by other effects. Lasts until the user dies; Unless the user re-does the breakthrough, the Way of this skill will not change Heterodox for any reason
 Needle Control
 When this technique is used at 100% of its power, the level of Weak Points caused by the user to the enemy will increase by 1 extra level for every 2 "Drive" styles the user has.
 5 Elements\nPinprick
