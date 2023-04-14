@@ -3237,7 +3237,7 @@ Reverse - A Hundred\nFlower Fight
 When this technique is used at 100% of its power, add 1 injury mark to all parts of the enemy with flaws
 Reverse - 8 Moves of\nBlood Red Flower
 Life Dn power Up
-When this technique is used at 100% of its power: cumulative increase in the power of this technique; cumulative reduction in the maximum health of the user; cumulative reduction in the health loss of the user; this effect will accumulate up to 20 layers and will not be increased or reduced by other effects and will last until the death of the user; unless the user retakes this technique, this technique will not change to Orthodox practice for any reason
+When this technique is used at 100% of its power: cumulatively increase the power of this skill; cumulatively reduce the user's maximum Health; cumulatively reduce the user's Health loss; this effect can accumulate up to 20 layers, and will not be increased or decreased by other effects, Lasts until the user dies; Unless the user re-does the breakthrough, the Way of this skill will not change into Orthodox for any reason
 Reverse - Needle Control
 When this technique is used at 100% of its power, for every 3 "Drive" styles the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - 5 Elements\nPinprick
