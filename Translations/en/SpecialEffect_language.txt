@@ -1448,7 +1448,7 @@ When attacking an enemy with this technique, the deeper the enemy is poisoned wi
 Poke Eye and\nCut Ear
 Head Injured
 Lower the hit to dissolve
-When you start performing this technique, the more "Injured" body parts the enemy has, the more the power of this technique increases. When this technique is used at 100% of its power, inflict a "Head Injured" status on the enemy. "Head Injured" status makes every 2nd attack hit, and the Resolve stats to be greatly decreased. If the wounded person's Ext. Injuries to the head reaches 4 layers, it will become Fatal Wound. This serious injury will not disappear until the wounded person heals all the External Injuries on the head.
+When you start performing this technique, the more body parts of the enemy are "Injured", the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Head to be "Injured" if it has an Ext. Injury on it; The person who has "Head Injured" will suffer from a Accuracy and Resolve stat reduction on every 2nd weapon attack, In addition, if there are 4 Ext. Injuries on the victim's Head, it will be considered as a Broken Head, and it won't disappear until the victim heals all the Ext. Injuries on their Head
 Lock Throat
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's waist and abdomen, the power of this technique increases and the progress of its execution increases at the beginning of its execution, and this effect accumulates up to 2 levels; when this technique exerts 100% of its power, it significantly depletes the enemy's Stance
 Separation of\nBone And Muscle
