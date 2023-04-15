@@ -1452,7 +1452,7 @@ When you start performing this technique, the more "Injured" body parts the enem
 Lock Throat
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's waist and abdomen, the power of this technique increases and the progress of its execution increases at the beginning of its execution, and this effect accumulates up to 2 levels; when this technique exerts 100% of its power, it significantly depletes the enemy's Stance
 Separation of\nBone And Muscle
-Shoulder injured
+Arm Injured
 When you start to perform this technique, the more parts of the enemy are "damaged", the more the power of this technique will increase; When this technique is used at 100% of its power, the enemy's arm with external injury will be "shoulder and arm damaged"; "shoulder and arm damaged The "shoulder arm injury" cannot be more than 6, and the external injury of the externally injured arm reaches 4 levels, then the arm will be regarded as disabled, and the external injury will not disappear until the externally injured person has healed all the external injury of the arm.
 Low-Body-Break\nFingers
 Waist Injured
