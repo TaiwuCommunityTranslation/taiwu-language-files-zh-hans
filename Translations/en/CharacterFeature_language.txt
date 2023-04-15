@@ -485,7 +485,7 @@ Waist Injured
 A serious injury to the waist and abdomen, where the traumatized person's frame cannot exceed 60% and the trauma to the traumatized person's waist and abdomen reaches 4 levels is considered as waist and abdomen mutilation, and this serious injury will not disappear until the traumatized person has healed all the trauma to the waist and abdomen.
 Shoulder pain
 The arm is considered to be crippled when the shoulder and arm are severely injured, the recipient cannot have more than 6 stances, and the internal injuries of the recipient's arm reach 4 levels; this severe injury will not disappear until the recipient has healed all the internal injuries of the arm.
-Shoulder injured
+Arm Injured
 A serious injury to the shoulder and arm, where the traumatized person cannot have more than 6 stances, and where the trauma to the traumatized person's arm reaches 4 levels is considered a mutilation of the arm until the traumatized person has healed all the trauma to the arm.
 Heel pain
 If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the internal injuries of the injured person's leg and foot reach 4 levels, the leg and foot are considered to be crippled until the injured person has healed all the internal injuries of the leg and foot, then the severe injury will disappear.
