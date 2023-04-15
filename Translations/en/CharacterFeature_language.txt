@@ -471,11 +471,11 @@ Septenary Recuperation of the Big Dipper
 Has gained a glimpse into the mysteries of the Big Dipper....
 Praise of Lion Face
 Your names has been spread by Lion Face……
-Eyes and Ears in pain
+Head Agony
 The head and neck are considered destroyed when the internal wounds to the head and neck reach 4 levels, and will not disappear until the victim has healed all internal wounds to the head.
 Head Injured
 If the eye and ear are severely injured, the victim's hitbox and resolution on the second weapon attack are greatly reduced, and the victim's head and neck are considered destroyed when the trauma to the head and neck reaches 4 levels, and the trauma does not disappear until the victim has healed all the trauma to the head.
-Chest pain
+Torso Agony
 A serious injury to the Torso, where the traumatized person's qi cannot exceed 60% and the traumatized person's internal injuries to the Torso reach 4 levels is considered to be a disfigured Torso, and this serious injury will not disappear until the traumatized person has healed all the internal injuries to the Torso.
 Torso Injured
 A severe injury to the Torso, where the traumatized person is unable to lift more than 60% of his or her Qi, and where the trauma to the traumatized person's Torso reaches 4 levels is considered to be a disfigured Torso, and this severe injury will not disappear until the traumatized person has healed all the trauma to the Torso.
