@@ -3041,7 +3041,7 @@ When attacking an enemy with this technique or after this technique has been use
 Reverse - Heartbreak Palm
 Reverse - 72 Hellbound\nFist
 Heel paid
-When you start to perform this technique, the more parts of the enemy's leg that are in "severe pain", the more the power of this technique will increase; when this technique is at ten percent of its power, it will cause the enemy's leg and foot with internal injuries to be in "severe pain in the knee and heel"; the "severe pain in the knee and heel The maximum Footwork value of the person with "Knee Heel Pain" is halved, and the internal injuries of the injured leg and foot reach 4 levels, which means that the leg and foot will be considered as crippled, and this serious injury will not disappear until the injured person has healed all the internal injuries of the leg and foot.
+When you start performing this technique, the more body parts of the enemy that are "Agony", the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Leg to be in "Agony" if it has Int. Injuries on it; The person who has "Leg Agony" will only get half of the Footwork bar. In addition, if there are 4 Int. Injuries on the victim's Leg, it will be considered as a Broken Leg, and it won't disappear until the victim heals all the Int. Injuries on their Leg
 Reverse - Zombie\nPoison Palm
 After this technique has been used for 100% of its power, the user will gain 10 levels of this effect: the Necrotoxin applied to the user by the enemy will be reduced from "strange poison" to "severe poison" and from "severe poison" to "raw poison".
 Reverse - Blood Evil Palm
