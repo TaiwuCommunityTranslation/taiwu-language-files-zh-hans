@@ -477,11 +477,11 @@ Head Injured
 If the eye and ear are severely injured, the victim's hitbox and resolution on the second weapon attack are greatly reduced, and the victim's head and neck are considered destroyed when the trauma to the head and neck reaches 4 levels, and the trauma does not disappear until the victim has healed all the trauma to the head.
 Chest pain
 A serious injury to the Torso, where the traumatized person's qi cannot exceed 60% and the traumatized person's internal injuries to the Torso reach 4 levels is considered to be a disfigured Torso, and this serious injury will not disappear until the traumatized person has healed all the internal injuries to the Torso.
-Chest injured
+Torso Injured
 A severe injury to the Torso, where the traumatized person is unable to lift more than 60% of his or her Qi, and where the trauma to the traumatized person's Torso reaches 4 levels is considered to be a disfigured Torso, and this severe injury will not disappear until the traumatized person has healed all the trauma to the Torso.
 Waist pain
 A serious injury to the waist and abdomen, where the traumatized person's frame cannot exceed 60% and the internal injuries of the traumatized person's waist and abdomen reach 4 levels is considered as waist and abdomen mutilation, and this serious injury will not disappear until the traumatized person has healed all the internal injuries of the waist and abdomen.
-Waist injured
+Waist Injured
 A serious injury to the waist and abdomen, where the traumatized person's frame cannot exceed 60% and the trauma to the traumatized person's waist and abdomen reaches 4 levels is considered as waist and abdomen mutilation, and this serious injury will not disappear until the traumatized person has healed all the trauma to the waist and abdomen.
 Shoulder pain
 The arm is considered to be crippled when the shoulder and arm are severely injured, the recipient cannot have more than 6 stances, and the internal injuries of the recipient's arm reach 4 levels; this severe injury will not disappear until the recipient has healed all the internal injuries of the arm.
