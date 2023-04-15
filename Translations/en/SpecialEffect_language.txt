@@ -1433,7 +1433,7 @@ When you start performing this technique, the user gains 6 levels of this effect
 Heartbreak Palm
 72 Hellbound\nFist
 Leg Injured
-When you start to perform this technique, the more parts of the enemy's leg that are "damaged", the more the power of this technique increases; when this technique reaches 100% of its power, it causes the enemy's externally injured leg and foot to be "damaged at the knee and heel"; "damaged at the knee and heel The maximum Footwork value of the person with "Knee Heel Injury" is halved, and the external injury of the externally injured leg and foot reaches 4 levels, then the leg and foot will be considered as disabled.
+When you start performing this technique, the more body parts of the enemy are "Injured", the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Leg to be "Injured" if it has an Ext. Injury on it; The person who has "Leg Injured" will only get half of the Footwork bar, In addition, if there are 4 Ext. Injuries on the victim's Leg, it will be considered as a Broken Leg, and it won't disappear until the victim heals all the Ext. Injuries on their Leg
 Zombie\nPoison Palm
 After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Necrotoxin applied by the user to the enemy is raised from "raw poison" to "severe poison" and from "severe poison" to "strange poison".
 Blood Evil Palm
