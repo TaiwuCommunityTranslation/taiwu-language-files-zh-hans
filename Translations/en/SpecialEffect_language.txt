@@ -1446,7 +1446,7 @@ The Acritoxin applied to the enemy by this technique will change into a more dif
 Blood Hou's\nEvil Palm
 When attacking an enemy with this technique, the deeper the enemy is poisoned with Pyrotoxin, the more layers the degree of injury caused by this technique to the enemy's direct damage increases; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Poke Eye and\nCut Ear
-Head injured
+Head Injured
 Lower the hit to dissolve
 When you start performing this technique, the more "Injured" body parts the enemy has, the more the power of this technique increases. When this technique is used at 100% of its power, inflict a "Head Injured" status on the enemy. "Head Injured" status makes every 2nd attack hit, and the Resolve stats to be greatly decreased. If the wounded person's Ext. Injuries to the head reaches 4 layers, it will become Fatal Wound. This serious injury will not disappear until the wounded person heals all the External Injuries on the head.
 Lock Throat
