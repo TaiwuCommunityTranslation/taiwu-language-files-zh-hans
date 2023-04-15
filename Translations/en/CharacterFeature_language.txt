@@ -489,7 +489,7 @@ Arm Injured
 A serious injury to the shoulder and arm, where the traumatized person cannot have more than 6 stances, and where the trauma to the traumatized person's arm reaches 4 levels is considered a mutilation of the arm until the traumatized person has healed all the trauma to the arm.
 Heel pain
 If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the internal injuries of the injured person's leg and foot reach 4 levels, the leg and foot are considered to be crippled until the injured person has healed all the internal injuries of the leg and foot, then the severe injury will disappear.
-Heel injured
+Leg Injured
 If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the trauma to the injured person's leg and foot reaches 4 levels, the leg and foot is considered to be mutilated until the injured person has healed all trauma to the leg and foot.
 White Forehead Snake
 White forehead snake - You played with a White Forehead snake every day, and are now immune to poison
