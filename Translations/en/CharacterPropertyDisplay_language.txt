@@ -41,7 +41,7 @@ The higher the Inhale Recovery, the faster the character's Inhale will recover. 
 MOV·Spd
 The higher the Move Speed, the faster the character moves in battle.
 Ext. Recovery
-The higher the External Recovery, the faster the external injures character suffers in battle disappear.
+The higher the External Recovery, the faster the Weak Points character suffers in battle disappear.
 Cast Speed
 The higher the Cast Speed, the faster the character can cast skills in battle.
 Int. Recovery
