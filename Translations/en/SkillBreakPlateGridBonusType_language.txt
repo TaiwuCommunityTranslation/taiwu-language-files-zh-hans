@@ -15,7 +15,7 @@ Inhale
 Movement Speed 
 Robust 
 Casting 
-Passing 
+Unseal 
 Weapon 
 Attack Speed 
 Inner Arts 
