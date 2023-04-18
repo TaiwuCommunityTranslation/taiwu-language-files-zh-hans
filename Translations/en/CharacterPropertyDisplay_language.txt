@@ -45,7 +45,7 @@ The higher the External Recovery, the faster the external injures character suff
 Cast Speed
 The higher the Cast Speed, the faster the character can cast skills in battle.
 Int. Recovery
-The higher the Internal Recovery, the faster character will recover from internal injuries suffered in battle
+The higher the Internal Recovery, the faster character will recover from Sealed Acupoints suffered in battle
 Equip. Eff.
 The higher the Equipment Efficiency, the shorter the cooldown between switching weapons in battle, and the higher the upper limit of weapons and armor.
 Attack Speed
