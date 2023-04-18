@@ -53,7 +53,7 @@ The higher the Attack Speed, the faster the character will recover "attack token
 Int Ratio Bonus
 The higher the Internal Ratio Bonus, the wider the range of Internal and External power ratio of skills and weapons that the character can adjust
 Internal Breath
-The higher the Breath Tone, the faster the character will recover from internal disorders, and the less internal disorders he or she will suffer, the slower the true qi will dissipate during the battle that exceeds the initial value, and the faster the true qi below the initial value will recover.
+The higher the Internal Breath, the faster the character will recover from Internal Disorder, and the less Internal Disorder they will suffer. \nIncreases the speed at which you regain your True Qi that went below the initial value, and decreases the speed at which you lose your True Qi that exceeded the initial value.
 Acritoxin Res
 The ability to guard the heart chakra and resist intense poison...
 Umbritoxin Res
