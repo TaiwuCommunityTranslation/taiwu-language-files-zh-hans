@@ -2216,7 +2216,7 @@ The initial strength of all the mitigating states to which the user is subjected
 Reverse - Mandala Mantra
 When defending with this technique: all direct damage received by the user is reduced by 2 levels; whenever the user reacts to an enemy's attack, the user gains 2 points of "Break" true qi for every wound mark the enemy inflicts on the user
 Reverse - Vidya-Raja Fire
-When defending with this technique, whenever the user Diversion an enemy's attack, the user applies a large amount of depressive "poison" to the enemy.
+When defending with this technique, whenever the user counters  an enemy attack with Diversion, the user applies a large amount of "Level 2" Umbritoxin to the enemy.
 Reverse - The Great Handprint
 As long as the sum of all types of true qi of the enemy is higher than the sum of all types of true qi of the wielder, the number of forms other than "divine" forms possessed by the enemy cannot exceed the number of forms possessed by the wielder.
 Reverse - Buddha Body
