@@ -2482,7 +2482,7 @@ During the duration of this Footwork: the enemy cannot eliminate the Footwork an
 Reverse - Seven-Star Spin
 During the duration of this Footwork, the more "attack tokens" user has, the more the Attack Speed of the user will increase.
 Reverse - Heaven Leap
-When retreating with this stance, the user needs to accumulate power, the more power the user accumulates, the farther the retreating distance will be, up to 5 distances, and the farther the user retreats, the stronger the effect will be applied to the user to improve the user's body breaking, breaking Qi gain status
+When retreating with this Footwork, the user needs to accumulate power, up to 5 distances, and the farther the user retreats, the stronger the buff will be applied to the user that improves Int. Pen and Ext. Pen.
 Reverse - Moving Star
 When this Footwork is performed, the distance between the enemy and me changes to 5; during the duration of this Footwork, the enemy cannot actively move away from the user
 Reverse - Barefoot
