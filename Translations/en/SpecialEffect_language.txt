@@ -3131,7 +3131,7 @@ When attacking the enemy with this technique: the DES of the user is greatly inc
 Reverse - Whirling\nVajra Ring
 After this technique has reached 100% of its power, the user gains 6 layers of this effect: the degree of direct internal injuries suffered by the user is reduced by 2 layers, and the user is able to counteract the direct internal injuries caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and when performed this way, this technique has no special effects.
 Reverse - Shaolin\nDragon Claw
-When attacking the enemy with this technique: the armor of the user increases dramatically; the more the armor of the user is higher than the toughness of the enemy, the more the energy of the user increases.
+When attacking the enemy with this technique: the DES of the user increases dramatically; the more the DES of the user is higher than the Hardness of the enemy, the more the Int. Pen. of the user increases.
 Reverse - Shaolin Staff\nof 6 Directions
 Based on the power of this technique, the user's requirements to use all "Aegis" techniques will be reduced until the end of the battle.
 Reverse - Shaolin Staff\nof Yin-Yang
