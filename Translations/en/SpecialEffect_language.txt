@@ -2281,7 +2281,7 @@ When defending with this technique: all direct internal injuries suffered by the
 Reverse - Chaos Qi
 The more disturbed the user's internal breath is, the higher the direct internal injury caused by the user to the enemy
 Reverse - Ghost Cry
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be compared with the enemy's calmness, intelligence, enthusiasm, bravery, and perseverance in that order, and for each enemy's ability that is higher than the user's ability, the user will have a lower chance of applying a Breath injury mark to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, user's and enemy's Composure, Cleverness, Enthusiasm, Valour, and Fortitude are compared, and for each enemy's stat that is higher than the user's stat, the user will have a chance of applying a 1 Glazed marker to the enemy.
 Reverse - Blood Meal
 Whenever the user inflicts 2 internal damage markers at once in the form of direct damage to an enemy, it randomly removes 1 internal damage marker from the user itself
 Reverse - The Great Spell of Soul Exchange
