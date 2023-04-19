@@ -2233,7 +2233,7 @@ Reverse - Blood Dolls
 E·Int.Pen. DN
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a "Blood Puppet Break" debuff to the enemy which reduces Int. Pen. causing the next direct internal injury the user receives to be suffered by the enemy instead.
 Reverse - Ghost Breath
-When using this technique for defense, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of phantom "poison" to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of "Level 2" Oneirotoxin to the enemy.
 Reverse - Silkworm Insanity
 For each type of Gu applied to the user, the user's random type of true qi will continue to increase by 1 point.
 Reverse - Ghost Included
