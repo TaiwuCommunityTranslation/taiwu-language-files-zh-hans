@@ -2634,7 +2634,7 @@ Reverse - Pivot Move
 When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: the cumulative power of the enemy's "Break" technique that has been used for 10% of its power is greatly reduced, and lasts until the "Break" technique whose power has been reduced fails to be used for 10% of its power.
 Reverse - Clutch Finger
 Changing the Enemy's Internal Defense
-When attacking the enemy with this technique: the smaller the difference between the enemy's imperial qi and broken qi, the smaller the enemy's imperial qi will change to
+When attacking the enemy with this technique: the smaller the difference between user's and enemy's Int. Def. and Int. Pen., the smaller the enemy's Int. Def. will be
 Reverse - The Great\nYinyang Hand
 Handover Debuff
 When this technique is performed, the enemy is temporarily affected by all of the user's debuff until the technique is finished.
