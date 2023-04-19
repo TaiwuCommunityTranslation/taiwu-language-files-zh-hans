@@ -3245,7 +3245,7 @@ When this technique is used with at least 10% of its power, the user gains 2 "Dr
 Reverse - Chilling Pinprick
 When you start to perform this technique, the deeper the Cryotoxin in the user, the more the power of this technique will increase
 Reverse - Bianque Pinprick
-When the execution progress of this technique reaches 100%, the user will perform 1 "Exorcism" that does not consume the number of "Exorcisms", but also cannot dispel stubborn poison.
+When the cast progress of this technique reaches 100%, the user will perform 1 "Detox" that doesn't consume a "Detox" attempt, but also can't dispel stubborn poison. The more Poison markers this "Detox" eliminates, the more power of this skill will be increased
 Reverse - Vitality\nLosing Pinprick
 When this technique is at 100% of its power, the user draws 3 points of "Nadis" from the enemy's body.
 Reverse - Deadly Pinprick
