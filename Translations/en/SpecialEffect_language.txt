@@ -1651,7 +1651,7 @@ Chilling Pinprick
 When you start to perform this technique, the deeper the enemy is poisoned by Cryotoxin, the more the power of this technique will increase
 Bianque Pinprick
 Heal Injuries
-When the progress of this technique reaches 100%, the user will perform a "healing" on himself that does not consume the number of "healing" times, but also cannot cure old wounds, and the more wound marks this "healing" eliminates, the more the power of this technique increases.
+When the cast progress of this technique reaches 100%, the user will perform 1 "Healing" that doesn't consume a "Healing" attempt, but also can't cure Old Wounds. The more Injuries this "Healing" eliminates, the more power of this skill will be increased
 Vitality\nLosing Pinprick
 When this technique is used at 100% of its power, the enemy will lose 6 points of "Nadis".
 Deadly Pinprick
