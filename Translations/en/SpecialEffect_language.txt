@@ -2293,7 +2293,7 @@ Reverse - 12 Blood Child Formation
 The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of Internal Injuries and Fatal Wounds of the user in battle.
 Reverse - Sky Demon
 Worsening the enemy's internal wounds
-When defending with this technique: all direct internal injuries suffered by the user are reduced by 4 levels; whenever the user reacts to an enemy attack, the user applies a large amount of Cryotoxin to the enemy, and at the same time worsens the internal injuries of all parts of the enemy by 1 level
+When defending with this technique: all direct internal injuries suffered by the user are reduced by 4 levels; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Cryotoxin to the enemy, and at the same time worsens the Internal Injuries of all parts of the enemy by 1 level
 Reverse - Undead Body of Blood Child
 Whenever the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder does not reach extinction, the user's internal disorder will increase dramatically and randomly and immediately exchange all wounds with a partner of the user's helper who has not reached the defeat condition
 Reverse - Lift-Up Jumping
