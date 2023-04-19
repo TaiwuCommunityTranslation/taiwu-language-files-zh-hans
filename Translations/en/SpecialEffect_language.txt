@@ -529,7 +529,7 @@ When defending with this technique: All direct injuries to the user are reduced 
 Chaos Qi
 The more disturbed the user's internal breath is, the higher the external injury caused by the user to the enemy
 Ghost Cry
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, user's and enemy's Composure, Cleverness, Enthusiasm, Valour, and Fortitude are compared, and for each stat that is higher than the enemy's user has a small chance of applying a "None" style to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, user's and enemy's Composure, Cleverness, Enthusiasm, Valour, and Fortitude are compared, and for each stat that is higher than the enemy's user has a chance of applying 1 "None" style to the enemy.
 Blood Meal
 Eliminate your own injuries
 Whenever the user inflicts 2 external injury at once in the form of direct damage to an enemy, it randomly removes 1 of the user's own external injury
