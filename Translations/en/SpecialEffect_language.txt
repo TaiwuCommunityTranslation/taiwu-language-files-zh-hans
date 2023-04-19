@@ -1669,7 +1669,7 @@ Home Forgetting
 At the beginning of this technique, the happier the user is, the more the power of this technique increases; when this technique reaches 100% of its power, the range of the user's next "Break" technique increases according to the user's happiness; at the end of this technique, a buff that increases the user's mood is applied according to the power of this technique.
 Phoenix Arrival
 Improving BRE and FOC
-When you start to perform this technique, if the Karma of the user is higher than the Karma of the enemy, the power of this technique will be added to the Karma of the user, and if the Karma of the user is also higher than the Karma of the enemy, the user will be given a buff to improve Breath and Focus.
+When you start to perform this technique, if the Karma of the user is higher than the Karma of the enemy, the Karma will be added to the power of this technique, and if the Perception of the user is also higher than the Perception of the enemy, the user will be given a buff that improves Breath and Focus.
 Imperial\nConcubine
 When you start to perform this technique, all of your true qi below the initial value will be restored by 1 point; when this technique reaches 100% of its power, all of your true qi below the initial value will be restored by a maximum of 2 points again.
 Flowers Sigh
