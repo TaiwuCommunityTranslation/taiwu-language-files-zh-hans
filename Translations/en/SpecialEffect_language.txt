@@ -2277,7 +2277,7 @@ Reverse - Cover Sky
 When you start to perform this technique, the user forces all the enemy's helpers on the field to leave the field; when defending with this technique, the internal reflect damage caused by the user to the enemy will be shared by all the enemy's characters, and the more enemy helpers there are, the greater the reflect damage will be shared.
 Reverse - Mud Stunt
 Descending the enemy to chase and Internal Penetration
-When defending with this technique: all direct internal injuries suffered by the user are reduced by 2 levels; the damage caused by the enemy's "chasing" is greatly reduced.
+When defending with this technique: all direct internal injuries suffered by the user are reduced by 2 levels; Int. Pen. of enemy's "follow-up" attacks is significantly reduced.
 Reverse - Chaos Qi
 The more disturbed the user's internal breath is, the higher the direct internal injury caused by the user to the enemy
 Reverse - Ghost Cry
