@@ -2663,7 +2663,7 @@ When this spell is used at ten percent of its power, it can greatly restore the 
 Reverse - Disable
 When this spell is used at 100% of its power, it will cause the enemy's 2 "Break" techniques that are not permanently blocked to be "blocked" for a short period of time; the power of the blocked techniques will be reduced and will last until the enemy finishes performing them; after this spell is cast, it will inevitably be temporarily "blocked".
 Reverse - Shocking Spell
-If the enemy can escape, the higher the sum of calmness, intelligence, enthusiasm, bravery and perseverance of the user, the higher the chance that the enemy will start to escape immediately; if the enemy cannot escape, the higher the sum of calmness, intelligence, enthusiasm, bravery and perseverance of the user, the more disorientation marks will be added to the enemy.
+When this spell exerts 100% of its power, and the enemy has no memory of this spell: If the enemy can escape, the higher the total sum of the user's Composure, Cleverness, Enthusiasm, Valour, and Fortitude, the higher the chance that the enemy will start escaping immediately; If the enemy cannot escape, the higher the sum of those stats for the user, the more Glazed markers will be added to the enemy.
 Reverse - Summoning\nThunder
 If the user has a weapon, protective gear or treasure made of gold or iron, the enemy will suffer additional non-direct internal injuries to random body parts when this spell is at 100% power.
 Reverse - Hexa-Jia Arcane\nBenediction
