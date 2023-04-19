@@ -899,7 +899,7 @@ Reduction of external reflect
 After this technique has been performed at 100% of its power, the user will receive 9 levels of this effect: if all the "Break" techniques performed by the user are not performed at 100% of their power, the user will receive significantly less external reflect, and at the end of the technique, the user will receive a portion of the Stance consumed by performing the technique.
 Jade Tripot Fist
 Upgrading toxin levels
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Cryotoxin applied by the user to the enemy is raised from "Lvl 1 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 3 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Cryotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Lvl 3 poison".
 Princess\nRainfall
 When you start to perform this technique, if the user is the enemy's favorite gender, the higher the charisma of the user, the more the power of this technique will be increased.
 Divine Cold\nPalm
@@ -1009,7 +1009,7 @@ Fallen Hands\nof Mt.Chai
 E·Move Spd Dn
 Based on the power of this technique, apply a debuff to the enemy that reduces their movement speed
 Hook Claw
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Acritoxin applied by the user to the enemy is raised from "Lvl 1 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 3 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Acritoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Lvl 3 poison".
 Iron Flower\nRotten Bone Claw
 Wounds inflicted by this technique on the enemy's Torso will change to older wounds that are more difficult to recover from
 Jade Cicada\nFinger
@@ -1435,7 +1435,7 @@ Heartbreak Palm
 Leg Injured
 When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Leg to be "Injured" if it has an Ext. Injury on it; The person who has "Leg Injured" status will only get half of the Footwork bar, In addition, if there are 4 Ext. Injuries on the victim's Leg, it will be considered as a Broken Leg, and it won't disappear until the victim heals all the Ext. Injuries on their Leg
 Zombie\nPoison Palm
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Necrotoxin applied by the user to the enemy is raised from "Lvl 1 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 3 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Necrotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Lvl 3 poison".
 Blood Evil Palm
 Torso Injured
 When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Torso to be "Injured" if it has an Ext. Injury on it; The person who has "Torso Injured" status can't have more than 60% of Inhale, In addition, if there are 4 Ext. Injuries on the victim's Torso, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Ext. Injuries on their Torso
@@ -1458,7 +1458,7 @@ Low-Body-Break\nFingers
 Waist Injured
 When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Waist to be "Injured" if it has an Ext. Injury on it; The person who has "Waist Injured" status can't have more than 60% of Stance, In addition, if there are 4 Ext. Injuries on the victim's Waist, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Ext. Injuries on their Waist
 Poison Dragon\nClaw
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied by the user to the enemy is raised from "Lvl 1 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 3 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Lvl 3 poison".
 Hade Finger
 When you start to perform this technique, the deeper the enemy is poisoned with Necrotoxin, the more the power of this technique will be increased
 Blood Pool\nGhost Claw
@@ -1627,11 +1627,11 @@ Needle Finger
 Improve your Finesse
 When this technique is used with at least 10% of its power, the user gets 10 layers of this effect: the fewer layers of this effect remain, the more the user's Finesse increases when the user attacks the enemy
 Rejuvenation\nFinger
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Umbritoxin applied by the user to the enemy is raised from "Lvl 1 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 3 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Umbritoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Lvl 3 poison".
 Finger Magenta
 When this technique is used at 100% of its power, the level of Weak Points caused by the user to the enemy will increase by 1 extra level for every 2 "Point" styles the user has.
 Blue And White\nFlower Beauty
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Oneirotoxin applied by the user to the enemy is raised from "Lvl 1 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 3 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Oneirotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Lvl 3 poison".
 Flower Rain
 For every 10% of the power of this technique, the user has a low chance of inflicting an additional 1 sealed point on the enemy.
 The Great\nFlower Finger of Mandala
@@ -2601,7 +2601,7 @@ Reduces internal reflect
 After this technique has been performed at 100% of its power, the user will receive 9 levels of this effect: if all the "Break" techniques performed by the user are not performed at 100% of their power, the user will receive significantly less internal shock, and at the end of the technique, the user will receive a portion of the Inhale consumed to perform the technique.
 Reverse - Jade Tripot Fist
 Toxin level reduction
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Cryotoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 1 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Cryotoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Level 2" and from "Level 2" to "Level 1".
 Reverse - Princess\nRainfall
 When you start to perform this technique, if the enemy is of the user's favorite gender, the higher the charisma of the enemy, the more the power of this technique will be increased
 Reverse - Divine Cold\nPalm
@@ -2694,7 +2694,7 @@ Reverse - Fallen Hands\nof Mt.Chai
 E·ATK Spd Dn
 Apply an Attack Speed debuff to the enemy based on the power of this technique
 Reverse - Hook Claw
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Acritoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 1 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Acritoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Level 2" and from "Level 2" to "Level 1".
 Reverse - Iron Flower\nRotten Bone Claw
 This technique increases the direct damage dealt to the enemy's Torso by 2 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Jade Cicada\nFinger
@@ -3043,7 +3043,7 @@ Reverse - 72 Hellbound\nFist
 Heel paid
 When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Leg to be in "Agony" if it has Int. Injuries on it; The person who has "Leg Agony" status will only get half of the Footwork bar. In addition, if there are 4 Int. Injuries on the victim's Leg, it will be considered as a Broken Leg, and it won't disappear until the victim heals all the Int. Injuries on their Leg
 Reverse - Zombie\nPoison Palm
-After this technique has been used for 100% of its power, the user will gain 10 levels of this effect: the Necrotoxin applied to the user by the enemy will be reduced from "Lvl 3 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 1 poison".
+After this technique has been used for 100% of its power, the user will gain 10 levels of this effect: the Necrotoxin applied to the user by the enemy will be reduced from "Lvl 3 poison" to "Level 2" and from "Level 2" to "Level 1".
 Reverse - Blood Evil Palm
 Chest pain
 When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Torso to be in "Agony" if it has Int. Injuries on it; The person who has "Torso Agony" status can't have more than 60% of Inhale. In addition, if there are 4 Int. Injuries on the victim's Torso, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Int. Injuries on their Torso
@@ -3065,7 +3065,7 @@ Reverse - Low-Body-Break\nFingers
 Waist pain
 When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Waist to be in "Agony" if it has Int. Injuries on it; The person who has "Waist Agony" status can't have more than 60% of Stance. In addition, if there are 4 Int. Injuries on the victim's Waist, it will be considered as a Broken Waist, and it won't disappear until the victim heals all the Int. Injuries on their Waist
 Reverse - Poison Dragon\nClaw
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 1 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Level 2" and from "Level 2" to "Level 1".
 Reverse - Hade Finger
 When you start to perform this technique, the deeper the Necrotoxin the user is, the more the power of this technique will increase
 Reverse - Blood Pool\nGhost Claw
@@ -3222,11 +3222,11 @@ Reverse - Needle Finger
 Reduce the enemy's Parry
 When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer the remaining layers of this effect, the more the enemy's Parry will be reduced when the user attacks the enemy
 Reverse - Rejuvenation\nFinger
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Umbritoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 1 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Umbritoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Level 2" and from "Level 2" to "Level 1".
 Reverse - Finger Magenta
 When this technique is used at 100% of its power, for every 3 "Point" styles the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - Blue And White\nFlower Beauty
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Oneirotoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Lvl 2 poison" and from "Lvl 2 poison" to "Lvl 1 poison".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Oneirotoxin applied to the user by the enemy is reduced from "Lvl 3 poison" to "Level 2" and from "Level 2" to "Level 1".
 Reverse - Flower Rain
 For every 10% of the power of this technique, the user has a low chance of inflicting an 1 additional Weak Point to the enemy
 Reverse - The Great\nFlower Finger of Mandala
