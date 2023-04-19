@@ -525,7 +525,7 @@ Anti-vibration of the whole enemy
 When you start to perform this technique, the user forces all the enemy's helpers on the field to leave the field; when defending with this technique, the external reflect damage caused by the user to the enemy will be shared by all the enemy's characters, and the more enemy helpers there are, the greater the reflect damage shared
 Mud Stunt
 Descending the enemy to chase and External Penetration
-When defending with this technique: All direct injuries to the user are reduced by 2 levels, and the damage caused by the enemy's "chase" is greatly reduced.
+When defending with this technique: All direct injuries to the user are reduced by 2 levels; Ext. Pen. of enemy's "follow-up" attacks will be significantly reduced.
 Chaos Qi
 The more disturbed the user's internal breath is, the higher the external injury caused by the user to the enemy
 Ghost Cry
@@ -934,7 +934,7 @@ Pivot Move
 When this technique is used with at least 10% of its power, the user gains 3 layers of this effect: The power of "Break" techniques that don't reach 100% power will be massively increased. Effect lasts until a "Break" technique hits at 100% power.
 Clutch Finger
 Changing the Enemy's External Defense
-When attacking the enemy with this technique: the smaller the difference between the enemy's body and the broken body, the smaller the enemy's body will change to
+When attacking the enemy with this technique: the smaller the difference between user's and enemy's Ext. Def. and Ext. Pen., the smaller the enemy's Ext. Def. will be
 The Great\nYinyang Hand
 Steal Buff
 When this technique starts, the user is temporarily affected by all the enemy's buffs, which lasts until the end of this technique.
