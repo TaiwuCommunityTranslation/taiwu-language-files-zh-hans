@@ -2750,7 +2750,7 @@ If the user's Cleverness and Fortitude are not less than 30, the Inhale and Stan
 Reverse - Taier\nImmeasurable Sword
 If the user's fortitude and aptitude are not less than 30, the attack range of this technique will be greatly increased and the user will receive 2 levels of this effect after this technique has become 100% more powerful: the attack range of all "sword techniques" performed by the user will be increased.
 Reverse - HU·Sword Intent\nof Pure Soul
-If the user's calmness, intelligence, and aptitude are not less than 20, the user's Internal Penetration is greatly increased, and the user gains 2 levels of this effect after this technique has been used at 100% of it's power: the user's Internal Penetration is increased when performing all "sword techniques".
+If the user's Composure, Cleverness, and Perception are not less than 20, the user's Int. Pen. is greatly increased. After this technique has been used with at least 100% of it's power, the user gains 2 levels of this effect: the user's Int. Pen. is increased when performing "Sword Techniques".
 Reverse - Swordsmanship\nof SuperbCore
 If the user's Karma is not less than 40, the power of this technique will be greatly increased. After this technique has been used with at least 100% of it's power, the user will receive 2 levels of this effect: the power of all "Sword Techniques" performed by the user will be increased.
 Reverse - Blade of General
