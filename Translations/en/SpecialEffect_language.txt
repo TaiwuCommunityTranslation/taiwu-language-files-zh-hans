@@ -544,7 +544,7 @@ Whenever a partner of the user's helper reaches the defeat condition, the user w
 The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of External Injuries and Fatal Wounds of the user in battle.
 Sky Demon
 Worsening enemy external injury
-When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 4 levels; whenever the user reacts to an enemy's attack, the user applies a large amount of Pyrotoxin to the enemy, and at the same time worsens the external wounds of all parts of the enemy by 1 level
+When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 4 levels; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Pyrotoxin to the enemy, and at the same time worsens the External Injuries of all body parts of the enemy by 1 level
 Undead Body of Blood Child
 When the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder has not reached the absolute limit, the user's internal disorder will start to increase randomly, and the user cannot be defeated until the user's internal disorder reaches the absolute limit.
 Lift-Up Jumping
