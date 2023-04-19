@@ -478,7 +478,7 @@ E·ExtPen DN
 Transfer of injuries sustained
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a special "Blood Puppet Break" debuff to the enemy. This will debuff the enemy's External Penetration and cause the next external injury the user receive to be suffered by the enemy instead.
 Ghost Breath
-When using this technique for defense, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of corrosive "poison" to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of "Level 2" Necrotoxin to the enemy.
 Silkworm Insanity
 For each type of Gu applied to the enemy, the enemy's True Qi of a random type will be continuously reduced by 1 point
 Ghost Included
