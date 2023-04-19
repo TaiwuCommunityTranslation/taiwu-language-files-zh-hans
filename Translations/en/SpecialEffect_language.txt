@@ -2744,7 +2744,7 @@ If the user's Calmness does not fall below 40, the direct damage dealt by this t
 Reverse - Broken\nHoly Sword
 If the user's Enthusiasm is at least 40, the chance of this technique hitting the enemy is greatly increased. After this technique has been used with at least 100% of it's power, the user gains 2 levels of this effect: the chance of all "Sword Techniques" performed by the user hitting the enemy is increased.
 Reverse - Heavy Sword of\nGreatTower
-If the user's enthusiasm and bravery are not less than 30, the user's body breakage will be greatly increased and the user will get 2 levels of this effect after this technique has been used at 100% of it's power: the user's External Penetration will be increased when performing all "sword techniques".
+If the user's Enthusiasm and Valour are not less than 30, the user's Ext. Pen. will be greatly increased. After this technique has been used with at least 100% of it's power, the user will get 2 levels of this effect: the user's Ext. Pen. will be increased when performing "Sword Techniques".
 Reverse - 7 Star\nSwordsmanship of DragonPool
 If the user's intelligence and perseverance are not less than 30, the user's energy and Stance consumption for performing this technique will be greatly reduced, and after this technique has become 100% more powerful, the user will receive 2 levels of this effect: the energy and Stance consumption of all "sword techniques" performed by the user will be reduced.
 Reverse - Taier\nImmeasurable Sword
