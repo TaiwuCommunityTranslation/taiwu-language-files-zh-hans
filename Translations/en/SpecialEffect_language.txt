@@ -969,7 +969,7 @@ Blocking the Break of the enemy
 When this spell is used at 100% of its power, one of the enemy's "Break" techniques that is not permanently blocked will be "blocked" for a long time; the power of the "blocked" technique will be greatly reduced and will last until the enemy finishes performing it; after this spell is cast, it will inevitably be temporarily "blocked".
 Shocking Spell
 Force E·Escape
-If the enemy has no memory of this spell and the spell is at 100% of its power: If the enemy can escape, the lower the sum of the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, the higher the chance that the enemy will start escaping immediately; If the enemy cannot escape, the lower the sum of the enemy's Calmness, Intelligence, Passion, Bravery and Fortitude, the more "Nothing" will be added to the enemy.
+When this spell exerts 100% of its power, and the enemy has no memory of this spell: If the enemy can escape, the lower the total sum of the enemy's Composure, Cleverness, Enthusiasm, Valour, and Fortitude, the higher the chance that the enemy will start escaping immediately; If the enemy cannot escape, the lower the sum of those stats for the enemy, the more "None" styles will be added to the enemy.
 Summoning\nThunder
 Deals random damage
 If the enemy is equipped with weapons, protective gear, or treasures made of gold or iron when this spell is at 100% power, the enemy will receive additional non-external injury to random body parts
