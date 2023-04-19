@@ -2738,7 +2738,7 @@ When attacking an enemy with this technique, the deeper the Necrotoxin the user 
 Reverse - Ghost Bone\nBlood Sea Otter
 Once this technique has reached 10% of its power, the user gains 6 levels of this effect: Whenever the user performs the "Break" technique with the poison mark, 1 death mark will be added to the user, the more death marks there are, the more the power of all the user's techniques will be increased. This technique will inevitably be "banned" after it is performed and will last until the end of the battle.
 Reverse - 12 Ways of\nAssassination
-If the user's bravery is not less than 40, the user can perform this technique from 50% of the progress, and after this technique has become 100% more powerful, the user gets 2 levels of this effect: the user can perform all "sword techniques" from 50% of the progress.
+If the user's Valour is not less than 40, the user can perform this technique from 50% of the progress. After this technique has been used with at least 100% of it's power, the user gets 2 levels of this effect: User can perform all "Sword Techniques" from 50% of the progress.
 Reverse - Gongbu\nThe Unique Sword
 If the user's Calmness does not fall below 40, the direct damage dealt by this technique to the enemy is greatly increased and the user gains 2 levels of this effect after this technique has become 100% more powerful: the direct damage of all "sword techniques" performed by the user is increased.
 Reverse - Broken\nHoly Sword
