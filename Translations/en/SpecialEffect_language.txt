@@ -2742,7 +2742,7 @@ If the user's bravery is not less than 40, the user can perform this technique f
 Reverse - Gongbu\nThe Unique Sword
 If the user's Calmness does not fall below 40, the direct damage dealt by this technique to the enemy is greatly increased and the user gains 2 levels of this effect after this technique has become 100% more powerful: the direct damage of all "sword techniques" performed by the user is increased.
 Reverse - Broken\nHoly Sword
-If the user's enthusiasm is at least 40, the chance of this technique hitting the enemy is greatly increased, and after this technique has become 100% more powerful, the user gains 2 levels of this effect: the chance of all "sword techniques" performed by the user hitting the enemy is increased.
+If the user's Enthusiasm is at least 40, the chance of this technique hitting the enemy is greatly increased. After this technique has been used with at least 100% of it's power, the user gains 2 levels of this effect: the chance of all "Sword Techniques" performed by the user hitting the enemy is increased.
 Reverse - Heavy Sword of\nGreatTower
 If the user's enthusiasm and bravery are not less than 30, the user's body breakage will be greatly increased and the user will get 2 levels of this effect after this technique has been used at 100% of it's power: the user's External Penetration will be increased when performing all "sword techniques".
 Reverse - 7 Star\nSwordsmanship of DragonPool
