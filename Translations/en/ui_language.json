@@ -2772,7 +2772,7 @@
   "LK_Combat_Block_Attack_Tips": "Partially Deflect the defeat mark by using a weapon to deflect a weapon attack \n At the end of each Deflect, the more markers it deflects, the longer it takes to activate the Deflect again.",
   "LK_Colored_Outer_Injury": "<color=#outterinjury>Ext. Inj.</color>",
   "LK_Colored_Inner_Injury": "<color=#innerinjury>Int. Inj.</color>",
-  "LK_Colored_Fatal_Damage": "<color=#fataldamage>Fatal Inj.</color>",
+  "LK_Colored_Fatal_Damage": "<color=#fataldamage>Fatal Wound</color>",
   "UI_DebtOverview_Title": "Debt",
   "UI_DebtOverview_NonEquivalent": "Unsolved hate",
   "UI_DebtOverview_NonEquivalent_Summary": "Total unresolved hate for ungratefulness: {0}",
