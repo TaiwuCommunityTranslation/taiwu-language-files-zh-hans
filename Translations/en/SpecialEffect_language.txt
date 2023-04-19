@@ -2752,7 +2752,7 @@ If the user's fortitude and aptitude are not less than 30, the attack range of t
 Reverse - HU·Sword Intent\nof Pure Soul
 If the user's calmness, intelligence, and aptitude are not less than 20, the user's Internal Penetration is greatly increased, and the user gains 2 levels of this effect after this technique has been used at 100% of it's power: the user's Internal Penetration is increased when performing all "sword techniques".
 Reverse - Swordsmanship\nof SuperbCore
-If the user's Karma is not less than 40, the power of this technique will be greatly increased, and after this technique has become 100% more powerful, the user will receive 2 levels of this effect: the power of all "sword techniques" performed by the user will be increased.
+If the user's Karma is not less than 40, the power of this technique will be greatly increased. After this technique has been used with at least 100% of it's power, the user will receive 2 levels of this effect: the power of all "Sword Techniques" performed by the user will be increased.
 Reverse - Blade of General
 When you start to perform this technique, if the weapon used by the enemy is a "Polearm", when you attack the enemy with this technique, the power of the enemy's "Aegis" technique will be reduced, and after this technique has become 100% powerful, the user will get 2 levels of this effect: when the user performs all "Blade techniques" to attack the enemy, the power of the enemy's "Aegis" technique will be reduced.
 Reverse - Blade of\nMaster Ruan
