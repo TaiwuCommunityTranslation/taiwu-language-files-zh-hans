@@ -3264,7 +3264,7 @@ Reduced enemy attack range
 When this technique is performed, the happier the enemy is, the more the power of this technique increases; when this technique is performed at 100% of its power, the range of the enemy's next "Break" technique is reduced according to how happy the enemy is; when this technique is finished, a buff that increases the enemy's mood is applied according to how much power this technique has performed
 Reverse - Phoenix Arrival
 Reduce BRE and FOC
-When you start to perform this technique, if the user's Karma is higher than the enemy's Karma, the user's Karma will be added as power to this technique; and if the user's Aptitude Fate is also higher than the enemy's Aptitude Fate, it will apply a debuff to the enemy that lowers the Breath and Focus. 
+When you start to perform this technique, if the Karma of the user is higher than the Karma of the enemy, the Karma will be added to the power of this technique, and if the Perception of the user is also higher than the Perception of the enemy, the enemy will get a debuff that decreases Breath and Focus.
 Reverse - Imperial\nConcubine
 When you start to perform this technique, all the enemy's true qi above the initial value will be lost by 1 point; When this technique is used at 100% of its power, all the enemy's true qi above the initial value will be lost again by a maximum of 2 points
 Reverse - Flowers Sigh
