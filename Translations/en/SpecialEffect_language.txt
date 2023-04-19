@@ -2740,7 +2740,7 @@ Once this technique has reached 10% of its power, the user gains 6 levels of thi
 Reverse - 12 Ways of\nAssassination
 If the user's Valour is not less than 40, the user can perform this technique from 50% of the progress. After this technique has been used with at least 100% of it's power, the user gets 2 levels of this effect: User can perform all "Sword Techniques" from 50% of the progress.
 Reverse - Gongbu\nThe Unique Sword
-If the user's Calmness does not fall below 40, the direct damage dealt by this technique to the enemy is greatly increased and the user gains 2 levels of this effect after this technique has become 100% more powerful: the direct damage of all "sword techniques" performed by the user is increased.
+If the user's Composure is not less than 40, the direct damage dealt by this technique to the enemy is greatly increased. After this technique has been used with at least 100% of it's power, the user gains 2 levels of this effect: the direct damage of all "Sword Techniques" performed by the user is increased.
 Reverse - Broken\nHoly Sword
 If the user's Enthusiasm is at least 40, the chance of this technique hitting the enemy is greatly increased. After this technique has been used with at least 100% of it's power, the user gains 2 levels of this effect: the chance of all "Sword Techniques" performed by the user hitting the enemy is increased.
 Reverse - Heavy Sword of\nGreatTower
