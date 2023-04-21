@@ -21,7 +21,7 @@ Amount of Taiwu's teammates is less than {0}
 {0} isn't a Taiwu villager
 {0} needs to be a member of the sect
 Aspiration's Seniority is high enough to use aspiration's skill
-Aspiration's Seniority has to reach {0} to use aspiration's skill
+Aspiration's Seniority has to reach {0}'s identity to use this skill
 {0} doesn't Despise Taiwu
 Taiwu has the resources needed to use aspiration's skill and it's not on cooldown
 {0} needs to be Enthralled by XiangShu
