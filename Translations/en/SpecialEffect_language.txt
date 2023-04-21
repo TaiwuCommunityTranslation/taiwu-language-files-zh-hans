@@ -1609,7 +1609,7 @@ During the execution of this technique, the user can perform any "Break" techniq
 Stab of\n5 Elements
 Increase the power limit of all "Quick" techniques based on the power of the technique by 30% until the end of the battle.
 Stab of Lost Soul
-Improving counterattack hits
+Improve Counterattack Accuracy
 After this technique has been used for ten percent of its power, the user gains 2 levels of this effect: the user's hit rate when countering enemies is greatly increased.
 Beauty Stab
 If the distance between us and the enemy is less than the enemy's maximum attack distance, the user will immediately retreat to the enemy's maximum attack distance without consumption When this technique is used at 100% of its power.
