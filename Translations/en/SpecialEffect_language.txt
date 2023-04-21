@@ -2378,7 +2378,7 @@ Reverse - Lion's Swift
 Whenever the user hits an enemy with a "Hand Guard" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Ghost Step
 PAR all basic Atk
-During the duration of this Footwork, as long as the enemy does not have the effect of changing the hit mode, all the enemy's weapon attacks can be resolved by the user with the Parry defense.
+During the duration of this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Parry.
 Reverse - Driving Wind
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Cast Speed.
 Reverse - Fancy Step
