@@ -947,7 +947,7 @@ When this technique exerts at least 10% of its power, the user gains 2 points of
 Flying Sword
 Wounds inflicted by this technique on the enemy's head and neck will change to older wounds that are more difficult to recover from
 Swordsmanship\nof Open-Close
-If the user's Diversion, Parry, Evasion, or Focus is not lower than the enemy's, the enemy will be given a debuff that reduces the corresponding hitting attribute according to the percentage of power played by this technique.
+If the user's Diversion, Parry, Evasion, and Focus are not lower than the enemy's, based on the power of this technique the enemy will be given a debuff that reduces the corresponding Accuracy stat.
 Swordsmanship\nof Water Beetle
 E·Resolves Dn
 After this technique has been used for 100% of its power, the user gains 4 levels of this effect: Whenever the user attacks an enemy, the enemy's Diversion, Parry, Evasion, and Focus cannot be higher than the user's Might, Finesse, Swiftness, and Breath.
@@ -1190,7 +1190,7 @@ Snake Insanity\nHands
 When this technique is at least 10% powerful, the more external injury on the attacked part of the enemy, the more Gu the user can obtain.
 Red-eyed\nGu Descent
 Plant Pre Gu
-Reduced attack hit
+Reduce Attack Accuracy
 When this technique is used at 100% of its power, it will plant a Premature Red-eyed Gu on the enemy; the Premature Red-eyed Gu will make the host's chance of hitting the enemy greatly reduced; the Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Chi Demon\nGu Descent
 Adding a disorientation marker
