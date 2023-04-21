@@ -2405,7 +2405,7 @@ During the duration of this Footwork, the enemy's casting speed is significantly
 Reverse - Rushes To The Moon
 When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gains 2 points of "Quick" true energy.
 Reverse - Learae's Snowsteps
-During the duration of this Footwork, when the user is attacked by an enemy, he/she will first hit the enemy with a Breath attack, each one less and less accurate, and if the enemy fails to resolve the Breath attack, a portion of the user's unavailable styles will be randomly removed.
+During the duration of this Footwork, when the user is attacked by an enemy, they will first hit the enemy with a Breath attack, each one less and less accurate, and if the enemy fails to resolve the Breath attack, a portion of the user's unavailable styles will be randomly removed.
 Reverse - Lady Azure's Icesteps
 Enhanced evasion mitigation
 During the duration of this Footwork: the enemy's Evasion will not be increased by any effect; all Evasion-reducing techniques and buffs suffered by the enemy are greatly increased
