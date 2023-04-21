@@ -2494,7 +2494,7 @@ Reverse - Dragon Tail
 Reduce the level of Weak Points
 During the duration of this Footwork, it reduces the level of Weak Points caused by the enemy to the user.
 Reverse - Dragon Leap
-During the duration of this Footwork, when the user is attacked by an enemy, the user will first hit the enemy with a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might attack, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 2 levels
+During the duration of this Footwork, when the user is attacked by the enemy, the user will first hit the enemy with a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might attack, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 2 levels
 Reverse - Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Drunk Lying In The East Sea
