@@ -3519,7 +3519,7 @@ When the Phase Armature is defeated for the first time, it will enter a new phas
 Ten revolutions of dusty heart
 Whenever Dyeing Duster calls out a different Excalibur, Dyeing Duster's True Qi of all types increases dramatically
 Kneel Before The King
-When Huan Xin is defeated for the first time, it will enter a new combat phase: whenever Huan Xin's attack is defeated, apply 1 buff that increases the corresponding hit to Huan Xin; whenever Huan Xin fails to defeat an enemy attack, apply 1 buff that increases the corresponding defeat to Huan Xin
+When Huan Xin is defeated for the first time, it will enter a new combat phase: whenever Huan Xin's attack is resolved, apply 1 buff that increases the corresponding Accuracy of Huan Xin; whenever Huan Xin fails to resolve an enemy attack, apply 1 buff that increases the corresponding Resolve of Huan Xin
 No Dye
 Purple bamboo spirit illusion birth!
 When Violet is defeated for the first time, she will enter a new stage of battle: Whenever Violet's "Break" technique becomes 100% powerful, she will add 1 death mark to the enemy, the more death marks there are, the more the power of all the enemy's techniques will be increased, once the enemy has 6 death marks, the enemy will be defeated and his health will be reduced to 0
