@@ -2443,7 +2443,7 @@ Reverse - Flood Dragon Stirs Ocean
 As long as the user of this Footwork can play ten percent of the power of the legs, the user will be able to continue to attack the enemy without the consumption of other slightly higher-ranked different leg techniques
 Reverse - Stone Sink
 Diversion all basic Atk
-During the duration of this Footwork, as long as the enemy does not have an effect that can change the way of hitting, all the enemy's weapon attacks can be defeated by the user's Diversion.
+During the duration of this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Diversion.
 Reverse - Immobilize
 During the duration of this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
 Reverse - Vajra Stance
