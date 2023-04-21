@@ -2435,7 +2435,7 @@ When retreating with this Footwork, the user needs to accumulate power to move 1
 Reverse - Cliff Hanging Pot
 Whenever the user hits an enemy with a "poisonous frost" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Shatang's Watersteps
-When using Kick Techniques in this Footwork your Accuracies will be shifted towards Might
+When using Kick Techniques in this Footwork your Accuracies will be shifted towards Finesse
 Reverse - Skyline of Mt.Chai
 Reduce direct internal injuries
 The user has a higher chance of reducing the direct internal damage caused by the enemy to the user during the execution of the leg technique with this Footwork.
