@@ -662,7 +662,7 @@ Fallen Flower
 Whenever the user hits an enemy with a "Zither" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Skyscraper Climbing
 Increase your hit
-When the user attacks an enemy during the duration of this Footwork, the user's hits will be boosted by an additional portion of the user's Breath.
+When the user attacks an enemy during the duration of this Footwork, user's Accuracies other than Breath will be boosted by a portion of the user's Breath.
 Farewell Steps
 During the duration of this Footwork, for every 3 successful hits, the user will add 1 "None" to the enemy.
 Afterglow Catching
