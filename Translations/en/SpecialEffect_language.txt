@@ -2657,7 +2657,7 @@ When attacking an enemy with this technique, if this technique can cause direct 
 Reverse - Origin\nSword Intent
 If the user's Nadis Qi is lower than the initial value and lower than the enemy's Nadis Qi, this technique can be performed without consuming Inhale or Stance, in which case the power of this technique is greatly increased, and the user gains 6 points of Nadis when the technique is finished.
 Reverse - Ever-Changing\n14 Swordmanship
-When attacking an enemy with this technique, the user only hits with the highest of his Might, Finesse, and Swiftness, and only attacks with the highest of his Ext. and Int.  Penetration values; after this technique has reached 100% of its power, the user gains 3 levels of this effect: when an enemy performs any "Break" technique that consumes the "Hack", "Stab", or "Slash" style, if the user can use the "Hack", "Stab", or "Slash" style, the user immediately performs the same technique to attack the enemy without consumption, and if the user hits the enemy with the same technique in advance, "interrupt" the enemy's technique.
+When attacking an enemy with this technique, the user only hits with the highest of his Might, Finesse, or Swiftness, and only attacks with the highest of his Ext. or Int. Penetration values; after this technique has reached 100% of its power, the user gains 3 levels of this effect: when an enemy performs any "Break" techniques that consume "Hack", "Stab", or "Slash" styles, if the user can use the "Hack", "Stab", or "Slash" styles, the user immediately performs the same technique to attack the enemy without consumption, and if the user hits the enemy with the same technique before they do, "interrupt" their technique.
 Reverse - Tripping Spell
 When this spell is used at ten percent of its power, it can greatly restore the user's Footwork and Stamina.
 Reverse - Disable
@@ -2823,7 +2823,7 @@ Reverse - Snake Insanity\nHands
 When this technique is at least 10% powerful, the more internal injury marks on the attacked part of the enemy, the more Gu the user can obtain.
 Reverse - Red-eyed\nGu Descent
 Plant Pre Gu
-Increase attack hit
+Increase Attack Accuracy
 When this technique is used at 100% of its power, it will plant a Premature Red-eyed Gu on the user; the Premature Red-eyed Gu will increase the host's chance of hitting the enemy significantly; the Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise, this Gu will die
 Reverse - Chi Demon\nGu Descent
 When this technique is 100% powerful, it will plant a Chi Mimic Gu on the user; the Chi Mimic Gu will add a Breath injury to the enemy when the host's toxicity strikes; the Chi Mimic Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
