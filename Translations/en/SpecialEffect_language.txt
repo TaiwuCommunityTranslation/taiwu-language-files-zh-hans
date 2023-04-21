@@ -2313,7 +2313,7 @@ Reverse - Crossing The River With A Reed
 During the duration of this Footwork: the enemy cannot eliminate the Footwork and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
 Reverse - Shorten Distance
 EVA all basic Atk
-During the duration of this Footwork, as long as the enemy does not have an effect that can change the way they hit, all enemy weapon attacks can be defeated by the user with Evasion.
+During the duration of this Footwork, as long as the enemy does not have an effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Evasion.
 Reverse - White Ape's Leap
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack that can't chase against the enemy without consumption.
 Reverse - Unpredictable
