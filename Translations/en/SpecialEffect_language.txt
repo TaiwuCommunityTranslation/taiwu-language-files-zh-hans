@@ -1714,7 +1714,7 @@ Backing up while operating
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user advances 2 distances, this effect increases by 1 level, up to a maximum of 4 levels; the user can retreat a distance equal to the number of levels of this effect during the performance of any "Break" technique, and for every distance the user retreats, this effect decreases by 1 level.
 Swordsmanship\nof Taichi
 Reduce enemy attack
-After this technique has reached 100% of its power, the user gains 5 levels of this effect: When an enemy attacks the user with a weapon, the chance of all the enemy's Breath hits hitting the user is greatly reduced, and whenever the user resolves an enemy's non-chasing, Breath attack, he applies a debuff to the enemy that reduces Ext. and Int. Penetration
+After this technique has been used with at least 100% of it's power, the user gains 5 levels of this effect: When an enemy attacks the user with a weapon, the chance of all the enemy's Breath hits hitting the user are greatly reduced, and whenever the user resolves an enemy's non-chasing Breath attack, they apply a debuff to the enemy that reduces Ext. and Int. Penetration
 Congenital\nYoungyang Sword Intent
 If the user's age is not higher than 40, the power of this technique will not be reduced for any reason; the younger the user is when he starts to perform this technique, the more the power of this technique will be increased
 Limitless\nSword Form
