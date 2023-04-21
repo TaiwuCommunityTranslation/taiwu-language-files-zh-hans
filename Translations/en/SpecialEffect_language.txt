@@ -3205,7 +3205,7 @@ Reverse - Stab of\n5 Elements
 Based on the power of this technique, it will reduce the use requirement of all "Quick" techniques of the user until the end of the battle.
 Reverse - Stab of Lost Soul
 Lower enemy's Counterattack Accuracy
-After this technique has been used for ten percent of its power, the user gains 2 levels of this effect: the hit rate of the enemy's counterattack on the user is greatly reduced.
+After this technique has been used with at least 100% of it's power, the user gains 2 levels of this effect: the Accuracy of the enemy's counterattack on the user is greatly reduced.
 Reverse - Beauty Stab
 If the distance between us and the enemy is greater than the enemy's minimum attack distance, the user will immediately advance to the enemy's minimum attack distance without consumption When this technique is used at 100% of its power.
 Reverse - Stab of\nDexterity Snake
