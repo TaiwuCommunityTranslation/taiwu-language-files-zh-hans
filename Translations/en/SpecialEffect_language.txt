@@ -3176,7 +3176,7 @@ Based on the power of this technique, apply a Internal Defense debuff to the ene
 Reverse - Lame Fight\n80 Moves
 When this technique is used at 100% of its power, for every 3 "Hold" styles the user has, the user inflicts an 1 additional Weak Point to the enemy's attacked area.
 Reverse - Split Flower
-When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, and Swiftness of the enemy attacking the user are higher than the enemy's Diversion, Parry, and Evasion, the enemy's corresponding resolution will replace the hit.
+When attacking the enemy with this technique, ignore the protective gear of the attacked part of the enemy; When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: if the Might, Finesse, or Swiftness of the enemy attack is higher than the enemy's Diversion, Parry, or Evasion, the enemy's corresponding Resolve stat will replace the Accuracy stat.
 Reverse - Lighten Finger
 The attack range of this technique is always the maximum; When this technique is used at 100% of its power, the user brings the enemy closer by 4 distance, and if the distance between the enemy and the user after being brought closer is not less than 4, the user deals the same damage to the enemy once again
 Reverse - A Thousand\nHands
