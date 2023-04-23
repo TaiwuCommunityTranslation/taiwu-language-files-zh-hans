@@ -1098,7 +1098,7 @@ If the weapon used by the user is the "Blade of General", when attacking the ene
 Unleashed: This blade can reduce the power of the enemy's "Aegis" techniques with all "Blade techniques".
 Blade of\nMaster Ruan
 Countering weapon attacks
-If the weapon used by the user is the "Blade·RuanShi", and the user is able to counter-attack the enemy's weapon attack during the execution of this technique, and the "Blade·RuanShi" is unleashed after the technique has been exercised at 10% of its power, this blade enables the user to This sword enables the user to counterattack the enemy when he/she resolves the enemy's weapon attack during the execution of the "sword technique", and continues until the other weapon is unleashed or the battle is over.
+If the weapon used by the user is the "Blade·RuanShi", During the performing of this technique the user is able to counter-attack the enemy's weapon attacks; After this technique has been used with at least 100% of it's power, the "Blade·RuanShi" effect is unleashed; This effect enables the user to counterattack the enemy during performance of "Blade Techniques", and continues until any other weapon is unleashed or the battle is over.
 Unleashed: This blade allows the user to counterattack the enemy while defusing their weapon attacks during the execution of "Blade Technique".
 Battle Blade\nof Dragon Sparrow
 Anti-shock direct damage
