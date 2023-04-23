@@ -1847,7 +1847,7 @@ Reverse -  Hold the Origin and Keep the One
 Reduces the consumption of Inhale and Stance of the user's "Fire" type technique
 Reverse -  One Word Mixed Pile
 Recover Inhale
-When the user consumes only the Stance, a portion of the energy will be restored.
+When the user consumes only the Stance, a portion of Inhale will be restored.
 Reverse -  Luo Tian Zhen Zhi Twelve Piles
 Convert the user's "Water" internal energy into "Fire" internal energy. The more energy is converted, the more the power of the user's "Fire" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] ).
 Reversal - Golden Sutra of Marrow Washing
@@ -2050,7 +2050,7 @@ Attrition of enemy's storage style
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the enemy loses 2 randomly available styles.
 Reverse - Quiet Return In One
 E·Inhale Dn
-Whenever the user neutralizes an enemy's non-chasing attack, the enemy's boost is reduced and the user gains 1 randomly available style.
+Whenever the user neutralizes an enemy's non-chasing attack, the enemy's Inhale is reduced and the user gains 1 randomly available style.
 Reverse - 4 Images of Lotus Formation
 When your teammate uses the「Heal」or「Detox」commands, they will heal more wounds and detox more poisons on the user.
 Reverse - Immortal Yang's Golden Body
