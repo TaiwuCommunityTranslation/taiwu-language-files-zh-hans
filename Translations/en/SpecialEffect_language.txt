@@ -1734,7 +1734,7 @@ The direct injuries caused by this technique will be resisted by the enemy's Int
 The Ultra One\nSwipe
 The lower the disorder of the internal breath of the user when this technique exerts 100% of its power, the higher the number of sealed points caused by this technique to the enemy, and the higher the level of sealed points.
 Heavy Swipe
-When you start to perform this technique, the lower the disorder of the internal breath of the user, the more the power of this technique will increase; when this technique plays a tenth of its power, the lower the disorder of the internal breath of the user, the more the degree of direct injury caused by the user to the enemy will increase by multiple layers
+When you start to perform this technique, the lower the disorder of the internal breath of the user, the more the power of this technique will increase; When this technique is used at 100% of its power, the lower the disorder of the internal breath of the user, the more the degree of direct injury caused by the user to the enemy will increase by multiple layers
 Formless Swipe
 When this technique is used at 100% of its power, it completely eliminates the effect of the continuous reduction of the power of the technique that the user receives during the battle by three, and increases the power of this technique according to the sum of the power reduction eliminated, which lasts until the end of the battle.
 Yuanshan\nJump Kick
@@ -2614,7 +2614,7 @@ When this technique is used with at least 10% of its power, the enemy loses 2 po
 Reverse - Fallen Finger
 This technique causes the same amount of direct internal damage to both the enemy and us; the direct internal damage caused by this technique cannot be reduced by any effect
 Reverse - Peeling Move
-When this technique is used, it has a certain chance to remove 1 piece of clothing, armor, or accessory from the enemy, and apply a debuff to the enemy according to the level of the equipment removed.
+When this technique is used at 100% of its power, it has a certain chance to remove 1 piece of clothing, armor, or accessory from the enemy, and apply a debuff to the enemy according to the level of the equipment removed.
 Reverse - Poisonous Snake\nHidden Move
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Quick" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
 Reverse - 12 Moves of\nChangxi
