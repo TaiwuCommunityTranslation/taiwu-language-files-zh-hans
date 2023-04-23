@@ -1495,7 +1495,7 @@ When the style needed to perform this technique is not enough, the user can perf
 Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's External Penetration, the more the enemy's External Defense is reduced
 Lady Poison
-After this technique has been used with at least 100% of it's power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance, consume 1 "poison" style of the user, make the enemy also close to the user for 1 distance, and after the enemy moves because of this, close 1 acupuncture point in a random part of the enemy
+After this technique has been used with at least 100% of it's power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance, consume 1 "Toxic" style of the user, make the enemy also close to the user for 1 distance, and after the enemy moves because of this, close 1 acupuncture point in a random part of the enemy
 Bloodhound's\nSand
 The Pyrotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Shaolin\nLong Fist
