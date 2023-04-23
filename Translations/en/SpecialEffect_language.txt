@@ -1065,87 +1065,87 @@ Add a must-death marker
 Once this technique has reached 10% of its power, the user will receive 6 levels of this effect: Whenever an enemy performs the "Break" technique with a poison mark, 1 certain death mark will be added to the enemy, the more certain death marks there are, the more the power of all the enemy's techniques will increase.
 12 Ways of\nAssassination
 Unleash your weapon
-If the weapon used by the user is the "Sword·YuChang", the user can perform this technique from 50% of its progress, and after this technique has been used at 100% of its power, the "Sword·YuChang" can be unsealed, and this sword can perform all "sword techniques" from 50% of its progress. It will last until the other weapons are unblocked or the battle is over.
-Unblocked: This sword can perform all "Sword Techniques" from 50% of its progress.
+If the weapon used by the user is the "Sword·YuChang", the user can perform this technique from 50% of its progress, and after this technique has been used at 100% of its power, the "Sword·YuChang" can be unsealed, and this sword can perform all "sword techniques" from 50% of its progress. It will last until the other weapons are unleashed or the battle is over.
+Unleashed: This sword can perform all "Sword Techniques" from 50% of its progress.
 Gongbu\nThe Unique Sword
 Skill Dmg Up
-If the weapon used by the user is the "Sword·GongBu", the direct damage dealt by this technique to the enemy is greatly increased and the "Sword·GongBu" can be unblocked after this technique has been used to 100% of its power, and this sword can increase the direct damage of all "sword techniques" until the other until the other weapons are unblocked or the battle is over
-Unblocked: This sword can increase the direct damage of all "sword techniques".
+If the weapon used by the user is the "Sword·GongBu", the direct damage dealt by this technique to the enemy is greatly increased and the "Sword·GongBu" can be unleashed after this technique has been used to 100% of its power, and this sword can increase the direct damage of all "sword techniques" until the other until the other weapons are unleashed or the battle is over
+Unleashed: This sword can increase the direct damage of all "sword techniques".
 Broken\nHoly Sword
 Skill accuracy up
-If the weapon used by the user is the "Sword·ShengXie", the chance of this technique hitting the enemy is greatly increased and the "Sword·ShengXie" can be unblocked after this technique has been used to 100% of its power, and this sword can increase the chance of all "sword techniques" hitting the enemy until other weapons are used. Unblocked or end of battle
-Unblocked: This sword can increase the chance of all "sword techniques" hitting enemies
+If the weapon used by the user is the "Sword·ShengXie", the chance of this technique hitting the enemy is greatly increased and the "Sword·ShengXie" can be unleashed after this technique has been used to 100% of its power, and this sword can increase the chance of all "sword techniques" hitting the enemy until other weapons are used. Unleashed or end of battle
+Unleashed: This sword can increase the chance of all "sword techniques" hitting enemies
 Heavy Sword of\nGreatTower
-If the weapon used by the user is the "Sword·JuQue", the user's External Penetration is greatly increased and the "Sword·JuQue" can be unsealed after this technique has been used at 100% of it's power, and this sword can increase the user's External Penetration when performing all "Sword Technique" until other weapons are used. Unblocked or end of battle
-Unblocked: This sword can increase the External Penetration of the user when performing all "Sword Technique".
+If the weapon used by the user is the "Sword·JuQue", the user's External Penetration is greatly increased and the "Sword·JuQue" can be unsealed after this technique has been used at 100% of it's power, and this sword can increase the user's External Penetration when performing all "Sword Technique" until other weapons are used. Unleashed or end of battle
+Unleashed: This sword can increase the External Penetration of the user when performing all "Sword Technique".
 7 Star\nSwordsmanship of DragonPool
 Reducing the consumption of techniques
 If the weapon used by the user is the "Sword·LongYuan", the user's Inhale and Stance consumption for performing this technique is greatly reduced, and the "Sword·LongYuan" can be unsealed after this technique has been used to 100% of its power, and this sword can reduce the Inhale and Stance consumption of all "sword techniques". It will last until the other weapons are unsealed or the battle is over.
-Unblocked: This sword can reduce the consumption of Inhale and Stance of all "sword techniques".
+Unleashed: This sword can reduce the consumption of Inhale and Stance of all "sword techniques".
 Taier\nImmeasurable Sword
-If the weapon used by the user is the "Sword·TaiE", the attack range of this technique is greatly increased and the "Sword·TaiE" can be unblocked after this technique has been used to 100% of its power, and this sword can increase the attack range of all "sword techniques" until the other weapons are unblocked or End of battle
-Unblocked: This sword can increase the attack range of all "sword techniques".
+If the weapon used by the user is the "Sword·TaiE", the attack range of this technique is greatly increased and the "Sword·TaiE" can be unleashed after this technique has been used to 100% of its power, and this sword can increase the attack range of all "sword techniques" until the other weapons are unleashed or End of battle
+Unleashed: This sword can increase the attack range of all "sword techniques".
 HU·Sword Intent\nof Pure Soul
 Int. Pen. UP
-If the weapon used by the user is the "Sword·ChunJun", the user's Internal Penetration is greatly increased, after this technique has been used at 100% of it's power, the "Sword·ChunJun" can be unsealed, and this sword can increase the user's Internal Penetration when performing all "Sword Technique" until other weapons are used. Unblocked or end of battle
-Unblocked: This sword can increase the user's Internal Penetration when performing all "Sword Technique".
+If the weapon used by the user is the "Sword·ChunJun", the user's Internal Penetration is greatly increased, after this technique has been used at 100% of it's power, the "Sword·ChunJun" can be unsealed, and this sword can increase the user's Internal Penetration when performing all "Sword Technique" until other weapons are used. Unleashed or end of battle
+Unleashed: This sword can increase the user's Internal Penetration when performing all "Sword Technique".
 Swordsmanship\nof SuperbCore
 If the weapon used by the user is the "Sword·ZhanLu", the power of this technique is greatly increased and the "Sword·ZhanLu" can be unsealed after this technique has been used to 100% of its power, and this sword can increase the power of all "sword techniques" until the other weapons are unsealed or the battle is over.
-Unblocked: This sword can increase the power of all "sword techniques".
+Unleashed: This sword can increase the power of all "sword techniques".
 Blade of General
 Power of descending enemy protection
-If the weapon used by the user is the "Blade of General", when attacking the enemy with this technique, it reduces the power of the enemy's "Aegis" technique, and after this technique has been used to 100% of its power, the "Blade of General" can be unblocked, and this blade can reduce all "Blade techniques". The sword can reduce the power of the enemy's "Aegis" technique until the other weapons are unblocked or the battle is over.
-Unblocked: This blade can reduce the power of the enemy's "Aegis" techniques with all "Blade techniques".
+If the weapon used by the user is the "Blade of General", when attacking the enemy with this technique, it reduces the power of the enemy's "Aegis" technique, and after this technique has been used to 100% of its power, the "Blade of General" can be unleashed, and this blade can reduce all "Blade techniques". The sword can reduce the power of the enemy's "Aegis" technique until the other weapons are unleashed or the battle is over.
+Unleashed: This blade can reduce the power of the enemy's "Aegis" techniques with all "Blade techniques".
 Blade of\nMaster Ruan
 Countering weapon attacks
-If the weapon used by the user is the "Blade·RuanShi", and the user is able to counter-attack the enemy's weapon attack during the execution of this technique, and the "Blade·RuanShi" is unblocked after the technique has been exercised at 10% of its power, this blade enables the user to This sword enables the user to counterattack the enemy when he/she resolves the enemy's weapon attack during the execution of the "sword technique", and continues until the other weapon is unblocked or the battle is over.
-Unblocked: This blade allows the user to counterattack the enemy while defusing their weapon attacks during the execution of "Blade Technique".
+If the weapon used by the user is the "Blade·RuanShi", and the user is able to counter-attack the enemy's weapon attack during the execution of this technique, and the "Blade·RuanShi" is unleashed after the technique has been exercised at 10% of its power, this blade enables the user to This sword enables the user to counterattack the enemy when he/she resolves the enemy's weapon attack during the execution of the "sword technique", and continues until the other weapon is unleashed or the battle is over.
+Unleashed: This blade allows the user to counterattack the enemy while defusing their weapon attacks during the execution of "Blade Technique".
 Battle Blade\nof Dragon Sparrow
 Anti-shock direct damage
-If the weapon used by the user is the "Blade·DaXiaLongQue", the user can reflect the direct damage inflicted by the enemy on the user during the performance of this technique, and after the technique has been exercised at 100% of its power, the "Blade·DaXiaLongQue" is unblocked, and this blade enables all "Blade Techniques" to be performed in such a way that the direct damage inflicted by the enemy on the user is reversible until the other weapons are unblocked or the battle is over.
-Unblocked: This blade enables all "Blade Techniques" to be performed in such a way that it can reflect the direct damage inflicted by the enemy on the user.
+If the weapon used by the user is the "Blade·DaXiaLongQue", the user can reflect the direct damage inflicted by the enemy on the user during the performance of this technique, and after the technique has been exercised at 100% of its power, the "Blade·DaXiaLongQue" is unleashed, and this blade enables all "Blade Techniques" to be performed in such a way that the direct damage inflicted by the enemy on the user is reversible until the other weapons are unleashed or the battle is over.
+Unleashed: This blade enables all "Blade Techniques" to be performed in such a way that it can reflect the direct damage inflicted by the enemy on the user.
 Blade of\nJade Carving
-If the weapon used by the user is the "Blade·KunWu", the user can perform this technique from 50% of its progress, and after this technique has been used at 100% of its power, the "Blade·KunWu" can be unblocked, and this blade can perform all "Blade techniques" from 50% of its progress It will last until the other weapons are unblocked or the battle is over.
-Unblocked: This Blade can perform all "Blade techniques" from 50% of its progress.
+If the weapon used by the user is the "Blade·KunWu", the user can perform this technique from 50% of its progress, and after this technique has been used at 100% of its power, the "Blade·KunWu" can be unleashed, and this blade can perform all "Blade techniques" from 50% of its progress It will last until the other weapons are unleashed or the battle is over.
+Unleashed: This Blade can perform all "Blade techniques" from 50% of its progress.
 Blade of\nGhost Chef
-If the weapon used by the user is "Ghost Butcher", the direct damage dealt by this technique to the enemy increases according to the number of poison marks of the user, and after this technique has been used to 100% of its power, "Ghost Butcher" can be unblocked, and this blade can make all "Blade Techniques" deal more damage to the enemy according to the number of poison marks of the user. The number of layers of direct damage inflicted by this blade on the enemy increases according to the number of poison marks of the user, and lasts until the other weapons are unblocked or the battle is over.
-Unblocked: This blade increases the number of levels of direct damage dealt to the enemy by all "Blade techniques" depending on the number of poison marks the user has.
+If the weapon used by the user is "Ghost Butcher", the direct damage dealt by this technique to the enemy increases according to the number of poison marks of the user, and after this technique has been used to 100% of its power, "Ghost Butcher" can be unleashed, and this blade can make all "Blade Techniques" deal more damage to the enemy according to the number of poison marks of the user. The number of layers of direct damage inflicted by this blade on the enemy increases according to the number of poison marks of the user, and lasts until the other weapons are unleashed or the battle is over.
+Unleashed: This blade increases the number of levels of direct damage dealt to the enemy by all "Blade techniques" depending on the number of poison marks the user has.
 Red Blade of\n7 End
-If the weapon used by the user is the "Blade·Ruby", the user's Inhale and Stance consumption for performing this technique is greatly reduced, and the "Blade·Ruby" can be unblocked after the technique has been used at 100% of its power. It will reduce the consumption of Inhale and Stance of all "Blade Techniques" until the other weapon is unblocked or the battle is over.
-Unblocked: This blade can reduce the consumption of Inhale and Stance of all "Blade techniques".
+If the weapon used by the user is the "Blade·Ruby", the user's Inhale and Stance consumption for performing this technique is greatly reduced, and the "Blade·Ruby" can be unleashed after the technique has been used at 100% of its power. It will reduce the consumption of Inhale and Stance of all "Blade Techniques" until the other weapon is unleashed or the battle is over.
+Unleashed: This blade can reduce the consumption of Inhale and Stance of all "Blade techniques".
 Incomplete\nBlade
-If the weapon used by the user is a "Blade·Deform", the attack range of this technique is greatly increased and the "Blade·Deform" can be unblocked after this technique has been used to 100% of its power, and this blade can increase the attack range of all "Blade techniques" until the other weapons are unblocked or until the battle is over.
-Unblocked: This blade can increase the attack range of all "Blade techniques".
+If the weapon used by the user is a "Blade·Deform", the attack range of this technique is greatly increased and the "Blade·Deform" can be unleashed after this technique has been used to 100% of its power, and this blade can increase the attack range of all "Blade techniques" until the other weapons are unleashed or until the battle is over.
+Unleashed: This blade can increase the attack range of all "Blade techniques".
 The Last Blade\nof Minghong
 If the weapon used by the user is the "Blade·MingHong", the power of this technique is greatly increased, and after this technique has been used at 100% of its power, the "Blade·MingHong" can be unsealed, and this blade can increase the power of all "Blade techniques" until the other weapons are unsealed or the battle is over.
-Unblocked: This blade can increase the power of all "Blade techniques".
+Unleashed: This blade can increase the power of all "Blade techniques".
 Dragon-Defeated\nStaff
-If the weapon used by the user is the "Polearm·Dragon Vanquisher", When this technique is used at 100% of its power it reduces the enemy's "attack tokens", and the "Polearm·Dragon Vanquisher" is unblocked, this Polearm can reduce the enemy's "attack tokens" when "Polearm" techniques are used at 100% power. It lasts until another weapon is unblocked or the battle is over.
-Unblocked: This Polearm enables all "Polearm" techniques to reduce the enemy's "attack tokens" when they are 100% powerful
+If the weapon used by the user is the "Polearm·Dragon Vanquisher", When this technique is used at 100% of its power it reduces the enemy's "attack tokens", and the "Polearm·Dragon Vanquisher" is unleashed, this Polearm can reduce the enemy's "attack tokens" when "Polearm" techniques are used at 100% power. It lasts until another weapon is unleashed or the battle is over.
+Unleashed: This Polearm enables all "Polearm" techniques to reduce the enemy's "attack tokens" when they are 100% powerful
 Staff of\nSweep Cloud
-If the weapon used by the user is the "Polearm·Rainbow Whisk", this technique loses the enemy's Footwork and Stamina when it is used at 100% of its power, and the "Polearm·Rainbow Whisk" is unblocked, this Polearm enables all "Polearm" techniques to lose the enemy's Footwork and Stamina when it is used at 100% of its power. It lasts until the other weapons are unblocked or the battle is over.
-Unblocked: This Polearm can make all the "Polearm" techniques lose the enemy's Footwork and Stamina when they exert ten percent of their power
+If the weapon used by the user is the "Polearm·Rainbow Whisk", this technique loses the enemy's Footwork and Stamina when it is used at 100% of its power, and the "Polearm·Rainbow Whisk" is unleashed, this Polearm enables all "Polearm" techniques to lose the enemy's Footwork and Stamina when it is used at 100% of its power. It lasts until the other weapons are unleashed or the battle is over.
+Unleashed: This Polearm can make all the "Polearm" techniques lose the enemy's Footwork and Stamina when they exert ten percent of their power
 Staff of\n10 Directions
 If the weapon used by the wielder is the "Polearm·Mountain Shaken", when this technique is used at 100% of its power, "interrupt" the enemy's Healing, Detox, or Escape, and the "Polearm·Mountain Shaken" effect gets unleashed; this effect enables all "Polearm" techniques to "interrupt" the enemy's Healing, Detox, or Escape when they are at 100% power until any other weapon is unleashed or the battle is over
-Unblocked: This Polearm can "interrupt" enemy's healing, poison repelling, and escape when all "Polearm" techniques are at 100% power
+Unleashed: This Polearm can "interrupt" enemy's healing, poison repelling, and escape when all "Polearm" techniques are at 100% power
 Staff of\nGhost Head
 Reduce the number of effect layers
-If the weapon used by the user is the "Polearm·Cyan Ghost", this technique will randomly reduce the number of layers of the enemy's "Break" technique's ongoing effects by 1 when the technique is at 100% power, and the "Polearm·Cyan Ghost" is unblocked, this Polearm will enable all "Polearm" techniques to reduce the number of levels of the "Break" technique by 1 randomly until the other weapons are unblocked or the battle is over.
-Unblocked: This Polearm can cause all "Polearm" techniques to randomly reduce the number of levels of the enemy's "Break" technique's ongoing effect by 1 when the technique is used at 100% of its power.
+If the weapon used by the user is the "Polearm·Cyan Ghost", this technique will randomly reduce the number of layers of the enemy's "Break" technique's ongoing effects by 1 when the technique is at 100% power, and the "Polearm·Cyan Ghost" is unleashed, this Polearm will enable all "Polearm" techniques to reduce the number of levels of the "Break" technique by 1 randomly until the other weapons are unleashed or the battle is over.
+Unleashed: This Polearm can cause all "Polearm" techniques to randomly reduce the number of levels of the enemy's "Break" technique's ongoing effect by 1 when the technique is used at 100% of its power.
 Staff of\nGold Eyes Tiger
 Eliminate helper commands
 If the weapon used by the user is the "Polearm·Golden-eyed Tiger", when this technique is used at 100% of its power, it will immediately cause the enemy's random assisting teammate's 3 assist commands to enter a 5x longer cooldown, and the "Polearm·Golden-eyed Tiger" gets unsealed. When it's unsealed, this Polearm can make all the "Polearm" skills exert 100% of their power, and so that one of the enemy's random teammate's assist command will enter a 5x longer cooldown, which lasts until other weapons are unsealed or the battle is over.
 Unsealed: This Polearm can make all the "Polearm" skills exert 100% of their power, and so that one of the enemy's random teammate's assist command will enter a 5x longer cooldown
 Staff of\nMystical Island
-If the weapon used by the user is the "Polearm·PengLai", the user's Inhale and Stance consumption for performing this technique is greatly reduced, and the "Polearm·PengLai" can be unblocked after this technique has been used to 100% of its power, and this Polearm can reduce the Inhale and Stance consumption of all "Polearm techniques". It will last until the other weapons are unsealed or the battle is over.
-Unblocked: This Polearm can reduce the Inhale and Stance consumption of all "Polearm" techniques
+If the weapon used by the user is the "Polearm·PengLai", the user's Inhale and Stance consumption for performing this technique is greatly reduced, and the "Polearm·PengLai" can be unleashed after this technique has been used to 100% of its power, and this Polearm can reduce the Inhale and Stance consumption of all "Polearm techniques". It will last until the other weapons are unsealed or the battle is over.
+Unleashed: This Polearm can reduce the Inhale and Stance consumption of all "Polearm" techniques
 Divine Staff of\nOcean Carry
 technique is more difficult to interrupt
-If the weapon used by the wielder is the "Divine Staff of Ocean Carry", this technique cannot be "interrupted" and the "Divine Staff of Ocean Carry" can be unblocked after this technique has been used to 100% of its power, this Polearm can make all "Polearm" techniques more difficult to be "interrupted" and last until other weapons are used. Unblocked or end of battle
-Unblocked: This Polearm can make all "Polearm" techniques harder to "interrupt"
+If the weapon used by the wielder is the "Divine Staff of Ocean Carry", this technique cannot be "interrupted" and the "Divine Staff of Ocean Carry" can be unleashed after this technique has been used to 100% of its power, this Polearm can make all "Polearm" techniques more difficult to be "interrupted" and last until other weapons are used. Unleashed or end of battle
+Unleashed: This Polearm can make all "Polearm" techniques harder to "interrupt"
 Iron Staff of\nMixed Element
-If the weapon used by the user is the "Polearm·Mysterious Iron", the power of this technique is greatly increased, and after this technique has been used at 100% of its power, the "Polearm·Mysterious Iron" can be unsealed. Once unsealed, will increase the power of all "Polearm techniques" until the battle ends, or other weapons are unblocked.
-Unblocked: This Polearm can increase the power of all "Polearm" techniques
+If the weapon used by the user is the "Polearm·Mysterious Iron", the power of this technique is greatly increased, and after this technique has been used at 100% of its power, the "Polearm·Mysterious Iron" can be unsealed. Once unsealed, will increase the power of all "Polearm techniques" until the battle ends, or other weapons are unleashed.
+Unleashed: This Polearm can increase the power of all "Polearm" techniques
 Mechanic\nSwallow
 When this technique is used with at least 10% of its power, the user gains 6 levels of this effect: When the user gains a "Ware" style, there is a higher chance of gaining 1 more "Ware" style.
 Mechanic Hook
