@@ -3404,7 +3404,7 @@ Detox
 Reduce All poisons
 Detox yourself
 Reduced poison repellent effect
-Insufficient quantity of herbs and reduced effect of repelling poison
+The amount of Herbs is insufficient, the Detox effect is reduced
 Activate Force
 Inhale·Stance Up
 Immediately brings the user's boost and Stance to 100%.
