@@ -2237,7 +2237,7 @@ When defending with this technique, whenever the user successfully counters an e
 Reverse - Silkworm Insanity
 For each type of Gu applied to the user, the user's random type of true qi will continue to increase by 1 point.
 Reverse - Ghost Included
-When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 Disorientation mark to the enemy for every 2 wound marks the enemy has
+When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 Glazed marker to the enemy for every 2 Injuries the enemy has
 Reverse - Sky Snake Bone Exchange
 Invalidated by severe internal injuries
 The internal injury marker of the user will be removed by itself over time; the user will not be seriously injured by internal injury unless there are 4 levels of internal injury on the injured body part when the user receives internal injury.
