@@ -2868,7 +2868,7 @@ Reverse - Bone-Breaking\nWhip
 Reverse - Dreadlord's\nMetallic Whip
 When attacking the enemy with this technique: the armor breaking of the user is greatly increased; When this technique is used at 100% of its power, it eliminates all the enemy's Footwork and Stamina and brings the enemy closer by 6 distance
 Reverse - Jade Breaking
-Stamina instead of lifting
+Stamina instead of Inhale
 The strength of the user's feet can be used up in place of Inhale when Inhale is not enough to perform this technique, so the user can move and attack with weapons during the performance of this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique increases.
 Reverse - Spider Silk\nWhip
 When this technique is used at 100% of its power, the enemy's 2 weapons will be "sealed" for a short period of time. Every time the enemy moves 1 distance, the enemy will receive the backlash damage from the "sealed" weapons; after the technique is finished, the enemy will inevitably be temporarily "sealed".
