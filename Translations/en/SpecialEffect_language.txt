@@ -777,7 +777,7 @@ Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Drunk Lying In The East Sea
 Increase the power of gong methods
-If the user is drunk during the duration of this technique, the user will consume all of the user's energy and Footwork when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of energy and Footwork required to perform it.
+If the user is drunk during the duration of this technique, the user will consume all of the Inhale and Stance when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of Inhale and Stance that exceeded the requirements to perform it.
 Fox Move
 Accelerated mobile storage
 When moving forward with this Footwork, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
