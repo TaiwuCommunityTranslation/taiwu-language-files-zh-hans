@@ -1062,7 +1062,7 @@ Flood Dragon's\nBlood
 When attacking the enemy with this technique, the deeper the enemy is poisoned with Necrotoxin, the more layers of injuries this technique will cause to the enemy in direct damage; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Ghost Bone\nBlood Sea Otter
 Add a must-death marker
-Once this technique has reached 10% of its power, the user will receive 6 levels of this effect: Whenever an enemy performs the "Break" technique with a poison mark, 1 certain death mark will be added to the enemy, the more certain death marks there are, the more the power of all the enemy's techniques will increase.
+After this technique has been used with at least 100% of it's power, the user will get 6 layers of this effect: Whenever the enemy uses a "Break" skill with a Poison marker on their body, a death mark will be added to the enemy. The more death marks, the more the power of all the enemy's skills will increase. Once the enemy has 6 death marks, the enemy will be defeated, and their health will be reduced to 0; this exercise will always be "banned" after a cast, and last until the battle is over
 12 Ways of\nAssassination
 Unleash your weapon
 If the weapon used by the user is the "Sword·YuChang", the user can perform this technique from 50% of its progress, and after this technique has been used at 100% of its power, the "Sword·YuChang" can be unleashed, and this sword can perform all "sword techniques" from 50% of its progress. It will last until the other weapons are unleashed or the battle is over.
