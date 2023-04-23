@@ -3407,7 +3407,7 @@ Reduced poison repellent effect
 The amount of Herbs is insufficient, the Detox effect is reduced
 Activate Force
 Inhale·Stance Up
-Immediately brings the user's boost and Stance to 100%.
+Immediately brings the user's Inhale and Stance to 100%.
 Internal Conflicted
 Self-Injured
 The properties of one's own internal energy and the properties of the technique performed are conflicting and cause damage to oneself and disruption of internal breath
