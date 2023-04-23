@@ -1752,7 +1752,7 @@ When attacking the enemy with this technique: the user's DES is increased signif
 Kick of\nMove The Mountain
 When this technique is used at 100% of its power, the enemy's 3 "Water" techniques will be "blocked" for a long time.
 Cloud Dragon\n9 Kick
-After this technique has reached 10% of its power, the user gains 8 times this effect: every time the user advances 0.2 distance in a row, the number of layers of this effect decreases by 1. If the enemy is within the attack range of this technique, the user only needs and can only consume 10% of the foot power to attack the enemy again immediately from 50% of the progress of the technique, and the technique performed with this effect will not gain the number of layers of the destruction effect.
+After this technique has been used with at least 100% of it's power, the user gains 8 times this effect: every time the user advances 0.2 distance in a row, the number of layers of this effect decreases by 1. If the enemy is within the attack range of this technique, the user only needs and can only consume 10% of the foot power to attack the enemy again immediately from 50% of the progress of the technique, and the technique performed with this effect will not gain the number of layers of the destruction effect.
 Divine Kick of\nAo King
 Ban Atk Range
 After this technique has been used with at least 100% of it's power, the maximum distance between the enemy and me is reduced by 2, up to 8, and lasts until the end of the battle
@@ -3343,7 +3343,7 @@ When attacking the enemy with this technique: the user's DES is increased signif
 Reverse - Kick of\nMove The Mountain
 When this technique is used at 100% of its power, the power of the enemy's 3 "Water" techniques is reduced and lasts until the end of the battle.
 Reverse - Cloud Dragon\n9 Kick
-After this technique has reached 10% of its power, the user gains 8 times this effect: every time the user continuously retreats 0.2 distance, the number of layers of this effect decreases by 1. If the enemy is within the attack range of this technique, the user only needs and can only consume 10% of the foot power to attack the enemy again immediately from 50% of the execution progress.
+After this technique has been used with at least 100% of it's power, the user gains 8 times this effect: every time the user continuously retreats 0.2 distance, the number of layers of this effect decreases by 1. If the enemy is within the attack range of this technique, the user only needs and can only consume 10% of the foot power to attack the enemy again immediately from 50% of the execution progress.
 Reverse - Divine Kick of\nAo King
 After this technique has been used with at least 100% of it's power, the minimum distance between the enemy and us increases by 2, up to 6, and lasts until the end of the battle
 Reverse - Holy White\nElephant With 6 Tusks
