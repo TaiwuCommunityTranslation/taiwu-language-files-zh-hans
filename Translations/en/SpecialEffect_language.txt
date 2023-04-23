@@ -271,7 +271,7 @@ Teammates can perform「Heal」and「Detox」commands more frequently, which hea
 Immortal Yang's Golden Body
 When defending with this technique, the more styles the user has available, the less direct damage the enemy will inflict on the user.
 Seven-Star Cross Chain
-Exempt from racking consumption
+Exempt from Stance consumption
 When the user has 7 or more available styles, all "Break" type techniques performed by the user do not require the use of Stance, and the more Stance is exempted from consumption, the more the power of this technique will increase.
 Holy Light Inspiration
 Eliminate your mark
@@ -442,7 +442,7 @@ Force Change·RNG
 Eliminate useless storage type
 Whenever the user deals direct damage to an enemy, the user gains 2 points of a random type of true qi or loses 1 point of a random type of true qi, and loses 1 unusable style.
 Take The Pulse
-Surrendering the enemy's position to resume
+Surrendering the enemy's Stance Recovery
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, a debuff is applied to the enemy which reduces Stance Recovery.
 Muscle Displacement Bone Contraction
 Strengthening of extremity defense
