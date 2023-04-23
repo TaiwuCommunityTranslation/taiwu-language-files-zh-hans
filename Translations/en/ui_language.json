@@ -2637,7 +2637,7 @@
   "LK_Combat_Attack_Value_Tip": "The higher the weapon's Ext. Pen. and Int. Pen., the higher the damage it can do",
   "LK_Combat_Defend_Value_Tip": "The higher the protective gear's External Defense and Internal Defense, the more damage it can reduce",
   "LK_Weight_Tip": "When the equipment on the character exceeds the maximum weight of the equipment the character can bear, the character's movement and attack speed will be reduced",
-  "LK_EquipDefense_Armor_Tip": "If the toughness of the protective gear is lower than the armor of the weapon it is defending against, it will easily lose durability after being attacked",
+  "LK_EquipDefense_Armor_Tip": "If the armor's Hardness is lower than the enemy weapon's DES, the damage reduction effect on the armor will be ignored, and your armor will be more easily damaged",
   "LK_ClickAgainToSkip": "Click the left mouse button again to skip the animation",
   "LK_ExchangeBook_Dialog_Title": "Book Exchange Collection",
   "LK_ExchangeBook_Dialog_Content": "The other party does not have enough [prestige] to exchange to you, still want to complete this exchange?",
