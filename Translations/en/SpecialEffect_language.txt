@@ -2155,7 +2155,7 @@ Reverse - Reclamation Stance
 Applying a mind marker
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user applies 1 Glazed marker to the enemy
 Reverse - Dark Jade Practice
-Enemies suffer a significant increase in the duration of the Disorientation Mark
+Enemies suffer a significant increase in the duration of the Glazed markers
 Reverse - Formation of Scattered Flowers
 When your teammate uses the「Push」or「Pull」commands, the user will be pushed and pulled farther.
 Reverse - Rainbow Fairy Dress
