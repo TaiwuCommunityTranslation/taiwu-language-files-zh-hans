@@ -1164,7 +1164,7 @@ Mechanic Hawk
 After this technique has been used at 100% of its power, the user gains 6 levels of this effect: whenever the user inflicts a external injury on an enemy, if the user consumes an additional "Ware" style, he will inflict 1 level of non-external injury on a random part of the enemy, and this external injury will immediately change to an old one that is more difficult to recover from.
 The Impulse
 Transfer Injuries
-When this technique reaches 10% of its power, the user gains 1 level of this effect: When the total number of defeat marks of the user reaches the defeat condition, all of the user's removable wound marks and severe injury marks are removed and a portion of the removed wound marks are transferred to the enemy, after which the technique will be inevitably "blocked" until the end of the battle.
+After this technique has been used with at least 100% of it's power, the user gains 1 level of this effect: When the total number of defeat marks of the user reaches the defeat condition, all of the user's removable Injuries and Fatal Wound are removed and a portion of the removed Injuries are transferred to the enemy, after which the technique will be inevitably "blocked" until the end of the battle.
 Ancestor's\nLong Fist
 Extra Prestige
 When an enemy is defeated with this technique, the prestige gained by the user at the end of the battle is greatly increased
