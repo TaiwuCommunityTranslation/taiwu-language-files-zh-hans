@@ -2918,7 +2918,7 @@ When you start to perform this technique, if the enemy has any "Aegis" technique
 Reverse - Blade of\nMindsets And Thoughts
 When this technique is used with at least 10% of its power, the user gains 3 levels of this effect: all "Break" techniques performed by the enemy will be affected by the continuous power reduction effect of another "Break" technique of the enemy with the most continuous power reduction, and if the user is drunk, the effect will be significantly increased.
 Reverse - 81 Slashes of\nMadness Dragon
-After this technique has exerted ten percent of its power, the user gains nine layers of this effect: the fewer layers of this effect remain, the more direct internal injuries the enemy receives from the parts hit by this technique
+After this technique has been used with at least 100% of it's power, the user gains 9 layers of this effect: the fewer layers of this effect remain, the more direct internal injuries the enemy receives from the parts hit by this technique
 Reverse - The Great\nDrunk Blade of Yinyang
 When hitting an enemy with this technique, the degree of injury caused to the enemy directly by the applicator increases by a number of layers equal to half the number of internal injury marks on the same part of the applicator, and if the applicator is drunk, the number of increased layers is doubled
 Reverse - Dragonslayed\nBlade of Innocent Child
@@ -2963,7 +2963,7 @@ During the process of performing this technique, all direct injuries sustained b
 Reverse - Rock-Breaking\nPoke
 Improve your own broken blade
 Break Weapon
-After this technique has been used with at least 100% of it's power, the user gains three levels of this effect: when the enemy hits the user, the user's broken blade is greatly increased, and if the user damages the enemy's weapon, an additional 2 points of durability are damaged.
+After this technique has been used with at least 100% of it's power, the user gains 3 levels of this effect: when the enemy hits the user, the user's broken blade is greatly increased, and if the user damages the enemy's weapon, an additional 2 points of durability are damaged.
 Reverse - Dharma\nProtector's Poke
 When this technique is used with at least 10% of its power, the pestle used by the user is augmented by the "Vajra Protector": as long as the user is holding this pestle, the degree of direct internal injuries inflicted by the enemy on the user is reduced by 1 level.
 Dharma Protector: As long as the user is holding 「Pestle」, the degree of direct internal injuries inflicted by enemies on the user is reduced by 1 level.
