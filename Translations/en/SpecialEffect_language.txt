@@ -2399,7 +2399,7 @@ Reverse - Skyscraper Climbing
 Increase your own dissolution
 When the enemy attacks the user during the duration of this Footwork, the user's defenses, except for Focus, will receive an additional portion of the user's Focus.
 Reverse - Farewell Steps
-For every 3 successful hits on the enemy during the duration of this Footwork, the user will apply 1 Breath injury to the enemy
+For every 3 successful hits on the enemy during the duration of this Footwork, the user will apply 1 Glazed marker to the enemy
 Reverse - Afterglow Catching
 During the duration of this Footwork, the enemy's casting speed is significantly reduced
 Reverse - Rushes To The Moon
