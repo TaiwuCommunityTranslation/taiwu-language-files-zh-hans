@@ -832,7 +832,7 @@ Blade of\nAo Slashing
 Wounds inflicted by this technique on the enemy's legs and feet will change to older wounds that are more difficult to recover from
 Overlord Blade
 Forbid the enemy to retreat
-After this technique has been used for ten percent of its power, the user gains 4 layers of this effect: every time one of the enemy and I receive a wound mark, this effect is reduced by 1 layer, and before this effect disappears, the enemy cannot retreat as long as the user is within the enemy's attack range
+After this technique has been used with at least 100% of it's power, the user gains 4 layers of this effect: every time one of the enemy and I receive a wound mark, this effect is reduced by 1 layer, and before this effect disappears, the enemy cannot retreat as long as the user is within the enemy's attack range
 Gold Lion Blade
 Ban Hetero
 When you start to perform this technique, "interrupt" all the enemy's Heterodox training techniques and eliminate all the enemy's Heterodox training techniques; during the performance of this technique, the enemy cannot perform any Heterodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Heterodox training techniques, and every time the user performs any Orthodox training techniques, this effect is reduced by 1 level
