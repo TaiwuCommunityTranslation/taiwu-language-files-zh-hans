@@ -1411,7 +1411,7 @@ When you start performing this technique, If the weapon used by the user has "Sp
 Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Murderous" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
 Jieqing\nRapid Sword
 Continuous execution of sword techniques
-When this technique is at least 10% powerful, the user gains 1 "Kill" style; when this technique is 10% powerful, there is a higher chance that this technique will be used to attack the enemy immediately and without consumption from 50% of the progress.
+When this technique is performed with at least 10% power, the user gains 1 "Kill" style; When this technique is used at 100% of its power, there is a higher chance that this technique will be used to attack the enemy immediately and without consumption from 50% of the progress.
 Swordsmanship\nof Intercourse Breaking
 When attacking the enemy with this technique: If the user has 3 "Kill" styles arranged together, the higher the user's good sense with the enemy, the more direct damage this technique will cause to the enemy; when the user's good sense with the enemy is not less than intimate, the direct damage caused by this technique will not be reduced for any reason, and the enemy will have a grudge against the user after this technique is performed
 Sword Intent\nof Fear
