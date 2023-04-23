@@ -2633,7 +2633,7 @@
   "LK_WorldMap_Stay": "Staying",
   "LK_WeaponEquipAttack_Tip": "If the weapon's DES is higher than the enemy armor's Hardness, it will ignore the damage reduction effect of the enemy's armor, and armor will also be more easily damaged",
   "LK_ArmorEquipAttack_Tip": "If the armor's TOU is higher than the enemy weapon's Hardness, it will reduce enemy's ATK stats, and weapon will also be more easily damaged",
-  "LK_EquipDefense_Weapon_Tip": "If the weapon's toughness is lower than the broken edge of the armor being attacked, it will easily lose durability after the attack",
+  "LK_EquipDefense_Weapon_Tip": "If the weapon's Hardness is lower than the enemy armor's TOU, your ATK stats will be reduced, and your weapon will be more easily damaged",
   "LK_Combat_Attack_Value_Tip": "The higher the weapon's Ext. Pen. and Int. Pen., the higher the damage it can do",
   "LK_Combat_Defend_Value_Tip": "The higher the protective gear's External Defense and Internal Defense, the more damage it can reduce",
   "LK_Weight_Tip": "When the equipment on the character exceeds the maximum weight of the equipment the character can bear, the character's movement and attack speed will be reduced",
