@@ -2138,7 +2138,7 @@ When the distance between the user and the enemy is not less than 7, the further
 Reverse - Yinyang Eye
 Whenever the applicator starts to perform a technique, the more the enemy's performance speed is higher than the applicator's performance speed, the more the enemy's performance speed is reduced
 Reverse - The Great Dementor
-Freedom from the Glazed Marker
+Freedom from the Glazed marker
 When defending with this technique: the user will not be marked with a loss of concentration; if the enemy can be marked with a loss of concentration, and the user's Breath is higher than the enemy's Focus, the loss of concentration mark applied to the user by the enemy will be applied to the enemy instead
 Reverse - Formation of 6 Men 6 Armor
 When your teammate uses the「Swap」command, the amount of time they're swapped for increases significantly.
