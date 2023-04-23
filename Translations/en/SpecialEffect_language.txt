@@ -1855,7 +1855,7 @@ The higher the percentage of "Fire" internal energy of the user, the more the us
 Reverse -  Wudang Mixed Element technique
 If the enemy inflicts both direct external and direct internal wounds on the user, any direct internal wounds inflicted by the enemy that exceed 3 direct external wounds are subtracted.
 Reverse -  Taiyi Shen Gong
-The higher the "Daoist" skill of the user, the more toxins the user can dispel in battle.
+The higher the "Taoism" skill of the user, the more toxins the user can Detox in battle.
 Reverse -  Pure Yang Wuji Gong
 When the internal energy of the user is "Fire", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Reverse -  exhale and clear method
