@@ -3268,7 +3268,7 @@ When you start to perform this technique, if the Karma of the user is higher tha
 Reverse - Imperial\nConcubine
 When you start to perform this technique, all the enemy's true qi above the initial value will be lost by 1 point; When this technique is used at 100% of its power, all the enemy's true qi above the initial value will be lost again by a maximum of 2 points
 Reverse - Flowers Sigh
-This technique removes one of the enemy's gain states of the highest strength when it is used at ten percent of its power, and removes a large number of disorientation marks for the user depending on the strength of the gain state removed.
+When this technique is used at 100% of its power, it removes 1 strongest buff from the enemy, and removes Glazed markers on the user based on the strength of the removed buff.
 Reverse - Burydeer Orchid
 Elimination of dyscalculia markers
 When you start to perform this technique, the more markers of Breath injury the user receives, the more the power of this technique will increase; when this technique reaches 100% of its power, 2 markers of Breath injury will be removed for the user
