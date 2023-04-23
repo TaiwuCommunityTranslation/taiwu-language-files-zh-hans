@@ -1194,7 +1194,7 @@ Reduce Attack Accuracy
 When this technique is used at 100% of its power, it will plant a Premature Red-eyed Gu on the enemy; the Premature Red-eyed Gu will make the host's chance of hitting the enemy greatly reduced; the Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Chi Demon\nGu Descent
 Adding a Glazed marker
-When this technique is at 100% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
+When this technique is at 100% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Glazed marker to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Sinister Blood\nGu Descent
 Reduced treatment effect
 When this technique is at 100% of its power, it will plant the Premature Sinister Blood Gu on the enemy; Premature Sinister Blood Gu will significantly reduce the host's "Healing" and "Detox" effects in battle; after each attack, the Premature Sinister Blood Gu needs to consume 3 Gu charges from the host or the opponent, otherwise this Gu will die
