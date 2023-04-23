@@ -2632,7 +2632,7 @@
   "LK_NpcWord_Wearing_Clothing_Tutorial": "The world of Taiwu is so difficult to understand, and you've played it without a guide. \nYou are truly a genius for the ages, admirable! The guide will definitely be perfected!",
   "LK_WorldMap_Stay": "Staying",
   "LK_WeaponEquipAttack_Tip": "If the weapon's DES is higher than the enemy armor's Hardness, it will ignore the damage reduction effect of the enemy's armor, and armor will also be more easily damaged",
-  "LK_ArmorEquipAttack_Tip": "If the broken edge of the protective gear is higher than the toughness of the weapon being defended against, it will easily damage the durability of the weapon after being attacked.",
+  "LK_ArmorEquipAttack_Tip": "If the armor's TOU is higher than the enemy weapon's Hardness, it will reduce enemy's ATK stats, and weapon will also be more easily damaged",
   "LK_EquipDefense_Weapon_Tip": "If the weapon's toughness is lower than the broken edge of the armor being attacked, it will easily lose durability after the attack",
   "LK_Combat_Attack_Value_Tip": "The higher the weapon's Ext. Pen. and Int. Pen., the higher the damage it can do",
   "LK_Combat_Defend_Value_Tip": "The higher the protective gear's External Defense and Internal Defense, the more damage it can reduce",
