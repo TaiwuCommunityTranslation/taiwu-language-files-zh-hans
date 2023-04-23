@@ -2161,7 +2161,7 @@ When your teammate uses the「Push」or「Pull」commands, the user will be push
 Reverse - Rainbow Fairy Dress
 Significantly reduce the duration of the enemy's "Quick" technique
 Reverse - Mirror Flower Water Moon
-When defending with this technique, the more disorientation markers the enemy receives, the higher the chance the user has of directly neutralizing the enemy's attack
+When defending with this technique, the more Glazed markers the enemy receives, the higher the chance the user has of directly resolving the enemy's attack
 Reverse - Stance of Nuwa's Sky-Mending
 When defending with this technique: If the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's internal wound marks will return to the number at the beginning of the defense with this technique
 Reverse - Skillful Hands
