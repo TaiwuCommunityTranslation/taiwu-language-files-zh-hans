@@ -2993,7 +2993,7 @@ After this technique has been used for ten percent of its power, the user gains 
 Reverse - Thunderbolt\n7 Stars Finger
 When this technique is used at 100% of its power, the user draws 3 points of "Break" Qi from the enemy's body.
 Reverse - Mysterious\nFinger
-The more Cryotoxin markers the user has, the more internal injury markers will be added to random parts of the enemy when this technique is at its tenth power.
+When this technique is used at 100% of its power, the more Cryotoxin markers the user has, the more Internal Injuries will be added to random body parts of the enemy.
 Reverse - Source Extinct\nHands
 The higher the power of this technique, the higher the chance of "interrupting" the technique being performed by the enemy, and the cumulative power of the interrupted technique will be reduced according to the power of this technique until the end of the battle.
 Reverse - Staggered\nFinger
