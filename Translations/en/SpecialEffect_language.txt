@@ -1127,7 +1127,7 @@ If the weapon used by the user is the "Polearm·Rainbow Whisk", this technique l
 Unleashed: This Polearm can make all the "Polearm" techniques lose the enemy's Footwork and Stamina when they exert ten percent of their power
 Staff of\n10 Directions
 If the weapon used by the wielder is the "Polearm·Mountain Shaken", when this technique is used at 100% of its power, "interrupt" the enemy's Healing, Detox, or Escape, and the "Polearm·Mountain Shaken" effect gets unleashed; this effect enables all "Polearm" techniques to "interrupt" the enemy's Healing, Detox, or Escape when they are at 100% power until any other weapon is unleashed or the battle is over
-Unleashed: This Polearm can "interrupt" enemy's healing, poison repelling, and escape when all "Polearm" techniques are at 100% power
+Unleashed: This Polearm can make all "Polearm" skills "interrupt" enemy's Healing, Detox, and Escape when used at 100% power
 Staff of\nGhost Head
 Reduce the number of effect layers
 If the weapon used by the user is the "Polearm·Cyan Ghost", this technique will randomly reduce the number of layers of the enemy's "Break" technique's ongoing effects by 1 when the technique is at 100% power, and the "Polearm·Cyan Ghost" is unleashed, this Polearm will enable all "Polearm" techniques to reduce the number of levels of the "Break" technique by 1 randomly until the other weapons are unleashed or the battle is over.
