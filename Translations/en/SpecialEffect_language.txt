@@ -2573,7 +2573,7 @@ Reverse - Emotions
 Lowering the enemy's Focus
 When this technique is used with at least 10% of its power, the user gains 10 layers of this effect: the fewer layers of this effect remain, the more the enemy's Focus will be reduced when the user attacks the enemy
 Reverse - Crystal Tune
-When you start to perform this technique, if the enemy does not have a Breath injury, the power of this technique will be greatly increased; When this technique is used at 100% of its power, 1 Breath injury will be added to the enemy, and if the enemy does not have a Breath injury, 1 additional Breath injury will be added to the enemy
+When you start to perform this technique, if the enemy doesn't have Glazed markers; the power of this technique will be greatly increased; When this technique is used at 100% of its power, 1 Glazed marker will be added to the enemy, and if the enemy does not have a Glazed marker, 1 additional Glazed marker will be added to the enemy
 Reverse - Heart-Breaking
 Reduce your mood
 At the beginning of this technique, the more painful the user's mood is, the more the power of this technique increases; When this technique is used at 100% of its power, it randomly worsens the enemy's injury according to the user's painful mood; at the end of this technique, a special state that reduces the user's mood is applied according to the number of percent of power exerted by this technique
