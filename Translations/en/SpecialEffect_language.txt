@@ -694,7 +694,7 @@ Stardust Avoiding Anger
 Increase weapon armor breaking
 When the user attacks an enemy during the duration of this technique, the armor of the user's weapon will be significantly increased if the level of the enemy's armor is not higher than the level of the weapon used by the user.
 Dragon Riding
-Body technique instead of Footwork
+Footwork instead of Stance
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Stance is not enough to perform the "Break" technique, the user's Footwork can be consumed instead of the user's Stance.
 Tiankai Flowing Meteor Style
 Enhanced Might gain
