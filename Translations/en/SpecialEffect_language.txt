@@ -2736,7 +2736,7 @@ This technique increases the amount of Umbritoxin poison applied to the enemy si
 Reverse - Flood Dragon's\nBlood
 When attacking an enemy with this technique, the deeper the Necrotoxin the user is exposed to, the more layers the degree of direct damage caused by this technique to the enemy will increase; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Reverse - Ghost Bone\nBlood Sea Otter
-Once this technique has reached 10% of its power, the user gains 6 levels of this effect: Whenever the user performs the "Break" technique with the poison mark, 1 death mark will be added to the user, the more death marks there are, the more the power of all the user's techniques will be increased. This technique will inevitably be "banned" after it is performed and will last until the end of the battle.
+After this technique has been used with at least 100% of it's power, the user gains 6 levels of this effect: Whenever the user performs the "Break" technique with the poison mark, 1 death mark will be added to the user, the more death marks there are, the more the power of all the user's techniques will be increased. This technique will inevitably be "banned" after it is performed and will last until the end of the battle.
 Reverse - 12 Ways of\nAssassination
 If the user's Valour is not less than 40, the user can perform this technique from 50% of the progress. After this technique has been used with at least 100% of it's power, the user gets 2 levels of this effect: User can perform all "Sword Techniques" from 50% of the progress.
 Reverse - Gongbu\nThe Unique Sword
