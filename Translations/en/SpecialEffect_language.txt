@@ -677,7 +677,7 @@ Enhanced Swiftness Gain
 During the duration of this Footwork: the swiftness of the user will not be reduced by any effect; all swiftness-enhancing techniques and buffs received by the user will be greatly increased
 Luoshen's Riversteps
 Restore your momentum
-Every time you advance 1 distance with this Footwork, you will regain your energy and Footwork.
+Every time you advance 1 distance with this Footwork, you will regain your Inhale and Stance.
 Feather Stance
 Cause Weak Point and Sealed Acupoint
 When advancing with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the more random parts of the enemy will receive Weak Points and Sealed Acupoints
