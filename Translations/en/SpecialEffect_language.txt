@@ -385,7 +385,7 @@ Reclamation Stance
 Interrupt E·Style
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user adds 1 "None" to the enemy.
 Dark Jade Practice
-The duration of the disorientation marker suffered by the user is significantly reduced.
+The duration of the Glazed marker suffered by the user is significantly reduced.
 Formation of Scattered Flowers
 Teammates can perform「Push」and「Pull」commands more frequently, which makes them push you forward or pull you back 1 distance.
 Rainbow Fairy Dress
@@ -1193,7 +1193,7 @@ Plant Pre Gu
 Reduce Attack Accuracy
 When this technique is used at 100% of its power, it will plant a Premature Red-eyed Gu on the enemy; the Premature Red-eyed Gu will make the host's chance of hitting the enemy greatly reduced; the Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Chi Demon\nGu Descent
-Adding a disorientation marker
+Adding a Glazed marker
 When this technique is at 100% of its power, it will plant a Chi-Mei-Ruo Gu on the enemy; the Chi-Mei-Ruo Gu will add a Breath injury to the host when the host's toxicity strikes; the Chi-Mei-Ruo Gu needs to consume 2 Gu from the host or the opponent after each attack, otherwise this Gu will die
 Sinister Blood\nGu Descent
 Reduced treatment effect
