@@ -2367,7 +2367,7 @@ The Internal Penetration of the Kick performed by the user with this Footwork is
 Reverse - Step Alone A Thousand Mile
 Whenever you retreat 1 distance with this Footwork, your Stamina gets restored.
 Reverse - Mysterious Armor
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming Inhale or Footwork
+During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming Inhale or Stance
 Reverse - Shake Mountain
 During the duration of this Footwork, whenever the user deals direct damage to the enemy, the enemy loses part of his Footwork and Stamina.
 Reverse - Iron Bridge
