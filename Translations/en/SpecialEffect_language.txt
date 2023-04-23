@@ -3494,7 +3494,7 @@ Vanquish Evil！
 The first time Danyue Yaochang is defeated, he will enter a new stage of combat: every weapon attack of Danyue Yaochang can "interrupt" the enemy's ongoing techniques
 Glacial Aura
 Glacial Vassal！
-When Jiu Han is defeated for the first time, it will enter a new stage of battle: as long as the enemy is within the range of Jiu Han's attack, the enemy's lift and Stance cannot recover on their own
+When Jiu Han is defeated for the first time, it will enter a new stage of battle: as long as the enemy is within the range of Jiu Han's attack, the enemy's Inhale and Stance cannot recover on their own
 Seven Wenceslas
 Phoenix Cocoon！
 When Jin Huo'er is defeated for the first time, it will enter a new combat phase: all types of Jin Huo'er's True Qi will be continuously increased by 1 point at the same time; once all of Jin Huo'er's True Qi is 2 times or more than the enemy's corresponding type of True Qi, Jin Huo'er will be protected from all direct damage caused by the enemy
