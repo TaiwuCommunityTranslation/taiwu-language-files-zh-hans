@@ -2588,7 +2588,7 @@ When you start to perform this technique, if the user does not have a teammate, 
 Reverse - Love Poem
 When you start to perform this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
 Reverse - Celestial Music\nof Goddess
-When you start attacking an enemy with this technique, if the enemy has 6 or more marks of disorientation, remove the enemy's "Aegis" and "Quick" techniques; when this technique is at 10% of its power, remove all the enemy's marks of disorientation, and add half the number of heavy damage marks to the enemy depending on the number removed
+When you start attacking an enemy with this technique, if the enemy has 6 or more Glazed markers, cancel the enemy's "Aegis" and "Quick" techniques; When this technique is used at 100% of its power, remove all Glazed markers on the enemy, and add half of them back as Fatal Wounds
 Reverse - Pure Lady's\nHidden Hand
 Ban style gain
 When this technique is at least 10% of its power, the user gains 2 levels of this effect: the enemy cannot obtain the "take" style.
