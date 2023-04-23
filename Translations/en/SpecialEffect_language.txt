@@ -1370,7 +1370,7 @@ When this technique is used with at least 10% of its power, the user gains 4 lev
 Jade Well Hands
 When this technique is at 100% of its power, it will absorb 2 points of true qi from the enemy, and the type of true qi to be absorbed is the lowest amount of true qi of the user; if the user's true qi is still lower than its initial value after absorbing the enemy's true qi, the user will absorb an additional 3 points of this type of true qi from the enemy
 Latency Yin\nFinger
-After this technique has been used for ten percent of its power, the user gains 6 levels of this effect: the enemy has a higher chance of the external injury being changed to an old injury that is more difficult to recover from.
+After this technique has been used with at least 100% of it's power, the user gains 6 levels of this effect: the enemy has a higher chance of the external injury being changed to an old injury that is more difficult to recover from.
 Thunderbolt\n7 Stars Finger
 When this technique is used at 100% of its power, the enemy will lose 6 points of "Break" true qi.
 Mysterious\nFinger
@@ -1495,7 +1495,7 @@ When the style needed to perform this technique is not enough, the user can perf
 Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's External Penetration, the more the enemy's External Defense is reduced
 Lady Poison
-After this technique has been used for ten percent of its power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance, consume 1 "poison" style of the user, make the enemy also close to the user for 1 distance, and after the enemy moves because of this, close 1 acupuncture point in a random part of the enemy
+After this technique has been used with at least 100% of it's power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance, consume 1 "poison" style of the user, make the enemy also close to the user for 1 distance, and after the enemy moves because of this, close 1 acupuncture point in a random part of the enemy
 Bloodhound's\nSand
 The Pyrotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Shaolin\nLong Fist
@@ -1600,7 +1600,7 @@ Swordsmanship\nof Lotus
 When this technique inflicts at least 2 levels of external injury to the enemy, it inflicts 1 additional higher level seal on the enemy's attacked area
 Swordsmanship\nof Yue Maiden
 Improve the chances of chasing
-After this technique has been used for ten percent of its power, the user gains seven levels of this effect: the user's chances of chasing the enemy are greatly increased.
+After this technique has been used with at least 100% of it's power, the user gains seven levels of this effect: the user's chances of chasing the enemy are greatly increased.
 Swordsmanship\nof Remnant Rainbow
 At the beginning of the battle, the user gains 0 layers of this effect: for each style the user gains, this effect increases by 1 layer, up to a maximum of 12 layers; the higher the number of layers of this effect, the more the power of this technique increases, until the technique exerts 100% of its power, then this effect will return to 0 layers
 Divine\nSwordsmanship of Pure Girl
@@ -1620,7 +1620,7 @@ When this technique is used at 100% of its power, the enemy loses 6 points of "Q
 Divine Needle\nof Meditation Wisdom
 When this technique is used at 100% of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the user increases significantly in the enemy's lost memories, lasting until the end of the battle
 Pure Girl's Stab
-After this technique has been used for ten percent of its power, the user gains 3 layers of this effect: whenever the user counters an enemy, the user gains 1 random available style, if the user counters an enemy successfully, the user immediately performs this technique to attack the enemy without consumption, and the power of this technique increases significantly. When performed this way, this technique has no special effects.
+After this technique has been used with at least 100% of it's power, the user gains 3 layers of this effect: whenever the user counters an enemy, the user gains 1 random available style, if the user counters an enemy successfully, the user immediately performs this technique to attack the enemy without consumption, and the power of this technique increases significantly. When performed this way, this technique has no special effects.
 Immortal\nNeedle of Golden Top
 When this technique is used with at least 10% of its power, If the user has at least 2 "Stab" styles, the user will only consume 2 "Stab" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
 Needle Finger
@@ -1755,7 +1755,7 @@ Cloud Dragon\n9 Kick
 After this technique has reached 10% of its power, the user gains 8 times this effect: every time the user advances 0.2 distance in a row, the number of layers of this effect decreases by 1. If the enemy is within the attack range of this technique, the user only needs and can only consume 10% of the foot power to attack the enemy again immediately from 50% of the progress of the technique, and the technique performed with this effect will not gain the number of layers of the destruction effect.
 Divine Kick of\nAo King
 Ban Atk Range
-After this technique has been used for ten percent of its power, the maximum distance between the enemy and me is reduced by 2, up to 8, and lasts until the end of the battle
+After this technique has been used with at least 100% of it's power, the maximum distance between the enemy and me is reduced by 2, up to 8, and lasts until the end of the battle
 Holy White\nElephant With 6 Tusks
 Eliminate external wounds
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives direct trauma from an enemy with a wound level of not less than 2, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's trauma mark and severe injury mark are removed, after which this effect reverts to 0 levels
@@ -2544,7 +2544,7 @@ When you start to perform this technique, the more Strength the user has consume
 Reverse - Blade of\nAo Slashing
 This technique increases the direct damage to the enemy's legs and feet by 3 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Overlord Blade
-After this technique has been used for ten percent of its power, the user gains 4 layers of this effect: every time one of the enemy and I receive a wound mark, this effect is reduced by 1 layer, and before this effect disappears, the enemy cannot advance as long as the user is within the enemy's attack range
+After this technique has been used with at least 100% of it's power, the user gains 4 layers of this effect: every time one of the enemy and I receive a wound mark, this effect is reduced by 1 layer, and before this effect disappears, the enemy cannot advance as long as the user is within the enemy's attack range
 Reverse - Gold Lion Blade
 Ban Ortho
 When you start to perform this technique, "interrupt" all Orthodox training techniques being performed by the enemy, and eliminate all Orthodox training techniques being performed by the enemy; during the performance of this technique, the enemy cannot perform any Orthodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Orthodox training techniques, and every time the user performs any Heterodox training techniques, this effect is reduced by 1 level.
@@ -2718,7 +2718,7 @@ In the process of performing this technique, the user can retreat up to 6 distan
 Reverse - Great 8 Moves\nof Sea-Blocking
 During the casting of this technique, the enemy whose Int. Recovery is lower than the user's cannot move or perform techniques; According to the power of this technique, a debuff is applied to the enemy to reduce the enemy's Int. Recovery
 Reverse - A Hundred Steps\nof Mysterious Tripot
-After this technique has been used for ten percent of its power, the user gains 6 layers of this effect: when the number of layers of this effect is even, the enemy's Might, Finesse and Swiftness are greatly reduced, when the number of layers of this effect is odd, the enemy's Diversion, Parry and Evasion are greatly reduced, and when this effect exists, the impact of this effect is additionally increased when the user performs this technique again.
+After this technique has been used with at least 100% of it's power, the user gains 6 layers of this effect: when the number of layers of this effect is even, the enemy's Might, Finesse and Swiftness are greatly reduced, when the number of layers of this effect is odd, the enemy's Diversion, Parry and Evasion are greatly reduced, and when this effect exists, the impact of this effect is additionally increased when the user performs this technique again.
 Reverse - Zhen Fragrant
 When you start to perform this technique, the deeper the user is poisoned with Acritoxin, the more the power of this technique will increase
 Reverse - 8 Fairies\nof The Other Side
@@ -2963,7 +2963,7 @@ During the process of performing this technique, all direct injuries sustained b
 Reverse - Rock-Breaking\nPoke
 Improve your own broken blade
 Break Weapon
-After this technique has been used for ten percent of its power, the user gains three levels of this effect: when the enemy hits the user, the user's broken blade is greatly increased, and if the user damages the enemy's weapon, an additional 2 points of durability are damaged.
+After this technique has been used with at least 100% of it's power, the user gains three levels of this effect: when the enemy hits the user, the user's broken blade is greatly increased, and if the user damages the enemy's weapon, an additional 2 points of durability are damaged.
 Reverse - Dharma\nProtector's Poke
 When this technique is used with at least 10% of its power, the pestle used by the user is augmented by the "Vajra Protector": as long as the user is holding this pestle, the degree of direct internal injuries inflicted by the enemy on the user is reduced by 1 level.
 Dharma Protector: As long as the user is holding 「Pestle」, the degree of direct internal injuries inflicted by enemies on the user is reduced by 1 level.
@@ -2989,7 +2989,7 @@ When this technique is at least 10% of its power, the user gains 2 "points".
 Reverse - Jade Well Hands
 When this technique is used at 100% of its power, absorb 2 points of True Qi from the highest True Qi of the enemy. If the enemy's True Qi is still higher than its initial value, the user will absorb additional 3 points of True Qi from the enemy.
 Reverse - Latency Yin\nFinger
-After this technique has been used for ten percent of its power, the user gains 6 levels of this effect: the enemy has a higher chance of internal injuries changing to old injuries that are more difficult to recover from.
+After this technique has been used with at least 100% of it's power, the user gains 6 levels of this effect: the enemy has a higher chance of internal injuries changing to old injuries that are more difficult to recover from.
 Reverse - Thunderbolt\n7 Stars Finger
 When this technique is used at 100% of its power, the user draws 3 points of "Break" Qi from the enemy's body.
 Reverse - Mysterious\nFinger
@@ -3098,7 +3098,7 @@ When the style needed to perform this technique is not enough, the user can perf
 Reverse - Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's Internal Penetration, the more the enemy's Internal Defense will be reduced
 Reverse - Lady Poison
-After this technique has been used for ten percent of its power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance back, the user's 1 "poison" style will be consumed, causing the enemy to move 1 distance away from the user, and after the enemy moves as a result, 1 acupuncture point in a random part of the enemy will be closed.
+After this technique has been used with at least 100% of it's power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance back, the user's 1 "poison" style will be consumed, causing the enemy to move 1 distance away from the user, and after the enemy moves as a result, 1 acupuncture point in a random part of the enemy will be closed.
 Reverse - Bloodhound's\nSand
 This technique increases the amount of Pyrotoxin applied to the enemy significantly, but there is a low chance that the user will be partially poisoned with Pyrotoxin at the same time.
 Reverse - Shaolin\nLong Fist
@@ -3196,7 +3196,7 @@ Reverse - Swordsmanship\nof Lotus
 When this technique inflicts at least 2 levels of direct internal damage to the enemy, it inflicts 1 additional higher level seal on the enemy's attacked area
 Reverse - Swordsmanship\nof Yue Maiden
 Chance of descending enemy pursuit
-After this technique has been used for ten percent of its power, the user gains seven levels of this effect: significantly reducing the chance of the enemy chasing the user.
+After this technique has been used with at least 100% of it's power, the user gains seven levels of this effect: significantly reducing the chance of the enemy chasing the user.
 Reverse - Swordsmanship\nof Remnant Rainbow
 At the beginning of the battle, the user gains 0 layers of this effect: for every loss of the user, this effect increases by 1 layer, up to 12 layers; the higher the number of layers of this effect, the more the power of this technique increases, until this technique plays 100% of its power, then this effect will return to 0 layers
 Reverse - Divine\nSwordsmanship of Pure Girl
@@ -3215,7 +3215,7 @@ When this technique is used at 100% of its power, the user draws 3 points of "Qu
 Reverse - Divine Needle\nof Meditation Wisdom
 When this technique is used at 100% of its power, the enemy loses all memories of the battle, and the power of all techniques belonging to the enemy is greatly reduced in the enemy's lost memories, lasting until the end of the battle
 Reverse - Pure Girl's Stab
-After this technique has been used for ten percent of its power, the user will get 3 layers of this effect: whenever the enemy counterattacks the user, the user will get 1 random available style, if the enemy fails to counterattack the user, the user will immediately perform this technique to attack the enemy without consumption, and the power of this technique will be greatly increased, and when performed this way, this technique has no special effects.
+After this technique has been used with at least 100% of it's power, the user will get 3 layers of this effect: whenever the enemy counterattacks the user, the user will get 1 random available style, if the enemy fails to counterattack the user, the user will immediately perform this technique to attack the enemy without consumption, and the power of this technique will be greatly increased, and when performed this way, this technique has no special effects.
 Reverse - Immortal\nNeedle of Golden Top
 When you start to perform this technique, you will consume all the "stabbing" style of the user. The more "stabbing" style the user consumes, the more the power of this technique will increase.
 Reverse - Needle Finger
@@ -3345,7 +3345,7 @@ When this technique is used at 100% of its power, the power of the enemy's 3 "Wa
 Reverse - Cloud Dragon\n9 Kick
 After this technique has reached 10% of its power, the user gains 8 times this effect: every time the user continuously retreats 0.2 distance, the number of layers of this effect decreases by 1. If the enemy is within the attack range of this technique, the user only needs and can only consume 10% of the foot power to attack the enemy again immediately from 50% of the execution progress.
 Reverse - Divine Kick of\nAo King
-After this technique has been used for ten percent of its power, the minimum distance between the enemy and us increases by 2, up to 6, and lasts until the end of the battle
+After this technique has been used with at least 100% of it's power, the minimum distance between the enemy and us increases by 2, up to 6, and lasts until the end of the battle
 Reverse - Holy White\nElephant With 6 Tusks
 Eliminate your own internal injuries
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives a direct internal wound of not less than 2 from the enemy, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's internal wound mark and severe wound mark are removed, after which this effect reverts to 0 levels
