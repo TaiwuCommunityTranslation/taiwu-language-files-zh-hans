@@ -2139,7 +2139,7 @@ Reverse - Yinyang Eye
 Whenever the applicator starts to perform a technique, the more the enemy's performance speed is higher than the applicator's performance speed, the more the enemy's performance speed is reduced
 Reverse - The Great Dementor
 Freedom from the Glazed marker
-When defending with this technique: the user will not be marked with a loss of concentration; if the enemy can be marked with a loss of concentration, and the user's Breath is higher than the enemy's Focus, the loss of concentration mark applied to the user by the enemy will be applied to the enemy instead
+When defending with this technique: the user will not receive Glazed markers; if the enemy can receive Glazed markers, and the user's Breath is higher than the enemy's Focus, the Glazed markers applied to the user by the enemy will be applied to the enemy instead
 Reverse - Formation of 6 Men 6 Armor
 When your teammate uses the「Swap」command, the amount of time they're swapped for increases significantly.
 Reverse - Spell of Heavenly Spirit
@@ -2153,7 +2153,7 @@ Reverse - Pure Virgin
 The higher the charisma of the user, the higher the Focus of the user.
 Reverse - Reclamation Stance
 Applying a mind marker
-When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user applies 1 Breath injury to the enemy
+When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user applies 1 Glazed marker to the enemy
 Reverse - Dark Jade Practice
 Enemies suffer a significant increase in the duration of the Disorientation Mark
 Reverse - Formation of Scattered Flowers
