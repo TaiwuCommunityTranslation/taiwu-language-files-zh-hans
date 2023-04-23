@@ -1396,7 +1396,7 @@ Variation of killing arrangement
 If the user has more than one "Kill" style when the power of this technique is at 100%, up to 3 "Kill" styles will be randomly arranged at the end of the user's stance.
 Snapshot
 Causes random Weak Point
-When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever the user gains a "Murderous" style, the more "Murderous" styles the user has arranged together, the more random parts of the enemy will receive Weak Points.
+When this technique is at least 10% powerful, the user gains 3 levels of this effect: Whenever the user gains a "Kill" style, the more "Kill" styles the user has arranged together, the more random parts of the enemy will receive Weak Points.
 Special Action\nof Trigram Map
 Triggering the kill effect
 If the user has any effects that will take effect because the user gains a "Kill" style when this technique is used at 100% of its power, these effects will take effect immediately without depleting the tier, and the user will have a higher chance of gaining a "Kill" style after these effects take effect
@@ -1407,8 +1407,8 @@ After this technique has been used for 100% of its power, the user gains 3 level
 Divine\nNone-Thought
 Concealed weapons gain spirituality
 Dark weapon auto attack
-When you start performing this technique, If the weapon used by the user has "Spirituality", the power of this skill will be greatly increased. After this technique has been used with at least 100% of it's power, the "Hidden Weapon" used to perform this skill will gain "Spirituality" for this battle. When this "Hidden Weapon" is not being held in hand by the user, when the user obtains the "Murderous" style, it will immediately attack the enemy regardless of the distance, without being affected by counterattack or reflect, and will always hit the enemy, but the user will not get any Stance or Styles from it.
-Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Murderous" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
+When you start performing this technique, If the weapon used by the user has "Spirituality", the power of this skill will be greatly increased. After this technique has been used with at least 100% of it's power, the "Hidden Weapon" used to perform this skill will gain "Spirituality" for this battle. When this "Hidden Weapon" is not being held in hand by the user, when the user obtains the "Kill" style, it will immediately attack the enemy regardless of the distance, without being affected by counterattack or reflect, and will always hit the enemy, but the user will not get any Stance or Styles from it.
+Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
 Jieqing\nRapid Sword
 Continuous execution of sword techniques
 When this technique is performed with at least 10% power, the user gains 1 "Kill" style; When this technique is used at 100% of its power, there is a higher chance that this technique will be used to attack the enemy immediately and without consumption from 50% of the progress.
@@ -3019,8 +3019,8 @@ When you start to perform this technique, the more "Kill" styles the enemy has a
 Reverse - Divine Needle\nof Shadow-Stopped
 After this technique has been used for 100% of its power, the user gains 3 levels of this effect: Whenever an enemy gains the "Kill" style, all of the enemy's Footwork and Stamina will be lost.
 Reverse - Divine\nNone-Thought
-When you start performing this technique, If the weapon used by the user has "Spirituality", the power of this skill will be greatly increased. After this technique has been used with at least 100% of it's power, the "Hidden Weapon" used to perform this skill will gain "Spirituality" for this battle. When this "Hidden Weapon" is not being held in hand by the user, when the user obtains the "Murderous" style, it will immediately attack the enemy regardless of the distance, without being affected by counterattack or reflect, and will always hit the enemy, but the user will not get any Stance or Styles from it.
-Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Murderous" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
+When you start performing this technique, If the weapon used by the user has "Spirituality", the power of this skill will be greatly increased. After this technique has been used with at least 100% of it's power, the "Hidden Weapon" used to perform this skill will gain "Spirituality" for this battle. When this "Hidden Weapon" is not being held in hand by the user, when the user obtains the "Kill" style, it will immediately attack the enemy regardless of the distance, without being affected by counterattack or reflect, and will always hit the enemy, but the user will not get any Stance or Styles from it.
+Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
 Reverse - Jieqing\nRapid Sword
 When this technique is performed with at least 10% power, the enemy gains 1 "Kill" style; When this technique is used at 100% of its power, there is a higher chance that this technique will be used to attack the enemy immediately and without consumption from 50% of the progress.
 Reverse - Swordsmanship\nof Intercourse Breaking
