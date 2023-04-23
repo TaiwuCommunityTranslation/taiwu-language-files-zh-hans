@@ -2801,7 +2801,7 @@ When this technique is used at 100% of its power, it immediately closes a number
 Reverse - Mechanic Hawk
 After this technique has reached 100% of its power, the user gains 6 levels of this effect: Whenever the user inflicts a direct internal wound on an enemy, if the user consumes an additional "Ware" style, he will inflict 1 level of non-direct internal wound on a random part of the enemy, and this internal wound will immediately change to an old wound that is more difficult to recover from.
 Reverse - The Impulse
-When this technique reaches 10% of its power, the user gains 1 level of this effect: When the user's total number of defeat marks reaches the defeat condition, all of the user's removable non-injury marks and critical damage marks are removed, and a portion of the removed non-injury marks are transferred to the enemy, after which the technique is inevitably "blocked" until the end of the battle.
+After this technique has been used with at least 100% of it's power, the user gains 1 level of this effect: When the user's total number of defeat marks reaches the defeat condition, all of the user's removable non-injury marks and critical damage marks are removed, and a portion of the removed non-injury marks are transferred to the enemy, after which the technique is inevitably "blocked" until the end of the battle.
 Reverse - Ancestor's\nLong Fist
 Reverse - Scorpion Hand
 When you start to perform this technique, the deeper the Umbritoxin the user is, the more the power of this technique will increase
