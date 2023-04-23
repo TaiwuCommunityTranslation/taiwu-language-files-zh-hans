@@ -2774,7 +2774,7 @@ If the user's Strength does not fall below 70, this technique reduces the enemy'
 Reverse - Staff of\nSweep Cloud
 If the user's agility is not less than 70, this technique loses the enemy's Footwork and Stamina when it is used at 100% of its power, and the user gains 2 levels of this effect: all "Polearm" techniques performed by the user lose the enemy's Footwork and Stamina when they are used at 100% of their power.
 Reverse - Staff of\n10 Directions
-If the user's constitution is not less than 70, this technique will "interrupt" the enemy's healing, poison expulsion, and escape when it reaches 100% of its power, and the user will gain 2 levels of this effect: all "Polearm" techniques performed by the user will "interrupt" the enemy's healing, poison expulsion, and escape when it reaches 100% of its power
+If the user's constitution is not less than 70, this technique will "interrupt" the enemy's Healing, Detox, and Escape when it reaches 100% of its power, and the user will gain 2 levels of this effect: all "Polearm" techniques performed by the user will "interrupt" the enemy's Healing, Detox, and Escape when it reaches 100% of its power
 Reverse - Staff of\nGhost Head
 If the user's Agility and Comprehension are not less than 60, this technique will randomly reduce the number of layers of the enemy's "Break" technique's lasting effect by 1 when the technique is used at 100% of its power, and the user will gain 2 layers of this effect: all "Polearm" techniques performed by the user will randomly reduce the number of layers of the enemy's "Break" technique's lasting effect by 1 when the technique is used at 100% of its power.
 Reverse - Staff of\nGold Eyes Tiger
