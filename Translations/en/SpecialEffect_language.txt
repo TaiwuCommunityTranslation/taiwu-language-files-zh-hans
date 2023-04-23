@@ -2724,7 +2724,7 @@ When you start to perform this technique, the deeper the user is poisoned with A
 Reverse - 8 Fairies\nof The Other Side
 When this technique is used with at least 10% of its power, the user gets 4 levels of this effect: reduce the poisonous damage the user receives when the poisonous attack occurs, but the user will make the poisonous attack 2 times per poisonous attack
 Reverse - Shock Dream\nFragrant
-When you start to perform this technique: the farther the enemy is from the user, the more the progress of this technique will be increased; When this technique is used at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
+When you start to perform this technique: the farther the enemy is from the user, the more the progress of this technique will be increased; When this technique is used at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's cast, Healing, Detox, and Escape
 Reverse - Blood Narcissus
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the enemy inflicts on the user with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
 Reverse - 9 Idiotic\nFragrant
