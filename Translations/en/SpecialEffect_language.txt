@@ -2987,7 +2987,7 @@ Based on the power of this technique, the enemy's Inhale will be depleted
 Reverse - Picking Star\nMove
 When this technique is at least 10% of its power, the user gains 2 "points".
 Reverse - Jade Well Hands
-If the enemy's true qi is still higher than its initial value after the user has absorbed the enemy's true qi, the user will absorb an additional 3 points of this type of true qi from the enemy.
+When this technique is used at 100% of its power, absorb 2 points of True Qi from the highest True Qi of the enemy. If the enemy's True Qi is still higher than its initial value, the user will absorb additional 3 points of True Qi from the enemy.
 Reverse - Latency Yin\nFinger
 After this technique has been used for ten percent of its power, the user gains 6 levels of this effect: the enemy has a higher chance of internal injuries changing to old injuries that are more difficult to recover from.
 Reverse - Thunderbolt\n7 Stars Finger
