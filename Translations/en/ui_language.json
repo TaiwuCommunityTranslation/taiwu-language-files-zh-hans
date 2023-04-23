@@ -2631,7 +2631,7 @@
   "LK_NpcWord_Wearing_Clothing_Bug": "I heard that there is something in the world that is more terrible than the phase pivot,\n seems to be called Bago ...... you also met it ...... when it is really hard for you,\n apologize to you! Bago will definitely be destroyed!",
   "LK_NpcWord_Wearing_Clothing_Tutorial": "The world of Taiwu is so difficult to understand, and you've played it without a guide. \nYou are truly a genius for the ages, admirable! The guide will definitely be perfected!",
   "LK_WorldMap_Stay": "Staying",
-  "LK_WeaponEquipAttack_Tip": "If the armor of the weapon is higher than the toughness of the armor attacked, it is easy to damage the durability of the armor after the attack",
+  "LK_WeaponEquipAttack_Tip": "If the weapon's DES is higher than the enemy armor's Hardness, it will ignore the damage reduction effect of the enemy's armor, and armor will also be more easily damaged",
   "LK_ArmorEquipAttack_Tip": "If the broken edge of the protective gear is higher than the toughness of the weapon being defended against, it will easily damage the durability of the weapon after being attacked.",
   "LK_EquipDefense_Weapon_Tip": "If the weapon's toughness is lower than the broken edge of the armor being attacked, it will easily lose durability after the attack",
   "LK_Combat_Attack_Value_Tip": "The higher the weapon's Ext. Pen. and Int. Pen., the higher the damage it can do",
