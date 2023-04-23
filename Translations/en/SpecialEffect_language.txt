@@ -1375,7 +1375,7 @@ Thunderbolt\n7 Stars Finger
 When this technique is used at 100% of its power, the enemy will lose 6 points of "Break" true qi.
 Mysterious\nFinger
 Causes random internal injuries
-The more Cryotoxin markers the enemy has, the more internal injury markers are added to random parts of the enemy when this technique is used at ten percent power
+When this technique is used at 100% of its power, the more Cryotoxin markers the enemy has, the more Internal Injuries will be added to random body parts of the enemy.
 Source Extinct\nHands
 Interrupt E·Skill
 The higher the power of this technique, the higher the chance of "interrupting" the technique being performed by the enemy, and the power of this technique will increase cumulatively according to the power of the "interrupted" technique until the end of the battle.
