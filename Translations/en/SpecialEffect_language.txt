@@ -887,7 +887,7 @@ When you start to perform this technique, the more enemies and mutual love, the 
 Celestial Music\nof Goddess
 Remove E·Buff
 Add Critical Wound
-When you start attacking an enemy with this technique, if the enemy has 3 or more "None" styles, eliminate the enemy's "Aegis" and "Quick" techniques; when this technique becomes 10% powerful, eliminate all the enemy's "None" styles, and add half the number of critical wounds to the enemy depending on the number of eliminations
+When you start attacking an enemy with this technique, if the enemy has 3 or more "None" styles, eliminate the enemy's "Aegis" and "Quick" techniques; When this technique is used at 100% of its power, eliminate all the enemy's "None" styles, and add half of them back to the enemy as Fatal Wounds
 Pure Lady's\nHidden Hand
 When this technique is at least 10% of the power, the user takes 1 "Hold" from the enemy.
 Jade Hand
