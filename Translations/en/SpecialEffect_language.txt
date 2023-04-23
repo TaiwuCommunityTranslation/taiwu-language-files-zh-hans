@@ -1519,7 +1519,7 @@ Vajra Prajna\nPalm
 When you start attacking an enemy with this technique, if the enemy's dominant internal element is "Wood", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Demonhunt\nLight Fist
 Change E·Standpt
-When you start to perform this technique, the greater the difference between the enemy's standpoint and Kind, the more the attack range and power of this technique will increase; when this technique is at ten percent of its power, if the user's Breath is higher than the enemy's Focus, the enemy's standpoint will change to Kind, and if the enemy's standpoint thus changes from another one to Kind, the enemy will escape when they can.
+When you start to perform this technique, the greater the difference between the enemy's standpoint and Kind, the more the attack range and power of this technique will increase; When this technique is used at 100% of its power, if the user's Breath is higher than the enemy's Focus, the enemy's standpoint will change to Kind, and if the enemy's standpoint thus changes from another one to Kind, the enemy will escape when they can.
 Shaolin\nTiger Claw
 Increase the power of all "Aegis" techniques of the user according to the power of the technique, which lasts until the end of the battle.
 Shaolin\nFinger Zen
