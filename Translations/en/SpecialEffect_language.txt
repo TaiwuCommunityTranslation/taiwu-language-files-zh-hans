@@ -2410,7 +2410,7 @@ Reverse - Lady Azure's Icesteps
 Enhanced evasion mitigation
 During the duration of this Footwork: the enemy's Evasion will not be increased by any effect; all Evasion-reducing techniques and buffs suffered by the enemy are greatly increased
 Reverse - Luoshen's Riversteps
-Every time you retreat 1 distance with this Footwork, you will regain your energy and Footwork.
+Every time you retreat 1 distance with this Footwork, you will regain your Inhale and Stance.
 Reverse - Feather Stance
 When retreating with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the more random parts of the enemy will be added to the Weak Point, sealing points
 Reverse - Wooden Track
