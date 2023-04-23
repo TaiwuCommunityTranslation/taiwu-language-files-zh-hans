@@ -1927,7 +1927,7 @@ Reduces the requirements (by 20%) to use the "KongSang Sect" techniques of the u
 Reverse -  Shennong Ben Cao Secret
 Reduce the speed of the enemy to drive away the poison
 Reducing the effect of enemy and expelling poison
-Reduces the speed of "healing" and "expelling poison" of enemies in battle; reduces the number of wounds that can be healed by "healing" and the number of toxins that can be removed by "expelling poison" in battle
+Reduces the speed of "Healing" and "Detox" of enemies in battle; reduces the number of wounds that can be healed by "Healing" and the number of toxins that can be removed by "Detox" in battle
 Reverse -  Shibayama Green Bag trick
 The higher the sum of the 5 highest-ranked elixirs among the elixirs currently consumed by the user, the higher the damage caused by the user to the enemy
 Reverse -  Jiaojiao four methods
@@ -1955,7 +1955,7 @@ When the dominant internal element of the user is "Metal", even if the body part
 Reverse -  Poisoning Technique
 Reduces the requirements (by 20%) to use the "Five Immortals Sect" techniques of the user
 Reverse -  Huang Xianfa
-Significantly reduces the speed of enemy "poisoning" in combat
+Significantly reduces the speed of enemy "Detox" in combat
 Reverse -  Red Immortal Law
 Reduces the consumption of Inhale and Stance of the user's "Wood" type techniques
 Reverse -  Black Fairy Law
