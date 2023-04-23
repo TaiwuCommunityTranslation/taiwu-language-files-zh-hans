@@ -3427,7 +3427,7 @@ Int Poison Dmg
 After accumulating 9 styles more than a certain number of times, it will attack, and according to the amount of toxin derived from Cryotoxin, according to the amount of toxin caused internal injuries
 TA·Cryotoxin
 Worsen Int injuries
-It comes on when you consume Inhale, and depending on the amount of toxin, it can cause up to 3 internal injuries to worsen.
+Attacks when Inhale is consumed, making up to 3 internal injuries worse. Generates Oneirotoxin according to the amount of toxin
 TA·Pyrotoxin
 Worsen Ext injuries
 When consuming the Stance, it attacks, and depending on the amount of toxin derived from the Necrotoxin, it makes up to 3 external injuries worse
