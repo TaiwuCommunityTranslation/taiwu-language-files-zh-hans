@@ -2205,7 +2205,7 @@ When the total number of defeat markers of the user reaches the defeat condition
 Reverse - Go With The Flow
 Whenever an enemy deals direct damage to the user, the user gains 2 points of a random type of true qi or loses 1 point of a random type of true qi, and loses 1 unusable style.
 Reverse - Take The Pulse
-Lowering the enemy's energy and raising it to recover
+Lowering the enemy's Inhale Recovery
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a debuff is applied to the enemy that reduces Inhale Recovery.
 Reverse - Muscle Displacement Bone Contraction
 Enhancement of chest and abdominal defense
