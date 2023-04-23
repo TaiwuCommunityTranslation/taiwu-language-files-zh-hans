@@ -1959,7 +1959,7 @@ Significantly reduces the speed of enemy "Detox" in combat
 Reverse -  Red Immortal Law
 Reduces the consumption of Inhale and Stance of the user's "Wood" type techniques
 Reverse -  Black Fairy Law
-Significantly reduces the amount of toxins that can be dispelled when an enemy performs "poison repelling" in battle
+Significantly reduces the amount of toxins that can be dispelled when an enemy performs "Detox" in battle
 Reverse -  Green Immortal Law
 Converts the user's "Earth" internal energy into "Wood" internal energy. The more energy is converted, the more the power of the user's "Wood" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
 Reverse -  Spirituality
