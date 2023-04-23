@@ -1048,7 +1048,7 @@ Increase the number of toxic episodes
 When this technique is used with at least 10% of its power, the user gains 4 layers of this effect: Reduce poison damage to enemies when they are poisoned, but each time the enemy is attacked by poison gas will make the poisonous attack 2 times
 Shock Dream\nFragrant
 Interrupting enemy operations
-When you start to perform this technique: the closer the enemy is to the user, the more the progress of this technique will be increased; When this technique is used at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's performance, heal, expel poison, and escape
+When you start to perform this technique: the closer the enemy is to the user, the more the progress of this technique will be increased; When this technique is used at 100% of its power, if the enemy's Focus is lower than the user's Breath, immediately "interrupt" the enemy's cast, Healing, Detox, and Escape
 Blood Narcissus
 When this technique is used with at least 10% of its power, the user gains 4 levels of this effect: the more wound marks the user inflicts on the enemy with direct damage, the more the power and attack range of this technique increases cumulatively and lasts until the technique is performed again
 9 Idiotic Fragrant
