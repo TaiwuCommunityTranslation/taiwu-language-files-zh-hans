@@ -25,11 +25,11 @@ The connection success chance of this cell is reduced by 60%. \n Connecting this
 Steady
 The connection success chance of this cell is increased by 60%. \n Connecting to this cell decreases your attempts by 1.
 Hard Work
-The connection success chance of this cell is increased by 100%. \n Connecting to this cell decreases your attempts by 2.
+The connection success chance of this cell is increased by 100%. \nConnecting to this cell decreases your attempts by 2.
 Clairty
 Reveals some hidden cells.
 Challenge
-The success chance of this cell is reduced by 60%. \n If you succeed, can restore adjacent cells from failed to connected.
+The success chance of this cell is reduced by 60%. \nConnecting to this cell will restore adjacent cells from failed to connectable.
 Simplify
 The success chance of this cell is reduced by 30%. \nWhen you successfully connect to this cell, all "golden" cells adjacent to this cell are converted to "basic" cells.
 Support
