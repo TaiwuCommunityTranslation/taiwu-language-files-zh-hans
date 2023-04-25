@@ -21,9 +21,9 @@ Connecting to this cell does not cost an attempt.
 Refreshment
 The connection success chance of this cell is reduced by 30%. \n Connecting to this cell increases your attempts by 1.
 Reversal
-The connection success chance of this cell is reduced by 60%. \n Connecting this cell increases your attempts by 2.
+The connection success chance of this cell is reduced by 60%. \nConnecting this cell increases your attempts by 2.
 Steady
-The connection success chance of this cell is increased by 60%. \n Connecting to this cell decreases your attempts by 1.
+The connection success chance of this cell is increased by 60%. \nConnecting to this cell decreases your attempts by 1.
 Hard Work
 The connection success chance of this cell is increased by 100%. \nConnecting to this cell decreases your attempts by 2.
 Clairty
