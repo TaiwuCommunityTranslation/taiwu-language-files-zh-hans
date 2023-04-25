@@ -41,8 +41,8 @@ Increase the connection success chance for this cell and all adjacent cell, the 
 Ambition
 Increase the connection success chance for this cell and all adjacent cell, the more tries you have remaining.
 Advice
-Connecting to this cell costs one additional attempt. \n When connecting to this cell, automatically connect 1 "golden" cell.
+Connecting to this cell costs one additional attempt. \nWhen connecting to this cell, automatically connect 1 "golden" cell.
 Complete
-Already familiar with the essentials of this grid. \n This cell is bound to be connected successfully.
+Already familiar with the essentials of this grid. \nThis cell is bound to be connected successfully.
 Mistake
 Have suffered setbacks in this frame. \nThe success rate of the connection in this frame is increased by 100%, but the connection to this frame will lose a certain amount of health regardless of success or failure.
