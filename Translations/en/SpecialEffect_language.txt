@@ -2068,7 +2068,7 @@ Reverse - Net Clothes
 Poison Dmg Dn
 Reduces the degree of injury of the poisonous damage suffered by the user during a poisonous attack
 Reverse - Herb Moxibustion
-Whenever the user hits an enemy with a move, there is a chance that the wound level of 1 random wound on the enemy will worsen by 1 level.
+Whenever the user hits an enemy with a Style Change, there is a chance that the wound level of 1 random wound on the enemy will worsen by 1 level.
 Reverse - Mixed Needle
 Whenever the user closes an acupuncture point on the enemy's body, he can close 1 additional acupuncture point on another random part of the enemy
 Reverse - Yinyang Reverse
