@@ -504,7 +504,7 @@ The blood pool is a scary stone pool filled with the blood of many animals and l
 This is an extension building built next to the "Cellar" using "Bloodstone" as the core material. \nThis building will enable the adjacent room to produce better quality poisons.
 Dragon Spine
 A tall wooden column made of fragrant wood mixed with poison. The column core is hollow,  in which the mysterious dragon spine is burned,  and any poisonous snake that touches it will be tamed.
-This is an extension of the "Mystery Room", which is built next to the "Cave of the Serpent", using the "Wonderful Scented Dragon Wood" as the core material. \nThis building can lower the requirement of "Toxicology" skill when making poisons.
+This is an extension of the "Mystery Room", which is built next to the "Snake Pit", using the "Wonderful Scented Dragon Wood" as the core material. \nThis building can lower the requirement of "Toxicology" skill when making poisons.
 Weaving Room
 The Weaving Room is small in size but has exquisite gardens and elegant furnishings. It is where the workers do the weavings,  stitchworks,  and designing.
 You can manufacture, repair, and refine brocade products. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "brocade weaving" books. \nThe larger the size of the embroidery house, the more the efficiency is increased, but the effect of multiple embroidery houses does not stack.
