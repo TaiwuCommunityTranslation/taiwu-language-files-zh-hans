@@ -13,13 +13,13 @@ Success chance of this cell is increased by 30% for each successfully connected 
 Perseverence
 For each failed connection around this cell, the success chance of this cell is increased by 60%.
 Foundation
-The connection success chance of this cell is reduced by 100%. \n The connection success rate of all cells around this cell is increased by 60%.
+The connection success chance of this cell is reduced by 100%. \nThe connection success rate of all cells around this cell is increased by 60%.
 Transition
 The next 1 attempt to connect cell is guaranteed to be successful.
 Inspiration
 Connecting to this cell does not cost an attempt.
 Refreshment
-The connection success chance of this cell is reduced by 30%. \n Connecting to this cell increases your attempts by 1.
+The connection success chance of this cell is reduced by 30%. \nConnecting to this cell increases your attempts by 1.
 Reversal
 The connection success chance of this cell is reduced by 60%. \nConnecting this cell increases your attempts by 2.
 Steady
