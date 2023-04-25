@@ -881,7 +881,7 @@
   "LK_Advance_Month_Warn_No_Loop_Neigong": "<color=#red>You haven't chosen an Inner Art yet!</color> \n\n“Cultivation” allows you to increase and change your internal energy...",
   "LK_Advance_Month_Warn_Inventory_Overflow": "<color=#red>You're carrying too much weight! You will lose several items at the start of the next month!</color>",
   "LK_Advance_Month_Warn_Warehouse_Overflow": "<color=#red>Total amount of items in warehouse is larger than it's capacity! You will lose several items at the start of the next month!</color>",
-  "LK_Advance_Month_Warn_Resource_Overflow": "<color=#red>{0}Over storage limit, you will lose several resources at the start of the next month!</color>",
+  "LK_Advance_Month_Warn_Resource_Overflow": "<color=#red>{0} over storage limit, you will lose some resources at the start of the next month!</color>",
   "LK_Advance_Month_Confirm": "Do you want to proceed to next month?",
   "LK_Left_Time_Not_Enough_Tip": "<color=#yellow>Not enough time left to complete this action!</color>",
   "LK_Cannot_Move_Tip_Title": "Cannot Move",
