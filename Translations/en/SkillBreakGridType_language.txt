@@ -41,7 +41,7 @@ Increase the connection success chance for this cell and all adjacent cell, the 
 Ambition
 Increase the connection success chance for this cell and all adjacent cell, the more tries you have remaining.
 Advice
-Connecting to this cell costs one additional attempt. \n When connecting to this cell, automatically connect 1 "special" cell.
+Connecting to this cell costs one additional attempt. \n When connecting to this cell, automatically connect 1 "golden" cell.
 Complete
 You are already familiar with the main points of this frame. \n this frame is bound to be connected successfully.
 Mistake
