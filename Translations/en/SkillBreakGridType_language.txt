@@ -45,4 +45,4 @@ Connecting to this cell costs one additional attempt. \nWhen connecting to this 
 Complete
 Already familiar with the essentials of this grid. \nThis cell is bound to be connected successfully.
 Mistake
-Have suffered setbacks in this frame. \nThe success rate of the connection in this frame is increased by 100%, but the connection to this frame will lose a certain amount of health regardless of success or failure.
+Suffer a mistake in this cell. \nThe success rate of this cell is increased by 100%, but attempting to connect to this cell will reduce your Health no matter if it's successful or not.
