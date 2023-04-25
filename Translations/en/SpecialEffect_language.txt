@@ -284,7 +284,7 @@ Reduce direct toxicity
 Reduces the amount of poisons inflicted by the enemy to the user in combat
 Herb Moxibustion
 Full Heal
-Whenever the user hits an enemy with a move, there is a certain chance that the wound level of 1 random wound on the user's body will be reduced by 2 levels.
+Whenever the user hits an enemy with a Style Change, there is a certain chance that the wound level of 1 random wound on the user's body will be reduced by 2 levels.
 Mixed Needle
 Additional elimination of sealed points
 Whenever the user unlocks his or her own closed acupuncture point, he or she can unlock an additional 1 acupuncture point on a random part of the user.
