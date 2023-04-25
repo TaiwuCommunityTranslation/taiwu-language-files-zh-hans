@@ -31,7 +31,7 @@ Reveals some hidden cells.
 Challenge
 The success chance of this cell is reduced by 60%. \n If you succeed, can restore adjacent cells from failed to connected.
 Simplify
-The success chance of this cell is reduced by 30%. When you successfully connect to this cell, all "special" cells adjacent to this cell are converted to "basic" cells.
+The success chance of this cell is reduced by 30%. \nWhen you successfully connect to this cell, all "golden" cells adjacent to this cell are converted to "basic" cells.
 Support
 When you connect to this cell, 1 unconnected "golden" cell will be transferred to one of the "basic" cells around it.
 Culmination
