@@ -35,7 +35,7 @@ The success chance of this cell is reduced by 30%. \nWhen you successfully conne
 Support
 When you connect to this cell, 1 unconnected "golden" cell will be transferred to one of the "basic" cells around it.
 Culmination
-Connecting to this cell gives you 3 additional attempts. \n Randomly change 1 unconnected "golden" cell to "basic". 
+Connecting to this cell gives you 3 additional attempts. \nRandomly change 1 unconnected "golden" cell to "basic". 
 Humility
 Increase the connection success chance for this cell and all adjacent cell, the less tries you have remaining.
 Ambition
