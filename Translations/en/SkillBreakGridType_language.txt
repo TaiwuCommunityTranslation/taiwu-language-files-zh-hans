@@ -33,7 +33,7 @@ The success chance of this cell is reduced by 60%. \n If you succeed, can restor
 Simplify
 The success chance of this cell is reduced by 30%. When you successfully connect to this cell, all "special" cells adjacent to this cell are converted to "basic" cells.
 Support
-When you connect to this cell, 1 unconnected adjected "special" cell will transfer its bonus to the "basic" cells around it.
+When you connect to this cell, 1 unconnected "golden" cell will be transferred to one of the "basic" cells around it.
 Culmination
 Connecting to this cell gives you 3 additional attempts. \n Randomly change 1 unconnected "special" cell to "basic". 
 Humility
