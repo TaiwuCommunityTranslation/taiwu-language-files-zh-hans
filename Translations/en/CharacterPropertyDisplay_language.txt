@@ -13,9 +13,9 @@ It represents understanding of a person, their perception, etc...\n\n<color=#pin
 MIG
 The ability to crush an enemy with great force and inflict damage on them...\n\n<color=#pinkyellow>·Force-based attacks such as Punch, Hack, Throw, Ware.</color>
 FIN
-The ability to hold the enemy in check with clever moves and inflict damage on them...\n\n<color=#pinkyellow>·Subtle-based attacks such as Hold, Slash, Drive, etc.</color>
+The ability to hold the enemy in check with clever moves and inflict damage on them...\n\n<color=#pinkyellow>·Subtle-based attacks such as Hold, Slash, Drive, Drug, Sweep.</color>
 SWI
-The ability to attack an enemy with great speed and inflict damage on them...\n\n<color=#pinkyellow>·Swift-based attacks such as Point, Stab, Shot, etc.</color>
+The ability to attack an enemy with great speed and inflict damage on them...\n\n<color=#pinkyellow>·Swift-based attacks such as Point, Stab, Shot, Toxic, Wrap.</color>
 BRE
 The ability to confuse enemies with a regal magical sound and inflict damage on them...\n\n<color=#pinkyellow>·Mind-based attacks such as Sound, Spell, etc.</color>
 Ext. Pen.
