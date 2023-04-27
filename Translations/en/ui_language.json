@@ -1137,7 +1137,7 @@
   "LK_TeaHorse_GetItem": "Get Item",
   "LK_TeaHorse_WaitGetItem": "Waiting To Get Item",
   "LK_TeaHorse_ReadyGo": "Ready To Go",
-  "LK_TeaHorse_SearchReplenishment": "Search For Replenishment",
+  "LK_TeaHorse_SearchReplenishment": "Replenish",
   "LK_TeaHorse_SearchReplenishmentTip": "Searching for supplies will pause Caravan travel",
   "LK_TeaHorse_ExchangeReplenishment": "Exchange Replenishment",
   "LK_TeaHorse_CanGetReplenishment": "Can Get Replenishment: {0}",
