@@ -3098,7 +3098,7 @@ When the style needed to perform this technique is not enough, the user can perf
 Reverse - Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's Internal Penetration, the more the enemy's Internal Defense will be reduced
 Reverse - Lady Poison
-After this technique has been used with at least 100% of it's power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance back, the user's 1 "poison" style will be consumed, causing the enemy to move 1 distance away from the user, and after the enemy moves as a result, 1 acupuncture point in a random part of the enemy will be closed.
+After this technique has been used with at least 100% of it's power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance back, the user's 1 "Toxic" style will be consumed, causing the enemy to move 1 distance away from the user, and after the enemy moves as a result, 1 acupuncture point in a random part of the enemy will be closed.
 Reverse - Bloodhound's\nSand
 This technique increases the amount of Pyrotoxin applied to the enemy significantly, but there is a low chance that the user will be partially poisoned with Pyrotoxin at the same time.
 Reverse - Shaolin\nLong Fist
