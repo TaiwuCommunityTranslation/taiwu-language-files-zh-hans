@@ -703,7 +703,7 @@ Flying On The Grass
 Move Dist Up
 When moving forward with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 Cliff Hanging Pot
-Whenever the user hits an enemy with a "poisonous frost" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Poison pouch" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Shatang's Watersteps
 Improve Finesse of Kick Techniques
 The Finesse of Kick Techniques performed in this Footwork will be greatly increased
@@ -2433,7 +2433,7 @@ During the duration of this Footwork: the enemy's Diversion will not be increase
 Reverse - Flying On The Grass
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 Reverse - Cliff Hanging Pot
-Whenever the user hits an enemy with a "poisonous frost" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Poison pouch" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Shatang's Watersteps
 When using Kick Techniques in this Footwork your Accuracies will be shifted towards Finesse
 Reverse - Skyline of Mt.Chai
