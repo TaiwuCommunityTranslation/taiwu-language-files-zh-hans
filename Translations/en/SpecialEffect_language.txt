@@ -1312,7 +1312,7 @@ A buff that enhances the Ext. Pen. is applied to the user according to the power
 Parami Palm
 When this technique exerts at least 10% of its power, the user gains 2 points of "Aegis" true qi
 Vajra Black\nSand Palm
-When attacking an enemy with this technique: the armor of the user is greatly increased; according to the power of this technique, the user is given a buff that increases External Penetration.
+When attacking an enemy with this technique: the user's DES is greatly increased; according to the power of this technique, the user is given a buff that increases External Penetration.
 Soul Heat Palm
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Aegis" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Vajra\nAnnihilation Hands
