@@ -60,7 +60,7 @@ Golden Scripture\nof Marrow-Regen
 The higher the ratio of "Fire" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Wudang\nMixed Element
 Reduce external injury
-If the enemy inflicts both direct external and direct Int. Injuries on the user, any direct external wounds inflicted by the enemy that exceed 3 direct Int. Injuries will be reduced.
+If the enemy inflicts both direct external and direct Int. Injuries on the user, any direct Ext. Injuries inflicted by the enemy that exceed 3 direct Int. Injuries will be reduced.
 Divine One
 The higher the user's "Taoism" skill, the more wounds the user can "heal" in battle.
 Boundless\nPure Yang
@@ -508,7 +508,7 @@ When defending with this technique: the more body parts the user has destroyed, 
 Anger Face
 When the "Break" True Qi of the user is higher than the "Break" True Qi of the enemy, the degree of injury of all direct damage inflicted by the enemy on the user is reduced by 1 level
 Dragon Looks Back
-When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 2 levels; whenever the user reacts to an enemy attack, the user gains 1 point of "Break" true qi
+When defending with this technique: the degree of injury of all direct Ext. Injuries received by the user is reduced by 2 levels; whenever the user reacts to an enemy attack, the user gains 1 point of "Break" true qi
 Divine Fire Cover
 When defending with this technique: all direct internal injuries suffered by the user are reduced by 2 levels; whenever the user reacts to an enemy attack, the user gains 1 point of "Aegis" true qi
 Dragon Breakthrough
@@ -544,7 +544,7 @@ Whenever a partner of the user's helper reaches the defeat condition, the user w
 The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of External Injuries and Fatal Wounds of the user in battle.
 Sky Demon
 Worsening enemy external injury
-When defending with this technique: the degree of injury of all direct external wounds received by the user is reduced by 4 levels; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Pyrotoxin to the enemy, and at the same time worsens the External Injuries of all body parts of the enemy by 1 level
+When defending with this technique: the degree of injury of all direct Ext. Injuries received by the user is reduced by 4 levels; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Pyrotoxin to the enemy, and at the same time worsens the External Injuries of all body parts of the enemy by 1 level
 Undead Body of Blood Child
 When the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder has not reached the absolute limit, the user's internal disorder will start to increase randomly, and the user cannot be defeated until the user's internal disorder reaches the absolute limit.
 Lift-Up Jumping
@@ -1250,7 +1250,7 @@ Dragon Whip
 When attacking the enemy with this technique, the deeper the enemy is poisoned with Acritoxin, the more layers the degree of injury caused by this technique to the enemy's direct damage increases; the direct damage caused by this technique to the enemy's existing wounds will not be reduced for any reason
 Sky Snake Whip
 Accumulation of injury layers
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user causes an enemy to receive at least 2 levels of direct external wounds by means other than this technique, 1 of these levels will be transferred to the level of this effect, up to a maximum of 9 levels; when this technique becomes 100% more powerful, the level of direct external wounds caused by the user to the enemy increases by a number of levels equal to the number of levels of this effect, after which the effect reverts to 0 layers
+At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user causes an enemy to receive at least 2 levels of direct Ext. Injuries by means other than this technique, 1 of these levels will be transferred to the level of this effect, up to a maximum of 9 levels; when this technique becomes 100% more powerful, the level of direct Ext. Injuries caused by the user to the enemy increases by a number of levels equal to the number of levels of this effect, after which the effect reverts to 0 layers
 Forged Bone\nFist
 Increase the power limit
 Based on the power of this technique, the power limit of all "Break" techniques of the user will be increased by 30% until the end of the battle.
@@ -1757,7 +1757,7 @@ Divine Kick of\nAo King
 Ban Atk Range
 After this technique has been used with at least 100% of it's power, the maximum distance between the enemy and me is reduced by 2, up to 8, and lasts until the end of the battle
 Holy White\nElephant With 6 Tusks
-Eliminate external wounds
+Eliminate Ext. Injuries
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives direct trauma from an enemy with a wound level of not less than 2, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's trauma mark and severe injury mark are removed, after which this effect reverts to 0 levels
 Swordsmanship\nof Arhat
 Recovery of "attack tokens"
@@ -1853,7 +1853,7 @@ Convert the user's "Water" internal energy into "Fire" internal energy. The more
 Reversal - Golden Sutra of Marrow Washing
 The higher the percentage of "Fire" internal energy of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Wudang Mixed Element technique
-If the enemy inflicts both direct external and direct Int. Injuries on the user, any direct Int. Injuries inflicted by the enemy that exceed 3 direct external wounds are subtracted.
+If the enemy inflicts both direct external and direct Int. Injuries on the user, any direct Int. Injuries inflicted by the enemy that exceed 3 direct Ext. Injuries are subtracted.
 Reverse -  Taiyi Shen Gong
 The higher the "Taoism" skill of the user, the more toxins the user can Detox in battle.
 Reverse -  Pure Yang Wuji Gong
@@ -2354,7 +2354,7 @@ Reverse - Big Dipper Step of Heavenly Spirit
 Every time you move 1 distance with this Footwork, depending on the amount of "Aegis" True Qi the user has, the user gains "Quick" True Qi, and when the effect of this Footwork ends or expires, the user loses all the "Quick" True Qi gained in the process. Amount gained = (0.2 * [Aegis value] )
 Reverse - The One Step
 Lowering the enemy's internal power play
-During the duration of this technique: the enemy's internal power is significantly reduced; the more uneven the ratio of internal to external wounds of the enemy's "Break" technique, the more the power of this technique is reduced.
+During the duration of this technique: the enemy's internal power is significantly reduced; the more uneven the ratio of internal to Ext. Injuries of the enemy's "Break" technique, the more the power of this technique is reduced.
 Reverse - Ladder Climbing
 During the duration of this technique, each time the user retreats 0.5 distance, the power of all the "Break" techniques of the user will be increased, up to a maximum of 6 times, but if the user advances, all the accumulated power will be lost.
 Reverse - Cloud Gliding
