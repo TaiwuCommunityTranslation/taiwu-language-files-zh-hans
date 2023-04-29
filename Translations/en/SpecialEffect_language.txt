@@ -434,7 +434,7 @@ Gain Nadis Force
 Whenever an enemy's toxicity strikes, the user receives twice the amount of "Nadis" of the marker that caused the toxin to strike.
 Flood Dragon's Bone Regeneration
 Automatic healing of injuries
-When defending with this technique : If the total number of injuries sustained by user reaches the defeat condition, user will not be defeated；All External Injuries of the user will be quickly healed by themselves over time；At the end of defending with this technique, removes 6 Critical Wounds.
+When defending with this technique : If the total number of injuries sustained by user reaches the defeat condition, user will not be defeated；All External Injuries of the user will be quickly healed by themselves over time；At the end of defending with this technique, removes 6 Fatal Wounds.
 9 Colored Jade Cicada
 When the total number of injuries sustained by user reaches the defeat condition, the user immediately consumes 9 points of 「Nadis」True Qi, and randomly removes 9 Injuries and 6 Critical Wounds, but the Internal Breath of the user will be greatly increased as a result.
 Go With The Flow
