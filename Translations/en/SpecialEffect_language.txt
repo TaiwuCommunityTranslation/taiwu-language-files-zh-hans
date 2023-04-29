@@ -60,7 +60,7 @@ Golden Scripture\nof Marrow-Regen
 The higher the ratio of "Fire" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Wudang\nMixed Element
 Reduce external injury
-If the enemy inflicts both direct external and direct internal wounds on the user, any direct external wounds inflicted by the enemy that exceed 3 direct internal wounds will be reduced.
+If the enemy inflicts both direct external and direct Int. Injuries on the user, any direct external wounds inflicted by the enemy that exceed 3 direct Int. Injuries will be reduced.
 Divine One
 The higher the user's "Taoism" skill, the more wounds the user can "heal" in battle.
 Boundless\nPure Yang
@@ -1853,7 +1853,7 @@ Convert the user's "Water" internal energy into "Fire" internal energy. The more
 Reversal - Golden Sutra of Marrow Washing
 The higher the percentage of "Fire" internal energy of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Wudang Mixed Element technique
-If the enemy inflicts both direct external and direct internal wounds on the user, any direct internal wounds inflicted by the enemy that exceed 3 direct external wounds are subtracted.
+If the enemy inflicts both direct external and direct Int. Injuries on the user, any direct Int. Injuries inflicted by the enemy that exceed 3 direct external wounds are subtracted.
 Reverse -  Taiyi Shen Gong
 The higher the "Taoism" skill of the user, the more toxins the user can Detox in battle.
 Reverse -  Pure Yang Wuji Gong
