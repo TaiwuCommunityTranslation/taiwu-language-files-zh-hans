@@ -1758,7 +1758,7 @@ Ban Atk Range
 After this technique has been used with at least 100% of it's power, the maximum distance between the enemy and me is reduced by 2, up to 8, and lasts until the end of the battle
 Holy White\nElephant With 6 Tusks
 Eliminate Ext. Injuries
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives direct trauma from an enemy with a wound level of not less than 2, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's trauma mark and severe injury mark are removed, after which this effect reverts to 0 levels
+At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives at least 2 Ext. Injuries, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's Ext. Injuries and Fatal Wounds are removed, after which this effect reverts to 0 levels
 Swordsmanship\nof Arhat
 Recovery of "attack tokens"
 When this technique is used with at least 10% of its power, if the weapon used by the user is "Sword" and can be switched to a "Blade", the user immediately switches to a "Blade" and regains 1 "attack token".
