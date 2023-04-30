@@ -998,7 +998,7 @@ Blood Palm
 When you start to perform this technique, the deeper the enemy is poisoned with Pyrotoxin, the more the power of this technique will increase
 Osbeck Bone Melt
 Steady pace of descending the enemy
-Applies a reduction in the enemy's stability based on the power of the technique.
+Based on the power of this technique, apply a debuff to the enemy that reduces Ext. Recovery
 Divine Drug\nPalm
 Absorbing enemy toxins
 Applying additional toxins
