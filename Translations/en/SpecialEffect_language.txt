@@ -3551,7 +3551,7 @@ Magic I am free
 Distance cannot be changed
 During the duration of this divine power, the distance between the enemy and us cannot change for any reason, and the attack range of the phase pivot changes to the maximum
 Dust Dye
-During the duration of this divine power, whenever the dusty seed hits an enemy, it will cause one of the enemy's techniques that are not permanently blocked to be "blocked" for a short time.
+During the duration of this divine power, whenever the Ran Chenzi hits an enemy, it will cause 1 of the enemy's techniques that are not permanently blocked to be "blocked" for a short time.
 Transformation of the sword
 Increase of your own divine style
 During the duration of this divine power, Hwanshin will gain 1 "God" style for every cumulative distance he moves.
