@@ -1341,7 +1341,7 @@ Blade of\nMahakala
 Damage delayed effect
 During the process of performing this technique, all direct injuries received by the user will only take effect after this technique is performed; after this technique has become 100% powerful, the external injuries that will take effect will not take effect, and the number of external injuries that will take effect by the user will be the number of layers to obtain this effect: when the user causes direct external injuries to the enemy, a maximum of 3 layers of this effect will be consumed to increase the degree of the direct external injuries caused, but if If the number of layers of this effect exceeds 9, the effect will also enhance the enemy's
 Rock-Breaking\nPoke
-Increase your armor
+Improve DES
 Damage to enemy's protective gear
 After this technique has reached 100% of its power, the user gains 3 levels of this effect: when the user hits an enemy, the user's armor is greatly increased, and if the user damages the enemy's protective gear, it damages an additional 2 points of durability.
 Dharma\nProtector's Poke
