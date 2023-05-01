@@ -692,7 +692,7 @@ Tiger Hill Test Sword
 Whenever the user hits an enemy with a "Sword" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Stardust Avoiding Anger
 Increase DES
-When the user attacks an enemy during the duration of this technique, the armor of the user's weapon will be significantly increased if the level of the enemy's armor is not higher than the level of the weapon used by the user.
+During the duration of this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the DES of the user's weapon will be greatly increased
 Dragon Riding
 Footwork instead of Stance
 During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Stance is not enough to perform the "Break" technique, the user's Footwork can be consumed instead of the user's Stance.
