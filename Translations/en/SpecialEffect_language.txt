@@ -1530,7 +1530,7 @@ When attacking the enemy with this technique: the user's DES is greatly increase
 Whirling\nVajra Ring
 After this technique has reached 100% of its power, the user gains 6 layers of this effect: the degree of external injury suffered by the user is reduced by 2 layers, and the user is able to counter shock the external injury caused by the enemy to the user; when the number of layers of this effect is exhausted, the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress, and when performed this way, this technique has no special effects.
 Shaolin\nDragon Claw
-When attacking the enemy with this technique: the armor of the user increases significantly; the more the armor of the user is higher than the toughness of the enemy, the more user's Ext. Pen. increases.
+When attacking the enemy with this technique: the DES of the user increases significantly; the more the DES of the user is higher than the Hardness of the enemy, the more user's Ext. Pen. increases.
 Shaolin Staff\nof 6 Directions
 According to the power of this technique, the power limit of all "Aegis" techniques of the user will be increased by 30% until the end of the battle.
 Shaolin Staff\nof Yin-Yang
