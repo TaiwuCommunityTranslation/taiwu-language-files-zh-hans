@@ -3283,7 +3283,7 @@ When hitting the enemy with this technique, the enemy's protective gear cannot w
 Reverse - The 8 Trigrams\nPalm
 At the beginning of the battle, the user gets 0 layers of this effect: for every 1 distance the user moves, this effect increases by 1 layer, up to 5 layers, the higher the number of layers of this effect, the less Inhale and Stance the user needs to consume when performing this technique, the more the user's Diversion, Parry and Evasion will increase; after the end of this technique, this effect decreases by 1 layer
 Reverse - The Ultra One\nUnfettered Palm
-During the performing of this technique, user can retreat up to 6 distance at once. The farther the user retreats, the more the power of this technique will increase. For every 1 distance the user retreats, they will gain 2 points of "Nadis" True Qi
+The farther the user retreats, the more the power of this technique will increase. For every distance the user retreats, he/she will be able to gain 2 points of "Nadis" true qi.
 Reverse - Divine Fist
 When this technique is used at 100% of its power, the power of the enemy's 3 "Metal" techniques is reduced and lasts until the end of the battle.
 Reverse - Wudang\nPure Yang Fist
@@ -3315,7 +3315,7 @@ When the enemy does not have any available style, this technique can be performe
 Reverse - Whisk Swipe
 Increase the enemy's internal breath disorder according to the percentage of power exerted by this technique
 Reverse - Wudang\nMetallic Swipe
-When hitting an enemy with this technique, it will additionally hit 1 another body part of the enemy that has the most and strongest Sealed Acupoints
+When you hit an enemy with this technique, this technique will additionally hit another part of the enemy with the most sealed points and the highest level of sealed points
 Reverse - Taichi Swipe
 After this technique has been used for 100% of its power, the user gains 2 levels of this effect: the "Whisk" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Whisk" technique is greatly increased.
 Reverse - Laojun Swipe
@@ -3328,7 +3328,7 @@ When this technique is used at 100% of its power, the higher the Breath Disorder
 Reverse - Heavy Swipe
 When you start to perform this technique, the higher the disorder of the enemy's internal breath, the more the power of this technique will increase; When this technique is used at 100% of its power, the higher the disorder of the enemy's internal breath, the more the degree of direct injury caused by the user to the enemy will increase by multiple layers
 Reverse - Formless Swipe
-When this technique is used at 100% of its power, completely eliminate the effects of power buffs of the 3 skills received by the enemy during this battle, and increases the power of this technique according to the sum of the power increases eliminated, which lasts until the end of the battle.
+When this technique is used at 100% of its power, it completely eliminates the effect of the three enemy techniques that have been continuously enhanced during this battle, and increases the power of this technique according to the sum of the power enhancements eliminated, lasting until the end of the battle
 Reverse - Yuanshan\nJump Kick
 Whenever the user uses "Sword" to chase the enemy at least 2 times, if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Heterodox training to Orthodox training
 Reverse - Mandarin Duck\nCombo Kick
@@ -3551,7 +3551,7 @@ Magic I am free
 Distance cannot be changed
 During the duration of this divine power, the distance between the enemy and us cannot change for any reason, and the attack range of the phase pivot changes to the maximum
 Dust Dye
-During the duration of this divine power, whenever the Ran Chenzi hits an enemy, it will cause 1 of the enemy's techniques that are not permanently blocked to be "blocked" for a short time.
+During the duration of this divine power, whenever the dusty seed hits an enemy, it will cause one of the enemy's techniques that are not permanently blocked to be "blocked" for a short time.
 Transformation of the sword
 Increase of your own divine style
 During the duration of this divine power, Hwanshin will gain 1 "God" style for every cumulative distance he moves.
