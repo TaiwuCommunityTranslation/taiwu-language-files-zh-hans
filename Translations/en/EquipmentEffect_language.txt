@@ -43,7 +43,7 @@ When attacking with this weapon or performing a Break Skill, if this weapon is d
 Blood Transfusion
 When attacking or performing a Break Skill with this weapon, the attacker takes 20% less External Injury from Reflect.
 Qi Transformation
-When attacking with this weapon or performing the Destroy feat, the attacker takes 20% less internal Injury damage.
+When attacking or performing a Break Skill with this weapon, the attacker takes 20% less Internal Injury from Reflect.
 Counter Handguards
 If the enemy uses a palm glove, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
 Counter Sword
@@ -71,9 +71,9 @@ If the enemy uses a Gem weapon and this protective gear is used to parry an atta
 Reflection of Weaving
 If the enemy uses a Fabric weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
 Hidden Sharpness
-The breaking edge of this piece of gear is increased by 20%.
+The TOU of this equipment is increased by 20%.
 Snow Refining
-Durability of this piece of gear is increased by 20%.
+The Hardness of this equipment is increased by 20%.
 Blood Coat
 This piece of gear has a 50% increase in blade breakage and a 50% reduction in Durability.
 Tenacious
