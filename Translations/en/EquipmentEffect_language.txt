@@ -75,19 +75,19 @@ The TOU of this equipment is increased by 20%.
 Snow Refining
 The Hardness of this equipment is increased by 20%.
 Blood Coat
-This piece of gear has a 50% increase in blade breakage and a 50% reduction in Durability.
+This equipment has 50% higher TOU, but 50% lower Hardness.
 Tenacious
-This piece of gear has a 50% increase in blade breakage and a 50% increase in Durability.
-This piece of gear causes 20% more poison damage to enemies.
-20% reduction in the requirements to use this piece of gear.
+This equipment has 50% higher Hardness, but 50% lower TOU.
+This equipment causes 20% more poison damage to enemies.
+20% reduction in the requirements to use this equipment.
 Physical Protection
 When using this piece of gear to defend against enemy attacks or Break Skill, if this gear is damaged, the External Injury inflicted by the enemy is reduced by 1 level.
 Qi·Protection
 When using this piece of gear to defend against enemy attacks or Break Skill, if this gear is damaged, the internal injury inflicted by the enemy is reduced by 1 level.
 Retributing Physical
-When using this piece of gear to defend against enemy attacks or break skill, the external injury damage inflicted by the recipient is increased by 20%.
+When using this piece of gear to Reflect enemy attacks or Break skill, the External Injury damage reflected by the user is increased by 20%.
 Retributing Qi
-When using this piece of gear to parry an enemy attack or Break Skill, the recipient deals 20% more Internal Injury.
+When using this piece of gear to Reflect enemy attacks or Break skill, the Internal Injury damage reflected by the user is increased by 20%.
 Reinforcement
 The durability of this equipment is increased by 20%.
 Balance
