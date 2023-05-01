@@ -41,7 +41,7 @@ When attacking with this weapon or performing a Break Skill, if this weapon is d
 Qi killing
 When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the enemy suffers 1 additional level of Internal Injury.
 Blood Transfusion
-When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the attacker takes 20% less External Injury.
+When attacking or performing a Break Skill with this weapon, the attacker takes 20% less External Injury from Reflect.
 Qi Transformation
 When attacking with this weapon or performing the Destroy feat, the attacker takes 20% less internal Injury damage.
 Counter Handguards
