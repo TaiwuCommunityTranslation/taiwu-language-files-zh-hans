@@ -2295,7 +2295,7 @@ Reverse - Sky Demon
 Worsening the enemy's internal wounds
 When defending with this technique: all direct internal injuries suffered by the user are reduced by 4 levels; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Cryotoxin to the enemy, and at the same time worsens the Internal Injuries of all parts of the enemy by 1 level
 Reverse - Undead Body of Blood Child
-Whenever the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder does not reach extinction, the user's internal disorder will increase dramatically and randomly and immediately exchange all wounds with a partner of the user's helper who has not reached the defeat condition
+When the total number of defeat marks of the user reaches the defeat condition, if the user's Qi Disorder hasn't reached it's limit, the user's Qi Disorder will be greatly increased randomly, and they will immediately exchange all injuries with 1 teammate who hasn't reached the defeat condition
 Reverse - Lift-Up Jumping
 Reduce enemy movement speed
 During the duration of this Footwork, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
