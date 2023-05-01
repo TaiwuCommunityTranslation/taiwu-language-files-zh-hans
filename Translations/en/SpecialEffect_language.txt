@@ -1343,7 +1343,7 @@ During the process of performing this technique, all direct injuries received by
 Rock-Breaking\nPoke
 Improve DES
 Damage to enemy's protective gear
-After this technique has reached 100% of its power, the user gains 3 levels of this effect: when the user hits an enemy, the user's armor is greatly increased, and if the user damages the enemy's protective gear, it damages an additional 2 points of durability.
+After this technique has reached 100% of its power, the user gains 3 levels of this effect: when the user hits an enemy, the user's DES is greatly increased, and if the user damages the enemy's protective gear, it damages an additional 2 points of durability.
 Dharma\nProtector's Poke
 Enchanted
 When this technique is used with at least 10% of its power, the 「Pestle」 used by the user will be enchanted by "Dharma Protector": as long as the user is holding 「Pestle」, the degree of direct external injuries caused by the enemy to the user will be reduced by 1 level.
