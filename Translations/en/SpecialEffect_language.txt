@@ -3315,7 +3315,7 @@ When the enemy does not have any available style, this technique can be performe
 Reverse - Whisk Swipe
 Increase the enemy's internal breath disorder according to the percentage of power exerted by this technique
 Reverse - Wudang\nMetallic Swipe
-When you hit an enemy with this technique, this technique will additionally hit another part of the enemy with the most sealed points and the highest level of sealed points
+When hitting an enemy with this technique, it will additionally hit 1 another body part of the enemy that has the most and strongest Sealed Acupoints
 Reverse - Taichi Swipe
 After this technique has been used for 100% of its power, the user gains 2 levels of this effect: the "Whisk" technique performed by the user is transformed from Orthodox to Heterodox practice, and the power of the transformed Orthodox "Whisk" technique is greatly increased.
 Reverse - Laojun Swipe
@@ -3328,7 +3328,7 @@ When this technique is used at 100% of its power, the higher the Breath Disorder
 Reverse - Heavy Swipe
 When you start to perform this technique, the higher the disorder of the enemy's internal breath, the more the power of this technique will increase; When this technique is used at 100% of its power, the higher the disorder of the enemy's internal breath, the more the degree of direct injury caused by the user to the enemy will increase by multiple layers
 Reverse - Formless Swipe
-When this technique is used at 100% of its power, it completely eliminates the effect of the three enemy techniques that have been continuously enhanced during this battle, and increases the power of this technique according to the sum of the power enhancements eliminated, lasting until the end of the battle
+When this technique is used at 100% of its power, completely eliminate the effects of power buffs of the 3 skills received by the enemy during this battle, and increases the power of this technique according to the sum of the power increases eliminated, which lasts until the end of the battle.
 Reverse - Yuanshan\nJump Kick
 Whenever the user uses "Sword" to chase the enemy at least 2 times, if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Heterodox training to Orthodox training
 Reverse - Mandarin Duck\nCombo Kick
