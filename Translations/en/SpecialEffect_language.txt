@@ -1476,7 +1476,7 @@ Scorpion's Soul\nHook Kick
 Move Spd Up
 If the user's movement speed is higher than the enemy's, the power of this technique will be increased; according to the power of this technique, the user will be given a buff that increases Movement Speed.
 Walk And Kill
-During the performing of this technique, user can advance up to 6 distance at once. The further the user advances, the more the power of this technique increases. For every distance the user advances, they gain 2 points of "Break" True Qi
+During the performing of this technique, user can advance up to 6 distance at once. The further the user advances, the more the power of this technique increases. For every 1 distance the user advances, they gain 2 points of "Break" True Qi
 Great Yin-Wind\nKick
 When this technique is used at 100% of its power, the more Umbritoxin marks the enemy has, the more internal injury marks are added to random parts of the enemy
 Yama Ghost Kick
