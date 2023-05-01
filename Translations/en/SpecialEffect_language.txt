@@ -3080,7 +3080,7 @@ Reverse - Scorpion's Soul\nHook Kick
 Increase attack speed
 If the attack speed of the user is higher than the enemy's, the power of this technique will be increased; according to the power of this technique, the user will be given a buff that increases the attack speed.
 Reverse - Walk And Kill
-The farther the user retreats, the more the power of this technique will increase. For every 1 distance the user retreats, he/she will be able to gain 2 points of "Break" true qi.
+During the performing of this technique, user can retreat up to 6 distance at once. The farther the user retreats, the more the power of this technique will increase. For every 1 distance the user retreats, they will gain 2 points of "Break" True Qi
 Reverse - Great Yin-Wind\nKick
 When this technique is 100% powerful, the more Umbritoxin markers the user has, the more internal injury markers will be added to the enemy in random areas.
 Reverse - Yama Ghost Kick
