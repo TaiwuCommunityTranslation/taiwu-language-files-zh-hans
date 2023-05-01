@@ -33,7 +33,7 @@ This weapon has 50% higher DES, but 50% lower Hardness.
 Blunt
 This weapon has 50% higher Hardness, but 50% lower DES.
 Venomous sting
-此兵器对敌人造成的毒害提高20%。
+This weapon causes 20% more poison damage to enemies.
 Spiritual Use
 20% reduction in the requirement to use this weapon
 Blood Kills
