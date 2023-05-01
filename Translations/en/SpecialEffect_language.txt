@@ -2932,7 +2932,7 @@ Reverse - 5 Anger Hands
 Reverse - Parami Palm
 When this technique exerts at least 10% of its power, the enemy loses 2 points of "Aegis" true qi
 Reverse - Vajra Black\nSand Palm
-When attacking an enemy with this technique: the DES of the user is greatly increased; according to the power of this technique, a buff that increases direct internal damage is applied to the user
+When attacking an enemy with this technique: the DES of the user is greatly increased; Based on the power of this technique, a buff that increases direct internal damage is applied to the user
 Reverse - Soul Heat Palm
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Aegis" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Reverse - Vajra\nAnnihilation Hands
