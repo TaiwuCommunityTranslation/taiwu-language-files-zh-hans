@@ -177,7 +177,7 @@ Shaolin School Back Mountain
 Shaolin School Tallinn
 Shaolin School Zen Temple
 Emei Sect
-Emei is the most famous martial art in the world. Emei is one of the three most famous sects in the martial arts. The school is just like its name - 'the world's most beautiful'. The martial arts of Emei are both rigid and flexible, with a blend of Taoism and Buddhism and a dual cultivation of determination and wisdom. \n <color=#lightgrey> (The Emei School is a <color=#lightblue> authentic </color> famous sect; its position is <color=#lightblue> Kind</color> and there are many <color=#lightblue> Kind people in the school; it does not teach martial arts to people of low reputation.) </color> 
+Emei is the most famous martial art in the world. Emei is one of the three most famous sects in the martial arts. The school is just like its name - 'the world's most beautiful'. The martial arts of Emei are both Just and flexible, with a blend of Taoism and Buddhism and a dual cultivation of determination and wisdom. \n <color=#lightgrey> (The Emei School is a <color=#lightblue> authentic </color> famous sect; its position is <color=#lightblue> Kind</color> and there are many <color=#lightblue> Kind people in the school; it does not teach martial arts to people of low reputation.) </color> 
 Emei School Golden Peak
 Emei School Shenyang Cliff
 Emei School Thousand Buddha Temple
@@ -213,7 +213,7 @@ Ranshan Sect Taoist Temple
 Ranshan Sect Genji Meilin
 Ranshan Sect Immortal Stones
 XuanNyu
-XuanNyu Peak is also known as Jade Nui Peak, on which there is Xuan ice. Legend has it that a celestial woman descended on the peak and left behind a magic gong, which, when practiced by women, will make them handsome, icy and immortal. \n <color=#lightgrey> (The XuanNyu Sect is a <color=#white> neutral </color> sect; its position is based on <color=#yellow> rigidity </color> and there are many <color=#yellow> rigid </color> people in the school. <color=#red> Marriage of disciples is strictly forbidden! </color> ( </color> ) 
+XuanNyu Peak is also known as Jade Nui Peak, on which there is Xuan ice. Legend has it that a celestial woman descended on the peak and left behind a magic gong, which, when practiced by women, will make them handsome, icy and immortal. \n <color=#lightgrey> (The XuanNyu Sect is a <color=#white> neutral </color> sect; its position is based on <color=#yellow> rigidity </color> and there are many <color=#yellow> Just </color> people in the school. <color=#red> Marriage of disciples is strictly forbidden! </color> ( </color> ) 
 XuanNyu Sect Jade Lady Peak
 XuanNyu Sect Tian Yin Pavilion
 XuanNyu Sect Cold Pool
@@ -249,7 +249,7 @@ JieQing Sect Ghost Cave
 JieQing Sect Gate Abyss
 JieQing Sect Forgotten Life Stage
 Fulong Altar
-The Fulong Altar was built on the East China Sea on the island of Chi Ming. It is divided into two lines: the Szeto's line of swordsmanship is fierce and fierce, and the Dragon's line of fist and palm is profound and outstanding. It is said that there is a volcano on the island, and the disciples all practice their kung fu in the volcano. \n <color=#lightgrey> (The Fulong Altar is <color=#red> evil sect </color> foreign way; position to <color=#yellow> rigid </color> as the main, the faction in the <color=#yellow> rigid </color> people; will not teach martial arts to people with too high reputation.) </color> 
+The Fulong Altar was built on the East China Sea on the island of Chi Ming. It is divided into two lines: the Szeto's line of swordsmanship is fierce and fierce, and the Dragon's line of fist and palm is profound and outstanding. It is said that there is a volcano on the island, and the disciples all practice their kung fu in the volcano. \n <color=#lightgrey> (The Fulong Altar is <color=#red> evil sect </color> foreign way; position to <color=#yellow> Just </color> as the main, the faction in the <color=#yellow> Just </color> people; will not teach martial arts to people with too high reputation.) </color> 
 Fulong Altar Volcano
 Fulong Altar Golden Dragon Hall
 Fulong Altar Fire Pond
