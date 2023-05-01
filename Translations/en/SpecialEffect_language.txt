@@ -1746,7 +1746,7 @@ Tiger Tail
 At the beginning of the battle, the user gains 3 levels of this effect: when an enemy attacks the user from a position greater than the user's maximum attack distance, the attack range of this technique is greatly increased, and the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress; when the active performance of this technique is performed and the power of the technique is 100%, this effect regains 1 level
 8 Steps of\nSquared Up
 Transferring your mark
-In the process of performing this technique, the user can advance up to 6 distances, and for every 1 distance the user advances, 1 non-injury marker received by the user in the process of performing this technique will be transferred to the enemy
+During the performing of this technique, user can advance up to 6 distance at once. For every 1 distance the user advances, 1 non-injury marker received by the user during the performing of this technique will be transferred to the enemy
 The Great Vajra\nKick
 When attacking the enemy with this technique: the user's DES is increased significantly; Based on the power of this technique, the enemy is knocked back up to 5 distances, and if the enemy is knocked back to the maximum attack distance of the enemy, 3 higher level Weak Points will be randomly added to the enemy
 Kick of\nMove The Mountain
