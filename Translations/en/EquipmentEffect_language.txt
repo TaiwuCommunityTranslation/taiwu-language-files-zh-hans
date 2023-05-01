@@ -29,7 +29,7 @@ This weapons DES is increased by 20%.
 Refined by fire
 This weapons Hardness is increased by 20%.
 Bloodbath
-This weapon is 50% better at breaking armor, but its durability is decreased by 50%.
+This weapon has 50% higher DES, but 50% lower Hardness.
 Blunt
 This weapon is 50% better at breaking armor, and its durability is increased by 50%.
 Venomous sting
