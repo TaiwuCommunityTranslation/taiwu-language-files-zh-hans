@@ -1383,7 +1383,7 @@
   "LK_Serious_Inner_Injury": "Severe Internal Injury",
   "LK_Serious_Inner_Injury_Tips": "Your <color=#E4504DFF>{0}</color>has severe external Injury，and your health will decrease every month！<color=#E4504DFF>When your health is<color=#FBFBFBFF> 0 </color>，you will die！</color>",
   "LK_Qi_Disorder": "Qi Disorder",
-  "LK_Qi_Disorder_Tips": "abilities will decrease. When your internal breath disorientation reach max level, your health will decrease every month!<color=#E4504DFF>When your health drop to<color=#FBFBFBFF> 0 </color>时，You will die！</color>",
+  "LK_Qi_Disorder_Tips": "Your Inner Breath has been disordered. All your abilities will be reduced. If your Qi Disorder reaches it's limit, your Health will be reduced every month!<color=#E4504DFF>When your Health drops to<color=#FBFBFBFF>0</color>, you will die!</color>",
   "LK_Qi_Disorder_StateTitle": "Internal Breath Status",
   "LK_Qi_Disorder_StateContent": "Inner Breath：{0}\n\n<color=#8E8E8EFF>{1}</color>\n\n<color=#lightblue>Due to internal breathing ability, monthly internal breathing disorder{2}</color>\nHealth Recovery：{3}\nCombat Injury Chance：{4}%",
   "LK_Serious_Poison": "Extreme poisoning",
