@@ -1736,7 +1736,7 @@ The lower the disorder of the internal breath of the user when this technique ex
 Heavy Swipe
 When you start to perform this technique, the lower the disorder of the internal breath of the user, the more the power of this technique will increase; When this technique is used at 100% of its power, the lower the disorder of the internal breath of the user, the more the degree of direct injury caused by the user to the enemy will increase by multiple layers
 Formless Swipe
-When this technique is used at 100% of its power, it completely eliminates the effect of the continuous reduction of the power of the technique that the user receives during the battle by three, and increases the power of this technique according to the sum of the power reduction eliminated, which lasts until the end of the battle.
+When this technique is used at 100% of its power, completely eliminate the effects of power debuffs of the 3 skills received by the user during this battle, and increases the power of this technique according to the sum of the power reduction eliminated, which lasts until the end of the battle.
 Yuanshan\nJump Kick
 Whenever the user chases an enemy at least 2 times with "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to Heterodox practice
 Mandarin Duck\nCombo Kick
