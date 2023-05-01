@@ -2521,7 +2521,7 @@ Reverse - Gate Breaker\n8 Moves
 When this technique is used at 100% of its power, for every 3 "Punch" styles the user has, the user inflicts 1 additional Weak Point to the enemy's attacked area.
 Reverse - The Great\nStonebreaker
 E·PhD·QiD Dn
-When attacking the enemy with this technique: the armor of the user increases significantly; if the armor of the user is higher than the toughness of the enemy, the enemy's External Defense and Internal Defense decrease significantly
+When attacking the enemy with this technique: the DES of the user increases significantly; if the DES of the user is higher than the Hardness of the enemy, the enemy's External Defense and Internal Defense decrease significantly
 Reverse - Gold Palm of\nLion Phase
 This technique increases the direct damage dealt to the enemy's arm by 3 levels, but has a higher chance of attacking other parts of the enemy
 Reverse - Warlord's\nPull Bow
