@@ -2096,7 +2096,7 @@
   "LK_Building_MaintainTip": "Monthly cost",
   "LK_Building_ManageEffiency": "Overall efficiency: {0}%",
   "LK_Building_MakeupEffect": "Initial goodwill +{0}%",
-  "LK_Building_PhoenixPlatformEffect": "Internal rest disorder - {0}/month",
+  "LK_Building_PhoenixPlatformEffect": "Qi Disorder -{0}/month",
   "LK_Building_CannotManageTip": "Unable to operate due to not being next to the main building!",
   "LK_Building_ManageInfo": "Business Information",
   "LK_Poison_Immune": "<color=#orange>Immune</color>",
