@@ -25,9 +25,9 @@ If the enemy uses Gem-made protective gear to resist an attacks or performs a Br
 Anti-Weaving
 If the enemy uses Fabric-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
 Sharp
-This weapons armor-breaking abilities are increased by 20% 。
+This weapons DES is increased by 20%.
 Refined by fire
-Durability of this weapon is increased by 20%.
+This weapons Hardness is increased by 20%.
 Bloodbath
 This weapon is 50% better at breaking armor, but its durability is decreased by 50%.
 Blunt
