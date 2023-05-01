@@ -3337,7 +3337,7 @@ When this technique is used with at least 10% of its power, the amount of Inhale
 Reverse - Tiger Tail
 At the beginning of the battle, the user gains 3 levels of this effect: when the enemy attacks the user at a position smaller than the user's minimum attack distance, the attack range of this technique is greatly increased, and the user immediately attacks the enemy without consumption from 50% of the execution progress; when the active execution of this technique is performed and the power of this technique is 100%, this effect regains 1 level
 Reverse - 8 Steps of\nSquared Up
-In the process of performing this technique, the user can retreat up to 6 distances, and for every 1 distance the user retreats, 1 non-injury marker received by the user in the process of performing this technique will be transferred to the enemy
+During the performing of this technique, user can retreat up to 6 distance at once. For every 1 distance the user retreats, 1 non-injury marker received by the user during the performing of this technique will be transferred to the enemy
 Reverse - The Great Vajra\nKick
 When attacking the enemy with this technique: the user's DES is increased significantly; Based on the power of this technique, the enemy is brought closer by up to 5 distances, and if the enemy is brought closer to the minimum distance between us, 3 higher level Weak Points will be randomly added to the enemy
 Reverse - Kick of\nMove The Mountain
