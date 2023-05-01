@@ -2561,7 +2561,7 @@ Reduces the strength of 1 of the debuffs on the user according to the power of t
 Reverse - General's\n16 Spear
 When you start to perform this technique, the more Constitution the user has consumed, the more the power of this technique will increase
 Reverse - Spear of\nUniverse
-The farther the user retreats, the more the power of this technique increases. For every distance the user retreats, he can gain 2 points of "Aegis" true qi.
+During the performing of this technique, user can retreat up to 6 distance at once. The farther the user retreats, the more the power of this technique increases. For every distance the user retreats, they will gain 2 points of "Aegis" True Qi
 Reverse - Spear of\nMountain-Shaking Beasts
 When you start to perform this technique, if the enemy does not use the "Quick" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons will be temporarily unusable.
 Reverse - Lion Spear of\nMadness Dragon
