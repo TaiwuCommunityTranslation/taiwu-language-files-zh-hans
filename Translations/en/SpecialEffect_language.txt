@@ -805,7 +805,7 @@ Increase the level of Weak Points
 When this technique is used at 100% of its power, the level of Weak Points caused by the user to the enemy will increase by 1 extra level for every 2 "Punch" styles the user has.
 The Great\nStonebreaker
 DES up
-When attacking the enemy with this technique: the user's armor breaking is greatly increased; if the user's armor breaking is higher than the enemy's toughness, the user's External Penetration and Internal Penetration are greatly increased
+When attacking the enemy with this technique: the user's DES is greatly increased; if the user's DES is higher than the enemy's Hardness, the user's External Penetration and Internal Penetration are greatly increased
 Gold Palm of\nLion Phase
 The injury becomes an old injury
 Wounds inflicted by this technique on the enemy's arm will change to old wounds that are more difficult to recover from
