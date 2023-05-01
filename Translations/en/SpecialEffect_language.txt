@@ -401,7 +401,7 @@ Wooden Armor
 Increase the toughness of protective gear
 When defending with this technique: the degree of injury of all direct damage received by the user is reduced by 1 level; if the weapon used by the enemy is not higher than the level of the user's protective gear, the toughness of all the user's protective gear is greatly increased.
 14 Methods of Real Steel
-Significantly increase the Hardness and Toughness of the user's weapon
+Significantly increase the Hardness and DES of the user's weapon
 Mechanical Formation
 Teammates can perform「Warn」command more frequently, which increases user's Diversion, Parry, and Evasion for a short amount of time.
 Heavenly Armor
