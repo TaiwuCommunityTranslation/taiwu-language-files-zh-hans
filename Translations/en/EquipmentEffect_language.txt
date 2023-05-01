@@ -31,7 +31,7 @@ This weapons Hardness is increased by 20%.
 Bloodbath
 This weapon has 50% higher DES, but 50% lower Hardness.
 Blunt
-This weapon is 50% better at breaking armor, and its durability is increased by 50%.
+This weapon has 50% higher Hardness, but 50% lower DES.
 Venomous sting
 此兵器对敌人造成的毒害提高20%。
 Spiritual Use
