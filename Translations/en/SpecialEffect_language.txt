@@ -2034,7 +2034,7 @@ Attrition of the enemy's momentum
 Whenever the user starts to perform a "Break" type technique, if the enemy is within the user's attack range, all of the enemy's Inhale and Stance will be lost.
 Reverse - Mixed Element In One
 Increase internal injury reflect
-When defending with this technique, the internal shock damage of this technique will be greatly increased as long as there are no sealed points in the area where the user is attacked by the enemy.
+When defending with this technique, the internal reflect damage of this technique will be greatly increased as long as there are no sealed points in the area where the user is attacked by the enemy.
 Reverse - Vajra Defence
 Improving external injury reflect
 When defending with this technique, as long as the area where the user is attacked doesn't have Weak Points, the External Reflect of this technique is greatly increased
