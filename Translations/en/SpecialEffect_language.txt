@@ -385,7 +385,7 @@ Reclamation Stance
 Interrupt E·Style
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user adds 1 "None" to the enemy.
 Dark Jade Practice
-The duration of the Glazed marker suffered by the user is significantly reduced.
+Significantly reduces the duration of Glazed markers on the user.
 Formation of Scattered Flowers
 Teammates can perform「Push」and「Pull」commands more frequently, which makes them push you forward or pull you back 1 distance.
 Rainbow Fairy Dress
