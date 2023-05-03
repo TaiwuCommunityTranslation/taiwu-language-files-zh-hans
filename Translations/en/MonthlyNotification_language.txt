@@ -141,7 +141,7 @@ Swindling Life Skills
 Steal Martial Arts
 Swindling Martial Arts
 A Token of Goodwill
-{0} gifted {3} to {2} at {1}.
+{0} at {1} gifted {2} to {3}.
 Trifling Gift, Genuine Friendship
 Tutoring Life Skills
 In {1}, {0} has tutored {2} in {3} studies.
