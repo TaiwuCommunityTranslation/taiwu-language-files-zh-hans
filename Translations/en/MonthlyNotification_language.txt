@@ -179,7 +179,7 @@ Divine Favor
 {0} in {1} dreamed of the magical white deer and was able to calm his internal breath.
 Mischance
 {0} lost the very rare {2} by accident at {1}.
-{0} had an accidental loss of {2}{3} at {1}
+{0} accidentally lost {2} {3} at {1}
 The Secret of Heavenly Loss
 {0} lost a {2} martial arts secret book by accident in {1}
 {0} accidentally lost a {2} secret copy of the craft at {1}
