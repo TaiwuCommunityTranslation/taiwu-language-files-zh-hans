@@ -57,7 +57,7 @@ Couple Broken Up
 In {1}, {0} and {2} have broken up.
 Couple Married
 In {1}, {0} and {2} promised to each other for life and were married.
-Congeniality
+Budding Friendship
 {0} and {2} had a good conversation in {1}, and both felt very close to each other, so they decided to become close friends.
 Estrangement
 The {0} and {2} are separated in {1}. The two drifted apart and are no longer close friends.
