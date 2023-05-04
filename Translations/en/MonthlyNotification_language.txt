@@ -114,7 +114,7 @@ Protection
 Protecting friends and family
 {0} will fight against {2} on behalf of {1}...
 New appointments in the sect
-{0} becomes the {1} of {2}
+{0} becomes the {2} of {1}
 New Town Official
 New Faction Official
 {0} became the {1} faction leader.
