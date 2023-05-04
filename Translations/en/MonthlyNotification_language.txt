@@ -315,7 +315,7 @@ The World Martial Arts Tournament is being held with a bang {0}, with key figure
 Aikikawa Takes Life
 [{0}] There are [{1}] people who have lost their lives fighting against the demonic chaos...
 Heard news
-Be informed of new news: {0}
+Heard new news: {0}
 Learned a secret
 Learned a new secret: {0}
 Secret news expires next month
