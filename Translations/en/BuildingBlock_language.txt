@@ -381,7 +381,7 @@ Mystic Garden
 Using "Worldly Landscape Stone" as the core material, an extension building is built next to "Clarifier", which needs to be adjacent to "Everspring Ravine". \nThis building will increase the attainment of the "Appreciation" of the people within the influence of the town and sect to which it belongs.
 Tea Garden
 The tea garden is built on the low slope of the north facing the fertile land. It is a garden for cultivating tea trees,  collecting raw tea and frying tea.
-An extension building is built next to the "Clarifier" with "Cloud Dragon Pond" as the core material, which is adjacent to the "Fertile Plain" and needs to be operated by dispatching villagers. \nYou can harvest tea leaves.
+An extension building is built next to the "Clarifier" with "Cloud Dragon Pond" as the core material, and be adjacent to the "Fertile Plain", operated by dispatching villagers. \nHarvests tea.
 Wine Steamer
 A workshop that uses special equipments to make strong and fragrant shochu.
 An extension building is built next to the "Clarifier" with "Gold Jade Dew Plate" as the core material, and be adjacent to the "Fertile Plain", operated by dispatching villagers. \nHarvests wine.
