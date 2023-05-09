@@ -402,7 +402,7 @@ It is installed at the water’s edge,  and uses the water flow to pull the fan 
 The expansion building built next to the "Forging Room" must be adjacent to the "Reservoir". \n increases the chance that people within the influence of the town or sect they belong to will have a "Flash of insight" when studying the "Smithing" book.
 Meteor Pit
 The iron meteorite is extremely tough that water and fire can not invade. It requires a lot of efforts to refine it into a device.
-An extension building built next to the "Forging Room" with the "Sky Iron Plow" as the core material, which must be adjacent to the "Meteorite Pit". \nIt can increase the "forging" attainments of the people within the influence of the town and sect to which it belongs.
+An extension building built next to the "Forging Room" with the "Sky Iron Plow" as the core material, which must be adjacent to the "Meteor Crater". \nIt can increase the "Smithing" attainments of the people within the influence of the town and sect to which it belongs.
 Washing Pond
 First,  collect the ore in the deposit that has been scattered by the wind and rain,  or that has been broken due to the mining process,  and then wash and re-select with water to obtain more goldstone.
 The extension building is built next to the "Forging Room" using "coarse gold sand" as the core material, and is adjacent to the "stone hill". \nYou can harvest gold and silver materials for "forging".
