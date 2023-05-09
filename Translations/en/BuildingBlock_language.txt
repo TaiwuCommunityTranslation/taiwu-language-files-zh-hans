@@ -414,7 +414,7 @@ With seven stone well built in the name of seven stars as the Sun,  the Moon,  V
 This is an extension building built next to the "Forging Room" using the "Dragon King's Water House" as the core material. \nIt will enable the adjacent "Forging Room" to produce better quality metal tools.
 Inferno Furnace
 Built on the fire pool,  it is used to take the smelting iron of underground fire. The temperature in the furnace is extremely high,  that any stone is melted.
-This is an extension building built next to the "Forging Room" with the "Fire Furnace" as the core material and adjacent to the "Fire Pond". \nThis building can reduce the requirement of "Smithing" attainment, repairing and refining gold and iron tools.
+This is an extension building built next to the "Forging Room" with the "God's Firewood Burner" as the core material and adjacent to the "Fire Pond". \nIt can reduce the requirements for "Smithing" attainment when crafting, repairing, and refining gold and iron equipment.
 Carpenter
 Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all available in the Carpenter.
 You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Carpentry" books. \nThe larger the size of the Carpentry Room, the more the efficiency is increased, but the effects of multiple Carpentry Rooms do not stack.
