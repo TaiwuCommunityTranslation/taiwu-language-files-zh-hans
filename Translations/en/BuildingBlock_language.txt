@@ -555,10 +555,10 @@ The Blood Mirror is made of precious red stone spar,  built on the fire pool. Wh
 An extension building is built next to the "Gemcutting Room" with "Fire Pond Red Crystal" as the core material, and must be adjacent to the "Lava Pond". \nThis building will increase the skill of "Gemcutting" of the people within the influence of the town or sect to which it belongs.
 The Jewel Field
 It is filled with special mud and sand. The small stone embryos are buried in the field. After dozens of days,  the stone clothes will peel off,  showing the sparkling gems inside.
-An extension building is built next to the "Gemcutting Room" with "Rumbo Sand" as the core material, which is adjacent to the "Jewel" and requires the dispatch of villagers to operate. \nYou can harvest jade materials for "Gemcutting".
+An extension building is built next to the "Gemcutting Room" with "Coarse Jewel Sand" as the core material, which is adjacent to the "Gem Deposit" and requires the dispatch of villagers to operate. \nYou can harvest jade materials for "Gemcutting".
 Diamond Cutting Table
 A stone solving table made of diamond, also known as a diamond saw. The diamond saw is so hard that it can be used to cut any stubborn stone that is invulnerable to swords, fire and water.
-An extension building is built next to the "Gemcutting Room" with "Vajra Saw" as the core material, which is adjacent to the "Gemstone" and needs to be operated by sending villagers. \nYou can harvest stone materials for the "Gemcutting".
+An extension building is built next to the "Gemcutting Room" with "Diamond Saw" as the core material, which is adjacent to the "Gem Deposit" and needs to be operated by sending villagers. \nYou can harvest stone materials for the "Gemcutting".
 Workbench
 Designed by a famous craftsman, the exquisite table is so cleverly constructed and functional that it can grind and process those gems and jades as fine as flies without any difference.
 An extension building is built next to the "Gemcutting Room" using the "Lingering Eight Treasures" as the core material. \nIt will enable the adjacent "Gemcutting" to produce better quality jade products.
