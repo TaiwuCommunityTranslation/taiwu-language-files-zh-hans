@@ -384,7 +384,7 @@ The tea garden is built on the low slope of the north facing the fertile land. I
 An extension building is built next to the "Clarifier" with "Cloud Dragon Pond" as the core material, which is adjacent to the "Fertile Plain" and needs to be operated by dispatching villagers. \nYou can harvest tea leaves.
 Wine Steamer
 A workshop that uses special equipments to make strong and fragrant shochu.
-The building is located next to the "Clarifier" and is adjacent to the "fertile field" and is operated by the villagers. \nThe villagers must be dispatched to operate it.
+An extension building is built next to the "Clarifier" with "Gold Jade Dew Plate" as the core material, and be adjacent to the "Fertile Plain", operated by dispatching villagers. \nHarvests wine.
 Forging Room
 Equipped with furnaces,  bellows and anvils.
 You can make, repair, and refine metal tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Smithing" books. \nThe larger the size of the Forging Room, the more efficiency is increased, but the effects of multiple forging rooms do not stack.
