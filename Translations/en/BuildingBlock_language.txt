@@ -415,7 +415,7 @@ This is an extension building built next to the "Forging Room" using the "Dragon
 Inferno Furnace
 Built on the fire pool,  it is used to take the smelting iron of underground fire. The temperature in the furnace is extremely high,  that any stone is melted.
 This is an extension building built next to the "Forging Room" with the "God's Firewood Burner" as the core material and adjacent to the "Fire Pond". \nIt can reduce the requirements for "Smithing" attainment when crafting, repairing, and refining gold and iron equipment.
-Carpenter
+Carpentry Room
 Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all available in the Carpenter.
 You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Carpentry" books. \nThe larger the size of the Carpentry Room, the more the efficiency is increased, but the effects of multiple Carpentry Rooms do not stack.
 Woodwork
