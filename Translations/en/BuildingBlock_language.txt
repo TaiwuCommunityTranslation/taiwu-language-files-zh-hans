@@ -399,7 +399,7 @@ The gold shop is a shop that exchanges gold and silver or trading gold and silve
 This is an extension building built next to the "Forging Room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to gain "prestige".
 Hydraulic Bellow
 It is installed at the water’s edge,  and uses the water flow to pull the fan to open and close,  and conducts the blasting treatment device. Compared to the manpower blast,  the water drain is more powerful.
-The expansion building built next to the "Forging Room" must be adjacent to the "Waters". \n increases the chance that people within the influence of the town or sect they belong to will have a "flash of light" when studying the "Forge" book.
+The expansion building built next to the "Forging Room" must be adjacent to the "Reservoir". \n increases the chance that people within the influence of the town or sect they belong to will have a "Flash of insight" when studying the "Smithing" book.
 Meteor Pit
 The iron meteorite is extremely tough that water and fire can not invade. It requires a lot of efforts to refine it into a device.
 An extension building built next to the "Forging Room" with the "Sky Iron Plow" as the core material, which must be adjacent to the "Meteorite Pit". \nIt can increase the "forging" attainments of the people within the influence of the town and sect to which it belongs.
