@@ -630,13 +630,13 @@ The structure of the Four Seasons Garden is very peculiar, according to the habi
 The building is built next to the "Kitchen" with "Four Seasons Flowing Wind" as the core material, and is adjacent to the "Fertile Plain". \nVegetarian and animal ingredients for "Cooking" can be harvested.
 Natural Village
 This village is built in ingenious structure and well planned,  that it actually forms a perfect ecosphere that provides all kinds of natural materials.
-The extension building is built next to the "Kitchen" with "Tiancheng Huayu" as the core material, and it is adjacent to the "Fertile Field" and needs to be operated by the villagers. \nYou can harvest fish and poultry ingredients for "cooking".
+The extension building is built next to the "Kitchen" with "Heavens Turn Rainy" as the core material, and it is adjacent to the "Fertile Plains" and needs to be operated by the villagers. \nYou can harvest fish and poultry ingredients for "Cooking".
 Spices Pavilion
 It is used to collect and cultivate various kinds of spices,  such as: licorice,  musk,  onion,  ginger,  pepper,  cinnamon and so on. Most of the spices need to be introduced from outside the domain,  such as: anise,  parsley,  pepper,  hematoxyl,  etc..
 This is an extension building built next to the "Kitchen" using the "Amphibious Universal Pot" as the core material. \nThis will enable the adjacent "Kitchen" to produce better quality dishes.
 Dragon Palace
 An igloo built entirely of ice bricks for storing foods that are extremely precious and prone to deterioration. Because it is like the Crystal Palace of the Dragon King,  it is called “Dragon Palace“.
-This is an extension building built next to the "Kitchen" using "crystal ice bricks" as the core material, which must be adjacent to the "basalt ice". \nThis building will reduce the requirement of "cooking" skill when making dishes.
+This is an extension building built next to the "Kitchen" using "Crystal Ice Tiles" as the core material, which must be adjacent to the "Eternal Ice". \nThis building will reduce the requirement of "Culinary Arts" skill when making dishes.
 Long Street
 Wide street full of shops. Long Street is located in the main road of transportation,  bringing together a large number of people from all walks of life.
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Lore" books. The larger the \n scale of the long street, the more the efficiency will be increased, but the effect of multiple long streets will not stack.
