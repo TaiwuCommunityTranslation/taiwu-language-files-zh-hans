@@ -420,31 +420,31 @@ Saws,  planes,  chisels,  drills,  rulers,  ink fountains,  etc. are all availab
 You can make, repair, and refine wooden instruments. \nIncreases the efficiency of characters in the area of influence of the town or sect to which they belong when studying "Carpentry" books. \nThe larger the size of the Carpentry Room, the more the efficiency is increased, but the effects of multiple Carpentry Rooms do not stack.
 Woodwork
 The woodwork mainly deals in the trade of small items of carpentry,  like tables,  chairs,  utensils,  or lanterns.
-The extension building built next to the "carpentry house" needs to be operated by dispatching villagers. \nThe main purpose of the building is to sell wooden tools to earn money.
+The extension building built next to the "Carpentry Room" needs to be operated by dispatching villagers. \nThe main purpose of the building is to sell wooden tools to earn money.
 The Seven Workshops
 The seven workshops are designed to the needs for seven different Carpentry trades used in public works as recorded in history. Its products include musical instruments,  weapons,  carts or ships.
-An extension building is built next to the "Carpentry House" with the "Hakuho Carpentry" as the core material, and villagers must be dispatched to run it. \nYou can find people with excellent qualifications in "carpentry".
+An extension building is built next to the "Carpentry Room" with the "Hakuho Carpentry" as the core material, and villagers must be dispatched to run it. \nYou can find people with excellent qualifications in "carpentry".
 Construction Team
 The construction team specializes in the construction of buildings,  though they can also help in building roads and bridges.
-An extension building built next to the "carpentry house" that requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell wooden tools to gain "prestige".
+An extension building built next to the "Carpentry Room" that requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell wooden tools to gain "prestige".
 Black Oil Pool
 The Black Oil Pool collects oils and sap from neighbouring swamps for treating wood. Treated wood have more stable properties which makes them easier to be worked on.
-The expansion building built next to the "Carpentry Room" must be adjacent to the "Poison Swamp". \nThis building will increase the chance that people within the influence of the town or sect to which it belongs will be able to read books on "carpentry".
+The expansion building built next to the "Carpentry Room" must be adjacent to the "Poison Swamp". \nThis building will increase the chance that people within the influence of the town or sect to which it belongs will be able to have a "Flash of insight" when reading "Carpentry" books.
 Arboretum
 The Arboretum is a collection of exotic trees of all kinds,  in different shapes. By working on and looking at them,  A woodworker gains insight and advancement in skill.
-An extension building made of "translucent agar" and built next to the "carpentry room", which must be adjacent to the "dense forest". \nThis building will increase the "carpentry" skill of the people within the influence of the town or sect to which it belongs.
+An extension building made of "Translucent Agar" and built next to the "Carpentry Room", which must be adjacent to the "Jungle". \nThis building will increase the "Carpentry" attainment of the people within the influence of the town or sect to which it belongs.
 Logging Camp
 When it comes to felling trees,  nothing beats organized work gangs armed with a full complement of tools at a logging camp.
-An extension building is built next to the "Carpentry Room" with "Hundred saws" as the core material, which is adjacent to the "woods" and needs to be operated by dispatching villagers. \nWooden materials for carpentrycan be harvested.
+An extension building is built next to the "Carpentry Room" with "Hundred Saws" as the core material, which is adjacent to the "Woodlands" and needs to be operated by dispatching villagers. \nWooden materials for carpentry can be harvested.
 Forest Farm
 A forest farm regulates tree-felling in its area in order to protect the forest. It also cultivates and nurses trees worthy of protection.
-An extension building is built next to the "Carpentry Room" with "Panzansuiryu" as the core material, and it is adjacent to the "woods" and needs to be operated by the villagers. \nYou can harvest rattan and bamboo materials for "carpentry".
+An extension building is built next to the "Carpentry Room" with "Panshan Water Dragon" as the core material, and it is adjacent to the "Woodlands" and needs to be operated by the villagers. \nYou can harvest rattan and bamboo materials for "Carpentry".
 Wood Treatment Klin
 This klin is designed so that it can dry up wood while keeping them cool. Wood treated in it is immune to heat or moisture and can last for a long time.
 An extension building built next to the "Carpentry Room" using "silver bone cold bituminous coal" as the core material. \nThis will enable the adjacent "Carpentry Room" to produce better quality wooden tools.
 Sacred Woods
 This is a diagram created by morphing the roots of sacred trees. As long as it grows from the ground,  when put inside the diagram,  all its properties will be magnified for all to be seen.
-The extension building is built next to the "Carpentry Room" with "sacred wood roots" as the core material, and is required to be adjacent to the "Taishiki Forest". \nThis building will reduce the requirement of "carpentry" skills for manufacturing, repairing and refining wooden tools.
+The extension building is built next to the "Carpentry Room" with "Godwood Roots" as the core material, and is required to be adjacent to the "Taishi Forest". \nThis building will reduce the requirement of "Carpentry" attainment for crafting, repairing and refining wooden tools.
 Herbal Room
 Various medicinal materials are prepared by rolling,  frying,  concentrating,  etc.,  and are made into healing cream,  potions and pills.
 Can make elixirs. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying books on "medical arts". \nThe larger the size of the dispensary, the more the efficiency is increased, but the effects of multiple dispensaries do not stack.
@@ -459,22 +459,22 @@ The Welfare Hospital is a place to receive and relieve those who are poor and si
 This is an extension building built next to the "Herbal Room" and needs to be operated by sending villagers. \nThe main purpose of the building is to sell pills to gain "prestige".
 Animal Hospital
 A hospital that treats livestock and wildlife. Although veterinary halls are inconspicuous,  medical treatments are sometimes connected to human treatments,  and many brilliant medicines have experienced the process of birth and  verification here,  then played their part onto patients.
-An expansion building built next to the "Herbal Room", which needs to be adjacent to the "Beast". \nIt increases the chance that people within the influence of the town or sect to which it belongs will have a "flash of light" when studying books on "healing".
+An expansion building built next to the "Herbal Room", which needs to be adjacent to the "Wild Habitat". \nIt increases the chance that people within the influence of the town or sect to which it belongs will have a "Flash of insight" when studying books on "Medicine".
 Frozen Coffin
 Patient samples are especially important when studying Medicine. However,  human flesh is easy to break after dead,  so the Frozen Coffin is built to preserve the remains of the deceased,  which can be used for years without rot.
-Using "Cold Jade Ice Coffin" as the heart material, the extension building built next to "Herbal Room" needs to be adjacent to "Xuan Bing". \nIt can increase the "medical" attainments of the people within the influence of the town and sect to which it belongs.
+Using "Cold Jade Ice Coffin" as the heart material, the extension building built next to "Herbal Room" needs to be adjacent to "Eternal Ice". \nIt can increase the "Medicine" attainments of the people within the influence of the town and sect to which it belongs.
 Herbal Garden
 A herbal plantation that is modeled after the living environment of wild herbs. The composition of the garden is very particular,  and it is necessary to plan depending on the “yin and yang,  cold and heat,  and five flavors” of the herbs.. 
-An extension building is built next to the "Herbal Room" with "Shikotsuki Tinggi beads" as the core material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \nYou can harvest Yang herbs for "healing".
+An extension building is built next to the "Herbal Room" with "Four Seasons Light Beads" as the core material. It must be adjacent to "Herb Paradise" and villagers must be dispatched to operate it. \nYou can harvest Yang herbs for "Medicine".
 Cultivation Room
 The rarest herbs often associated with specific things. The so-called “medicine cultivation” is to raise those rare herbs with special items to achieve the purpose of cultivation and reproduction.
-An extension building is built next to the "Herbal Room" with "Tong Yuan Bai Qiao Stone" as the heart material. It must be adjacent to "Herbs" and villagers must be dispatched to operate it. \nIt is necessary to dispatch villagers to operate it. You can harvest Yin herbs for "healing".
+An extension building is built next to the "Herbal Room" with "Meridian Opening Stone" as the heart material. It must be adjacent to "Herb Paradise" and villagers must be dispatched to operate it. \nIt is necessary to dispatch villagers to operate it. You can harvest Yin herbs for "Medicine".
 Intelligent Cauldron
 A cauldron that can change the heating power to fit the nature of the medical materials. Let it boil the medical soup,  the heat can be just accurate.
 An extension building is built next to the "Herbal Room" with "Water and Fire Smokeless Charcoal" as the core material. \nThis building will enable the "Herbal Room" adjacent to it to produce better quality pills.
 Shennong Ravine
 The Shennong Ravine is the most spiritual place in the world,  no matter what kind of vegetation,  after transplanted to Shennong Ravine,  it may or may not grow,  it will never die either.
-Using "Shennong's blood" as the heart material, an extension building is built next to the "Herbal Room", which needs to be adjacent to the "Everlasting Spring Stream". \n can reduce the requirement of "medical skill" when making potions.
+Using "Farming God's Blood" as the heart material, an extension building is built next to the "Herbal Room", which needs to be adjacent to the "Everspring Ravine". \n can reduce the requirement of "Medicine" when making potions.
 Cellar
 The cellar was built in the deep and cold underground. There are utensils for the preparation of poisons in the room,  which also breeds highly venomous snakes and plants.
 You can make poisons and quench poisons for items. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Toxicology" books. \nThe larger the size of the chamber, the greater the increase in efficiency, but the effects of multiple chambers do not stack.
@@ -489,22 +489,22 @@ Mad Medics are different,  non-conventional,  and even less respected by the wor
 This is an extension building built next to the "Cellar", which requires the dispatch of villagers to operate. \nThe main purpose of the building is to sell poisons to gain "prestige".
 Animal Testing
 The secret enclosures where livestock and beasts are kept. Whenever the poisoner needs to test the toxicity of the same poison, it is often necessary to brutally poison hundreds of lives here.
-The expansion building built next to the "Cellar" needs to be adjacent to the "Beast Herd". \n can increase the chance that characters within the influence of the town or sect they belong to will have a "flash of light" when studying "Toxicology" books.
+The expansion building built next to the "Cellar" needs to be adjacent to the "Wild Habitat". \n can increase the chance that characters within the influence of the town or sect they belong to will have a "Flash of insight" when studying "Toxicology" books.
 Enclosed Chamber
 The process of poison refining is complicated and takes a long time. It is very easy for others to be injured by the poisonous gas mist produced in the process of refining,  and thus more troubles,  so this building is always hidden from the public.
 An extension building built next to the "Cellar" with "Incense of Avoidance" as the heart material, which must be adjacent to the "Jungle". \nIt can increase the "Toxicology" skill of the people within the influence of the town and sect to which it belongs.
 Miasma Pool
 Condensing and refining poison from toxic pool. In addition to providing poisonous water for refining,  the miasma pool can also be used to breed flowers and insects that are susceptible to toxic infections.
-This is an extension building built next to the "Ghostly Miasma Furnace" and is adjacent to the "Poison Swamp". \nYou can harvest positive poisons for "Toxicology".
+This is an extension building built next to the "Cellar" and "Poison Swamp" using "Ghost Swallowing Miasma Furnace" core matieral. \nYou can harvest Yang herbs for for "Toxicology".
 Infected Zone
 The ruins that people infected by plague live,  also the most ideal place for the toxic items to grow. The abandoned caves are dark,  and the bones are snarling,  stinking,  just like a hell on earth.
-It is built next to the "poison swamp" with the "human feeding cage" as the core material, and the villagers must be dispatched to operate it. \nIt is necessary to send villagers to operate it. You can harvest the poison materials for "Toxicology".
+It is built next to the "Cellar" and "Poison Swamp" using "Feeding Cage" as the core material, and the villagers must be dispatched to operate it. \nYou can harvest the Yin herbs for "Toxicology".
 Blood Pool
 The blood pool is a scary stone pool filled with the blood of many animals and living human beings. Common toxic substances are often digested by blood pool and immediately become rare poisons.
 This is an extension building built next to the "Cellar" using "Bloodstone" as the core material. \nThis building will enable the adjacent room to produce better quality poisons.
 Dragon Spine
 A tall wooden column made of fragrant wood mixed with poison. The column core is hollow,  in which the mysterious dragon spine is burned,  and any poisonous snake that touches it will be tamed.
-This is an extension of the "Mystery Room", which is built next to the "Snake Pit", using the "Wonderful Scented Dragon Wood" as the core material. \nThis building can lower the requirement of "Toxicology" skill when making poisons.
+This is an extension of the "Cellar", which is built next to the "Snake Pit", using the "Wonderful Scented Dragon Wood" as the core material. \nThis building can lower the requirement of "Toxicology" skill when making poisons.
 Weaving Room
 The Weaving Room is small in size but has exquisite gardens and elegant furnishings. It is where the workers do the weavings,  stitchworks,  and designing.
 You can manufacture, repair, and refine brocade products. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "brocade weaving" books. \nThe larger the size of the embroidery house, the more the efficiency is increased, but the effect of multiple embroidery houses does not stack.
