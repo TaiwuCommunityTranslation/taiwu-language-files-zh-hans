@@ -168,7 +168,7 @@ As the Successor of Taiwu cannot start his own school, the reception hall often 
 Must be built next to the "Training Hall" building. Needs to be operated by up to 3 villagers to earn "Prestige". The larger the Reception Room, the more "Prestige" you earn.
 Meditation Wall
 The Meditation Wall is made of extreme ice and crafted cold jade. It's a special place to calm the mind and heart and destroy heart demons. Practicing in front of the wall can simulate a martial artists potential.
-Must be built adjacent to the "Training Hall" building and the "Eternal Ice" resource, using the "Cold Jade Terrace" as the core material. Increases the upper limit of martial talent when performing a "Breakthrough" for characters within the influence of the town and sect they belong to.
+Must be built adjacent to the "Training Hall" building and the "Eternal Ice" resource, using the "Cold Jade Terrace" as the core material. \nIncreases the upper limit of martial talent when performing a "Breakthrough" for characters within the influence of the town and sect they belong to.
 Silence Room
 The Silence Room is hidden in a quiet place. Black clothes are hung on the interior doors and windows to isolate the indoor and outdoor,  so that those who practice Inner Arts can concentrate on one’s mind and forget about the outter world.
 An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Inner Arts".
