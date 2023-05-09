@@ -405,7 +405,7 @@ The iron meteorite is extremely tough that water and fire can not invade. It req
 An extension building built next to the "Forging Room" with the "Sky Iron Plow" as the core material, which must be adjacent to the "Meteor Crater". \nIt can increase the "Smithing" attainments of the people within the influence of the town and sect to which it belongs.
 Washing Pond
 First,  collect the ore in the deposit that has been scattered by the wind and rain,  or that has been broken due to the mining process,  and then wash and re-select with water to obtain more goldstone.
-The extension building is built next to the "Forging Room" using "coarse gold sand" as the core material, and is adjacent to the "stone hill". \nYou can harvest gold and silver materials for "forging".
+The extension building is built next to the "Forging Room" using "Coarse Gold Sand" as the core material, and is adjacent to the "Stone Hills". \nHarvests gold and silver materials for "Smithing".
 Refinary
 After the gold stone is burned into liquid,  impurities are removed by complex techniques,  then pure gold essence can be extracted.
 An extension building is built next to the "Forging Room" with the "Fire Sinking Pond" as the core material, and it must be adjacent to the "Stone Mountain", and villagers must be dispatched to operate it. \nYou can harvest iron materials for "forging".
