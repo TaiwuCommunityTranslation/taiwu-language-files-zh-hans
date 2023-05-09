@@ -408,7 +408,7 @@ First,  collect the ore in the deposit that has been scattered by the wind and r
 The extension building is built next to the "Forging Room" using "Coarse Gold Sand" as the core material, and is adjacent to the "Stone Hills". \nHarvests gold and silver materials for "Smithing".
 Refinary
 After the gold stone is burned into liquid,  impurities are removed by complex techniques,  then pure gold essence can be extracted.
-An extension building is built next to the "Forging Room" with the "Fire Sinking Pond" as the core material, and it must be adjacent to the "Stone Mountain", and villagers must be dispatched to operate it. \nYou can harvest iron materials for "forging".
+An extension building is built next to the "Forging Room" with the "Fire Sinking Pond" as the core material, and it must be adjacent to the "Stone Hills", and villagers must be dispatched to operate it. \nYou can harvest iron materials for "Smithing".
 Mystic Water Treatment
 With seven stone well built in the name of seven stars as the Sun,  the Moon,  Venus,  Jupiter,  Mercury,  Mars and Saturn,  and water collected through them,  we can build the most spiritual weapons.
 This is an extension building built next to the "Forging Room" using the "Dragon King's Water House" as the core material. \nIt will enable the adjacent "Forging Room" to produce better quality metal tools.
