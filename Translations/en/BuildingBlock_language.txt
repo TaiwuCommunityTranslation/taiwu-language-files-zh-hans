@@ -525,10 +525,10 @@ The snakebone loom has a incomparably clever structure,  and the efficiency is m
 An extension building built next to the "Weaving Room" using "Black Serpent's Skeleton" as the core material, which must be adjacent to the "Snake Pit". \nThis building can increase the "Weaving" skill of the people in the area of the town and sect to which it belongs.
 Flowers Fall
 The Flowers Fall is a high and low artificial waterfall filled with pool water soaked with flowers. The waste fur thread washed in it immediately become fresh and beautiful.
-An extension building is built next to the "Weaving Room" with "Hundred Flowers Seeds" as the core material, which is adjacent to the "Flower Valley" and needs to be operated by the villagers. \nYou can harvest plant fabrics for "brocade weaving".
+An extension building is built next to the "Weaving Room" with "Hundred Flowers Seeds" as the core material, which is adjacent to the "Flower Valley" and needs to be operated by the villagers. \nYou can harvest plant fabrics for "Weaving".
 Fabric Park
 A natural garden surrounded by beautiful landscapes. In the garden,  a variety of famous flowers and worms are cultivated,  that rare fabrics can be made here. Various kinds of are and exotic animals are bred,  so that their precious fur can be taken.
-An extension building is built next to the "Weaving Room" with "Exotic Fetal Eggs" as the core material, and it is adjacent to the "Flower Valley", and villagers must be dispatched to run it. \nYou can harvest fur fabric for "brocade weaving".
+An extension building is built next to the "Weaving Room" with "Exotic Fetal Eggs" as the core material, and it is adjacent to the "Flower Valley", and villagers must be dispatched to run it. \nYou can harvest animal fabric for "Weaving".
 KongSang Sect Field
 In the KongSang Sect field,  there are rare silkworms that can spit out colored silk. The color of the silk is mild and the touch is soft. If any fabric can be mixed with this kind of silk,  it will be radiant immediately.
 The extension building next to the "Embroidery Building" is built with "12-color silkworms" as the core material. \nThis will enable the adjacent "Embroidery Building" to produce better quality brocade products.
