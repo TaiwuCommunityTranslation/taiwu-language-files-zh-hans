@@ -19,9 +19,9 @@
 源流
 <color=#brightblue>运起放置其中的奇窍功法时，功法的威力提高3倍。</color>
 刹那
-<color=#brightblue>放置其中的护体功法的施展效果提高100%，</color><color=#brightred>但持续时间降低50%。</color>
+<color=#brightblue>放置其中的护体功法的威力提高100%，</color><color=#brightred>但持续时间降低50%。</color>
 周全
-<color=#brightblue>放置其中的护体功法的持续时间提高100%，</color><color=#brightred>但施展效果降低50%。</color>
+<color=#brightblue>放置其中的护体功法的持续时间提高100%，</color><color=#brightred>但威力降低50%。</color>
 克敌
 <color=#brightblue>放置其中的兵器每当打破敌人的招架，敌人立即抛下手中的兵器切换至空手。</color>
 近杀

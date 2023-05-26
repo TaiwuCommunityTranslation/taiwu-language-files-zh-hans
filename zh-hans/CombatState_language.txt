@@ -101,3 +101,6 @@
 桃花源
 战斗结束后恢复所有消耗的内力
 <color=#lightgrey>位于<color=#brightblue>桃源</color>地形时，战斗结束后恢复所有消耗的内力</color>
+无命奇毒
+坏血断肠
+剧恶深苦
