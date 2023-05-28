@@ -1,13 +1,16 @@
 Barranca
 The uninhabited valley has no way out and no door in. There are many apes and monkeys in the valley, which seem to be humane and often whistle in the valley, sounding like "Yan Xuan".
+null
 Capital
 The Capital is the economic and political center of the Middle Kingdom,  croweded with the rich and powerful.
 Sangokuji Temple
 Xiangguo Temple was built in the Northern Qi Dynasty, the first royal monastery, incense karma such as the Ganges, \n after the dynastic changes, but still Sanskrit music, solemn ceremonies, sandalwood inundation, \n is actually a view to view the world's beings of the temple.
+Wangwu Cave
 Chengdu
 Chengdu,  known as “the land of abundance“,  has a mild climate fostering brilliant talents. Legend has it that celestial beings are living on the extraordinary Emei Mountain.
 Zhaojue Temple
 Zhaojue Temple was originally the former residence of Sima Dongchang of the Han Dynasty, and was changed to a Buddhist temple during the Tang Dynasty, taking the name Jian Yuan Temple, which was given the name "Zhaojue" in the period from \n to Xuanzong, and is used again today.
+Qingcheng Cave
 Guizhou
 Guilin is a picturesque place.It is too beautiful to be appreciated all at once. “East or west,  Guilin landscape is the best“,  “The scenary of Guilin is the most adorable of all” are common compliments.
 Xiangshan Temple
@@ -24,6 +27,7 @@ Guangzhou
 Guangzhou is an agglomeration of three minor cities. Many foreign merchants gathered in Guangzhou,  followed by various kinds of eccentric and bizarre people.
 Xilaian
 It is said that Bodhidharma, the 28th generation of Buddhism, followed the Dharma metaphor and spread the Dharma and Zen from the west, staying here after \n and establishing Xilaian as the first dojo and practicing Dharma.
+Luofu Cave
 Qingzhou
 Qingzhou is one of “the nine ancient states“,  towering the east part of China. Qingzhou gets its name from Yin-Yang tradition,  which argues that “Wood represents the east and Qing or “green” represents the wood.“
 Yongxing Temple
@@ -44,6 +48,7 @@ Qinzhou
 Qinzhou is located on the western border. Its uncivilized nature allows the manipulation of Vajrayana to turn it into the stepstone of the Old Zhangzhung Empire’s rejuvenation.
 Nanguosi
 The head of the mountain Nan Guo Temple, water number north flowing spring. \n because it is located in the Qinzhou City, South Guo and named, the temple has a spring and autumn cypress, the upper branches of the brush green clouds, the center of a dozen around.
+Xicheng Cave
 Dali
 People in Dali are unsophiscated and committed in Buddhism. Dali is comprised of a great number of clans. These clans have amicable relationships. Together they prosper.
 Shongshang Temple
@@ -52,10 +57,16 @@ Shouchun
 Shouchun is the capital of the Huainan area and it is easy to control the surrounding area from there. Both the Chu people and Tofu originates there.
 Dongzenji Temple
 East Zen Temple is a large scale, the front of the floating figure a few feet high, in the hall, the hall after the pavilion, \n left and right for the gallery, for the Dharma Hall, for the abbot's room, for the bell and drum tower.
+Xixuan Cave
 Hangzhou
 The most important state in the southeast is said to be Hangzhou,  which has been prosperous since ancient times.
 Lingyin Temple
 When the Indian monk Hui Li first came to Hangzhou, he saw Fei Lai Feng and said it was a place where "immortal spirits are hidden", so he built a temple facing the mountain and named it "Ling Yin". \The temple is one of the "Five Mountains" of Zen Buddhism in Jiangnan, with thousands of halls and corridors, and the temple is always filled with fragrant incense and prayers and the clear sound of Sanskrit.
+Weiyu Cave
+ Chicheng Cave
+ Juqu Cave
+ Linwu Cave
+ Kuocang Cave
 Yangzhou
 The three cities of Yangzhou is filled by pleasure crafts afloat and songs at night. So good that a poet once declared that two thirds of the night’s beauty belongs here.
 Daimyoji Temple
