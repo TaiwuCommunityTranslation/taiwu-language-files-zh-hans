@@ -19,9 +19,9 @@ Slow
 Origin
 <color=#brightblue>When a Nadis skill is placed here, it's power increases by 3 times.</color>
 Flash
-<color=#brightblue>The cast effect of Aegis skills placed in here is increased by 100%,</color> <color=#brightred>but their duration is decreased by 50%</color>
+<color=#brightblue>The power of the Aegis skill placed in it is increased by 100%,</color><color=#brightred>but the duration is reduced by 50%.</color>
 Protection
-<color=#brightblue>The duration of Aegis skills placed in here is increased by 100%,</color> <color=#brightred>but their cast effect is decreased by 50%</color>
+<color=#brightblue>The duration of the Aegis skill placed in it is increased by 100%,</color><color=#brightred>but the power is reduced by 50%.</color>
 Shake
 <color=#brightblue>When a weapon placed in here breaks enemy's Deflect, they will immediately drop their weapon and switch to Bare Hands.</color>
 Burst
