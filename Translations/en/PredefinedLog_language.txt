@@ -1,2 +1,9 @@
 Wiping secret data
 Due to the detection of illegal secret data, it has been deleted
+Failed to load MOD configuration
+Loading Mod - {0} Mod config file at {1} failed, skipped.\nError message: {2}
+Failed to load mod config file at {0}, skipped. \nError message: {1}
+Failed to load MOD settings
+Loading Mod - {0} Mod settings file at {1} failed, skipped and removed.\nError message: {2}
+Failed to load MOD global settings
+Failed to load mod global settings file at {0}, skipped and removed.\nError message: {1}
