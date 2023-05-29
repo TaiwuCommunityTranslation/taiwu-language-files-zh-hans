@@ -137,8 +137,8 @@ Rattan Armguard
 Jade Armguard
 Cloth Armguard
 Fur Clothing
-Clothing
-Cloth Clothing
+Clothes
+Woven Clothing
 Wooden Mount
 Mount
 Rattan Mount
