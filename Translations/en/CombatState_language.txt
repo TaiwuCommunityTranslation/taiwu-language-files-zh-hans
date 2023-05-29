@@ -101,3 +101,6 @@ Increase the amount of toxin applied to the enemy in battle by 100% and increase
 The Peach Blossom
 Recover all consumed internal energy after the battle
 <color=#lightgrey>When you are in <color=#brightblue>Wonderland</color> tiles, all consumed internal energy will be restored after the battle</color>
+Wuming's Mythic Poison
+Corrupted Blood
+Bitter Suffering
