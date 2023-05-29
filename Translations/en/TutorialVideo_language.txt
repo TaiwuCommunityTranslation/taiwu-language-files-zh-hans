@@ -13,7 +13,7 @@ Equip a Thin horse
 Restore weight
 Weight limit increases
 Normal movement is resumed
-After equipping the mount, the weight limit is increased and the mobility is restored to normal
+After equipping a mount, the weight limit increases
 Mobility back to normal
 Start again
 Opening Industry
