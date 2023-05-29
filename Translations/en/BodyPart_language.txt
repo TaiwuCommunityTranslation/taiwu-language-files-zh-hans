@@ -1,12 +1,14 @@
 Torso
-Each sealed Acupoint reduces Inhale limit by 20%
+Each Sealed Acupoint reduces the upper limit of Inhale by 15%\n\nWhen there are 4 or more Sealed Acupoints on the chest, the skills that require chest to be performed will be unusable.
 Waist
-Each sealed Acupoint reduces Stance limit by 20%
+Each Sealed Acupoint reduces the upper limit of Stance by 15%\n\nWhen there are 4 or more Sealed Acupoints on the waist, the skills that require waist to be performed will be unusable.
 Head
-Each sealed Acupoint reduces Style limit by 2
+Each Sealed Acupoint reduces the upper limit of style storage by 1\n\nWhen there are 4 or more Sealed Acupoints on the head, the skills that require head to be performed will be unusable.
 L. Arm
-Each 3 sealed Acupoints in total on both arms reduce the attack token limit by 1
+For every total of 4 Sealed Acupoints on both arms your attack token limit will be reduced by 1.\n\nWhen there are 4 Sealed Acupoints on the left arm, the skills that require left arm to be performed will be unusable.
 R. Arm
+For every total of 4 Sealed Acupoints on both arms your attack token limit will be reduced by 1.\n\nWhen there are 4 Sealed Acupoints on the right arm, the skills that require right arm to be performed will be unusable.
 L. Leg
-Each sealed Acupoint reduces Stamina limit by 10%
+Each Sealed Acupoint reduces the upper limit of Stamina by 5%\n\nWhen there are 4 or more Sealed Acupoints on the left leg, the skills that require left leg to be performed will be unusable.
 R. Leg
+Each Sealed Acupoint reduces the upper limit of Stamina by 5%\n\nWhen there are 4 or more Sealed Acupoints on the right leg, the skills that require right leg to be performed will be unusable.
