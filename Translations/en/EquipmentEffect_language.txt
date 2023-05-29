@@ -37,9 +37,9 @@ This weapon causes 20% more poison damage to enemies.
 Spiritual Use
 20% reduction in the requirement to use this weapon
 Blood Kills
-When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the enemy suffers 1 additional level of External Injury.
+When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct External Damage.
 Qi killing
-When attacking with this weapon or performing a Break Skill, if this weapon is damaged, the enemy suffers 1 additional level of Internal Injury.
+When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct Internal Damage.
 Blood Transfusion
 When attacking or performing a Break Skill with this weapon, the attacker takes 20% less External Injury from Reflect.
 Qi Transformation
@@ -81,9 +81,9 @@ This equipment has 50% higher Hardness, but 50% lower TOU.
 This equipment causes 20% more poison damage to enemies.
 20% reduction in the requirements to use this equipment.
 Physical Protection
-When using this piece of gear to defend against enemy attacks or Break Skill, if this gear is damaged, the External Injury inflicted by the enemy is reduced by 1 level.
+When using this armor to resist the enemy's attack or Break skill if this armor is damaged, the direct External Damage inflicted by the enemy is reduced by 30%.
 Qi·Protection
-When using this piece of gear to defend against enemy attacks or Break Skill, if this gear is damaged, the internal injury inflicted by the enemy is reduced by 1 level.
+When using this armor to resist the enemy's attack or Break skill if this armor is damaged, the direct Internal Damage inflicted by the enemy is reduced by 30%.
 Retributing Physical
 When using this piece of gear to Reflect enemy attacks or Break skill, the External Injury damage reflected by the user is increased by 20%.
 Retributing Qi
