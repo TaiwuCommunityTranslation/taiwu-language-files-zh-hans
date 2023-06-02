@@ -2703,7 +2703,7 @@
   "LK_MapAreaMousetip_Infected": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_rumo> There are {0} people here who are possessed. </color> ",
   "LK_MapAreaMousetip_PurpleBamboo": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_zizhu> This site has purple bamboo incarnation activities. </color> ",
   "LK_MapAreaMousetip_Taiwu": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_taiwucun> Taiwu Village is located here. </color> ",
-  "LK_MapAreaMousetip_LegendaryBook": "<color=#pinkyellow><SpName=mousetip_huidian><SpName=mousetip_qishurumo>There are {0} people here who are obsessed with Legendary Manuals.</color>",
+  "LK_MapAreaMousetip_LegendaryBook": "<color=#pinkyellow><SpName=mousetip_huidian><SpName=mousetip_qishurumo>There are {0} people in here who are obsessed with Legendary Manuals.</color>",
   "LK_MapAreaMousetip_Broken": "<color=#brokenarea><SpName=mousetip_huidian><SpName=mousetip_posui>This area has been corrupted by the XiangShu.</color>",
   "LK_MapAreaMousetip_BrokenLevel": "<SpName=mousetip_huidian><SpName=mousetip_posui>This area has been corrupted by the Xiangshu, and the local Xiangshu minions are at level {0}.",
   "LK_MapAreaMousetip_introduction": " <color=#grey> Sentence introducing this location </color> ",
