@@ -15,4 +15,4 @@ Necro
 Necrotoxin, infiltrates deep into the spinal cord, gnawing away flesh and blood.\nIt continuously generates Acritoxin, and reduces External Defense depending on the amount of Necrotoxin markers.
 Oneirotoxin
 Oneiro
-Oneirotoxin, it clouds and confuses the mind. \n It continuously generates Umbritoxin and reduces your Int. Defense in battle.
+Oneirotoxin, it clouds and confuses the mind. \nIt continuously generates Umbritoxin, and reduces Internal Defense depending on the amount of Oneirotoxin markers.
