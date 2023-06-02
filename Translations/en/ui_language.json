@@ -3011,7 +3011,7 @@
   "LK_EquipmentEffect_Common": "Common",
   "LK_EquipmentEffect_Item": "<color=#brightblue>{0}</color>: {1}",
   "LK_EquipmentEffect_None": "None",
-  "LK_Treasure_Find_Tips_Title": "Digging and searching",
+  "LK_Treasure_Find_Tips_Title": "Digging",
   "LK_Treasure_Find_Tips_Desc": "If you spend some time, you can explore this place for possible hidden objects...",
   "LK_Treasure_Find_Once_Tips_Desc": "If you spend some time, you can explore this place for possible hidden objects...\n\nDigging Once Time Cost: <SpName=sp_icon_shijian>3",
   "LK_Treasure_Find_Series_Tips_Desc": "If you spend some time, you can explore this place for possible hidden objects...\n\nDigging Once Time Cost: <SpName=sp_icon_shijian>3\n\nKeep digging until you find a hidden item, or run out of time this month...",
