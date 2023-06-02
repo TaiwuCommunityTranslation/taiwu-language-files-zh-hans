@@ -9,7 +9,7 @@ Cryo
 Cryotoxin, chills through the meridians, and halts the circulation\nIt triggers after a 100% of Inhale is used in combat, generating Oneirotoxin, and worsening existing Internal Injuries depending on the amount of Cryotoxin markers.
 Pyrotoxin
 Pyro
-Pyrotoxin, scorches every orifice over and over. \n Triggers after a certain amount of Stance changes, which generates Necrotoxin and worsens some External Injuries depending on its amount.
+Pyrotoxin, scorches every orifice over and over. \nIt triggers after a 100% of Stance is used in combat, generating Necrotoxin, and worsening existing External Injuries depending on the amount of Pyrotoxin markers.
 Necrotoxin
 Necro
 Necrotoxin, infiltrates deep into the spinal cord, gnawing away flesh and blood.\n It continuously generates Acritoxin and reduces your External Defense.
