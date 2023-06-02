@@ -3932,7 +3932,7 @@ If the character is simultaneously affected by Cryotoxin, Oneirotoxin, and Acrit
 Bitter Suffering
 Poison Spreads Oneirotoxin
 If the character is simultaneously affected by Cryotoxin, Oneirotoxin, and Pyrotoxin markers, when Cryotoxin and Pyrotoxin activates, based on the number of Oneirotoxin markers, the character recieves a debuff that reduces random Accuracy stats, and spreads some of their Oneirotoxin to party members assisting in the battle. The more Cryotoxin, Oneirotoxin, and Pyrotoxin markers there is, the more times this toxin effect can be activated in battle.
-Poisoned Soul
+PS
 Poison Seals Aegis
 If the character is simultaneously affected by Umbritoxin, Oneirotoxin, and Necrotoxin markers, when Umbritoxin is activated, the character's Aegis skill will be removed, and then, based on the number of Oneirotoxin and Necrotoxin markers, 1 random Aegis skill of the character will be sealed for a long time. The more Umbritoxin, Oneirotoxin, and Necrotoxin markers there is, the more times this toxin effect can be activated in battle.
 Disturbed Heart
