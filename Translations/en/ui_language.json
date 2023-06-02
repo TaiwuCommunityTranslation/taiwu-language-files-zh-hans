@@ -2705,7 +2705,7 @@
   "LK_MapAreaMousetip_Taiwu": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_taiwucun> Taiwu Village is located here. </color> ",
   "LK_MapAreaMousetip_LegendaryBook": "<color=#pinkyellow><SpName=mousetip_huidian><SpName=mousetip_qishurumo>There are {0} people here who are obsessed with Legendary Manuals.</color>",
   "LK_MapAreaMousetip_Broken": "<color=#brokenarea><SpName=mousetip_huidian><SpName=mousetip_posui>This area has been corrupted by the XiangShu.</color>",
-  "LK_MapAreaMousetip_BrokenLevel": "<SpName=mousetip_huidian><SpName=mousetip_posui>The area has been corrupted by the XiangShu, and the local XiangShu minions are at {0} level.",
+  "LK_MapAreaMousetip_BrokenLevel": "<SpName=mousetip_huidian><SpName=mousetip_posui>This area has been corrupted by the Xiangshu, and the local Xiangshu minions are at level {0}.",
   "LK_MapAreaMousetip_introduction": " <color=#grey> Sentence introducing this location </color> ",
   "LK_Multiply_Select": "Mass action",
   "LK_MultiplySelect_Exit": "Cancel mass action",
