@@ -2699,7 +2699,7 @@
   "LK_MapAreaMousetip_Title": "Location Name",
   "LK_MapAreaMousetip_Adventure": "「{0}」*{1}",
   "LK_MapAreaMousetip_SpritualDebt": "<color=#pinkyellow><SpName=mousetip_huidian><SpName=mousetip_enyi>Regional Favor: {0}</color>",
-  "LK_MapAreaMousetip_Station": " <color=#pinkyellow>  <SpName=mousetip_huidian>  <SpName=mousetip_yizhan> There's an open Station in this location. </color> ",
+  "LK_MapAreaMousetip_Station": "<color=#pinkyellow><SpName=mousetip_huidian><SpName=mousetip_yizhan>There's an open Station in this location.</color>",
   "LK_MapAreaMousetip_Infected": "<color=#pinkyellow><SpName=mousetip_huidian><SpName=mousetip_rumo>There are {0} people in here who are possessed.</color>",
   "LK_MapAreaMousetip_PurpleBamboo": "<color=#pinkyellow><SpName=mousetip_huidian><SpName=mousetip_zizhu>Activities of Purple Bamboo Avatar have been noticed in this area.</color>",
   "LK_MapAreaMousetip_Taiwu": "<color=#pinkyellow><SpName=mousetip_huidian><SpName=mousetip_taiwucun>Taiwu Village is located in here.</color>",
