@@ -2657,7 +2657,7 @@
   "LK_Fuyu_Sowrd_Use_Tips": "Using the FuYu Hilt on a severely wounded Possessed person in battle to have a certain chance of restoring his sanity and relieving him of his Possessed state...",
   "LK_Combat_Fuyu_Sowrd_Use_Tips": "Save with the FuYu Hilt",
   "LK_Body_Part_Tips_Title": "Body Part",
-  "LK_Body_Part_Tips_Content": "Each part of the character's body can receive up to<color=#pinkyellow>6</color>External injuries, and<color=#pinkyellow>6</color>Internal injuries；\nWhen the amount of injuries sustained by a part reaches<color=#pinkyellow>5</color>，some of the character's attributes will be<color=#brightred> significantly reduced </color>；\nWhen the amount of injuries sustained by a part reaches<color=#pinkyellow>6</color>, Martial Arts that require that body part to perform <color=#darkred>will nor be performed</color>.",
+  "LK_Body_Part_Tips_Content": "Each part of the character's body can receive up to <color=#pinkyellow>6</color> External injuries, and <color=#pinkyellow>6</color> Internal injuries;\nWhen the amount of injuries sustained by a part reaches <color=#pinkyellow>5</color>, some of the character's attributes will be <color=#brightred>significantly reduced </color>;\nWhen the amount of injuries sustained by a part reaches <color=#pinkyellow>6</color>, Martial Arts that require that body part to perform <color=#darkred>will be unavailable</color>.",
   "LK_Building_Overview_Filter_Village": "Taiwu Village",
   "LK_Building_Overview_Filter_Resource": "Resource",
   "LK_Building_Overview_Filter_CombatSkill": "Martial Arts",
