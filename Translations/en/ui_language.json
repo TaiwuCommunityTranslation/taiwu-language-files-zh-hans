@@ -1253,7 +1253,7 @@
   "LK_Add_Poison_Type_Different": "<color=#red>Different type</color>",
   "LK_Add_Poison_Same": "<color=#red>Already used</color>",
   "LK_Remove_Poison_Not_Meet": "<color=#red>Unable to detoxify</color>",
-  "LK_Poison_Identify": "Identify Poison",
+  "LK_Poison_Identify": "Test",
   "LK_Poison_Identify_No_Target": "<color=#brightred>No target...</color>",
   "LK_Poison_Identify_Tip": "Using silver needles, you can detect the possible presence of poisons on an item. <color=#brightred>If the user's Toxicology attainment is too low, the poison might go undetected...</color>\nSilver Needles: {0}/1\nTime Cost: <SpName=mousetip_shijian>{1}/1",
   "LK_Poison_Identify_HasPoison": "<color=#darkpurple>Poisons identified</color>",
