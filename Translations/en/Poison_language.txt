@@ -3,7 +3,7 @@ Acri
 Acritoxin, being the most potent, unhinges a mind and overwhelms a man\nIt triggers after 6 weapon attacks in combat, generating Pyrotoxin, and inflicting External Injuries depending on the amount of Acritoxin markers.
 Umbritoxin
 Umbri
-Umbritoxin, mounts with latent intervals, lasting a long time.\nIt triggers after moving a certain distance in battle, which generates Cryotoxin and deals Internal damage depending on its amount. 
+Umbritoxin, mounts with latent intervals, lasting a long time.\nIt triggers after moving 3 distance in total in combat, generating Cryotoxin and inflicting Internal Injuries depending on the amount of Umbritoxin markers.
 Cryotoxin
 Cryo
 Cryotoxin, chills through the meridians, and halts the circulation\n It triggers a certain amount of Qi is used in combat, which generates Oneirotoxin and worsens some Internal injury depending on its amount.
