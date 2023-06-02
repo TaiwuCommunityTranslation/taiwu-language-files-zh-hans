@@ -2665,7 +2665,7 @@
   "LK_CombatSkill_Direction_Direct": "Orthodox",
   "LK_CombatSkill_Direction_Reverse": "Unorthodox",
   "LK_Building_LockTips": "Study <color=#GRADECOLOR_{0}> \"{1}\" </color> Part 1",
-  "LK_Building_DefaultUnLockTips": "Unlocked after completing the corresponding main storyline",
+  "LK_Building_DefaultUnLockTips": "Unlocked through story",
   "LK_NpcWord_Wearing_Clothing_Bug": "I heard that there is something in the world that is more terrible than the phase pivot,\n seems to be called Bago ...... you also met it ...... when it is really hard for you,\n apologize to you! Bago will definitely be destroyed!",
   "LK_NpcWord_Wearing_Clothing_Tutorial": "The world of Taiwu is so difficult to understand, and you've played it without a guide. \nYou are truly a genius for the ages, admirable! The guide will definitely be perfected!",
   "LK_WorldMap_Stay": "Staying",
