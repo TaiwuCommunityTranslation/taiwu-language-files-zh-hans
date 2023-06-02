@@ -1,6 +1,6 @@
 Acritoxin
 Acri
-Acritoxin, being the most potent, unhinges a mind and overwhelms a man\nIt triggers a certain number of times per battle, which generates Pyrotoxin and deals External damage depending on its amount.
+Acritoxin, being the most potent, unhinges a mind and overwhelms a man\nIt triggers after 6 weapon attacks, generating Pyrotoxin, and inflicting External Injuries depending on the amount of Acritoxin markers.
 Umbritoxin
 Umbri
 Umbritoxin, mounts with latent intervals, lasting a long time.\nIt triggers after moving a certain distance in battle, which generates Cryotoxin and deals Internal damage depending on its amount. 
