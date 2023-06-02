@@ -2033,7 +2033,7 @@
   "LK_Book_Shop_Favoribility_List": "Favor List",
   "LK_Book_Shop_Approve_List": "Approval List",
   "LK_Villager_WorkStatus_Unemployed": "Idle",
-  "LK_Villager_WorkStatus_Working": "Working{0}{1}",
+  "LK_Villager_WorkStatus_Working": "At {0} {1}",
   "LK_Villager_WorkStatus_NotOldEnough": "Young",
   "LK_Villager_WorkStatus_InTaiwuGroup": "Team",
   "LK_Villager_WorkStatus_ProtectingTaiwuVillage": "Guarding",
