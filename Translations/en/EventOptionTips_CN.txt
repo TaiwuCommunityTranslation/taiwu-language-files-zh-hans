@@ -16,7 +16,7 @@ When the secret news happened, {0} was a victim
 Taiwu's standpoint is {0}
 {0}'s Regional Favor is at: {1}%
 Experience required: {0}
-The opponent's purity isn't higher than {0}
+{0}'s purity is not lower than Taiwu's
 Amount of Taiwu's teammates is less than {0}
 {0} isn't a Taiwu villager
 {0} needs to be a member of the sect
@@ -38,3 +38,5 @@ Favor required: {0}
 Experience required: {0}
 {0} has to be either injured, poisoned, or have a Qi Disorder
 {0} needs to be an adult
+{0} needs to have a free consumption slot
+Taiwu needs to have a free consumption slot
