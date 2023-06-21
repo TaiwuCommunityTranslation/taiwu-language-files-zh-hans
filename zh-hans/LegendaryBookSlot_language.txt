@@ -9,7 +9,7 @@
 绝旨
 <color=#brightblue>放置其中的功法在战斗开始时，威力会发生变化：运用者的该功法的威力增加40%；敌人的该功法的威力减少40%。</color>
 收置
-<color=#brightblue>放置其中的功法只占用1格功法栏，</color><color=#brightred>但功法的使用需求提高25%。</color>
+<color=#brightblue>放置其中的功法只占用1格功法栏，</color><color=#brightred>但功法的使用需求提高50%。</color>
 风身
 <color=#brightblue>运起放置其中的功法时，功法会在战斗开始时无消耗且无需施展准备地自动生效。</color>
 云涌
@@ -17,7 +17,7 @@
 静水
 <color=#brightblue>放置其中的功法在静止时消耗的身法值降低50%，</color><color=#brightred>但移动时消耗的身法值提高100%。</color>
 源流
-<color=#brightblue>运起放置其中的奇窍功法时，功法的威力提高3倍。</color>
+<color=#brightblue>运起放置其中的奇窍功法时，功法的威力提高2倍。</color>
 刹那
 <color=#brightblue>放置其中的护体功法的威力提高100%，</color><color=#brightred>但持续时间降低50%。</color>
 周全

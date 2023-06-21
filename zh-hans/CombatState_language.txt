@@ -84,7 +84,7 @@
 提气、架势恢复提高50%
 <color=#lightgrey>位于<color=#brightblue>林地、森林</color>地形时，提气、架势恢复大幅提高</color>
 空行涧
-脚力恢复速度提高50%
+脚力恢复速度提高100%
 <color=#lightgrey>位于<color=#brightblue>河滩、河谷、溪谷</color>地形时，脚力恢复速度大幅提高</color>
 烟波荡
 身法蓄力速度提高50%
