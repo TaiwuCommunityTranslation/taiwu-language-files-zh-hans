@@ -17,11 +17,11 @@ Your argument can reduce value of all of your opponent's tiles 1 tile away on ho
 Sideswipe
 Your argument can reduce value of all of your opponent's tiles anywhere on horizontal and vertical tiles from it
 Intimidation
-When your Question or Doubt turns into your argument, eliminate the opponent's arguments Horiz. Vert. and Diag. within 1 tile range.
+When your Question or Doubt turns into your argument, eliminate the opponent's Horiz. Vert. and Diag. arguments with lower value
 Defamation
-You can use it to eliminate 1 of your opponent's arguments in a horizontal, vertical, or diagonal 1 tile range that has a lower value than your own argument's.
+Can be used to eliminate 1 lower value argument of the opponent that's within 1 tile range of your argument Horiz. Vert. or Diag.
 Reprimand
-When your Question or Doubt turns into your argument, eliminate the opponent's arguments that are Horiz. or Vert. (can't go over higher value arguments)
+When your Question or Doubt turns into your argument, eliminate the lower value argument of the opponent that are Horiz. or Vert. (can't go over higher value arguments)
 Gotcha
 When your Question or Doubt is answered, the cooldown of the manual used by the opponent for the answer is increased by 1 turn.
 Exaggerate
