@@ -7,3 +7,7 @@ Failed to load MOD settings
 Loading Mod - {0} Mod settings file at {1} failed, skipped and removed.\nError message: {2}
 Failed to load MOD global settings
 Failed to load mod global settings file at {0}, skipped and removed.\nError message: {1}
+Combat behavior with negative remaining frames
+The current combat state has a negative number of remaining frames, this behavior has been skipped
+Exceptions in the runtime of aspiration animation
+When executing {1} skill of {0} aspiration, an exception occurs when the animation is running and the current skill execution has been skipped. \n error message reported: {2}
