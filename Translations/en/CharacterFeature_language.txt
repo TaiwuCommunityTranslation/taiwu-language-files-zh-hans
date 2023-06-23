@@ -472,25 +472,25 @@ Has gained a glimpse into the mysteries of the Big Dipper....
 Praise of Lion Face
 Your names has been spread by Lion Face......
 Head Agony
-The head and neck are considered destroyed when the internal wounds to the head and neck reach 4 levels, and will not disappear until the victim has healed all internal wounds to the head.
+A serious wound to the Head, that makes Accuracy and Resolve of every 2nd weapon attack of the victim to be greatly reduced. If the number of Internal Injuries on the victim's Head reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the Internal Injuries on their Head.
 Head Injured
-If the eye and ear are severely injured, the victim's hitbox and resolution on the second weapon attack are greatly reduced, and the victim's head and neck are considered destroyed when the trauma to the head and neck reaches 4 levels, and the trauma does not disappear until the victim has healed all the trauma to the head.
+A serious wound to the Head, that makes Accuracy and Resolve of every 2nd weapon attack of the victim to be greatly reduced. If the number of External Injuries on the victim's Head reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the External Injuries on their Head.
 Torso Agony
-A serious injury to the Torso, where the traumatized person's qi cannot exceed 60% and the traumatized person's internal injuries to the Torso reach 4 levels is considered to be a disfigured Torso, and this serious injury will not disappear until the traumatized person has healed all the internal injuries to the Torso.
+A serious wound to the Torso, that makes victim unable to exceed 60% of their max Inhale. If the number of Internal Injuries on the victim's Torso reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the Internal Injuries on their Torso.
 Torso Injured
-A severe injury to the Torso, where the traumatized person is unable to lift more than 60% of his or her Qi, and where the trauma to the traumatized person's Torso reaches 4 levels is considered to be a disfigured Torso, and this severe injury will not disappear until the traumatized person has healed all the trauma to the Torso.
+A serious wound to the Torso, that makes victim unable to exceed 60% of their max Inhale. If the number of External Injuries on the victim's Torso reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the External Injuries on their Torso.
 Waist Agony
-A serious injury to the waist and abdomen, where the traumatized person's frame cannot exceed 60% and the internal injuries of the traumatized person's waist and abdomen reach 4 levels is considered as waist and abdomen mutilation, and this serious injury will not disappear until the traumatized person has healed all the internal injuries of the waist and abdomen.
+A serious wound to the Waist, that makes victim unable to exceed 60% of their max Stance. If the number of Internal Injuries on the victim's Waist reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the Internal Injuries on their Waist.
 Waist Injured
-A serious injury to the waist and abdomen, where the traumatized person's frame cannot exceed 60% and the trauma to the traumatized person's waist and abdomen reaches 4 levels is considered as waist and abdomen mutilation, and this serious injury will not disappear until the traumatized person has healed all the trauma to the waist and abdomen.
+A serious wound to the Waist, that makes victim unable to exceed 60% of their max Stance. If the number of External Injuries on the victim's Waist reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the External Injuries on their Waist.
 Arm Agony
-The arm is considered to be crippled when the shoulder and arm are severely injured, the recipient cannot have more than 6 stances, and the internal injuries of the recipient's arm reach 4 levels; this severe injury will not disappear until the recipient has healed all the internal injuries of the arm.
+A serious wound to the Arm, that makes victim unable to have more than 6 styles at once. If the number of Internal Injuries on the victim's Arm reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the Internal Injuries on their Arm.
 Arm Injured
-A serious injury to the shoulder and arm, where the traumatized person cannot have more than 6 stances, and where the trauma to the traumatized person's arm reaches 4 levels is considered a mutilation of the arm until the traumatized person has healed all the trauma to the arm.
+A serious wound to the Arm, that makes victim unable to have more than 6 styles at once. If the number of External Injuries on the victim's Arm reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the External Injuries on their Arm.
 Leg Agony
-If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the internal injuries of the injured person's leg and foot reach 4 levels, the leg and foot are considered to be crippled until the injured person has healed all the internal injuries of the leg and foot, then the severe injury will disappear.
+A serious wound to the Leg, that halves victim's Footwork bar. If the number of Internal Injuries on the victim's Leg reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the Internal Injuries on their Leg.
 Leg Injured
-If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the trauma to the injured person's leg and foot reaches 4 levels, the leg and foot is considered to be mutilated until the injured person has healed all trauma to the leg and foot.
+A serious wound to the Leg, that halves victim's Footwork bar. If the number of External Injuries on the victim's Leg reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the External Injuries on their Leg.
 White Forehead Snake
 White forehead snake - You played with a White Forehead snake every day, and are now immune to poison
 God helps good karma
@@ -711,3 +711,17 @@ Sixty-Nine Tribulations
 Mysteries give birth to all things, and ninety-nine return to one. If you want to ascend to the heavenly path, then walk on the earth...
 Seventy-Nine Heavenly Calamities
 Mysteries give birth to all things, and ninety-nine return to one. Want to ascend to the heavenly way, and finally overcome the catastrophe...
+Sins are deep
+Nine lifetimes of reincarnation have led to evil consequences, constant bad karma and loneliness.
+deep disaster and extended misfortune
+Nine lifetimes of reincarnation, and become the evil consequences, leading to disaster and attracting bad luck, the legacy of a million years.
+Devil in the Dark
+Nine lifetimes of reincarnation have led to evil consequences, brutality and rebellion.
+Mind-rattled remnants of God
+Nine lifetimes of reincarnation have led to evil consequences, and the heart has become evil and delusional, and the life of the gods is injured and disabled.
+Kill the life and break the mind
+Nine lifetimes of reincarnation, and become the fruit of evil, to help the evil-doer for abuse, violence and killing.
+Tai Yin Xuan Corpse
+With the law of the Taiyin, the Taiyin Xuan Corpse is refined, invulnerable to blades and spears, water and fire, and will continue to pursue the most persistent things and things in life...
+Ghost Blood Yin Body
+The ancient dog Rong has a secret technique, which can corrode the human body with sorcery, turning people into ghosts, losing their minds, making them immortal, and they can be driven by them from now on. \nBut because Ji Xi was still in her mother's womb when she was eroded by the secret art, she was born and died, and met a chance that never happened in a million years. \nThe ghost blood yin body is the source of all ghost powers in the world. If the body grows, the ghost power will grow. If the body disappears, the ghost power will disappear...
