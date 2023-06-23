@@ -76,7 +76,7 @@ There must be a station here that can go to Taiwu Village, I need to visit it as
 Find a path to Taiwu
 Go to <color=#orange>Taiwu Village</color>
 Explore the map and go to the <color=#orange>「Taiwu Village」</color>.
-I have no time to care about that coachman, gotta find the Taiwu Village...
+I heard that Taiwu Village is here, so let's go there quickly...
 Rebuilding the Ancestral Hall
 Build the <color=#orange>Taiwu Ancestral Hall</color> 
 On 「Taiwu Village」 tile click on the <color=#orange>Industry Icon</color> to enter the industry screen. Click on the <color=#orange>「Build」</color> button on the bottom right to enter the construction mode, and select the <color=#orange>「Ancestral Hall」</color>. Make sure that you have enough resources to build it. To build it, you can either manually select workers or click on the 「Auto Arrange」 button to automatically set the most efficient workers possible. Then press the 「Start Construction」 button and select the available space on the industry screen to start building. You will have to wait a certain amount of time before that building is finished.
@@ -323,3 +323,254 @@ Jiangnan Temples
 Travel to <color=#orange>Jiangnan</color> to visit temples.
 Jiangbei Temples
 Travel to <color=#orange>Jiangbei</color> to visit temples.
+Strange Poison Remedy
+Did not agree to drug test with Liao Wuming
+Wuming's Search
+Liao Wuming first search, before the appearance of the over the moon event
+Wuming's Drug Test
+Liao Wuming went to {0} to search
+Will start the first test
+Look for the Sect Master
+Need to return to Kongsang after the first drug test
+Liao Wuming searched for people again. After visiting the sect, before the over the month event
+Liao Wuming was looking for someone again. Before the over the month event
+Will start the second test
+After the second poison test, you need to return to Kongsang
+Liao Wuming's last search for someone, after visiting the sect, before the over the month event
+Liao Wuming's last search for someone, before the over the month event
+Will start the third test
+After the third poison test, you need to return to Kongsang
+Searching for Wuming
+After returning to Kongsang for the third time, wait for Liao Wuming to appear outside the Kongsang sect
+After the death fight with Liao Wuming, you need to return to Kongsang to see the conclusion
+Whereabouts of the deceased
+Use this task as a reminder before the Hundred Years Adventure appears
+The Death of Eternal Life
+Use this task as a reminder before The Death of Eternal Life appears
+Bloody Grave Digger
+Go to <color=#orange>Bloodhound Cult</color> and start digging graves and tombs nearby
+Go near the vicinity of <color=#orange>Bloodhound Cult</color>, and dig the tombs of Blood Sect disciples to find out about ghosts.
+There are strange rumors of ghosts in the Blood Hou Valley, maybe i should go and investigate...
+Broken Bell
+Go to <color=#orange>Blood Hou Valley</color>
+<color=#orange>Broken Bell</color> is deeply related to Blood Hou Valley, proceed with caution if you decide to investigate it.
+This bell seems to be weird, i should be careful...
+Weird Old Man
+Stay in <color=#orange>Blood Hou Valley</color>
+This Old Man in Red is quite strange, maybe i should stay in <color=#orange>Blood Hou Valley</color> to investigate.
+What did the Old Man in Red mean when he said about the patriarch...
+Old Man in Red
+Cautiously talk with the <color=#orange>Old Man in Red</color>
+<color=#orange>Old Man in Red</color> appeared, and i had a cautious conversation with him.
+This Old Man in Red is really not an ordinary person, i better be careful...
+Investigate Bloody Light
+Stay at <color=#orange>Bloody Light<color=#orange> for a month
+Stay at the <color=#orange>Bloody Light</color>, and wait for <color=#orange>Old Man in Red</color> to appear.
+The Old Man in Red followed the bell, and had to stay at the Bloody Light...
+The Tomb of the Dead
+Go to the <color=#orange>The Tomb of the Dead</color> adventure
+Go to the <color=#orange>The Tomb of the Dead</color> adventure.
+There is an ancient tomb where the Blood Light disappeared, let me carefully explore it...
+Ji Xi Returns
+Return to <color=#orange>Taiwu Village</color> together with Ji Xi
+Return to <color=#orange>Taiwu Village</color> together with Ji Xi. This body seems to have a lot to do with Ji Xi, if you accidentally <color=#orange>pass the sword</color>, later on it may cause irreparable consequences.
+Since Ji Xi is homeless, it is better to take her to Taiwu Village, so that someone could take care of her...
+Stay in the Village
+Stay in <color=#orange>Taiwu Village</color> to accompany Ji Xi
+Stay in <color=#orange>Taiwu Village</color> to accompany Ji Xi.
+Ji Xi is alone, so i should stay with her in the village and not travel far away...
+Tricky Mystery
+Go to <color=#orange>Tricky Mystery</color>
+When <color=#orange>Tricky Mystery</color> adventure appears, go there to investigate the strange happenings in the village, and stay in Taiwu Village to accompany Ji Xi for the rest of the time.
+Strange things seem to happen in the village, i should go and investigate...
+Village Monster
+When did such an evil monster appear in the Taiwu Village...
+Man-eating Ghosts
+Ghosts cannibalize people, could it really be Ji Xi's doings...
+Female Ghost Leads the Way
+What is the purpose of the female ghost leading me here...
+Midnight Female Ghost
+The female ghost at the midnight, could it really be Ji Xi...
+Old Acquaintance in Red
+The cloth was originally red, and it seems familiar...
+Ji Xi Harms People
+Could it be that Ji Xi really harmed someone...
+Doubtful and Sad
+<color=#orange>Strange happenings in the village</color> can be resolved
+There is a solution to the strange happenings in the village. I should wait for a few days to figure out how to properly resolve it...
+The strange happenings in the village must be properly settled...
+Looking for Ji Xi
+Go to <color=#orange>{0}</color> to find Ji Xi
+Go to <color=#orange>{0}</color> to find Ji Xi and talk to her.
+Since Ji Xi left Taiwu Village, why not ask her about it...
+Shaolin's Movement
+This quest appears after the fall of the Pagoda Forest
+Dirty Statue
+Available when holding the Dirty Statue item
+Return the Statue
+This quest appears when the sect's prosperity decline happens
+Xuannyu's Abnormal Change
+Stay in the Xuannyu after the initial incident to investigate
+Practice Heterodox Wudang skill in {0} to investigate
+Asking about Ancient Songs
+Use a new interaction on Xuannyu's SkyMelody disciples to start this quest
+Ancient Melody
+After interacting with the SkyMelody disciples, use this task as a reminder for the follow-up adventure
+Lonely Luan in the Mirror
+Go to the【Lonely Luan in the Mirror】adventure
+Request for a Missing Person
+Xuannyu's request to trace someone was not granted in Adventure
+Do not agree to tracing
+Before learning skills
+Learnt skills 0
+Proceed to trace the person
+About to go to the area where the reincarnated lover is located to find someone
+Tracing 0
+Waiting for a meeting
+Reincarnated lover avatar disappears, and you need to be reminded of this task (in fact, it is only one month)
+Waiting at the station 0
+Visit Xuannyu
+After the senior sister recognizes the Xuannyu Immortal, she needs to return to Yimingjue to pass the ending
+Return Moon Jade 2
+Reply to the Sect Master
+After the end of the Xuannyu quest (Xuannyu ascension to immortality), find the sect master
+Find the sect master to see the quest's ending
+Heterodox Training
+Practice Heterodox version of Wudang's skill to start this quest
+Wait for Daoist
+Wait for the Disheveled Daoist to ascertain
+Daoist Ascertainment
+The Disheveled Daoist has finished ascertaining
+Visit the cave
+Go to {0} to explore
+You can go to explore the cave
+Reply to the Daoist
+You can go back to Disheveled Daoist
+Ask Wudang
+After fighting the Daoist priest to the death, you can inquire about the ending of the Wudang sect
+Stone Prison Distractions
+After interacting with the Stone Prison, ask the sect master of Yuanshan
+Stone Prison Differences
+There's a problem with Yuanshan's Stone Prison
+Fishy Yuanshan
+There's something fishy about Yuanshan
+Looking for the Great Master
+An accident happened in the Yuanshan, we need to find the sect master
+Support the Three Devils
+Go to the【Support the Three Devils】adventure
+Conflict between these tasks: Promise the sect master to support the Three Devils
+Inform the sect master of the true thoughts of the Three Devils
+Conspire with a Tiger for its Skin
+Yuanshan's move is dangerous
+Dire Straits
+Yuanshan seems to have an accident
+Negotiation with the Three Devils
+Go to the【Negotiation with the Three Devils】adventure
+Exterminate the Three Devils
+The Three Devils are born, exterminate them before it's too late
+After the negotiations with Three Devils, they did not let go of the evil spirits. Go and find the sect master
+Evil Spirits are Dormant
+Evil spirits are dormant, for now just wait
+Exterminate Evil Spirits
+Kill the last Devil
+Lion Face's Movement
+Stay at the Lion-Face Clan to investigate
+Lion Face Stunt
+Go to the【Lion Face Stunt】adventure
+Needs to be blocked when Adventure disappears
+Wait and see what happens
+Scouting the Lion Face
+Go to the Lion-Face Clan to explore
+Destroying the Outlaws
+Destroy the Outlaws outside the map
+Look for the Sect Master
+Go to the Lion-Face Clan to find the sect master
+Lion Face is different
+Stay at the Lion-Face Clan to observe
+Eliminating Traitors
+Eliminate the traitors of the Lion-Face Clan
+Banish Foreigners
+Eliminate foreign enemies
+Wait for the follow-up
+The matter of the Lion-Face Clan comes to an end
+No Way for the People to Live
+People of Kunlun Mountain are in dire straits
+Go to the Vajrayana
+Go to the Vajrayana to investigate
+Ancient Scripture Mystery
+Go to the【Ancient Scripture Mystery】adventure
+Will it be blocked?
+Interpreting the residual scriptures
+I wonder who can interpret the residual scriptures? Maybe Vajrayana?
+Eminent Monk Writing Sutras
+Wait for Eminent Monk to finish Writing Sutras
+Multiplexing
+Reply to the Eminent Monk
+Talk with the Eminent Monk
+Exchange through Qinzhou
+You can exchange scriptures in Qinzhou, or you can go to the Vajrayana
+Exchange through Xiangyang
+You can exchange scriptures in Xiangyang, or you can go to the Vajrayana
+Exchange through Taiyuan
+You can exchange scriptures in Taiyuan, or you can go to the Vajrayana
+Exchange through Capital
+You can exchange scriptures in Capital, or you can go to the Vajrayana
+Where is the Eminent Monk?
+I wonder where the Eminent Monk went
+Closure of the Matter
+Go to Vajrayana to finish this matter
+Return the Scriptures
+Go to the Vajrayana to return【Misspelled False Scriptures】
+True Scriptures without words
+Wait for the end
+Take often baths
+Go to the Flower Valley
+Five Immortals Request
+Accept the request from the sect master of Five Immortals to detoxify Ran Xindu
+Travel to Kongsang
+Leave Flower Valley and go to Kongsang
+Return to Five Immortals
+Leave Kongsang and return to Five Immortals
+Unfulfilled Wish
+Ran Xindu is dead, 3 wishes not fulfilled
+Five Sacred Heart Poison
+Go to the【Five Sacred Heart Poison】adventure
+Emei's Murder Case
+Something strange is happening in Emei, pay more attention to your surroundings
+Clues to the Murder
+Go back to Emei to investigate the clues of the murder
+Investigate the White Ape
+Orthodox Emei
+Investigate Orthodox Emei while waiting for White Ape
+What is Orthodox
+Go to the【What is Orthodox】adventure. It disappears once the quest is finished.
+Ask the DarkLord
+Look for the DarkLord of Jieqing to ask for information
+Under the Lifeless Abyss
+Go to the【Under the Lifeless Abyss】adventure
+Kill Seven People
+Kill Seven People in Total
+This task may require Go terminology to finish: Divine move?
+Sheng
+Born: A person whose parents have both died
+Elder
+Old: A person whose children are dead
+Disease
+Sick: less than 1/5 of health
+Death
+Death: Fame at the time of death is either Saintly or Monstrous
+Parting Love
+Parting Love: A person whose spouse has died and they currently have no spouse
+Grudge
+Grudge: People who have three or more enemies
+Longing
+Longing: the object of admiration does not love this person but adores someone else
+No Life Under the Abyss
+Back to the Abyss
+Immortal Family's Paper Crane
+Travel to Ranshan Sect
+Three Ancestral Saints
+The manifestation of the saints is extraordinary, wait for the follow-up
+Teaching Three People
+Three Ancestor's Competition
+Participate in three martial arts competitions (Wait for the next month)
