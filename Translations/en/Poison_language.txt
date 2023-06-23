@@ -9,10 +9,10 @@ Cryo
 <color=#coldpoison>Cryotoxin, an icy poison that seals heart and veins.</color>\nIt activates when a total of 100% of victims Inhale is consumed in battle, produces <color=#illusorypoison>Oneirotoxin</color>, and worsens existing <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison.
 Pyrotoxin
 Pyro
-<color=#redpoison>Pyrotoxin, a tormenting poison that burns seven orifices.</color>\nIt activates when a total of 100% of victims Stance is consumed in battle, produces <color=#rottenpoison>Necrotoxin</color> and worsens existing <color=#outterinjury>External Injuries</color> according to the amount of existing poison.
+<color=#redpoison>Pyrotoxin, a tormenting poison that burns seven orifices.</color>\nIt activates when a total of 100% of victims Stance is consumed in battle, produces <color=#rottenpoison>Necrotoxin</color>, and worsens existing <color=#outterinjury>External Injuries</color> according to the amount of existing poison.
 Necrotoxin
 Necro
-<color=#rottenpoison>Necrotoxin, an eroding and corrosive poison that enters spine and melts muscles.</color>\nIt continuously generates <color=#hotpoison>Acritoxin</color> during the battle, and reduces the External Defense according to the amount of existing poison.
+<color=#rottenpoison>Necrotoxin, an eroding and corrosive poison that enters spine and melts muscles.</color>\nIt continuously generates <color=#hotpoison>Acritoxin</color>, during the battle, and reduces the External Defense according to the amount of existing poison.
 Oneirotoxin
 Oneiro
 <color=#illusorypoison>Oneirotoxin, a bewildering poison that makes people hallucinate.</color>\nIt continuously generates <color=#gloomypoison>Umbritoxin</color> during the battle, and reduces Internal Defense according to the amount of existing poison.
