@@ -9,7 +9,7 @@ Shrink
 Snipe
 <color=#brightblue>The power of skills placed in here changes at the start of the battle: For user power increases by 40%; For opponent power decreases by 40%.</color>
 Store
-<color=#brightblue>The skills placed in here only take up 1 slot,</color> <color=#brightred>but their requirements are increased by 25%</color>
+<color=#brightblue>The skill placed in here only takes up 1 slot,</color> <color=#brightred>but its requirements are increased by 50%</color>
 Prepare
 <color=#brightblue>Skill placed in here will automatically be used at the start of a battle without consumption.</color>
 Swift
@@ -17,7 +17,7 @@ Swift
 Slow
 <color=#brightblue>Footworks placed in here run out 50% slower when you're standing still,</color> <color=#brightred>but 100% faster when you're moving</color>
 Origin
-<color=#brightblue>When a Nadis skill is placed here, it's power increases by 3 times.</color>
+<color=#brightblue>When a Nadis skill is placed here, it's power increases by 2 times.</color>
 Flash
 <color=#brightblue>The power of the Aegis skill placed in it is increased by 100%,</color><color=#brightred>but the duration is reduced by 50%.</color>
 Protection
