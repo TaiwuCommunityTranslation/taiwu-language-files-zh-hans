@@ -1,18 +1,18 @@
 Acritoxin
 Acri
-Acritoxin, being the most potent, unhinges a mind and overwhelms a man\nIt triggers after 6 weapon attacks in combat, generating Pyrotoxin, and inflicting External Injuries depending on the amount of Acritoxin markers.
+<color=#hotpoison>Acritoxin, a fierce and bewildering poison.</color>\nIt occurs when 6 weapon attacks are performed in battle, produces <color=#redpoison>Pyrotoxin</color> and causes <color=#outterinjury>External Injuries</color> according to the amount of existing poison
 Umbritoxin
 Umbri
-Umbritoxin, mounts with latent intervals, lasting a long time.\nIt triggers after moving 3 distance in total in combat, generating Cryotoxin and inflicting Internal Injuries depending on the amount of Umbritoxin markers.
+<color=#gloomypoison>Umbritoxin, a gloomy and depressive poison.</color>\nIt occurs when you move 3 distance in battle, produces <color=#coldpoison>Cryotoxin</color> and causes <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison
 Cryotoxin
 Cryo
-Cryotoxin, chills through the meridians, and halts the circulation\nIt triggers after a 100% of Inhale is used in combat, generating Oneirotoxin, and worsening existing Internal Injuries depending on the amount of Cryotoxin markers.
+<color=#coldpoison>Cryotoxin, an icy poison that seals heart and veins.</color>\nIt activates when a total of 100% of victims Inhale is consumed in battle, produces <color=#illusorypoison>Oneirotoxin</color> and worsens existing <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison.
 Pyrotoxin
 Pyro
-Pyrotoxin, scorches every orifice over and over. \nIt triggers after a 100% of Stance is used in combat, generating Necrotoxin, and worsening existing External Injuries depending on the amount of Pyrotoxin markers.
+<color=#redpoison>Pyrotoxin, a tormenting poison that burns seven orifices.</color>\nIt activates when a total of 100% of victims Stance is consumed in battle, produces <color=#rottenpoison>Necrotoxin</color> and worsens existing <color=#outterinjury>External Injuries</color> according to the amount of existing poison.
 Necrotoxin
 Necro
-Necrotoxin, infiltrates deep into the spinal cord, gnawing away flesh and blood.\nIt continuously generates Acritoxin, and reduces External Defense depending on the amount of Necrotoxin markers.
+<color=#rottenpoison>Necrotoxin, an eroding and corrosive poison that enters spine and melts muscles.</color>\nIt continuously generates <color=#hotpoison>Acritoxin</color> during the battle, and reduces the External Defense according to the amount of existing poison.
 Oneirotoxin
 Oneiro
-Oneirotoxin, it clouds and confuses the mind. \nIt continuously generates Umbritoxin, and reduces Internal Defense depending on the amount of Oneirotoxin markers.
+<color=#illusorypoison>Oneirotoxin, a bewildering poison that makes people hallucinate.</color>\nIt continuously generates <color=#gloomypoison>Umbritoxin</color> during the battle, and reduces Internal Defense according to the amount of existing poison.
