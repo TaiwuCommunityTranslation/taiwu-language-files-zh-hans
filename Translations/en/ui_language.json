@@ -1391,7 +1391,7 @@
   "LK_Warehouse_Overflow": "Not Enough Storage Space",
   "LK_Warehouse_Overflow_Tips": "The total weight of the items stored in the Storage exceeds the maximum capacity! \nIn this state, <color=#red>you will lose some items when going to the next month!</color>",
   "LK_Resource_Overflow": "Not Enough Resource Limit",
-  "LK_Resource_Overflow_Tips": "{0} In your storage have exceeded the storage limit！\n<color=#red>Some resource will be lost when the month changes！</color>",
+  "LK_Resource_Overflow_Tips": "{0} In your Storage have exceeded the storage limit!\nIn this state, <color=#red>you will lose the overflowing resources when going to the next month!</color>",
   "LK_Game_Time": "Yr.{0} Mnth.{1}  {2}{3}",
   "LK_Season_0": "Spring ",
   "LK_Season_1": "Summer ",
