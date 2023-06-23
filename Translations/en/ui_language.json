@@ -1406,7 +1406,7 @@
   "LK_Qi_Disorder_StateTitle": "Internal Breath Status",
   "LK_Qi_Disorder_StateContent": "Inner Breath：{0}\n\n<color=#8E8E8EFF>{1}</color>\n\n<color=#lightblue>Due to internal breathing ability, monthly internal breathing disorder{2}</color>\nHealth Recovery：{3}\nCombat Injury Chance：{4}%",
   "LK_Serious_Poison": "Extreme poisoning",
-  "LK_Serious_Poison_Tips": "The {0} has penetrated too deeply, the poison is attacking your heart, your health will drop every month! <color=#E4504DFF>When your health drops to<color=#FBFBFBFF> 0 </color>you will die</color>",
+  "LK_Serious_Poison_Tips": "The {0} has penetrated too deeply, the poison is attacking your heart, causing your Health to drop every month! <color=#E4504DFF>When your health drops to <color=#FBFBFBFF>0</color>, you will die!</color>",
   "LK_Legend_Book_Manage_Tip_Title": "Interpret the classic",
   "LK_Legend_Book_Manage_Tip_Desc": "Assign purple bamboo incarnations with classics to Taiji, to enhance martial art...",
   "LK_Last_Month_Review_Tip_Title": "Last Month Review",
