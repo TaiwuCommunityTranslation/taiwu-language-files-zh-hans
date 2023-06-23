@@ -3,7 +3,7 @@ Acri
 <color=#hotpoison>Acritoxin, a fierce and bewildering poison.</color>\nIt activates when 6 weapon attacks are performed in battle, produces <color=#redpoison>Pyrotoxin</color>, and causes <color=#outterinjury>External Injuries</color> according to the amount of existing poison
 Umbritoxin
 Umbri
-<color=#gloomypoison>Umbritoxin, a gloomy and depressive poison.</color>\nIt occurs when you move 3 distance in battle, produces <color=#coldpoison>Cryotoxin</color> and causes <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison
+<color=#gloomypoison>Umbritoxin, a gloomy and depressive poison.</color>\nIt activates when you move 3 distance in battle, produces <color=#coldpoison>Cryotoxin</color>, and causes <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison
 Cryotoxin
 Cryo
 <color=#coldpoison>Cryotoxin, an icy poison that seals heart and veins.</color>\nIt activates when a total of 100% of victims Inhale is consumed in battle, produces <color=#illusorypoison>Oneirotoxin</color> and worsens existing <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison.
