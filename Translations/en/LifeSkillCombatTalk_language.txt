@@ -1,71 +1,38 @@
-Opening speech
 Don't worry about me, choose whatever you're comfortable with
-Banned
 Sorry, sorry...
-Observe
 If you're so knowledgeable, why are you sweating so much?
-Giveup
 Please make yourself comfortable.
-Choosing Subject
 So be it, no regretting
 Please advise me
-Question
-Do you understand meaning of this scripture? Can you explain it?
-Doubt
-This is such a profound sutra, do you really know it?
-Correct answer
-This is the easiest part of the sutra, so let me explain it to you.
-Wrong answer
-This sutra is so profound, i don't understand it.
-Speechless
+What does {0} mean? How do you explain it?
+Do you actually understand {0}?
+This is the easiest part of {0}, so let me explain it to you.
+{0} is so profound, I really don't understand it...
 ......
-Give up
 Your fine art skills are excellent, I admit defeat
-Looking speechless
 Your Excellency is.....
-See the admission of defeat
 As expected, I'm the best!
-Secrets Success
 In that case, have you heard of this matter?
-Successfully lured
 You really know what you are talking about
-Threat Success
 Your Excellency is so highly talented. it would be such a shame if something happened to you
-Secret Failure
 What about this matter? Don't be so cautious, just speak freely
-Luring Failed (Just)
 How can a man lose his dignity for small gains when he walks in the world?
-Luring Failed (Kind)
 How can i accept this? I'm not a greedy person
-Luring Failed (Even)
 (They concentrate on art and don't respond)
-Luring Failed (Rebellious)
 You wanna win so badly? Heh, I won't let you
-Luring Failed (Egoistic)
 You want to buy me with this little thing?
-Threat Failed (Just)
 You shouldn't worry about me, I have never been wronged in my travels for many years
-Threat Failed (Kind)
 I'm sorry for your trouble, but now we need to concentrate on the art
-Threat Failed (Even)
 What do you mean by that? I am very confused
-Threat Failed (Rebellious)
 You're threatening me with this? Ridiculous
-Threat Failed (Egoistic)
 You should watch your back. would be a shame if you got disemboweled
-Force to give up
 With your skill, how were you expecting to compete?
-Agree to give up
 You're such a well-known person, i wouldn't dare to win against you
-Refuse to give up
 I see that your skills have never been better.
-Normal defeat
 You are too good, i admit defeat
-Victory
 Years of hard work are not in vain
-AI Secrets
 Do you remember what happened before?
-AI Lure
 You are really extraordinary. I wonder if these things can make it easier for you?
-AI Threats
-I advise you to admit defeat as soon as possible? To avoid future complications and disasters
+I advise you to admit defeat as soon as possible, to avoid future complications and disasters...
+...
+（Opponent is thinking...）
