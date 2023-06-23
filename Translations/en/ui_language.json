@@ -1387,7 +1387,7 @@
   "LK_Equip_Load_Overflow": "Equip load overload",
   "LK_Equip_Load_Overflow_Tips": "Equipment weight exceeds the limit that the character can bear, the character's movement speed, attack speed, casting speed <color=#brightred> drops </color> ",
   "LK_Inventory_Overflow": "Not Enough Inventory Space",
-  "LK_Inventory_Overflow_Tips": "Item in your bag have exceeded your carry capacity！\nTime required to move around the map increased<color=#red>{0}%</color>！\n<color=#red>Items will be lost when the month changes！</color>",
+  "LK_Inventory_Overflow_Tips": "Items in your bag have exceeded your carry capacity! Time required to move around the map is increased by <color=#red>{0}%</color>! \nIn this state,<color=#red> you will lose some items when going to the next month!</color>",
   "LK_Warehouse_Overflow": "Not Enough Storage Space",
   "LK_Warehouse_Overflow_Tips": "The total weight of the items stored in the warehouse exceeds the maximum capacity! \n <color=#red> will thus lose several items at the change of month! </color> ",
   "LK_Resource_Overflow": "Not Enough Resource Limit",
