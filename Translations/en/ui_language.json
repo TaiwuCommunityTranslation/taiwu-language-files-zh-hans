@@ -1389,7 +1389,7 @@
   "LK_Inventory_Overflow": "Not Enough Inventory Space",
   "LK_Inventory_Overflow_Tips": "Items in your bag have exceeded your carry capacity! Time required to move around the map is increased by <color=#red>{0}%</color>! \nIn this state,<color=#red> you will lose some items when going to the next month!</color>",
   "LK_Warehouse_Overflow": "Not Enough Storage Space",
-  "LK_Warehouse_Overflow_Tips": "The total weight of the items stored in the warehouse exceeds the maximum capacity! \n <color=#red> will thus lose several items at the change of month! </color> ",
+  "LK_Warehouse_Overflow_Tips": "The total weight of the items stored in the Storage exceeds the maximum capacity! \nIn this state, <color=#red>you will lose some items when going to the next month!</color>",
   "LK_Resource_Overflow": "Not Enough Resource Limit",
   "LK_Resource_Overflow_Tips": "{0} In your storage have exceeded the storage limit！\n<color=#red>Some resource will be lost when the month changes！</color>",
   "LK_Game_Time": "Yr.{0} Mnth.{1}  {2}{3}",
