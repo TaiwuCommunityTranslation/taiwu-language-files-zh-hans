@@ -593,3 +593,13 @@ If you have a heavy object that you can't move, maybe I can help, just...
 "The past, things are different... Once I see you, but I remember the old days..."
 "Although there are a few resemblances, in the end you are no longer that person..."
 "When the old man was gone, how could the rivers and mountains remain as they were..."
+Temporary text: GenSan main line random dialogue 1
+Temporary text: GenSan main line random dialogue 2
+Temporary text: GenSan main line random dialogue 3
+"Read well ......"
+"Moonlight in front of the bed ......"
+"Do not read today, tomorrow the book reads me ......"
+"It's hard to burn green firewood, and it's hard to burn the only firewood ...... Life in the village is just right ......"
+Temporary text: Ransan main line random dialogue 1
+Temporary text: Random dialogue in the main line of Ranshan 2
+Temporary text: Ransan main line random dialogue 3
