@@ -213,13 +213,16 @@ When the dominant internal element of the user is "Earth", the direct damage and
 3 Poisons of\nDarkness Spell
 The happier the "Mood" of the user, the more the power of all the techniques of the user will be increased, by up to 15%
 Moon Shape
-Convert the user's "Fire" internal energy into "Earth" internal energy. The more energy is converted, the more the power of the user's "Earth" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Ignore Accuracy
+Transform the user's "Fire" element into "Earth" element, the more the conversion ratio, the higher the power of the user's "Earth" skills will be; If the user "Fire" element is at 0%, the user will not be hit by "Fire" and "Earth" skills
 The Great 5 Yin
 The higher the ratio of the user's internal energy to the "Earth", the more the user's ability to Diversion, Parry, Evasion, and Focus will increase, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Children's\nBlood Sacrifice
-Significantly increases the power of the user's "Earth" type techniques, by 20%.
+Increase the casting progress
+Significantly increase the power of the user's "Earth" skills; During the cast of the "Earth" skill, click to consume a min. of 5 and a max. of 15 points of the user's Break True Qi to increase the cast progress of the "Earth" skill by 50%, up to a maximum of 75%.
 Evil Scripture\nof Blood Hou
-When the internal energy attribute of the user is "Earth", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
+Fatal Wnd. Decrease
+When the user's main element is "Earth", it is more difficult for the user's skills to be "Sealed" or "Interrupted"; When user gets attacked by an "Earth", "Water", or "Fire" skill, the Fatal Wound damage is reduced by 80%
 The Great Blood\nChild
 Increases the Break of true qi
 At the beginning of a battle, the user's "Break" True Qi is increased significantly (by 60); the amount of "Break" True Qi gained during the battle is increased significantly; the amount of "Break" True Qi lost during the battle is decreased significantly.
@@ -401,7 +404,7 @@ When defending with this technique: all direct damage taken by the user is reduc
 14 Methods of Real Steel
 Significantly increase the Hardness and DES of the user's weapon
 Mechanical Formation
-Teammates can perform「Warn」command more frequently, which increases user's Diversion, Parry, and Evasion for a short amount of time.
+Teammates can perform「Restrain」command more frequently, to prohibit the enemy's teammate from using commands for a short while.
 Heavenly Armor
 When defending with this technique, If enemy weapon's grade isn't higher than the user's armor's grade, all External damage caused by the enemy to the user will be reduced by 60%
 Exquisite 9
@@ -416,7 +419,7 @@ When the "Nadis" True Qi of the user is higher than the "Nadis" True Qi of the e
 When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Visceral Anatomy
 Improving external injury
-User's External damage to uninjured body parts of the enemy is increased by 90%
+User's External damage to uninjured body parts of the enemy is increased by 45%
 Anti-Poisoning
 Protection from toxins
 Exorcise your own toxins
@@ -509,7 +512,7 @@ When defending with this technique: all External Damage taken by the user is red
 Divine Fire Cover
 When defending with this technique: all Internal Damage taken by the user is reduced by 30%; Whenever the user Reflects an enemy attack, the user gains 1 point of "Aegis" True Qi
 Dragon Breakthrough
-Teammates can perform「Swap」command more frequently, which increases user's Might, Finesse, and Swiftness for a short amount of time.
+Teammates can perform「Guide」and 「Warn」commands more frequently, which increase user's Accuracy and Resolve stats for a short amount of time.
 Thunder Bone
 When defending with this technique, the direct external damage caused by the enemy to the user is reduced by 45%
 Medical Heart
@@ -529,21 +532,23 @@ Ghost Cry
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, user's and enemy's Composure, Cleverness, Enthusiasm, Valour, and Fortitude are compared, and for each stat that is higher than the enemy's user has a chance of applying 1 "None" style to the enemy.
 Blood Meal
 Eliminate your own injuries
-Whenever the user inflicts 2 external injury at once in the form of direct damage to an enemy, it randomly removes 1 of the user's own external injury
+Whenever the user inflicts 1 direct External Injury on the enemy, randomly eliminate 1 External Injury from user's body part with less than 4 External Injuries.
 The Great Spell of Soul Exchange
 Transfer Ext Inj
 Transfer of internal rest disorders
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 2 external injury and a portion of the user's internal breath disorder will be transferred to the enemy.
 Heart-Self Destroy Spell
 Obtain a large amount of true qi
-Whenever a partner of the user's helper reaches the defeat condition, the user will receive a large amount of true qi according to the amount of various types of true qi of that partner
+Whenever the total number of defeat marks of the user's teammate exceeds half of the defeat condition, user will receive a large amount of True Qi depending on the amount of each True Qi of the teammate.
 12 Blood Child Formation
 The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of External Injuries and Fatal Wounds of the user in battle.
 Sky Demon
 Worsening enemy external injury
 When defending with this technique: all direct External Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Pyrotoxin to the enemy, and at the same time worsens the External Injuries on all body parts of the enemy
 Undead Body of Blood Child
-When the total number of defeat markers of the user reaches the defeat condition, if the user's internal disorder has not reached the absolute limit, the user's internal disorder will start to increase randomly, and the user cannot be defeated until the user's internal disorder reaches the absolute limit.
+Exchange Damage
+Stance Cost Dn
+When the total number of defeat marks of the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Stance required to use skills is reduced by 50%
 Lift-Up Jumping
 Move Spd Up
 During the duration of this Footwork, the movement speed of the user will be increased when the user uses the "Aegis" technique.
@@ -735,8 +740,8 @@ Hundred Feet's Drill
 Attrition of the enemy's Aegis
 During the duration of this Footwork, when the user attacks the enemy, they will first perform a Swiftness attack on the enemy that gradually weakens with the number of uses. If the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced
 Sky Snake Rolling
-Antitoxin resistance
-When advancing with this Footwork, the user needs to accumulate power to move 3 distances at once, and then apply a debuff to the enemy which reduces all toxin resistance according to the distance moved
+Reduce Poison Resistance
+When advancing with this Footwork, the user can accumulate strength to move 3 distances at once. After moving, user will apply a debuff to the enemy that reduces all Poison Resistances depending on the distance moved.
 A Hundred Feet Poling
 Range Up
 During the duration of this Footwork, the maximum attack distance of the user is increased by 2
@@ -786,7 +791,8 @@ UP Kick Ext. Dam.
 Direct External Damage to the enemy caused by the user's Kick Techniques performed during this Footwork is increased by 30%
 Flying Zombies
 External injuries cannot be reduced
-The external injury caused by this Footwork by the user on the enemy cannot be reduced by any effect.
+Restore Your Footwork
+When using this Footwork, the direct External damage caused by the user's Kicks cannot be reduced by any effect. When any Kick Technique is used at 100% of it's power, the duration of this Footwork will be restored
 Little Leap
 When you move with this Footwork, you have a higher chance of not consuming your Footwork
 Mountain\nPushing Palm
@@ -1018,7 +1024,6 @@ Conversely\nBeating As Rocking Sky
 Attacks are not defended
 If the enemy has no memory of this technique when you start to perform it: the enemy's External Defense is halved; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique, and this technique can cause an additional 1 Fatal Wound after it has exerted at least 10% of its power
 One Step Turn
-Increase the casting progress
 When enemy performs a technique, the user can perform this technique from 50% of progress; When this technique is used with at least 10% of its power, advance 2 distance. This effect cannot be repeated during the cast of the same technique.
 Cuckoo's\nPecking
 Causes additional blocked points
@@ -1423,60 +1428,64 @@ Mysterious\nSword Intent
 When attacking enemy with this technique, the deeper the enemy is poisoned with Cryotoxin, the more direct damage this technique will cause; Direct damage caused by this technique to the body parts that are already injured will not be reduced for any reason
 Crazy Dog Fist
 Random Dmg
-When you start performing this technique, the user gets 6 levels of this effect: all direct damage the user deals to the enemy may be either reduced by 30%, or increased by 30%, with a higher chance to increase
+When you start performing this technique, the user gets 6 levels of this effect: all direct damage dealt by the user's Break skills will be either decreased by 90%, or increased by 90%, with a higher chance to increase
 Heartbreak Palm
 72 Hellbound\nFist
 Leg Injured
-When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Leg to be "Injured" if it has an Ext. Injury on it; The person who has "Leg Injured" status will only get half of the Footwork bar, In addition, if there are 4 Ext. Injuries on the victim's Leg, it will be considered as a Broken Leg, and it won't disappear until the victim heals all the Ext. Injuries and Fatal Wounds on their Leg
+When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Leg to be "Injured" if it has an Ext. Injury on it; The person who has "Leg Injured" status will only get half of the Footwork bar, In addition, if there are 4 Ext. Injuries on the victim's Leg, it will be considered as a Broken Leg, and it won't disappear until the victim heals all the Ext. Injuries on their Leg
 Zombie\nPoison Palm
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Necrotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3".
+Skill Can't be Blocked
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Necrotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". Under this effect, user's Break skill with Necrotoxin cannot be Deflected, Sealed, or Interrupted.
 Blood Evil Palm
 Torso Injured
-When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Torso to be "Injured" if it has an Ext. Injury on it; The person who has "Torso Injured" status can't have more than 60% of Inhale, In addition, if there are 4 Ext. Injuries on the victim's Torso, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Ext. Injuries and Fatal Wounds on their Torso
+When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Torso to be "Injured" if it has an Ext. Injury on it; The person who has "Torso Injured" status can't have more than 60% of Inhale, In addition, if there are 4 Ext. Injuries on the victim's Torso, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Ext. Injuries on their Torso
 Bone Melting\nGhost Palm
-When this technique is used with at least 10% of its power, if the user has at least 2 "Hold" styles after this technique, the user will only consume 2 "Hold" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
+Ortho to Hetero
+When this technique is used with at least 10% of its power, if the user has at least 2 "Hold" styles after this technique, the user will consume 2 "Hold" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously. After using, this skill will change from Orthodox to Heterodox version.
 Sky Demon Palm
-The Acritoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
+Old Acritoxin
+This skill will change enemy's Acritoxin into more stubborn poison that's difficult to get rid of; After this technique has been used with at least 100% of it's power, if the enemy is poisoned by Acritoxin, it will activate
 Blood Hou's\nEvil Palm
-When attacking enemy with this technique, the deeper the enemy is poisoned with Pyrotoxin, the more direct damage this technique will cause; Direct damage caused by this technique to the body parts that are already injured will not be reduced for any reason
+Additional Markers
+When attacking enemy with this skill, the deeper the enemy is poisoned by Pyrotoxin, the more direct damage this skill will deal; When this skill is used at 100% of its power, the deeper the enemy is poisoned by Pyrotoxin, the more additional Fatal Wounds and Injuries on random body parts the enemy will receive
 Poke Eye and\nCut Ear
 Head Injured
 Lower Accuracy Resolve
-When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Head to be "Injured" if it has an Ext. Injury on it; The person who has "Head Injured" status will suffer from a Accuracy and Resolve stat reduction on every 2nd weapon attack, In addition, if there are 4 Ext. Injuries on the victim's Head, it will be considered as a Broken Head, and it won't disappear until the victim heals all the Ext. Injuries and Fatal Wounds on their Head
+When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Head to be "Injured" if it has an Ext. Injury on it; The person who has "Head Injured" status will suffer from a Accuracy and Resolve stat reduction on every 2nd weapon attack, In addition, if there are 4 Ext. Injuries on the victim's Head, it will be considered as a Broken Head, and it won't disappear until the victim heals all the Ext. Injuries on their Head
 Lock Throat
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's waist and abdomen, the power of this technique increases and the progress of its execution increases at the beginning of its execution, and this effect accumulates up to 2 levels; when this technique exerts 100% of its power, it significantly depletes the enemy's Stance
+At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user hits enemy's Waist, the power and starting cast progress of this skill increases, accumulating up to 2 levels; When this technique is used at 100% of its power, it significantly depletes the enemy's Stance
 Separation of\nBone And Muscle
 Arm Injured
-When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Arm to be "Injured" if it has an Ext. Injury on it; The person who has "Arm Injured" status can't have more than 6 Styles, In addition, if there are 4 Ext. Injuries on the victim's Arm, it will be considered as a Broken Arm, and it won't disappear until the victim heals all the Ext. Injuries and Fatal Wounds on their Arm
+When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Arm to be "Injured" if it has an Ext. Injury on it; The person who has "Arm Injured" status can't have more than 6 Styles, In addition, if there are 4 Ext. Injuries on the victim's Arm, it will be considered as a Broken Arm, and it won't disappear until the victim heals all the Ext. Injuries on their Arm
 Low-Body-Break\nFingers
 Waist Injured
-When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Waist to be "Injured" if it has an Ext. Injury on it; The person who has "Waist Injured" status can't have more than 60% of Stance, In addition, if there are 4 Ext. Injuries on the victim's Waist, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Ext. Injuries and Fatal Wounds on their Waist
+When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Waist to be "Injured" if it has an Ext. Injury on it; The person who has "Waist Injured" status can't have more than 60% of Stance, In addition, if there are 4 Ext. Injuries on the victim's Waist, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Ext. Injuries on their Waist
 Poison Dragon\nClaw
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". Under this effect, user's Break skill with Pyrotoxin cannot be Deflected, Sealed, or Interrupted.
 Hade Finger
 When you start to perform this technique, the deeper the enemy is poisoned with Necrotoxin, the more the power of this technique will be increased
 Blood Pool\nGhost Claw
 When this technique is used at 100% of its power the user transfers 1 non-old injury from each part of the body to the "Injured" part of the enemy.
 Lower Body Kick
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's head, the power of this technique increases and the progress of its execution at the beginning increases, and this effect accumulates up to 2 levels; when attacking male enemies with this technique, the power of this technique increases significantly
+At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user hits enemy's Head, the power and starting cast progress of this skill increases, accumulating up to 2 levels; When using this skill on a Male, the power of this skill increases significantly
 Conversely Kick\nof Toad
 Reduces aura consumption
 When this technique is used with at least 10% of its power, the user retreats 2 distances, and if the user continues to perform this technique continuously, the Stance and Inhale consumption of this technique will be greatly reduced cumulatively, up to 3 times
 Unpredictable\nKick
 Power varies randomly
-Ortho to Hetero
 Whenever the user accumulates 1 distance, the power of this technique may increase or decrease, and will continue until the user accumulates 1 distance next time; after the performance of this technique, it will change from Orthodox to Heterodox practice
 Scorpion's Soul\nHook Kick
 Move Spd Up
 If the user's movement speed is higher than the enemy's, the power of this technique will be increased; according to the power of this technique, the user will be given a buff that increases Movement Speed.
 Walk And Kill
-During the performing of this technique, user can advance up to 6 distance at once. The further the user advances, the more the power of this technique increases. For every 1 distance the user advances, they gain 2 points of "Break" True Qi
+During the performing of this technique, user can advance up to 6 distance at once. The further the user advances, the more the power of this technique increases. For every 1 distance the user advances, they gain 3 points of "Break" True Qi
 Great Yin-Wind\nKick
-When this technique is used at 100% of its power, the more Umbritoxin marks the enemy has, the more internal injury marks are added to random parts of the enemy
+When this technique is used at 100% of its power, the more Umbritoxin marks the enemy has, the more Internal Injuries and Sealed Acupoints are added to random body parts of the enemy.
 Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements within the field of view of the user that can transform the user's internal five elements into buried ones, the more the power of this technique will be increased
 Blood Shadow\nKick
-If the user's Break Qi is higher than the initial value and higher than the enemy's Break Qi, this technique can be performed without the use of Inhale or Stance, in which case the power of this technique is greatly increased and the user loses 6 points of Break Qi at the end of the technique.
+Dn Cast Cost
+If the user's Break Qi is higher than the initial value and higher than the enemy's Break Qi, the amount of Inhale, Stance, Footwork and Stamina required to use this technique is reduced by 75%, and when used this way the power of this technique is greatly increased, but the user loses 12 points of Break Qi at the end of the technique.
 Ghost Poison\nSand
 Change styles
 When this technique is used with at least 10% of its power, it will change up to 2 of the user's unusable styles into "Toxic" styles.
@@ -1491,7 +1500,8 @@ When attacking the enemy with this technique, the higher the enemy's External Pe
 Lady Poison
 After this technique has been used with at least 100% of it's power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance, consume 1 "Toxic" style of the user, make the enemy also close to the user for 1 distance, and after the enemy moves because of this, close 1 acupuncture point in a random part of the enemy
 Bloodhound's\nSand
-The Pyrotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
+En Pyrotoxin Attack
+This skill will change enemy's Pyrotoxin into more stubborn poison that's difficult to get rid of; After this technique has been used with at least 100% of it's power, if the enemy is poisoned by Pyrotoxin, it will activate
 Shaolin\nLong Fist
 At the beginning of the battle, the user gains 0 levels of this effect: Each time the user receives External Injury or a Fatal Wound due to direct damage, this effect increases by 1 level, up to a maximum of 36 levels, with each level increasing the power of this technique
 Shaolin\nVajra Palm
@@ -1734,7 +1744,6 @@ When this technique is used at 100% of its power, completely eliminate the effec
 Yuanshan\nJump Kick
 Whenever the user chases an enemy at least 2 times with "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to Heterodox practice
 Mandarin Duck\nCombo Kick
-Stance Cost Dn
 When this technique is used with at least 10% of its power, the Stance required to perform this technique is reduced by up to 90%, lasting until the end of the battle
 Tiger Tail
 At the beginning of the battle, the user gains 3 levels of this effect: when an enemy attacks the user from a position greater than the user's maximum attack distance, the attack range of this technique is greatly increased, and the user immediately performs this technique to attack the enemy without consumption from 50% of the performance progress; when the active performance of this technique is performed and the power of the technique is 100%, this effect regains 1 level
@@ -1999,13 +2008,14 @@ When the dominant internal element of the user is "Earth", it reduces the direct
 Reverse -  Three Poisonous Ignorance Mantra
 The more painful the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Reverse -  Taiyin Refining Form
-Convert the user's "Water" internal energy into "Earth" internal energy. The more energy is converted, the more the power of the user's "Earth" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Transform the user's "Water" element into "Earth" element, the more the conversion ratio, the higher the power of the user's "Earth" skills will be; If the user "Water" element is at 0%, the user will not be hit by "Water" and "Earth" skills
 Reverse -  Five Yin Dada
 The higher the ratio of the user's "Earth" internal energy, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Child's Blood Refining Method
-Significantly reduces the consumption of Inhale and Stance of the user's "Earth" type techniques.
+Significantly decrease the consumption of Inhale and Stance of the user's "Earth" skills; During the cast of the "Earth" skill, click to consume a min. of 5 and a max. of 15 points of the user's Break True Qi to significantly increase the power of this "Earth" skill
 Reverse -  Blood Hollow Evil Scripture
-When the internal energy attribute of the user is "Earth", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
+Deflect En Break
+When the user's main element is "Earth", they can perform skills even if a required body part is broken, but the power of the skill performed this way will be reduced; When user gets attacked by an "Earth", "Water", or "Fire" skill, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break skill, the enemy will suffer backlash damage from their skill
 Reverse -  Blood Child Method
 Reduce the enemy to destroy the real Qi
 At the beginning of a battle, dramatically reduce the amount of Devastating True Qi of the enemy and their helpers; dramatically reduce the amount of Devastating True Qi gained by the enemy in battle; dramatically increase the amount of Devastating True Qi lost by the enemy in battle
@@ -2166,7 +2176,7 @@ When defending with this technique: all direct damage taken by the user is reduc
 Reverse - 14 Methods of Real Steel
 Significantly increase the edge breaking and toughness of the user's protective gear
 Reverse - Mechanical Formation
-When your teammate uses the「Warn」command, it will increase the user's Diversion, Parry, and Evasion more.
+When your teammate uses the「Restrain」command, enemy's teammate will be prohibited from using commands for a longer period of time
 Reverse - Heavenly Armor
 When defending with this technique, If enemy weapon's grade isn't higher than the user's armor's grade, all Internal damage caused by the enemy to the user will be reduced by 60%
 Reverse - Exquisite 9
@@ -2180,7 +2190,7 @@ Reverse - 3 Books of 9-Steps
 When the distance between the user and the enemy is less than 5, the closer the enemy is to us, the more the user's Diversion, Parry, Evasion and Focus will be improved.
 Reverse - Visceral Anatomy
 Increase direct internal injuries
-User's Internal damage to uninjured body parts of the enemy is increased by 90%
+User's Internal damage to uninjured body parts of the enemy is increased by 45%
 Reverse - Anti-Poisoning
 Prohibition of toxin removal
 Deepening the enemy's toxin
@@ -2258,7 +2268,7 @@ When defending with this technique: all direct External Damage taken by the user
 Reverse - Divine Fire Cover
 When defending with this technique: all direct Internal Damage taken by the user is reduced by 30%; Whenever the user Reflects an enemy attack, the enemy loses 1 point of "Aegis" True Qi
 Reverse - Dragon Breakthrough
-When your teammate uses the「Guide」command, it will increase user's Might, Finesse, and Swiftness even more.
+When your teammate uses「Guide」or「Warn」commands, your Accuracy and Resolve will be increased even more
 Reverse - Thunder Bone
 Reflect Ext. DMG UP
 When defending with this technique, the external damage caused to the enemy by the user's Reflect is increased by 30%
@@ -2276,19 +2286,20 @@ The more disturbed the user's internal breath is, the higher the direct internal
 Reverse - Ghost Cry
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, user's and enemy's Composure, Cleverness, Enthusiasm, Valour, and Fortitude are compared, and for each enemy's stat that is higher than the user's stat, the user will have a chance of applying a 1 Glazed marker to the enemy.
 Reverse - Blood Meal
-Whenever the user inflicts 2 internal damage markers at once in the form of direct damage to an enemy, it randomly removes 1 internal damage marker from the user itself
+Whenever the user inflicts 1 direct Internal Injury on the enemy, randomly eliminate 1 Internal Injury from user's body part with less than 4 Internal Injuries.
 Reverse - The Great Spell of Soul Exchange
 Transfer Injuries
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 2 internal injury marks and a portion of the user's internal breath disorder will be transferred to the enemy.
 Reverse - Heart-Self Destroy Spell
-Whenever a companion of the user's helper reaches the defeat condition, the enemy loses a large amount of true qi according to the amount of each type of true qi of that companion
+Whenever the total number of defeat marks of the user's teammate exceeds half of the defeat condition, enemy will lose a large amount of True Qi depending on the amount of each True Qi of the teammate.
 Reverse - 12 Blood Child Formation
 The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of Internal Injuries and Fatal Wounds of the user in battle.
 Reverse - Sky Demon
 Worsening the enemy's internal wounds
 When defending with this technique: all direct Internal Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Cryotoxin to the enemy, and at the same time worsens the Internal Injuries on all body parts of the enemy
 Reverse - Undead Body of Blood Child
-When the total number of defeat marks of the user reaches the defeat condition, if the user's Qi Disorder hasn't reached it's limit, the user's Qi Disorder will be greatly increased randomly, and they will immediately exchange all injuries with 1 teammate who hasn't reached the defeat condition
+Inhale Cost Dn
+When the total number of defeat marks of the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Inhale required to use skills is reduced by 50%
 Reverse - Lift-Up Jumping
 Reduce enemy movement speed
 During the duration of this Footwork, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
@@ -2458,7 +2469,7 @@ Reverse - Hundred Feet's Drill
 Attrition of the enemy's bodywork
 During the duration of this Footwork, when the user is attacked by the enemy they will first hit the enemy with a Swiftness attack that gradually weakens with the number of uses, and if the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced.
 Reverse - Sky Snake Rolling
-When retreating with this Footwork, the user needs to accumulate power to move 3 distances at once, and then apply a debuff that reduces all toxin resistance to the enemy according to the distance moved
+When retreating with this Footwork, the user can accumulate strength to move 3 distances at once. After moving, user will apply a debuff to the enemy that reduces all Poison Resistances depending on the distance moved.
 Reverse - A Hundred Feet Poling
 During the duration of this Footwork, the minimum attack distance of the user is increased by 2
 Reverse - Traceless 6 Steps
@@ -2502,7 +2513,7 @@ Kick Int. DMG UP
 Direct Internal Damage to the enemy caused by the user's Kick Techniques performed during this Footwork is increased by 30%
 Reverse - Flying Zombies
 Internal injuries cannot be reduced
-The direct internal damage caused by this Footwork can't be reduced by any effect.
+When using this Footwork, the direct Internal damage caused by the user's Kicks cannot be reduced by any effect. When any Kick Technique is used at 100% of it's power, the duration of this Footwork will be restored
 Reverse - Little Leap
 Reverse - Mountain\nPushing Palm
 Reducing the Diversion of the enemy
@@ -3029,41 +3040,44 @@ After this technique has been used at 100% of its power, the user gains 7 levels
 Reverse - Mysterious\nSword Intent
 When attacking enemy with this technique, the deeper the user is poisoned with Cryotoxin, the more direct damage this technique will cause; Direct damage caused by this technique to the body parts that are already injured will not be reduced for any reason
 Reverse - Crazy Dog Fist
-When attacking an enemy with this technique, the user gains 6 levels of this effect: all direct damage dealt by the enemy to the user may be either reduced by 30%, or increased by 30%, but more likely to be reduced
+When attacking enemy with this technique or when this technique is used with at least 10% of its power, user gets 6 levels of this effect: all direct damage dealt by the enemy's Break skills will be either decreased by 90%, or increased by 90%, with a higher chance to decrease
 Reverse - Heartbreak Palm
+The direct damage caused by this technique to the enemy's Chest is increased by 30%; When this technique is used at 100% of its power, the enemy's Inhale will be depleted
 Reverse - 72 Hellbound\nFist
 Heel paid
-When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Leg to be in "Agony" if it has Int. Injuries on it; The person who has "Leg Agony" status will only get half of the Footwork bar. In addition, if there are 4 Int. Injuries on the victim's Leg, it will be considered as a Broken Leg, and it won't disappear until the victim heals all the Int. Injuries and Fatal Wounds on their Leg
+When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Leg to be in "Agony" if it has Int. Injuries on it; The person who has "Leg Agony" status will only get half of the Footwork bar. In addition, if there are 4 Int. Injuries on the victim's Leg, it will be considered as a Broken Leg, and it won't disappear until the victim heals all the Int. Injuries on their Leg
 Reverse - Zombie\nPoison Palm
-After this technique has been used for 100% of its power, the user will gain 10 levels of this effect: the Necrotoxin applied to the user by the enemy will be reduced from "Level 3" to "Level 2" and from "Level 2" to "Level 1".
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Necrotoxin applied by the user to the enemy is raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". Under this effect, user will be able to Deflect enemy skills that have Necrotoxin on them, and if the user's Deflect is not broken by the enemy's Break skill, the enemy will suffer backlash damage from their skill
 Reverse - Blood Evil Palm
 Chest pain
-When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Torso to be in "Agony" if it has Int. Injuries on it; The person who has "Torso Agony" status can't have more than 60% of Inhale. In addition, if there are 4 Int. Injuries on the victim's Torso, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Int. Injuries and Fatal Wounds on their Torso
+When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Torso to be in "Agony" if it has Int. Injuries on it; The person who has "Torso Agony" status can't have more than 60% of Inhale. In addition, if there are 4 Int. Injuries on the victim's Torso, it will be considered as a Broken Torso, and it won't disappear until the victim heals all the Int. Injuries on their Torso
 Reverse - Bone Melting\nGhost Palm
-When you start to perform this technique, you will consume all of the "take" style of the user. The more "take" style the user consumes, the more the power of this technique will increase.
+When you start performing this technique, all available styles of the user will be changed to "Hold" styles. The more styles get changed to "Hold" style, the more extra power this skill will get; After using, this skill will change from Heterodox to Orthodox version.
 Reverse - Sky Demon Palm
-This technique increases the amount of Acritoxin poison applied to the enemy significantly, but there is a low chance that the user will be partially poisoned with Acritoxin at the same time.
+Ignore Poison Resistance
+The amount of Acritoxin applied by this skill is greatly increased, but there is a low chance that the user will also get poisoned by Acritoxin; Unless the victim is Immune to Acritoxin, the Acritoxin applied by this technique will ignore half of the victim's poison resistance
 Reverse - Blood Hou's\nEvil Palm
-When attacking enemy with this technique, the deeper the user is poisoned with Pyrotoxin, the more direct damage this technique will cause; Direct damage caused by this technique to the body parts that are already injured will not be reduced for any reason
+When attacking enemy with this skill, the deeper the user is poisoned by Pyrotoxin, the more direct damage this skill will deal; When this skill is used at 100% of its power, the deeper the user is poisoned by Pyrotoxin, the more additional Fatal Wounds and Injuries on random body parts the enemy will receive
 Reverse - Poke Eye and\nCut Ear
 Eyes·ears pain
-When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Head to be in "Agony" if it has Int. Injuries on it; The person who has "Head Agony" status will suffer from a Accuracy and Resolve stat reduction on every 2nd weapon attack. In addition, if there are 4 Int. Injuries on the victim's Head, it will be considered as a Broken Head, and it won't disappear until the victim heals all the Int. Injuries and Fatal Wounds on their Head
+When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Head to be in "Agony" if it has Int. Injuries on it; The person who has "Head Agony" status will suffer from a Accuracy and Resolve stat reduction on every 2nd weapon attack. In addition, if there are 4 Int. Injuries on the victim's Head, it will be considered as a Broken Head, and it won't disappear until the victim heals all the Int. Injuries on their Head
 Reverse - Lock Throat
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's waist and abdomen, the power of this technique increases and the progress of its execution increases at the beginning of its execution, and this effect accumulates up to 2 levels; when this technique exerts 100% of its power, it significantly depletes the enemy's Inhale.
+At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user hits enemy's Waist, the power and starting cast progress of this skill increases, accumulating up to 2 levels; When this technique is used at 100% of its power, it significantly depletes the enemy's Inhale
 Reverse - Separation of\nBone And Muscle
 Shoulder pain
-When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Arm to be in "Agony" if it has Int. Injuries on it; The person who has "Arm Agony" status can't have more than 6 Styles. In addition, if there are 4 Int. Injuries on the victim's Arm, it will be considered as a Broken Arm, and it won't disappear until the victim heals all the Int. Injuries and Fatal Wounds on their Arm
+When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Arm to be in "Agony" if it has Int. Injuries on it; The person who has "Arm Agony" status can't have more than 6 Styles. In addition, if there are 4 Int. Injuries on the victim's Arm, it will be considered as a Broken Arm, and it won't disappear until the victim heals all the Int. Injuries on their Arm
 Reverse - Low-Body-Break\nFingers
 Waist pain
-When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Waist to be in "Agony" if it has Int. Injuries on it; The person who has "Waist Agony" status can't have more than 60% of Stance. In addition, if there are 4 Int. Injuries on the victim's Waist, it will be considered as a Broken Waist, and it won't disappear until the victim heals all the Int. Injuries and Fatal Wounds on their Waist
+When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique is used at 100% of its power, it will cause the enemy's Waist to be in "Agony" if it has Int. Injuries on it; The person who has "Waist Agony" status can't have more than 60% of Stance. In addition, if there are 4 Int. Injuries on the victim's Waist, it will be considered as a Broken Waist, and it won't disappear until the victim heals all the Int. Injuries on their Waist
 Reverse - Poison Dragon\nClaw
-After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied to the user by the enemy is reduced from "Level 3" to "Level 2" and from "Level 2" to "Level 1".
+E·Cast Spd Dn
+After this technique has been used for 100% of its power, the user gains 10 levels of this effect: the Pyrotoxin applied to the user by the enemy is reduced from "Level 3" to "Level 2" and from "Level 2" to "Level 1". Under this effect, cast speed of the enemy's Break skills with Pyrotoxin will be greatly reduced.
 Reverse - Hade Finger
 When you start to perform this technique, the deeper the Necrotoxin the user is, the more the power of this technique will increase
 Reverse - Blood Pool\nGhost Claw
 When this technique is used at 100% of its power, the user transfers 1 non-old internal injury from each part of the body to the enemy's "Agony" part.
 Reverse - Lower Body Kick
-At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user continuously hits the enemy's head, the power of this technique increases and the progress of its execution at the beginning increases, and this effect accumulates up to 2 levels; when attacking female enemies with this technique, the power of this technique increases significantly
+At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user hits enemy's Head, the power and starting cast progress of this skill increases, accumulating up to 2 levels; When using this skill on a Female, the power of this skill increases significantly
 Reverse - Conversely Kick\nof Toad
 When this technique is used with at least 10% of its power, the user advances 2 distances, and if the user continues to perform this technique continuously, the Stance and Inhale consumption of this technique will be greatly reduced cumulatively, up to 3 times
 Reverse - Unpredictable\nKick
@@ -3072,19 +3086,20 @@ Reverse - Scorpion's Soul\nHook Kick
 Increase attack speed
 If the attack speed of the user is higher than the enemy's, the power of this technique will be increased; according to the power of this technique, the user will be given a buff that increases the attack speed.
 Reverse - Walk And Kill
-During the performing of this technique, user can retreat up to 6 distance at once. The farther the user retreats, the more the power of this technique will increase. For every 1 distance the user retreats, they will gain 2 points of "Break" True Qi
+During the performing of this technique, user can retreat up to 6 distance at once. The farther the user retreats, the more the power of this technique will increase. For every 1 distance the user retreats, they will gain 3 points of "Break" True Qi
 Reverse - Great Yin-Wind\nKick
-When this technique is 100% powerful, the more Umbritoxin markers the user has, the more internal injury markers will be added to the enemy in random areas.
+When this technique is used at 100% of its power, the more Umbritoxin marks the user has, the more Internal Injuries and Sealed Acupoints are added to random body parts of the enemy.
 Reverse - Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements that can restrain the enemy's internal five elements are buried within the field of vision of the user, the more the power of this technique will increase
 Reverse - Blood Shadow\nKick
-If the user's Break Qi is lower than the initial value and lower than the enemy's Break Qi, this technique can be performed without the use of Inhale or Stance, in which case the power of this technique is greatly increased and the user gains 6 points of Break Qi at the end of the technique.
+If the user's Break Qi is lower than the initial value and lower than the enemy's Break Qi, the amount of Inhale, Stance, Footwork and Stamina required to use this technique is reduced by 75%, and when used this way the power of this technique is greatly increased, and the user gains 12 points of Break Qi at the end of the technique.
 Reverse - Ghost Poison\nSand
 Change E·style
 When this technique is used with at least 10% of its power, it will change up to 2 of the enemy's available styles into "Toxic" styles.
 Reverse - Decayed Worm\nSand
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's Necrotoxin attacks his heart.
 Reverse - Bone-Corrosion\nSand
+The direct damage caused by this technique to the enemy's Waist is increased by 30%; When this technique is used at 100% of its power, the enemy's Stance will be depleted
 Reverse - Grave Sand
 When the style needed to perform this technique is not enough, the user can perform it as a leg technique, the effects that can affect the leg technique will have an impact on this technique; after this technique has played a 100% power, the user will get 2 layers of this effect: for every cumulative distance back, the user will perform this technique to attack the enemy without consumption starting from 50% of the performance progress, and when performed this way, this technique has no special effects.
 Reverse - Golden Toad\nVoodoo Sand
@@ -3092,7 +3107,7 @@ When attacking the enemy with this technique, the higher the enemy's Internal Pe
 Reverse - Lady Poison
 After this technique has been used with at least 100% of it's power, the user will get 6 levels of this effect: whenever the user accumulates 1 distance back, the user's 1 "Toxic" style will be consumed, causing the enemy to move 1 distance away from the user, and after the enemy moves as a result, 1 acupuncture point in a random part of the enemy will be closed.
 Reverse - Bloodhound's\nSand
-This technique increases the amount of Pyrotoxin applied to the enemy significantly, but there is a low chance that the user will be partially poisoned with Pyrotoxin at the same time.
+The amount of Pyrotoxin applied by this skill is greatly increased, but there is a low chance that the user will also get poisoned by Pyrotoxin; Unless the victim is Immune to Pyrotoxin, the Pyrotoxin applied by this technique will ignore half of the victim's poison resistance
 Reverse - Shaolin\nLong Fist
 At the beginning of the battle, the user gains 0 levels of this effect: Each time the user receives Internal Injury or a Fatal Wound due to direct damage, this effect increases by 1 level, up to a maximum of 36 levels, with each level increasing the power of this technique
 Reverse - Shaolin\nVajra Palm
@@ -3324,7 +3339,6 @@ When this technique is used at 100% of its power, completely eliminate the effec
 Reverse - Yuanshan\nJump Kick
 Whenever the user uses "Sword" to chase the enemy at least 2 times, if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Heterodox training to Orthodox training
 Reverse - Mandarin Duck\nCombo Kick
-Inhale Cost Dn
 When this technique is used with at least 10% of its power, the amount of Inhale required to perform this technique is reduced by up to 90% and lasts until the end of the battle
 Reverse - Tiger Tail
 At the beginning of the battle, the user gains 3 levels of this effect: when the enemy attacks the user at a position smaller than the user's minimum attack distance, the attack range of this technique is greatly increased, and the user immediately attacks the enemy without consumption from 50% of the execution progress; when the active execution of this technique is performed and the power of this technique is 100%, this effect regains 1 level
@@ -3413,22 +3427,21 @@ Ele Adv·Defensive
 Reduce your damage received due the elemental advantage to the enemy
 TA·Acritoxin
 Ext Poison Dmg
-It triggers in combat when a certain number of movements are made by poisoned person, which generates extra Pyrotoxin and deals External damage depending on its amount
+It activates when 6 weapon attacks are performed in battle, produces Pyrotoxin, and causes External Injuries according to the amount of existing poison
 TA·Umbritoxin
 Int Poison Dmg
-After accumulating 9 styles more than a certain number of times, it will attack, and according to the amount of toxin derived from Cryotoxin, according to the amount of toxin caused internal injuries
+It activates when you move 3 distance in battle, produces Cryotoxin, and causes Internal Injuries according to the amount of existing poison
 TA·Cryotoxin
 Worsen Int injuries
-Attacks when Inhale is consumed, making up to 3 internal injuries worse. Generates Oneirotoxin according to the amount of toxin
+It activates when a total of 100% of victims Inhale is consumed in battle, produces Oneirotoxin, and worsens existing Internal Injuries according to the amount of existing poison.
 TA·Pyrotoxin
 Worsen Ext injuries
-When consuming the Stance, it attacks, and depending on the amount of toxin derived from the Necrotoxin, it makes up to 3 external injuries worse
+It activates when a total of 100% of victims Stance is consumed in battle, produces Necrotoxin, and worsens existing External Injuries according to the amount of existing poison.
 TA·Necrotoxin
-Negate Ext Heal
-It triggers in combat on healing External injury, which generates extra Acritoxin and reduces this healing effect
+E·Force Dn
+It continuously generates Acritoxin, during the battle, and reduces the External Defense according to the amount of existing poison.
 TA·Oneirotoxin
-Negate Int Heal
-It triggers in combat on healing Internal injury, which generates extra Umbritoxin and reduces this healing effect
+It continuously generates Umbritoxin during the battle, and reduces Internal Defense according to the amount of existing poison.
 Receiving Moves
 First move!
 Receive a few moves and survive to win! Enemy skills are cast without any consumption.
@@ -3539,7 +3552,7 @@ ride the light and cloak the haze
 When moving with this divine power, the operator needs to accumulate power. After accumulating power, the operator can appear at any distance without triggering various movement effects
 Magic I am free
 Distance cannot be changed
-During the duration of this divine power, the distance between the enemy and us cannot change for any reason, and the attack range of the phase pivot changes to the maximum
+When performing this divine power, the Xiangshu will appear at the required distance. During the duration of this divine power, the distance between the user and the enemy cannot be changed by any means, and the attack range of the Xiangshu will be changed to the maximum
 Dust Dye
 During the duration of this divine power, whenever the Ran Chenzi hits an enemy, it will cause 1 of the enemy's techniques that are not permanently blocked to be "blocked" for a short time.
 Transformation of the sword
