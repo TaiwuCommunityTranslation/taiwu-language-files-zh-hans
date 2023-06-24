@@ -84,7 +84,7 @@ One with the Forest
 Inhale and Stance Recoveries are increased by 50%
 <color=#lightgrey>When located in <color=#brightblue>Woodland or Forest</color> tiles, the Inhale and Stance Recoveries are greatly improved</color>
 Empty Stream
-Stamina recovery speed increased by 50%
+Stamina recovery speed increased by 100%
 <color=#lightgrey>When located in <color=#brightblue>River Beach, River Valley, or Gorge</color> tiles, the Stamina recovery speed is greatly improved</color>
 Smoky Wave
 Footwork charge speed (?) increased by 50%
