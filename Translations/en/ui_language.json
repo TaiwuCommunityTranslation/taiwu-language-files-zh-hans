@@ -1626,7 +1626,7 @@
   "LK_Main_SummaryInfo_Happiness_TipContent": "Character's mood... \n\n<color=#pinkyellow>·There are lots of factors causing mood change \n·Every time your mood decrease, your inner demon will get stronger \n·Mood from lowest to highest： \n\n<SpName=mousetip_lingxing> <SpName=mousetip_xinqing_0><color=#HappinessType_Saddest>Grieving</color> \n<SpName=mousetip_lingxing> <SpName=mousetip_xinqing_1><color=#HappinessType_Painful>Painful</color> \n<SpName=mousetip_lingxing> <SpName=mousetip_xinqing_2><color=#HappinessType_Depressed>Frustrated</color> \n<SpName=mousetip_lingxing> <SpName=mousetip_xinqing_3><color=#HappinessType_Normal>Normal</color> \n<SpName=mousetip_lingxing> <SpName=mousetip_xinqing_4><color=#HappinessType_Pleased>Happy</color> \n<SpName=mousetip_lingxing> <SpName=mousetip_xinqing_5><color=#HappinessType_Delighted>Joyful</color> \n<SpName=mousetip_lingxing> <SpName=mousetip_xinqing_6><color=#HappinessType_Happiest>Ecstatic</color></color>",
   "LK_HappinessLevel_0": "<color=#HappinessType_Saddest>Grieving</color>",
   "LK_HappinessLevel_1": "<color=#HappinessType_Painful>Painful</color>",
-  "LK_HappinessLevel_2": "<color=#HappinessType_Depressed>Frusrated</color>",
+  "LK_HappinessLevel_2": "<color=#HappinessType_Depressed>Frustrated</color>",
   "LK_HappinessLevel_3": "<color=#HappinessType_Normal>Normal</color>",
   "LK_HappinessLevel_4": "<color=#HappinessType_Pleased>Happy</color>",
   "LK_HappinessLevel_5": "<color=#HappinessType_Delighted>Joyful</color>",
