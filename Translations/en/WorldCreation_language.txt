@@ -51,4 +51,4 @@ Your choices in events will be restricted based on your standpoint, for a more r
 On
 Off
 Random Heir
-When the Taiwu (player) dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir.\n<color=#E3C66DFF>(The game is over if no heir is assigned!)</color>\n<color=#E4504DFF> (This option cannot be changed after the game has started!) </color> 
+When the Taiwu (player) dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir.\n<color=#E3C66DFF>(The game is over if there's no available heir!)</color>\n<color=#E4504DFF>(This option cannot be changed after the game has started!) </color>
