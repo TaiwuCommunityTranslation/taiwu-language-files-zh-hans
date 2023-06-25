@@ -101,7 +101,7 @@
   "UI_NewGame_Tip_ChangeGoodness_Content": "Drag to change the character's standpoint...",
   "UI_NewGame_BtnTip_RandomName_Title": "Random Name",
   "UI_NewGame_BtnTip_RandomName_Content": "Randomly generate the character's name...",
-  "UI_NewGame_NameLimit": "Either surname or name cannot be exceeded 2 characters",
+  "UI_NewGame_NameLimit": "Neither surname nor name can exceed 7 characters",
   "UI_NewGame_BornAttribute": "Birth Attributes",
   "UI_NewGame_AgeLabel": "Age: ",
   "UI_NewGame_BornDateInfo": "【{0}】",
