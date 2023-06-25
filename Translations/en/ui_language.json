@@ -2365,7 +2365,7 @@
   "LK_ReourceInputPlaceHolder": "Enter Resource",
   "LK_SettlementInfo_Sect": "Sect Info",
   "LK_SettlementInfo_Town": "Town Info",
-  "LK_Organization_ExtraDescFormat": "<color=#lightgrey>（{0}'s is a {1}；The {2} position is controlled by {3} people. {4}）</color>",
+  "LK_Organization_ExtraDescFormat": "<color=#lightgrey>({0} is a {1}; Main standpoint is {2}, most people in the sect are {3}. {4})</color>",
   "LK_Organization_ExtraDescFameLimitHigh": "We will not teach martial arts to those whose reputation is too good.",
   "LK_Organization_ExtraDescFameLimitLow": "We will not teach martial arts to those whose reputation is too bad",
   "LK_Organization_ExtraDescGood": "<color=#lightblue>Upright</color> sect",
