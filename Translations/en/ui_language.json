@@ -3099,7 +3099,7 @@
   "LK_CombatSkill_MasteredCombatSkills_Confirm_Dialog_Title": "Inner Refinement",
   "LK_CombatSkill_MasteredCombatSkills_Confirm_Dialog_Content": "Refining this Inner Art <color=#brightred>will cause some of the equipped skills to be unequipped!</color>\nAre you sure about it?",
   "LK_CombatSkill_MasteredCombatSkills_Tip_Title": "Skill Refinement",
-  "LK_CombatSkill_MasteredCombatSkills_Tip_Content": "Refine your skills and simplify them to <color=#brightblue>reduce the number of required slots for a skill by 1!</color>\nHowever, <color=#brightred> the requirements to use that skill will significantly increase...</color>\nIf an Inner Art is refined, all the skill slots provided by it <color=#brightred>will be converted into fewer universal slots!</color> ",
+  "LK_CombatSkill_MasteredCombatSkills_Tip_Content": "Refine this skill, and simplify it to <color=#brightblue>reduce the number of slots required to equip it by 1!</color>\nHowever, <color=#brightred>the requirements to use that skill will be significantly increased...</color>\nIf an Inner Art is refined, all skill slots provided by it <color=#brightred>will be converted into fewer universal slots!</color>",
   "LK_CharacterLocationFind_Tips_NotAvailable": "The target is in another prefecture's territory...",
   "LK_CharacterLocationFind_Tips_Unknown": "The target is in an unknown location...",
   "LK_CharacterLocationFind_Tips_NeedToUnlock": "The target is in a location that hasn't been unlocked yet...",
