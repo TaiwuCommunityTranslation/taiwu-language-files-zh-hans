@@ -4,7 +4,7 @@ Death of Taiwu
 {0} has died in {1}.
 Regional collapse
 The earth was torn apart by basalt stones everywhere, {0} falling into the basalt cracks!
-Taigo into the Devil
+Taiwu into the Devil
 {0} in {1} has been enthralled.
 Taiwu into the evil
 {0} in {1} has turned into a XiangShu.
@@ -374,7 +374,7 @@ End the month-over event, enter the branch according to the parameter judgment
 Vajrayana Prospers
 Vajrayana Declines
 As you wish
-Fulfilled the wish made by Taigo
+Fulfilled the wish made by Taiwu
 Five Immortals Cult Prospers
 Five Immortals Cult Declines
 Mutation of the Five Immortals
