@@ -858,7 +858,7 @@
   "LK_Book_Page_Info_Title": "【Book Content】",
   "LK_CombatSkill_Book_Type_Desc": "{0} Martial Art",
   "LK_Book_Page_State_Complete": "○Full",
-  "LK_Book_Page_State_Incomplete": "△Broken",
+  "LK_Book_Page_State_Incomplete": "△Half",
   "LK_Book_Page_State_Lost": "×Lost",
   "LK_Book_Page_Readed": "Read",
   "LK_Book_Page_Not_Read": "Unread",
