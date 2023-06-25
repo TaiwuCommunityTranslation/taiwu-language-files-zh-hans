@@ -2567,7 +2567,7 @@
   "LK_Goodness_Desc_Color_1": "You are compassionate, <color=#BehaviorType_Kind>Kind</color>, and behaves noble. \nDedicating yourself to others, and repaying grievances with virtue. Your sense of morality is precious as gold and jade.",
   "LK_Goodness_Desc_Color_2": "You are moderate, unbiased, and <color=#BehaviorType_Even>Even</color>.\nEverything goes with the flow, but prefers balance and harmony. You may finally tolerate everything in the world, for there is a lack of distinction between righteousness and evil in your heart.",
   "LK_Goodness_Desc_Color_3": "You are <color=#BehaviorType_Rebel>Rebellious</color>, straightforward, intolerant, and distort facts. \nHaving opposite views and practices than most people.",
-  "LK_Goodness_Desc_Color_4": "You are <color=#BehaviorType_Egotistic>Egoistic</color>. Bullying the weakers, crusading the different ones, colluding with the villains, and deceiving kind people. \nMercenary is ruthless, for profit is the only thing that matters.",
+  "LK_Goodness_Desc_Color_4": "You are <color=#BehaviorType_Egoistic>Egoistic</color>.\n Bullying the weak, colluding with villains, and deceiving kind people. Nothing matters to you except for your goals.",
   "LK_WorldMap_Building": "Industry",
   "LK_WorldMap_Settlement": "Settlement",
   "UI_CgPlayer_JumpNotice": "Click the left mouse button again to skip the animation",
