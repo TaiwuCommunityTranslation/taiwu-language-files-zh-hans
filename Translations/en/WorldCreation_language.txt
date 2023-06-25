@@ -22,7 +22,7 @@ Determines the success rate of connecting cells during skill breakthroughs.\n<co
 <color=#9FE0DCFF>Normal</color>
 <color=#FFE78FFF>Difficult</color>
 <color=#FF5331FF>Lost</color>
-Cultivation Speed
+Cultivation
 Determines how much internal energy you get every month.\n<color=#yellow>(The higher the Cultivation Speed, the higher the amount of internal energy obtained from Inner Arts every month.)</color>
 <color=#pinkyellow>Crash Course</color>
 <color=#FF5331FF>Hard Work</color>
