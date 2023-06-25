@@ -9,7 +9,7 @@ Determines complexity of combat AI. Affects the level of strength and strategy o
 <color=#pinkyellow>Very Easy</color>
 <color=#9FE0DCFF>Difficult</color>
 <color=#FFE78FFF>Severe</color>
-<color=#FF5331FF>Taiwu Must Die</color>
+<color=#FF5331FF>Deadly</color>
 Study Speed
 The basic efficiency of studying books.\n<color=#yellow>(The higher the study efficiency, the more study progress books will receive every month.)</color>
 <color=#pinkyellow>Fast</color>
