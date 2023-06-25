@@ -47,7 +47,7 @@ Less
 More
 Overwhelming
 Standpoint
-Choices made in events will be limited based on different standpoint restrictions, for a more realistic Taiwu world. (i.e., if you have chosen the Kind standpoint, you're limited to -------)
+Your choices in events will be restricted based on your standpoint, for a more realistic experience. (i.e. if you're Kind, you will be able to select Just, Kind, and Even choices in events.)
 On
 Off
 Random Heir
