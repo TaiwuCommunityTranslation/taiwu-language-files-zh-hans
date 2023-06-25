@@ -2368,7 +2368,7 @@
   "LK_Organization_ExtraDescFormat": "<color=#lightgrey>（{0}'s is a {1}；The {2} position is controlled by {3} people. {4}）</color>",
   "LK_Organization_ExtraDescFameLimitHigh": "We will not teach martial arts to those whose reputation is too good.",
   "LK_Organization_ExtraDescFameLimitLow": "We will not teach martial arts to those whose reputation is too bad",
-  "LK_Organization_ExtraDescGood": "<color=#lightblue>Good</color>Sects",
+  "LK_Organization_ExtraDescGood": "<color=#lightblue>Upright</color> sect",
   "LK_Organization_ExtraDescEvil": "<color=#red>Evil</color> Sects",
   "LK_Organization_ExtraDescNormal": "<color=#white>Neutral</color>Sects",
   "LK_Organization_ExtraDescSterilization": "Marriage is forbidden in this sect!",
