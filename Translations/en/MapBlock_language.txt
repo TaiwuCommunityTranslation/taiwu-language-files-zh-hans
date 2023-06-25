@@ -227,9 +227,9 @@ Sword Manor Workshop
 KongSang Sect
 The KongSang Sect  is also known as 'KongSang School of Toxicology'. AAlthough the KongSang Mountain is a snow-capped mountain, it has a special place where exotic plants are found. Disciples of the KongSang Sect's medicine can bring back the dead, and create murderous toxins second to none\n<color=#lightgrey>(Kongsang is a <color=#white>Neutral</color> sect; Main standpoint is <color=#red>Egoistic</color>, most people in the sect are <color=#red>Egoistic</color>.)</color>
 The Secret Realm of the Kongsang Sect
-Airsanpai Den
-Airsanpai Medicine Garden
-Airsanpai Toju
+Kongsang Den
+Kongsang Medicine Garden
+Kongsang Toju
 Vajrayana
 The Vajrayana Sect is a branch of Tantric Buddhism transmitted from the ancient kingdom of Xiangxiong. The Vajra Sect has many disciples, and its divine power is incomparable, but it acts viciously and viciously, and is very different from the orthodox Tantric sects, and is the great enemy of the martial artists.\n<color=#lightgrey>(Vajrayana is an <color=#red>Evil</color> sect; Main standpoint is <color=#red>Egoistic</color>, most people in the sect are <color=#red>Egoistic</color>; They will not pass their knowledge to people with a positive Fame.)</color>
 Vajrayana Sect Temple
