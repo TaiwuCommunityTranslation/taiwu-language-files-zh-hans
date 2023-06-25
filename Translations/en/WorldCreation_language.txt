@@ -46,7 +46,7 @@ Controls the maximum limit of concurrent NPCs in the game. The more NPCs there a
 Less
 More
 Overwhelming
-Restriction on Standpoint
+Standpoint
 Choices made in events will be limited based on different standpoint restrictions, for a more realistic Taiwu world. (i.e., if you have chosen the Kind standpoint, you're limited to -------)
 On
 Off
