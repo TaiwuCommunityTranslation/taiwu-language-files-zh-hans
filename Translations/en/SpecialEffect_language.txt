@@ -2707,7 +2707,7 @@ When this technique is used at 100% of its power, if the user hits the enemy's h
 Reverse - Conversely\nBeating As Rocking Sky
 If the enemy has no memory of this technique when you start to perform this technique: the enemy's Internal Defense is reduced by half; the enemy will not try to defend against this technique, and neither the enemy's "Aegis" nor "Quick" techniques will take effect when attacked by this technique, and this technique can inflict an additional 1 critical hit mark after it has exerted at least 10% of its power
 Reverse - One Step Turn
-During the enemy's performance of a technique, the user can perform this technique from 50% of the performance progress; after this technique has exerted at least 10% of its power, the user retreats 2 distances, and this effect cannot be repeated during the enemy's performance of a technique
+When enemy performs a technique, the user can perform this technique from 50% of progress; When this technique is used with at least 10% of its power, retreat 2 distance. This effect cannot be repeated during the cast of the same technique.
 Reverse - Cuckoo's\nPecking
 For every 1 internal injury mark this technique inflicts on an enemy, it causes 1 sealed point to appear on the enemy's attacked area
 Reverse - Small 8 Moves\nof Gold Clank
