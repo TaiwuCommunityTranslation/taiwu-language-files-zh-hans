@@ -2367,7 +2367,7 @@
   "LK_SettlementInfo_Town": "Town Info",
   "LK_Organization_ExtraDescFormat": "<color=#lightgrey>({0} is a {1}; Main standpoint is {2}, most people in the sect are {3}. {4})</color>",
   "LK_Organization_ExtraDescFameLimitHigh": "We will not teach martial arts to those whose reputation is too good.",
-  "LK_Organization_ExtraDescFameLimitLow": "We will not teach martial arts to those whose reputation is too bad",
+  "LK_Organization_ExtraDescFameLimitLow": "They will not pass their knowledge to people with a negative Fame.",
   "LK_Organization_ExtraDescGood": "<color=#lightblue>Upright</color> sect",
   "LK_Organization_ExtraDescEvil": "<color=#red>Evil</color> sect",
   "LK_Organization_ExtraDescNormal": "<color=#white>Neutral</color> sect",
