@@ -16,7 +16,7 @@ The basic efficiency of studying books.\n<color=#yellow>(The higher the study ef
 <color=#9FE0DCFF>Normal</color>
 <color=#FFE78FFF>Slow</color>
 <color=#FF5331FF>Heavenly</color>
-Breakthrough Difficulty
+Breakthrough
 Determines the success rate of connecting cells during skill breakthroughs.\n<color=#yellow>(The higher the breakthrough success rate, the easier it is to choose a route during breakthroughs.)</color>
 <color=#pinkyellow>Easy</color>
 <color=#9FE0DCFF>Normal</color>
