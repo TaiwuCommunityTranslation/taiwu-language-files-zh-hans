@@ -44,8 +44,8 @@ A prosperous world will benefit the development of Taiwu.\nBut even the most bar
 World Population
 Controls the maximum limit of concurrent NPCs in the game. The more NPCs there are, the more diverse the World of Taiwu will be.\n<color=#E3C66DFF>(Higher processing power is required for larger world population)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
 Less
-More
-Overwhelming
+High
+Extreme
 Standpoint
 Your choices in events will be restricted based on your standpoint, for a more realistic experience. (i.e. if you're Kind, you will be able to select Just, Kind, and Even choices in events.)
 On
