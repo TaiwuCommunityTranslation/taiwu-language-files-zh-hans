@@ -171,7 +171,7 @@ Bamboo Hut
 A tiny bamboo hut. The bamboo walls already lost its original color and become darker and darker.
 A tiny bamboo hut.
 ShaoLin
-The Shaolin school is the titan of the formal martial arts school. Bodhidharma's ancestor entered the martial arts with Zen and faced the wall in Shaolin Temple for nine years, creating the 'Seventy-two Perfect Techniques', all of which are the best in the world. \n <color=#lightgrey> (The Shaolin school is <color=#lightblue> the authentic school </color> the famous sect; position to <color=#lightblue> benevolence </color> as the main, the temple in the <color=#lightblue> benevolence </color> of the man; will not be too low reputation to teach people martial arts.) </color> 
+The Shaolin school is the titan of the formal martial arts school. Bodhidharma's ancestor entered the martial arts with Zen and faced the wall in Shaolin Temple for nine years, creating the 'Seventy-two Perfect Techniques', all of which are the best in the world.\n<color=#lightgrey>(Shaolin is an <color=#lightblue>Upright</color> sect; Main standpoint is <color=#lightblue>Kind</color>, most people in the sect are <color=#lightblue>Kind</color>. They will not pass their knowledge to people with a negative Fame.) </color>
 Shaolin School Dharma Cave
 Shaolin School Back Mountain
 Shaolin's Pagoda Forest
