@@ -26,7 +26,7 @@ Cultivation
 Determines how much internal energy you get every month.\n<color=#yellow>(The higher the Cultivation Speed, the higher the amount of internal energy obtained from Inner Arts every month.)</color>
 <color=#pinkyellow>Fast</color>
 <color=#FF5331FF>Hard Work</color>
-Outlaws Amount
+Outlaws
 The number of Villains and Outlaws scattered throughout the world.\n<color=#E3C66DFF>(The more Villains and Outlaws there are, the easier it is for you to be attacked.)</color>
 <color=#pinkyellow>Less</color>
 <color=#FFE78FFF>More</color>
