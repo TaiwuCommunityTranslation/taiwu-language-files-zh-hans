@@ -294,7 +294,7 @@ Like flowers in the mirror,  or the illusion of moon reflected by water. One may
 An extension building built next to "Chess Room" with "Empty Mirror" as the heart material, which needs to be adjacent to "Eternal Ice". \nThe building can increase the "Chess" attainments of people within the influence of the town or sect to which it belongs.
 Strategy Room
 There are maps hanging on the wall,  long tables in the center,  and all kinds of informations are all there. The room where strategy can be formulated and various actions are planned.
-This is an extension building built next to "Chess Room" with "Founder's Guide" as the core material. \n can increase the upper limit of the number of Taigo's fellow trainees.
+This is an extension building built next to "Chess Room" with "Founder's Guide" as the core material. \n can increase the upper limit of the number of Taiwu's fellow trainees.
 Study Room
 Books,  scrolls are on the shelves.The four treasures are on the desk: pen,  ink,  paper,  enamel. There are lights and tea,  as well as a number of antiques.
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Literature" books. \nThe larger the size of the study room, the more the efficiency will be increased, but the effect of multiple study rooms will not stack.
@@ -357,7 +357,7 @@ A tower built with the rarest stones,  metals and woods collected from the five 
 An extension building built next to the "Observatory" using the "Kunlun Mountain God Statue" as the heart material, which must be adjacent to the "Dragon Vein". \nThis building will increase the "Astrology" attainments of the people within the influence of the town or sect to which it belongs.
 Life and Death Observatory
 "There are woes and blessings for people, and longevity. Both are born and perish again, and both perish and are born again". The two star streamers of birth and death are one positive and one negative, one side is painted with the seven stars of the Big Dipper and the other side with the six stars of the Southern Dipper, and the two sides turn with the wind and are reversed from time to time.
-This is an extension building built next to the "Observatory" using the "Two Star Chart of Life and Death" as the core material. \n can improve Taigo's life legacy.
+This is an extension building built next to the "Observatory" using the "Two Star Chart of Life and Death" as the core material. \n can improve Taiwu's life legacy.
 Clarifier
 A small hall built in the deep well where the spring was excavated. In the Clarifier,  facilities for water purification are installed to optimize water quality.
 It increases the efficiency of characters within the area of influence of the town or sect to which they belong when studying "Appreciation" books. \nThe larger the size of the Clarifier, the greater the increase in efficiency, but the effects of multiple Clarifiers do not stack.
