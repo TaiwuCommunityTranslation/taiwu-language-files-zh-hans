@@ -2370,7 +2370,7 @@
   "LK_Organization_ExtraDescFameLimitLow": "We will not teach martial arts to those whose reputation is too bad",
   "LK_Organization_ExtraDescGood": "<color=#lightblue>Upright</color> sect",
   "LK_Organization_ExtraDescEvil": "<color=#red>Evil</color> sect",
-  "LK_Organization_ExtraDescNormal": "<color=#white>Neutral</color>Sects",
+  "LK_Organization_ExtraDescNormal": "<color=#white>Neutral</color> sect",
   "LK_Organization_ExtraDescSterilization": "Marriage is forbidden in this sect!",
   "UI_CheckInspcription_Attribute": "Attribute",
   "UI_CheckInspcription_MainAttribute": "Main Stats",
