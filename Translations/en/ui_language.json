@@ -159,7 +159,7 @@
   "UI_NewGame_BornAbility_Skill_Title": "Select Talent Traits",
   "UI_NewGame_BornAbility_Selected_Title": "Select Traits",
   "UI_NewGame_BornAbility_LeftPoint": "Available Points: ",
-  "UI_NewGame_Tip_PointInfo": "<color=#FBFBFBFF>Trait points spent: <color={0}>{1}</color></color>\n<color={2}>Requires {3} points: <color={4}>{5}</color> / {6}</color>",
+  "UI_NewGame_Tip_PointInfo": "<color=#FBFBFBFF>Cost: <color={0}>{1}</color></color>\n<color={2}>{3} points spent: <color={4}>{5}</color>/{6}</color>\n\n",
   "UI_NewGame_BornPlaceInfo": "Birthplace Info",
   "UI_NewGame_PlaceMainCity": "{0}Major City: <color=#pinkyellow>【{1}】</color>",
   "UI_NewGame_PlaceMainGang": "{0}Major Sect: <color=#pinkyellow>【{1}】</color>",
