@@ -610,7 +610,7 @@ During the duration of this Footwork, if the Accuracy stat of the user when atta
 During the duration of this Footwork, if the user uses the "Aegis" technique, the enemy's Stance Recovery will be reduced
 Cloud Surround
 Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this Footwork, the user's Stamina is restored.
-Big Dipper Step of Heavenly Spirit
+Big Dipper Step\nof Heavenly Spirit
 Gain Specific Force
 Every time you move 1 distance with this Footwork, the user gains "Quick" true energy according to the amount of "Break" true energy the user has, and when the effect of this Footwork ends or expires, the user loses all "Quick" true energy gained in the process. Amount gained = (0.2 * [Break value] )
 The One Step
