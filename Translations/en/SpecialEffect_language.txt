@@ -2354,7 +2354,7 @@ Reverse - 8 Trigrams Step
 During the duration of this Footwork, if the user uses the "Aegis" technique, the enemy's Inhale recovery will be reduced.
 Reverse - Cloud Surround
 During the duration of this technique, whenever the user hits the enemy with a "Whisk" type weapon, the enemy's Stamina will be lost.
-Reverse - Big Dipper Step of Heavenly Spirit
+Reverse - Big Dipper Step\nof Heavenly Spirit
 Every time you move 1 distance with this Footwork, depending on the amount of "Aegis" True Qi the user has, the user gains "Quick" True Qi, and when the effect of this Footwork ends or expires, the user loses all the "Quick" True Qi gained in the process. Amount gained = (0.2 * [Aegis value] )
 Reverse - The One Step
 Lowering the enemy's internal power play
