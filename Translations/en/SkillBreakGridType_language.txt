@@ -26,7 +26,7 @@ Steady
 The connection success chance of this cell is increased by 60%. \nConnecting to this cell decreases your attempts by 1.
 Hard Work
 The connection success chance of this cell is increased by 100%. \nConnecting to this cell decreases your attempts by 2.
-Clairty
+Clarity
 Reveals some hidden cells.
 Challenge
 The success chance of this cell is reduced by 60%. \nConnecting to this cell will restore adjacent cells from failed to connectable.
