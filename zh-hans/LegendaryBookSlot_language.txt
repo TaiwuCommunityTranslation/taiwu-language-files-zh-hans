@@ -54,7 +54,7 @@
 <color=#brightblue>敌人身上的破绽越多，运用者主动施展放置其中的刀法时，刀法的伤害就越高，</color><color=#brightred>但此刀法在施展结束后将不可避免地被「封禁」，持续直到战斗结束。</color>
 <color=#brightblue>在敌人施展刀法的过程中，如果运用者主动施展放置其中的刀法攻击敌人，且发挥十成威力时，将可打断敌人的功法施展；</color><color=#brightred>但施展此功法所需的时间提高50%。</color>
 闯阵
-<color=#brightblue>放置其中的兵器能够招架的战败标记数量额外提高30%。</color>
+<color=#brightblue>放置其中的兵器可招架的伤害数值额外提高30%。</color>
 绝斗
 <color=#brightblue>运用者的战败标记越多，运用者主动施展放置其中的长兵功法时，长兵功法的伤害就越高，</color><color=#brightred>但此长兵功法在施展结束后将不可避免地被「封禁」，持续直到战斗结束。</color>
 <color=#brightblue>在敌人施展长兵功法的过程中，如果运用者主动施展放置其中的长兵功法攻击敌人，且发挥十成威力时，将可打断敌人的功法施展；</color><color=#brightred>但施展此功法所需的时间提高50%。</color>
