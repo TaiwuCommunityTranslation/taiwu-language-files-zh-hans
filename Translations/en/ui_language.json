@@ -4188,7 +4188,7 @@
   "GM_CreateSecretInformationByCharacterIds_Name": "Create a Secret by Character Id",
   "GM_MakeCharacterReceiveSecretInformation_Name": "Cause a character to receive a secret",
   "GM_GiveNormalInformationToCharacter_Name": "Giving character insights",
-  "GM_SimulateNpcCombat_Arg1_Tips": "Enter in the format [Id-rank] \\n separated by commas can be assigned plural e.g. 1-1, 2-3, 5-4",
+  "GM_SimulateNpcCombat_Arg1_Tips": "Enter in the format [Id-rank]\n separated by commas can be assigned plural e.g. 1-1, 2-3, 5-4",
   "GM_QueryFixedCharacterIdByTemplateId_Name": "Query NPC instance Id",
   "GM_QueryFixedCharacterIdByTemplateId_Arg0_Name": "Template Id",
   "GM_AddCharacterRelationship_Name": "Add character relationships",
