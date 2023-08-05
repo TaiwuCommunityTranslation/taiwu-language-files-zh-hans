@@ -303,7 +303,6 @@ Kongsang Traitor
 Liao
 Wuming
 Somber Monk
-Insane Man
 Hong Yi
 Elder
 Ji
@@ -323,11 +322,11 @@ Razor Snake
 Wind Snake
 Xuannyu Immortal
 Xuannyu Ghost
-Shi
+West
 Wu Fen
 Man
 Shi
-Wei Zhi
+Weizhi
 Girl
 He
 Affinity
@@ -340,7 +339,7 @@ Earth Demons
 Human Demons
 Lei
 Kun
-Master of the Flying Lions
+Hall Master
 Disciples of Flying Lion Hall
 Foreign Master
 Dharma Seeker
@@ -360,3 +359,6 @@ Evil Old Man
 Evil Father
 Kind Old Man
 Mysterious Person
+Dark River Serpent
+Liao Shi's Ancient Cauldron
+Little Black Snake
