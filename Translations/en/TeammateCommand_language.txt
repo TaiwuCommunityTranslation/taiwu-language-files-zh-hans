@@ -1,15 +1,30 @@
 Swap
+Can use「Swap」order to become a main fighter for a short amount of time.
 Haste
+Can use「Haste」order to increase cast progress of the main fighter's skill.
 Push
+Can use「Push」order to bring main fighter closer to the opponent.
 Pull
+Can use「Pull」order to bring main fighter away from the opponent.
 Attack
+Can use「Attack」order to attack the enemy.
 Defend
+Can use「Defend」order to protect main fighter from the opponent's skill using Aegis skill.
 Heal
+Can use「Heal」order to use Healing on the main fighter.
 Detox
+Can use「Detox」order to use Detox on the main fighter.
 Mend
+Can use「Mend」order to remove Weak Points from the main fighter.
 Release
+Can use「Release」order to remove Sealed Acupoints from the main fighter.
 Guide
+Can use「Guide」order to increase main fighter's Might, Finesse, and Swiftness for a short amount of time.
 Warn
+Can use「Warn」order to increase main fighter's Diversion, Parry, and Evasion for a short amount of time.
 True Qi
+Can use「True Qi」order to transfer a part of your own True Qi to the main fighter.
 Sacrifice
+Can use「Sacrifice」order to share Injuries and Fatal Wounds of the main fighter.
 Restrain
+Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time.
