@@ -323,30 +323,46 @@ Jiangnan Temples
 Travel to <color=#orange>Jiangnan</color> to visit temples.
 Jiangbei Temples
 Travel to <color=#orange>Jiangbei</color> to visit temples.
-Strange Poison Remedy
-Did not agree to drug test with Liao Wuming
+Poison Test
+Accept request of the <color=#orange>Sect Master of Kongsang Sect</color>
+Accept request of the <color=#orange>Sect Master of Kongsang Sect</color> to help Liao Wuming with a poison test.
+I wonder what's so strange about this poison test...
 Wuming's Search
-Liao Wuming first search, before the appearance of the over the moon event
+Talk to <color=#orange>Liao Wuming</color> after locating him
+Talk to <color=#orange>Liao Wuming</color>,then <color=#orange>wait</color> until he finds a candidate to poison test before going to help.
+Liao Wuming wants to test the poison, so he needs to find a suitable candidate...
 Wuming's Drug Test
-Liao Wuming went to {0} to search
-Will start the first test
+Go to <color=#orange>{0}</color> to help Liao Wuming with testing poison.
+Liao Wuming sent a letter saying that he finally found a test subject to test poison at <color=#orange>{0}</color>, go and help him.
+Since Liao Wuming has found a test subject, I will go to help...
 Look for the Sect Master
-Need to return to Kongsang after the first drug test
-Liao Wuming searched for people again. After visiting the sect, before the over the month event
-Liao Wuming was looking for someone again. Before the over the month event
-Will start the second test
-After the second poison test, you need to return to Kongsang
-Liao Wuming's last search for someone, after visiting the sect, before the over the month event
-Liao Wuming's last search for someone, before the over the month event
-Will start the third test
-After the third poison test, you need to return to Kongsang
+Return to <color=#orange>Kongsang Sect</color> and speak with the Sect Master
+Return to <color=#orange>Kongsang Sect to speak with Sect Master</color>, and inform them about how poison test went.
+This matter is strange, could it be that the strange poison has not been refined...
+<color=#orange>Wait</color> while Liao Wuming is looking for someone.
+<color=#orange>Calmly wait</color> for Liao Wuming to finish finding a test subject.
+I wonder who Liao Wuming will find this time...
+Return to <color=#orange>Kongsang Sect</color>,<color=#orange>visit it's Sect Master</color>, and recount what happened during the poison test.
+I wonder how Kongsang Sect will react to Liao Wuming's matter...
+Go to <color=#orange>{0}</color> to find Liao Wuming
+Return to <color=#orange>Kongsang Sect</color>,<color=#orange>visit it's Sect Master</color>, and tell them about the experience of testing that poison.
+The poison test is really strange, i better go and ask Sect Master about it...
 Searching for Wuming
-After returning to Kongsang for the third time, wait for Liao Wuming to appear outside the Kongsang sect
-After the death fight with Liao Wuming, you need to return to Kongsang to see the conclusion
+Talk to <color=#orange>Liao Wuming</color>
+Talk to <color=#orange>Liao Wuming</color>, and ask him about the strange poison.
+“Strange poison” is indeed strange, but is it really “poison”.....
+Strange Poison Completed
+Return to <color=#orange>Kongsang Sect</color> and report to the Sect Master
+The strange poison has been completed, return to <color=#orange>Kongsang Sect</color>, <color=#orange>visit it's Sect Master</color>, and report about finishing the job of poison testing.
+Let's go to meet the head of Kongsang to recount the matter...
 Whereabouts of the deceased
-Use this task as a reminder before the Hundred Years Adventure appears
+Old friend leaves, never experiencing precious life
+「Those who are unable to achieve immortality are like mayflies to the world.」With Liao Wuming's disappearance, his survival is uncertain. I wonder if we'll be able to meet again in the future?
+With old friend's disappearance, i wonder if we'll be able to meet again in the future...
 The Death of Eternal Life
-Use this task as a reminder before The Death of Eternal Life appears
+Enter <color=#orange>The Death of Eternal Life</color> adventure
+Go to <color=#orange>「Kongsang Mountain」</color> and enter <color=#orange>「The Death of Eternal Life」</color> adventure.
+I think the fate with the old friend is not over, there is still a time to meet again...
 Bloody Grave Digger
 Go to <color=#orange>Bloodhound Cult</color> and start digging graves and tombs nearby
 Go near the vicinity of <color=#orange>Bloodhound Cult</color>, and dig the tombs of Blood Sect disciples to find out about ghosts.
@@ -403,12 +419,18 @@ Looking for Ji Xi
 Go to <color=#orange>{0}</color> to find Ji Xi
 Go to <color=#orange>{0}</color> to find Ji Xi and talk to her.
 Since Ji Xi left Taiwu Village, why not ask her about it...
-Shaolin's Movement
-This quest appears after the fall of the Pagoda Forest
-Dirty Statue
-Available when holding the Dirty Statue item
+Pagoda Forest Colapses
+Talk to people of <color=#orange>Shaolin</color>
+Talk to <color=#orange>Shaolin</color> people, and <color=#orange>ask</color> them about the collapsing Pagoda forest
+Pagoda Forest is collapsing, i wonder why...
+Rotten Wood Sculpture
+Hold Dirty Sculpture and <color=#orange>wait for the opportunity</color>
+A little monk had entrusted you with <color=#orange>returning the Dirty Sculpture to Shaolin</color>; However, the collapses in the Pagoda Forest were anything but ordinary, so perhaps you will be able to find an <color=#orange>opportunity</color>, so why not save it for now and <color=#orange>calmly wait</color> for a golden opportunity.
+Perhaps this sculpture is hiding a profound secret, it's better to wait for now and carefully observe it...
 Return the Statue
-This quest appears when the sect's prosperity decline happens
+Return the <color=#orange>Dirty Sculpture</color> to Shaolin
+<color=#orange>Interact</color> with a Shaolin character to return <color=#orange>Dirty Sculpture</color> to Shaolin.
+The opportunity in the dream is over, and the way of Zen and martial arts has been cultivated...
 Xuannyu's Abnormal Change
 Stay in the Xuannyu after the initial incident to investigate
 Practice Heterodox Wudang skill in {0} to investigate
@@ -491,8 +513,8 @@ Eliminating Traitors
 Eliminate the traitors of the Lion-Face Clan
 Banish Foreigners
 Eliminate foreign enemies
-Wait for the follow-up
-The matter of the Lion-Face Clan comes to an end
+Go to a Celebratory Feast
+Travel to the Lion-Face Clan for a celebratory feast
 No Way for the People to Live
 People of Kunlun Mountain are in dire straits
 Go to the Vajrayana
@@ -574,3 +596,58 @@ The manifestation of the saints is extraordinary, wait for the follow-up
 Teaching Three People
 Three Ancestor's Competition
 Participate in three martial arts competitions (Wait for the next month)
+Wait for an Opportunity
+<color=#orange>Stay at Shaolin</color> and wait for an opportunity
+<color=#orange>Stay at Shaolin</color> and wait for an opportunity.
+Collapses in the Pagoda Forest seem to have some Buddhist subtleties, perhaps i should wait here for a while...
+Meeting Old Monk
+<color=#orange>Wait</color> to meet Old Monk in your dreams
+<color=#orange>Wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
+The Old Monk entered my dream, it seems fake and yet it's real, i haven't fully experienced it yet, so perhaps i should keep trying...
+Sculpture Shatters
+Return <color=#orange>Shattered Sculpture</color> to Shaolin
+<color=#orange>Interact</color> with a Shaolin character to return <color=#orange>Shattered Sculpture</color> to Shaolin.
+The statue is shattered, I think the opportunity is over, I should return this thing...
+Battle of Zen and Martial Arts
+Temporarily abandon?
+Concentrate on Practice
+Concentrate on <color=#orange>practicing</color> Shaolin skills
+Increase the practice level of Shaolin skill <color=#orange>{0}</color> taught by the Old Monk to 100%
+The Old Monk taught me in my dream, so I will live up to his instructions and practice with dedication...
+Old Monk is back
+Meditate and <color=#orange>wait</color> for Old Monk to appear in your dreams
+Meditate and <color=#orange>wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
+Now that I've learned martial art of Shaolin, I wonder what the Old Monk will teach me in my dreams in the coming days...
+Digging for Treasure
+Try <color=#orange>Digging</color> in Shaolin
+Try <color=#orange>Digging</color> in Shaolin to find a secret treasure mentioned by Old Monk.
+Buried under Shaolin, i wonder what kind of treasure it is...
+Teachings of Old Monk
+<color=#orange>Wait {0} months</color> to fight Old Man in a dream again
+Diligently study, and <color=#orange>wait {0} months</color> to fight Old Man in a dream again\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
+The trial isn't over yet, i still have to work hard and prepare for a fight with the Old Monk in dreams...
+Buddhist Classics
+<color=#orange>Wait</color> to meet Old Monk in your dreams
+You've obtained Buddhist Classics, now you just have to <color=#orange>wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
+I've obtained the Buddhist scriptures as told by the Old Monk, i wonder what teachings are written in them...
+Reading Scriptures
+<color=#orange>Study</color> Buddhist Classics
+To finish studying <color=#orange>{0}</color>, you have to study <color=#orange>at least 3 pages of it</color>; If you've already done so, just <color=#orange>wait</color> to meet the Old Monk in your dreams.
+The Dharma is vast and boundless, I should follow the Old Monk's instructions and fully concentrate on studying it...
+Shaolin's Pagodas
+Go to <color=#orange>Shaolin</color> and observe Pagoda Forest
+Go to <color=#orange>Shaolin</color> and click on Industry button to observe Pagoda Forest.
+Hidden on the bottom of the Shaolin's Pagoda, i wonder what kind of treasure it is...
+Buddhist Classics Pavilion's floor
+Go to <color=#orange>Buddhist Classics Pavilion</color> to look for treasures
+Go to <color=#orange>Shaolin</color>, click on Industry button, then click on <color=#orange>Buddhist Classics Pavilion</color> to look for treasures.
+Hidden inside of Shaolin's scripture pavilion, i wonder what kind of treasure it is...
+Lion Face Rumor
+There may still be rumors, travel to different parts of Guangdong to hear different rumors about Lion-Face Clan
+Go to Lion Face
+After hearing rumors about Lion-Face Clan, go there
+Wait to clear up
+Wait for Lion-Face Clan to clear up the invaders
+Establishing Ancestral Hall
+Return to <color=#orange>Taiwu Village</color>.
+Ancestral Hall has been complete, i should return back to Taiwu Village to take a look at it...
