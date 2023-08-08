@@ -352,14 +352,15 @@ Temporary text of the last demon appeared, Yuanshan faction in the siege
 Yuanshan Prospers
 Temporary Text Yuanshan Prospers
 Rebel Enemy Attack
-Flying Lion Hall enemy attack...
+Rebelling Invaders...
 Letter from the Master
-Received a letter, it seems to be written by the Lion-Face Clan's masters...
+Received a letter at {0}, it seems to be written by the Lion-Face Clan's master...
 Long time without letter
-I haven't received a letter from the Lion's Gate this month, so something must have happened.
+Seized letter at {0}
 Lions Clash
-I want to discuss with you, hahahahahaha, come to my absolute
+In the spirit of the moment, {0} offered to compare notes with {2} at {1}!
 Lion Face Prospers
+Heard rumors at {0}
 Public Complains
 Contains 4 events with the same name and the same kind, which are triggered in sequence
 Vajrayana Attack
@@ -377,7 +378,7 @@ As you wish
 Fulfilled the wish made by Taiwu
 Five Immortals Cult Prospers
 Five Immortals Cult Declines
-Mutation of the Five Immortals
+Sudden Change in Five Immortals
 Five Sacred Heart Poison Adventure Appears
 TA·Heart Poison
 The person who poisoned the Five Sacred Heart Poison poisoned the player
@@ -419,3 +420,13 @@ Ranshan Prospers
 Temporary text Ranzan Changsheng
 Ranshan Declines
 Temporary text of the decline of Mount Ran
+Enlightenment through Meditation and Martial Arts
+Eliminate evil karma, and the three karmas are pure. All dharmas are vain, and this mind finally attains the way of Zen and martial arts...
+Thirst for Knowledge
+{0} at {1} requested {2}
+News of Success Pour In
+Provisional text of the Lion-Face Clan
+Lion-Face Clan Prospers
+Challenge Old Monk
+A Letter from Lion Face
+Lion-Face Clan disciples are at {0} to deliver the letter...
