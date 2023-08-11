@@ -1393,7 +1393,7 @@
   "LK_OrgGrade_5": "Outstanding people",
   "LK_OrgGrade_6": "Famous Craftsmen",
   "LK_OrgGrade_7": "Distinguished people",
-  "LK_OrgGrade_8": "Most honorable people",
+  "LK_OrgGrade_8": "Most honorable person",
   "LK_Equip_Load_Overflow": "Equip load overload",
   "LK_Equip_Load_Overflow_Tips": "The load of the equipment exceeds the limit that the character can bear, causing the MOV·Spd, Attack Speed, and Cast Speed of the character to <color=#brightred>decrease</color>",
   "LK_Inventory_Overflow": "Not Enough Inventory Space",
