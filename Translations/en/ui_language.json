@@ -616,7 +616,7 @@
   "LK_Shop_Evaluation_3": "<color=#darkbrown>{0}</color><color=#lightbrown>{1}</color> at <color=#darkbrown>{2}</color>'s <color=#white>has mixed evaluation.</color>",
   "LK_Shop_Evaluation_4": "<color=#darkbrown>{0}</color><color=#lightbrown>{1}</color> at <color=#darkbrown>{2}</color>'s <color=#white>has good evaluation, and is widely praised</color>",
   "LK_Shop_Evaluation_5": "<color=#darkbrown>{0}1<color=#lightbrown>{1}2 has great reputation in <color=#darkbrown>{2}3<color=#lightblue> and is renowned.",
-  "LK_Shop_Evaluation_6": "<color=#darkbrown>{0}1<color=#lightbrown>{1}2 has exceptional reputation in <color=#darkbrown>{2}3的<color=#lightblue> with many coming to visit.",
+  "LK_Shop_Evaluation_6": "<color=#darkbrown>{0}</color><color=#lightbrown>{1}</color> at <color=#darkbrown>{2}</color>'s <color=#lightblue>has an exceptional evaluation, with many people coming to visit</color>",
   "UI_AdvanceMonth_TipTitle": "Month Change",
   "UI_AdvanceMonth_CurDate": "Click to go to the next month... \n\nCurrently it's the {0} year {1} month {2} day",
   "UI_AdvanceMonth_DaysToNextSolarTerm": " \n{0} Days left until <color=#white>{1}</color> solar term！",
