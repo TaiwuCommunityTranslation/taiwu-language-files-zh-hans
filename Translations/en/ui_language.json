@@ -614,7 +614,7 @@
   "LK_Shop_Evaluation_1": "<color=#darkbrown>{0}1<color=#lightbrown>{1}2 has very poor reputation in <color=#darkbrown>{2}3<color=#red> , their name lives in infamy.",
   "LK_Shop_Evaluation_2": "<color=#darkbrown>{0}</color><color=#lightbrown>{1}</color> at <color=#darkbrown>{2}</color>'s <color=#white>has low evaluation, people scoff at them.</color>",
   "LK_Shop_Evaluation_3": "<color=#darkbrown>{0}</color><color=#lightbrown>{1}</color> at <color=#darkbrown>{2}</color>'s <color=#white>has mixed evaluation.</color>",
-  "LK_Shop_Evaluation_4": "<color=#darkbrown>{0}1<color=#lightbrown>{1}2 has fairly good reputation in <color=#darkbrown>{2}3的<color=#lightgreen> and is widely praised.",
+  "LK_Shop_Evaluation_4": "<color=#darkbrown>{0}</color><color=#lightbrown>{1}</color> at <color=#darkbrown>{2}</color>'s <color=#white>has good evaluation, and is widely praised</color>",
   "LK_Shop_Evaluation_5": "<color=#darkbrown>{0}1<color=#lightbrown>{1}2 has great reputation in <color=#darkbrown>{2}3<color=#lightblue> and is renowned.",
   "LK_Shop_Evaluation_6": "<color=#darkbrown>{0}1<color=#lightbrown>{1}2 has exceptional reputation in <color=#darkbrown>{2}3的<color=#lightblue> with many coming to visit.",
   "UI_AdvanceMonth_TipTitle": "Month Change",
