@@ -3215,7 +3215,7 @@
   "LK_MouseTip_BanReasons_SpecialEffectBan": "Restricted by other effects, this skill cannot be performed...",
   "LK_MouseTip_BanReasons_CombatConfigBan": "This type of skills cannot be used in this battle...",
   "LK_MouseTip_BanReasons_Silencing": "This skill has been sealed...",
-  "LK_CombatSkill_Injury_Mind": "Sturdy Glazed",
+  "LK_CombatSkill_Injury_Mind": "Glazed HP",
   "LK_CombatSkill_Injury_Fatal": "Sturdy Fatal Wound",
   "LK_CombatSkill_AllPoison": "Total Poison Resistance",
   "LK_Combat_MarkType_Injury": "Injuries:",
