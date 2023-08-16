@@ -1074,58 +1074,58 @@ Add a must-death marker
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Enemy's Poison Resistance is greatly reduced; Whenever enemy performs a "Break" technique with a Poison marker on their body, 1 Certain Death marker will be added their body. The more Certain Death markers enemy has, the more power of their techniques will increase. Once the enemy has 6 Certain Death markers, they will be defeated, and their Health will be reduced to 0.
 12 Ways of\nAssassination
 Unleash your weapon
-If the weapon held by user is specifically "Sword·YuChang", user can perform this technique from 50% of its progress. After this technique reaches $0$0% completion, "Sword·YuChang" can be Unleashed, allowing you to perform all "Sword Techniques" from 50% of their progress. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Sword·YuChang", user can perform this technique from 50% of its progress. After this technique reaches $0$0% completion, "Sword·YuChang" will become Unleashed, allowing you to perform all "Sword Techniques" from 50% of their progress. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Sword enables all "Sword Techniques" to be performed starting from 50% of their progress.
 Gongbu\nThe Unique Sword
-If the weapon held by user is specifically "Sword·GongBu", direct damage dealt by this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·GongBu" can be Unleashed, increasing direct damage of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Sword·GongBu", direct damage dealt by this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·GongBu" will become Unleashed, increasing direct damage of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Sword enables all "Sword Techniques" to deal increased direct damage.
 Broken\nHoly Sword
 Skill accuracy up
-If the weapon held by user is specifically "Sword·ShengXie", the chances of hitting enemy with this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·ShengXie" can be Unleashed, increasing hit chance of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Sword·ShengXie", the chances of hitting enemy with this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·ShengXie" will become Unleashed, increasing hit chance of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Sword enables all "Sword Techniques" to have increased chance of hitting enemies.
 Heavy Sword of\nGreatTower
-If the weapon held by user is specifically "Sword·JuQue", user's External Penetration will be greatly increased. After this technique reaches $0$0% completion, "Sword·JuQue" can be Unleashed, increasing External Penetration of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Sword·JuQue", user's External Penetration will be greatly increased. After this technique reaches $0$0% completion, "Sword·JuQue" will become Unleashed, increasing External Penetration of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Sword enables all "Sword Techniques" to have increased External Penetration.
 7 Star\nSwordsmanship of DragonPool
 Reducing the consumption of techniques
-If the weapon held by user is specifically "Sword·LongYuan", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Sword·LongYuan" can be Unleashed, decreasing Stance and Inhale consumption of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Sword·LongYuan", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Sword·LongYuan" will become Unleashed, decreasing Stance and Inhale consumption of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Sword enables all "Sword Techniques" to have reduced Stance and Inhale cost.
 Taier\nImmeasurable Sword
-If the weapon held by user is specifically "Sword·TaiE", the attack range of this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·TaiE" can be Unleashed, increasing attack range of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Sword·TaiE", the attack range of this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·TaiE" will become Unleashed, increasing attack range of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Sword enables all "Sword Techniques" to have an increased attack range.
 HU·Sword Intent\nof Pure Soul
 Int. Pen. UP
-If the weapon held by user is specifically "Sword·ChunJun", user's Internal Penetration will be greatly increased. After this technique reaches $0$0% completion, "Sword·ChunJun" can be Unleashed, increasing Internal Penetration of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Sword·ChunJun", user's Internal Penetration will be greatly increased. After this technique reaches $0$0% completion, "Sword·ChunJun" will become Unleashed, increasing Internal Penetration of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Sword enables all "Sword Techniques" to have increased Internal Penetration.
 Swordsmanship\nof SuperbCore
-If the weapon held by user is specifically "Sword·ZhanLu", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·ZhanLu" can be Unleashed, increasing power of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Sword·ZhanLu", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·ZhanLu" will become Unleashed, increasing power of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Sword enables all "Sword Techniques" to have increased power.
 Blade of General
 Power of descending enemy protection
-If the weapon held by user is specifically "Blade of General", this technique will reduce power of enemy's current "Aegis" technique. After this technique reaches $0$0% completion, "Blade of General" can be Unleashed, allowing all "Blade Techniques" to reduce power of enemy's current "Aegis" technique. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Blade of General", this technique will reduce power of enemy's current "Aegis" technique. After this technique reaches $0$0% completion, "Blade of General" will become Unleashed, allowing all "Blade Techniques" to reduce power of enemy's current "Aegis" technique. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Blade enables all "Blade Techniques" to reduce power of enemy's "Aegis" technique.
 Blade of\nMaster Ruan
 Countering weapon attacks
-If the weapon held by user is specifically "Blade·RuanShi", then while performing this technique, user can Counter all Resolved weapon attacks. After this technique reaches $0$0% completion, "Blade·RuanShi" can be Unleashed, allowing all "Blade Techniques" to Counter all Resolved weapon attacks. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Blade·RuanShi", then while performing this technique, user can Counter all Resolved weapon attacks. After this technique reaches $0$0% completion, "Blade·RuanShi" will become Unleashed, allowing all "Blade Techniques" to Counter all Resolved weapon attacks. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Blade enables all "Blade Techniques" to Counter all Resolved weapon attacks.
 Battle Blade\nof Dragon Sparrow
 Anti-shock direct damage
-If the weapon held by user is specifically "Blade·DaXiaLongQue", then while performing this technique, user will Reflect direct damage. After this technique reaches $0$0% completion, "Blade·DaXiaLongQue" can be Unleashed, allowing all "Blade Techniques" to Reflect direct damage. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Blade·DaXiaLongQue", then while performing this technique, user will Reflect direct damage. After this technique reaches $0$0% completion, "Blade·DaXiaLongQue" will become Unleashed, allowing all "Blade Techniques" to Reflect direct damage. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Blade enables all "Blade Techniques" to Reflect direct damage.
 Blade of\nJade Carving
-If the weapon held by user is specifically "Blade·KunWu", user can perform this technique from 50% of its progress. After this technique reaches $0$0% completion, "Blade·KunWu" can be Unleashed, allowing all "Blade Techniques" to be performed from 50% of their progress. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Blade·KunWu", user can perform this technique from 50% of its progress. After this technique reaches $0$0% completion, "Blade·KunWu" will become Unleashed, allowing all "Blade Techniques" to be performed from 50% of their progress. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Blade enables all "Blade Techniques" to be performed starting from 50% of their progress
 Blade of\nGhost Chef
-If the weapon held by user is specifically "Ghost Butcher", this technique's damage will be increased based on the amount of Poison markers on the user. After this technique reaches $0$0% completion, "Ghost Butcher" can be Unleashed, allowing all "Blade Techniques" to deal more damage based on the amount of Poison markers on the user. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Ghost Butcher", this technique's damage will be increased based on the amount of Poison markers on the user. After this technique reaches $0$0% completion, "Ghost Butcher" will become Unleashed, allowing all "Blade Techniques" to deal more damage based on the amount of Poison markers on the user. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Blade enables all "Blade Techniques" to deal increased damage based on the amount of Poison markers on the user.
 Red Blade of\n7 End
-If the weapon held by user is specifically "Blade·Ruby", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Blade·Ruby" can be Unleashed, allowing all "Blade Techniques" to have reduced Stance and Inhale cost. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Blade·Ruby", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Blade·Ruby" will become Unleashed, allowing all "Blade Techniques" to have reduced Stance and Inhale cost. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Blade enables all "Blade Techniques" to have reduced Stance and Inhale cost.
 Incomplete\nBlade
-If the weapon held by user is specifically "Blade·Deform", the attack range of this technique will be greatly increased. After this technique reaches $0$0% completion, "Blade·Deform" can be Unleashed, allowing all "Blade Techniques" to have increased attack range. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Blade·Deform", the attack range of this technique will be greatly increased. After this technique reaches $0$0% completion, "Blade·Deform" will become Unleashed, allowing all "Blade Techniques" to have increased attack range. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Blade enables all "Blade Techniques" to have an increased attack range.
 The Last Blade\nof Minghong
-If the weapon held by user is specifically "Blade·MingHong", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Blade·MingHong" can be Unleashed, allowing all "Blade Techniques" to have increased power. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Blade·MingHong", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Blade·MingHong" will become Unleashed, allowing all "Blade Techniques" to have increased power. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Blade enables all "Blade Techniques" to have increased power.
 Dragon-Defeated\nStaff
 If the weapon held by user is specifically "Polearm·Dragon Vanquisher", when this technique reaches $0$0% completion it will reduce enemy's "attack tokens" and "Polearm·Dragon Vanquisher" will become Unleashed, allowing all "Polearm Techniques" to reduce enemy's "attack tokens" when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
@@ -1145,14 +1145,14 @@ Eliminate helper commands
 If the weapon held by user is specifically "Polearm·Golden-eyed Tiger", when this technique reaches $0$0% completion it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and "Polearm·Golden-eyed Tiger" will become Unleashed, allowing all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm enables all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown when they reach $0$0% completion
 Staff of\nMystical Island
-If the weapon held by user is specifically "Polearm·PengLai", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Polearm·PengLai" can be Unleashed, allowing all "Polearm Techniques" to have reduced Stance and Inhale cost. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Polearm·PengLai", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Polearm·PengLai" will become Unleashed, allowing all "Polearm Techniques" to have reduced Stance and Inhale cost. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm can reduce the Inhale and Stance consumption of all "Polearm" techniques
 Divine Staff of\nOcean Carry
 technique is more difficult to interrupt
-If the weapon held by user is specifically "Divine Staff of Ocean Carry", this technique cannot be "Interrupted". After this technique reaches $0$0% completion, "Divine Staff of Ocean Carry" can be Unleashed, allowing all "Polearm Techniques" to be more difficult to "Interrupt". This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Divine Staff of Ocean Carry", this technique cannot be "Interrupted". After this technique reaches $0$0% completion, "Divine Staff of Ocean Carry" will become Unleashed, allowing all "Polearm Techniques" to be more difficult to "Interrupt". This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm can make all "Polearm" techniques harder to "interrupt"
 Iron Staff of\nMixed Element
-If the weapon held by user is specifically "Polearm·Mysterious Iron", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Polearm·Mysterious Iron" can be Unleashed, allowing all "Polearm Techniques" to have increased power. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Polearm·Mysterious Iron", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Polearm·Mysterious Iron" will become Unleashed, allowing all "Polearm Techniques" to have increased power. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm can increase the power of all "Polearm" techniques
 Mechanic\nSwallow
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: When user gains "Ware" style, there is a high chance of gaining 1 more "Ware" style.
