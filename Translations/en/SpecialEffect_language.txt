@@ -1142,7 +1142,7 @@ If the weapon held by user is specifically "Polearm·Cyan Ghost", when this tech
 Unleashed: This Polearm enables all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$0% completion
 Staff of\nGold Eyes Tiger
 Eliminate helper commands
-If the weapon held by user is specifically "Polearm·Golden-eyed Tiger", when this technique reaches $0$0% completion it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and Unleash "Polearm·Golden-eyed Tiger", allowing all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Polearm·Golden-eyed Tiger", when this technique reaches $0$0% completion it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and "Polearm·Golden-eyed Tiger" will become Unleashed, allowing all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm enables all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown when they reach $0$0% completion
 Staff of\nMystical Island
 If the weapon held by user is specifically "Polearm·PengLai", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Polearm·PengLai" can be Unleashed, allowing all "Polearm Techniques" to have reduced Stance and Inhale cost. This effect will last until the battle is over, or until you Unleash another weapon.
