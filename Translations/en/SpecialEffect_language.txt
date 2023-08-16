@@ -1228,7 +1228,7 @@ Swordsmanship\nof Ghost Old Lady
 When this technique reaches $0$0% completion, for every 2 "Stab" styles the user has, the level of Weak Points caused by the user to the enemy increases by 1 additional level.
 Holy Wood\nSwordsmanship
 Transferring the power of techniques
-When this technique fails to reach $0$% completion, part of power of 2 random "Break" techniques of the user will be transferred to this technique. This effect lasts until this technique reaches $0$% completion, then the transferred power will be restored and multiplied, lasting until the end of battle.
+When this technique fails to reach $0$0% completion, part of power of 2 random "Break" techniques of the user will be transferred to this technique. This effect lasts until this technique reaches $0$0% completion, then the transferred power will be restored and multiplied, lasting until the end of battle.
 Soul Chasing\nSwordsmanship
 In the process of performing this technique, the user can advance up to 6 distances, the farther the user advances, the more the power of this technique will increase, and the user can gain 2 points of "Quick" true qi for every 1 distance.
 Holy Ruler\nSwordsmanship
@@ -1571,7 +1571,7 @@ Offsetting useless storage type
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever enemy tries to add an unusable style to the user, the same number of layers of this effect will be consumed to cancel it out.
 Rejuvenation\nFinger
 Reduce enemy crisis
-When this technique fails to reach $0$% completion, reduce the sense of crisis of your enemy.
+When this technique fails to reach $0$0% completion, reduce the sense of crisis of your enemy.
 12 Hands of\nSilk Fist
 As long as this technique is not resolved with Evasion by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
 White Ape's\nLong-Arm Fist
@@ -1585,7 +1585,7 @@ Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Ext. Pen. when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
 Vajra Samadhi\nPalm
 Reduction of Enemy's External Defense
-This technique cannot be interrupted; This technique will always reach $0$% completion; The higher the enemy's Internal Defense, the more their External Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 3 points of "Nadis" True Qi, otherwise these effects won't activate
+This technique cannot be interrupted; This technique will always reach $0$0% completion; The higher the enemy's Internal Defense, the more their External Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 3 points of "Nadis" True Qi, otherwise these effects won't activate
 Chilling Pinprick
 Based on completion percentage of this technique, the power of all "Quick" techniques of the user will be increased by 20% until the end of the battle.
 Emei Finger Zen
@@ -1617,10 +1617,10 @@ Swordsmanship\nof Yue Maiden
 Improve the chances of chasing
 After this technique reaches $0$0% completion, user gains 7 layers of this effect: User's follow-up attack chance will be greatly increased.
 Swordsmanship\nof Remnant Rainbow
-At the start of the battle, user gains 0 layers of this effect: For each Style user gains, this effect increases by 1 layer, up to a maximum of 12 layers; The more layers of this effect user has, the more the power of this technique will increase until this technique reaches $0$% completion, then this effect will return to 0 layers
+At the start of the battle, user gains 0 layers of this effect: For each Style user gains, this effect increases by 1 layer, up to a maximum of 12 layers; The more layers of this effect user has, the more the power of this technique will increase until this technique reaches $0$0% completion, then this effect will return to 0 layers
 Divine\nSwordsmanship of Pure Girl
 Quickly perform techniques
-While performing this technique, user can perform any "Break" technique with an External Ratio of at least 60% without preparation, continuing to perform this technique if the performed "Break" technique reaches $0$% completion.
+While performing this technique, user can perform any "Break" technique with an External Ratio of at least 60% without preparation, continuing to perform this technique if the performed "Break" technique reaches $0$0% completion.
 Stab of\n5 Elements
 Based on completion percentage of this technique, the power limit of all "Quick" techniques of the user will be increased by 30% until the end of the battle.
 Stab of Lost Soul
@@ -1733,7 +1733,7 @@ After this technique reaches $0$0% completion, user gains 5 layers of this effec
 Congenital\nYoungyang Sword Intent
 If the user's age is not higher than 40, the power of this technique will not be reduced for any reason; the younger the user is when he starts to perform this technique, the more the power of this technique will be increased
 Limitless\nSword Form
-When user doesn't have any available styles, this technique can be performed without any styles; When attacking enemy with this technique, if the user doesn't have any available styles, the attack range of this technique changes to the maximum, the power of this technique increases greatly. this technique will always reach $0$% completion, and this technique cannot be reflected.
+When user doesn't have any available styles, this technique can be performed without any styles; When attacking enemy with this technique, if the user doesn't have any available styles, the attack range of this technique changes to the maximum, the power of this technique increases greatly. this technique will always reach $0$0% completion, and this technique cannot be reflected.
 Whisk Swipe
 Based on completion percentage of this technique, it reduces user's Qi Disorder
 Wudang\nMetallic Swipe
@@ -1757,7 +1757,7 @@ Whenever the user chases an enemy at least 2 times with "Blade", if the enemy is
 Mandarin Duck\nCombo Kick
 After this technique reaches $0$0% completion, the Stance required to perform this technique is reduced by up to 90%, lasting until the end of the battle
 Tiger Tail
-At the start of the battle, user gains 3 layers of this effect: When enemy attacks the user from a distance greater than the user's maximum attack range, the attack range of this technique becomes greatly increased, and user immediately performs this technique from 50% of its progress without any consumption; When active performance of this skill reaches $0$% completion, this effect regains 1 layer
+At the start of the battle, user gains 3 layers of this effect: When enemy attacks the user from a distance greater than the user's maximum attack range, the attack range of this technique becomes greatly increased, and user immediately performs this technique from 50% of its progress without any consumption; When active performance of this skill reaches $0$0% completion, this effect regains 1 layer
 8 Steps of\nSquared Up
 Transferring your mark
 While performing this technique, user can advance up to 6 distances. For every 1 distance the user advances, 1 Impairment marker received by the user while performing this technique will be transferred to the enemy
@@ -1785,7 +1785,7 @@ Swordsmanship\nof Great Mercy
 Swordsmanship\nof Manjusri's Wisdom
 When you start to perform this technique, the more weapons you have that are not "Swords" but can perform this technique, the more the power and range of this technique will increase.
 Skanda\nSwordsmanship of Defeat Demon
-When this technique fails to reach $0$% completion, user advances 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Blade Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
+When this technique fails to reach $0$0% completion, user advances 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Blade Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
 Swordsmanship\nof Supreme Bodhi
 Reversal is less powerful
 This technique cannot be reflected; After this technique reaches $0$0% completion, user gains 2 layers of this effect: When user performs a "Break" technique, any power debuff affecting this technique will be temporarily doubled and changed into a power buff.
@@ -1802,7 +1802,7 @@ Golden Blade\nof The Ultra One
 Blade of 7 Star
 When you start to perform this technique, the more weapons the user has that are not "Blades" but can perform this technique, the more the power and range of this technique will increase.
 Blade of Endless
-When this technique fails to reach $0$% completion, user retreats 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Sword Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
+When this technique fails to reach $0$0% completion, user retreats 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Sword Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
 Heavenly Spirit\nBlade
 When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Water", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Divine Blade\nof Mysterious
@@ -2718,7 +2718,7 @@ Reverse - Jade Cicada\nFinger
 When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's Umbritoxin, Cryotoxin, and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
 Reverse - Flood Dragon's\nIron Tentacle
 Increase Sealed Acupoints Duration
-When hitting enemy's Arm, direct damage of this technique increases by 45%; When this technique reaches at least $0$% completion, duration of all Sealed Acupoints on the enemy gets increased to the maximum
+When hitting enemy's Arm, direct damage of this technique increases by 45%; When this technique reaches at least $0$0% completion, duration of all Sealed Acupoints on the enemy gets increased to the maximum
 Reverse - No Harm Hands
 When this technique reaches $0$0% completion, if user hits enemy's Head: Enemy loses all memories of this battle; Enemy can't attack with weapons, or perform techniques that require Inhale until they are attacked in any way
 Reverse - Conversely\nBeating As Rocking Sky
@@ -3185,7 +3185,7 @@ Offsetting storage loss
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever enemy tries to remove a usable style from the user, the same number of layers of this effect will be consumed to cancel it out.
 Reverse - Duck Shape Fist
 Increase enemy crisis
-When this technique fails to reach $0$% completion, increase the sense of crisis of your enemy.
+When this technique fails to reach $0$0% completion, increase the sense of crisis of your enemy.
 Reverse - 12 Hands of\nSilk Fist
 As long as this technique is not resolved with Evasion by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
 Reverse - White Ape's\nLong-Arm Fist
@@ -3197,7 +3197,7 @@ Reverse - Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Internal Penetration when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Inhale recovery speed is reduced.
 Reverse - Vajra Samadhi\nPalm
 Reduction of enemy's imperial energy
-This technique cannot be interrupted; This technique will always reach $0$% completion; The higher the enemy's External Defense, the more their Internal Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 3 points of "Nadis" True Qi, otherwise these effects won't activate
+This technique cannot be interrupted; This technique will always reach $0$0% completion; The higher the enemy's External Defense, the more their Internal Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 3 points of "Nadis" True Qi, otherwise these effects won't activate
 Reverse - Emei Eagle Claw
 Based on completion percentage of this technique, the power of all "Quick" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Emei Finger Zen
@@ -3227,9 +3227,9 @@ Reverse - Swordsmanship\nof Yue Maiden
 Chance of descending enemy pursuit
 After this technique reaches $0$0% completion, user gains 7 layers of this effect: Enemy's follow-up attack chance will be greatly reduced.
 Reverse - Swordsmanship\nof Remnant Rainbow
-At the start of the battle, user gains 0 layers of this effect: For each Style user loses, this effect increases by 1 layer, up to a maximum of 12 layers; The more layers of this effect user has, the more the power of this technique will increase until this technique reaches $0$% completion, then this effect will return to 0 layers
+At the start of the battle, user gains 0 layers of this effect: For each Style user loses, this effect increases by 1 layer, up to a maximum of 12 layers; The more layers of this effect user has, the more the power of this technique will increase until this technique reaches $0$0% completion, then this effect will return to 0 layers
 Reverse - Divine\nSwordsmanship of Pure Girl
-While performing this technique, user can perform any "Break" technique with an Internal Ratio of at least 60% without preparation, continuing to perform this technique if the performed "Break" technique reaches $0$% completion.
+While performing this technique, user can perform any "Break" technique with an Internal Ratio of at least 60% without preparation, continuing to perform this technique if the performed "Break" technique reaches $0$0% completion.
 Reverse - Stab of\n5 Elements
 Based on completion percentage of this technique, the stat requirements of all "Quick" techniques of the user will be reduced until the end of the battle.
 Reverse - Stab of Lost Soul
@@ -3340,7 +3340,7 @@ After this technique reaches $0$0% completion, user gains 5 layers of this effec
 Reverse - Congenital\nYoungyang Sword Intent
 If the user's age is not less than 40, the power of this technique will not be reduced for any reason; the older the user is when he starts to perform this technique, the more the power of this technique will be increased
 Reverse - Limitless\nSword Form
-When enemy doesn't have any available styles, this technique can be performed without any styles; When attacking enemy with this technique, if the enemy doesn't have any available styles, the attack range of this technique changes to the maximum, the power of this technique increases greatly. this technique will always reach $0$% completion, and this technique cannot be reflected.
+When enemy doesn't have any available styles, this technique can be performed without any styles; When attacking enemy with this technique, if the enemy doesn't have any available styles, the attack range of this technique changes to the maximum, the power of this technique increases greatly. this technique will always reach $0$0% completion, and this technique cannot be reflected.
 Reverse - Whisk Swipe
 Based on completion percentage of this technique, it increases enemy's Qi Disorder
 Reverse - Wudang\nMetallic Swipe
@@ -3363,7 +3363,7 @@ Whenever the user uses "Sword" to chase the enemy at least 2 times, if the enemy
 Reverse - Mandarin Duck\nCombo Kick
 After this technique reaches $0$0% completion, the Inhale required to perform this technique is reduced by up to 90%, lasting until the end of the battle
 Reverse - Tiger Tail
-At the start of the battle, user gains 3 layers of this effect: When enemy attacks the user from a distance lower than the user's minimum attack range, the attack range of this technique becomes greatly increased, and user immediately performs this technique from 50% of its progress without any consumption; When active performance of this skill reaches $0$% completion, this effect regains 1 layer
+At the start of the battle, user gains 3 layers of this effect: When enemy attacks the user from a distance lower than the user's minimum attack range, the attack range of this technique becomes greatly increased, and user immediately performs this technique from 50% of its progress without any consumption; When active performance of this skill reaches $0$0% completion, this effect regains 1 layer
 Reverse - 8 Steps of\nSquared Up
 While performing this technique, user can retreat up to 6 distances. For every 1 distance the user retreats, 1 Impairment marker received by the user while performing this technique will be transferred to the enemy
 Reverse - The Great Vajra\nKick
@@ -3389,7 +3389,7 @@ Reverse - Swordsmanship\nof Manjusri's Wisdom
 Prohibition of enemy gain
 When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Quick" techniques will not be effective.
 Reverse - Skanda\nSwordsmanship of Defeat Demon
-When this technique fails to reach $0$% completion, user retreats 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Blade Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
+When this technique fails to reach $0$0% completion, user retreats 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Blade Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
 Reverse - Swordsmanship\nof Supreme Bodhi
 Reverse power enhancement
 This technique cannot be reflected; After this technique reaches $0$0% completion, user gains 2 layers of this effect: When enemy performs a "Break" technique, any power buff affecting this technique will be temporarily doubled and changed into a power debuff.
@@ -3406,7 +3406,7 @@ Reverse - Golden Blade\nof The Ultra One
 Reverse - Blade of 7 Star
 When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Quick" techniques will not be effective.
 Reverse - Blade of Endless
-When this technique fails to reach $0$% completion, user advances 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Sword Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
+When this technique fails to reach $0$0% completion, user advances 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Sword Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
 Reverse - Heavenly Spirit\nBlade
 When this technique reaches $0$0% completion, if enemy's dominant element is "Water", direct damage dealt by this technique will be increased by 45%
 Reverse - Divine Blade\nof Mysterious
@@ -3667,8 +3667,8 @@ lit. wear blood and hang flames
 Dragon whispering Por will not be sealed points, and the direct internal injuries suffered by a significant reduction, suffered by the direct external injuries increased significantly; Dragon whispering Por the more external injury markings on its body, the more the power of all its divine power will increase
 An inch into a dream
 Attrition of enemy action
-After this divine power reaches $0$% completion, Mo Nyu gains 3 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
-After this divine power reaches $0$% completion, user gains 3 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
+After this divine power reaches $0$0% completion, Mo Nyu gains 3 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
+After this divine power reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
 The Seven Waters of the Pond
 Continuing to cause poisoning
 If the enemy is within range of Mo Nyu's attack while this power is being applied: Mo Nyu causes the enemy to be continuously poisoned with 3 random types of poison
@@ -3676,8 +3676,8 @@ If the enemy is within the attack range of the user during the application of th
 Five-color warbler
 When she starts to use this power, Mo Nyu gains 6 levels of this effect: Whenever an enemy attacks Mo Nyu with a weapon, Mo Nyu immediately makes 2 weapon attacks on the enemy; when she attacks an enemy with this power, Mo Nyu consumes all the remaining levels of this effect to increase the power of this power
 broken hearted dream
-After this divine power reaches $0$% completion, Mo Nyu gains 6 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
-After this divine power reaches $0$% completion, user gains 6 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
+After this divine power reaches $0$0% completion, Mo Nyu gains 6 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
+After this divine power reaches $0$0% completion, user gains 6 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
 Xuan Tan Ghost Poison
 If the enemy is within the range of Mo Nyu attack while this divine power is being applied: Mo Nyu causes the enemy to suffer 6 different types of poison continuously
 If the enemy is within the attack range of the wielder during the application of this power: the wielder causes the enemy to suffer 6 different types of poison continuously
@@ -3701,8 +3701,8 @@ Heavenly Demon Breaks All
 When attacking an enemy with this power: If the enemy is performing a Heterodox training technique, the power of this power is greatly increased; if the enemy is not performing the "Break" technique, the power of this power is greatly increased; if the enemy is not within the range of this power, the enemy randomly appears 6 weaknesses
 Plastic Snow
 Stop enemy action
-When this divine power reaches $0$% completion, Jiu Han gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
-When this divine power reaches $0$% completion, user gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
+When this divine power reaches $0$0% completion, Jiu Han gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
+When this divine power reaches $0$0% completion, user gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
 Aoshin Yodai
 Continuously causes sealing of acupuncture points
 At the end of this divine power, Jiu Han gains 9 levels of this effect: 1 sealed point appears continuously on the enemy; for every sealed point on the enemy due to this effect, the number of levels of this effect is reduced by 1
@@ -3710,8 +3710,8 @@ Prayer for Sorrow
 Stop enemy attacks
 When attacking enemy with this divine power, enemy loses all of their "attack tokens", and cannot regain them for a short period of time
 Gel Hong
-When this divine power reaches $0$% completion, Jiu Han gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
-When this divine power reaches $0$% completion, user gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
+When this divine power reaches $0$0% completion, Jiu Han gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
+When this divine power reaches $0$0% completion, user gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
 Dance of the Green God
 At the end of this divine power, Jiu Han gains 9 levels of this effect: 2 sealed points appear continuously on the enemy; for every sealed point on the enemy due to this effect, the number of levels of this effect is reduced by 1
 v. Death Song
@@ -3725,40 +3725,40 @@ Continuously causing breakdowns
 At the end of this divine power, Jin Huo'er gains 18 levels of this effect: the enemy continues to have 1 break; for every break in the enemy due to this effect, the number of levels of this effect is reduced by 1
 Red Feather Breaks the Sky
 Repel and damage the enemy
-When this divine power reaches $0$% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
-When this divine power reaches $0$% completion, user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
+When this divine power reaches $0$0% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
+When this divine power reaches $0$0% completion, user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
 Goodness HeShi
 At the end of this divine power, Golden Phoenix gains 6 levels of this effect: Golden Phoenix's weapon attacks will repeat 4 times
 At the end of this power, the user gains 6 levels of this effect: the user's weapon attack will be repeated 4 times.
 The phoenix leads the nine daughters
 At the end of this power, Jin Huo'er gains 18 levels of this effect: the enemy will continue to have 2 weaknesses; every time the enemy has a weakness due to this effect, the number of levels of this effect is reduced by 1
 Golden Plume Breaks the Sky
-When this divine power reaches $0$% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 6 Old Injuries at random body parts.
-When this divine power reaches $0$% completion, user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 6 Old Injuries at random body parts.
+When this divine power reaches $0$0% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 6 Old Injuries at random body parts.
+When this divine power reaches $0$0% completion, user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 6 Old Injuries at random body parts.
 fox hunting
-While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, Yi Yihou adds 3 "None" styles to the enemy; When this divine power reaches $0$% completion, Yi Yihou adds 3 "None" styles to the enemy.
-While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 3 "None" styles to the enemy; When this divine power reaches $0$% completion, user adds 3 "None" styles to the enemy.
+While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, Yi Yihou adds 3 "None" styles to the enemy; When this divine power reaches $0$0% completion, Yi Yihou adds 3 "None" styles to the enemy.
+While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 3 "None" styles to the enemy; When this divine power reaches $0$0% completion, user adds 3 "None" styles to the enemy.
 the waning fox cries
 If the enemy is within the range of Yi Yi Hou's attack while this power is being applied: Continuously add a Glazed markers to the enemy; Continuously remove enemy's styles
 If the enemy is within the attack range of the user during the application of this power: Continuously add a Glazed markers to the enemy; Continuously remove enemy's styles
 Four Elephant Blood and Fire Technique
-When this divine power reaches $0$% completion, damage of this technique will be dealt to 2 body parts of the enemy
+When this divine power reaches $0$0% completion, damage of this technique will be dealt to 2 body parts of the enemy
 return to the foxes
-While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, Yi Yihou adds 6 "None" styles to the enemy; When this divine power reaches $0$% completion, Yi Yihou adds 6 "None" styles to the enemy.
-While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 6 "None" styles to the enemy; When this divine power reaches $0$% completion, user adds 6 "None" styles to the enemy.
+While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, Yi Yihou adds 6 "None" styles to the enemy; When this divine power reaches $0$0% completion, Yi Yihou adds 6 "None" styles to the enemy.
+While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 6 "None" styles to the enemy; When this divine power reaches $0$0% completion, user adds 6 "None" styles to the enemy.
 Mourning
 Burning God Blood Fire Technique
-When this divine power reaches $0$% completion, damage of this technique will be dealt to 4 body parts of the enemy
+When this divine power reaches $0$0% completion, damage of this technique will be dealt to 4 body parts of the enemy
 Dragon Swallowing Style
 Elimination of site injuries
-When this divine power reaches $0$% completion, Wei Qi will change 18 points of a random True Qi of the enemy into 1 layer of this effect: If a body part of Wei Qi reaches 6 Injury markers, this layer will be consumed to remove all Injury markers from that body part.
-When this divine power reaches $0$% completion, user will change 18 points of a random True Qi of the enemy into 1 layer of this effect: If a body part of the user reaches 6 Injury markers, this layer will be consumed to remove all Injury markers from that body part.
+When this divine power reaches $0$0% completion, Wei Qi will change 18 points of a random True Qi of the enemy into 1 layer of this effect: If a body part of Wei Qi reaches 6 Injury markers, this layer will be consumed to remove all Injury markers from that body part.
+When this divine power reaches $0$0% completion, user will change 18 points of a random True Qi of the enemy into 1 layer of this effect: If a body part of the user reaches 6 Injury markers, this layer will be consumed to remove all Injury markers from that body part.
 Dragon Articulation Style
 Offsetting non-injury markers
-When this divine power reaches $0$% completion, Wei Qi will change up to 3 Impairment markers of the enemy into up to 6 layers of this effect: Each layer of this effect blocks 1 Impairment marker taken by Wei Qi
-When this divine power reaches $0$% completion, user will change up to 3 Impairment markers of the enemy into up to 6 layers of this effect: Each layer of this effect blocks 1 Impairment marker taken by the user
+When this divine power reaches $0$0% completion, Wei Qi will change up to 3 Impairment markers of the enemy into up to 6 layers of this effect: Each layer of this effect blocks 1 Impairment marker taken by Wei Qi
+When this divine power reaches $0$0% completion, user will change up to 3 Impairment markers of the enemy into up to 6 layers of this effect: Each layer of this effect blocks 1 Impairment marker taken by the user
 Dragon chasing style
-When this divine power reaches $0$% completion, Wei Qi will change up to 3 available Styles of the enemy into up to 3 layers of this effect: Whenever enemy performs a technique, Wei Qi will consume a layer of this effect to greatly reduce power of the technique performed by the enemy, lasting until layers of this effect get depleted.
+When this divine power reaches $0$0% completion, Wei Qi will change up to 3 available Styles of the enemy into up to 3 layers of this effect: Whenever enemy performs a technique, Wei Qi will consume a layer of this effect to greatly reduce power of the technique performed by the enemy, lasting until layers of this effect get depleted.
 Surrender Style
 After this divine power is performed, Wei Qi 18 points of a random type of his own True Qi into 1 layer of this effect: If there are 6 injuries on a certain body part of the enemy, Wei Qi consumes this effect and increases all types of his own True Qi by 18 points
 After this divine power is applied, the user will change 18 points of his own random type of true qi to 1 layer of this effect: if the enemy's wound level in a certain part reaches 6 layers, consume this effect and the user's true qi of all types will increase by 18 points
@@ -3799,7 +3799,7 @@ While performing this divine power: Xue Feng can move and attack, and his moveme
 While performing this divine power: user can move and attack, and their movement speed and attack speed are increased; The direct damage dealt by the user to the enemy is increased by 60%, and the direct damage dealt by the enemy to the user is reduced by 60%
 Blood Rain Bathing Eight Wastelands
 Transferring your old wounds
-When starting to perform this divine power, the more Old Injuries Xue Feng has on his body, the more the power of this divine power will increase; When this divine power reaches $0$% completion, Xue Feng will randomly transfer up to 8 Old Injuries from his body to the enemy or their teammates
+When starting to perform this divine power, the more Old Injuries Xue Feng has on his body, the more the power of this divine power will increase; When this divine power reaches $0$0% completion, Xue Feng will randomly transfer up to 8 Old Injuries from his body to the enemy or their teammates
 Kunlun Twelve Golden Immortal Order
 Injuries cannot be increased
 When starting to perform this divine power, Shu Fang gains 12 levels of this effect: The direct damage dealt by enemies to Shu Fang cannot be increased by any effect, and the number of levels of this effect is reduced by 1 every time an enemy inflicts at least 3 Glazed markers on Shu Fang
@@ -3823,16 +3823,16 @@ Entering the mind's edge phase
 When you start to use this power, the pivot gains 3 levels of this effect: Whenever an enemy uses the "Break" technique, the enemy immediately receives a large amount of repercussion damage from that "Break" technique
 Enter the phase of falsehoods
 technique loss of true qi
-When this divine power reaches $0$% completion, Xiangshu gains 3 layers of this effect: All techniques of the enemy have to consume a large amount of True Qi based on their tier and type, otherwise they cannot be performed.
+When this divine power reaches $0$0% completion, Xiangshu gains 3 layers of this effect: All techniques of the enemy have to consume a large amount of True Qi based on their tier and type, otherwise they cannot be performed.
 enter a delusional name
 Sustained phase pivot into magic
 If the enemy is within the range of the Aiohata's attack during the application of this divine power: the Aiohata continuously increases the enemy's level of enchantment according to the enemy's level of enchantment at the beginning of the battle
 The heart is lost without awareness
-When starting to perform this divine power, Xiangshu gains 3 layers of this effect: Whenever enemy performs a "Break" technique, enemy immediately suffers a large amount of backlash damage from that "Break" technique, and if that technique fails to reach $0$% completion, it will be permanently "Sealed"
+When starting to perform this divine power, Xiangshu gains 3 layers of this effect: Whenever enemy performs a "Break" technique, enemy immediately suffers a large amount of backlash damage from that "Break" technique, and if that technique fails to reach $0$0% completion, it will be permanently "Sealed"
 No righteousness in evil and delusion
 No purity through contamination
 Defeating the Fallen One
-While performing this divine power, if the enemy is inside of Xiangshu's attack range: enemy's Enchantment level will be continuously increased based on enemy's Enchantment level at the start of the battle; When this divine power reaches $0$% completion, if enemy's Enchantment level is at the maximum, this divine power will inevitably defeat the enemy.
+While performing this divine power, if the enemy is inside of Xiangshu's attack range: enemy's Enchantment level will be continuously increased based on enemy's Enchantment level at the start of the battle; When this divine power reaches $0$0% completion, if enemy's Enchantment level is at the maximum, this divine power will inevitably defeat the enemy.
 Unblock
 Applying random gain
 When you begin to perform this divine power, apply 1 buff to Huanxin that increases a random secondary attribute
@@ -3842,12 +3842,12 @@ Sword Trial
 When you start to perform this divine power, apply a buff to Huanxin that improves External and Internal penetration
 Dismantle The Blade
 Change of enemy buffs
-When starting to perform this divine power: Huan Xin will receive 1 buff to a random secondary stat, and enemy will receive a debuff to a random secondary stat; When this divine power reaches $0$% completion, all "Break" techniques of the enemy that haven't been permanently "Sealed" will become "Sealed" for a short period of time.
+When starting to perform this divine power: Huan Xin will receive 1 buff to a random secondary stat, and enemy will receive a debuff to a random secondary stat; When this divine power reaches $0$0% completion, all "Break" techniques of the enemy that haven't been permanently "Sealed" will become "Sealed" for a short period of time.
 Sheltered light
-When starting to perform this divine power, 2 debuffs on Huan Xin's body will change into buffs; 2 buffs of the enemy will change into debuffs; When this divine power reaches $0$% completion, all "Aegis" techniques of the enemy that haven't been permanently "Sealed" will become "Sealed" for a short period of time.
+When starting to perform this divine power, 2 debuffs on Huan Xin's body will change into buffs; 2 buffs of the enemy will change into debuffs; When this divine power reaches $0$0% completion, all "Aegis" techniques of the enemy that haven't been permanently "Sealed" will become "Sealed" for a short period of time.
 Lost
 Sealing the Quick of the Enemy
-When starting to perform this divine power, Huan Xin will receive a buff that increases Ext. and Int. Penetration; Enemy will receive a debuff that reduces Ext. and Int. Penetration; When this divine power reaches $0$% completion, all "Quick" techniques of the enemy that haven't been permanently "Sealed" will become "Sealed" for a short period of time.
+When starting to perform this divine power, Huan Xin will receive a buff that increases Ext. and Int. Penetration; Enemy will receive a debuff that reduces Ext. and Int. Penetration; When this divine power reaches $0$0% completion, all "Quick" techniques of the enemy that haven't been permanently "Sealed" will become "Sealed" for a short period of time.
 33 Spiritualizations
 Absorbing the enemy's true qi
 When you start to perform this divine power, if Zi Wu Xiang does not have the effect layer of "San San Hua Ling", Zi Wu Xiang gains 3 layers of this effect: when the enemy is about to gain or lose true qi, Zi Wu Xiang will double the corresponding true qi, and the layer of this effect will be reduced when Zi Wu Xiang loses true qi
@@ -3858,11 +3858,11 @@ When you start to perform this power, if Zi Wu Xiang doesn't have the effect tie
 Absorbing enemy healing
 When you start to perform this power, if Purple Raw does not have the effect level of "Nine-Nine Life Creation", Purple Raw gains 9 levels of this effect: when the enemy is about to eliminate or receive a wound mark, the wound mark on the corresponding part of Purple Raw will be eliminated at the same time, and the number of levels of this effect will be reduced when a poison mark appears on Purple Raw
 Spiritual Dispersion - Heaven, Earth and Human
-When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "33 Spiritualizations" to greatly increase power of this divine power; When this divine power reaches $0$% completion, if Zi Wuxiao has effect layers of "77 Wisdoms", Zi Wuxiao will immediately perform "Wisdom Death - Seven Awareness Branches" without any consumption, and if not, then all types of True Qi of the enemy will be halved.
+When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "33 Spiritualizations" to greatly increase power of this divine power; When this divine power reaches $0$0% completion, if Zi Wuxiao has effect layers of "77 Wisdoms", Zi Wuxiao will immediately perform "Wisdom Death - Seven Awareness Branches" without any consumption, and if not, then all types of True Qi of the enemy will be halved.
 Wisdom Death - Seven Awareness Branches
-When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "77 Wisdoms" to greatly increase power of this divine power; When this divine power reaches $0$% completion, if Zi Wuxiao has effect layers of "99 Destinies", Zi Wuxiao will immediately perform "Fate - Unbreakable Prison" without any consumption, and if not, then enemy will lose all of their available styles
+When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "77 Wisdoms" to greatly increase power of this divine power; When this divine power reaches $0$0% completion, if Zi Wuxiao has effect layers of "99 Destinies", Zi Wuxiao will immediately perform "Fate - Unbreakable Prison" without any consumption, and if not, then enemy will lose all of their available styles
 Fate - Unbreakable Prison
-When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "99 Destinies" to greatly increase power of this divine power; When this divine power reaches $0$% completion, if Zi Wuxiao has effect layers of "33 Spiritualizations", Zi Wuxiao will immediately perform "Spiritual Dispersion - Heaven, Earth and Human" without any consumption, and if not, then all Injuries of the enemy will be greatly worsened.
+When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "99 Destinies" to greatly increase power of this divine power; When this divine power reaches $0$0% completion, if Zi Wuxiao has effect layers of "33 Spiritualizations", Zi Wuxiao will immediately perform "Spiritual Dispersion - Heaven, Earth and Human" without any consumption, and if not, then all Injuries of the enemy will be greatly worsened.
 Phoenix's Peck
 Rapid application of divine power
 When starting to perform this divine power, Long Yufu will inflict 1 External injury to arms that have less than 4 injuries, and accordingly: increase the progress of this divine power; restore the Inhale and Stance consumed by this power
@@ -3908,7 +3908,7 @@ Six - Seven - Eight Swords
 Transferring the Disorientation Marker
 Greed, Anger and Dementia - Solution
 Greed, Anger and Dementia - Robbery
-When starting to perform this divine power, the more Glazed markers Ran Chenzi has, the more the power of this divine power increases; When this divine power reaches $0$% completion, Ran Chenzi transfers up to 6 Glazed markers from himself to the enemy
+When starting to perform this divine power, the more Glazed markers Ran Chenzi has, the more the power of this divine power increases; When this divine power reaches $0$0% completion, Ran Chenzi transfers up to 6 Glazed markers from himself to the enemy
 When Xue Feng, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Ran Chenzi starts to perform this divine power, the enemy removes 2 Glazed markers
 When Xue Feng, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Ran Chenzi begins to perform this divine power, the enemy gains 2 Glazed markers
 Nine Swords - Ghost God Xia
