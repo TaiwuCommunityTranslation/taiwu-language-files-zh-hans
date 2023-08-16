@@ -1138,7 +1138,7 @@ If the weapon held by user is specifically "Polearm·Mountain Shaken", when this
 Unleashed: This Polearm enables all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$0% completion
 Staff of\nGhost Head
 Reduce the number of effect layers
-If the weapon held by user is specifically "Polearm·Cyan Ghost", when this technique reaches $0$0% completion it will randomly reduce 1 layer of enemy's "Break" technique's effect, and "Polearm·Cyan Ghost" will become Unleashed, allowing all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Polearm·Cyan Ghost", when this technique reaches $0$0% completion it will randomly reduce 1 layer of enemy's "Break" technique's effect, and "Polearm·Cyan Ghost" will become Unleashed, allowing all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm enables all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$0% completion
 Staff of\nGold Eyes Tiger
 Eliminate helper commands
