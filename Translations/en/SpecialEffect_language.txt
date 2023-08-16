@@ -2800,7 +2800,7 @@ If user's Constitution isn't less than 70, when this technique reaches $0$0% com
 Reverse - Staff of\nGhost Head
 If user's Agility and Comprehension aren't less than 60, when this technique reaches $0$0% completion, it will randomly reduce 1 layer of enemy's "Break" technique's effect, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will randomly reduce 1 layer of enemy's "Break" technique's effect when reaching $0$0% completion.
 Reverse - Staff of\nGold Eyes Tiger
-If user's Strength and Willpower aren't less than 60, when this technique reaches $0$0% completion, it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will put 1 order of a random enemy's teammate on a 5x longer cooldown when reaching $0$% completion.
+If user's Strength and Willpower aren't less than 60, when this technique reaches $0$0% completion, it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will put 1 order of a random enemy's teammate on a 5x longer cooldown when reaching $0$0% completion.
 Reverse - Staff of\nMystical Island
 If user's Vitality and Comprehension aren't less than 60, the Stance and Inhale cost of this technique will be greatly reduced. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Polearm Technique" of the user will have reduced Stance and Inhale cost.
 Reverse - Divine Staff of\nOcean Carry
@@ -2872,7 +2872,7 @@ Based on completion percentage of this technique, apply a Movement Speed debuff 
 Reverse - Swordsmanship\nof Ghost Old Lady
 When this technique reaches $0$0% completion, for every 3 "Stab" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Reverse - Holy Wood\nSwordsmanship
-When this technique reaches $0$0% completion, part of its power will be transferred to 2 random "Break" techniques of the user. This effect lasts until this technique fails to reach $0$% completion, then the transferred power will be restored and multiplied, lasting until the end of battle.
+When this technique reaches $0$0% completion, part of its power will be transferred to 2 random "Break" techniques of the user. This effect lasts until this technique fails to reach $0$0% completion, then the transferred power will be restored and multiplied, lasting until the end of battle.
 Reverse - Soul Chasing\nSwordsmanship
 While performing this technique, user can retreat up to 6 distance at once. The farther the user retreats, the more the power of this technique increases. For every 1 distance the user retreats, the user can gain 2 points of "Quick" True Qi
 Reverse - Holy Ruler\nSwordsmanship
