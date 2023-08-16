@@ -1134,7 +1134,7 @@ Staff of\nSweep Cloud
 If the weapon held by user is specifically "Polearm·Rainbow Whisk", when this technique reaches $0$0% completion it will reduce enemy's Footwork and Stamina, and "Polearm·Rainbow Whisk" will become Unleashed, allowing all "Polearm Techniques" to reduce enemy's Footwork and Stamina when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's Footwork and Stamina when they reach $0$0% completion
 Staff of\n10 Directions
-If the weapon held by user is specifically "Polearm·Mountain Shaken", when this technique reaches $0$0% completion it will "Interrupt" enemy's Healing, Detox, or Escape, and Unleash "Polearm·Mountain Shaken", allowing all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
+If the weapon held by user is specifically "Polearm·Mountain Shaken", when this technique reaches $0$0% completion it will "Interrupt" enemy's Healing, Detox, or Escape, and "Polearm·Mountain Shaken" will become Unleashed, allowing all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm enables all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$0% completion
 Staff of\nGhost Head
 Reduce the number of effect layers
