@@ -33,11 +33,11 @@ Might Ratio
 Finesse Ratio
 Swiftness Ratio
 Attack Range
-Attack Chest/Back
-Attack Waist/Stomach
+Attack Chest
+Attack Waist
 Attack Head
-Attack Hands
-Attack Foots
+Attack Arms
+Attack Legs
 Severity of sealed acupoints
 Severity of flaws
 Apply Acritoxin
@@ -46,3 +46,25 @@ Apply Cryotoxin
 Apply Pyrotoxin
 Apply Necrotoxin
 Apply Oneirotoxin
+Use Requirements
+Break Row
+Quick Row
+Aegis Row
+Nadis Row
+Requires Punch Style
+Requires Point Style
+Requires Hold Style
+Requires Hack Style
+Requires Stab Style
+Requires Slash Style
+Requires Throw Style
+Requires Shot Style
+Requires Drive Style
+Requires Sound Style
+Requires Wrap Style
+Requires Spell Style
+Requires Ware Style
+Requires Drug Style
+Requires Toxic Style
+Requires Sweep Style
+Accumulation Speed
