@@ -2796,9 +2796,9 @@ If user's Strength isn't less than 70, when this technique reaches $0$0% complet
 Reverse - Staff of\nSweep Cloud
 If user's Agility isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's Footwork and Stamina, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's Footwork and Stamina when reaching $0$0% completion.
 Reverse - Staff of\n10 Directions
-If user's Constitution isn't less than 70, when this technique reaches $0$0% completion, it will "Interrupt" enemy's Healing, Detox, and Escape, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will "Interrupt" enemy's Healing, Detox, and Escape when reaching $0$% completion.
+If user's Constitution isn't less than 70, when this technique reaches $0$0% completion, it will "Interrupt" enemy's Healing, Detox, and Escape, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will "Interrupt" enemy's Healing, Detox, and Escape when reaching $0$0% completion.
 Reverse - Staff of\nGhost Head
-If user's Agility and Comprehension aren't less than 60, when this technique reaches $0$0% completion, it will randomly reduce 1 layer of enemy's "Break" technique's effect, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will randomly reduce 1 layer of enemy's "Break" technique's effect when reaching $0$% completion.
+If user's Agility and Comprehension aren't less than 60, when this technique reaches $0$0% completion, it will randomly reduce 1 layer of enemy's "Break" technique's effect, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will randomly reduce 1 layer of enemy's "Break" technique's effect when reaching $0$0% completion.
 Reverse - Staff of\nGold Eyes Tiger
 If user's Strength and Willpower aren't less than 60, when this technique reaches $0$0% completion, it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will put 1 order of a random enemy's teammate on a 5x longer cooldown when reaching $0$% completion.
 Reverse - Staff of\nMystical Island
