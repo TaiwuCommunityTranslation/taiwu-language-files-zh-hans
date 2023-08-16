@@ -938,3 +938,9 @@ Tournament Victory
 Temporary text: Participated in three contests at {1} and defeated {0}
 Tournament Lost
 Temporary text: Participated in three contests at {1}, lost to {0}
+Somewhat Enlightened
+Were contemplating about the past at {0}, and got somewhat enlightened, gaining a lot of experience...
+Re-read Old Book
+Re-read {1} at {0}, and got somewhat enlightened, gaining a lot of experience...
+Suffering Together
+Because of {0}, they violated the sect rules, and were punished by the sect together with {0}...
