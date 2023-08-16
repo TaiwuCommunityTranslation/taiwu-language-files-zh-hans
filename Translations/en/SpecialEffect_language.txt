@@ -1129,21 +1129,21 @@ If the weapon held by user is specifically "Blade·MingHong", the power of this 
 Unleashed: This Blade enables all "Blade Techniques" to have increased power.
 Dragon-Defeated\nStaff
 If the weapon held by user is specifically "Polearm·Dragon Vanquisher", when this technique reaches $0$0% completion it will reduce enemy's "attack tokens" and Unleash "Polearm·Dragon Vanquisher", allowing all "Polearm Techniques" to reduce enemy's "attack tokens" when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's "attack tokens" when they reach $0$% of their power
+Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's "attack tokens" when they reach $0$0% completion
 Staff of\nSweep Cloud
 If the weapon held by user is specifically "Polearm·Rainbow Whisk", when this technique reaches $0$0% completion it will reduce enemy's Footwork and Stamina, and Unleash "Polearm·Rainbow Whisk", allowing all "Polearm Techniques" to reduce enemy's Footwork and Stamina when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's Footwork and Stamina when they reach $0$% of their power
+Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's Footwork and Stamina when they reach $0$0% completion
 Staff of\n10 Directions
 If the weapon held by user is specifically "Polearm·Mountain Shaken", when this technique reaches $0$0% completion it will "Interrupt" enemy's Healing, Detox, or Escape, and Unleash "Polearm·Mountain Shaken", allowing all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$% of their power
+Unleashed: This Polearm enables all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$0% completion
 Staff of\nGhost Head
 Reduce the number of effect layers
 If the weapon held by user is specifically "Polearm·Cyan Ghost", when this technique reaches $0$0% completion it will randomly reduce 1 layer of enemy's "Break" technique's effect, and Unleash "Polearm·Cyan Ghost", allowing all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$% of their power. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$% of their power
+Unleashed: This Polearm enables all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$0% completion
 Staff of\nGold Eyes Tiger
 Eliminate helper commands
 If the weapon held by user is specifically "Polearm·Golden-eyed Tiger", when this technique reaches $0$0% completion it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and Unleash "Polearm·Golden-eyed Tiger", allowing all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown when they reach $0$% of their power
+Unleashed: This Polearm enables all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown when they reach $0$0% completion
 Staff of\nMystical Island
 If the weapon held by user is specifically "Polearm·PengLai", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Polearm·PengLai" can be Unleashed, allowing all "Polearm Techniques" to have reduced Stance and Inhale cost. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm can reduce the Inhale and Stance consumption of all "Polearm" techniques
