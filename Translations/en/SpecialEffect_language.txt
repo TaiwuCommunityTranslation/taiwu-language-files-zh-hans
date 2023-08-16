@@ -2794,7 +2794,7 @@ When you start performing this technique, if the weapon held by the enemy is a "
 Reverse - Dragon-Defeated\nStaff
 If user's Strength isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's "attack tokens", and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's "attack tokens" when reaching $0$0% completion.
 Reverse - Staff of\nSweep Cloud
-If user's Agility isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's Footwork and Stamina, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's Footwork and Stamina when reaching $0$% completion.
+If user's Agility isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's Footwork and Stamina, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's Footwork and Stamina when reaching $0$0% completion.
 Reverse - Staff of\n10 Directions
 If user's Constitution isn't less than 70, when this technique reaches $0$0% completion, it will "Interrupt" enemy's Healing, Detox, and Escape, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will "Interrupt" enemy's Healing, Detox, and Escape when reaching $0$% completion.
 Reverse - Staff of\nGhost Head
