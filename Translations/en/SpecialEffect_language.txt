@@ -937,7 +937,7 @@ When this technique reaches $0$0% completion, attacking enemy's body part that h
 5 Mantra\n5 Phases
 When attacking enemy with this technique, the higher the user's Composure, Cleverness, Enthusiasm, Valour, and Fortitude than the enemy's, the more enemy's Accuracy stats will be reduced; When this technique reaches $0$0% completion, if at least 3 of those instincts are higher than the enemy's, 2 "None" styles will be applied to the enemy.
 Pivot Move
-After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user's "Break" technique fails to reach $1$% completion, it's power gets greatly increased. This effect lasts until that "Break" technique reaches $1$% completion.
+After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user's "Break" technique fails to reach $1$0% completion, it's power gets greatly increased. This effect lasts until that "Break" technique reaches $1$0% completion.
 Clutch Finger
 Changing the Enemy's External Defense
 When attacking the enemy with this technique: the smaller the difference between user's and enemy's Ext. Def. and Ext. Pen., the smaller the enemy's Ext. Def. will be
