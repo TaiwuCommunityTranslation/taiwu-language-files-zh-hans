@@ -11,3 +11,5 @@ Combat behavior with negative remaining frames
 The current combat state has a negative number of remaining frames, this behavior has been skipped
 Exceptions in the runtime of aspiration animation
 When executing {1} skill of {0} aspiration, an exception occurs when the animation is running and the current skill execution has been skipped. \n error message reported: {2}
+Skill effect run-time anomaly
+FX ID {0} An abnormal condition occurred during runtime and has been handled for compatibility.\nIf this log appears, you can go to the official website to submit the log to help troubleshoot the problem.\nException Message: {1}
