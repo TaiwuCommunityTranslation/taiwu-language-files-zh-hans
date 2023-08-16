@@ -3186,7 +3186,7 @@
   "LK_Body_Part_Tips_Health_3": "\n<color=#brightred>Skills that require this body part will be unavailable;</color>",
   "LK_CombatSkill_CostNeed_Title": "Release Part",
   "LK_CombatSkill_HitParts_Title": "Hit Part",
-  "LK_Body_Part_Tips_Content_New": "Currently has <color=#pinkyellow>{0}</color><color=#outterinjury>External Injuries</color> and <color=#pinkyellow>{1}</color><color=#innerinjury>Internal Injuries</color>;",
+  "LK_Body_Part_Tips_Content_New": "Has <color=#pinkyellow>{0}</color> <color=#outterinjury>External Injuries</color> and <color=#pinkyellow>{1}</color> <color=#innerinjury>Internal Injuries</color>;",
   "LK_CombatSkill_BodyAndMentalStrong_Title": "【Practice Effect】",
   "LK_CombatSkill_HitParts_Head": "Head",
   "LK_CombatSkill_HitParts_Chest": "Chest",
