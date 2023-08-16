@@ -3201,7 +3201,7 @@
   "LK_CombatSkill_Injury_LeftHand": "L. Arm HP",
   "LK_CombatSkill_Injury_RightHand": "R. Arm HP",
   "LK_CombatSkill_Injury_LeftFoot": "L. Leg HP",
-  "LK_CombatSkill_Injury_RightFoot": "Sturdy R. Leg",
+  "LK_CombatSkill_Injury_RightFoot": "R. Leg HP",
   "LK_Body_Part_Tips_MaxNum": "Only the highest value of physical/mental strengthening for a body part will take effect...",
   "LK_MouseTip_BanReasons_StanceNotEnough": "Current <SpName=mousetip_ciyao_0>Stance is insufficient...",
   "LK_MouseTip_BanReasons_BreathNotEnough": "Current <SpName=mousetip_ciyao_0>Inhale is insufficient...",
