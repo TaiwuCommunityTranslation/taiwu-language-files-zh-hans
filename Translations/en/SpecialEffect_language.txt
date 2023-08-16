@@ -3725,7 +3725,7 @@ Continuously causing breakdowns
 At the end of this divine power, Jin Huo'er gains 18 levels of this effect: the enemy continues to have 1 break; for every break in the enemy due to this effect, the number of levels of this effect is reduced by 1
 Red Feather Breaks the Sky
 Repel and damage the enemy
-When this divine power reaches $0$% completion, Jin Huang'er knocks back the enemy by 6 distances, and if after the knock back the distance between Jin Huang'er and the enemy is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
+When this divine power reaches $0$% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
 When this divine power reaches $0$% completion, user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
 Goodness HeShi
 At the end of this divine power, Golden Phoenix gains 6 levels of this effect: Golden Phoenix's weapon attacks will repeat 4 times
