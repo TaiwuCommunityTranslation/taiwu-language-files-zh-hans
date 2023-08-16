@@ -3737,14 +3737,14 @@ When this divine power reaches $0$% completion, Jin Huang'er knocks back the ene
 When this divine power reaches $0$% completion, user knocks back the enemy by 6 distances, and if after the knock back the distance between the user and the enemy is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 6 Old Injuries at random body parts.
 fox hunting
 While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if enemy has a character with whom they are mutually at "Adore" or "Enemies", Yi Yihou adds 3 "None" styles to the enemy; When this divine power reaches $0$% completion, Yi Yihou adds 3 "None" styles to the enemy.
-While performing this divine power, user can move; When starting to perform this divine power, if enemy has a character with whom they are mutually at "Adore" or "Enemies", user adds 3 "None" styles to the enemy; When this divine power reaches $0$% completion, user adds 3 "None" styles to the enemy.
+While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 3 "None" styles to the enemy; When this divine power reaches $0$% completion, user adds 3 "None" styles to the enemy.
 the waning fox cries
 If the enemy is within the range of Yi Yi Hou's attack while this power is being applied: Continuously add a Glazed markers to the enemy; Continuously remove enemy's styles
 If the enemy is within the attack range of the user during the application of this power: Continuously add a Glazed markers to the enemy; Continuously remove enemy's styles
 Four Elephant Blood and Fire Technique
 When this divine power reaches $0$% completion, damage of this technique will be dealt to 2 body parts of the enemy
 return to the foxes
-While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if enemy has a character with whom they are mutually at "Adore" or "Enemies", Yi Yihou adds 6 "None" styles to the enemy; When this divine power reaches $0$% completion, Yi Yihou adds 6 "None" styles to the enemy.
+While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, Yi Yihou adds 6 "None" styles to the enemy; When this divine power reaches $0$% completion, Yi Yihou adds 6 "None" styles to the enemy.
 While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 6 "None" styles to the enemy; When this divine power reaches $0$% completion, user adds 6 "None" styles to the enemy.
 Mourning
 Burning God Blood Fire Technique
