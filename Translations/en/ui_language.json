@@ -3195,7 +3195,7 @@
   "LK_CombatSkill_HitParts_RightHand": "R. Arm",
   "LK_CombatSkill_HitParts_LeftFoot": "L. Leg",
   "LK_CombatSkill_HitParts_RightFoot": "R. Leg",
-  "LK_CombatSkill_Injury_Head": "Sturdy Head",
+  "LK_CombatSkill_Injury_Head": "Head HP",
   "LK_CombatSkill_Injury_Chest": "Sturdy Chest",
   "LK_CombatSkill_Injury_Belly": "Sturdy Waist",
   "LK_CombatSkill_Injury_LeftHand": "Sturdy L. Arm",
