@@ -539,7 +539,7 @@
   "LK_CombatSkill_Bounce_Outer": "Reflect External: <color=#F8E0CAFF>{0}%</color>",
   "LK_CombatSkill_Bounce_Inner": "Reflect Internal: <color=#F8E0CAFF>{0}%</color>",
   "LK_CombatSkill_FightBack": "Counterattack",
-  "LK_CombatSkill_FightBack_Desc": "Counter enemy's normal attack {0} with <color=#F8E0CAFF>{1}%</color> power",
+  "LK_CombatSkill_FightBack_Desc": "When Resolving weapon attack with {0}, Counter it with <color=#F8E0CAFF>{1}%</color> power",
   "LK_CombatSkill_Equip_Effect_Title": "【Equip Effect】",
   "LK_CombatSkill_Direct_Effect_Title": "【Orthodox Way】",
   "LK_CombatSkill_Reverse_Effect_Title": "【Heterodox Way】",
