@@ -2792,7 +2792,7 @@ When you start performing this technique, if the weapon held by the enemy is a "
 Reverse - The Last Blade\nof Minghong
 When you start performing this technique, if the weapon held by the enemy is a "Sword", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Blade Technique" of the user will have increased power
 Reverse - Dragon-Defeated\nStaff
-If user's Strength isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's "attack tokens", and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's "attack tokens" when reaching $0$% completion.
+If user's Strength isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's "attack tokens", and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's "attack tokens" when reaching $0$0% completion.
 Reverse - Staff of\nSweep Cloud
 If user's Agility isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's Footwork and Stamina, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's Footwork and Stamina when reaching $0$% completion.
 Reverse - Staff of\n10 Directions
