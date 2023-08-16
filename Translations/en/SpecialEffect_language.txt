@@ -3745,7 +3745,7 @@ Four Elephant Blood and Fire Technique
 When this divine power reaches $0$% completion, damage of this technique will be dealt to 2 body parts of the enemy
 return to the foxes
 While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if enemy has a character with whom they are mutually at "Adore" or "Enemies", Yi Yihou adds 6 "None" styles to the enemy; When this divine power reaches $0$% completion, Yi Yihou adds 6 "None" styles to the enemy.
-While performing this divine power, user can move; When starting to perform this divine power, if enemy has a character with whom they are mutually at "Adore" or "Enemies", user adds 6 "None" styles to the enemy; When this divine power reaches $0$% completion, user adds 6 "None" styles to the enemy.
+While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 6 "None" styles to the enemy; When this divine power reaches $0$% completion, user adds 6 "None" styles to the enemy.
 Mourning
 Burning God Blood Fire Technique
 When this divine power reaches $0$% completion, damage of this technique will be dealt to 4 body parts of the enemy
