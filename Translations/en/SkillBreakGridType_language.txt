@@ -7,42 +7,42 @@ No Description
 Normal
 No special effect.
 Succession
-Success chance of connecting all the cells around this cell is increased by 30%.
+After connecting to this cell, <color=#brightblue>Success Rate of all surrounding cells will be increased by 30%</color>.
 Flexibility
-Success chance of this cell is increased by 30% for each successfully connected cell around this cell.
+For every successfully connected cell around this cell, <color=#brightblue>this cell's Success Rate will be increased by 30%</color>.
 Perseverence
-For each failed connection around this cell, the success chance of this cell is increased by 60%.
+For every failed connection around this cell, <color=#brightblue>this cell's Success Rate will be increased by 60%</color>.
 Foundation
-The connection success chance of this cell is reduced by 100%. \nThe connection success rate of all cells around this cell is increased by 60%.
+This cell's <color=#brightred>Success Rate is decreased by 100%</color>.\n<color=#brightblue>Success Rate of all cells surrounding this cell will be increased by 60%</color>.
 Transition
-The next 1 attempt to connect cell is guaranteed to be successful.
+After connecting to this cell, <color=#brightblue>1 next connection will always be successful</color>.
 Inspiration
-Connecting to this cell does not cost an attempt.
+Connecting to this cell <color=#brightblue>won't increase attempt count</color>.
 Refreshment
-The connection success chance of this cell is reduced by 30%. \nConnecting to this cell increases your attempts by 1.
+This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 1</color>.
 Reversal
-The connection success chance of this cell is reduced by 60%. \nConnecting this cell increases your attempts by 2.
+This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 2</color>.
 Steady
-The connection success chance of this cell is increased by 60%. \nConnecting to this cell decreases your attempts by 1.
+This cell's <color=#brightblue>Success Rate is increased by 60%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 1</color>.
 Hard Work
-The connection success chance of this cell is increased by 100%. \nConnecting to this cell decreases your attempts by 2.
+This cell's <color=#brightblue>Success Rate is increased by 100%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 2</color>.
 Clarity
-Reveals some hidden cells.
+Connecting to this cell <color=#brightblue>will reveal multiple undiscovered cells</color>.
 Challenge
-The success chance of this cell is reduced by 60%. \nConnecting to this cell will restore adjacent cells from failed to connectable.
+This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>restores all failed surrounding cells</color>.
 Simplify
-The success chance of this cell is reduced by 30%. \nWhen you successfully connect to this cell, all "golden" cells adjacent to this cell are converted to "basic" cells.
+This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell will turn all "special cells" around this cell into "basic cells"
 Support
 When you connect to this cell, 1 unconnected "golden" cell will be transferred to one of the "basic" cells around it.
 Culmination
-Connecting to this cell gives you 3 additional attempts. \nRandomly change 1 unconnected "golden" cell to "basic". 
+Connecting to this cell <color=#brightblue>will reduce attempt count by 3</color>.\nBut <color=#brightred>1 unconnected "golden cell" will turn into a "basic cell"</color>.
 Humility
-Increase the connection success chance for this cell and all adjacent cell, the less tries you have remaining.
+The higher the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
 Ambition
-Increase the connection success chance for this cell and all adjacent cell, the more tries you have remaining.
+The lower the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
 Advice
-Connecting to this cell costs one additional attempt. \nWhen connecting to this cell, automatically connect 1 "golden" cell.
+Connecting to this cell <color=#brightred>will increase attempt count by 1</color>.\nConnecting to this cell <color=#brightblue>will immediately connect 1 unconnected "golden cell"</color>.
 Complete
-Already familiar with the essentials of this grid. \nThis cell is bound to be connected successfully.
+You are already familiar with the key points of this technique.\nThis cell <color=#brightblue>will always connect successfully</color>.
 Mistake
-Suffer a mistake in this cell. \nThe success rate of this cell is increased by 100%, but attempting to connect to this cell will reduce your Health no matter if it's successful or not.
+Already suffered setbacks on this cell.\nThis cell's <color=#brightblue>Success Rate will be increased by 100%</color>.\nBut <color=#brightred>you will always lose Health when connecting to this cell, regardless of it's success or failure</color>.
