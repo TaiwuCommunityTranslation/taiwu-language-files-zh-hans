@@ -27,46 +27,46 @@ Wood·Intense Tree Fire
 Wood·Quenched Woods
 "When strong wood meets fire, it will defeat it through stubbornness".\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Dominated by Earth(Sever Wood-Earth Confliction)
-"If the earth is full of wood, there will be damage". \n\nThe power limit of "Wood" techniques is reduced by 30%. \nEvery time you use "Wood" type skills, you will suffer from backlash damage and internal breath disruption.
+"If the earth is full of wood, there will be damage". \n\nThe power limit of "Wood" techniques is reduced by 30%. \nEvery time you use "Wood" techniques, you will suffer from backlash damage and internal breath disruption.
 Wood·Disturbed by Earth(Minor Wood-Earth Confiction)
 "If the earth is weak and meets wood, it will be dumped and trapped". \n\nThe power limit of "Earth" techniques is reduced by 20%. \nEvery time you use the "Earth" techniques, you will suffer from backlash damage and internal breath disruption.
 Wood·Prosperous on Water(Greater Water-Wood Transmution)
-"Water lives and wood grows, gathering wood into a forest". \n\nThe power cap of "Wood" and "Water" type skills is increased by 20%. \nThe power cap of "Earth" and "Fire" techniques is reduced by 20%.
+"Water lives and wood grows, gathering wood into a forest". \n\nThe power cap of "Wood" and "Water" techniques is increased by 20%. \nThe power cap of "Earth" and "Fire" techniques is reduced by 20%.
 Wood·Nurished by Water(Minor Water-Wood Transmution)
-"When wood is moistened by water, its branches grow." \n\nThe power ceiling of "Wood" type skills is increased by 20%. \nThe power cap of "Earth" techniques is reduced by 20%. \nEvery time you use "Metal" type skills, you will suffer from backlash damage and internal breath disruption.
+"When wood is moistened by water, its branches grow." \n\nThe power ceiling of "Wood" techniques is increased by 20%. \nThe power cap of "Earth" techniques is reduced by 20%. \nEvery time you use "Metal" techniques, you will suffer from backlash damage and internal breath disruption.
 Water·Nurishment to Wood(Greater Water-Wood Transmution)
-"Wood is more water shrinkage, so that the quality of the wood is alive". \n\nThe power cap of "Water" and "Wood" type skills is increased by 20%. \nThe power ceiling of "Fire" and "Earth" techniques is reduced by 20%.
+"Wood is more water shrinkage, so that the quality of the wood is alive". \n\nThe power cap of "Water" and "Wood" techniques is increased by 20%. \nThe power ceiling of "Fire" and "Earth" techniques is reduced by 20%.
 Water·Diffusion to Wood(Minor Water-Wood Transmution)
-"When strong water gets wood, it will drain its power". \n\nThe power ceiling of "Water" techniques is increased by 20%. \nThe power limit of "pure yang" type skills is reduced by 20%. \nEvery time you use "Earth" techniques, you will suffer backlash damage and internal breath disruption.
+"When strong water gets wood, it will drain its power". \n\nThe power ceiling of "Water" techniques is increased by 20%. \nThe power limit of "pure yang" techniques is reduced by 20%. \nEvery time you use "Earth" techniques, you will suffer backlash damage and internal breath disruption.
 Water·Boiled by Fire(Sever Water-Fire Confliction)
-"When fire is more water dry, it will be dissipated". \n\nThe power limit of "Water" type skills is reduced by 30%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disruption.
+"When fire is more water dry, it will be dissipated". \n\nThe power limit of "Water" techniques is reduced by 30%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disruption.
 Water·Evaporated by Fire(Minor Water-Fire Confiction)
-"When fire is weak and meets water, it will be extinguished". \n\nThe power limit of "Fire" type skills is reduced by 20%. \nEvery time you use "pure yang" type skills, you will suffer backlash damage and internal breath disruption.
+"When fire is weak and meets water, it will be extinguished". \n\nThe power limit of "Fire" techniques is reduced by 20%. \nEvery time you use "pure yang" techniques, you will suffer backlash damage and internal breath disruption.
 Water·Flood from Metal(Greater Metal-Water Transmution)
-"When gold and water accumulate, rivers converge". \n\nThe power cap of "Water" and "Metal" type skills is increased by 20%. \nThe power ceiling of "Fire" and "Wood" type skills is reduced by 20%.
+"When gold and water accumulate, rivers converge". \n\nThe power cap of "Water" and "Metal" techniques is increased by 20%. \nThe power ceiling of "Fire" and "Wood" techniques is reduced by 20%.
 Water·Condensed over Metal(Minor Metal-Water Transmution)
-"When water is assisted by metal, it transforms into qi and condenses into form". \n\nThe power ceiling of the "Water" category of skills is increased by 20%. \nThe power limit of "Fire" type skills is reduced by 20%. \nEvery time you use "Earth" techniques, you will suffer backlash damage and internal breath disruption.
+"When water is assisted by metal, it transforms into qi and condenses into form". \n\nThe power ceiling of the "Water" category of skills is increased by 20%. \nThe power limit of "Fire" techniques is reduced by 20%. \nEvery time you use "Earth" techniques, you will suffer backlash damage and internal breath disruption.
 Fire·Prolonged by Earth(Greater Fire-Earth Transmution)
-"If earth is more obscure than fire, it will prolong its life". \n\nThe power cap of "Fire" and "Earth" techniques is increased by 20%. \nThe power limit of "Metal" and "Water" type skills is reduced by 20%.
+"If earth is more obscure than fire, it will prolong its life". \n\nThe power cap of "Fire" and "Earth" techniques is increased by 20%. \nThe power limit of "Metal" and "Water" techniques is reduced by 20%.
 Fire·Converged by Earth(Minor Fire-Earth Transmution)
-"Strong fire gets earth to stop its flames". \n\nThe power ceiling of "Fire" techniques is increased by 20%. \nThe power limit of "Metal" type skills is reduced by 20%. \nEvery time you use "Water" type skills, you will suffer from backlash damage and internal breath disorder.
+"Strong fire gets earth to stop its flames". \n\nThe power ceiling of "Fire" techniques is increased by 20%. \nThe power limit of "Metal" techniques is reduced by 20%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disorder.
 Fire·Extinguished by Metal(Sever Fire-Metal Confliction)
-"When much gold is extinguished by fire, it will be extinguished". \n\nThe power limit of "Fire" type skills is reduced by 30%. \nEvery time you use "Fire" techniques, you will suffer from backlash damage and internal breath disruption.
+"When much gold is extinguished by fire, it will be extinguished". \n\nThe power limit of "Fire" techniques is reduced by 30%. \nEvery time you use "Fire" techniques, you will suffer from backlash damage and internal breath disruption.
 Fire·Melting out Metal(Minor Fire-Metal Confiction)
 "If gold is weak when it meets fire, it will see pinning and melting". \n\nThe power limit of "Metal" techniques is reduced by 20%. \nEvery time you use "Metal" techniques, you will suffer backlash damage and internal breath disruption.
 Fire·Enhanced by Wood(Greater Wood-Fire Transmution)
-"When wood is much burned by fire, the power will be fierce". \n\nThe power cap of "Fire" and "Wood" type skills is increased by 20%. \nThe power cap of "Metal" and "Earth" techniques is reduced by 20%.
+"When wood is much burned by fire, the power will be fierce". \n\nThe power cap of "Fire" and "Wood" techniques is increased by 20%. \nThe power cap of "Metal" and "Earth" techniques is reduced by 20%.
 Fire·Sparkle from Wood(Minor Wood-Fire Transmution)
-"Adding wood to fire, burning each other". \n\nThe power ceiling of "Fire" techniques is increased by 20%. \nThe power limit of "Metal" type skills is reduced by 20%. \nEvery time you use "Water" type skills, you will suffer backlash damage and internal breath disorder.
+"Adding wood to fire, burning each other". \n\nThe power ceiling of "Fire" techniques is increased by 20%. \nThe power limit of "Metal" techniques is reduced by 20%. \nEvery time you use "Water" techniques, you will suffer backlash damage and internal breath disorder.
 Earth·Rammed by Metal(Greater Earth-Metal Transmution)
-"The gold is much changed by the earth, so that it can get its firmness". \n\nThe power cap of "Earth" and "Metal" type skills is increased by 20%. \nThe power limit of "Water" and "Wood" type skills is reduced by 20%.
+"The gold is much changed by the earth, so that it can get its firmness". \n\nThe power cap of "Earth" and "Metal" techniques is increased by 20%. \nThe power limit of "Water" and "Wood" techniques is reduced by 20%.
 Earth·Ploughed by Metal(Minor Earth-Metal Transmution)
-"The strong earth gets gold, and the party controls its congestion". \n\nThe power ceiling of the "Earth" category of skills is increased by 20%. \nThe power limit of "Water" type skills is reduced by 20%. \nEvery time you use "Wood" techniques, you will suffer from backlash damage and internal breath disorder.
+"The strong earth gets gold, and the party controls its congestion". \n\nThe power ceiling of the "Earth" category of skills is increased by 20%. \nThe power limit of "Water" techniques is reduced by 20%. \nEvery time you use "Wood" techniques, you will suffer from backlash damage and internal breath disorder.
 Earth·Washed away by Water(Sever Earth-Water Confliction)
 "If there is much water and earth flow, it will be dissipated". \n\nThe power limit of "Earth" techniques is reduced by 30%. \nEvery time you use the "Earth" techniques, you will suffer from backlash damage and internal breath disruption.
 Earth·Silted up by Water(Minor Earth-Water Confiction)
-"If water is weak when it meets earth, it will be silted up". \n\nThe power limit of "Water" type skills is reduced by 20%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disruption.
+"If water is weak when it meets earth, it will be silted up". \n\nThe power limit of "Water" techniques is reduced by 20%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disruption.
 Earth·Revealed by Fire(Greater Fire-Earth Transmution)
-"The earth is burned by fire, and the fire is exhausted." \n\nThe power cap of "Earth" and "Fire" type skills is increased by 20%. \nThe power limit of "Water" and "Metal" type skills is reduced by 20%.
+"The earth is burned by fire, and the fire is exhausted." \n\nThe power cap of "Earth" and "Fire" techniques is increased by 20%. \nThe power limit of "Water" and "Metal" techniques is reduced by 20%.
 Earth·Solidified from Fire(Minor Fire-Earth Transmution)
-"Fire moxibustion and earth knotting, refining quality and forging form". \n\nThe power ceiling of "Earth" type skills is increased by 20%. \nThe power limit of "Water" techniques is reduced by 20%. \nEvery time you use "Wood" techniques, you will suffer from backlash damage and internal breath disorder.
+"Fire moxibustion and earth knotting, refining quality and forging form". \n\nThe power ceiling of "Earth" techniques is increased by 20%. \nThe power limit of "Water" techniques is reduced by 20%. \nEvery time you use "Wood" techniques, you will suffer from backlash damage and internal breath disorder.
