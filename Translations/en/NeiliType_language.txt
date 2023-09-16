@@ -58,7 +58,7 @@ Fire·Intense Tree Fire
 "Wood generates Fire, making a fierce fire."\n\nThe power limit of "Fire" and "Wood" techniques is increased by 20%.\nThe power limit of "Metal" and "Earth" techniques is reduced by 20%.
 Fire·Damp Fire Starter
 "When strong Fire meets Wood, it will waste its energy."\n\nThe power limit of "Fire" techniques is increased by 20%.\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
-Earth·Compressed Earth
+Earth·Solid Earth
 "Metal supports Earth, making it firm and strong."\n\nThe power limit of "Earth" and "Metal" techniques is increased by 20%.\nThe power limit of "Water" and "Wood" techniques is reduced by 20%.
 Earth·Rocky Ground
 "When strong Earth meets Metal, it will be obstructed."\n\nThe power limit of "Earth" techniques is increased by 20%.\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
