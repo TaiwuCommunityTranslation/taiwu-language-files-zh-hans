@@ -15,7 +15,7 @@ Metal·Shaped Gold
 Metal·Blunted Edge
 "When gold gets wet, its edge becomes blunt".\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
 Metal·Gold Deficiency
-"When strong Wood meets Metal, it certainly will be broken."\n\nThe power limit of "Metal"-techniques is reduced by 30%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Wood meets Metal, it certainly will be broken."\n\nThe power limit of "Metal" techniques is reduced by 30%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
 Metal·Chopped Wood
 "When weak Wood meets Metal, it will be cut and broken".\n\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
 Metal·Supported by Earth
