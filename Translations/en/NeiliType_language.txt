@@ -34,7 +34,7 @@ Wood·Prosperous Forest
 "Water supports Wood, making it into a prosperous forest."\n\nThe power limit of "Wood" and "Water" techniques is increased by 20%.\nThe power limit of "Earth" and "Fire" techniques is reduced by 20%.
 Wood·Moistened Branches
 "When strong Wood meets Water, its branches will be moistened."\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
-Water·Nurishment to Wood(Greater Water-Wood Transmution)
+Water·Clean Lake
 "Wood is more water shrinkage, so that the quality of the wood is alive". \n\nThe power limit of "Water" and "Wood" techniques is increased by 20%. \nThe power limit of "Fire" and "Earth" techniques is reduced by 20%.
 Water·Diffusion to Wood(Minor Water-Wood Transmution)
 "When strong water gets wood, it will drain its power". \n\nThe power limit of "Water" techniques is increased by 20%. \nThe power limit of "pure yang" techniques is reduced by 20%. \nEvery time you use "Earth" techniques, you will suffer backlash damage and internal breath disruption.
