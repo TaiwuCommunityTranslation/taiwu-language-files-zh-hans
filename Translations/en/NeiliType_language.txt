@@ -46,7 +46,7 @@ Water·Flooding Rivers
 "Metal generates Water, allowing rivers to thrive."\n\nThe power limit of "Water" and "Metal" techniques is increased by 20%.\nThe power limit of "Fire" and "Wood" techniques is reduced by 20%.
 Water·Condensed Droplets
 "When strong Water meets Metal, it will start condensing on it."\n\nThe power limit of "Water" techniques is increased by 20%.\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
-Fire·Prolonged by Earth
+Fire·Warm Earth
 "Earth supports Fire, allowing it to burn longer."\n\nThe power limit of "Fire" and "Earth" techniques is increased by 20%.\nThe power limit of "Metal" and "Water" techniques is reduced by 20%.
 Fire·Weak Flame
 "When strong Fire meets Earth, its flames will be weakened."\n\nThe power limit of "Fire" techniques is increased by 20%.\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
