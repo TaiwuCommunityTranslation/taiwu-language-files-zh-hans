@@ -20,7 +20,7 @@ Metal·Chopped Wood
 "When weak Wood meets Metal, it will be cut and broken".\n\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
 Metal·Ore Veins
 "Earth generates Metal, allowing it to become a mound of diffused ore veins".\n\nThe power limit of "Metal" and "Earth" techniques is increased by 20%.\nThe power limit of "Wood" and "Water" techniques is reduced by 20%.
-Metal·Concealed by Earth
+Metal·Buried in the Ground
 "When strong Metal meets Earth, it's preciousness will be hidden."\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Sprouting Trees
 "Fire supports Wood, allowing sprouting trees to be strong."\n\nThe power limit of "Wood" and "Fire" techniques is increased by 20%.\nThe power limit of "Earth" and "Metal" techniques is reduced by 20%.
