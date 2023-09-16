@@ -28,7 +28,7 @@ Wood·Quenched Woods
 "When strong wood meets fire, it will defeat it through stubbornness".\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Impenetrable Soil
 "When strong earth meets wood, it will be hard for wood to thrive".\n\nThe power limit of "Wood" techniques is reduced by 30%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
-Wood·Disturbed by Earth(Minor Wood-Earth Confiction)
+Wood·Sapped Earth
 "If the earth is weak and meets wood, it will be dumped and trapped". \n\nThe power limit of "Earth" techniques is reduced by 20%. \nEvery time you use the "Earth" techniques, you will suffer from backlash damage and internal breath disruption.
 Wood·Prosperous on Water(Greater Water-Wood Transmution)
 "Water lives and wood grows, gathering wood into a forest". \n\nThe power limit of "Wood" and "Water" techniques is increased by 20%. \nThe power limit of "Earth" and "Fire" techniques is reduced by 20%.
