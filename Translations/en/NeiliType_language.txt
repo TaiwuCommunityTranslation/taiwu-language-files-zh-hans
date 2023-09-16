@@ -23,7 +23,7 @@ Metal·Supported by Earth
 Metal·Concealed by Earth
 "When metal is hidden by the earth, its preciousness is diminished."\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Sacrificed to Fire
-"Fire is more wood burning, to show its intensity". \n\nThe power cap of "Wood" and "Fire" type skills is increased by 20%. \nThe power cap of "Earth" and "Metal" type of skills is reduced by 20%.
+"With a lot of wood, fire reveals its intensity".\n\nThe power limit of "Wood" and "Fire" techniques is increased by 20%.\nThe power limit of "Earth" and "Metal" techniques is reduced by 20%.
 Wood·Solftened by Fire(Minor Wood-Fire Transmution)
 "When strong wood gets fire, it can only be turned into its stubbornness". \n\nThe power ceiling of "Wood" type skills is increased by 20%. \nThe power limit of "Earth" type skills is reduced by 20%. \nEvery time you use "Metal" type of skills, you will suffer from backlash damage and internal breath disorder.
 Wood·Dominated by Earth(Sever Wood-Earth Confliction)
