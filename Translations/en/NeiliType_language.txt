@@ -47,7 +47,7 @@ Water·Flooding Rivers
 Water·Condensed Droplets
 "When strong Water meets Metal, it will start condensing on it."\n\nThe power limit of "Water" techniques is increased by 20%.\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
 Fire·Prolonged by Earth
-"If earth is more obscure than fire, it will prolong its life". \n\nThe power limit of "Fire" and "Earth" techniques is increased by 20%. \nThe power limit of "Metal" and "Water" techniques is reduced by 20%.
+"Earth supports Fire, allowing it to burn longer."\n\nThe power limit of "Fire" and "Earth" techniques is increased by 20%.\nThe power limit of "Metal" and "Water" techniques is reduced by 20%.
 Fire·Converged by Earth(Minor Fire-Earth Transmution)
 "Strong fire gets earth to stop its flames". \n\nThe power limit of "Fire" techniques is increased by 20%. \nThe power limit of "Metal" techniques is reduced by 20%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disorder.
 Fire·Extinguished by Metal(Sever Fire-Metal Confliction)
