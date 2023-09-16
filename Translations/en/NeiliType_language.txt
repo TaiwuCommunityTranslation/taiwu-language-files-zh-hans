@@ -25,7 +25,7 @@ Metal·Concealed by Earth
 Wood·Intense Tree Fire
 "With a lot of wood, fire reveals its intensity".\n\nThe power limit of "Wood" and "Fire" techniques is increased by 20%.\nThe power limit of "Earth" and "Metal" techniques is reduced by 20%.
 Wood·Quenched Woods
-"When strong wood gets fire, it can only be turned into its stubbornness". \n\nThe power ceiling of "Wood" type skills is increased by 20%. \nThe power limit of "Earth" type skills is reduced by 20%. \nEvery time you use "Metal" type of skills, you will suffer from backlash damage and internal breath disorder.
+"When strong wood meets fire, it will defeat it through stubbornness".\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Dominated by Earth(Sever Wood-Earth Confliction)
 "If the earth is full of wood, there will be damage". \n\nThe power limit of "Wood"-type skills is reduced by 30%. \nEvery time you use "Wood" type skills, you will suffer from backlash damage and internal breath disruption.
 Wood·Disturbed by Earth(Minor Wood-Earth Confiction)
