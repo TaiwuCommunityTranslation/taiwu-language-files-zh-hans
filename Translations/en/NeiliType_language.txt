@@ -2,7 +2,7 @@ Metal·Devil-slaying Vajra
 "Vajra subdues devils, cleaning pagodas of their filth".\n\nThe power limit of "Metal" techniques is increased by 30%.\nThe power limit of "Wood" techniques is reduced by 30%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Purple Clouds From East
 "Purple Clouds come from East, eliminating evil spirits".\n\nThe power limit of "Wood" techniques is increased by 30%.\nThe power limit of "Earth" techniques is reduced by 30%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
-Water·Icy Cold
+Water·Ice-Cold Yin
 "Water Ice Cold, Kun Hidden in the North". \n\nThe power limit of "Water" type skills is increased by 30%. \nThe power limit of "Fire" type skills is reduced by 30%. \nEvery time you use "Earth" type of skills, you will suffer backlash damage and internal breath disruption.
 Fire·Pure as Flame
 "Fire Blazing Fire, Red Son Not Confused". \n\nThe power limit of "Fire" type skills is increased by 30%. \nThe power limit of "Metal" type skills is reduced by 30%. \nEvery time you use "Water" type skills, you will suffer backlash damage and internal breath disorder.
