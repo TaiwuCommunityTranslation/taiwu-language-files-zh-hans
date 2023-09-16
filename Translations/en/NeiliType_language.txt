@@ -52,7 +52,7 @@ Fire·Weak Flame
 "When strong Fire meets Earth, its flames will be weakened."\n\nThe power limit of "Fire" techniques is increased by 20%.\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
 Fire·Extinguished Fire
 "When strong Metal meets Fire, it will be extinguished."\n\nThe power limit of "Fire" techniques is reduced by 30%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
-Fire·Melting out Metal(Minor Fire-Metal Confiction)
+Fire·Melting Metal
 "If gold is weak when it meets fire, it will see pinning and melting". \n\nThe power limit of "Metal" techniques is reduced by 20%. \nEvery time you use "Metal" techniques, you will suffer backlash damage and internal breath disruption.
 Fire·Enhanced by Wood(Greater Wood-Fire Transmution)
 "When wood is much burned by fire, the power will be fierce". \n\nThe power limit of "Fire" and "Wood" techniques is increased by 20%. \nThe power limit of "Metal" and "Earth" techniques is reduced by 20%.
