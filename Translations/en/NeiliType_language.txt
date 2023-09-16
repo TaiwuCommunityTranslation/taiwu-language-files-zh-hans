@@ -44,7 +44,7 @@ Water·Drowned Flame
 "When weak Fire meets Water, it will be drowned out."\n\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
 Water·Flooding Rivers
 "Metal generates Water, allowing rivers to thrive."\n\nThe power limit of "Water" and "Metal" techniques is increased by 20%.\nThe power limit of "Fire" and "Wood" techniques is reduced by 20%.
-Water·Condensed over Metal(Minor Metal-Water Transmution)
+Water·Condensed Droplets
 "When water is assisted by metal, it transforms into qi and condenses into form". \n\nThe power limit of the "Water" category of skills is increased by 20%. \nThe power limit of "Fire" techniques is reduced by 20%. \nEvery time you use "Earth" techniques, you will suffer backlash damage and internal breath disruption.
 Fire·Prolonged by Earth(Greater Fire-Earth Transmution)
 "If earth is more obscure than fire, it will prolong its life". \n\nThe power limit of "Fire" and "Earth" techniques is increased by 20%. \nThe power limit of "Metal" and "Water" techniques is reduced by 20%.
