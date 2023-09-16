@@ -31,7 +31,7 @@ Wood·Impenetrable Soil
 Wood·Sapped Earth
 "When weak Earth meets Wood, it will be sapped of nutrients."\n\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Prosperous Forest
-"Water generates Wood, making it into a prosperous forest."\n\nThe power limit of "Wood" and "Water" techniques is increased by 20%.\nThe power limit of "Earth" and "Fire" techniques is reduced by 20%.
+"Water supports Wood, making it into a prosperous forest."\n\nThe power limit of "Wood" and "Water" techniques is increased by 20%.\nThe power limit of "Earth" and "Fire" techniques is reduced by 20%.
 Wood·Moistened Branches
 "When Wood is moistened by Water, its branches will grow."\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
 Water·Nurishment to Wood(Greater Water-Wood Transmution)
