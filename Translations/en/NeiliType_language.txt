@@ -41,7 +41,7 @@ Water·Drained Water
 Water·Boiling Water
 "When strong Fire meets Water, it will be boiled."\n\nThe power limit of "Water" techniques is reduced by 30%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
 Water·Drowned Flame
-"When fire is weak and meets water, it will be extinguished". \n\nThe power limit of "Fire" techniques is reduced by 20%. \nEvery time you use "pure yang" techniques, you will suffer backlash damage and internal breath disruption.
+"When weak Fire meets Water, it will be drowned out."\n\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
 Water·Flood from Metal(Greater Metal-Water Transmution)
 "When gold and water accumulate, rivers converge". \n\nThe power limit of "Water" and "Metal" techniques is increased by 20%. \nThe power limit of "Fire" and "Wood" techniques is reduced by 20%.
 Water·Condensed over Metal(Minor Metal-Water Transmution)
