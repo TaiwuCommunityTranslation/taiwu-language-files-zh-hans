@@ -49,7 +49,7 @@ Water·Condensed Droplets
 Fire·Prolonged by Earth
 "Earth supports Fire, allowing it to burn longer."\n\nThe power limit of "Fire" and "Earth" techniques is increased by 20%.\nThe power limit of "Metal" and "Water" techniques is reduced by 20%.
 Fire·Weak Flame
-"Strong fire gets earth to stop its flames". \n\nThe power limit of "Fire" techniques is increased by 20%. \nThe power limit of "Metal" techniques is reduced by 20%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disorder.
+"When strong Fire meets Earth, its flames will be weakened."\n\nThe power limit of "Fire" techniques is increased by 20%.\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
 Fire·Extinguished by Metal(Sever Fire-Metal Confliction)
 "When much gold is extinguished by fire, it will be extinguished". \n\nThe power limit of "Fire" techniques is reduced by 30%. \nEvery time you use "Fire" techniques, you will suffer from backlash damage and internal breath disruption.
 Fire·Melting out Metal(Minor Fire-Metal Confiction)
