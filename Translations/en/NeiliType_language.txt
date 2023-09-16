@@ -69,4 +69,4 @@ Earth·Silted Stream
 Earth·Rich Soil
 "Fire generates Earth, allowing it to thrive."\n\nThe power limit of "Earth" and "Fire" techniques is increased by 20%.\nThe power limit of "Water" and "Metal" techniques is reduced by 20%.
 Earth·Fired Clay
-"Fire moxibustion and earth knotting, refining quality and forging form". \n\nThe power limit of "Earth" techniques is increased by 20%. \nThe power limit of "Water" techniques is reduced by 20%. \nEvery time you use "Wood" techniques, you will suffer from backlash damage and internal breath disorder.
+"When strong Earth meets Fire, it will be refined."\n\nThe power limit of "Earth" techniques is increased by 20%.\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
