@@ -65,7 +65,7 @@ Earth·Rocky Ground
 Earth·Rushing River
 "When strong Water meets Earth, it will wash it away."\n\nThe power limit of "Earth" techniques is reduced by 30%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
 Earth·Silted Stream
-"If water is weak when it meets earth, it will be silted up". \n\nThe power limit of "Water" techniques is reduced by 20%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disruption.
+"When weak Water meets Earth, it will be silted up."\n\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
 Earth·Revealed by Fire(Greater Fire-Earth Transmution)
 "The earth is burned by fire, and the fire is exhausted." \n\nThe power limit of "Earth" and "Fire" techniques is increased by 20%. \nThe power limit of "Water" and "Metal" techniques is reduced by 20%.
 Earth·Solidified from Fire(Minor Fire-Earth Transmution)
