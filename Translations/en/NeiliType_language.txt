@@ -17,7 +17,7 @@ Metal·Blunted Edge
 Metal·Gold Deficiency
 "When Metal is weak but Wood is strong, it will certainly be defeated."\n\nThe power limit of "Metal"-techniques is reduced by 30%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
 Metal·Chopped Wood
-"When wood is weak and meets gold, it will be cut and broken". \n\nThe power limit of "Wood"-type skills is reduced by 20%. \nEvery time you use "Wood" type skills, you will suffer from backlash damage and internal breath disruption.
+"When Wood is weak and meets Metal, it will be cut and broken".\n\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
 Metal·Enchanted by Earth(Greater Earth-Metal Transmution)
 "The earth is full of gold, and it becomes a mound of diffused veins". \n\nThe power cap of "Metal" and "Earth" type skills is increased by 20%. \nThe power limit of "Wood" and "Water" type of skills is reduced by 20%.
 Metal·Concealed by Earth(Minor Earth-Metal Transmution)
