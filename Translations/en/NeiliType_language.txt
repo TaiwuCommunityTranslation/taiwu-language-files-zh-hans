@@ -56,7 +56,7 @@ Fire·Melting Metal
 "When weak Metal meets Fire, it will me melted."\n\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
 Fire·Intense Tree Fire
 "Wood generates Fire, making a fierce fire."\n\nThe power limit of "Fire" and "Wood" techniques is increased by 20%.\nThe power limit of "Metal" and "Earth" techniques is reduced by 20%.
-Fire·Sparkle from Wood(Minor Wood-Fire Transmution)
+Fire·Damp Fire Starter
 "Adding wood to fire, burning each other". \n\nThe power limit of "Fire" techniques is increased by 20%. \nThe power limit of "Metal" techniques is reduced by 20%. \nEvery time you use "Water" techniques, you will suffer backlash damage and internal breath disorder.
 Earth·Rammed by Metal(Greater Earth-Metal Transmution)
 "The gold is much changed by the earth, so that it can get its firmness". \n\nThe power limit of "Earth" and "Metal" techniques is increased by 20%. \nThe power limit of "Water" and "Wood" techniques is reduced by 20%.
