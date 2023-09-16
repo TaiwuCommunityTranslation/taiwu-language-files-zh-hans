@@ -61,7 +61,7 @@ Fire·Damp Fire Starter
 Earth·Compressed Earth
 "Metal supports Earth, making it firm and strong."\n\nThe power limit of "Earth" and "Metal" techniques is increased by 20%.\nThe power limit of "Water" and "Wood" techniques is reduced by 20%.
 Earth·Ploughed Ground
-"The strong earth gets gold, and the party controls its congestion". \n\nThe power limit of the "Earth" category of skills is increased by 20%. \nThe power limit of "Water" techniques is reduced by 20%. \nEvery time you use "Wood" techniques, you will suffer from backlash damage and internal breath disorder.
+"When strong Earth meets Metal, it will be obstructed."\n\nThe power limit of "Earth" techniques is increased by 20%.\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
 Earth·Washed away by Water(Sever Earth-Water Confliction)
 "If there is much water and earth flow, it will be dissipated". \n\nThe power limit of "Earth" techniques is reduced by 30%. \nEvery time you use the "Earth" techniques, you will suffer from backlash damage and internal breath disruption.
 Earth·Silted up by Water(Minor Earth-Water Confiction)
