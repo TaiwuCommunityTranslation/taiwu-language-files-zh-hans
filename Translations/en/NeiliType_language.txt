@@ -30,7 +30,7 @@ Wood·Impenetrable Soil
 "When strong earth meets wood, it will be hard for wood to thrive".\n\nThe power limit of "Wood" techniques is reduced by 30%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Sapped Earth
 "When weak earth meets wood, it will be sapped of nutrients."\n\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
-Wood·Prosperous on Water(Greater Water-Wood Transmution)
+Wood·Prosperous Forest
 "Water lives and wood grows, gathering wood into a forest". \n\nThe power limit of "Wood" and "Water" techniques is increased by 20%. \nThe power limit of "Earth" and "Fire" techniques is reduced by 20%.
 Wood·Nurished by Water(Minor Water-Wood Transmution)
 "When wood is moistened by water, its branches grow." \n\nThe power limit of "Wood" techniques is increased by 20%. \nThe power limit of "Earth" techniques is reduced by 20%. \nEvery time you use "Metal" techniques, you will suffer from backlash damage and internal breath disruption.
