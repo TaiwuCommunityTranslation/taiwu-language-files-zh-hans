@@ -37,7 +37,7 @@ Wood·Moistened Branches
 Water·Clean Lake
 "Wood supports Water, improving its quality."\n\nThe power limit of "Water" and "Wood" techniques is increased by 20%.\nThe power limit of "Fire" and "Earth" techniques is reduced by 20%.
 Water·Drained Water
-"When strong water gets wood, it will drain its power". \n\nThe power limit of "Water" techniques is increased by 20%. \nThe power limit of "pure yang" techniques is reduced by 20%. \nEvery time you use "Earth" techniques, you will suffer backlash damage and internal breath disruption.
+"When strong Water meets Wood, it will be drained."\n\nThe power limit of "Water" techniques is increased by 20%.\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
 Water·Boiled by Fire(Sever Water-Fire Confliction)
 "When fire is more water dry, it will be dissipated". \n\nThe power limit of "Water" techniques is reduced by 30%. \nEvery time you use "Water" techniques, you will suffer from backlash damage and internal breath disruption.
 Water·Evaporated by Fire(Minor Water-Fire Confiction)
