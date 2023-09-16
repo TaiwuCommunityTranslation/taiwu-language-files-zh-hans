@@ -21,7 +21,7 @@ Metal·Chopped Wood
 Metal·Supported by Earth
 "The earth is full of metal, and it becomes a mound of diffused ore veins".\n\nThe power limit of "Metal" and "Earth" techniques is increased by 20%.\nThe power limit of "Wood" and "Water" techniques is reduced by 20%.
 Metal·Concealed by Earth
-"When metal is hidden by the earth, its preciousness is diminished."\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Metal meets Earth, it's preciousness will be hidden."\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
 Wood·Intense Tree Fire
 "Wood generates Fire, allowing it to show its full intensity".\n\nThe power limit of "Wood" and "Fire" techniques is increased by 20%.\nThe power limit of "Earth" and "Metal" techniques is reduced by 20%.
 Wood·Quenched Woods
