@@ -21,11 +21,11 @@ The total weight of the items stored in the Storage exceeds the maximum capacity
 Not Enough Resource Limit
 {0} In your Storage have exceeded the storage limit!\nIn this state, <color=#red>you will lose the overflowing resources when going to the next month!</color>
 Externally Injured
-Your <color=#E4504DFF>{0}</color> has External Injuries, causing your Health to decrease every month!<color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
+Your <color=#E4504DFF>{0}</color> <color=#f26824>has External Injuries</color>, causing your Health to decrease every month! <color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
 Internally Injured
-Your <color=#E4504DFF>{0}</color> has Internal Injuries, causing your Health to decrease every month!<color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
+Your <color=#E4504DFF>{0}</color> <color=#a970ff>has Internal Injuries</color>, causing your Health to decrease every month! <color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
 Qi Disorientation
-Your Inner Breath has been disordered. All your abilities will be reduced. If your Qi Disorder reaches it's limit, your Health will be reduced every month!<color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
+Your Inner Breath has been disordered. All your abilities will be reduced. If your Qi Disorder reaches it's limit, your Health will be reduced every month! <color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
 Extreme poisoning
 The {0} has penetrated too deeply, the poison is attacking your heart, causing your Health to drop every month! <color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
 Enthralled by XiangShu
@@ -49,11 +49,11 @@ There seems to be something interesting nearby: It seems like recently a lot of 
 Black Owl and White Deer
 There seems to be something interesting nearby: the disciples of Hundred Flowers Valley often go out to cure and save people, and they inevitably neglect their own safety. As a Taiwu, perhaps you should go and help them get rid of a few Outlaw Lairs in their area...
 Turtle and Snake Coiling
-There seems to be something interesting nearby: It is rumored that there exists a wandering Taoist who seems to often visit people to inspect their achievements in the Wudang Sect, and teach those who practices Heterodox martial arts of Wudang Sect...
+There seems to be something interesting nearby: There are rumors about a mysterious man wandering near Wudang Mountain and teaching people who practice Heterodox techniques of Wudang Sect. Perhaps you should go and give it a try...
 Three Devils in Stone Prison
 There seems to be something interesting nearby: the Stone Prison of the Yuanshan Sect is mysterious and extraordinary. It can actually eliminate the erosion of the demonic nature of the Xiangshu without the help of Taiwu's powers. Perhaps you should go and give it a try...
 Both Civil and Valiant
-There seems to be something interesting nearby: the Lion-Face Clan seems to be secretly practicing a secret Stunt. Perhaps if you had 50% of sect support or more in Lion-Face Clan, you'd be able to learn more about it...
+There seems to be something interesting nearby: Stories about the Lion-Face Clan seem to be circulating in the Guangdong area. Perhaps if you have 50% support in the Lion-Face Clan, you will be able to learn more about them in various towns and villages in Guangdong...
 Clear Brilliant Immortal Pavilion
 There seems to be something interesting nearby: the Ranshan Sect has been having events for generations to make the best of the school attain immortality through three sect competitions. Perhaps if you had 50% of sect support or more in Ranshan Sect, you might be lucky enough to be invited to participate in it...
 Mirror and Water Inversion
@@ -72,3 +72,5 @@ Fu Long turns into a Feather
 There seems to be something interesting nearby: It seems like recently there have been meteors falling on the Chiming Island. Perhaps if you stayed at the Fulong Altar for a few months, you'd be able to witness them...
 The Legacy of the Blood Tomb
 There seems to be something interesting nearby: In Yangzhou City, there seems to be a rumor about ghosts related to the Bloodhound Cult. Perhaps you could go there and investigate it...
+Teammates Injured
+{0} teammates are seriously injured, causing their Health to decrease every month! <color=#darkred>If their Health reaches 0, they will die!</color>
