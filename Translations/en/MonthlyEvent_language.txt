@@ -337,7 +337,7 @@ Xuannyu Declines
 Wudang Gossip
 There was a lot of noise here, it turned out that a cloud traveler was telling others about the interesting things he saw in Wudang recently...
 Daoist's request
-The crane in the cloud flutters, and the old friend believes far away. {0} received a letter from Flying Crane on {1}...
+Elegant crane in the clouds, bringing a letter from a distant friend. {0} received a letter from a flying crane at {1}...
 Finding the Cave
 In {0}, aura is smoldering, and the radiance does not dissipate. It is the place where the Immortal Cave is located. {1} can use Taoism to investigate...
 Wudang Prospers
@@ -352,15 +352,15 @@ Temporary text of the last demon appeared, Yuanshan faction in the siege
 Yuanshan Prospers
 Temporary Text Yuanshan Prospers
 Rebel Enemy Attack
-Rebelling Invaders...
-Letter from the Master
-Received a letter at {0}, it seems to be written by the Lion-Face Clan's master...
+The smoke and dust invade the sea ridge, and the horns of the drum move like lions. A large number of Flying Lion Hall disciples suddenly appeared near the Lion-Face Clan, fighting for territory, acting tyrannically and injuring many innocent people!
+A Letter From Afar
+The deep meaning is entrusted to Pisces, and the mountains and rivers are filled with books. A stranger is looking for Taiwu's successor in {0}, and seems to want to deliver a message for them...
 Long time without letter
-Seized letter at {0}
+After waiting for {0} for many days, I still haven't receive a letter from Lion-Face Clan, but suddenly I heard whispers from a passers-by...
 Lions Clash
-In the spirit of the moment, {0} offered to compare notes with {2} at {1}!
+{0} was so interesting that {1} proposed to compete with {2} in the Lion Face Vanished Skill!
 Lion Face Prospers
-Heard rumors at {0}
+I heard rumors in {0}: Although the Lion-Face Clan annihilated the Hu traitors in Guangdong, their morale was low, their hearts were disorganized, and there were many casualties among the sect.
 Public Complains
 Contains 4 events with the same name and the same kind, which are triggered in sequence
 Vajrayana Attack
@@ -423,10 +423,29 @@ Temporary text of the decline of Mount Ran
 Enlightenment through Meditation and Martial Arts
 Eliminate evil karma, and the three karmas are pure. All dharmas are vain, and this mind finally attains the way of Zen and martial arts...
 Thirst for Knowledge
-{0} at {1} requested {2}
+If you don’t know righteousness, look for someone to teach you. In {1}, {0} was thirsty for knowledge, so they've asked {3} for {2}...
+If you don’t know righteousness, look for someone to teach you. In {1}, {0} was thirsty for knowledge, so they've asked {3} to help them interpret {2}...
 News of Success Pour In
-Provisional text of the Lion-Face Clan
+I see the flag of victory and hear the good news. Lion-Face Clan's feathered book has arrived quickly, and the success of the bloody battle is inspiring!
 Lion-Face Clan Prospers
+I heard a rumor in {0}: The Lion-Face Clan and descendant of Taiwu annihilated the Hu traitors in Guangdong, breaking the army and killing generals!
 Challenge Old Monk
 A Letter from Lion Face
-Lion-Face Clan disciples are at {0} to deliver the letter...
+I smelled the fire beacon, and saw red clouds reflecting the military. War in the Lion-Face Clan is finally over, speeding to entrust the book {0}...
+Foreign Invaders
+With loud gongs and golden drums, military horses advance. all the people stomp their feet and block their way while crying. The foreign enemies are coming to invade Guangdong!
+Lion Face Fire Beacon
+Lotus Mountain is completely silent, no whispers or even dogs barking can be heard. The beacon fire at the Lion-Face Clan is about to go out, and the flag is about to fall...
+Hall Master Report
+There are rumors in the world: Lei Kun, the leader of the Flying Lion Hall of the Lion-Face Clan, is brave and good at fighting, and has driven out all the traitors entrenched in the Lotus Mountain...
+Evil Spirit Strikes
+During the Week of the Heavenly Tree, the evil spirit appeared and was about to eat the Heavenly Tree...
+Heavenly Tree Withers
+The Heavenly Tree has withered and died. The Heavenly Tree at {0} was destroyed by Xiangshu's minions!
+Letter from the Daoist
+Elegant crane in the clouds, bringing a letter from a distant friend. {0} received a letter from Disheveled Daoist at {1}...
+Immortal Under the Tree
+{0} in {1}, has vaguely dreamed that there was a mist floating under the Heavenly Tree, and a real person who had achieved enlightenment came riding the wind. It seemed that the immortal fate has arrived...
+Meeting Servants
+A thousand kalpas will not end, and evil filth will come. {0} was attacked by an evil spirit under the Heavenly Tree at {1}!
+Elegant crane in the clouds, bringing a letter from a distant friend. {0} received a letter from Disheveled Daoist at {1}...
