@@ -198,7 +198,7 @@
   "LK_AudioSetting": "Sound",
   "UI_SystemSetting_BaseSettings": "General",
   "UI_SystemSetting_CombatSettings": "Combat",
-  "UI_SystemSetting_AutoCombatSettings": "Autocombat",
+  "UI_SystemSetting_AutoCombatSettings": "Auto",
   "LK_Resolution": "Window Size",
   "LK_FullScreen": "Full-screen",
   "LK_FullScreenTipTitle": "Full-screen Settings",
