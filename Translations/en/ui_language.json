@@ -716,7 +716,7 @@
   "LK_Combat_Flaw": " Weak Point",
   "LK_Combat_FlawTitle": "{0} Weak points",
   "LK_Combat_FlawInfo": "Weak Points: <color=#pinkyellow>{0}</color>",
-  "LK_Combat_Acupoint": " Acupoint",
+  "LK_Combat_Acupoint": " Sealed Acupoint",
   "LK_Combat_AcupointTitle": "{0} Acupoints",
   "LK_Combat_AcupointInfo": "Blocked Acupoints：<color=#lightgreen>{0}</color>",
   "LK_Combat_CombatDisTitle": "Current Distance",
