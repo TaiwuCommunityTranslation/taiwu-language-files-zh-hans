@@ -53,7 +53,7 @@ Fire·Weak Flame
 Fire·Extinguished Fire
 "When strong Metal meets Fire, it will be extinguished."\n\nThe power limit of "Fire" techniques is reduced by 30%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
 Fire·Melting Metal
-"When weak Metal meets Fire, it will me melted."\n\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When weak Metal meets Fire, it will be melted."\n\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
 Fire·Intense Tree Fire
 "Wood generates Fire, making a fierce fire."\n\nThe power limit of "Fire" and "Wood" techniques is increased by 20%.\nThe power limit of "Metal" and "Earth" techniques is reduced by 20%.
 Fire·Damp Fire Starter
