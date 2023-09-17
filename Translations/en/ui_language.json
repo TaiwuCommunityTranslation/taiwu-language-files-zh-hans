@@ -713,7 +713,7 @@
   "LK_Combat_SurrenderTitle": "Admit defeat and surrender",
   "LK_Combat_SurrenderInfo": "Concede defeat and surrender to the enemy and accept the result of defeat. \n\n <color=#red> If you admit defeat and surrender in a deadly fight, you may die as a result </color>, and there is a difference between death and death, so you must not give up easily!",
   "LK_Combat_SurrenderConfirm": "Concede defeat and surrender, do you concede defeat and surrender and leave the enemy to his fate? \n\n <color=#red> (If it is a deadly fight, it may lead to defeat and death...) </color> ",
-  "LK_Combat_Flaw": " Weak point",
+  "LK_Combat_Flaw": " Weak Point",
   "LK_Combat_FlawTitle": "{0} Weak points",
   "LK_Combat_FlawInfo": "Weak Points: <color=#pinkyellow>{0}</color>",
   "LK_Combat_Acupoint": " Acupoint",
