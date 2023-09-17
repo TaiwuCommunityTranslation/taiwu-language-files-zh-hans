@@ -2517,7 +2517,7 @@
   "LK_ItemTips_Eat_Duration": "Duration",
   "LK_ItemTips_UseInCombat_Title": "【Combat Use】",
   "LK_ItemTips_Cost_Wisdom": "Strategy Cost",
-  "LK_ItemTips_Property_Recover_Postfix": "Restored",
+  "LK_ItemTips_Property_Recover_Postfix": " Restored",
   "LK_ItemTips_Medicine_Eat_Effect_Title": "【Consume Effect】",
   "LK_ItemTips_Medicine_Topical_Effect_Title": "【Apply Effect】",
   "LK_Heal_Random_Outer_Injury_Tips": "Randomly heals Ext. Injuries of lvl <color=#pinkyellow>{0}</color> or lower <color=#pinkyellow>{1}</color> times",
