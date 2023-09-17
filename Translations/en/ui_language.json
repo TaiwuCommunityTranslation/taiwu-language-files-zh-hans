@@ -624,7 +624,7 @@
   "UI_AdvanceMonth_Property": "【Stat Recovery】",
   "UI_AdvanceMonth_SolarTerm": "【24 Seasons】",
   "UI_AdvanceMonth_Qi": "【Internal Breath】",
-  "UI_AdvanceMonth_CurDate": "Currently it's <color=#pinkyellow>day {2} of month {1} of year {0}</color>",
+  "UI_AdvanceMonth_CurDate": "Currently it's <color=#pinkyellow>Day {2} of Month {1} of Year {0}</color>",
   "UI_AdvanceMonth_DaysToNextSolarTerm": ", <color=#brightblue>{0}</color> days later season will change to <color=#pinkyellow>{1}</color>!",
   "UI_AdvanceMonth_SolarTermNow": ", right now it's the <color=#pinkyellow>{0}</color> season!",
   "UI_AdvanceMonthState_1": "Time passes, the world evolves",
