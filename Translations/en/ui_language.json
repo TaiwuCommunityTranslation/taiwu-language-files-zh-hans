@@ -3011,7 +3011,7 @@
   "LK_Combat_Config_Tips_Skill_Sect": "Skills other than 「{0}'s」 are banned",
   "LK_Combat_Config_Tips_Skill_FiveElements": "Elements other than {0} are banned",
   "LK_Combat_Config_Tips_Skill_Attack_Type": "Break skills other than {0} are blocked",
-  "LK_Combat_Config_Tips_Distance": "The distance limit for this combat is「{0}~{1}」",
+  "LK_Combat_Config_Tips_Distance": "The distance limit is「{0}~{1}」",
   "LK_Combat_Carrier_Attack": "Mount Attack",
   "LK_Combat_Carrier_Attack_Tips": "Drive your mount to launch a single attack against the enemy.",
   "UI_Profession_Title": "Aspirations",
