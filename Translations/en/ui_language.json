@@ -772,7 +772,7 @@
   "LK_NeiliDesc_1": "Infuse internal force and gather true qi.\nMakes walking more athletic and swift.",
   "LK_NeiliDesc_2": "Infuse internal force and gather true qi. \nIncrease your External Defense and Internal Defense to mitigate the external and internal injuries received.",
   "LK_NeiliDesc_3": "Infuse internal energy and gather true qi. \nEnhances the operation of the internal breath to improve the internal breath capacity.",
-  "LK_NeiliAllocation_Tips_Layout_Status": "【True QI Status】",
+  "LK_NeiliAllocation_Tips_Layout_Status": "【Status】",
   "LK_NeiliAllocation_Tips_Layout_Effect": "【True QI Effect】",
   "LK_NeiliAllocation_Tips_Layout_Scatter": "{0} doubles the damage and chance of technique backlash",
   "LK_NeiliAllocation_Tips_Layout_Leak": "{0} power of techniques reduced by 20%",
