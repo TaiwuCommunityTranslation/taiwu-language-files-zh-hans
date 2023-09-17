@@ -3296,7 +3296,7 @@
   "LK_Abbreviated_Information_Disable_Content": "Defaults to Detailed Tooltip when hovering over weapons and techniques...",
   "LK_UsingMedicine_Title": "Use Medicine",
   "LK_UsingMedicine_Tip": "Gives quick access to medicine in your inventory...",
-  "LK_Combat_Limit": "Restrictions",
+  "LK_Combat_Limit": "Combat Rules",
   "LK_CombatSkill_ModifyBook_Tip": "The type of pages can be freely modified, but their completeness and degree of study will not be affected...",
   "LK_CharacterLife_Level_4": "Living Corpse",
   "LK_CombatSkill_ModifyBookConfirm_Tip": "Modifying {0}'s page type will consume: ",
