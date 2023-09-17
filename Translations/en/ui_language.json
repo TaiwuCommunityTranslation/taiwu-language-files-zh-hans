@@ -3317,7 +3317,7 @@
   "LK_UpgradeTeammateCommand_Confirm_Start": "Start upgrading...",
   "LK_UpgradeTeammateCommand_Confirm_NoneSelection": "<color=#brightred>The upgraded order hasn't been selected...</color>",
   "LK_UpgradeTeammateCommand_CountLimit": "Number of upgraded orders this character has: {0}/{1}",
-  "LK_CombatSkill_HitProperty": "Stat",
+  "LK_CombatSkill_HitProperty": "Accuracy",
   "LK_Interrupt": "Interrupt",
   "LK_SystemSettings_VideoSetting": "Video",
   "LK_SystemSettings_SavingSetting": "Saving",
