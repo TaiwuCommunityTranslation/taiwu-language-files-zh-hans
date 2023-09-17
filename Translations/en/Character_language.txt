@@ -310,6 +310,7 @@ Xi
 Female Ghost
 Old Monk
 Disheveled Daoist
+Taoist
 Quicksilver Fire Snake
 Warp Beetle
 Slayer of Evil
@@ -362,3 +363,4 @@ Mysterious Person
 Dark River Serpent
 Liao Family's Ancient Cauldron
 Little Black Snake
+Heavenly Tree
