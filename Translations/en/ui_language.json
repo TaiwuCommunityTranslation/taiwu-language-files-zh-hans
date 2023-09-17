@@ -999,7 +999,7 @@
   "LK_Villager_Collect_Resource_And_Mark_Confirm": "Are you sure you want to Dispatch <color=#darkbrown>{0}</color> villagers to this location?",
   "LK_Villager_Collect_Resource_Confirm": "Are you sure you want to Dispatch <color=#darkbrown>{0}</color> villagers to this location?",
   "LK_Villager_Collect_Resource_Speed": "+{0} / Month",
-  "LK_Mark": "Mark",
+  "LK_Mark": " Marker",
   "LK_Mark_Tip_Title": "Mark location",
   "LK_Mark_Tip_Desc": "Mark locations for special attention, or to dispatch and recall villagers more easily...",
   "LK_Mark_Cancel_Tip_Title": "Unmark",
