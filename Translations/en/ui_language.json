@@ -196,7 +196,7 @@
   "LK_MapHomeBornType_5_Desc": "The snowy mountains contain all kinds of rare and precious gemstones, minerals, and even herbs....",
   "LK_SystemSetting": "Settings",
   "LK_AudioSetting": "Sound Settings",
-  "UI_SystemSetting_BaseSettings": "Basic Settings",
+  "UI_SystemSetting_BaseSettings": "General",
   "UI_SystemSetting_CombatSettings": "Combat",
   "UI_SystemSetting_AutoCombatSettings": "Autocombat",
   "LK_Resolution": "Window Size",
