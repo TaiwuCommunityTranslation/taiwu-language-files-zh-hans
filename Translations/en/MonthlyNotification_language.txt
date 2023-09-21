@@ -474,6 +474,6 @@ Liao Family's Ancient Cauldron went to {0} according to the order, and detoxed P
 Liao Family's Ancient Cauldron went to {0} according to the order, and eliminated Qi Disorder of all characters in that area...
 Liao Family's Ancient Cauldron went to {0} according to the order, and restored Health of all characters in that area...
 Villagers Injured
-During the week of the Heavenly Tree, the ghosts are ferocious, and Taiwu villagers defended Heavenly Tree with their lives. {0} villagers were injured while defending Heavenly Tree this month!
+During the week of the Divine Tree, the ghosts are ferocious, and Taiwu villagers defended Divine Tree with their lives. {0} villagers were injured while defending Divine Tree this month!
 Villagers Died
-During the week of the Heavenly Tree, the ghosts are ferocious, and Taiwu villagers defended Heavenly Tree with their lives. {0} villagers in {1} died while defending Heavenly Tree!
+During the week of the Divine Tree, the ghosts are ferocious, and Taiwu villagers defended Divine Tree with their lives. {0} villagers in {1} died while defending Divine Tree!
