@@ -681,18 +681,18 @@ Members of Lion-Face Clan are full of fighting spirit, I can just sit back and w
 Establishing Ancestral Hall
 Return to <color=#orange>Taiwu Village</color>.
 Ancestral Hall has been complete, i should return back to Taiwu Village to take a look at it...
-Maintain the Heavenly Tree
-Maintain the Heavenly Tree, enter the cave, obtain the spiritual treasure, and hand it over to the Disheveled Daoist
-Select <color=#orange>Heavenly Tree Seed</color> in your inventory to plant, and <color=#orange>raise the Heavenly Tree</color> by investing resources, reciting Taoist scriptures, and eliminating nearby Xiangshu minions. After its cultivation is complete, you can enter the cave through the Heavenly Tree to <color=#orange>obtain the spiritual treasure and give it to the Disheveled Daoist</color> for practice.
-The growth of a Heavenly Tree really requires a lot of thought...
-Planting Heavenly Trees
-Select <color=#orange>Heavenly Tree Seed</color> in your inventory to plant. Heavenly Trees cannot be planted near Sword Tombs, Black Stone, or Settlements. Multiple Heavenly Trees can be planted at the same time, but they shouldn't be too close to each other.
-Protecting Heavenly Trees
-Interact with the Heavenly Tree and enter the <color=#orange>Defend Heavenly Tree</color> menu. While the Heavenly Tree is growing, every month there will be a chance of several <color=#orange>Xiangshu minions</color> appearing near the Heavenly Tree. Every month, Xiangshu's minions will move one tile towards the Heavenly Tree along the marked path. If they manage to reach Heavenly Tree's tile, it will be destroyed. <color=#orange>Send villagers</color> to the movement path of the minions to block their progress. A villager can only block one Xiangshu minion on the same tile. Successfuly blocking will <color=#orange>reduce villager's Health</color>.
+Maintain the Divine Tree
+Maintain the Divine Tree, enter the cave, obtain the spiritual treasure, and hand it over to the Disheveled Daoist
+Select <color=#orange>Divine Tree Seed</color> in your inventory to plant, and <color=#orange>raise the Divine Tree</color> by investing resources, reciting Taoist scriptures, and eliminating nearby Xiangshu minions. After its cultivation is complete, you can enter the cave through the Divine Tree to <color=#orange>obtain the spiritual treasure and give it to the Disheveled Daoist</color> for practice.
+The growth of a Divine Tree really requires a lot of thought...
+Planting Divine Trees
+Select <color=#orange>Divine Tree Seed</color> in your inventory to plant. Divine Trees cannot be planted near Sword Tombs, Black Stone, or Settlements. Multiple Divine Trees can be planted at the same time, but they shouldn't be too close to each other.
+Protecting Divine Trees
+Interact with the Divine Tree and enter the <color=#orange>Defend Divine Tree</color> menu. While the Divine Tree is growing, every month there will be a chance of several <color=#orange>Xiangshu minions</color> appearing near the Divine Tree. Every month, Xiangshu's minions will move one tile towards the Divine Tree along the marked path. If they manage to reach Divine Tree's tile, it will be destroyed. <color=#orange>Send villagers</color> to the movement path of the minions to block their progress. A villager can only block one Xiangshu minion on the same tile. Successfuly blocking will <color=#orange>reduce villager's Health</color>.
 Study Taoism
 Study Taoism books, improve your <color=#orange>Taoism attainment</color>, and open the heavenly cave.
 Exchanging for Seeds
-Go to Wudang Sect and interact with <color=#orange>Disheveled Daoist</color> to exchange for Heavenly Tree Seeds.
+Go to Wudang Sect and interact with <color=#orange>Disheveled Daoist</color> to exchange for Divine Tree Seeds.
 Wudang Gossip
 <color=#orange>Calmly wait</color> for news from Wudang Sect
 <color=#orange>Calmly wait</color> for news from Wudang Sect.
@@ -706,7 +706,7 @@ Help <color=#orange>Disheveled Daoist</color> with his method
 Go to the Wudang Clan and interact with <color=#orange>Disheveled Daoist</color> to help him with his method.
 I don’t know what happened to Daoist's Method, so let’s go to Wudang Sect...
 Wait for Immortal Fate
-The Heavenly Tree has grown. <color=#orange>Wait</color> for the opportunity to enter the heavenly cave.
+The Divine Tree has grown. <color=#orange>Wait</color> for the opportunity to enter the heavenly cave.
 Discuss Rumors
 <color=#orange>Visit Lion-Face Clan</color> and find their Sect Master
 <color=#orange>Visit Lion-Face Clan</color> and find their Sect Master to discuss rumors about Lion Face.
