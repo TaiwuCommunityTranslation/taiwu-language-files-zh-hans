@@ -291,7 +291,7 @@ Go to 「Demon Sealing Light - Infernal Acerjail」 and embed their divine sword
 Go to 「Demon Sealing Light - Wonderglow」 and embed their divine sword.
 Boundless Buddha
 Travel the world <color=#orange>to visit all the temples</color>
-Travel to all the <color=#orange>Villages, Camps, Towns and Cities</color> in each area of the world to visit temples.
+Go to the <color=#orange>Cities and Villages</color> in various regions of the world to pay homage to temples. Most of the temples are located in the <color=#orange>Main City Area</color> of the region, and some temples are scattered in <color=#orange>other areas</color>.
 The dust of the world, the sands of the Ganges River, the scriptures may be far away, or even under your feet...
 Jingji Temples
 Travel to <color=#orange>Jingji</color> to visit temples.
@@ -458,18 +458,25 @@ Reply to the Sect Master
 After the end of the Xuannyu quest (Xuannyu ascension to immortality), find the sect master
 Find the sect master to see the quest's ending
 Heterodox Training
-Practice Heterodox version of Wudang's skill to start this quest
+<color=#orange>Heterodox Breakthrough</color> of a Wudang Sect technique
+Do a <color=#orange>Heterodox Breakthrough</color> of any Wudang Sect technique to lead the Taoist to you.
+I don’t know who this Taoist is. If I practice a heterodox version of Wudang Sect's technique, will he really show up?
 Wait for Daoist
-Wait for the Disheveled Daoist to ascertain
-Daoist Ascertainment
-The Disheveled Daoist has finished ascertaining
+<color=#orange>Calmly wait</color> for Disheveled Daoist
+The Disheveled Daoist is mysterious and unpredictable, so it is better to <color=#orange>calmly wait</color>.
+This matter is strange, I don’t know what the Disheveled Daoist wants...
+Letter from the Taoist priest
+Talk to <color=#orange>Disheveled Daoist</color>
+Visit <color=#orange>Wudang Sect</color> and talk to <color=#orange>Disheveled Daoist</color>.
+Let’s go to the Wudang Sect to meet Disheveled Daoist...
 Visit the cave
-Go to {0} to explore
-You can go to explore the cave
-Reply to the Daoist
-You can go back to Disheveled Daoist
-Ask Wudang
-After fighting the Daoist priest to the death, you can inquire about the ending of the Wudang sect
+Go to <color=#orange>{0}</color> to examine Heavenly Caves.
+Hand over Spirit Treasure
+Visit the Wudang Sect and hand over the spirit treasure to <color=#orange>Disheveled Daoist</color>.
+Inquire in Wudang
+Talk to characters in the <color=#orange>Wudang Sect</color>
+The matter of the Disheveled Daoist is over. Talk to <color=#orange>Wudang Sect's character</color> and ask Wudang Sect for their opinion on this matter.
+Now that the matter is over, I will go to Wudang Sect to inquire...
 Stone Prison Distractions
 After interacting with the Stone Prison, ask the sect master of Yuanshan
 Stone Prison Differences
@@ -496,25 +503,44 @@ Evil spirits are dormant, for now just wait
 Exterminate Evil Spirits
 Kill the last Devil
 Lion Face's Movement
-Stay at the Lion-Face Clan to investigate
-Lion Face Stunt
-Go to the【Lion Face Stunt】adventure
-Needs to be blocked when Adventure disappears
+<color=#orange>Calmly watch</color> the strange happenings in Lion-Face Clan
+The behavior of the Lion-Face Clan's disciples is strange, so you might as well <color=#orange>calmly watch</color>.
+The great art mentioned by Lion-Face Clan is so mysterious that I don’t know what kind of trouble is brewing in there...
+Ultimate Art of Lion Face
+Enter <color=#orange>"Ultimate Art of Lion Face"</color> adventure
+Enter <color=#orange>"Ultimate Art of Lion Face"</color> adventure. If you fail to participate in the adventure, you will have to wait <color=#orange>3 months</color> for the adventure to appear again.
+The Lion-Face Clan seems to be very lively, why not go and have a look...
 Wait and see what happens
+<color=#orange>Calmly wait</color> for news from Lion-Face Clan
+The Lion-Face Clan's matter seems to have come to an end, so you might as well <color=#orange>wait for the news</color>. Or you can take advantage of your free time to talk to <color=#orange>Academics in Guangdong Prefecture</color> to find out the whole story of the Lion Face.
+So this is what this Ultimate Art of Lion-Face Clan is. I wonder how it will change in the future...
 Scouting the Lion Face
-Go to the Lion-Face Clan to explore
-Destroying the Outlaws
-Destroy the Outlaws outside the map
-Look for the Sect Master
-Go to the Lion-Face Clan to find the sect master
+Go to <color=#orange>Lion Face</color> to investigate
+Something seems to have happened at Lion-Face Clan, and Outlaws are rampant in Lotus Mountain. Go to <color=#orange>Lion Face</color> area to investigate.
+I haven't received a letter from Lion-Face Clan, i wonder what happened to them...
+Investigate Outlaws
+Go to <color=#orange>Lion-Face Clan</color>
+Go to <color=#orange>Lion-Face Clan</color> to discuss the matter of Outlaws.
+Outlaws are rampant, and Lion-Face Clan will eventually need to take the action. This matter needs to be discussed urgently...
+Calmly wait for good news
+<color=#orange>Calmly wait</color> for good news from Lion-Face Clan
+For now <color=#orange>Calmly wait</color> for good news from Lion-Face Clan.
+Since Hall Master Lei Kun has been ordered to expel the outlaws, i should just wait for the good news...
 Lion Face is different
-Stay at the Lion-Face Clan to observe
+<color=#orange>Calmly observe</color> what's happening at Lion-Face Clan
+There have been a lot of strange things happening in the Lion-Face Clan recently, so <color=#orange>i should calmly observe them</color>.
+The origin of Lei Kun, the master of the Flying Lion Hall, is unknown, and he is probably not a kind person...
 Eliminating Traitors
-Eliminate the traitors of the Lion-Face Clan
+<color=#orange>Annihilate</color> traitors of Lion-Face Clan as soon as possible
+<color=#orange>Quickly annihilate</color> the <color=#orange>Flying Lion Hall disciples</color> in the vicinity of Lion-Face Clan. If you take longer than <color=#orange>3 years</color>, the situation will become irrevocable!
+The disciples of Flying Lion Hall do all kinds of evil, which is intolerable!
 Banish Foreigners
-Eliminate foreign enemies
-Go to a Celebratory Feast
-Travel to the Lion-Face Clan for a celebratory feast
+Together with Lion-Face Clan's people, <color=#orange>expel</color> the foreign enemies
+The disciples of the Lion-Face Clan are destroying the <color=#orange>foreign experts</color> near the Lion-Face Clan. You can choose to <color=#orange>help the disciples of the Lion-Face Clan</color> to eliminate more enemies and compete with them on who kills the most.
+But the flying generals of Dragon City are here, and foreign traitors aren't taught to cross the Yin Mountains!
+Attending Celebratory Banquet
+Go to <color=#orange>Lion-Face Clan</color> and participate in a celebratory banquet.
+Lion-Face Clan invited me to a banquet, and naturally it's hard to refuse...
 No Way for the People to Live
 People of Kunlun Mountain are in dire straits
 Go to the Vajrayana
@@ -609,7 +635,7 @@ Return <color=#orange>Shattered Sculpture</color> to Shaolin
 <color=#orange>Interact</color> with a Shaolin character to return <color=#orange>Shattered Sculpture</color> to Shaolin.
 The statue is shattered, I think the opportunity is over, I should return this thing...
 Battle of Zen and Martial Arts
-Temporarily abandon?
+Abandoned
 Concentrate on Practice
 Concentrate on <color=#orange>practicing</color> Shaolin skills
 Increase the practice level of Shaolin skill <color=#orange>{0}</color> taught by the Old Monk to 100%
@@ -642,12 +668,46 @@ Buddhist Classics Pavilion's floor
 Go to <color=#orange>Buddhist Classics Pavilion</color> to look for treasures
 Go to <color=#orange>Shaolin</color>, click on Industry button, then click on <color=#orange>Buddhist Classics Pavilion</color> to look for treasures.
 Hidden inside of Shaolin's scripture pavilion, i wonder what kind of treasure it is...
-Lion Face Rumor
-There may still be rumors, travel to different parts of Guangdong to hear different rumors about Lion-Face Clan
+Stories about Lion Face
+Visit Guangdong's <color=#orange>Villages and Cities</color> to learn stories
+Visit <color=#orange>Villages and Cities</color> in various areas of Guangdong to learn stories about Lion-Face Clan.
+The stories about Lion-Face Clan are hilarious, so you might as well pay more attention to them while traveling...
 Go to Lion Face
-After hearing rumors about Lion-Face Clan, go there
-Wait to clear up
-Wait for Lion-Face Clan to clear up the invaders
+There are numerous rumors, go to <color=#orange>Lion-Face Clan</color> to investigate.
+The Lion-Face Clan's reputation "spreads far and wide", but we don't know what kind of people are in this sect...
+<color=#orange>Wait</color> until Lion-Face Clan expels foreigners
+<color=#orange>Wait</color> until Lion-Face Clan expels foreign enemies.
+Members of Lion-Face Clan are full of fighting spirit, I can just sit back and watch...
 Establishing Ancestral Hall
 Return to <color=#orange>Taiwu Village</color>.
 Ancestral Hall has been complete, i should return back to Taiwu Village to take a look at it...
+Maintain the Heavenly Tree
+Maintain the Heavenly Tree, enter the cave, obtain the spiritual treasure, and hand it over to the Disheveled Daoist
+Select <color=#orange>Heavenly Tree Seed</color> in your inventory to plant, and <color=#orange>raise the Heavenly Tree</color> by investing resources, reciting Taoist scriptures, and eliminating nearby Xiangshu minions. After its cultivation is complete, you can enter the cave through the Heavenly Tree to <color=#orange>obtain the spiritual treasure and give it to the Disheveled Daoist</color> for practice.
+The growth of a Heavenly Tree really requires a lot of thought...
+Planting Heavenly Trees
+Select <color=#orange>Heavenly Tree Seed</color> in your inventory to plant. Heavenly Trees cannot be planted near Sword Tombs, Black Stone, or Settlements. Multiple Heavenly Trees can be planted at the same time, but they shouldn't be too close to each other.
+Protecting Heavenly Trees
+Interact with the Heavenly Tree and enter the <color=#orange>Defend Heavenly Tree</color> menu. While the Heavenly Tree is growing, every month there will be a chance of several <color=#orange>Xiangshu minions</color> appearing near the Heavenly Tree. Every month, Xiangshu's minions will move one tile towards the Heavenly Tree along the marked path. If they manage to reach Heavenly Tree's tile, it will be destroyed. <color=#orange>Send villagers</color> to the movement path of the minions to block their progress. A villager can only block one Xiangshu minion on the same tile. Successfuly blocking will <color=#orange>reduce villager's Health</color>.
+Study Taoism
+Study Taoism books, improve your <color=#orange>Taoism attainment</color>, and open the heavenly cave.
+Exchanging for Seeds
+Go to Wudang Sect and interact with <color=#orange>Disheveled Daoist</color> to exchange for Heavenly Tree Seeds.
+Wudang Gossip
+<color=#orange>Calmly wait</color> for news from Wudang Sect
+<color=#orange>Calmly wait</color> for news from Wudang Sect.
+The Disheveled Daoist practiced his own way, i wonder whether Wudang will change as a result...
+Daoist's Method
+<color=#orange>Calmly wait</color> for news from Disheveled Daoist
+<color=#orange>Calmly wait</color> for news from Disheveled Daoist.
+I have handed the spiritual treasure to the Disheveled Daoist, but I don’t know what he will do with it...
+Assist in a Ceremony
+Help <color=#orange>Disheveled Daoist</color> with his method
+Go to the Wudang Clan and interact with <color=#orange>Disheveled Daoist</color> to help him with his method.
+I don’t know what happened to Daoist's Method, so let’s go to Wudang Sect...
+Wait for Immortal Fate
+The Heavenly Tree has grown. <color=#orange>Wait</color> for the opportunity to enter the heavenly cave.
+Discuss Rumors
+<color=#orange>Visit Lion-Face Clan</color> and find their Sect Master
+<color=#orange>Visit Lion-Face Clan</color> and find their Sect Master to discuss rumors about Lion Face.
+The rumors are strange, it is better to go to the Lion-Face Clan to discuss with the Sect Master as soon as possible...
