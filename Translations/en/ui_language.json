@@ -2831,7 +2831,7 @@
   "LK_Samsara_Platform_Success_Title": "Sent to reincarnation",
   "LK_Samsara_Platform_Success_Tips": "has sent the soul of {0} to \"{1}\" reincarnation, \\n a strange light fluttering towards {2}{3} of {4}--{5} ......",
   "LK_Samsara_Platform_Fail_Title": "Reincarnation Failure",
-  "LK_Samsara_Platform_Fail_Tips": "Because the opportunity has not arrived, the reincarnation table divine power sent to the reincarnation of the {0} failed to successfully reincarnate, reincarnated into a lonely ghost ......",
+  "LK_Samsara_Platform_Fail_Tips": "Due to the lack of opportunity, {0}, who was sent to reincarnation by the power of the Reincarnation Platform, failed to reincarnate successfully and became a lonely ghost...",
   "LK_Shop_ExtraGoods_Tip": "The purchase price of this item will be much higher than its original value",
   "LK_BuildingOverview_BuildingCount_Tip1": "Already Built: {0}",
   "LK_BuildingOverview_BuildingCount_Tip2": "Can Build: {0}",
