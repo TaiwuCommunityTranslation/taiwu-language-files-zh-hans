@@ -62,7 +62,7 @@ Insider
 Mountain Boar Cub
 Old Father
 Shao Nu
-Hermit
+Shao Nian
 Old Farmer
 Taoist
 Injured Taiwu Villager
@@ -70,3 +70,23 @@ The Three Ancestors
 Roamer Priest
 Farmer
 Pagoda Repairing Monk
+Academic
+Disciples of Flying Lion Hall
+Foreign Master
+Mountain Divine Tree
+Cave Divine Tree
+Canyon Divine Tree
+Swamp Divine Tree
+Hill Divine Tree
+Wonderland Divine Tree
+Plains Divine Tree
+Lake Divine Tree
+Woodland Divine Tree
+Jungle Divine Tree
+River Divine Tree
+Valley Divine Tree
+Mayor
+Traveler
+Drunkard
+Young Taoist
+Duck
