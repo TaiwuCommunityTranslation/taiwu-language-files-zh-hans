@@ -3258,7 +3258,7 @@
   "LK_Combat_MarkType_Fatal": "Fatal Wound: ",
   "LK_Combat_MarkType_Die": "Certain Death: ",
   "LK_Combat_MarkType_Poison": "Poison: ",
-  "LK_CombatSkill_BodyAndMentalStrong_Desc": "Strengthening from skills cannot be stacked (only highest one takes effect), and it takes effect after practicing without the need of equipping",
+  "LK_CombatSkill_BodyAndMentalStrong_Desc": "Only the strongest effect works. Works even when not equipped.",
   "LK_MonthNotifyTip_RelatePersons": "【Related Characters】",
   "LK_MouseTip_CombatFlaw_Desc": "Increase damage taken by <color=#pinkyellow>{0}</color>",
   "LK_MouseTip_CombatFlaw_Effect": "Weak Point Effect",
