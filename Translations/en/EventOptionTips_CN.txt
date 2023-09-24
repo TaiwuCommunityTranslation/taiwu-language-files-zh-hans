@@ -41,3 +41,5 @@ Experience required: {0}
 {0} needs to have a free consumption slot
 Taiwu needs to have a free consumption slot
 Obtained support of upper three tiers of Shaolin
+Taiwu's {0} is not less than {1}
+Cooldown after using: {0} months
