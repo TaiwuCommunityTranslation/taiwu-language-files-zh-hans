@@ -12,4 +12,6 @@ The current combat state has a negative number of remaining frames, this behavio
 Exceptions in the runtime of aspiration animation
 When executing {1} skill of {0} aspiration, an exception occurs when the animation is running and the current skill execution has been skipped. \n error message reported: {2}
 Skill effect run-time anomaly
-FX ID {0} An abnormal condition occurred during runtime and has been handled for compatibility.\nIf this log appears, you can go to the official website to submit the log to help troubleshoot the problem.\nException Message: {1}
+An exception occurred when running with effect ID {0}. We have noticed the problem and are trying to make the game continue through compatibility.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {1}
+Combat runtime exception
+There is an abnormality when the battle is running. We have noticed the problem and are trying to make the game continue through compatibility processing.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {0}
