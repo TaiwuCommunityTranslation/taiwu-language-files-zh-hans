@@ -682,8 +682,8 @@ Establishing Ancestral Hall
 Return to <color=#orange>Taiwu Village</color>.
 Ancestral Hall has been complete, i should return back to Taiwu Village to take a look at it...
 Maintain the Divine Tree
-Maintain the Divine Tree, enter the cave, obtain the spiritual treasure, and hand it over to the Disheveled Daoist
-Select <color=#orange>Divine Tree Seed</color> in your inventory to plant, and <color=#orange>raise the Divine Tree</color> by investing resources, reciting Taoist scriptures, and eliminating nearby Xiangshu minions. After its cultivation is complete, you can enter the cave through the Divine Tree to <color=#orange>obtain the spiritual treasure and give it to the Disheveled Daoist</color> for practice.
+Maintain the Divine Tree, enter the cave, and obtain the spiritual treasure
+Select <color=#orange>Divine Tree Seed</color> in your inventory to plant, and <color=#orange>raise the Divine Tree</color> by investing resources, reciting Taoist scriptures, and eliminating nearby Xiangshu minions. A Divine Tree requires 90,000 resources to fully grow, and this amount can be reduced by reciting Taoist scriptures and eliminating nearby minions. After its cultivation is complete, you can enter the cave through the Divine Tree to <color=#orange>obtain the spiritual treasure and give it to the Disheveled Daoist</color> for practice.
 The growth of a Divine Tree really requires a lot of thought...
 Planting Divine Trees
 Select <color=#orange>Divine Tree Seed</color> in your inventory to plant. Divine Trees cannot be planted near Sword Tombs, Black Stone, or Settlements. Multiple Divine Trees can be planted at the same time, but they shouldn't be too close to each other.
