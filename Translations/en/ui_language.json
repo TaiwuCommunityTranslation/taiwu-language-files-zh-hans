@@ -3144,7 +3144,7 @@
   "LK_Combat_Ai_Auto_Action": "Auto Actions",
   "LK_Combat_Ai_Auto_Action_Tips": "Automatically use the selected actions...",
   "LK_Combat_Ai_Auto_Teammate_Cmd": "Auto Team",
-  "LK_Combat_Ai_Auto_Teammate_Cmd_Tips": "Automatically use the teammate command of the selected teammate...",
+  "LK_Combat_Ai_Auto_Teammate_Cmd_Tips": "Automatically use teammate's orders...",
   "LK_Combat_Ai_Sync_To_Settings": "Sync with Settings",
   "LK_Combat_Ai_Sync_Success": "Sync success",
   "LK_Weapon_Poison_Tips": "Poisons the enemy when the attack deals damage",
