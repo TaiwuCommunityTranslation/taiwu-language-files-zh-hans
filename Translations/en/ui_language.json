@@ -334,7 +334,7 @@
   "LK_LifeSkillBattle_Strategy_Level_Middle": "Intermediate Strategy ({0}/{1})",
   "LK_LifeSkillBattle_Strategy_Level_High": "Advanced Strategy ({0}/{1})",
   "LK_LifeSkillBattle_Strategy_Count": "Strategy Count {0}/{1}",
-  "LK_LifeSkillBattle_Strategy_New": "New Strategies",
+  "LK_LifeSkillBattle_Strategy_New": "New Strategy",
   "LK_LifeSkillBattle_Strategy_Title": "{0} more strategies",
   "LK_LfieSkillBattle_Instant_Tip": "Instant Strategy: A strategy that can be used and take effect during the current turn.",
   "LK_LifeSKillBattle_Strategy_Rebuild": "Strategy Rebuild",
