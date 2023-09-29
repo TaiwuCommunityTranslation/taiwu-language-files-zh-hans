@@ -2384,7 +2384,7 @@
   "LK_CombatDifficultyInfluence_MergedEffect": "Due to the difficulty of the selected battle, the ability in the battle changes...\n\n<color=#pinkyellow>All {0} related properties：<color=#{1}>{2}%</color></color>",
   "LK_CombatDifficultyInfluenceEffect": "Due to the difficulty selected, \nSome of the enemy's abilities will change during the battle....",
   "LK_AtributeType_Title_Major": "Main Stats",
-  "LK_AtributeType_Title_Minor": "Secondary Stats",
+  "LK_AtributeType_Title_Minor": "Secondary",
   "LK_MapBlockData_Malice": "Malice",
   "LK_Doctor": "Doctor",
   "LK_Patient": "Patient",
