@@ -1596,7 +1596,7 @@
   "LK_SecretInformationRelatedToSelf": "Secret Info Related To You",
   "LK_SecretInformationRelatedToSelfNo": "Secret Info Unrelated To You",
   "LK_SecretInformation_RemainTime": "This secret info will be forgotten in {0} months...",
-  "LK_SecretInformation_RemainTime_Fake": "When {0} is reduced to {1}，this secret will be forgotten...",
+  "LK_SecretInformation_RemainTime_Fake": "When {0} is reduced to {1}，this secret will be disappear...",
   "LK_SecretInformation_HolderCount": "This secret will be made public when the number of people who know about it reaches {0} ...",
   "LK_SecretInformation_AuthorityCost": "Spreading this secret costs {0} Prestige",
   "LK_SecretInformation_RemainTime_Simple": "Time Left",
