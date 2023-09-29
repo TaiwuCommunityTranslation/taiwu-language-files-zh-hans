@@ -957,7 +957,7 @@ When this technique reaches $0$0% completion, user will gain 2 points of "Nadis"
 Flying Sword
 Injuries inflicted by this technique on the enemy's Head will change to older injuries that are more difficult to recover from
 Art of the\nClairvoyant Sword
-If the user's Diversion, Parry, Evasion, and Focus are not lower than the enemy's, based on the power of this technique the enemy will be given a debuff that reduces the corresponding Accuracy stat.
+If user's Diversion, Parry, Evasion, or Focus is not lower than the enemy's, based on completion percentage of this technique, apply a debuff to the enemy that reduces the corresponding Accuracy stat.
 Swordsmanship\nof Water Beetle
 E·Resolves Dn
 After this technique reaches $0$0% completion, the user gains 4 layers of this effect: Whenever user attacks an enemy, the enemy's Diversion, Parry, Evasion, and Focus cannot be higher than the user's Might, Finesse, Swiftness, and Breath.
