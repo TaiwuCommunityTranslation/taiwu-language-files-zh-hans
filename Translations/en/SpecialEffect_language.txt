@@ -956,7 +956,7 @@ Swordsmanship\nof Sanchin
 When this technique reaches $0$0% completion, user will gain 2 points of "Nadis" True Qi
 Flying Sword
 Injuries inflicted by this technique on the enemy's Head will change to older injuries that are more difficult to recover from
-Swordsmanship\nof Open-Close
+Art of the\nClairvoyant Sword
 If the user's Diversion, Parry, Evasion, and Focus are not lower than the enemy's, based on the power of this technique the enemy will be given a debuff that reduces the corresponding Accuracy stat.
 Swordsmanship\nof Water Beetle
 E·Resolves Dn
@@ -2664,7 +2664,7 @@ Reverse - Swordsmanship\nof Sanchin
 When this technique reaches $0$0% completion, enemy will lose 2 points of "Nadis" True Qi.
 Reverse - Flying Sword
 This technique deals 30% more direct damage to the enemy's Head, but has a higher chance of attacking other body parts of the enemy
-Reverse - Swordsmanship\nof Open-Close
+Reverse - Art of the\nClairvoyant Sword
 If user's Might, Finesse, Swiftness, or Breath is not lower than the enemy's, based on completion percentage of this technique, apply a debuff to the enemy that reduces the corresponding Resolve stat.
 Reverse - Swordsmanship\nof Water Beetle
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: Whenever user attacks the enemy, user's Might, Finesse, Swiftness, and Breath will not be lower than enemy's Diversion, Parry, Evasion, and Focus.
