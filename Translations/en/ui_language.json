@@ -1821,7 +1821,7 @@
   "LK_Life_Skill_Attainment_Level_1": "Apprentice",
   "LK_Life_Skill_Attainment_Level_2": "Journeyman",
   "LK_Life_Skill_Attainment_Level_3": "Master",
-  "LK_Life_Skill_Attainment_Level_0_Tips": "Place a Fine art any page of which has been read to increase {0} attainment",
+  "LK_Life_Skill_Attainment_Level_0_Tips": "Place read fine art books to increase {0} attainment",
   "LK_Life_Skill_Attainment_Level_Bonus_Tips": "Read {0} {1} books, <color=#brightblue>attainment is increased by {2}%</color>",
   "LK_Combat_Skill_Attainment_Tips": "Talent{0} \nincrease{1}%",
   "LK_Combat_Skill_Attainment_Sect_Bonus": "Attainment increased by {1}% due to the placement of {0} skills of the same sect",
