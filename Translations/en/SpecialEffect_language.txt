@@ -386,7 +386,7 @@ When defending with this technique: all direct damage taken by the user is reduc
 Thousands Incarnation Return
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user's external injury will be restored to the amount it was at the beginning of the defense with this technique, and half of the non-old external injury removed by the restoration will be applied to the enemy
 Pure Virgin
-The higher the Appearance of the user, the higher the Breath of the user.
+The higher the user's Charm, the more the user's Breath will increase.
 Reclamation Stance
 Interrupt E·Style
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user adds 1 "None" to the enemy.
