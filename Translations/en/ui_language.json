@@ -529,7 +529,7 @@
   "LK_Attack_Penetrate": "ATK",
   "LK_AtkAcupoint": "Acupoint",
   "LK_AtkAcupoint_Tips": "At 100% power will close enemy's accupoint.",
-  "LK_AtkAcupoint_Dynamic_Tips": "At {0}% power will cause a Sealed Accupoint.",
+  "LK_AtkAcupoint_Dynamic_Tips": "At {0}0% completion will cause a Sealed Acupoint.",
   "LK_CombatSkill_Power_Count": "0%",
   "LK_CombatSkill_Cast_Effect_Title": "【Cast Effect】",
   "LK_CombatSkill_Cast_Effect_Duration": "Duration",
