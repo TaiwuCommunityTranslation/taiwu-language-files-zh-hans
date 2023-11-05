@@ -1953,7 +1953,7 @@ Greatly increase "Constitution" limit. External Penetration given by "Constituti
 Reverse -  Jiu Ding Gong
 The shorter the remaining life span of the user, the more the power of all the feats of the user will increase, up to 40%.
 Reverse -  Vajra Four Karmas
-Reduces the requirements to use the Metal technique of the user
+Reduces the requirements (by 20%) to use the "Vajrayana" techniques of the user
 Reverse -  Toom technique
 The higher the ratio of "Metal" internal power of the user, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Three Secret Response Method
