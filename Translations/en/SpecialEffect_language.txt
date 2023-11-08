@@ -350,7 +350,7 @@ Ultra Alpha Reflection
 Gain extra true qi
 Avoid losing true qi
 When defending with this technique: the user will not lose true qi; if the user can gain true qi and is about to lose it, the user's true qi will instead be increased by twice of what should've been lost.
-Iron Head of Lion Phase
+Iron Head of\nLion Face
 When defending with this technique, any attack by the enemy to the Head of the user that wouldn't cause more than 3 External injuries is ignored
 Comrade Service
 Whenever the enemy inflicts an injury or a Fatal Wound on the user with direct damage, the user's Stamina will be restored
@@ -2138,7 +2138,7 @@ The more "Hack" styles the user has, the more the user's Diversion increases; th
 Reverse - Ultra Alpha Reflection
 No access to true qi
 When defending with this technique: the enemy cannot gain true qi; if the enemy can lose true qi and will gain it, the enemy's true qi will instead be decreased by twice of what should've been gained.
-Reverse - Iron Head of Lion Phase
+Reverse - Iron Head of\nLion Face
 When defending with this technique, any attack by the enemy to the Head of the user that wouldn't cause more than 3 Internal injuries is ignored
 Reverse - Comrade Service
 Whenever the enemy inflicts an injury or a Fatal Wound on the user with direct damage, the enemy's Stamina will be depleted
