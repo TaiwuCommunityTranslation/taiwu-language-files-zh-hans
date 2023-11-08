@@ -836,7 +836,7 @@ Shield Blade\nof Lion Phase
 When this technique reaches $0$0% completion, for every 3 "Hack" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Tremendous\nEffort Blade
 When you start to perform this technique, the more Strength the user has not consumed, the more the power of this technique will increase
-Blade of\nAo Slashing
+Ao Slaying\nBlade
 Injuries inflicted by this technique on the enemy's Legs will change to older injuries that are more difficult to recover from
 Overlord Blade
 Forbid the enemy to retreat
@@ -2560,7 +2560,7 @@ Reverse - Shield Blade\nof Lion Phase
 When this technique reaches $0$0% completion, for every 1 "Hack" style the user has, user will inflict additional 10% of the direct damage caused by this technique to the enemy's attacked body part as Fatal Wound damage.
 Reverse - Tremendous\nEffort Blade
 When you start to perform this technique, the more Strength the user has consumed, the more the power of this technique will increase
-Reverse - Blade of\nAo Slashing
+Reverse - Ao Slaying\nBlade
 When hitting enemy's Leg, direct damage of this technique increases by 45%; When this technique reaches $0$0% completion, it fully depletes enemy's Stamina and Footwork
 Reverse - Overlord Blade
 After this technique reaches $0$0% completion, user gains 8 layers of this effect: Whenever enemy receives an Injury marker, layers of this effect get reduced by 1. While this effect is active, enemy cannot advance as long as the user is in the enemy's attack range.
