@@ -354,7 +354,7 @@ Iron Head of\nLion Face
 When defending with this technique, any attack by the enemy to the Head of the user that wouldn't cause more than 3 External injuries is ignored
 Comrade Service
 Whenever the enemy inflicts an injury or a Fatal Wound on the user with direct damage, the user's Stamina will be restored
-lose rigidity and gain flexibility
+Lose Rigidity to\nGain Flexibility
 Int Taken Dn
 When defending with this technique, if the enemy's attack includes both External and Internal damage, and the proportion of Internal damage is higher than External damage, the user takes 40% less direct Internal damage, and 20% more direct External damage.
 Overlord's Tripot Lifting
