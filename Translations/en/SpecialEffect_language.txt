@@ -357,7 +357,7 @@ Whenever the enemy inflicts an injury or a Fatal Wound on the user with direct d
 Lose Rigidity to\nGain Flexibility
 Int Taken Dn
 When defending with this technique, if the enemy's attack includes both External and Internal damage, and the proportion of Internal damage is higher than External damage, the user takes 40% less direct Internal damage, and 20% more direct External damage.
-Overlord's Tripot Lifting
+Overlord's\nTripod Lifting
 Direct Dmg
 The heavier the weight of the weapon, the more direct damage the user can inflict on the enemy.
 Lion Roar
@@ -2144,7 +2144,7 @@ Reverse - Comrade Service
 Whenever the enemy inflicts an injury or a Fatal Wound on the user with direct damage, the enemy's Stamina will be depleted
 Reverse -  Lose Rigidity to\nGain Flexibility
 When defending with this technique, if the enemy's attack includes both External and Internal damage, and the proportion of External damage is higher than Internal damage, the user takes 40% less direct External damage, and 20% more direct Internal damage.
-Reverse - Overlord's Tripot Lifting
+Reverse - Overlord's\nTripod Lifting
 The heavier the weapon of the user, the more direct damage the enemy inflicts on the user will be reduced.
 Reverse - Lion Roar
 When the battle starts and also when the total number of defeat marks of the user exceeds half of the defeat condition, all of the enemy's Inhale and Stance are removed
