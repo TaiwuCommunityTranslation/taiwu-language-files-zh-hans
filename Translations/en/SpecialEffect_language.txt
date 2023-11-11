@@ -1416,7 +1416,7 @@ Divine Needle\nof Shadow-Stopped
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user gains a "Kill" style, enemy's Footwork and Stamina will be completely depleted.
 Divine\nNone-Thought
 Concealed weapons gain spirituality
-Dark weapon auto attack
+Hidden Weapons auto attack
 When you start performing this technique, If the weapon held by user has "Spirituality", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, the "Hidden Weapon" used to perform this technique will gain "Spirituality" for this battle. When this "Hidden Weapon" is not being held in hand by the user, when user obtains a "Kill" style, it will immediately attack the enemy regardless of the distance, without being affected by Counterattack or Reflect, and will always hit the enemy, but the user will not get any Stance or Styles from it.
 Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
 Jieqing\nRapid Sword
