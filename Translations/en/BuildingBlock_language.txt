@@ -36,7 +36,7 @@ Craters filled with lava and volcanic flame are scattered throughout the area. T
 The Lava Pond has a chance to grow in the seventh month of each year, but does not expand naturally. Growth chance is increased with the "Steel Cableway" resource building. Provides "Smithing" materials.
 Meteor Crater
 The crater formed by a falling meteorite. It is scattered with special meteor-forged iron that only true forging masters are able to work with.
-The Meteor Crater has a chance to grow in the tenth month of each year, but does not expand naturally. Growth chance is increased with the "Fire-Setting" resource building. Provides "Smithing" materials.
+The Meteor Crater has a chance to grow in the tenth month of each year, but does not expand naturally. Growth chance is increased with the "Blasting Pile" resource building. Provides "Smithing" materials.
 Primeval Jungle
 A dense and untouched forest, full of exotic flowers and grasses. It is dark and humid, making the harvesting process very difficult.
 The Primeval Jungle has a chance to grow in the seventh month of each year, but does not expand naturally. Growth chance is increased with the "Cedar-Heart Wall" resource building. Provides "Caprentry" materials.
