@@ -103,7 +103,7 @@ Must be built next to the "Wild Habitat". Increases its yearly growth chance. Yo
 Steel Cableway
 A large, steel cable runs across the volcanic craters, so that the core areas can be access at will.
 Must be built next to the "Lava Pond" using the "Steel Buckle" as the core material. Increases its yearly growth chance. You will need to send villagers to operate it. Ore materials for "Smithing" can be harvested, as well as the ore resource every month.
-Fire-Setting
+Blasting Pile
 It is a popular method to heat up ore with an intense heat using firebombing, in order to make them easier to break down.
 Must be built next to the "Meteor Crater" using the "Black Powder" as the core material. Increases its yearly growth chance. You will need to send villagers to operate it. Ore materials for "Smithing" can be harvested, as well as the ore resource every month.
 Cedar-Heart Wall
