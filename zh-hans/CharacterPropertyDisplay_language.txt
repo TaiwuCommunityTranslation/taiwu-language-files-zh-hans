@@ -233,6 +233,8 @@
 魅力
 魅力代表着人物的相貌美丑和人格魅力…\n\n<color=#pinkyellow>·年幼之人的魅力没有高低之分\n·衣不蔽体会导致人物的魅力大减\n·魅力的评价从低到高：\n\n<SpName=mousetip_meili_0><color=#AttractionType_NonHuman>非人</color>\n<SpName=mousetip_meili_1><color=#AttractionType_Odious>可憎</color>\n<SpName=mousetip_meili_2><color=#AttractionType_Ugly>不扬</color>\n<SpName=mousetip_meili_3><color=#AttractionType_Normal>寻常</color>\n<SpName=mousetip_meili_4><color=#AttractionType_Outstanding>出众</color>\n<SpName=mousetip_meili_5><color=#AttractionType_Beautiful>瑾瑜（男）/瑶碧（女）</color>\n<SpName=mousetip_meili_6><color=#AttractionType_Brilliant>龙姿（男）/凤仪（女）</color>\n<SpName=mousetip_meili_7><color=#AttractionType_Stunning>绝世（男）/出尘（女）</color>\n<SpName=mousetip_meili_8><color=#AttractionType_Godlike>天人</color></color>
 生育
+
 喜恶变化周期
+
 历练
 历练代表着人物的各种经验、才识与感悟…\n\n<color=#pinkyellow>·历练可用于修习功法</color>

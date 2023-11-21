@@ -1,12 +1,12 @@
 平原
-平原坦荡如砥，沃壤千里，<color=#darkpurple>多产</color><SpName=mousetip_ziyuan_0>食材、<SpName=mousetip_ziyuan_1>木材与<SpName=mousetip_ziyuan_4>织物。适合发展<SpName=mousetip_jiyi_3>绘画、<SpName=mousetip_jiyi_5>品鉴、<SpName=mousetip_jiyi_7>制木、<SpName=mousetip_jiyi_10>织锦、<SpName=mousetip_jiyi_14>厨艺与<SpName=mousetip_jiyi_15>杂学。
+平原坦荡如砥，沃壤千里……\n<size=10> </size>\n · 资源产出：<color=#pinkyellow>多产食材、木材、织物</color>\n · 适宜发展：<color=#pinkyellow>绘画、品鉴、制木、织锦、厨艺、杂学</color>
 山岳
-山岳奇峰岿巍，怪石林立，<color=#brightred>盛产</color> <SpName=mousetip_ziyuan_2>金铁，<color=#white>也有</color> <SpName=mousetip_ziyuan_3>玉石与<SpName=mousetip_ziyuan_4>织物产出。适合发展<SpName=mousetip_gongfa_0>武学、<SpName=mousetip_jiyi_2>诗书、<SpName=mousetip_jiyi_4>术数、<SpName=mousetip_jiyi_6>锻造、<SpName=mousetip_jiyi_11>巧匠与<SpName=mousetip_jiyi_12>道法。
+山岳奇峰岿巍，怪石林立……\n<size=10> </size>\n · 资源产出：<color=#pinkyellow>盛产金铁，也有玉石、织物</color>\n · 适宜发展：<color=#pinkyellow>武学、诗书、术数、锻造、巧匠、道法</color>
 森林
-森林榛莽丛生，古木苍郁，<color=#brightred>盛产</color> <SpName=mousetip_ziyuan_1>木材，<color=#white>也有</color> <SpName=mousetip_ziyuan_4>织物与<SpName=mousetip_ziyuan_5>药材产出。适合发展<SpName=mousetip_jiyi_7>制木、<SpName=mousetip_jiyi_8>医术、<SpName=mousetip_jiyi_9>毒术、<SpName=mousetip_jiyi_10>织锦、<SpName=mousetip_jiyi_13>佛学与<SpName=mousetip_jiyi_14>厨艺。
+森林榛莽丛生，古木苍郁……\n<size=10> </size>\n · 资源产出：<color=#pinkyellow>盛产木材，也有织物、药材</color>\n · 适宜发展：<color=#pinkyellow>制木、医术、毒术、织锦、佛学、厨艺</color>
 湖泽
-湖泽水网密布，幽涧环绕，<color=#darkpurple>多产</color> <SpName=mousetip_ziyuan_0>食材、<SpName=mousetip_ziyuan_1>木材与<SpName=mousetip_ziyuan_5>药材。适合发展<SpName=mousetip_jiyi_0>音律、<SpName=mousetip_jiyi_5>品鉴、<SpName=mousetip_jiyi_7>制木、<SpName=mousetip_jiyi_8>医术、<SpName=mousetip_jiyi_9>毒术与<SpName=mousetip_jiyi_15>杂学。
+湖泽水网密布，幽涧环绕……\n<size=10> </size>\n · 资源产出：<color=#pinkyellow>多产食材、木材、药材</color>\n · 适宜发展：<color=#pinkyellow>音律、品鉴、制木、医术、毒术、杂学</color>
 海滨
-海滨广域苍茫，山岛竦峙，<color=#darkpurple>多产</color> <SpName=mousetip_ziyuan_2>金铁、<SpName=mousetip_ziyuan_3>玉石与<SpName=mousetip_ziyuan_0>食材。适合发展<SpName=mousetip_gongfa_0>武学、<SpName=mousetip_jiyi_0>音律、<SpName=mousetip_jiyi_5>品鉴、<SpName=mousetip_jiyi_6>锻造、<SpName=mousetip_jiyi_11>巧匠与<SpName=mousetip_jiyi_15>杂学。
+海滨广域苍茫，山岛竦峙……\n<size=10> </size>\n · 资源产出：<color=#pinkyellow>多产金铁、玉石、食材</color>\n · 适宜发展：<color=#pinkyellow>武学、音律、品鉴、锻造、巧匠、杂学</color>
 雪山
-雪山覆雪经年，凝冰不化，<color=#brightred>盛产</color> <SpName=mousetip_ziyuan_3>玉石，<color=#white>也有</color> <SpName=mousetip_ziyuan_2>金铁与<SpName=mousetip_ziyuan_5>药材产出。适合发展<SpName=mousetip_gongfa_0>武学、<SpName=mousetip_jiyi_1>弈棋、<SpName=mousetip_jiyi_2>诗书、<SpName=mousetip_jiyi_4>术数、<SpName=mousetip_jiyi_11>巧匠与<SpName=mousetip_jiyi_12>道法。
+雪山覆雪经年，凝冰不化……\n<size=10> </size>\n · 资源产出：<color=#pinkyellow>盛产玉石，也有金铁、药材</color>\n · 适宜发展：<color=#pinkyellow>武学、弈棋、诗书、术数、巧匠、道法</color>
