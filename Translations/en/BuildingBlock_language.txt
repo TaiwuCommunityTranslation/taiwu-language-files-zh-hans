@@ -335,7 +335,7 @@ Gallery
 A pavilion built with precious wood. This colorful pavilion is fragrant and elegant.
 An extension building built next to the "Art Room" with "Hundred Colored Fragrant Wood" as the core material, which must be adjacent to the "Fragrance Land". \nThe building will increase the "Painting" attainment of the people within the influence of the town and sect to which it belongs.
 Makeup Room
-Also known as the painting eyebrow xuan, is the beauty of the powder white Dai black, Shi Fangze only xuan house, extremely popular attention and worship. There are often "once the new makeup throw the old kind, the six palaces compete to draw black smoke eyebrows" and other escapades occur.
+Also known as Huamei Pavillion, it refers to the pavilion where beauties apply makeup with white powder, rouge, and dark eyeliner, creating an enchanting allure. This pavilion is highly regarded and admired by people. There are often anecdotes such as "One day, a new makeup discards the old look, and the six palaces compete for the dark smoke eyebrows".
 An extension building built next to the "Art Room" using the "Jade Mirror Flower Terrace" as the heart material. \n can greatly increase the goodwill with Taiwu's first acquaintance.
 Observatory
 A huge platform for observing the shadows of daylight and the stars of the night. In addition to observing the sun,  moon,  and stars,  it is also used to identify “the four periods and six qi” so as to predict the fortune.
@@ -672,117 +672,174 @@ The wisdom guild employs wise men to work under their masters. Wise men can mean
 The extension building built next to the "Long Street" needs to be operated by sending villagers. \nYou can use "Prestige" to recruit talents.
 Capital
 The Capital is the economic and political center of the Middle Kingdom,  croweded with the rich and powerful.
+
 Chengdu
 Chengdu,  known as “the land of abundance“,  has a mild climate fostering brilliant talents. Legend has it that celestial beings are living on the extraordinary Emei Mountain.
+
 Guizhou
 Guilin is a picturesque place.It is too beautiful to be appreciated all at once. “East or west,  Guilin landscape is the best“,  “The scenary of Guilin is the most adorable of all” are common compliments.
+
 Xiangyang
 Xiangyang is located in the north of Xiang River.The majesty of the city is easily accesible from all around. Thus it is also of great strategic importance.
+
 Taiyuan
 Taiyuan is surrounded by mountains on three sides. It is claimed to be the most important city in the north for its magnificance and prosperity.
+
 Guangzhou
 Guangzhou is an agglomeration of three minor cities. Many foreign merchants gathered in Guangzhou,  followed by various kinds of eccentric and bizarre people.
+
 Qingzhou
 Qingzhou is one of “the nine ancient states“,  towering the east part of China. Qingzhou gets its name from Yin-Yang tradition,  which argues that “Wood represents the east and Qing or “green” represents the wood.“
+
 Jiangling
 Jiangling sits on the pivot of transportation network,  known as “Capital of the First“. The superior education and literacy is nurtureing wisdom and attracting intelligent people.
+
 Fuzhou
 Fuzhou is flourishing because of its prosperous sea trade and large population. Since Banyan trees can be found everywhere,  Fuzhou is also named as “Banyan City“
+
 Liaoyang
 Liaoyang,  the pearl of the north,  is towering a large territory. It is the most famous old capital in the north and reclaimed several times from northern kingdoms for its utmost strategic importance
+
 Qinzhou
 Qinzhou is located on the western border. Its uncivilized nature allows the manipulation of Vajrayana to turn it into the stepstone of the Old Zhangzhung Empire’s rejuvenation.
+
 Dali
 People in Dali are unsophiscated and committed in Buddhism. Dali is comprised of a great number of clans. These clans have amicable relationships. Together they prosper.
+
 Shouchun
 Shouchun is the capital of the Huainan area and it is easy to control the surrounding area from there. Both the Chu people and Tofu originates there.
+
 Hangzhou
 The most important state in the southeast is said to be Hangzhou,  which has been prosperous since ancient times.
+
 Yangzhou
 The three cities of Yangzhou is filled by pleasure crafts afloat and songs at night. So good that a poet once declared that two thirds of the night’s beauty belongs here.
+
 Shaolin Temple
 Shaolin Temple is one of the most respected school in the martial arts. The Bodhidharma entered the field of martial arts after realized Zen spirit,  and in the nine years of meditation in the Shaolin Temple,  he created the “Seventy-two Special Martial Arts“,  brought Shaolin to the top of Wulin.
+
 Emei Sect
 “All martial arts in the world were born at Emei”. Emei is one of the three most time-honored martial art schools,  just as its following name - “the world show.” Emei martial arts are combinations of softness and toughness,  intertwined with the spirits of Tao and Zen. Emeizing！
+
 Flowers Valley
 Flowers Valley is like spring in all seasons. There are seven big waterfalls and fourteen water pools in the valley. Because of the white deers living in the valley,  it is also called “White Deer Valley.” Flowers Valley is famous for its medicine research and superb acupuncture techniques. The Flowers Valley doctors are admired by the world for their unparalleled healing skills,  righteousness and justice spirit.
+
 Wudang Sect
 Together with Shaolin and Emei, it is called the three most famous sects in the martial arts. Wudang school of martial arts is profound and profound, the most important internal cultivation, the founding ancestor of the school of the true monarch of profound Taoism, Taiji Shen Gong is famous all over the world, known as the world's internal martial arts first.
+
 Yuanshan Sect
 There are many disciples in the Yuanshan School, and it is their duty to maintain the righteousness of the martial arts. The Great Mountain has a sword mound for monasticism, and the Small Mountain has a sword mound for Buddhist practice. The big and small Yuanshan are united in the same spirit, and with the divine skill of combining swords and knives, they are able to eliminate the devil and defend the way, and their fame spreads far and wide.
+
 Lion-Face Clan
 The Lion-Face martial arts are arrogant and powerful. Although they don’t pay much attention to Inner Arts’s cultivation,  they are specialized in tough attack and defense skills described as “gold and stones breaking”,  or invulnerable.
+
 Ranshan Sect
 The Ranshan School specializes in learning and preaching while traveling. They gain huge amount of  knowledges around the world,  act like well-informed debaters with clear logic. Thay pay much attention on self-cultivation and daily healty habits,  that they can live long with less possibility of have serious health risks.
+
 XuanNyu Peak
 XuanNyu Peak,  or also known as the Jade Maiden Peak,  is where “The Black Ice” is located. It is said that there was a celestial daughter who fell on the peak and left a heavenly art on it. If a woman practices it, she could become elegant, pure, and eventually immortal.
+
 Sword Manor
 Sword Manor,  founded by grandmaster swordsmith Ouye Zi,  is located on Zhanlu Mountain. It is well known for its smithing technique and majority of world-famous weapons are forged here.
+
 KongSang Sect
 The KongSang Sect school is also known as school of the medicine kings. Although the KongSang Sect mountain is a snow-capped mountain,  there are all kinds of exotic grasses among the hills. TheKongSang Sect disciples are specialized in both poison and medicine. Their medicine can bring the dead back to life,  while their poison can kill people without being noticed.
+
 Vajrayana
 The Immaculate Vajrayana is a secret branch of the ancient Zhang Zhung kingdom. With a large popularity of powerful disciples,  it is still regarded as a hostile school in Wulin world,  for acting fiercely and sinisterly.
+
 Five Immortals
 The Five Immortals,  also known as The Five Venoms,  is a school located in Miao territory. Influnced by their extreme creeds,  the believers hold the spirit of “Eye for an Eye”. The school teaches the refining of poison,  raises a lot of horrible toxic creatures,  that Wulin people regardless good of evil,  all run a mile from its believers.
+
 Jieqing Cliff
 The JieQing is commonly known as the place where “people and ghosts are on the same road”. The disciples work secretly,  and are the best at Stunt armors such as the flying needles. They are also described as skilled assassins.
+
 Fulong Altar
 The Fulong Altar was built on the Chiming island on the East China Sea. The Fulong Altar school is divided into two sects: the Situ sect is famous for fierce blade skills,  while the Long sect is extremely sophisticated in Fist skills. It is said that there are volcanoes on the island,   that the disciples even practice their martial arts in them.
+
 Blood Hou
 Since the Xiangshu devils start affecting the world,  the evil spirits have gradually gathered together to create the Blood Hou. Disciples are teached with the magical powers of the chaos. While their minds are corrupted,  even the buddha can’t save them. The upright Wulin people always treat the Blood Hou crews as the biggest enemies.
+
 Village
 Smoke rises in the village. The simple trimmed dirt path is scattered between the fields and the hedges.
+
 Town
 A town with a large population. Connected to the main path,  it has a station.
+
 Camp
 A land that has been protected by walls and rivers with self-sufficient residents
+
 Bamboo Hut
 A bamboo hut built in the middle of a mountain stream. The bamboo pieces on the hut's walls have long turned yellow and black from age.
+
 A bamboo hut is built in the middle of a mountain stream.
+
 Buddhist Classics Pavilion
 During the Taihe period of the Northern Wei Dynasty, the Tianzhu monk Trento journeyed to the Central Plains to settle down and preach. Trento built the Shaolin Temple as a place for the world's Buddhist texts, spending his years collecting many scriptures. In later generations the world became chaotic, and the many schools of thought saw a great loss in their scriptures. To protect this knowledge, Shaolin Temple built the Buddhist Classics Pavilion and copied the martial arts of all sects and stored them inside. Gradually rumors of its existence began to appear: the temple hides all martial arts, and all laws.
+
 Golden Peak
 Golden Peak is built on the top of Emei Mountain. When the sun sets, a bright golden light will shine on its peak, so it is called "Golden Peak". When there is injustice in the Southwest, all sects in the Southwest will gather atop the Golden Peak. The Emei Sect is known for its upright nature and is the first to stand up for the Southwest sects, so martial artists also call the Golden Peak the "Southwest Holy Land". If you are an enemy of the Emei, you are an enemy of the Southwest.
+
 White Deer Lake
 Hundred Flowers Valley stays hidden from the world, undisturbed by the chaos outside. The White Deer Lake is located deep in the valley and is difficult for outsiders to enter. Rumor has it that someone once found an auspicious white deer trail here, hence the name. The disciples of Hundred Flowers Valley often feed the deer at the White Deer Pool, and occasionally witness the sight of black flood dragons.
+
 Seven Star Terrace
 "The rotation of the seven stars of the Big Dipper consist of 24 points of Qi, across twelve days, in twelve months". The Seven Stars Platform is built according to the star positions of Tianshu, Tianxuan, Tiangui, Tianquan, Yuheng, Kaiyang and Yaoguang. The platform is crowned at the top of Wudang and faces the heavens at over ten thousand feet. On the stage, if you focus your breath, the Qi in your body will naturally integrate with the heaven and the earth.
+
 Stone Prison
 In the chaotic times of the XiangShu, the scholarly men gathered at Mount Yuan and built the Stone Prison. It is a dungeon for disciples who have violated the sect's precepts and those who have committed the most unforgivable crimes, and those who are guilty often face the wall and meditate for several years to get rid of their demons.
+
 Lion King's Platform
 The Lion King's Platform is three feet high, nine feet wide, and the ring is carved on all sides with the head of the majestic golden mane lion. According to legend, when the ancestors of the Golden Lion Gate first arrived in Guangdong, they challenged martial artists atop the platform with the vow of life and death, sweeping the Guangzhou thirty-six halls. Since then, the platform located on Lotus Hill is used to challenge someone to battle of life and death.
+
 Clear Brilliant Pavilion
 The Clear Brilliant Pavilion stands at the top of Mount Ran, hidden in the clouds and mists that cover it, and is like an immortal palace. Legend has it that the Pavilion contains the remains of the ancestors of Qinglang masters, and those who can enter the Pavilion will be able to obtain the profound power of the previous generations of Mount Ran.
+
 Bright Jade Mirror
 The legends say that long ago a celestial maiden descended on Xuan Nui Peak and left behind a jade mirror, which people later called 'Yiming Jue'. The mirror is hazy and difficult to peer into, but between the shadows you can see the figure of a jade woman, either dancing with a sword or plucking a string. Women who meditate in front of the mirror can be enlightened, glimpsing the secrets of the heavenly palace.
+
 Ancestral Sword Furnace
 In the past Ouyezi set up a furance in Zhanlu Mountain to forge a sword. The furnace was nurtured by the Rain Master, its fire germinated by the Thunder God's strike, infused with the essence of the True Dragon, and its coal given by the Emperor of Heaven. After three years the sword was forged, and when it came into existence it illuminated heaven and earth, the sun and moon dimming in its presence. Ouyezi knew he had forged his life's work, and all swords after will pale in its presence. In the end he sealed the furnace and left.
+
 Medicine King Cauldron
 In the legends, Qin Shi Huang called the world to gather in the palace in Xianyang to refine the immortal medicine. After the fall of the Qin dynasty, the Buddhist monks entered the mountains to avoid disaster, bringing the medicine cauldron with them. The Medicine King Cauldron was originally forged for the refining of immortal medicine, and with the medicine poison accumulated over the many years it can no longer be easily touched.
+
 Five Vajra Statues
 There are five Vajra statues in the inner court of the Vajra Sect. One with a skeleton around his waist, one with gold in his sleeve, one with disheveled clothes, one with lips as big as a bucket, and one with a pot held in hand. On closer inspection, they seem to be different from the authentic Vajra statues of Buddhism, as if they imply the acts of killing, stealing, debauchery, dishonesty, and drinking.
+
 Five Poisons Valley
 In the Five Immortals Sect there is a valley that leads to a deep pool. The water often changes colour, shimmer with red, gold, blue, green, or white, displaying a myriad of changes that are mysterious and strange. According to legend this pool is a convergence of the world's strongest poisons. When it was born it attracted the gold snake, the red scorpion, the jade toad, the blue centipede, and the green spider, who lurk inside. Outside of the Five Immortals Sect, humans and animals are rarely seen a hundred miles around the valley. Those that do brave the journey are rarely seen again, without even bones left to bury.
+
 Lifeless Abyss
 The Lifeless Abyss is a place of near certain death. Rumor has it that the cliff leading to the Lifeless Abyss is where the Qing Clan places assassination commissions. If a Qing Clan assassin wants to receive a commission, he must climb the cliff and take the commission to show his determination to die to complete the assassination. Below the precarious cliff, white bones can be seen piled up like a mountain.
+
 Golden Dragon Palace
 Golden Dragon Palace is built on the volcanic mountain pass. The True Dragon Ancestor of Fulong Altar created this palace to be passed down to future generations. The palace is filled with golden dragons, and servants can be seen wiping their statues down from time to time to clear the stains of dust. If there is an important event on the island, the Island Master will worship the golden dragons of the Golden Dragon Palace, calling back the spirit of the True Dragon Ancestor of Fulong Altar to gain their blessing.
+
 Blood Pond
 The Blood Pond is the forbidden place of the Blood Cult, and those who do not have great support in the Cult are not allowed to enter. According to legend the pond is filled with the blood of tens of thousands of animals, evil spirits, and people, and a myriad of different kinds of poison. It is one of the world's most poisonous, most evil place, into which people thrown inside experience a fate worse than death, resulting in the birth of a demon.
+
 Cattle Caravans
 Serving cattle gang is organized by the countryside footmen and become a team of merchants, in the folk have been passed down for hundreds of years, selling goods are mostly some daily department stores.
+
 WenShan Bookstore
 The emperor was in trouble, rituals and music collapse, the former dynasty of insightful people in order to survive the culture and education, and built the Wenshan Shuhai Pavilion. Wenshan Shuhai pavilion receives the world's canonical books, involving a hundred lines and a hundred industries.
+
 Penta-Lake Commerce
 Since the rise of the Five Lakes Chamber of Commerce in the troubled times, merchants have been selling goods from the south to the north and from the west to the east, covering all over the world and selling goods to the four seas and even as far as the West.
+
 Champion Shop
 The remnants of the former dynasty more than 80,000 soldiers, or craftsmen, or merchants, the establishment of the Grand Martial Kui, specializing in the sale of all kinds of swords and spears, gold and jade armor, although not continue to protect the people, but also considered to teach people to fish?
+
 Rejuvenation Hall
 For the relief of the chaotic world, the world's pharmaceutical companies together to build the Spring Hall, sent thousands of physicians, the development of a hundred kinds of elixirs, which may have a secret medicine for sale, few outsiders can know.
+
 Master Square
 It was founded by Lu Ban, the ancestor of craftsmen, and then built again by his disciples for a hundred years. It is famous for its machine art, and the various kinds of architectural pivots created by it are considered to be ingenious.
+
 House of Odd
 Strange goods gathered, the accumulation of treasures, so the number of strange goods fast. The odd goods Zhai is built by the support of powerful people around the world, which receives the world's rare and exotic, absolutely no mundane goods.
+
 Taiwu Academy
 Brush and ink can be like clouds and smoke, and the volumes are fragrant all over the mountains and rivers. There are several volumes of technical books in the book pavilion here, which is the place for Taiwu villagers to read and study.
 With the "Classic Art" as the core material, Taiwu villagers can learn Fine arts by themselves.
@@ -791,3 +848,4 @@ All kinds of martial arts, showcasing martial arts, so powerful, can shake the w
 With the "Martial Arts Classic" as the core material, Taiwu villagers can learn martial arts by themselves.
 Eminent Sarira Pagoda
 All the monks in Shaolin Temple respectfully built the Eminent Sarira Pagoda. The body of the pagoda is engraved with Buddhist scriptures, Bodhidharma relics are enshrined in the pagoda, and golden Buddha statues are built. The monks worship them day and night...
+
