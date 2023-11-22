@@ -2,6 +2,11 @@ Unknown Teenager
 Unknown Maiden
 Unknown Toddler
 Unknown Woman
+
+
+
+
+
 Passerby
 Shaolin Disciples
 Emei Disciples
@@ -18,10 +23,12 @@ Five Immortals Disciples
 Jieqing Disciples
 Jieqing Disciples
 Bloodhound Disciples
+
 Princess
 Elderly
 Patient
 Woodcutter
+
 Servant
 Elder
 Clan brother
@@ -53,6 +60,21 @@ Journeyman
 Merchant
 Guide
 Cricket Merchant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Beggar
 Senior Disciple
 Passing Disciple
@@ -69,6 +91,7 @@ Injured Taiwu Villager
 The Three Ancestors
 Roamer Priest
 Farmer
+
 Pagoda Repairing Monk
 Academic
 Disciples of Flying Lion Hall
@@ -90,3 +113,16 @@ Traveler
 Drunkard
 Young Taoist
 Duck
+Divine Physician
+
+
+
+
+
+
+
+
+Heavenly Woman's Empty Reflection
+Gray Reflection
+The Man in Black
+Girl
