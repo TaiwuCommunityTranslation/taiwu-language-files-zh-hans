@@ -14,7 +14,7 @@ Increase Might
 Increase Finesse
 Increase Swiftness
 Increase BRE
-Footwork Duration
+Weaken Footwork
 Footwork Cost
 Increase Ext. Def.
 Increase Int. Def.
@@ -25,7 +25,7 @@ Increase Focus
 Counterattack Power
 Ph Reflect
 Qi Reflect
-Reflection Range
+Reflect Range
 Duration
 Increase ATK
 Increase Accuracies
@@ -46,20 +46,20 @@ Apply Cryotoxin
 Apply Pyrotoxin
 Apply Necrotoxin
 Apply Oneirotoxin
-Use Requirements
+Requirements
 Break Row
 Quick Row
 Aegis Row
 Nadis Row
-Requires Punch Style
-Requires Point Style
-Requires Hold Style
-Requires Hack Style
-Requires Stab Style
-Requires Slash Style
 Requires Throw Style
 Requires Shot Style
 Requires Drive Style
+Requires Hack Style
+Requires Stab Style
+Requires Slash Style
+Requires Punch Style
+Requires Point Style
+Requires Hold Style
 Requires Sound Style
 Requires Wrap Style
 Requires Spell Style
@@ -67,4 +67,8 @@ Requires Ware Style
 Requires Drug Style
 Requires Toxic Style
 Requires Sweep Style
-Accumulation Speed
+Jump Speed
+Sealing Chance
+Sealing Duration
+Increase ATK
+Increase Accuracy
