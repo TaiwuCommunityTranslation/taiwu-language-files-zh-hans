@@ -1,15 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Cattle Caravans
+
+
 WenShan Bookstore
+
+
 Penta-Lake Commerce
+
+
 Champion Shop
+
+
 Rejuvenation Hall
+
+
 Master Square
+
+
 House of Odd
+
+
 Mo Nyu
 Shao Nu
 Dayue 
 Yaochang
 Shao Nian
+
 Jiu Han
 Jin 
 Huang'er
@@ -17,260 +129,1003 @@ Yi
 Yihou
 Wei 
 Qi
+
 Yi Xiang
+
 Xue Feng
+
 Shu Fang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Monkey
+
+
 Eagle
+
+
 Boar
+
+
 Brown Bear
+
+
 Buffalo
+
+
 Huge Snake
+
+
 Leopard
+
+
 Lion
+
+
 Tiger
+
+
 Spiritual Monkey
+
+
 Jin Peng
+
+
 Black Hog
+
+
 Polar Bear
+
+
 Kui Niu
+
+
 Ba Python
+
+
 Black Panther
+
+
 Golden Lion
+
+
 White tiger
+
+
 Sick Beggar
+
+
 Evil Beggar
+
+
 Furious Beggar
+
+
 Snake Charmer
+
+
 Beggar Leader
+
+
 Small Thief
+
+
 Habitual Thief
+
+
 Pervert
+
+
 Cat Burglar
+
+
 Great Thief
+
+
 Ruffian
+
+
 Mountain Bandit
+
+
 Thug
+
+
 Bandit
+
+
 Mountain King
+
+
 Shaolin Outcast
+
+
 Emei Outcast
+
+
 Flowers Valley Outcast
+
+
 Wudang Outcast
+
+
 Yuanshan Outcast
+
+
 Lion-Face Outcast
+
+
 Ranshan Outcast
+
+
 Xuannyu Outcast
+
+
 Sword Manor Outcast
+
+
 Kongsang Outcast
+
+
 Vajrayana Outcast
+
+
 Five Immortals Outcast
+
+
 Jieqing Outcast
+
+
 Fulong Outcast
+
+
 Blood Hou Outcast
+
+
 Fugitive
+
+
 Rapist Monk
+
+
 Demonic practitioner
+
+
 Man-eating ghost
+
+
 Culprit
+
+
 Charming Fox
+
+
 Witch
+
+
 Black Widow
+
+
 Acacia Fairy
+
+
 Jade-Faced Empress
+
+
 Ghost Servant
+
+
 Corpse Refiner
+
+
 Clawing Corpse
+
+
 Demon Doctor
+
+
 Living Dead
+
+
 Demonic Musician
+
+
 Yin-Yang Creature
+
+
 Scarlet Scribe
+
+
 Evil Painter
+
+
 Futureless
+
+
 Exotic Freak
+
+
 Poisoner
+
+
 Demonic Scholar
+
+
 Childlike old monster
+
+
 Demonic Path Master
+
+
 Fallen Warrior
+
+
 Fiend
+
+
 Lost Soul
+
+
 Blood-clad Ghost
+
+
 Heart Refiner
+
+
 Mad Demon
+
+
 Flame Demon
+
+
 Frozen Demon
+
+
 Hellbringer
+
+
 Venerable Gautama
+
+
 Desperate person
+
+
 Non-human
+
+
 Faceless Monk
+
+
 Nameless Monk
+
+
 Passed away Elder
+
+
 Corrupted
+
+
 Demoniac
+
+
 Cultist
+
+
 Demonic Heart
+
+
 Evil Incarnate
+
+
 Hellish Demon
+
+
 The Allbeing
+
+
 Fallen God
+
+
 Hell Master
+
+
 Righteous
+
+
 Patrolling Warrior
+
+
 Young Hero
+
+
 Bodyguard
+
+
 Famous Escort
+
+
 Eccentric Vagrant
+
+
 Nameless Hero
+
+
 Famous Hero
+
+
 Famous Hermit
+
+
 Retired Shaolin senior
+
+
 Abbot
+
+
 18·Arhats
+
+
 Preceptor
+
+
 BodhiHall
+
+
 Prajna·H
+
+
 ArhatHall
+
+
 Bhikkhu
+
+
 Retired Emei senior
+
+
 Head·D
+
+
 Direct·D
+
+
 Lineal·D
+
+
 Formal·N
+
+
 Novice
+
+
 Formal·A
+
+
 Audience
+
+
 Retired Flower Valley senior
+
+
 DeerEnvoy
+
+
 GoodHand
+
+
 RedCase·D
+
+
 Jade·CD
+
+
 Gold·CD
+
+
 Flower·CD
+
+
 Deerherd
+
+
 Retired Wudang senior
+
+
+
+
+
+
 ZhenWu·D
+
+
 Cloud·D
+
+
 TaiHe·D
+
+
 Guide·P
+
+
 Amateur
+
+
 Retired YuanShan senior
+
+
 Exorciser
+
+
 Preacher
+
+
 Friar
+
+
 Vanguard
+
+
 Guard
+
+
 Novice
+
+
 Follower
+
+
 Retired LionFace senior
+
+
 Raging Ace
+
+
 Proud Ace
+
+
 Slumbering Ace
+
+
 RageLion
+
+
 ProudLion
+
+
 Slumber·L
+
+
 Cub
+
+
 Retired RanShan senior
+
+
 Guardian
+
+
 Successor
+
+
 T·Ranger
+
+
 DS·Ranger
+
+
 YY·Ranger
+
+
 SwordBearer
+
+
 Wanderer
+
+
 Retired XuanNyu senior
+
+
 Feather·E
+
+
 SilkEnvoy
+
+
 JadeGuard
+
+
 SkyMelody
+
+
 Disciple
+
+
+
+
 Servant
+
+
 Retired Sword Manor senior
+
+
 Sky·Smith
+
+
 Mystic·S
+
+
 Treasure·S
+
+
 Season·S
+
+
 Bamboo·S
+
+
 Novice
+
+
 Stoker
+
+
 Retired KongSong senior
+
+
+
+
 Dragonor
+
+
 Head·D
+
+
 Furnance·H
+
+
 DragonHall
+
+
 ProbeHall
+
+
 Apprentice
+
+
 Retired Vajrayana senior
+
+
 Elder
+
+
 Gardian
+
+
 Fighter
+
+
 SilentHall
+
+
 VajraHall
+
+
 Rakshasa·H
+
+
 Labor
+
+
 Retired 5-Immotals senior
+
+
 Counsellor
+
+
 Patriach
+
+
 Brooder
+
+
 VenomEnvoy
+
+
 BrooderCrew
+
+
 VenomCrew
+
+
 Cultist
+
+
 Retired JieQing senior
+
+
 SevenStar
+
+
 ArchCulprit
+
+
 DeathSworn
+
+
 Killer
+
+
 Gatekeeper
+
+
 Guide
+
+
 OuterGate
+
+
 Retired FuLong senior
+
+
 DragonElder
+
+
 Head·D
+
+
 Seawatcher
+
+
 Titled·D
+
+
+
+
 Outer·D
+
+
 Islander
+
+
 Retired Blood Hou senior
+
+
+
+
 Messenger
+
+
 Protector
+
+
 BloodChild
+
+
 Elite
+
+
+
+
 Servant
+
+
 Young Monk
+
+
 XiangShu
+
+
+
+
 Giant Shadow
+
+
 Black Shadow
+
+
 Ran Chenzi
 Weirdo
+
 The White Swordsman
+
+
+
 Huan Xin
 Lass
+
+
 Long
  Yufu
 Lady in Red
 Zi
 Wuxiao
+
 Xu
 Xiangong
 A wooden puppet that can talk
+
 Woman
 Necromancer
+
 Shi Shufu
 Elder Monk
+
 “Adoptive Father”
 A nameless elder
+
 “Elderly”
+
+
 Dated Wooden Puppet
+
+
 Bamboo Hands
 Wooden Puppet
+
 Bamboo Stick
+
 Bamboo Darts
+
 Kua-E Bronze Puppet
+
+
 Monkey
+
+
+
+
 King of Monkeys
+
 Guo
 Yan
 Middle-aged person
@@ -283,73 +1138,335 @@ Situ
 Huanyue
 Elder
 Taoist
+
 Chui Xing
 Graves
+
 Nameless
 Nameless mother and child
+
 Unknown parent
+
 Coachman
+
 Feng
 Granny
 Old lady
+
 Old lady
+
+
 King
+
+
 Hu Ji
+
+
 Cui E
+
+
 The Man in Black
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The People of Wanqu
+
+
 Heart Curtain Sky Curtain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Kongsang Traitor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Liao
 Wuming
+
+
+
+
+
 Somber Monk
 Hong Yi
 Elder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ji
 Xi
 Girl
+
 Old Monk
+
+
+
+
+
+
 Disheveled Daoist
 Taoist
+
+
+
+
+
 Quicksilver Fire Snake
+
+
+
+
+
+
 Warp Beetle
+
+
+
+
+
+
 Slayer of Evil
+
+
+
+
+
+
 Sun Soul Zhu Jing
+
+
+
+
+
+
 Zhu Yan
+
+
+
+
+
+
 Xuanzhou Golden Snake
+
+
+
+
+
+
 Tian Zhu
+
+
+
+
+
+
 Nine-spotted Snake
+
+
+
+
+
+
 Razor Snake
+
+
+
+
+
+
 Wind Snake
-Xuannyu Immortal
-Xuannyu Ghost
+
+
+
+
+
+
+Yun'er
+Person in the Mirror
+
+
 West
 Wu Fen
 Man
 Shi
-Weizhi
+Wei Zhi
 He
 Affinity
+
 Mirrored Illusion
+
 Heavenly Demon
+
+
 Earth Demon
+
+
 Human Demon
+
+
 Heavenly Demons
+
+
+
+
+
+
+
+
+
+
 Earth Demons
+
+
+
+
+
+
+
+
+
+
 Human Demons
+
+
+
+
+
+
+
+
+
 Lei
 Kun
 Hall Master
+
 Disciples of Flying Lion Hall
+
+
+
+
+
+
+
+
+
+
 Foreign Master
+
+
+
+
+
+
+
+
+
+
 Dharma Seeker
+
+
+
+
+
+
+
+
+
+
 Western Monk
+
+
 Central Plains Monk
+
+
+
+
 Tomb Remains
+
+
+
+
+
+
+
+
+
 Ran
 Xindu
-Emei White Ape
+
+
+
+
+
+
+White Ape
+
 Hou Jiu
+Mysterious Person
 White
 Ao Tian
 Young Gentleman
@@ -358,8 +1475,65 @@ Kind Father
 Evil Old Man
 Evil Father
 Kind Old Man
-Mysterious Person
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Dark River Serpent
+
+
 Liao Family's Ancient Cauldron
+
+
+
+
+
+
+
+
 Little Black Snake
+
+
 Divine Tree
+
+
+
+
+
+
+
+
+
+
+Angry Emei Disciple
+
+
+
+
+
+
+
+
+
+
+
