@@ -18,8 +18,8 @@ Tendon\nRenewal Sutra
 Increases Body Protector True Qi
 At the beginning of a battle, the user's "Aegis" True Qi is increased significantly (by 60); the amount of the user's "Aegis" True Qi gained during the battle is increased significantly; the amount of the user's "Aegis" True Qi lost during the battle is decreased significantly
 Sutra of Marrow\nRejuvenation
-Decrease Fatal and Ext.
-Increases the upper limit of all major attributes of the user (by 20). External Fatal Wound damage taken by user will be reduced by 50%; If user is a virgin, it increases power of all of the user's techniques, and makes user always keep a youthful look.
+Fatal Wnd. Decrease
+Greatly increases the upper limit of all major attributes of the user (by 20). Direct External Fatal Wound damage taken by user will be reduced by 50%; If the user is a male virgin, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Abdominal\nBreathing
 Increase the power limit of the user's "Emei School" techniques by 30%
 Emei Pillar\nHolding
@@ -30,13 +30,14 @@ Spirituality\nComprehension
 skill power up
 Whenever the user obtains an available style, the user has a very low chance of increasing the power of all the user's techniques, which lasts until the end of the battle.
 Lotus\nMysterious
-Converts the user's "Fire" internal energy of the user into "Wood" internal energy. The more energy is converted, the more the power of the user's "Wood" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Fire" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Fire" element is at 0%, user will not be hit by any "Fire" or "Wood" techniques
 Puxian\nScripture
 The higher the ratio of the "Wood" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Sitting-in-Oblivion
-Significantly increases the power of the user's "Wood" type techniques, by 20%.
+Increase the casting progress
+Significantly increases the power of user's "Wood" techniques; While performing any "Wood" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Wood" technique by 50%, up to a maximum of 75%.
 Great Nirvana
-The higher the "reputation" of the user's past lives, the more the power of all the user's techniques will increase.
+The higher the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a positive trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
 Diagram of\nAcupunture Points
 Increase the power limit of the "Hundred Flowers Valley" technique of the user, by 30%
 Acupuncture\nOriginal
@@ -67,7 +68,6 @@ If the enemy's attack includes both External and Internal damage, the External d
 Divine One
 The higher the user's "Taoism" skill, the more injuries the user can remove by using "Healing" in battle.
 Boundless\nPure Yang
-Fatal Wnd. Decrease
 If the user's main element is "Fire", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Fire", "Metal", or "Wood" technique, the Fatal Wound damage taken will be reduced by 80%
 Fresh Breath
 Increases the power limit of the user's "Yuanshan School" techniques by up to 30%
@@ -112,18 +112,18 @@ The higher the percentage of "Water" internal energy of the user, the more the u
 Moon Drive\nCultivation
 The user's "Water" type of technique will cause more direct damage and backlash damage to characters with "Fire" dominant internal element
 Jade Mirror\nof Yin
-Significantly increase (by 30) the "Vitality" limit of the user.
+Greatly increase "Vitality" limit. Internal Defense given by "Vitality" will be greatly increased based on user's purity.
 Xihua\nScripture
 The higher the percentage of "Water" internal power of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Holy Princess
-Convert the user's "Wood" internal energy into "Water" internal energy. The more energy is converted, the more the power of the user's "Water" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Wood" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Wood" element is at 0%, user will not be hit by any "Wood" or "Water" techniques
 Nimbus Shower
-Significantly increases the power of the user's "Water" type techniques, by 20%.
+Significantly increase the power of the user's "Water" skills; During the cast of the "Water" skill, click to consume a min. of 5 and a max. of 15 points of the user's Quick True Qi to increase the cast progress of the "Water" skill by 50%, up to a maximum of 75%.
 Supreme\nGoddess Cultivation
 Increases Quick of Spirit
 At the beginning of a battle, the user's Quick True Qi is increased significantly (by 60); the amount of Quick True Qi gained during the battle is increased significantly; the amount of Quick True Qi lost during the battle is decreased significantly.
 Moon Jade
-Increase the upper limit of all major attributes of the user (by 20); if the user is a virgin, increase the power of all techniques of the user, and preserves the user's youthful appearance.
+Greatly increases the upper limit of all major attributes of the user (by 20). Direct Internal Fatal Wound damage taken by user will be reduced by 50%; If the user is a male virgin, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Chap. Forge
 Increases the power limit of the user's "Sword manor" techniques by 30%
 Chap. Weave
@@ -222,7 +222,6 @@ Transform the user's "Fire" element into "Earth" element, the more the conversio
 The Great 5 Yin
 The higher the ratio of the user's internal energy to the "Earth", the more the user's ability to Diversion, Parry, Evasion, and Focus will increase, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Children's\nBlood Sacrifice
-Increase the casting progress
 Significantly increase the power of the user's "Earth" skills; During the cast of the "Earth" skill, click to consume a min. of 5 and a max. of 15 points of the user's Break True Qi to increase the cast progress of the "Earth" skill by 50%, up to a maximum of 75%.
 Evil Scripture\nof Blood Hou
 If the user's main element is "Earth", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by an "Earth", "Water", or "Fire" technique, the Fatal Wound damage taken will be reduced by 80%
@@ -276,11 +275,11 @@ User's teammates will more frequently be able to perform "Heal" and "Detox" orde
 Immortal Yang's Golden Body
 When defending with this technique, the more styles the user has available, the less direct damage the enemy will inflict on the user.
 Seven-Star Cross Chain
-Exempt from Stance consumption
-When the user has 7 or more available styles, all "Break" type techniques performed by the user do not require the use of Stance, and the more Stance is exempted from consumption, the more the power of this technique will increase.
+Stance Cost Dn
+When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Stance, and the more Stance doesn't get consumed, the more the cast progress of techniques will increase.
 Holy Light Inspiration
 Eliminate your mark
-When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 1 randomly available style and immediately removes 2 injuries
+When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 3 randomly available style and immediately removes 2 injuries
 36 Moves of Needle Change
 Improve Style Change Accuracy
 Improves the Might, Finesse, Swiftness, and Breath of the user's "Style Change".
@@ -328,7 +327,6 @@ User's teammates will more frequently be able to perform "True Qi" order to tran
 Endless Power
 When defending with this technique: As long as the enemy doesn't hit user's vulnerabilities, even if the user fails to Resolve enemy's weapon attack, user will still be able to Counter; Whenever the user successfully Resolves and Counters enemy's weapon attack, enemy's Stance gets fully depleted, and the more Stance gets depleted, the more the damage of user's Counter will increase.
 3 Flower On Top
-skill power up
 If all True Qi of the user isn't lower than its initial value, the power of this technique will continuously increase, up to 2 times higher than the original power of this technique. If not, the power of this technique will be halved and its power won't increase; When power of this technique isn't lower than 100%, the power of all techniques performed by the user will be increased by a portion of this technique's power.
 9 Rollings
 Restoring your own Stamina
@@ -554,7 +552,6 @@ Worsening enemy external injury
 When defending with this technique: all direct External Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Pyrotoxin to the enemy, and at the same time worsens the External Injuries on all body parts of the enemy
 Undead Body of Blood Child
 Exchange Damage
-Stance Cost Dn
 When the total number of defeat marks of the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Stance required to use skills is reduced by 50%
 Lift-Up Jumping
 Move Spd Up
@@ -578,7 +575,7 @@ Basic Atk All SWI
 During the duration of this Footwork, as long as the enemy has no effect that can change the way of defusing, all weapon attacks of the user will use the Swiftness accuracy value.
 White Ape's Leap
 Automatic Weapon Attack
-When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack on the enemy that can't chase
+During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
 Unpredictable
 Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Lotus Displacement
@@ -673,23 +670,25 @@ Skyscraper Climbing
 Increase your hit
 When the user attacks an enemy during the duration of this Footwork, user's Accuracies other than Breath will be boosted by a portion of the user's Breath.
 Farewell Steps
-During the duration of this Footwork, for every 3 successful hits, the user will add 1 "None" to the enemy.
+During this Footwork, for every 3 successful hits on the enemy they will receive 1 "None" style.
 Afterglow Catching
 During the duration of this Footwork, the speed of the user's performance is greatly increased.
 Rushes To The Moon
-When moving forward with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gains 2 points of "Quick" true energy.
+When advancing with this Footwork, the user needs to accumulate power to jump 2 distances at once, and then the user gains 3 points of "Quick" True Qi
 Learae's Snowsteps
 Remove E·Style
-During the duration of this Footwork, when the user attacks the enemy, they will first hit the enemy with a Breath attack, each one less and less accurate, and if the enemy fails to resolve this Breath attack, they will randomly eliminate a portion of the enemy's available styles.
+During this Footwork, whenever the user attacks the enemy, user will first hit the enemy with a Breath attack, each one less and less accurate. If the enemy fails to resolve this Breath attack, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles.
 Lady Azure's Icesteps
 Enhanced Swiftness Gain
-During the duration of this Footwork: the swiftness of the user will not be reduced by any effect; all swiftness-enhancing techniques and buffs received by the user will be greatly increased
+Auto Cast Break
+During this Footwork, User's Swiftness will not be reduced by any effect; All buffs that increase Swiftness will be greatly improved; Any Break technique that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be automatically cast again for free after using.
 Luoshen's Riversteps
 Restore your momentum
-Every time you advance 1 distance with this Footwork, you will regain your Inhale and Stance.
+Adding a Glazed marker
+During this Footwork, whenever the user advances 2 distances: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, apply up to 3 Glazed Markers to the enemy based on the user's Charm.
 Feather Stance
 Cause Weak Point and Sealed Acupoint
-When advancing with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user advances, up to 4 distances, and the farther the user advances, the more random parts of the enemy will receive Weak Points and Sealed Acupoints
+During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user advances, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Wooden Track
 Reduced movement loss
 During the duration of this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
@@ -782,7 +781,6 @@ During the duration of this Footwork, when the user attacks an enemy, they will 
 Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Drunk Lying In The East Sea
-Increase the power of gong methods
 If the user is drunk during the duration of this Footwork, the user will consume all of the Inhale and Stance when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of Inhale and Stance that exceeded the requirements to perform it.
 Fox Move
 Accelerated mobile storage
@@ -827,7 +825,7 @@ Blocking the enemy's Aegis
 When attacking enemy with this technique, if the enemy is using an "Aegis" technique, half of its power will be added to this technique; When this technique reaches $0$0% completion, the "Aegis" technique of the enemy will be eliminated and "Sealed" for a very long time.
 Great Slow Hand
 Repeated cast
-At the end of the technique, the Might of the user will be increased, and the user will be able to attack the enemy again from 50% of the progress of the skill without consumption until the enemy leaves the attack range of the technique.
+At the end of this technique, user's Might will be increased, and the user will repeatedly cast this technique again from 50% of its progress for free until the enemy leaves the attack range of this technique.
 Ground Blade\nof Lion Face
 When you start performing this technique, it restores Stamina; in the process of performing this technique, you can advance up to 2 distances
 Rapid Blade\nof Mountain Cleave
@@ -876,7 +874,7 @@ Emotions
 Improve Breath
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more user's Breath increases when attacking the enemy.
 Crystal Tune
-When you start performing this technique, if the enemy doesn't have the "None" style, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 "None" style to the enemy, and if the enemy doesn't have "None" styles, add 1 additional "None" style to the enemy
+When you start performing this technique, if the enemy doesn't have any "None" styles, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 "None" style to the enemy, and if the enemy didn't have any "None" styles, add 3 additional "None" styles to the enemy.
 Heart-Breaking
 Worsen E·Injuries
 When you start performing this technique, the worse the enemy's mood is, the more the power of this technique increases; When this technique reaches $0$0% completion, it randomly worsens enemy's Injuries based on how bad enemy's mood is; After performing this technique, based on completion percentage of this technique, a special debuff which reduces mood is applied to the enemy
@@ -891,13 +889,13 @@ When you start to perform this technique, if the enemy has a deceased spouse, th
 Increase Breath
 When you start to perform this technique: A part of the user's Charm is added to the user's Breath accuracy value;  if the enemy is male, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
 Song of\nThe Moon
-When you start performing this technique, if the enemy doesn't have any teammates, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, it adds 3 "None" styles to the enemy
+When you start performing this technique: If the enemy doesn't have a teammate, the power of this technique will be greatly increased; If the enemy has a teammate, and the user doesn't, user will receive a large amount of True Qi equal to the portion of True Qi of 1 random enemy teammate; When this technique reaches $0$0% completion, add 3 "None" styles to the enemy.
 Love Poem
 When you start to perform this technique, the more enemies and mutual love, the more the power of this technique will increase, but if the number of mutual love with the enemy exceeds 10 people, the power of this technique will be reduced instead
 Celestial Music\nof Goddess
 Remove E·Buff
 Add Critical Wound
-When you start attacking enemy with this technique, if the enemy has 3 or more "None" styles, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's "None" styles, and add half of them back to the enemy as Fatal Wound markers.
+When you start attacking enemy with this technique, if the enemy has 3 or more "None" styles, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's "None" styles, and add them back to the enemy as Fatal Wound markers.
 Pure Lady's\nHidden Hand
 When this technique reaches $0$0% completion, user takes away 1 "Hold" style from the enemy.
 Jade Hand
@@ -909,30 +907,33 @@ Reduction of external reflect
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: if a "Break" technique performed by the user fails to reach $0$0% completion, user will receive significantly less External Reflect, and receive a portion of Stance consumed after performing that technique.
 Jade Tripot Fist
 Upgrading toxin levels
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: Cryotoxin applied by the user on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3".
+After this technique reaches $0$0% completion, user gains 10 layers of this effect: Cryotoxin applied by the user's "Break" techniques on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". User's "Break" techniques the have Cryotoxin on them will also have a greatly increased Cast Speed.
 Princess\nRainfall
-When you start to perform this technique, if the user is the enemy's favorite gender, the higher the charisma of the user, the more the power of this technique will be increased.
+Charm the Enemy
+When you start performing this technique, if the enemy likes user's gender, the higher the user's Charm is, the more the power of this technique will increase; If the enemy can Adore the user, when this technique reaches $0$0% completion, there will be a very low chance that the enemy will start Adoring the user.
 Divine Cold\nPalm
 Toxins become persistent
-The Cryotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
+En Cryotoxin Attack
+This skill will change enemy's Cryotoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Cryotoxin, Cryotoxin will activate
 One Mysterious\nHand
 After this technique reaches $0$0% completion, user advances 2 distance towards the enemy.
 Mysterious\nIce Finger
-When this technique reaches $0$0% completion, user will gain 2 points of "Quick" True Qi
+When this technique reaches $0$0% completion, user will gain 5 points of "Quick" True Qi
 Fallen Finger
-This technique will cause the same amount of external injury to both the enemy and us; the external injury caused by this technique cannot be reduced by any effect
+Avoid Skill's Damage
+This technique inflicts direct External Damage both to the user and the enemy, but if the user has more Defeat Markers than the enemy, user will be immune to this damage; Direct External Damage caused by this technique can't be reduced by any effect.
 Peeling Move
 Remove E·Equipped
 When this technique reaches $0$0% completion, it has a chance to remove 1 piece of Clothing, Armor, or Accessory from the enemy, and apply a External Defense debuff to the enemy according to the tier of the equipment removed.
 Poisonous Snake\nHidden Move
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Quick" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
 12 Moves of\nChangxi
-After this technique reaches $0$0% completion, if user has at least 2 "Point" styles left after this technique, user will consume 2 "Point" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
+After this technique reaches $0$0% completion, if user has at least 2 "Point" styles left after this technique, user will consume 2 "Point" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously. After using, this skill will change from Orthodox to Heterodox version.
 Polaris Finger\nPoint
 Inactivated AcuPt
 When this technique reaches $0$0% completion, all body parts of the enemy that have Weak Points on them will receive 1 Sealed Acupoint of the same level as the highest level Weak Point on that body part.
 The Great Moon\nFinger
-If you use this technique to inflict at least 3 external injury on an enemy at once, the enemy loses all  "Aegis" Qi and a debuff is applied to the enemy which reduces the amount of all True Qi increases.
+When this technique reaches $0$0% completion, the enemy will unavoidably lose all of their "Aegis" True Qi, and gain a special debuff that decreases the amount of True Qi gained.
 Taoism-Trinity\nFinger
 When this technique reaches $0$0% completion, user takes away 1 "Point" style from the enemy.
 Hook Clamp
@@ -1066,7 +1067,7 @@ Skill Dmg Up
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: the damage dealt by the enemy's "Break" techniques is greatly increased, but there is a high chance that they will be "Interrupted" when reaching 90% of their progress. If the number of remaining layers of this effect is Even, the chance of "Interrupting" is doubled.
 Black Water\nPoison
 Deal Extra Dmg
-When this technique reaches $0$0% completion, the more Acritoxin markers enemy has, the more External Injuries will be added to random body parts of the enemy.
+When this technique reaches $0$0% completion, the more Acritoxin markers enemy has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
 Nippy Fragrant\nof Hundreds Evil
 This skill will change enemy's Umbritoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Umbritoxin, Umbritoxin will activate
 Flood Dragon's\nBlood
@@ -1204,7 +1205,6 @@ Plant Pre Gu
 Reduce Attack Accuracy
 When this technique reaches $0$0% completion, it will plant a Premature Red-eyed Gu on the enemy; the Premature Red-eyed Gu will make host's chance of hitting the enemy greatly reduced; Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Chi Demon\nGu Descent
-Adding a Glazed marker
 When this technique reaches $0$0% completion, it will plant a Premature Chi Demon Gu on the enemy; Premature Chi Demon Gu will add 1 Glazed marker to the host when host's Poison activates; Premature Chi Demon Gu needs to consume 2 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Sinister Blood\nGu Descent
 Reduced treatment effect
@@ -1556,6 +1556,7 @@ When this technique reaches $0$0% completion, for every 3 "Slash" styles the use
 Yakkha Staff
 The maximum attack distance of this technique is increased by 2; when attacking the enemy with this technique, the closer the enemy and me are to the maximum attack distance of this technique, the more the power of this technique is increased
 Staff of\nSheep-Hunting Tigers
+Exempt from Stance consumption
 The user can perform the "Aegis" technique from 50% of its progress without using up the Stance.
 Shaolin Staff\nof Madness
 Increase "attack token" Recovery
@@ -1570,12 +1571,12 @@ Free Def
 The higher the power of this technique, the more the power of the "Aegis" technique that the user can perform in this way will increase until the end of the "Aegis" technique.
 36 Close Hands
 Offsetting useless storage type
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever enemy tries to add an unusable style to the user, the same number of layers of this effect will be consumed to cancel it out.
+After this technique reaches $0$0% completion, user gains 18 layers of this effect: Whenever enemy tries to add an unusable style to the user, the same number of layers of this effect will be consumed to cancel it out.
 Rejuvenation\nFinger
 Reduce enemy crisis
-When this technique fails to reach $0$0% completion, reduce the sense of crisis of your enemy.
+When you start performing this technique, the lower the enemy's sense of crisis is, the more the power of this technique will increase; When this technique fails to reach $0$0% completion, enemy's sense of crisis will be reduced.
 12 Hands of\nSilk Fist
-As long as this technique is not resolved with Evasion by the enemy, the external injury caused by this technique to the enemy is significantly increased and reduced or halved at most
+As long as this technique isn't Resolved with Evasion by the enemy, the direct External Damage dealt by this technique will be greatly increased and won't be reduced for any reason.
 White Ape's\nLong-Arm Fist
 Recovery of body time
 Based on completion percentage of this technique, restores duration of your current "Quick" technique
@@ -1587,7 +1588,7 @@ Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Ext. Pen. when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
 Vajra Samadhi\nPalm
 Reduction of Enemy's External Defense
-This technique cannot be interrupted; This technique will always reach $0$0% completion; The higher the enemy's Internal Defense, the more their External Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 3 points of "Nadis" True Qi, otherwise these effects won't activate
+This technique cannot be interrupted; This technique will always reach $0$0% completion; The higher the enemy's Internal Defense, the more their External Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 5 points of "Nadis" True Qi, otherwise these effects won't activate.
 Chilling Pinprick
 Based on completion percentage of this technique, the power of all "Quick" techniques of the user will be increased by 20% until the end of the battle.
 Emei Finger Zen
@@ -1596,14 +1597,15 @@ Lame Fight\n80 Moves
 When this technique reaches $0$0% completion, for every 3 "Hold" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Split Flower
 Resolve to Accu
-When attacking enemy with this technique, ignore Armor on the attacked body part; After this technique reaches $0$0% completion, user gains 4 layers of this effect: if Might, Finesse, or Swiftness of user's attack is lower than user's Diversion, Parry, or Evasion, user's corresponding Resolve stat replaces the Accuracy stat.
+When attacking enemy with this technique, ignore Armor on the attacked body part; After this technique reaches $0$0% completion, user gains 4 layers of this effect: if Might, Finesse, or Swiftness of user's attack is lower than user's Diversion, Parry, or Evasion, user's corresponding Resolve stat multiplied by 1.5 replaces the Accuracy stat.
 Lighten Finger
 Attack range of this technique is always the maximum; When this technique reaches $0$0% completion, user will knock back the enemy by 4 distance, and if the distance between the enemy and the user after being knocked back is not greater than 8, user will deal the same damage to the enemy again
 A Thousand\nHands
-Attacking weak areas
-This technique cannot be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, it will automatically hit enemy's body part with the weakest protection against External Damage
+Decrease Attack Token Consumption
+Reduce your Accuracy
+This technique can't be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, user gains 4 layers of this effect: Weapon attacks that cost 2 or more attack tokens will cost 1 less attack token, but the Might, Finesse, and Swiftness of this attack will be greatly reduced.
 The Great\nFinger of Mt.Light
-When you start to perform this technique, the power of this technique will be greatly increased if the internal energy of the user is "mixed element".
+When you start performing this technique, the higher the user's Fame, the more the power of this technique will increase; If user's Fame isn't lower than the enemy's, this technique will always reach 100% completion.
 Heavenly Spirit\nFinger
 Sealed cave reappears
 Level of Sealed Acupoints caused by this technique won't be reduced for any reason; After this technique reaches $0$0% completion, user gains 7 layers of this effect: Whenever enemy unseals a Sealed Acupoint with a level less than 4, the Sealed Acupoint will reappear with a level increased by 1. This effect won't activate any effects that activate by inflicting Sealed Acupoint on the enemy.
@@ -1614,32 +1616,32 @@ Swordsmanship\nof Hidden Swordmaster
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Hack" and "Slash" styles that user gains will be changed to "Stab" styles
 Swordsmanship\nof White Eyebrow
 Swordsmanship\nof Lotus
-When this technique inflicts at least 2 direct External Injuries to the enemy, it inflicts 1 additional higher leveled Sealed Acupoint on the enemy's attacked body part
+When this technique inflicts at least 1 direct External Injury or Fatal Wound to the enemy, it inflicts 1 additional higher leveled Sealed Acupoint on the enemy's attacked body part.
 Swordsmanship\nof Yue Maiden
 Improve the chances of chasing
 After this technique reaches $0$0% completion, user gains 7 layers of this effect: User's follow-up attack chance will be greatly increased.
 Swordsmanship\nof Remnant Rainbow
-At the start of the battle, user gains 0 layers of this effect: For each Style user gains, this effect increases by 1 layer, up to a maximum of 12 layers; The more layers of this effect user has, the more the power of this technique will increase until this technique reaches $0$0% completion, then this effect will return to 0 layers
+At the start of the battle, user gains 0 layers of this effect: Whenever the user gains a Style, this effect increases by 1 layer, up to a maximum of 9 layers; The more layers the user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, layers of this effect will go back to 0.
 Divine\nSwordsmanship of Pure Girl
 Quickly perform techniques
-While performing this technique, user can perform any "Break" technique with an External Ratio of at least 60% without preparation, continuing to perform this technique if the performed "Break" technique reaches $0$0% completion.
+While performing this technique, user can perform any "Break" technique with an External Ratio of at least 60% without preparation, increasing the power and cast progress of this technique based on the tier of the used "Break" technique; Once that technique and any additional techniques it might perform reach $0$0% completion, continue to perform this technique.
 Stab of\n5 Elements
 Based on completion percentage of this technique, the power limit of all "Quick" techniques of the user will be increased by 30% until the end of the battle.
 Stab of Lost Soul
 Improve Counterattack Accuracy
-After this technique reaches $0$0% completion, user gains 2 layers of this effect: user's Accuracy when Countering enemies will be greatly increased.
+After this technique reaches $0$0% completion, user gains 10 layers of this effect: user's Accuracy when Countering enemies will be greatly increased.
 Beauty Stab
 When this technique reaches $0$0% completion, if the distance between the user and the enemy is less than the enemy's maximum attack range, user will immediately retreat to the enemy's maximum attack range without consumption.
 Stab of\nDexterity Snake
 When you start to perform this technique, the more Agility the user has not consumed, the more the power of this technique will increase
 Shadow Stab
-When this technique reaches $0$0% completion, enemy will lose 6 points of "Quick" True Qi.
+When this technique reaches $0$0% completion, if the enemy's "Quick" True Qi isn't lower than its initial value, the enemy will lose 30 points of "Quick" True Qi. Otherwise, the enemy will lose 10 points.
 Divine Needle\nof Meditation Wisdom
 When this technique reaches $0$0% completion, enemy loses all memories of this battle. Power of all techniques used by the user before enemy lost memories will be greatly increased, lasting until the end of the battle
 Pure Girl's Stab
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user Counters enemy's attack, user gains 1 random available style. If user successfully Counters enemy's attack, user will immediately perform this technique without consumption, and the power of this technique will be greatly increased. When performed this way, this technique won't give layers of effect.
 Immortal\nNeedle of Golden Top
-After this technique reaches $0$0% completion, if user has at least 2 "Stab" styles left after this technique, user will consume 2 "Stab" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously.
+After this technique reaches $0$0% completion, if user has at least 2 "Stab" styles left after this technique, user will consume 2 "Stab" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously. After using, this skill will change from Orthodox to Heterodox version.
 Needle Finger
 Improve your Finesse
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more user's Finesse increases when attacking the enemy.
@@ -1810,7 +1812,7 @@ When you start attacking an enemy with this technique, if the enemy's internal e
 Divine Blade\nof Mysterious
 Based on completion percentage of this technique and the amount of Inhale consumed by the user, user will gain up to 200 layers of this effect: When user performs a "Break" technique, layers of this effect will replace the Stance consumption, and the more layers get consumed, the more user's Ext. and Int. Penetration will be increased.
 Reverse -  Zen Meditation
-Reduces the requirements (by 20%) to use the "Shaolin Sect" techniques of the user
+Reduces the usage requirements of "Shaolin" techniques by 20%.
 Reverse -  Arhat Meditation
 Reduces the consumption of Inhale and Stance of the "Metal" type of technique by the user
 Reverse -  Heart Qi Mixing Technique
@@ -1828,10 +1830,11 @@ Reverse -  Ease of the Tendon
 Reducing the enemy's Aegis real qi
 At the beginning of a battle, significantly reduce the amount of "Aegis" True Qi of the enemy and their helpers; significantly reduce the amount of "Aegis" True Qi gained by the enemy during the battle; significantly increase the amount of "Aegis" True Qi lost by the enemy during the battle
 Reverse -  Marrow Washing Sutra
+Increase Fatal Wound Damage Taken
 Increase All True Qi
-At the start of the battle, all True Qi of the user will change to 2 times of their initial value. External Fatal Wound damage taken by user will be reduced by 50%; If user is a virgin, it increases power of all of the user's techniques, and makes user always keep a youthful look.
+At the start of the battle, all user's True Qi will become 2 times their initial value. All Fatal Wound damage except for External taken by the user will be doubled; If the user is a female virgin, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Reverse -  Dantian Opening and Closing Gong
-Reduces the requirements (by 20%) to use the "Emei Sect" techniques of the user
+Reduces the usage requirements of "Emei Sect" techniques by 20%.
 Reverse -  Emei Twelve Piles
 The higher the percentage of "Wood" internal power of the user, the more the user's External Penetration and Internal Penetration will be increased.
 Reverse -  Innate One Element Qigong
@@ -1840,15 +1843,15 @@ Reverse -  Spiritual Enlightenment
 Reducing the power of enemy techniques
 Whenever the user obtains an available style, the user has a very low chance of reducing the power of all enemy techniques until the end of the battle.
 Reverse -  Lotus Tai Xuan technique
-Convert the user's "Metal" internal energy into "Wood" internal energy. The more energy is converted, the more the power of the user's "Wood" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Metal" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Metal" element is at 0%, user will not be hit by any "Metal" or "Wood" techniques
 Reversal-Pu Yin Xin Jing
 The higher the percentage of "Wood" internal power of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Sitting-in-Oblivion
-Significantly reduces the consumption of Inhale and Stance of the "Wood" type of technique.
+Significantly decreases the Inhale and Stance cost of user's "Wood" techniques; While performing any "Wood" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to significantly increase the power of the performed "Wood" technique.
 Reversal of the Great Nirvana Law
-The lower the "reputation" of the user in all previous lives, the more the power of the user's techniques will increase.
+The lower the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a negative trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
 Reverse -  Copper acupuncture point chart
-Reduces the requirements (by 20%) to use the "Hundred Flowers Valley" techniques of the user
+Reduces the usage requirements of "Hundred Flowers Valley" techniques by 20%.
 Reverse -  Nine Needles Twelve Origin
 Reduced enemy healing speed
 Significantly reduce the speed of enemy "healing" in battle
@@ -1860,7 +1863,7 @@ Significantly reduces the amount of injuries that can be healed when an enemy pe
 Reversal - Golden Needle Vascularization Technique
 The more injuries the user removes with "Heal" in battle, the stronger the effect of a buff will be, which increases the user's Might, Finesse, Swiftness, and Breath.
 Reverse -  Wudang Taihe technique
-Reduces the requirements (by 20%) to use the user's "Wudang Sect" techniques
+Reduces the usage requirements of "Wudang Sect" techniques by 20%.
 Reverse -  Hold the Origin and Keep the One
 Reduces the consumption of Inhale and Stance of the user's "Fire" type technique
 Reverse -  One Word Mixed Pile
@@ -1877,7 +1880,7 @@ The higher the "Taoism" skill of the user, the more toxins the user can Detox in
 Reverse -  Pure Yang Wuji Gong
 When the user's main element is "Fire", they can perform techniques even if a required body part is broken, but the power of the technique performed this way will be reduced; When user gets attacked by a "Fire", "Metal", or "Wood" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
 Reverse -  exhale and clear method
-Reduces the requirements (by 20%) to use the "Yuanshuan Sect" techniques of the user
+Reduces the usage requirements of "Yuanshan Sect" techniques by 20%.
 Reverse -  Xiao Yuan Shan Jin
 The higher the ratio of the user's "Earth" internal energy, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Daewonsanjin
@@ -1887,7 +1890,7 @@ Converts the user's "Wood" internal energy into "Earth" internal energy. The mor
 Reverse -  Hunyuan WuXiangGong
 Turns "Orthodox" skill effects into their "Heterodox" versions on all "Earth" element skills other than "Inner Arts"
 Reverse -  seal gas fixation method
-Reduces the requirements (by 20%) to use the "Lion's Gate" techniques of the user
+Reduces the usage requirements of "Lion-Face Clan" techniques by 20%.
 Reverse -  Thirteen Tai Bao cross practice
 When the user continuously attacks the enemy with the same technique in this battle, the damage dealt by the user will be increased each time, up to a maximum of 3 times.
 Reverse -  Iron Tripod Golden Body Technique
@@ -1895,7 +1898,7 @@ Significantly reduces the maximum number of Weak Points per part of the user's b
 Reverse -  Light Lion Power
 Greatly increase "Strength" limit. Might given by "Strength" will be greatly increased based on user's purity.
 Reverse -  Nourishing the will method
-Reduces the requirements (by 20%) to use the "Ranshan Sect" techniques of the user
+Reduces the usage requirements of "Ranshan Sect" techniques by 20%.
 Reverse -  Round Method
 When the user's position in the world is neutral, the power of all the user's techniques will be increased; when the user's position in the world is opposite to that of the enemy, the power of all the user's techniques will be increased.
 Reverse -  Substantive Method
@@ -1912,36 +1915,36 @@ Reverse -  Xuanwei True Art
 Reducing the enemy's Nadis
 At the beginning of a battle, significantly reduce the amount of Nadis of the enemy and their helpers; significantly reduce the amount of Nadis gained by the enemy during the battle; significantly increase the amount of Nadis lost by the enemy during the battle
 Reversal - Xuan Nui Heart Skill
-Reduces the requirements (by 20%) to use the "Xuan Nyu Sect" techniques of the user
+Reduces the usage requirements of "Xuannyu Sect" techniques by 20%.
 Reverse -  Jade Bone
 The higher the percentage of "Water" internal energy of the user, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Wang Shu Royal Moon technique
 The user's "Water" type techniques will cause more direct damage and repercussion damage to characters whose dominant internal element is "Earth".
 Reverse -  Shao Yin Yi Ming Jue
-Significantly reduce the "Vitality" consumption of the user
+Greatly increase "Vitality" limit. Internal Penetration given by "Vitality" will be greatly increased based on user's purity.
 Reverse -  Sihwajin Sutra
 The higher the percentage of "Water" internal energy of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Empress Goddess
-Convert the "Fire" internal energy of the user into "Water" internal energy. The more energy is converted, the more the power of the user's "Water" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Fire" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Fire" element is at 0%, user will not be hit by any "Fire" or "Water" techniques
 Reverse -  Yaochi Immortal Bathing Method
-Significantly reduces the consumption of Inhale and Stance of the user's "Water" type techniques
+Significantly decreases the Inhale and Stance cost of user's "Water" techniques; While performing any "Water" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to significantly increase the power of the performed "Water" technique.
 Reverse -  Taiyuan Jade Lady technique
 Reduced enemy Quick true qi
 At the beginning of a battle, significantly reduce the amount of "Quick" True Qi of the enemy and their helpers; significantly reduce the amount of "Quick" True Qi gained by the enemy during the battle; significantly increase the amount of "Quick" True Qi lost by the enemy during the battle
 Reverse -  Taiyin Yiming Jue
-Greatly reduce the consumption of all major attributes of the user; if the user is a virgin, increase the power of all techniques of the user, and make the user youthful
+At the start of the battle, all user's True Qi will become 2 times their initial value. All Fatal Wound damage except for Internal taken by the user will be doubled; If  the user is a female virgin, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Reverse -  Burnt stone hammer forging
-Reduces the requirements (by 20%) to use the "Sword Manor" techniques of the user
+Reduces the usage requirements of "Sword Manor" techniques by 20%.
 Reverse- manifesting the Shi Nai service
-Reduces the requirements to use "protective gear" equipped by the user
+Reduces the usage requirements of "Armor"
 Reverse - Chap. 5 Metals
 When the dominant internal element of the user is "Fire", the direct damage and repercussion damage caused by "Water" type techniques to the user will be reduced.
 Reverse -  A Thousand Hammers
 The more times you refine your weapon, the more damage you can do to your enemy.
 Reverse -  sacrifice the soul to create a powerful chapter
-Reduces the requirements to use the "weapon" equipped by the user
+Reduces the usage requirements of "Weapons"
 Reversal - Essentials of Giftedness
-Reduces the requirements (by 20%) to use the "KongSang Sect" techniques of the user
+Reduces the usage requirements of "Kongsang Sect" techniques by 20%.
 Reverse -  Shennong Ben Cao Secret
 Reduce the speed of the enemy to drive away the poison
 Reducing the effect of enemy and expelling poison
@@ -1953,7 +1956,7 @@ Greatly increase "Constitution" limit. External Penetration given by "Constituti
 Reverse -  Jiu Ding Gong
 The shorter the remaining life span of the user, the more the power of all the feats of the user will increase, up to 40%.
 Reverse -  Vajra Four Karmas
-Reduces the requirements (by 20%) to use the "Vajrayana" techniques of the user
+Reduces the usage requirements of "Vajrayana" techniques by 20%.
 Reverse -  Toom technique
 The higher the ratio of "Metal" internal power of the user, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Three Secret Response Method
@@ -1971,7 +1974,7 @@ If the total number of defeat marks of the user exceeds half of the defeat condi
 Reverse -  Supreme Yoga Method
 When the dominant internal element of the user is "Metal", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Reverse -  Poisoning Technique
-Reduces the requirements (by 20%) to use the "Five Immortals Sect" techniques of the user
+Reduces the usage requirements of "Five Immortals Cult" techniques by 20%.
 Reverse -  Huang Xianfa
 Significantly reduces the speed of enemy "Detox" in combat
 Reverse -  Red Immortal Law
@@ -1985,7 +1988,7 @@ The more poison markers the user removes in battle with "Detox, the stronger the
 Reverse -  Hundred Evil Body Technique
 The more negative "characteristics" the enemy has, the more the power of all enemy techniques will be reduced
 Reverse -  JieQing Four Elephant Chart
-Reduces the user's requirements (by 20%) to use the "JieQing Sect" techniques
+Reduces the usage requirements of "Jieqing Gate" techniques by 20%.
 Reverse -  Tian Yuan method of raising Qi
 Reduces the consumption of Inhale and Stance of the user's "Water" type techniques
 Reverse -  The Twelve Scrolls of the Eastern Wall
@@ -1999,7 +2002,7 @@ Changing the "Orthodox" effect of the user's "Water" type of technique other tha
 Reverse -  Armillary Chart
 If the internal energy of the user is "Water", even if the body part required to perform the technique is destroyed, the technique can still be performed, but the power of the technique is reduced.
 Reverse -  All-over fire painting method
-Reduces the user's requirements (by 20%) to use the "Fu Long Sect" techniques
+Reduces the usage requirements of "Fulong Altar" techniques by 20%.
 Reverse -  Fulong Swallowing Fire technique
 The higher the percentage of "Fire" internal energy of the user, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Fire True Qi
@@ -2015,7 +2018,7 @@ The more mutilated body parts the user has, the higher the direct damage the use
 Reverse -  Great Yu Yang Shen Gong
 Significantly reduces the consumption of Inhale and Stance in the "Fire" type of technique of the user
 Reverse -  Himalayan mother work
-Reduces the requirements (by 20%) to use the "Bloodhound Cult" techniques of the user
+Reduces the usage requirements of "Bloodhound Cult" techniques by 20%.
 Reverse -  Black Corpse Four Tips
 Reduces the consumption of Inhale and Stance of the user's "Earth" type techniques
 Reverse -  Evil Ghost technique
@@ -2027,7 +2030,7 @@ Transform the user's "Water" element into "Earth" element, the more the conversi
 Reverse -  Five Yin Dada
 The higher the ratio of the user's "Earth" internal energy, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Child's Blood Refining Method
-Significantly decrease the consumption of Inhale and Stance of the user's "Earth" skills; During the cast of the "Earth" skill, click to consume a min. of 5 and a max. of 15 points of the user's Break True Qi to significantly increase the power of this "Earth" skill
+Significantly decreases the Inhale and Stance cost of user's "Earth" techniques; While performing any "Earth" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Break" True Qi to significantly increase the power of the performed "Earth" technique.
 Reverse -  Blood Hollow Evil Scripture
 Deflect En Break
 When the user's main element is "Earth", they can perform techniques even if a required body part is broken, but the power of the technique performed this way will be reduced; When user gets attacked by an "Earth", "Water", or "Fire" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
@@ -2077,10 +2080,10 @@ Reverse - Immortal Yang's Golden Body
 Increasing anti-shock damage
 When defending with this technique, the more storages available to the user, the higher the reflect damage the user can inflict on the enemy.
 Reverse - Seven-Star Cross Chain
-No Inhale consumption
-When the user has 7 or more available styles, all "Break" type techniques performed by the user do not need to consume Inhale, and the more Inhale that is exempted from consumption, the more the power of the technique increases.
+Inhale Cost Dn
+When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Inhale, and the more Inhale doesn't get consumed, the more the cast progress of techniques will increase.
 Reverse - Holy Light Inspiration
-When defending with this technique: Whenever user successfully counters an enemy's weapon attack, user gains 1 randomly available style and immediately removes 2 Impairment markers
+When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 3 randomly available style and immediately removes 2 Impairment markers.
 Reverse - 36 Moves of Needle Change
 Lower enemy's Style Change Accuracy
 Reduces the Might, Finesse, Swiftness, and Breath of an enemy's "Style Change".
@@ -2313,7 +2316,6 @@ Reverse - Sky Demon
 Worsening the enemy's internal wounds
 When defending with this technique: all direct Internal Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Cryotoxin to the enemy, and at the same time worsens the Internal Injuries on all body parts of the enemy
 Reverse - Undead Body of Blood Child
-Inhale Cost Dn
 When the total number of defeat marks of the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Inhale required to use skills is reduced by 50%
 Reverse - Lift-Up Jumping
 Reduce enemy movement speed
@@ -2334,7 +2336,7 @@ Reverse - Shorten Distance
 EVA all basic Atk
 During the duration of this Footwork, as long as the enemy does not have an effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Evasion.
 Reverse - White Ape's Leap
-When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then the user immediately makes a weapon attack that can't chase against the enemy without consumption.
+During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
 Reverse - Unpredictable
 Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the enemy's Stamina is lost.
 Reverse - Lotus Displacement
@@ -2418,20 +2420,20 @@ Reverse - Skyscraper Climbing
 Increase your own dissolution
 When the enemy attacks the user during the duration of this Footwork, the user's defenses, except for Focus, will receive an additional portion of the user's Focus.
 Reverse - Farewell Steps
-For every 3 successful hits on the enemy during the duration of this Footwork, the user will apply 1 Glazed marker to the enemy
+During this Footwork, for every 6 successful hits on the enemy they will receive 1 Glazed marker.
 Reverse - Afterglow Catching
 During the duration of this Footwork, the enemy's casting speed is significantly reduced
 Reverse - Rushes To The Moon
-When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gains 2 points of "Quick" true energy.
+During this Footwork, the user has to accumulate power to jump 2 distance; Whenever the user jumps, they will gain 3 points of "Quick" True Qi.
 Reverse - Learae's Snowsteps
-During the duration of this Footwork, when the user is attacked by an enemy, they will first hit the enemy with a Breath attack, each one less and less accurate, and if the enemy fails to resolve the Breath attack, a portion of the user's unavailable styles will be randomly removed.
+During this Footwork, whenever the enemy attacks the user, user will first hit the enemy with a Breath attack, each one less and less accurate. If the enemy fails to resolve this Breath attack, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles.
 Reverse - Lady Azure's Icesteps
-Enhanced evasion mitigation
-During the duration of this Footwork: the enemy's Evasion will not be increased by any effect; all Evasion-reducing techniques and buffs suffered by the enemy are greatly increased
+Increase Swiftness Debuff
+During this Footwork, Enemy's Swiftness will not be increased by any effect; All debuffs that decrease Swiftness will be greatly improved; Any Break technique that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be Sealed after using.
 Reverse - Luoshen's Riversteps
-Every time you retreat 1 distance with this Footwork, you will regain your Inhale and Stance.
+During this Footwork, whenever the user retreats 2 distances: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, apply up to 3 Glazed Markers to the enemy based on the user's Charm.
 Reverse - Feather Stance
-When retreating with this Footwork, the user needs to accumulate power, the more power accumulated, the farther the user retreats, up to 4 distances, and the farther the user retreats, the more random parts of the enemy will be added to the Weak Point, sealing points
+During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user retreats, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Reverse - Wooden Track
 During the duration of this Footwork, whenever the enemy inflicts an injury or Fatal Wound on the user with direct damage, the user restores a part of his Footwork and Stamina.
 Reverse - Car Driving Chapter
@@ -2588,10 +2590,10 @@ When this technique's damage gets Reflected, user transfers all of the Reflect d
 Reverse - Overlord Spear\nof Dragon
 When this technique reaches $0$0% completion, all of the enemy's teammates will take the same amount of damage as the enemy, and gain twice as many layers of this effects according to the number of Internal Injury and Fatal Wound markers enemy receives; Each layer of this effect will cancel out Internal Injury, Glazed, and Fatal Wound markers caused by direct damage by the enemy to the user.
 Reverse - Emotions
-Lowering the enemy's Focus
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Focus decreases when user attacks the enemy
+Reduce Enemy's Breath
+After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Breath decreases when attacking the user.
 Reverse - Crystal Tune
-When you start performing this technique, if the enemy doesn't have Glazed markers, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 Glazed marker to the enemy, and if the enemy doesn't have Glazed markers, add 1 additional Glazed marker to the enemy
+When you start performing this technique, if the enemy doesn't have any Glazed markers, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 Glazed marker to the enemy, and if the enemy didn't have any Glazed markers, add 3 additional Glazed markers to the enemy.
 Reverse - Heart-Breaking
 Reduce your mood
 When you start performing this technique, the worse the user's mood is, the more the power of this technique increases; When this technique reaches $0$0% completion, it randomly worsens enemy's Injuries based on how bad user's mood is; After performing this technique, based on completion percentage of this technique, a special debuff which reduces mood is applied to the user
@@ -2602,45 +2604,47 @@ When you start to perform this technique, if the user has a deceased spouse, the
 Reverse - 3 Nights of Joy
 When you start to perform this technique: A part of the user's Charm is added to the user's Breath; if the enemy is female, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
 Reverse - Song of\nThe Moon
-When you start performing this technique, if the user doesn't have any teammates, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, it adds 3 Glazed markers to the enemy
+When you start performing this technique: If the user doesn't have a teammate, the power of this technique will be greatly increased; If the user has a teammate, and the enemy doesn't, enemy will lose a large amount of True Qi equal to the portion of True Qi of 1 random teammate of the user; When this technique reaches $0$0% completion, add 3 Glazed markers to the enemy.
 Reverse - Love Poem
 When you start to perform this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
 Reverse - Celestial Music\nof Goddess
-When you start attacking enemy with this technique, if the enemy has 6 or more Glazed markers, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's Glazed markers, and add half of them back to the enemy as Fatal Wound markers.
+When you start attacking enemy with this technique, if the enemy has 6 or more Glazed markers, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's Glazed markers, and add them back to the enemy as Fatal Wound markers.
 Reverse - Pure Lady's\nHidden Hand
 Ban style gain
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Hold" styles
 Reverse - Jade Hand
 After this technique reaches $0$0% completion, user gains 2 layers of this effect: Direct damage caused by enemy's or user's "Break" techniques gets reduced by 30%.
 Reverse - Cold Yin Palm
-This technique deals 30% more direct damage to the enemy's waist, but has a higher chance of attacking other body parts of the enemy
+When hitting enemy's Waist, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, it worsens Internal Injuries on random body parts of the enemy.
 Reverse - 9 Moves of\n9 Heavens
 Reduces internal reflect
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: if a "Break" technique performed by the user fails to reach $0$0% completion, user will receive significantly less Internal Reflect, and receive a portion of Inhale consumed after performing that technique.
 Reverse - Jade Tripot Fist
 Toxin level reduction
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: Cryotoxin applied by the enemy on the user is lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1".
+After this technique reaches $0$0% completion, user gains 10 layers of this effect: Cryotoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". Enemy's "Break" techniques that have Cryotoxin on them will have a greatly reduced Cast Speed.
 Reverse - Princess\nRainfall
-When you start to perform this technique, if the enemy is of the user's favorite gender, the higher the charisma of the enemy, the more the power of this technique will be increased
+Adore your Enemy
+When you start performing this technique, if the user likes enemy's gender, the higher the enemy's Charm is, the more the power of this technique will increase; If the user can Adore the enemy, when this technique reaches $0$0% completion, there will be a very low chance that the user will start Adoring the enemy.
 Reverse - Divine Cold\nPalm
 Applying more toxins
-The Cryotoxin applied to the enemy by this technique is greatly increased, but there is a low chance that the user will also be applied a part of the Cryotoxin
+Ignore Cryotoxin Resistance
+The amount of Cryotoxin applied by this skill is greatly increased, but there is a low chance that the user will also get poisoned by Cryotoxin; Unless the enemy is Immune to Cryotoxin, the Cryotoxin applied by this technique will ignore half of the victim's Poison Resistance
 Reverse - One Mysterious\nHand
 After this technique reaches $0$0% completion, user retreats 2 distance away from the enemy.
 Reverse - Mysterious\nIce Finger
-When this technique reaches $0$0% completion, enemy will lose 2 points of "Quick" True Qi.
+When this technique reaches $0$0% completion, enemy will lose 5 points of "Quick" True Qi.
 Reverse - Fallen Finger
-This technique causes the same amount of direct internal damage to both the enemy and us; the direct internal damage caused by this technique cannot be reduced by any effect
+This technique inflicts direct Internal Damage both to the user and the enemy, but if the user has more Defeat Markers than the enemy, user will be immune to this damage; Direct Internal Damage caused by this technique can't be reduced by any effect.
 Reverse - Peeling Move
 When this technique reaches $0$0% completion, it has a chance to remove 1 piece of Clothing, Armor, or Accessory from the enemy, and apply a Internal Defense debuff to the enemy according to the tier of the equipment removed.
 Reverse - Poisonous Snake\nHidden Move
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Quick" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, then this effect reverts to 0 levels
 Reverse - 12 Moves of\nChangxi
-The more "points" the user consumes, the more the power of the technique will increase.
+When you start performing this technique, all available styles of the user will be changed to "Point" styles. The more styles get changed to "Point" style, the more power of this technique will be increased; After using, this technique will change from Heterodox to Orthodox version.
 Reverse - Polaris Finger\nPoint
 When this technique reaches $0$0% completion, all body parts of the enemy that have Sealed Acupoints on them will receive 1 Weak Point of the same level as the highest level Sealed Acupoint on that body part.
 Reverse - The Great Moon\nFinger
-If you use this technique to inflict at least 3 internal injury marks on an enemy at once, the enemy loses all "Aegis" True Qi and a debuff is applied to the enemy that reduces all True Qi increases.
+When this technique reaches $0$0% completion, the enemy will unavoidably lose all of their "Break" True Qi, and gain a special debuff that decreases the amount of True Qi gained.
 Reverse - Taoism-Trinity\nFinger
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Point" styles
 Reverse - Hook Clamp
@@ -2753,7 +2757,7 @@ After this technique reaches $0$0% completion, user gains 4 layers of this effec
 Reverse - 9 Idiotic\nFragrant
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: the damage dealt by the user's "Break" techniques is greatly increased, but there is a high chance that they will be "Interrupted" when reaching 90% of their progress. If the number of remaining layers of this effect is Even, the chance of "Interrupting" is halved.
 Reverse - Black Water\nPoison
-When this technique reaches $0$0% completion, the more Acritoxin markers user has, the more External Injuries will be added to random body parts of the enemy.
+When this technique reaches $0$0% completion, the more Acritoxin markers user has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
 Reverse - Nippy Fragrant\nof Hundreds Evil
 The amount of Umbritoxin applied by this skill is greatly increased, but there is a low chance that the user will also get poisoned by Umbritoxin; Unless the enemy is Immune to Umbritoxin, the Umbritoxin applied by this technique will ignore half of the victim's Poison Resistance
 Reverse - Flood Dragon's\nBlood
@@ -2834,6 +2838,7 @@ Reverse - Python Hand
 Ignore light effects
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's Oneirotoxin attacks his heart
 Reverse - Blood Fluke\nPalm
+This technique deals 30% more direct damage to the enemy's waist, but has a higher chance of attacking other body parts of the enemy
 Reverse - Soul-Extinct\nPalm
 When you start to perform this technique, the toxin applied by the user to the enemy will change according to the one with the lowest amount of poisoning among the user's strong Acritoxin, Pyrotoxin and Necrotoxin, and if the poison applied to the enemy after the change is still Necrotoxin, the power of this technique will be greatly increased
 Reverse - Azure Spider\nHand
@@ -2905,8 +2910,8 @@ When attacking enemy with this technique, the deeper the user is poisoned with A
 Reverse - Sky Snake Whip
 At the start of the battle, user gains 0 layers of this effect: Whenever user deals at least 2 direct Internal Injuries to the enemy by means other than this technique, 1 of them will be transferred to the layers of this effect, up to a maximum of 9 levels; When this technique reaches $0$0% completion, the direct Internal Damage caused by this technique will increase according to the number of layers of this effect, and then will be decreased by 1 layer.
 Reverse - Forged Bone\nFist
-Reduced usage requirements
-Based on completion percentage of this technique, the stat requirements of all "Break" techniques of the user will be reduced until the end of the battle.
+Reduce Usage Requirements
+Based on completion percentage of this technique, the usage requirements of all "Break" techniques of the user will be reduced until the end of the battle.
 Reverse - Drunk\n8 Immortals Fist
 After this technique reaches $0$0% completion, user gains 8 layers of this effect: When enemy makes a weapon attack on the user, enemy can only use their lowest Accuracy stat to Hit the weapon attack; If user is drunk, when enemy makes a weapon attack on the user, the lowest Accuracy stat of the enemy will be reduced.
 Reverse - Refining\nFire Palm
@@ -3176,6 +3181,7 @@ When this technique reaches $0$0% completion, for every 1 "Slash" style user has
 Reverse - Yakkha Staff
 The minimum attack distance of this technique is reduced by 2; when attacking the enemy with this technique, the closer the enemy and me are to the minimum attack distance of this technique, the more the power of this technique is increased
 Reverse - Staff of\nSheep-Hunting Tigers
+No Inhale consumption
 The user can perform the "Aegis" technique from 50% of its progress without using up Inhale.
 Reverse - Shaolin Staff\nof Madness
 While performing this technique, user gains "attack tokens" twice as fast, and can make weapon attacks on the enemy. The more times enemy gets hit by those attacks, the more Internal Penetration and Attack Range of this technique will increase, up to a maximum of 6 times.
@@ -3188,12 +3194,12 @@ Reverse - Dharma Staff
 In the process of performing this technique, the user can perform the "Aegis" technique without consumption and without preparation, and the higher the power of the "Aegis" technique performed by the user in this way, the more the power of this technique will increase, and it will continue until the end of this technique.
 Reverse - 36 Close Hands
 Offsetting storage loss
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever enemy tries to remove a usable style from the user, the same number of layers of this effect will be consumed to cancel it out.
+After this technique reaches $0$0% completion, user gains 18 layers of this effect: Whenever enemy tries to remove a usable style from the user, the same number of layers of this effect will be consumed to cancel it out.
 Reverse - Duck Shape Fist
 Increase enemy crisis
-When this technique fails to reach $0$0% completion, increase the sense of crisis of your enemy.
+When you start performing this technique, the higher the enemy's sense of crisis is, the more the power of this technique will increase; When this technique fails to reach $0$0% completion, enemy's sense of crisis will be increased.
 Reverse - 12 Hands of\nSilk Fist
-As long as this technique is not resolved with Evasion by the enemy, the direct internal damage caused by this technique to the enemy is significantly increased and reduced or halved at most
+As long as this technique isn't Resolved with Evasion by the enemy, the direct Internal Damage dealt by this technique will be greatly increased and won't be reduced for any reason.
 Reverse - White Ape's\nLong-Arm Fist
 Based on completion percentage of this technique, duration of enemy's "Quick" technique gets greatly depleted
 Reverse - Transfer Flower\nPicker
@@ -3203,7 +3209,7 @@ Reverse - Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Internal Penetration when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Inhale recovery speed is reduced.
 Reverse - Vajra Samadhi\nPalm
 Reduction of enemy's imperial energy
-This technique cannot be interrupted; This technique will always reach $0$0% completion; The higher the enemy's External Defense, the more their Internal Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 3 points of "Nadis" True Qi, otherwise these effects won't activate
+This technique cannot be interrupted; This technique will always reach $0$0% completion; The higher the enemy's External Defense, the more their Internal Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 5 points of "Nadis" True Qi, otherwise these effects won't activate.
 Reverse - Emei Eagle Claw
 Based on completion percentage of this technique, the power of all "Quick" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Emei Finger Zen
@@ -3211,48 +3217,51 @@ Based on completion percentage of this technique, enemy receives a debuff that r
 Reverse - Lame Fight\n80 Moves
 When this technique reaches $0$0% completion, for every 1 "Hold" style user has, user will have a high chance of gaining a Style Change charge
 Reverse - Split Flower
-When attacking enemy with this technique, ignore Armor on the attacked body part; After this technique reaches $0$0% completion, user gains 4 layers of this effect: if Might, Finesse, or Swiftness of enemy's attack is higher than enemy's Diversion, Parry, or Evasion, enemy's corresponding Resolve stat replaces the Accuracy stat.
+When attacking enemy with this technique, ignore Armor on the attacked body part; After this technique reaches $0$0% completion, user gains 4 layers of this effect: if Might, Finesse, or Swiftness of enemy's attack is higher than enemy's Diversion, Parry, or Evasion, enemy's corresponding Resolve stat multiplied by 1.5 replaces the Accuracy stat.
 Reverse - Lighten Finger
 Attack range of this technique is always the maximum; When this technique reaches $0$0% completion, user will pull the enemy closer by 4 distance, and if the distance between the enemy and the user after being pulled closer is not lower than 4, user will deal the same damage to the enemy again
 Reverse - A Thousand\nHands
-This technique cannot be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, it will automatically hit enemy's body part with the weakest protection against Internal Damage
+Increase Attack Token Consumption
+This technique can't be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, user gains 4 layers of this effect: Weapon attacks that cost 2 or less attack tokens will cost 1 more attack token, but the Might, Finesse, and Swiftness of this attack will be greatly increased.
 Reverse - The Great\nFinger of Mt.Light
-When you start to perform this technique, if the enemy's dominant internal element is "mixed element", the power of this technique will be greatly increased.
+When you start performing this technique, the lower the user's Fame, the more the power of this technique will increase; If user's Fame isn't higher than the enemy's, this technique will always reach 100% completion.
 Reverse - Heavenly Spirit\nFinger
 Weak Point Appears
 Level of Weak Points caused by this technique won't be reduced for any reason; After this technique reaches $0$0% completion, user gains 7 layers of this effect: Whenever enemy removes a Weak Point with a level less than 4, the Weak Point will reappear with a level increased by 1. This effect won't activate any effects that activate by inflicting Weak Points on the enemy.
 Reverse - Swordsmanship\nof Flower Brush
-Reduce enemy's Evasion
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Evasion decreases when user attacks the enemy
+Reduce Enemy's Swiftness
+After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Swiftness decreases when attacking the user.
 Reverse - Swordsmanship\nof Hidden Swordmaster
 When this technique reaches $0$0% completion, user will gain 2 "Stab" styles
 Reverse - Swordsmanship\nof White Eyebrow
+Decrease Power of Enemy's Quick
+When hitting enemy's Head, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, it reduces power of 1 random "Quick" technique of the enemy until the end of the battle.
 Reverse - Swordsmanship\nof Lotus
-When this technique inflicts at least 2 direct Internal Injuries to the enemy, it inflicts 1 additional higher leveled Sealed Acupoint on the enemy's attacked body part
+When this technique inflicts at least 1 direct Internal Injury or Fatal Wound to the enemy, it inflicts 1 additional higher leveled Sealed Acupoint on the enemy's attacked body part.
 Reverse - Swordsmanship\nof Yue Maiden
 Chance of descending enemy pursuit
 After this technique reaches $0$0% completion, user gains 7 layers of this effect: Enemy's follow-up attack chance will be greatly reduced.
 Reverse - Swordsmanship\nof Remnant Rainbow
-At the start of the battle, user gains 0 layers of this effect: For each Style user loses, this effect increases by 1 layer, up to a maximum of 12 layers; The more layers of this effect user has, the more the power of this technique will increase until this technique reaches $0$0% completion, then this effect will return to 0 layers
+At the start of the battle, user gains 0 layers of this effect: Whenever the user loses a Style, this effect increases by 1 layer, up to a maximum of 9 layers; The more layers the user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, layers of this effect will go back to 0.
 Reverse - Divine\nSwordsmanship of Pure Girl
-While performing this technique, user can perform any "Break" technique with an Internal Ratio of at least 60% without preparation, continuing to perform this technique if the performed "Break" technique reaches $0$0% completion.
+While performing this technique, user can perform any "Break" technique with an Internal Ratio of at least 60% without preparation, increasing the power and cast progress of this technique based on the tier of the used "Break" technique; Once that technique and any additional techniques it might perform reach $0$0% completion, continue to perform this technique.
 Reverse - Stab of\n5 Elements
-Based on completion percentage of this technique, the stat requirements of all "Quick" techniques of the user will be reduced until the end of the battle.
+Based on completion percentage of this technique, 1 "Quick" technique of the enemy will be "Sealed" for a very short period of time
 Reverse - Stab of Lost Soul
 Lower enemy's Counterattack Accuracy
-After this technique reaches $0$0% completion, user gains 2 layers of this effect: enemy's Accuracy when Countering user will be greatly reduced.
+After this technique reaches $0$0% completion, user gains 10 layers of this effect: enemy's Accuracy when Countering user will be greatly decreased.
 Reverse - Beauty Stab
 When this technique reaches $0$0% completion, if the distance between the user and the enemy is more than the enemy's minimum attack range, user will immediately advance to the enemy's minimum attack range without consumption.
 Reverse - Stab of\nDexterity Snake
 When you start to perform this technique, the more Agility the user has consumed, the more the power of this technique will increase
 Reverse - Shadow Stab
-When this technique reaches $0$0% completion, user drains 3 points of "Quick" True Qi from the enemy
+When this technique reaches $0$0% completion, if the enemy's "Quick" True Qi isn't lower than its initial value, the user steals 15 points of "Quick" True Qi from the enemy. Otherwise, steals 5 points.
 Reverse - Divine Needle\nof Meditation Wisdom
 When this technique reaches $0$0% completion, enemy loses all memories of this battle. Power of all techniques used by the enemy before enemy lost memories will be greatly reduced, lasting until the end of the battle
 Reverse - Pure Girl's Stab
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy Counters user's attack, user gains 1 random available style. If enemy fails to Counter user's attack, user will immediately perform this technique without consumption, and the power of this technique will be greatly increased. When performed this way, this technique won't give layers of effect.
 Reverse - Immortal\nNeedle of Golden Top
-When you start to perform this technique, you will consume all the "stabbing" style of the user. The more "stabbing" style the user consumes, the more the power of this technique will increase.
+When you start performing this technique, all available styles of the user will be changed to "Stab" styles. The more styles get changed to "Stab" style, the more power of this technique will be increased; After using, this technique will change from Heterodox to Orthodox version.
 Reverse - Needle Finger
 Reduce the enemy's Parry
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Parry decreases when user attacks the enemy
@@ -3310,7 +3319,7 @@ When you start performing this technique, the more Glazed markers user has, the 
 Reverse - The World\nAmused
 When this technique reaches $0$0% completion, it will randomly greatly reduce the power of 1 "Break", 1 "Quick", 1 "Aegis" and 1 "Nadis" techniques of the enemy that haven't been weakened by this technique yet, lasting until the end of the battle.
 Reverse - Wudang\nLong Fist
-Based on completion percentage of this technique, the stat requirements of all "Nadis" techniques of the user will be reduced until the end of the battle.
+Based on completion percentage of this technique, the usage requirements of all "Nadis" techniques of the user will be reduced until the end of the battle.
 Reverse - Wind Chasing\nPalm
 When this technique reaches $0$0% completion, user will gain 2 "Hold" styles
 Reverse - Wudang Soft\nPalm
@@ -3918,6 +3927,7 @@ When starting to perform this divine power, the more Glazed markers Ran Chenzi h
 When Xue Feng, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Ran Chenzi starts to perform this divine power, the enemy removes 2 Glazed markers
 When Xue Feng, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Ran Chenzi begins to perform this divine power, the enemy gains 2 Glazed markers
 Nine Swords - Ghost God Xia
+
 Technique formula - solution
 Art side - robbery
 This divine power cannot be blocked or interrupted; the attack range of this divine power is always the maximum; during the execution of this divine power, Ran Chenzi can move and attack; there is no upper limit to the Glazed markers caused by this divine power; at the end of the execution of this divine power, if the enemy is not defeated, Ran Chenzi will be defeated in battle
