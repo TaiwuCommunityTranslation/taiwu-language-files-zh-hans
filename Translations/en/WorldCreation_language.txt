@@ -52,3 +52,8 @@ On
 Off
 Random Heir
 When the Taiwu (player) dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir.\n<color=#E3C66DFF>(The game is over if there's no available heir!)</color>\n<color=#E4504DFF>(This option cannot be changed after the game has started!) </color>
+Enemies' Practice
+Determines enemies' skill practice percentage, and how many chapters of a skill book they've read.\n<color=#E3C66DFF>(The higher this setting is, the higher the enemies' skill practice percentage and amount of read chapters will be.)</color>
+<color=#9FE0DCFF>High</color>
+<color=#FFE78FFF>Extreme</color>
+<color=#FF5331FF>Master</color>
