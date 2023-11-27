@@ -15,3 +15,13 @@ Skill effect run-time anomaly
 An exception occurred when running with effect ID {0}. We have noticed the problem and are trying to make the game continue through compatibility.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {1}
 Combat runtime exception
 There is an abnormality when the battle is running. We have noticed the problem and are trying to make the game continue through compatibility processing.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {0}
+Video format not supported exception
+Due to system reasons, this video cannot be played temporarily; this exception does not affect the ability to continue to create an archive and enter the game, so you can continue to play by clicking Clear directly.
+Mission data anomalies
+Exception Found Task Id. {0}
+Map runtime exception
+The map is running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website and submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
+Role Runtime Exception
+Characters are running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website and submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
+Abnormalities in the operation of feats
+The feats are running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website to submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
