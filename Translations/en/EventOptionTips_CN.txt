@@ -1,5 +1,5 @@
 Amount of Taiwu's teammates is less than {0}
-Amount of Taiwu teammates is not less than {0}
+Amount of Taiwu's teammates is not less than {0}
 Time required: {0}
 {0} is not Taiwu's teammate
 Cooldown after using: {0} months
