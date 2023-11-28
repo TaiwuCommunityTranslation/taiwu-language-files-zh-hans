@@ -165,6 +165,6 @@ In addition to <color=#orange>Styles</color>, you also need to consume <color=#o
 Opponents can attack you during the skill's cast time
 Understand Stance and Inhale
 Month Change
-Activate Month Change
+Go to the Next Month
 Click on the <color=#orange>Month Change</color> button at the bottom of the screen and select to consume all remaining days of the month to move to the next month
 
