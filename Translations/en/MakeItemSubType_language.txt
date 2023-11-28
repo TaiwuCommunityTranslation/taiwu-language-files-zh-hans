@@ -1,33 +1,133 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Qiao
 Hand guards made in "Qiao" style are highly focused on Might and Finesse, leaving Swiftness unwieldy...
 Zhuo
 Hand guards made in "Zhuo" style are extremely focused on Might, leaving Finesse very unwieldy...
+
+
+
+
 Qian
 Hand guards made in "Qian" style are highly focused on Swiftness and Might, leaving Finesse unwieldy...
 Kun
 Hand guards made in "Kun" style are highly focused on Finesse and Swiftness, leaving Might unwieldy...
 Hand guards made in "Qiao" style are extremely focused on Swiftness, leaving Might very unwieldy...
 Hand guards made in "Zhuo" style are extremely focused on Finesse, leaving Swiftness very unwieldy...
+
+
+
+
 Hand guards made in "Qian" style are extremely focused on Swiftness, leaving Might very unwieldy...
 Hand guards made in "Kun" style are extremely focused on Finesse, leaving Might very unwieldy...
+
+
+
+
+
+
+
+
+
+
+
+
 Feng
 Swords made in "Feng" style are highly focused on Finesse and Swiftness, leaving Might unwieldy...
 Zhong
 Swords made in "Zhong" style are extremely focused on Might, leaving Swiftness very unwieldy...
 Cang
 Swords made in "Cang" style are highly focused on Might and Finesse, leaving Swiftness unwieldy...
+
+
+
+
 Rui
 Swords made in "Rui" style are extremely focused on Swiftness, leaving Finesse very unwieldy...
 Rong
 Swords made in "Rong" style are highly focused on Might and Swiftness, leaving Finesse unwieldy...
 Ling
 Swords made in "Ling" style are extremely focused on Finesse, leaving Might very unwieldy...
+
+
+
+
 Blades made in "Feng" style are highly focused on Might and Swiftness, leaving Finesse very unwieldy...
 Blades made in "Zhong" style are extremely focused on Might, leaving Swiftness very unwieldy...
 Blades made in "Cang" style are highly focused on Might and Finesse, leaving Swiftness very unwieldy...
+
+
+
+
 Blades made in "Rui" style are extremely focused on Might, leaving Finesse very unwieldy...
 Blades made in "Rong" style focus on Might, leaving Finesse unwieldy...
 Blades made in "Ling" style focus on Might, leaving Swiftness unwieldy...
+
+
+
+
 Chi
 Polearms made in "Chi" style are extremely focused on Might, leaving Finesse very unwieldy...
 Fa
@@ -36,10 +136,44 @@ Yong
 Polearms made in "Yong" style are highly focused on Might and Swiftness, leaving Finesse unwieldy...
 Xiu
 Polearms made in "Xiu" style are highly focused on Might and Finesse, leaving Swiftness unwieldy...
+
+
 Polearms made in "Chi" style are extremely focused on Might, leaving Swiftness very unwieldy...
 Polearms made in "Fa" style focus on Might, leaving Swiftness unwieldy...
 Polearms made in "Yong" style focus on Swiftness, leaving Might unwieldy...
 Polearms made in "Xiu" style focus on Finesse, leaving Might unwieldy...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Pi
 Accessories made in "Pi" style help to resist against Acritoxin...
 Hua
@@ -60,6 +194,10 @@ Huan
 Accessories made in "Huan" style help to increase Finesse...
 Long
 Accessories made in "Long" style help to increase Might...
+
+
+
+
 Shu
 Accessories made in "Shu" style help to resist against Umbritoxin...
 Huo
@@ -79,6 +217,14 @@ Accessories made in "Na" style help to increase Internal Breath...
 Accessories made in "Shen" style help to increase Internal Penetration...
 Kong
 Accessories made in "Kong" style help to increase Int Ratio Bonus...
+
+
+
+
+
+
+
+
 Feng
 Helmets made in "Feng" style help to increase Evasion...
 Yu
@@ -87,28 +233,146 @@ Wu
 Helmets made in "Feng" style help to increase Parry...
 Yun
 Helmets made in "Yun" style help to reduce External Injuries...
+
+
+
+
+
+
 Helmets made in "Yun" style help to reduce Internal Injuries...
+
+
+
+
+
+
 Legwear made in "Feng" style helps to increase Evasion...
 Legwear made in "Yu" style helps to increase Diversion...
 Legwear made in "Wu" style helps to increase Parry...
 Legwear made in "Yun" style helps to reduce External Injuries...
+
+
+
+
+
+
 Legwear made in "Yun" style helps to reduce Internal Injuries...
 Gang
 Armor made in "Gang" style helps to reduce External Injuries...
 Rou
 Armor made in "Rou" style helps to reduce External Injuries...
+
+
+
+
 Armor made in "Feng" style helps to increase Evasion...
 Armor made in "Yu" style helps to increase Diversion...
 Armor made in "Wu" style helps to increase Parry...
 Armor made in "Yun" style helps to reduce External Injuries...
 Armor made in "Gang" style slightly increases both Ext. and Int. Defenses, and also helps to reduce Ext. and Int. Injuries...
 Armor made in "Rou" style is highly focused on Internal Defense, and helps to reduce Internal Injuries...
+
+
+
+
 Armor made in "Yun" style helps to reduce Internal Injuries...
+
+
+
+
+
+
 Arm guards made in "Feng" style help to increase Evasion...
 Arm guards made in "Yu" style help to increase Diversion
 Arm guards made in "Wu" style help to increase Parry...
 Arm guards made in "Yun" style help to reduce External Injuries...
+
+
+
+
+
+
 Arm guards made in "Yun" style help to reduce Internal Injuries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Zheng
 Zheng Jin's formula, helps to heal External Injuries...
 Zheng Jin's formula, helps to cure Pyrotoxin...
@@ -159,3 +423,17 @@ Wonderful folk remedy, helps to increase External Penetration...
 Wonderful folk remedy, helps to increase Internal Penetration...
 Wonderful folk remedy, helps to cure Acritoxin...
 Wonderful folk remedy, helps to increase Cast Speed and Int. Recovery...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
