@@ -1,3 +1,5 @@
+
+
 Expert
 <color=#brightblue>The power limit of skills placed in here are increased by 50%,</color><color=#brightred> but the use requirement are increased by 25%.</color> 
 Extreme
@@ -10,71 +12,181 @@ Snipe
 <color=#brightblue>The power of skills placed in here changes at the start of the battle: For user power increases by 40%; For opponent power decreases by 40%.</color>
 Store
 <color=#brightblue>The skill placed in here only takes up 1 slot,</color> <color=#brightred>but its requirements are increased by 50%</color>
+
+
+
+
+
+
+
+
 Prepare
 <color=#brightblue>Skill placed in here will automatically be used at the start of a battle without consumption.</color>
 Swift
 <color=#brightblue>Footworks placed in here runs out 50% slower when you're moving,</color> <color=#brightred>but 100% faster when you're standing still</color>
 Slow
 <color=#brightblue>Footworks placed in here run out 50% slower when you're standing still,</color> <color=#brightred>but 100% faster when you're moving</color>
+
+
+
+
+
+
+
+
 Origin
 <color=#brightblue>When a Nadis skill is placed here, it's power increases by 2 times.</color>
 Flash
 <color=#brightblue>The power of the Aegis skill placed in it is increased by 100%,</color><color=#brightred>but the duration is reduced by 50%.</color>
 Protection
 <color=#brightblue>The duration of the Aegis skill placed in it is increased by 100%,</color><color=#brightred>but the power is reduced by 50%.</color>
+
+
+
+
+
+
 Shake
 <color=#brightblue>When a weapon placed in here breaks enemy's Deflect, they will immediately drop their weapon and switch to Bare Hands.</color>
 Burst
 <color=#brightblue>The damage of actively cast Fist skills placed in here will be increased the closer you are to the enemy,</color> <color=#brightred>however those skills will be blocked until the end of a battle after 1 use</color>
 Counter
 <color=#brightblue>If you attack the enemy with a Fist skill placed in here while they're casting their own Fist skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Chase
 <color=#brightblue>Weapon placed in here will block 1 enemy skill for a short while after your weapon attack chases them 5 times.</color>
 Poke
 <color=#brightblue>The damage of actively cast Finger skills placed in here will be increased the more blocked acupoints enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Finger skill placed in here while they're casting their own Finger skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Foot
 <color=#brightblue>Weapon placed in here will replace the Legwear for calculations when using Kick skills.</color>
 Burst
 <color=#brightblue>The damage of actively cast Kick skills placed in here will be increased the less Stamina enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Kick skill placed in here while they're casting their own Kick skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Pierce
 <color=#brightblue>Weapon placed in here will ignore enemy equipment when attacking.</color>
 Burst
 <color=#brightblue>The damage of actively cast Hidden Weapon skills placed in here will be increased the farther user are from the enemy,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Hidden Weapon skill placed in here while they're casting their own Hidden Weapon skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Refund
 <color=#brightblue>Weapon placed in here has a 50% chance of refunding used attack tokens when attacking an enemy with no Deflect.</color>
 Burst
 <color=#brightblue>The damage of actively cast Sword skills placed in here will be increased the less Styles enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Sword skill placed in here while they're casting their own Sword skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Stall
 <color=#brightblue>Weapon placed in here increases the Deflect cooldown of the enemy by 3 times.</color>
 Burst
 <color=#brightblue>The damage of actively cast Blade skills placed in here will be increased the more Weak Points enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Blade skill placed in here while they're casting their own Blade skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Defense
 <color=#brightblue>Weapon placed in here will have 30% more Deflect charges</color>
 Burst
 <color=#brightblue>The damage of actively cast Polearm skills placed in here will be increased the more Damage Markers enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Polearm skill placed in here while they're casting their own Polearm skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Tricky
 <color=#brightblue>Weapon placed in here consumes 2 times more Deflect charges when attacking the enemy.</color>
 Burst
 <color=#brightblue>The damage of actively cast Exotic Weapon skills placed in here will be increased the less Stance enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Exotic Weapon skill placed in here while they're casting their own Exotic Weapon skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Range
 <color=#brightblue>Weapon placed in here has 1 more range</color>
 Burst
 <color=#brightblue>The damage of actively cast Soft Weapon skills placed in here will be increased the less Inhale enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Soft Weapon skill placed in here while they're casting their own Soft Weapon skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Switch
 <color=#brightblue>Weapon placed in here increases the chance of chasing by 2 times after you Style Change.</color>
 Burst
 <color=#brightblue>The damage of actively cast Ranged Weapon skills placed in here will be increased the more Style Change charges user has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Ranged Weapon skill placed in here while they're casting their own Ranged Weapon skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
 Drain
 <color=#brightblue>Weapon placed in here removes 1 point of True Qi from the enemy on attacks.</color>
 Burst
 <color=#brightblue>The damage of actively cast Melody skills placed in here will be increased the more Sound styles user has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Melody skill placed in here while they're casting their own Melody skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+
+
+
+
+
+
+
+
