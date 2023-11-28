@@ -23,16 +23,16 @@ Chengdu Southwest
 Chengdu South
 Chengdu Southeast
 Guizhou
-Guilin is a picturesque place.It is too beautiful to be appreciated all at once. “East or west,  Guilin landscape is the best“,  “The scenary of Guilin is the most adorable of all” are common compliments.
-Guilin Northwest
-Guilin North
-Guilin Northeast
-Guilin West
-Guilin Centre
-Guilin East
-Guilin Southwest
-Guilin South
-Guilin Southeast
+Guizhou is a picturesque place.It is too beautiful to be appreciated all at once. “East or west,  Guizhou landscape is the best“,  “The scenary of Guizhou is the most adorable of all” are common compliments.
+Guizhou Northwest
+Guizhou North
+Guizhou Northeast
+Guizhou West
+Guizhou Centre
+Guizhou East
+Guizhou Southwest
+Guizhou South
+Guizhou Southeast
 Xiangyang
 Xiangyang is located in the north of Xiang River.The majesty of the city is easily accesible from all around. Thus it is also of great strategic importance.
 Xiangyang Northwest 
@@ -325,7 +325,11 @@ The horrible, abominable place full of blood and ash and basalt...
 dark abyss
 A profound abyss that is extremely difficult to surmount. \n\n <color=#red> Attention! Passing through the abyss not only takes a lot of time, but also leads to injuries and damage to those involved, so you should avoid passing over the abyss if possible. </color> 
 Blocking
+
+
+
 名胜景点1
+
 名胜景点2
 名胜景点3
 名胜景点4
