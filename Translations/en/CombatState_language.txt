@@ -334,7 +334,7 @@ Stamina recovery speed increased by 100%
 <color=#lightgrey>When located in <color=#brightblue>River Beach, River Valley, or Gorge</color> tiles, the Stamina recovery speed is greatly improved</color>
 Smoky Wave
 Footwork charge speed (?) increased by 50%
-<color=#lightgrey>When located in  <color=#brightblue>Lake</color> tiles, the Footwork charging speed (?) is greatly increased</color>
+<color=#lightgrey>When located in  <color=#brightblue>Lake</color> tiles, the jump Footwork's charging speed is greatly increased</color>
 Moro Roach
 Style Change acquisition speed increased by 50%
 <color=#lightgrey>When located in <color=#brightblue>Dense Forest</color> tile, the Style Change acquisition speed is greatly increased</color>
