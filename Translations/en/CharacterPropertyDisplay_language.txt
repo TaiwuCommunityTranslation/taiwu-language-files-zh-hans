@@ -237,4 +237,4 @@ Fertility
 Like & Dislike Change Cycle
 
 EXP
-Experiences represent various experiences, talents and perceptions of the character...\n\n<color=#pinkyellow>-Experience can be used to cultivate Martial Arts skills.</color>
+Experience represent various experiences, talents and perceptions of the character...\n\n<color=#pinkyellow>-Experience can be used to cultivate Martial Arts skills.</color>
