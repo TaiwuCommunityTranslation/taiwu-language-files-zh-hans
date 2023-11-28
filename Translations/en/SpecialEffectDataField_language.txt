@@ -30,4 +30,4 @@ External Injury
 Internal Injury
 Mood
 Amount of True Qi Obtained
-Movement Recovery Rate
+Stamina Recovery Rate
