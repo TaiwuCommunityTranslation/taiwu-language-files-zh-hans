@@ -1,4 +1,4 @@
-Swap
+Swapp
 Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve stats and swap with the main fighter for a short period of time.
 Haste
 Can use「Haste」order to increase cast progress of the main fighter's skill.
