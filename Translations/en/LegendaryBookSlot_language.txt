@@ -1,6 +1,6 @@
 
 
-Expert
+Expertt
 <color=#brightblue>The power limit of skills placed in here are increased by 50%,</color><color=#brightred> but the use requirement are increased by 25%.</color> 
 Extreme
 <color=#pinkyellow>When a skill is placed in here, depending on the difference between your main element and your mutual and restraining elements, the power of other skills may</color> <color=#brightblue>Increase</color> <color=#pinkyellow>or</color> <color=#brightred>Decrease</color>
