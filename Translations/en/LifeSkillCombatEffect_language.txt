@@ -1,4 +1,4 @@
-Reconsiderr
+Reconsider
 You can place a question horizontally, vertically or diagonally 1 tile away from the opponent's argument with lower value
 Direct
 You can place a question on any horizontal or vertical tile from your argument (can't go over higher value arguments)
