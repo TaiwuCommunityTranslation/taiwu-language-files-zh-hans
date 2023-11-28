@@ -35,7 +35,7 @@ This weapon has 50% higher Hardness, but 50% lower DES.
 Venomous sting
 This weapon causes 20% more Poison damage to enemies.
 Spiritual Use
-20% reduction in the requirement to use this weapon
+20% reduction in the usage requirements of this weapon
 Blood Kills
 When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct External Damage.
 Qi killing
