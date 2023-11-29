@@ -3596,7 +3596,7 @@
   "LK_Teammate_Lock_Equip_Tog_Tips": "When this switch is on, this character will actively change into more suitable equipment every month...",
   "UI_MonthNotify_MonthEvent_ReadingNotes": "Taiwu Notes",
   "UI_MonthNotify_MonthEvent_Friendship": "Social",
-  "UI_MonthNotify_MonthEvent_CountrySideNote": "Taiwu Village Notes",
+  "UI_MonthNotify_MonthEvent_CountrySideNote": "Taiwu Village",
   "UI_MonthNotify_MonthEvent_WaitToSolve": "Urgent",
   "UI_MonthNotify_MonthEvent_WorldNews": "World News",
   "LK_Equip_Skill_AutoLoad_Confirm": "You already have equipped skills.\nAre you sure you want to replace them with the auto equipped skills?",
