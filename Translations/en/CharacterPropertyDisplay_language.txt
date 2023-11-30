@@ -3,7 +3,7 @@ It represents strength and explosive power...\n\n<color=#pinkyellow>·Increases 
 AGI
 It represents bodily agility and coordination...\n\n<color=#pinkyellow>·Increases character's <SpName=mousetip_mingzhong_1_2>Swiftness and<SpName=mousetip_huajie_2>Evasion.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_1>Agility.\n·With age, Agility will become more difficult to recover</color>
 WIL
-It represents the willpower and judgment of a person...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_3>Breath and<SpName=mousetip_huajie_3>Focus.\n·Increase can be achieved through<SpName=mousetip_zhuyao_2> repetitive tasks, weapons, and armor.\n·As you age, Willpower will become easier to recover</color>
+It represents willpower and judgment...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_3>Breath and<SpName=mousetip_huajie_3>Focus.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_2>Willpower.\n·With age, Willpower will become easier to recover</color>
 CON
 It represents the power of a physical body, it's endurance, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_0>Ext. Pen. and<SpName=mousetip_fangyu_0>Ext. Def.\n·Increase can be achieved through<SpName=mousetip_zhuyao_3>using Endurance, weapons, and armor.\n·Increases the amount of consumables character can take.\n·As you age, Endurance will become more difficult to recover</color>
 VIT
