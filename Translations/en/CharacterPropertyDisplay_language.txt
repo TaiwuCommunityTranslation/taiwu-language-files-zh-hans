@@ -5,7 +5,7 @@ It represents bodily agility and coordination...\n\n<color=#pinkyellow>·Increas
 WIL
 It represents willpower and judgment...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_3>Breath and<SpName=mousetip_huajie_3>Focus.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_2>Willpower.\n·With age, Willpower will become easier to recover</color>
 CON
-It represents the power of a physical body, it's endurance, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_0>Ext. Pen. and<SpName=mousetip_fangyu_0>Ext. Def.\n·Increase can be achieved through<SpName=mousetip_zhuyao_3>using Endurance, weapons, and armor.\n·Increases the amount of consumables character can take.\n·As you age, Endurance will become more difficult to recover</color>
+It represents sturdiness and endurance...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_0>Ext. Pen. and<SpName=mousetip_fangyu_0>Ext. Def.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_3>Constitution.\n·Increases the amount of consumables character can ingest.\n·With age, Constitution will become more difficult to recover</color>
 VIT
 It represents the inner force, bone, and blood quality...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_1>Int. Pen.. and<SpName=mousetip_fangyu_1>Int. Def.\n·Increase can be achieved through<SpName=mousetip_zhuyao_4>Breakthroughs, weapons, and armor.\n·As you age, Vitality will become easier to recover</color>
 COM
