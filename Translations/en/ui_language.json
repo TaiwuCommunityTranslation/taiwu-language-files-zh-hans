@@ -2568,7 +2568,7 @@
   "LK_ItemTips_Not_Identified_Poison": "Contains unknown poisons...",
   "LK_ItemTips_PoisonItem_Self": "{0}：<color=#CCB8FF>{1}（{2}）</color>",
   "LK_ItemTips_PoisonItem_Self_Attached": "{0}：<color=#CCB8FF>{1}（{2}）、{3}（{4}）</color>",
-  "LK_ItemTips_RefineEffect_Title": "【Refining Effect】",
+  "LK_ItemTips_RefineEffect_Title": "【Refining】",
   "LK_ItemTips_RefineEffect_Weapon": "【Weapon】",
   "LK_ItemTips_RefineEffect_Armor": "【Armor】",
   "LK_ItemTips_RefineEffect_Accessory": "【Accessory】",
