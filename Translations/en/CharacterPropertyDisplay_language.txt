@@ -1,7 +1,7 @@
 STR
 It represents strength and explosive power...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_0>Might and<SpName=mousetip_huajie_0>Diversion.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_0>Strength.\n·Increases maximum inventory weight.\n·Increases character's maximum equipment weight.\n·With age, Strength will become more difficult to recover</color>
 AGI
-It represents the flexibility and coordination of a body...\n\n<color=#pinkyellow>·Increases character's <SpName=mousetip_mingzhong_1_2>Swiftness and<SpName=mousetip_huajie_2>Evasion.\n·Increase can be achieved through<SpName=mousetip_zhuyao_1>using Agility, weapons, and armor.\n·As you age, Agility will be more difficult to recover.</color>
+It represents bodily agility and coordination...\n\n<color=#pinkyellow>·Increases character's <SpName=mousetip_mingzhong_1_2>Swiftness and<SpName=mousetip_huajie_2>Evasion.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_1>Agility.\n·With age, Agility will become more difficult to recover</color>
 WIL
 It represents the willpower and judgment of a person...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_3>Breath and<SpName=mousetip_huajie_3>Focus.\n·Increase can be achieved through<SpName=mousetip_zhuyao_2> repetitive tasks, weapons, and armor.\n·As you age, Willpower will become easier to recover</color>
 CON
