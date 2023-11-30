@@ -1,5 +1,5 @@
 STR
-It represents the strength of the figure, explosive power, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_0>Might and<SpName=mousetip_huajie_0>Diversion.\n·Increase can be achieved through<SpName=mousetip_zhuyao_0>using Strength, weapons, armor, equpping character\n·Increases maximum inventory weight.\n·As you age, Strength will become more difficult to recover</color>
+It represents strength and explosive power...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_0>Might and<SpName=mousetip_huajie_0>Diversion.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_0>Strength.\n·Increases maximum inventory weight.\n·Increases character's maximum equipment weight.\n·With age, Strength will become more difficult to recover</color>
 AGI
 It represents the flexibility and coordination of a body...\n\n<color=#pinkyellow>·Increases character's <SpName=mousetip_mingzhong_1_2>Swiftness and<SpName=mousetip_huajie_2>Evasion.\n·Increase can be achieved through<SpName=mousetip_zhuyao_1>using Agility, weapons, and armor.\n·As you age, Agility will be more difficult to recover.</color>
 WIL
