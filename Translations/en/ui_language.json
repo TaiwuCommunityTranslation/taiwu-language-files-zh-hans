@@ -2558,7 +2558,7 @@
   "LK_ItemTips_Armor_Reduce_Outer_Injury": "Ext. Damage Reduction",
   "LK_ItemTips_Armor_Reduce_Inner_Injury": "Int. Damage Reduction",
   "LK_ItemTips_Armor_Reduce_Injury_Limit_Tips": "（At most reduces to 1）",
-  "LK_ItemTips_ArmorEffect_Tips": "The defenses provided by armor are only effective when the corresponding body part is attacked.",
+  "LK_ItemTips_ArmorEffect_Tips": "Defense provided by the armor is effective only against attacks on the corresponding body part.",
   "LK_ItemTips_AccessoryEffect_Title": "【Stats】",
   "LK_ItemTips_Population_Tips": "Ren",
   "LK_ItemTips_Safety_Tips": "An",
