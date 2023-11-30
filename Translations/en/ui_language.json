@@ -2642,7 +2642,7 @@
   "LK_Information": "Information",
   "LK_Information_Level_Up": "Grade+1",
   "LK_Make_AddPoison_Failed": "Due to other poisons on the item, the addition of poison failed.",
-  "LK_Item_Identify_Poison": "Checking ({0})",
+  "LK_Item_Identify_Poison": "Check ({0})",
   "LK_Make_Review_Base": "Possible product：",
   "LK_Make_Review_Attainment": "Possible products when attainment reaches {0}.",
   "LK_Make_Review_Building": "Possible products when attainment reaches {0} and {1} has been constructed.",
