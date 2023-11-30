@@ -9,7 +9,7 @@ It represents sturdiness and endurance...\n\n<color=#pinkyellow>·Increases char
 VIT
 It represents the inner quality of flesh and blood...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_1>Int. Pen. and<SpName=mousetip_fangyu_1>Int. Def.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_4>Vitality.\n·With age, Vitality will become easier to recover</color>
 COM
-It represents understanding of a person, their perception, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_1>Finesse and<SpName=mousetip_huajie_1>Parry.\n·Increase can be achieved through<SpName=mousetip_zhuyao_5>using Comprehension, weapons, armor, studying better books, and breaking through martial arts.\n·Helps with studying books and Martial Art breakthroughs.</color>
+It represents the ability to comprehend and perception...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_1>Finesse and<SpName=mousetip_huajie_1>Parry.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_5>Comprehension.\n·Helps with studying books and martial arts breakthroughs.</color>
 MIG
 The ability to crush an enemy with great force and inflict damage on them...\n\n<color=#pinkyellow>·Force-based attacks such as Punch, Hack, Throw, Ware.</color>
 FIN
