@@ -7,7 +7,7 @@ It represents willpower and judgment...\n\n<color=#pinkyellow>·Increases charac
 CON
 It represents sturdiness and endurance...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_0>Ext. Pen. and<SpName=mousetip_fangyu_0>Ext. Def.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_3>Constitution.\n·Increases the amount of consumables character can ingest.\n·With age, Constitution will become more difficult to recover</color>
 VIT
-It represents the inner force, bone, and blood quality...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_1>Int. Pen.. and<SpName=mousetip_fangyu_1>Int. Def.\n·Increase can be achieved through<SpName=mousetip_zhuyao_4>Breakthroughs, weapons, and armor.\n·As you age, Vitality will become easier to recover</color>
+It represents the inner quality of flesh and blood...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_1>Int. Pen. and<SpName=mousetip_fangyu_1>Int. Def.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_4>Vitality.\n·With age, Vitality will become easier to recover</color>
 COM
 It represents understanding of a person, their perception, etc...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_1>Finesse and<SpName=mousetip_huajie_1>Parry.\n·Increase can be achieved through<SpName=mousetip_zhuyao_5>using Comprehension, weapons, armor, studying better books, and breaking through martial arts.\n·Helps with studying books and Martial Art breakthroughs.</color>
 MIG
