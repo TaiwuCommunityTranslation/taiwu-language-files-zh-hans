@@ -1899,7 +1899,7 @@ Reverse -  Light Lion Power
 Greatly increase "Strength" limit. Might given by "Strength" will be greatly increased based on user's purity.
 Reverse -  Nourishing the will method
 Reduces the usage requirements of "Ranshan Sect" techniques by 20%.
-Reverse -  Round Method
+Reverse -  Whirling Circle
 When user's standpoint is Even, power of all of their techniques will be increased; When user and enemy have opposite standpoints, the power of all the user's techniques will be increased
 Reverse -  Substantive Method
 When the dominant internal element of the user is "Wood", it reduces the direct damage and repercussion damage caused by "Metal" type techniques to the user.
