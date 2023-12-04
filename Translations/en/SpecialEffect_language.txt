@@ -91,7 +91,7 @@ Greatly increase "Strength" limit. Diversion given by "Strength" will be greatly
 Develop\nAmbition
 Increases the power limit of the user's "Ransan School" techniques by 30%
 Whirling Circle
-When the user's standpoint is "Even", the power of all the user's techniques will be increased by 10% ; When the user's standpoint is not opposed to that of the enemy, the power of all the user's techniques will be increased.
+When the user's standpoint is "Even", power of all of their techniques will be increased by 10%; When the user and the enemy don't have opposing standpoints, the power of all the user's techniques will be increased
 True Will\nCultivation
 When the dominant internal element of the user is "Wood", the direct damage and repercussion damage caused to the user by the "Earth" type of technique will be reduced.
 Focus Thought
