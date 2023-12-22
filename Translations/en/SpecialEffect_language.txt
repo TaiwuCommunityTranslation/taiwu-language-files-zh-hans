@@ -1984,7 +1984,7 @@ Significantly reduces the amount of toxins that can be dispelled when an enemy p
 Reverse -  Green Immortal Law
 Converts the user's "Earth" internal energy into "Wood" internal energy. The more energy is converted, the more the power of the user's "Wood" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
 Reverse -  Spirituality
-The more poison markers the user removes in battle with "Detox, the stronger the effect a buff will be, which increases the user's Might, Finesse, Swiftness, and Breath.
+When the user removes toxins with "Detox" in battle, the user will be given a buff which enhances the user's Might, Finesse, Swiftness, and Breath. The more toxins removed, the stronger the effect.
 Reverse -  Hundred Evil Body Technique
 The more negative "characteristics" the enemy has, the more the power of all enemy techniques will be reduced
 Reverse -  JieQing Four Elephant Chart
