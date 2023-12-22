@@ -2722,7 +2722,7 @@
   "LK_Hobby_Tip_Tittle": "Character's Likes and Dislikes",
   "LK_Hobby_Tip_Loving": "<color=#F8E0CAFF>This person likes <color=#b9cfe8>{0}</color> type items.</color>",
   "LK_Hobby_Tip_Hate": "<color=#F8E0CAFF>This person hates <color=#af3c30>{0}</color> type items.</color>",
-  "LK_Hobby_Tip_Time": "<color=#939393FF><color=#F8E0CAFF>{0}</color>After six months, this person's likes and dislikes will change.</color>",
+  "LK_Hobby_Tip_Time": "<color=#939393FF>After <color=#F8E0CAFF>{0}</color> months, this person's likes and dislikes will change.</color>",
   "LK_Collect_Cost_Time": "Time required for collection: <SpName=sp_icon_shijian> 1",
   "LK_Fame_Tip_Record": "-{0} lasts for {1} months",
   "LK_WorldMap_SweepNet_Amount": "Insect Trap {0}/1",
