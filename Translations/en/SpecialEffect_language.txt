@@ -3158,7 +3158,7 @@ When you start to perform this technique, the power of this technique will incre
 Reverse - Vajra Prajna\nPalm
 When this technique reaches $0$0% completion, if enemy's dominant element is "Wood" or "Water", direct damage dealt by this technique will be increased by 90%
 Reverse - Demonhunt\nLight Fist
-When you start performing this technique, the greater the difference between enemy's standpoint and Rebellious, the more the attack range and power of this technique will increase; When this technique reaches $0$0% completion, if user's Breath is higher than the enemy's Focus, enemy's standpoint will change to Rebellious, and if enemy's standpoint changes from another one to Rebellious, the enemy will escape when possible
+When you start performing this technique, the greater the difference between enemy's standpoint and Rebel, the more the attack range and power of this technique will increase; When this technique reaches $0$0% completion, if user's Breath is higher than the enemy's Focus, enemy's standpoint will change to Rebel, and if enemy's standpoint changes from another one to Rebel, the enemy will escape when possible
 Reverse - Shaolin\nTiger Claw
 Based on completion percentage of this technique, the power of all "Aegis" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Shaolin\nFinger Zen
