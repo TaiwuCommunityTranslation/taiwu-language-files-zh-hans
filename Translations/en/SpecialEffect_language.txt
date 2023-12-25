@@ -3523,7 +3523,7 @@ Whenever an enemy performs the "Orthodox training" technique, it makes the rando
 The·FN
 The Nine Tribes of the Fallen Heart continuously apply different types of "Levels 2" poisons to the enemy depending on the enemy's internal energy elemental values
 The·C
-According to the enemy's standpoint significantly reduces certain attributes: Just enemy's MOV·Spd and Ext. Recovery; Kind enemy's Equipment Efficiency and Attack Speed; Even enemy's Inhale Recovery and Stance Recovery; Rebel enemy's Internal Breath and Int Ratio Bonus; Egoistic enemy's Cast Speed and Int. Recovery.
+According to the enemy's standpoint significantly reduces certain attributes: Just enemy's MOV·Spd and Ext. Recovery; Kind enemy's Equipment Efficiency and Attack Speed; Even enemy's Inhale Recovery and Stance Recovery; Rebel enemy's Internal Breath and Int Ratio Bonus; Egoist enemy's Cast Speed and Int. Recovery.
 God·S
 Divine Break Protector significantly reduces the enemy's Ext. and Int. Defense and Penetration depending on the enemy's level of enchantment
 Hell Master
