@@ -18,7 +18,7 @@
   "UI_RecordSelect_Tip_EnterGame_Title": "Enter the World",
   "UI_RecordSelect_Tip_LoadBackUp_Title": "Recover backups",
   "UI_RecordSelect_Tip_LoadBackUp_Content": "Revert saves to a chosen backup",
-  "UI_RecordSelect_Tip_DeleteRecord_Title": "Retire",
+  "UI_RecordSelect_Tip_DeleteRecord_Title": "Delete",
   "UI_RecordSelect_Tip_DeleteRecord_Content": "Delete the save file of this character...",
   "UI_RecordSelect_DeleteRecord_Confirm": "Are you sure you want to delete the save files for <color=#yellow>{0}</color>?\n\n<color=#red>This action is not reversible, please consider it carefully!</color>",
   "UI_MainMenu_VisitWebsite": "Visit https://www.conchship.com.cn/ for more information about the game",
