@@ -495,7 +495,7 @@ A serious wound to the Leg, that halves victim's Footwork bar. If the number of 
 Leg Injured
 A serious wound to the Leg, that halves victim's Footwork bar. If the number of External Injuries on the victim's Leg reaches 4, it will be considered to be destroyed, and this status will not be removed until the victim heals all the External Injuries on their Leg.
 White Forehead Snake
-White forehead snake - You played with a White Forehead snake every day, and are now immune to poison
+Spiritual snake with a white forehead, spiritual becomes real...\nOne time you've played with a white-headed spiritual snake in the Deep Valley, and since then you've been impervious to all kinds of poisons.\nYou receive a "White Forehead Snake" trait that greatly increases your Poison Resistance. This trait will always be inherited by your children.
 God helps good karma
 Nine lifetimes of reincarnation lead to great results, easy to make good karma, and full of children and grandchildren.
 Fu Shen Gui Xiang
