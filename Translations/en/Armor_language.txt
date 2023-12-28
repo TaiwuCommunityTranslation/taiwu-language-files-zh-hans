@@ -1046,7 +1046,7 @@ Thick Leather
 Animal's Fur
 Hard Leather
 Thick Feathers
-Animal feathers.
+Animal's Feathers.
 Jin Ling
 thick scales
 The scales of the animal.
