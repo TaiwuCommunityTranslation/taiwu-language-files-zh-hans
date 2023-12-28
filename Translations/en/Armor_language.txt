@@ -1048,7 +1048,7 @@ Hard Leather
 Thick Feathers
 Animal's Feathers.
 Golden Plume
-thick scales
+Thick Scales
 The scales of the animal.
 genus Scales
 Spirit Scales
