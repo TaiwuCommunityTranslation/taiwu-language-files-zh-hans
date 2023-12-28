@@ -1049,7 +1049,7 @@ Thick Feathers
 Animal's Feathers.
 Golden Plume
 Thick Scales
-The scales of the animal.
+Animal's Scales.
 genus Scales
 Spirit Scales
 Spirit scales from the top of a serpent's head.
