@@ -75,7 +75,7 @@
   "UI_NewGame_Tip_WorldPopulation": "Controls the maximum limit of concurrent NPCs in the game. The more NPCs there are, the more diverse the World of Taiwu will be. \n <color=#E3C66DFF>(Higher processing power is required for larger world population)</color> \n <color=#E4504DFF>(This option cannot be changed once the game starts!)</color>",
   "UI_NewGame_Toggle_1": "Name & Standpoint",
   "UI_NewGame_Toggle_2": "Gender & Appearance",
-  "UI_NewGame_Toggle_3": "Traits",
+  "UI_NewGame_Toggle_3": "Perks",
   "UI_NewGame_Toggle_4": "Place of Birth",
   "UI_NewGame_Toggle_5": "World Details",
   "UI_NewGame_WorldOverview": "World Overview",
