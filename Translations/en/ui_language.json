@@ -150,7 +150,7 @@
   "UI_NewGame_IconTip_BirthSolarTerm_Title": "Birth Month",
   "UI_NewGame_IconTip_BirthSolarTerm_Content": "Characters born in different months have different talents and abilities.",
   "UI_NewGame_BornAbility_Family": "Experience Perks",
-  "UI_NewGame_BornAbility_Wealth": "Assets Traits",
+  "UI_NewGame_BornAbility_Wealth": "Assets Perks",
   "UI_NewGame_BornAbility_Skill": "Talent Traits",
   "UI_NewGame_BornAbility_Selected": "Selected Traits",
   "UI_NewGame_ClearSelectedBornAbility": "Clear Selected Traits",
