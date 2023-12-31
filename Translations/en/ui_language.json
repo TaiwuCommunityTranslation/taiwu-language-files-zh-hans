@@ -149,7 +149,7 @@
   "UI_NewGame_BtnTip_GenderRevers_Content": "Appearance may differ from gender: Men that look like women, or women that look like men.",
   "UI_NewGame_IconTip_BirthSolarTerm_Title": "Birth Month",
   "UI_NewGame_IconTip_BirthSolarTerm_Content": "Characters born in different months have different talents and abilities.",
-  "UI_NewGame_BornAbility_Family": "Experience Traits",
+  "UI_NewGame_BornAbility_Family": "Experience Perks",
   "UI_NewGame_BornAbility_Wealth": "Assets Traits",
   "UI_NewGame_BornAbility_Skill": "Talent Traits",
   "UI_NewGame_BornAbility_Selected": "Selected Traits",
