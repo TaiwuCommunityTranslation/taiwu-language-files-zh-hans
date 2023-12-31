@@ -170,7 +170,7 @@
   "UI_NewGame_CreateTip_InvalidName": "Character's name may not contain numbers, spaces, or symbols",
   "UI_NewGame_CreateTip_IllegalName": "There are blocked characters in the character name, creation failed: {0}",
   "UI_NewGame_CreateTip_AbilityPoint": "There are still unused trait points, are you sure to enter the World of Taiwu?",
-  "UI_NewGame_CreateTip_AbilityPointError": "<color=#red>Too many traits have been selected, which exceeded available trait points, cannot start the game</color>",
+  "UI_NewGame_CreateTip_AbilityPointError": "<color=#red>Too many perks have been selected, which exceeded available perk points, cannot start the game</color>",
   "LK_Goodness_None": "No standpoint",
   "LK_Goodness_0": "<color=#BehaviorType_Just>Just</color>",
   "LK_Goodness_1": "<color=#BehaviorType_Kind>Kind</color>",
