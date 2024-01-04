@@ -389,7 +389,7 @@ Reclamation Stance
 Interrupt E·Style
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user adds 1 "None" to the enemy.
 Dark Jade Practice
-Significantly reduces the duration of Glazed markers on the user.
+Significantly reduces the duration of Daze markers on the user.
 Formation of Scattered Flowers
 User's teammates will more frequently be able to perform "Push" and "Pull" orders to push you forward or pull you back 1 distance.
 Rainbow Fairy Dress
@@ -684,8 +684,8 @@ Auto Cast Break
 During this Footwork, User's Swiftness will not be reduced by any effect; All buffs that increase Swiftness will be greatly improved; Any Break technique that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be automatically cast again for free after using.
 Luoshen's Riversteps
 Restore your momentum
-Adding a Glazed marker
-During this Footwork, whenever the user advances 2 distances: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, apply up to 3 Glazed Markers to the enemy based on the user's Charm.
+Adding a Daze marker
+During this Footwork, whenever the user advances 2 distances: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, apply up to 3 Daze Markers to the enemy based on the user's Charm.
 Feather Stance
 Cause Weak Point and Sealed Acupoint
 During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user advances, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
@@ -869,7 +869,7 @@ When this technique's damage gets Reflected, user transfers all of the Reflect d
 Overlord Spear\nof Dragon
 Attack enemy companions
 Cancel Received Markers
-When this technique reaches $0$0% completion, all of the enemy's teammates will take the same amount of damage as the enemy, and gain twice as many layers of this effects according to the number of External Injury and Fatal Wound markers enemy receives; Each layer of this effect will cancel out External Injury, Glazed, and Fatal Wound markers caused by direct damage by the enemy to the user.
+When this technique reaches $0$0% completion, all of the enemy's teammates will take the same amount of damage as the enemy, and gain twice as many layers of this effects according to the number of External Injury and Fatal Wound markers enemy receives; Each layer of this effect will cancel out External Injury, Daze, and Fatal Wound markers caused by direct damage by the enemy to the user.
 Emotions
 Improve Breath
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more user's Breath increases when attacking the enemy.
@@ -1205,7 +1205,7 @@ Plant Pre Gu
 Reduce Attack Accuracy
 When this technique reaches $0$0% completion, it will plant a Premature Red-eyed Gu on the enemy; the Premature Red-eyed Gu will make host's chance of hitting the enemy greatly reduced; Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Chi Demon\nGu Descent
-When this technique reaches $0$0% completion, it will plant a Premature Chi Demon Gu on the enemy; Premature Chi Demon Gu will add 1 Glazed marker to the host when host's Poison activates; Premature Chi Demon Gu needs to consume 2 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
+When this technique reaches $0$0% completion, it will plant a Premature Chi Demon Gu on the enemy; Premature Chi Demon Gu will add 1 Daze marker to the host when host's Poison activates; Premature Chi Demon Gu needs to consume 2 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Sinister Blood\nGu Descent
 Reduced treatment effect
 When this technique reaches $0$0% completion, it will plant the Premature Sinister Blood Gu on the enemy; Premature Sinister Blood Gu will greatly reduce host's "Healing" and "Detox" effects in battle; after each attack, Premature Sinister Blood Gu needs to consume 3 Gu charges from the host or the opponent, otherwise this Gu will die
@@ -2161,8 +2161,8 @@ When the distance between the user and the enemy is not less than 7, the further
 Reverse - Yinyang Eye
 Whenever the applicator starts to perform a technique, the more the enemy's performance speed is higher than the applicator's performance speed, the more the enemy's performance speed is reduced
 Reverse - The Great Dementor
-Freedom from the Glazed marker
-When defending with this technique: the user will not receive Glazed markers; if the enemy can receive Glazed markers, and the user's Breath is higher than the enemy's Focus, the Glazed markers applied to the user by the enemy will be applied to the enemy instead
+Freedom from the Daze marker
+When defending with this technique: the user will not receive Daze markers; if the enemy can receive Daze markers, and the user's Breath is higher than the enemy's Focus, the Daze markers applied to the user by the enemy will be applied to the enemy instead
 Reverse - Formation of 6 Men 6 Armor
 User's teammate's "Swap" and "Restrain" orders will work for a longer period of time.
 Reverse - Spell of Heavenly Spirit
@@ -2176,15 +2176,15 @@ Reverse - Pure Virgin
 The higher the user's Charm, the more the user's Focus will increase.
 Reverse - Reclamation Stance
 Applying a mind marker
-When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user applies 1 Glazed marker to the enemy
+When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user applies 1 Daze marker to the enemy
 Reverse - Dark Jade Practice
-Significantly increases the duration of Glazed markers on the enemy.
+Significantly increases the duration of Daze markers on the enemy.
 Reverse - Formation of Scattered Flowers
 When your teammate uses the「Push」or「Pull」commands, the user will be pushed and pulled farther.
 Reverse - Rainbow Fairy Dress
 Significantly reduce the duration of the enemy's "Quick" technique
 Reverse - Mirror Flower Water Moon
-When defending with this technique, the more Glazed markers the enemy receives, the higher the chance the user has of directly resolving the enemy's attack
+When defending with this technique, the more Daze markers the enemy receives, the higher the chance the user has of directly resolving the enemy's attack
 Reverse - Stance of Nuwa's Sky-Mending
 When defending with this technique: If the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's internal wound marks will return to the number at the beginning of the defense with this technique
 Reverse - Skillful Hands
@@ -2259,7 +2259,7 @@ When defending with this technique, whenever the user successfully counters an e
 Reverse - Silkworm Insanity
 For each type of Gu applied to the user, the user's random type of true qi will continue to increase by 1 point.
 Reverse - Ghost Included
-When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 Glazed marker to the enemy for every 2 Injuries the enemy has
+When defending with this technique, whenever the user defuses an enemy's non-chasing attack, the user applies 1 Daze marker to the enemy for every 2 Injuries the enemy has
 Reverse - Sky Snake Bone Exchange
 Invalidated by severe internal injuries
 The user's Internal Injuries will disappear over time; the user will not receive Fatal Wounds unless the attacked body part already has 4 Internal Injuries.
@@ -2302,7 +2302,7 @@ When defending with this technique: all direct Internal Damage taken by the user
 Reverse - Chaos Qi
 The more disturbed the user's internal breath is, the higher the direct internal injury caused by the user to the enemy
 Reverse - Ghost Cry
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, user's and enemy's Composure, Cleverness, Enthusiasm, Valour, and Fortitude are compared, and for each enemy's stat that is higher than the user's stat, the user will have a chance of applying a 1 Glazed marker to the enemy.
+When defending with this technique, whenever the user successfully counters an enemy's weapon attack, user's and enemy's Composure, Cleverness, Enthusiasm, Valour, and Fortitude are compared, and for each enemy's stat that is higher than the user's stat, the user will have a chance of applying a 1 Daze marker to the enemy.
 Reverse - Blood Meal
 Whenever the user inflicts 1 direct Internal Injury on the enemy, randomly eliminate 1 Internal Injury from user's body part with less than 4 Internal Injuries.
 Reverse - The Great Spell of Soul Exchange
@@ -2420,7 +2420,7 @@ Reverse - Skyscraper Climbing
 Increase your own dissolution
 When the enemy attacks the user during the duration of this Footwork, the user's defenses, except for Focus, will receive an additional portion of the user's Focus.
 Reverse - Farewell Steps
-During this Footwork, for every 6 successful hits on the enemy they will receive 1 Glazed marker.
+During this Footwork, for every 6 successful hits on the enemy they will receive 1 Daze marker.
 Reverse - Afterglow Catching
 During the duration of this Footwork, the enemy's casting speed is significantly reduced
 Reverse - Rushes To The Moon
@@ -2431,7 +2431,7 @@ Reverse - Lady Azure's Icesteps
 Increase Swiftness Debuff
 During this Footwork, Enemy's Swiftness will not be increased by any effect; All debuffs that decrease Swiftness will be greatly improved; Any Break technique that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be Sealed after using.
 Reverse - Luoshen's Riversteps
-During this Footwork, whenever the user retreats 2 distances: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, apply up to 3 Glazed Markers to the enemy based on the user's Charm.
+During this Footwork, whenever the user retreats 2 distances: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, apply up to 3 Daze Markers to the enemy based on the user's Charm.
 Reverse - Feather Stance
 During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user retreats, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Reverse - Wooden Track
@@ -2588,27 +2588,27 @@ When you start to perform this technique, if the enemy does not use the "Quick" 
 Reverse - Lion Spear of\nMadness Dragon
 When this technique's damage gets Reflected, user transfers all of the Reflect damage back to the enemy; After this technique reaches $0$0% completion, user gains 4 layers of this effect: When user isn't using a Footwork, the user can quickly accumulate power to retreat 2 distance at once without consumption
 Reverse - Overlord Spear\nof Dragon
-When this technique reaches $0$0% completion, all of the enemy's teammates will take the same amount of damage as the enemy, and gain twice as many layers of this effects according to the number of Internal Injury and Fatal Wound markers enemy receives; Each layer of this effect will cancel out Internal Injury, Glazed, and Fatal Wound markers caused by direct damage by the enemy to the user.
+When this technique reaches $0$0% completion, all of the enemy's teammates will take the same amount of damage as the enemy, and gain twice as many layers of this effects according to the number of Internal Injury and Fatal Wound markers enemy receives; Each layer of this effect will cancel out Internal Injury, Daze, and Fatal Wound markers caused by direct damage by the enemy to the user.
 Reverse - Emotions
 Reduce Enemy's Breath
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Breath decreases when attacking the user.
 Reverse - Crystal Tune
-When you start performing this technique, if the enemy doesn't have any Glazed markers, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 Glazed marker to the enemy, and if the enemy didn't have any Glazed markers, add 3 additional Glazed markers to the enemy.
+When you start performing this technique, if the enemy doesn't have any Daze markers, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 Daze marker to the enemy, and if the enemy didn't have any Daze markers, add 3 additional Daze markers to the enemy.
 Reverse - Heart-Breaking
 Reduce your mood
 When you start performing this technique, the worse the user's mood is, the more the power of this technique increases; When this technique reaches $0$0% completion, it randomly worsens enemy's Injuries based on how bad user's mood is; After performing this technique, based on completion percentage of this technique, a special debuff which reduces mood is applied to the user
 Reverse - Yellow Bamboo
-When this technique reaches $0$0% completion, user immediately performs another "Melody" technique of a rank related to the number of Glazed markers possessed by the enemy without any consumption; If the immediately performed technique is still this one, the Heterodox practice effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique greatly increases"
+When this technique reaches $0$0% completion, user immediately performs another "Melody" technique of a rank related to the number of Daze markers possessed by the enemy without any consumption; If the immediately performed technique is still this one, the Heterodox practice effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique greatly increases"
 Reverse - Xiang Lady Tears
 When you start to perform this technique, if the user has a deceased spouse, the higher the good sense of the user and the deceased spouse with the lowest good sense, the more the power of this technique will be increased, but if the good sense of the user and the deceased spouse with the lowest good sense is lower than enthusiasm, the power of this technique will be greatly reduced.
 Reverse - 3 Nights of Joy
 When you start to perform this technique: A part of the user's Charm is added to the user's Breath; if the enemy is female, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
 Reverse - Song of\nThe Moon
-When you start performing this technique: If the user doesn't have a teammate, the power of this technique will be greatly increased; If the user has a teammate, and the enemy doesn't, enemy will lose a large amount of True Qi equal to the portion of True Qi of 1 random teammate of the user; When this technique reaches $0$0% completion, add 3 Glazed markers to the enemy.
+When you start performing this technique: If the user doesn't have a teammate, the power of this technique will be greatly increased; If the user has a teammate, and the enemy doesn't, enemy will lose a large amount of True Qi equal to the portion of True Qi of 1 random teammate of the user; When this technique reaches $0$0% completion, add 3 Daze markers to the enemy.
 Reverse - Love Poem
 When you start to perform this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
 Reverse - Celestial Music\nof Goddess
-When you start attacking enemy with this technique, if the enemy has 6 or more Glazed markers, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's Glazed markers, and add them back to the enemy as Fatal Wound markers.
+When you start attacking enemy with this technique, if the enemy has 6 or more Daze markers, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's Daze markers, and add them back to the enemy as Fatal Wound markers.
 Reverse - Pure Lady's\nHidden Hand
 Ban style gain
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Hold" styles
@@ -2651,7 +2651,7 @@ Reverse - Hook Clamp
 Weak P. UP Ext. Dmg
 When this technique reaches $0$0% completion, attacking enemy's body part that has a Weak Point on it will increase direct Internal Damage dealt
 Reverse - 5 Mantra\n5 Phases
-When attacking enemy with this technique, the higher the user's Composure, Cleverness, Enthusiasm, Valour, and Fortitude than the enemy's, the more enemy's Resolve stats will be reduced; When this technique reaches $0$0% completion, if at least 3 of those instincts are higher than the enemy's, 2 Glazed markers will be applied to the enemy.
+When attacking enemy with this technique, the higher the user's Composure, Cleverness, Enthusiasm, Valour, and Fortitude than the enemy's, the more enemy's Resolve stats will be reduced; When this technique reaches $0$0% completion, if at least 3 of those instincts are higher than the enemy's, 2 Daze markers will be applied to the enemy.
 Reverse - Pivot Move
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy's "Break" technique reaches $1$0% completion, it's power gets greatly reduced. This effect lasts until that "Break" technique fails to reach $1$0% completion.
 Reverse - Clutch Finger
@@ -2685,7 +2685,7 @@ When this spell reaches $0$0% completion, user's Footwork and Stamina will be gr
 Reverse - Disable
 When this spell reaches $0$0% completion, 2 of the enemy's "Break" techniques that are not permanently Sealed will be "Sealed" for a short time; The power of "Sealed" techniques will be reduced, lasting until the enemy uses those techniques; After casting this spell, it will always be temporarily "Sealed".
 Reverse - Shocking Spell
-When this spell reaches $0$0% completion, and the enemy has no memory of this spell: If the enemy can escape, the higher the total sum of the user's Composure, Cleverness, Enthusiasm, Valour, and Fortitude, the higher the chance that the enemy will start escaping immediately; If the enemy cannot escape, the higher the sum of those stats of the user, the more Glazed markers will be added to the enemy.
+When this spell reaches $0$0% completion, and the enemy has no memory of this spell: If the enemy can escape, the higher the total sum of the user's Composure, Cleverness, Enthusiasm, Valour, and Fortitude, the higher the chance that the enemy will start escaping immediately; If the enemy cannot escape, the higher the sum of those stats of the user, the more Daze markers will be added to the enemy.
 Reverse - Summoning\nThunder
 When this spell reaches $0$0% completion, if enemy is equipped with a Weapon, Armor, or Accessory made out of Ore, the enemy will receive additional non-direct Internal Injuries on random body parts
 Reverse - Hexa-Jia Arcane\nBenediction
@@ -2856,7 +2856,7 @@ Plant Pre Gu
 Increase Attack Accuracy
 When this technique reaches $0$0% completion, it will plant a Premature Red-eyed Gu on the user; the Premature Red-eyed Gu will make host's chance of hitting the enemy greatly increased; Premature Red-eyed Gu needs to consume 3 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Reverse - Chi Demon\nGu Descent
-When this technique reaches $0$0% completion, it will plant a Premature Chi Demon Gu on the user; Premature Chi Demon Gu will add 1 Glazed marker to the enemy when host's Poison activates; Premature Chi Demon Gu needs to consume 2 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
+When this technique reaches $0$0% completion, it will plant a Premature Chi Demon Gu on the user; Premature Chi Demon Gu will add 1 Daze marker to the enemy when host's Poison activates; Premature Chi Demon Gu needs to consume 2 Gu charges from the host or the opponent after each attack, otherwise this Gu will die
 Reverse - Sinister Blood\nGu Descent
 Improving the effectiveness of treatment
 When this technique reaches $0$0% completion, it will plant the Premature Sinister Blood Gu on the user; Premature Sinister Blood Gu will greatly increase host's "Healing" and "Detox" effects in battle; after each attack, Premature Sinister Blood Gu needs to consume 3 Gu charges from the host or the opponent, otherwise this Gu will die
@@ -3312,10 +3312,10 @@ When you start to perform this technique, if the Karma of the user is higher tha
 Reverse - Imperial\nConcubine
 When you start performing this technique, all of enemy's True Qi that is above the initial value will be reduced by 1 point; When this technique reaches $0$0% completion, all of enemy's True Qi that is above the initial value will again be reduced by a maximum of 2 points.
 Reverse - Flowers Sigh
-When this technique reaches $0$0% completion, it removes 1 strongest buff from the enemy. Depending on the strength of the removed buff. it also removes a large amount of Glazed markers from the user.
+When this technique reaches $0$0% completion, it removes 1 strongest buff from the enemy. Depending on the strength of the removed buff. it also removes a large amount of Daze markers from the user.
 Reverse - Burydeer Orchid
-Elimination of Glazed markers
-When you start performing this technique, the more Glazed markers user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will remove 2 Glazed markers from the user.
+Elimination of Daze markers
+When you start performing this technique, the more Daze markers user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will remove 2 Daze markers from the user.
 Reverse - The World\nAmused
 When this technique reaches $0$0% completion, it will randomly greatly reduce the power of 1 "Break", 1 "Quick", 1 "Aegis" and 1 "Nadis" techniques of the enemy that haven't been weakened by this technique yet, lasting until the end of the battle.
 Reverse - Wudang\nLong Fist
@@ -3613,7 +3613,7 @@ Random assignment of injuries
 At the end of this divine defense, Jin Huang'er's Injuries will be evenly distributed across all of her body parts, and she will remove all Injuries from the body parts with the most Injuries
 Heart flower and start a dream
 Change of defeat markers
-When defending with this divine power, Yi Yihou is protected from "Weak Points" and "Sealed Acupoints", and all defeat marks received will turn into Glazed markers.
+When defending with this divine power, Yi Yihou is protected from "Weak Points" and "Sealed Acupoints", and all defeat marks received will turn into Daze markers.
 Skeleton armor
 When defending with this divine power, all direct damage received by Wei Qi will change to the loss of defense duration
 Resting Earth Devouring Spirit
@@ -3671,7 +3671,7 @@ The blessing and the curse are two sides of the same coin!
 The "Fortunate Signs of Heaven" cannot be blocked; when the Dainty Duster calls forth the divine swords "Great Xuan Ning" and "Phoenix Cocoon", all of his Inhale and Stance will be restored immediately; thereafter, the Dainty Duster's Inhale and Stance will not be reduced for any reason until the Dainty Duster calls forth other divine swords. After that, the Dyeing Duster's Inhale and Stance will not be reduced for any reason and will continue until the Dyeing Duster calls for another divine sword.
 Idiot
 Resentment arises from greed and anger!
-"Idiot" cannot be blocked; when Ran Chenzi uses divine swords "Spirit Smelting", "Draconic Anima", and "Infernal Acerjail", all the defeat markers on himself will immediately change into Glazed markers; After that, all the defeat marks received by Ran Chenzi will be changed into the Glazed markers, which lasts until Ran Chenzi uses other divine swords
+"Idiot" cannot be blocked; when Ran Chenzi uses divine swords "Spirit Smelting", "Draconic Anima", and "Infernal Acerjail", all the defeat markers on himself will immediately change into Daze markers; After that, all the defeat marks received by Ran Chenzi will be changed into the Daze markers, which lasts until Ran Chenzi uses other divine swords
 Ten generations of one
 Ten lifetimes to one!
 "Ten lifetimes of one person" cannot be blocked; after Dyeing Dusty calls out the divine sword "Ghost God Xia", he cannot be defeated and will immediately perform the divine power "Nine Swords - Ghost God Xia" without consumption
@@ -3755,8 +3755,8 @@ fox hunting
 While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, Yi Yihou adds 3 "None" styles to the enemy; When this divine power reaches $0$0% completion, Yi Yihou adds 3 "None" styles to the enemy.
 While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 3 "None" styles to the enemy; When this divine power reaches $0$0% completion, user adds 3 "None" styles to the enemy.
 the waning fox cries
-If the enemy is within the range of Yi Yi Hou's attack while this power is being applied: Continuously add a Glazed markers to the enemy; Continuously remove enemy's styles
-If the enemy is within the attack range of the user during the application of this power: Continuously add a Glazed markers to the enemy; Continuously remove enemy's styles
+If the enemy is within the range of Yi Yi Hou's attack while this power is being applied: Continuously add a Daze markers to the enemy; Continuously remove enemy's styles
+If the enemy is within the attack range of the user during the application of this power: Continuously add a Daze markers to the enemy; Continuously remove enemy's styles
 Four Elephant Blood and Fire Technique
 When this divine power reaches $0$0% completion, damage of this technique will be dealt to 2 body parts of the enemy
 return to the foxes
@@ -3818,7 +3818,7 @@ Transferring your old wounds
 When starting to perform this divine power, the more Old Injuries Xue Feng has on his body, the more the power of this divine power will increase; When this divine power reaches $0$0% completion, Xue Feng will randomly transfer up to 8 Old Injuries from his body to the enemy or their teammates
 Kunlun Twelve Golden Immortal Order
 Injuries cannot be increased
-When starting to perform this divine power, Shu Fang gains 12 levels of this effect: The direct damage dealt by enemies to Shu Fang cannot be increased by any effect, and the number of levels of this effect is reduced by 1 every time an enemy inflicts at least 3 Glazed markers on Shu Fang
+When starting to perform this divine power, Shu Fang gains 12 levels of this effect: The direct damage dealt by enemies to Shu Fang cannot be increased by any effect, and the number of levels of this effect is reduced by 1 every time an enemy inflicts at least 3 Daze markers on Shu Fang
 When starting to perform this divine power, user gains 12 levels of this effect: The direct damage dealt by enemies to the user cannot be increased by any effect, and the number of levels of this effect is reduced by 1 every time an enemy inflicts at least 3 Glazed markers on the user
 Celestial Eye Technique
 When you start to perform this divine power, the artist increases the power of 2 of his own techniques cumulatively until the end of the battle
@@ -3828,7 +3828,7 @@ Weakening enemy attributes
 When this divine power starts to be applied, the operator will eliminate the enemy's "Aegis" and "Quick" techniques, and the enemy's total 3 "Aegis", "Quick", and "Nadis" techniques will be "blocked" for a long time; until the end of this divine power, all the enemy's secondary attributes will be changed to the minimum.
 Kunlun Twelve Evil Immortal Order
 Injuries cannot be reduced
-When starting to perform this divine power, Shu Fang gains 12 levels of this effect: The direct damage dealt by Shu Fang to the enemies cannot be decreased by any effect, and the number of levels of this effect is reduced by 1 every time Shu Fang inflicts at least 3 Glazed markers on the enemy
+When starting to perform this divine power, Shu Fang gains 12 levels of this effect: The direct damage dealt by Shu Fang to the enemies cannot be decreased by any effect, and the number of levels of this effect is reduced by 1 every time Shu Fang inflicts at least 3 Daze markers on the enemy
 When starting to perform this divine power, user gains 12 levels of this effect: The direct damage dealt by the user to the enemies cannot be decreased by any effect, and the number of levels of this effect is reduced by 1 every time user inflicts at least 3 Glazed markers on the enemy
 Magic Pupil
 When this divine power starts, the magic side accumulates 4 techniques of power reduction of the enemy and lasts until the end of the battle
@@ -3923,14 +3923,14 @@ Six - Seven - Eight Swords
 Transferring the Disorientation Marker
 Greed, Anger and Dementia - Solution
 Greed, Anger and Dementia - Robbery
-When starting to perform this divine power, the more Glazed markers Ran Chenzi has, the more the power of this divine power increases; When this divine power reaches $0$0% completion, Ran Chenzi transfers up to 6 Glazed markers from himself to the enemy
-When Xue Feng, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Ran Chenzi starts to perform this divine power, the enemy removes 2 Glazed markers
-When Xue Feng, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Ran Chenzi begins to perform this divine power, the enemy gains 2 Glazed markers
+When starting to perform this divine power, the more Daze markers Ran Chenzi has, the more the power of this divine power increases; When this divine power reaches $0$0% completion, Ran Chenzi transfers up to 6 Daze markers from himself to the enemy
+When Xue Feng, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Ran Chenzi starts to perform this divine power, the enemy removes 2 Daze markers
+When Xue Feng, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Ran Chenzi begins to perform this divine power, the enemy gains 2 Daze markers
 Nine Swords - Ghost God Xia
 
 Technique formula - solution
 Art side - robbery
-This divine power cannot be blocked or interrupted; the attack range of this divine power is always the maximum; during the execution of this divine power, Ran Chenzi can move and attack; there is no upper limit to the Glazed markers caused by this divine power; at the end of the execution of this divine power, if the enemy is not defeated, Ran Chenzi will be defeated in battle
+This divine power cannot be blocked or interrupted; the attack range of this divine power is always the maximum; during the execution of this divine power, Ran Chenzi can move and attack; there is no upper limit to the Daze markers caused by this divine power; at the end of the execution of this divine power, if the enemy is not defeated, Ran Chenzi will be defeated in battle
 When the art party completes the chapter of the solution, the time to perform the divine power is reduced by 50% when Dye Dusty starts to perform this divine power.
 When the art party completes the chapter of robbery and the dyed-in-the-wool son starts to cast this divine power, the casting time of the divine power is increased by 50%
 Sundered Flesh and Bone
@@ -3964,8 +3964,8 @@ Burning Blood
 Poison Inflicts Weak Points
 If the character is simultaneously affected by Acritoxin, Pyrotoxin, and Cryotoxin markers, when Acritoxin, Pyrotoxin, and Cryotoxin activates, based on the number of Acritoxin, Pyrotoxin, and Cryotoxin markers, the character has a chance to suffer 1 random old External Injury, if no old External Injury is caused, the character gain 1 Weak Point instead. The more Acritoxin, Pyrotoxin, and Cryotoxin markers there is, the more times this toxin effect can be activated in battle.
 Sundered Essence
-Poison Inflicts Glazed
-If the character is simultaneously affected by Umbritoxin, Cryotoxin, and Oneirotoxin markers, when Umbritoxin and Cryotoxin activates, based on the number of Oneirotoxin markers, the character receives a number of Glazed markers. The more Umbritoxin, Cryotoxin, and Oneirotoxin markers there is, the more times this toxin effect can be activated in battle.
+Poison Inflicts Daze
+If the character is simultaneously affected by Umbritoxin, Cryotoxin, and Oneirotoxin markers, when Umbritoxin and Cryotoxin activates, based on the number of Oneirotoxin markers, the character receives a number of Daze markers. The more Umbritoxin, Cryotoxin, and Oneirotoxin markers there is, the more times this toxin effect can be activated in battle.
 Sealed Marrow
 Poison Skill Backlash
 If the character is simultaneously affected by Umbritoxin, Cryotoxin, and Necrotoxin markers, when Umbritoxin and Cryotoxin activates, based on the number of Necrotoxin markers, the character receives backlash damage from a random number of skills. The more Umbritoxin, Cryotoxin, and Necrotoxin markers there is, the more times this toxin effect can be activated in battle.
