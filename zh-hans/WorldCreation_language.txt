@@ -36,8 +36,8 @@
 <color=#pinkyellow>停止</color>
 <color=#FFE78FFF>较快</color>
 <color=#FF5331FF>极快</color>
-世界的状况
-繁荣的世界将有利于太吾的发展。\n但即使是最荒芜的世界，也能够逐渐恢复生机。\n<color=#E3C66DFF>（世界的状况直接影响着世界中各个地点的各类资源的恢复量；在桃源难度下，采集资源时的资源收获量也会有所不同。）</color>
+世界的资源
+繁荣的世界将有利于太吾的发展。\n但即使是最荒芜的世界，也能够逐渐恢复生机。\n<color=#E3C66DFF>（世界的资源直接影响着世界中各个地点的各类资源的恢复量、太吾村的收益、售卖道具的收益、世人的持有资源等；在桃源难度下，采集资源时的资源收获量也会有所不同。）</color>
 <color=#pinkyellow>桃源</color>
 <color=#FFE78FFF>贫瘠</color>
 <color=#FF5331FF>荒芜</color>
@@ -57,3 +57,6 @@
 <color=#9FE0DCFF>较高</color>
 <color=#FFE78FFF>极高</color>
 <color=#FF5331FF>精通</color>
+人情的变化
+人与人之间好感度变化的难度。\n<color=#E3C66DFF>（变化难度越大，他人对你的好感累积就越困难。）</color>
+<color=#FF5331FF>刻薄</color>

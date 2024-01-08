@@ -407,7 +407,7 @@
 想来与故人缘分未尽，仍有重逢之时……
 血犼掘墓
 前往<color=#orange>血犼教</color>附近挖坟掘墓
-前往<color=#orange>血犼教</color>附近，挖掘血犼弟子坟墓，以探查鬼怪之事。
+前往<color=#orange>血犼教</color>附近，与任意<color=#orange>血犼弟子的坟墓</color>互动，进行<color=#orange>「摸金倒斗」</color>，以探查鬼怪之事。
 血犼谷鬼怪传闻，殊为妖异，当前往探查一番……
 破旧铃铛
 留在<color=#orange>血犼谷</color>
@@ -902,7 +902,7 @@
 <color=#orange>前往狮相门</color>寻找门主商议狮相谣言之事。
 流言蹊跷，不如前往狮相门尽快与门主商议……
 <color=#orange>修习</color>璇女功法
-将筠儿传授的璇女功法<color=#orange>{0}</color>修习度提升至100%后，前往一明珏<color=#orange>寻找筠儿入境修习</color>。
+将筠儿传授的璇女功法<color=#orange>{0}</color>修习度提升至100%后，前往一明珏<color=#orange>寻找筠儿入镜修习</color>。
 筠儿姑娘所授功法，自当勤加修炼，不负拳拳之心……
 天意弄人
 返回璇女峰<color=#orange>寻找筠儿</color>
@@ -951,3 +951,17 @@
 等候<color=#orange>石候酒</color>归来
 石候酒已不在旧地，<color=#orange>等候</color>其归来。
 石候酒的态度似有变化，改日再来一探……
+追随伏虞
+跟上<color=#orange>伏虞剑柄</color>
+移动至<color=#orange>伏虞剑柄</color>所在地格。
+不可，不可再丢失了伏虞……
+捡拾行囊
+捡拾委弃的<color=#orange>行囊</color>
+前往太吾村所在地区，移动至<color=#orange>「还珠返璧」</color>图标所在地格，点击图标，以捡拾委弃的<color=#orange>行囊</color>。
+太吾旧地，似乎尚存未解之缘……
+取回技艺
+取回祛除的<color=#orange>技艺</color>
+前往太吾村所在地区，移动至<color=#orange>「重温旧艺」</color>图标所在地格，点击图标，以取回祛除的<color=#orange>技艺</color>。
+重获功法
+重获废去的<color=#orange>功法</color>
+前往太吾村所在地区，移动至<color=#orange>「鉴往知来」</color>图标所在地格，点击图标，以重获废去的<color=#orange>功法</color>。
