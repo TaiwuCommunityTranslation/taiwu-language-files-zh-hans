@@ -360,3 +360,62 @@ Corrupted Blood
 Bitter Suffering
 
 
+Controlling Monkey
+Because of controlling a Monkey, the effects that increase the power of user's skills will be strengthened, and the effects that reduce the power of user's skills will be weakened.
+Controlling Monkey: <color=#brightblue>The effects that increase the power of user's skills will be strengthened, and the effects that reduce the power of user's skills will be weakened</color>.
+Controlling Eagle
+Because of controlling an Eagle, the farther the enemy is from the user, the higher the user's chance of hitting enemy's vital points.
+Controlling Eagle: <color=#brightblue>The farther the enemy is from the user, the higher the user's chance of hitting enemy's vital points</color>.
+Controlling Boar
+Because of controlling a Boar, the closer the enemy is to the user, the higher the user's chance of hitting enemy's vital points.
+Controlling Boar: <color=#brightblue>The closer the enemy is to the user, the higher the user's chance of hitting enemy's vital points</color>.
+Controlling Brown Bear
+Because of controlling a Brown Bear, direct Fatal Wound damage dealt by the user will be increased; Direct Fatal Wound damage dealt by the enemy will be decreased.
+Controlling Brown Bear: <color=#brightblue>Direct Fatal Wound damage dealt by the user will be increased; Direct Fatal Wound damage dealt by the enemy will be decreased</color>.
+Controlling Buffalo
+Because of controlling a Buffalo, user's Reflect power is increased.
+Controlling Buffalo: <color=#brightblue>User's Reflect power is increased</color>.
+Controlling Huge Snake
+Because of controlling a Huge Snake, effect of user's Healing and Detox will be increased; Effect of enemy's Healing and Detox will be decreased.
+Controlling Huge Snake: <color=#brightblue>Effect of user's Healing and Detox will be increased; Effect of enemy's Healing and Detox will be decreased</color>.
+Controlling Leopard
+Because of controlling a Leopard, user's Counter power is increased.
+Controlling Leopard: <color=#brightblue>User's Counter power is increased</color>.
+Controlling Lion
+Because of controlling a Lion, the effect of user's depletion of enemy's Footwork, Stamina, Inhale, and Stance will be increased; The effect of enemy's depletion of user's Footwork, Stamina, Inhale, and Stance will be decreased.
+Controlling Lion: <color=#brightblue>The effect of user's depletion of enemy's Footwork, Stamina, Inhale, and Stance will be increased; The effect of enemy's depletion of user's Footwork, Stamina, Inhale, and Stance will be decreased</color>.
+Controlling Tiger
+Because of controlling a Tiger, the damage of user's attacks in a follow-up attack will gradually increase until the follow-up attack ends.
+Controlling Tiger: <color=#brightblue>The damage of user's attacks in a follow-up attack will gradually increase until the follow-up attack ends</color>.
+Controlling Spiritual Monkey
+Because of controlling a Spiritual Monkey, the effects that increase the power of user's skills will be strengthened, and the effects that reduce the power of user's skills will be weakened.
+Controlling Spiritual Monkey: <color=#brightblue>The effects that increase the power of user's skills will be strengthened, and the effects that reduce the power of user's skills will be weakened</color>.
+Controlling Golden Roc
+Because of controlling a Golden Roc, the farther the enemy is from the user, the higher the user's chance of hitting enemy's vital points.
+Controlling Golden Roc: <color=#brightblue>The farther the enemy is from the user, the higher the user's chance of hitting enemy's vital points</color>.
+Controlling Black Hog
+Because of controlling a Black Hog, the closer the enemy is to the user, the higher the user's chance of hitting enemy's vital points.
+Controlling Black Hog: <color=#brightblue>The closer the enemy is to the user, the higher the user's chance of hitting enemy's vital points</color>.
+Controlling White Bear
+Because of controlling a White Bear, direct Fatal Wound damage dealt by the user will be increased; Direct Fatal Wound damage dealt by the enemy will be decreased.
+Controlling White Bear: <color=#brightblue>Direct Fatal Wound damage dealt by the user will be increased; Direct Fatal Wound damage dealt by the enemy will be decreased</color>.
+Controlling Wild Ox
+Because of controlling a Wild Ox, user's Reflect power is increased.
+Controlling Wild Ox: <color=#brightblue>User's Reflect power is increased</color>.
+Controlling Ba Python
+Because of controlling a Ba Python, effect of user's Healing and Detox will be increased; Effect of enemy's Healing and Detox will be decreased.
+Controlling Ba Python: <color=#brightblue>Effect of user's Healing and Detox will be increased; Effect of enemy's Healing and Detox will be decreased</color>.
+Controlling Black Panther
+Because of controlling a Black Panther, user's Counter power is increased.
+Controlling Black Panther: <color=#brightblue>User's Counter power is increased</color>.
+Controlling Golden Lion
+Because of controlling a Golden Lion, the effect of user's depletion of enemy's Footwork, Stamina, Inhale, and Stance will be increased; The effect of enemy's depletion of user's Footwork, Stamina, Inhale, and Stance will be decreased.
+Controlling Golden Lion: <color=#brightblue>The effect of user's depletion of enemy's Footwork, Stamina, Inhale, and Stance will be increased; The effect of enemy's depletion of user's Footwork, Stamina, Inhale, and Stance will be decreased</color>.
+Controlling White Tiger
+Because of controlling a White Tiger, the damage of user's attacks in a follow-up attack will gradually increase until the follow-up attack ends.
+Controlling White Tiger: <color=#brightblue>The damage of user's attacks in a follow-up attack will gradually increase until the follow-up attack ends</color>.
+7 Wheel Induction
+Slowly continuously increases random types of True Qi
+
+Slowly continuously reduces random types of True Qi
+
