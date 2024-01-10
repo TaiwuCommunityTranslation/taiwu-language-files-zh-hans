@@ -36,8 +36,8 @@ Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean 
 <color=#pinkyellow>Stop</color>
 <color=#FFE78FFF>Fast</color>
 <color=#FF5331FF>Extreme</color>
-World Condition
-A prosperous world will benefit the development of Taiwu.\nBut even the most barren world can gradually recover.\n<color=#E3C66DFF>(The world condition directly affects the recover speed of all kinds of resources in the world; The amount of resources gathered are likely to be different every time even in Wonderland world condition.)</color>
+World's Resources
+A prosperous world will be conducive to Taiwu's development.\nBut even the most desolate world can gradually come back to life.\n<color=#E3C66DFF>(The World's Resources directly affect the recovery amount of various resources in various locations in the world, the income of Taiwu Village, the income of selling items, the resources held by the world, etc.; In Wonderland difficulty, the amount of resources gained when collecting resources will also be different.)</color>
 <color=#pinkyellow>Wonderland</color>
 <color=#FFE78FFF>Barren</color>
 <color=#FF5331FF>Desolate</color>
@@ -57,3 +57,6 @@ Determines enemies' skill practice percentage, and how many chapters of a skill 
 <color=#9FE0DCFF>High</color>
 <color=#FFE78FFF>Extreme</color>
 <color=#FF5331FF>Master</color>
+Favor Change
+The difficulty of changing Favor between people. \n<color=#E3C66DFF>(The more difficult it is, the more difficult it is for others to accumulate Favor towards you.)</color>
+<color=#FF5331FF>Harsh</color>
