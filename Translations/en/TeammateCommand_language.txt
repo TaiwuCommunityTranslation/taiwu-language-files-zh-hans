@@ -32,16 +32,16 @@ Break
 Can use「Break」order to attack enemy with a "Break" technique with increased power.
 Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve stats and swap with the main fighter for a short period of time. <color=#brightblue>When boosted by Lion War Drum, the ATK, Defense, Accuracy, and Resolve stat increases will be higher.</color>
 Can use「Haste」order to increase cast progress of the main fighter's skill. <color=#brightblue>When boosted by Lion War Drum, the increase in cast progress will be higher.</color>
-Can use「Push」order to bring main fighter closer to the opponent. <color=#brightblue>When boosted by Lion War Drum, its cooldown will be increased, but it will only go on cooldown every 2nd use.</color>
-Can use「Pull」order to bring main fighter away from the opponent. <color=#brightblue>When boosted by Lion War Drum, its cooldown will be increased, but it will only go on cooldown every 2nd use.</color>
+Can use「Push」order to bring main fighter closer to the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color></color> <color=#brightred>but its cooldown will be increased.</color>
+Can use「Pull」order to bring main fighter away from the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color> <color=#brightred>but its cooldown will be increased.</color>
 Can use「Attack」order to attack the enemy. <color=#brightblue>When boosted by Lion War Drum, will also inflict a Weak Point on the enemy.</color>
 Can use「Defend」order to protect main fighter using "Aegis" technique with increased power against enemy's attacks. <color=#brightblue>When boosted by Lion War Drum, the power increase of the Aegis technique will be higher.</color>
 Can use「Heal」order to use Healing on the main fighter. <color=#brightblue>When boosted by Lion War Drum, this order will be finished much faster.</color>
 Can use「Detox」order to use Detox on the main fighter. <color=#brightblue>When boosted by Lion War Drum, this order will be finished much faster.</color>
-Can use「Mend」order to remove Weak Points from the main fighter. <color=#brightblue>When boosted by Lion War Drum, its cooldown will be higher, but it will remove more Weak Points.</color>
-Can use「Release」order to remove Sealed Acupoints from the main fighter. <color=#brightblue>When boosted by Lion War Drum, its cooldown will be higher, but it will remove more Sealed Acupoints.</color>
-Can use「Guide」order to increase main fighter's Might, Finesse, and Swiftness for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its duration will be shorter, but its effect will be stronger.</color>
-Can use「Warn」order to increase main fighter's Diversion, Parry, and Evasion for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its duration will be shorter, but its effect will be stronger.</color>
-Can use「True Qi」order to transfer their own True Qi to the main fighter. <color=#brightblue>When boosted by Lion War Drum, its cooldown will be longer, but its effect will be stronger.</color>
+Can use「Mend」order to remove Weak Points from the main fighter. <color=#brightblue>When boosted by Lion War Drum, it will remove more Weak Points,</color> <color=#brightred>but its cooldown will be longer.</color>
+Can use「Release」order to remove Sealed Acupoints from the main fighter. <color=#brightblue>When boosted by Lion War Drum, it will remove more Sealed Acupoints,</color> <color=#brightred>but its cooldown will be longer.</color>
+Can use「Guide」order to increase main fighter's Might, Finesse, and Swiftness for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its duration will be shorter.</color>
+Can use「Warn」order to increase main fighter's Diversion, Parry, and Evasion for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its duration will be shorter.</color>
+Can use「True Qi」order to transfer their own True Qi to the main fighter. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its cooldown will be longer.</color>
 Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its duration will be greatly increased.</color>
 Can use「Break」order to attack enemy with a "Break" technique with increased power. <color=#brightblue>When boosted by Lion War Drum, the power increase of the Break technique will be higher.</color>
