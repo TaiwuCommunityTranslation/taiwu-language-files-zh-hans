@@ -1193,7 +1193,7 @@
   "LK_Taiwu_BuildingSpaceLimit": "Free Space Limit: {0}/{1}",
   "LK_Taiwu_BuildingSpaceLeft": "Free Space Left: {0}",
   "LK_TeaHorse_Weather": "Weather: {0}",
-  "LK_TeaHorse_Awareness": "Awareness: {0}",
+  "LK_TeaHorse_Awareness": "Reputation: {0}",
   "LK_TeaHorse_Distance": "(Departed {0} when the distance to Taiwu Village is {1})",
   "LK_TeaHorse_Replenishment": "Tea Caravan Supplies: \n{0}/{1}({2}/month)",
   "LK_TeaHorse_LoseProb": "Chance For Loss Goods: \n{0}/month",
