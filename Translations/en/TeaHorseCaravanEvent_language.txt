@@ -1,19 +1,19 @@
 Encounter a mirage
-Encountered a mirage, leading to a rise in popularity
+Encountering a mirage, Reputation increased
 Discover Savage
-Discovered a savage, leading to a rise in popularity
+Savage discovered, Reputation increased
 Discover Animals
-Discovered animals, leading to a rise in popularity
+Rare animals discovered, Reputation increased
 Discover Plants
-Discovered plants, leading to a rise in popularity
+Rare plants discovered, Reputation increased
 Report Back
-Reported back, leading to a rise in popularity
+The experiences were reported back, Reputation increased
 Discover a settlement
-Discovered a settlement, leading to a rise in popularity
+A settlement was discovered, Reputation increased
 Read the weather
-Read the weather, leading to a rise in popularity
+Encountered rare weather, Reputation increased
 Got Lost
-Got lost, leading to a loss of popularity
+Got lost, Reputation decreased
 Encounter thieves
 Encountered thieves, some goods were lost
 Hit a pothole
