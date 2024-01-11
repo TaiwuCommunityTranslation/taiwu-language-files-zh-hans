@@ -2873,7 +2873,7 @@ Improving the effectiveness of treatment
 At the start of the battle, the user gains 6 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Sinister Blood Gu; Premature Sinister Blood Gu will greatly increase the effects of host's "Healing", "Detox", and "Use Medicine" in battle; Premature Sinister Blood Gu needs to consume 6 Gu Charges from the host or the enemy after every trigger, otherwise it will die
 Reverse - Internal Demon\nDescent
 Additional increase of true qi
-When this technique reaches $0$0% completion, it implants the user with a tamed Premature Internal Demon Gu; Premature Internal Demon Gu will increase host's random True Qi by 1 point whenever host's True Qi gets increased, and will cause the user to obtain Gu Charges based on the original True Qi increase, up to a maximum of 90 Gu Charges.
+When this technique reaches $0$0% completion, it implants the user with a tamed Premature Internal Demon Gu; The Premature Internal Demon Gu will increase host's random True Qi by 1 point whenever host's True Qi gets increased, and will cause the user to obtain Gu Charges based on the original True Qi increase, up to a maximum of 90 Gu Charges.
 Reverse - 9 Yin Zombie Gu
 Reduce Break Damage
 At the start of the battle, the user gains 12 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Zombie Gu; Premature Zombie Gu will greatly reduce direct damage taken by the host from "Break" techniques; Premature Zombie Gu needs to consume 12 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
