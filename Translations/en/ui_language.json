@@ -3823,7 +3823,7 @@
   "LK_MouseTips_CarrierDriveBeastTitle": "【Drive Beast】",
   "LK_Relation_Groom": "Groom",
   "LK_Relation_Bride": "Bride",
-  "LK_SearchChar_Placeholder": "Enter a name or identity to find…",
+  "LK_SearchChar_Placeholder": "Enter a name/identity to search...",
   "Event_ItemGot_Notify_Title": "Gained An Item",
   "Event_ItemGot_Notify_Content": "Obtained \n{0}",
   "EventEditor_Error_DuplicateGroupKey": "Duplicate event group Key appears: {0}",
