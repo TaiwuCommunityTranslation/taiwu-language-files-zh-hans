@@ -2812,7 +2812,7 @@
   "LK_Block_Tip_SubTitle": "【{0}: {1}】",
   "LK_SwordTomb": "Swords Collection",
   "LK_Adventure": "Adventure",
-  "LK_Block_Tip_Caravan_Move_Desc": "\nWill move to <color=#pinkyellow>【{1}】</color> in <color=#pinkyellow>{0}</color> days",
+  "LK_Block_Tip_Caravan_Move_Desc": "Will move to <color=#pinkyellow>【{1}】</color> in <color=#pinkyellow>{0}</color> days",
   "LK_Block_Tip_Caravan_Stay_Desc": "<color=#pinkyellow> {0} </color> Leave after days <color=#pinkyellow>【{1}】</color>",
   "LK_Dispatch_Type_Resource": "Collect Resources",
   "LK_Dispatch_Type_Grave": "Guarding the Grave",
