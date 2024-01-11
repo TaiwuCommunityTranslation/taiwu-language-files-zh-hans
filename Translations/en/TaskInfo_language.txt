@@ -407,7 +407,7 @@ Go to <color=#orange>「Kongsang Mountain」</color> and enter <color=#orange>�
 I think the fate with the old friend is not over, there is still a time to meet again...
 Bloody Grave Digger
 Go to <color=#orange>Bloodhound Cult</color> and start digging graves and tombs nearby
-Go near the vicinity of <color=#orange>Bloodhound Cult</color>, and dig the tombs of Blood Sect disciples to find out about ghosts.
+Go to <color=#orange>Bloodhound Cult</color>, and interact with any <color=#orange>Bloodhound Cult disciples</color> to conduct <color=#orange>「Grave digging」</color>，and scout out the ghost problem.
 There are strange rumors of ghosts in the Blood Hou Valley, maybe i should go and investigate...
 Broken Bell
 Go to <color=#orange>Blood Hou Valley</color>
@@ -902,7 +902,7 @@ Discuss Rumors
 <color=#orange>Visit Lion-Face Clan</color> and find their Sect Master to discuss rumors about Lion Face.
 The rumors are strange, it is better to go to the Lion-Face Clan to discuss with the Sect Master as soon as possible...
 <color=#orange>Practice</color> Xuannyu skills
-After you practice <color=#orange>{0}</color> taught to you by Yun'er to 100%, go to the Jade Mirror and <color=#orange>look for Yun'er to enter the mirror for practice</color>.
+After you practice the Xuannyu technique <color=#orange>{0}</color> taught to you by Yun'er to 100%, go to the Jade Mirror and <color=#orange>look for Yun'er to enter the mirror for practice</color>.
 Young Lady Yun'er taught me this technique, so i will practice it earnestly to live up to her expectations...
 Heaven's Will is Unpredictable
 Return to Xuannyu Peak <color=#orange>to look for Yun'er</color>
@@ -951,3 +951,17 @@ Wait for Little Shi
 Wait for <color=#orange>Shi Houjiu's</color> return
 Shi Houjiu is not in his old place. <color=#orange>Wait</color> for his return.
 Shi Houjiu's attitude seems to have changed. Let's check on him another day...
+Follow Fuyu
+Catch up with the <color=#orange>Fuyu Hilt</color>
+Move to the location of <color=#orange>Fuyu Hilt</color>.
+No... no... I cannot lose the Fuyu again...
+Pick up Luggage
+Pick up abandoned <color=#orange>Luggage</color>
+Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the abandoned <color=#orange>Luggage</color>.
+There seems to be an unresolved fate in Taiwu’s old land...
+Retrieve Fine Arts
+Retrieve dispelled <color=#orange>Fine Arts</color>
+Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the dispelled <color=#orange>Fine Arts</color>.
+Recover Martial Arts
+Recover abolished <color=#orange>Martial Arts</color>
+Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the dispelled <color=#orange>Martial Arts</color>.
