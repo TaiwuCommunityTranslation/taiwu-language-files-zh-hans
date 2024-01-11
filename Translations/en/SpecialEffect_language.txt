@@ -1217,7 +1217,7 @@ Additional loss of true qi
 When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Internal Demon Gu; The Premature Internal Demon Gu will reduce host's random True Qi by 1 point whenever host's True Qi gets reduced, and will cause their opponent to obtain Gu Charges based on the original True Qi reduction, up to a maximum of 90 Gu Charges.
 9 Yin Zombie Gu
 Increase Break Damage
-At the start of the battle, the user gains 12 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Zombie Gu; Premature Zombie Gu will greatly increase direct damage taken by the host from "Break" techniques; Premature Zombie Gu needs to consume 12 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
+At the start of the battle, the user gains 12 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Zombie Gu; The Premature Zombie Gu will greatly increase direct damage taken by the host from "Break" techniques; Premature Zombie Gu needs to consume 12 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 Jade Ice\nSilkworm Gu Descent
 Increase Sealing Duration
 At the start of the battle, the user gains 8 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Jade Ice Silkworm Gu; The Premature Jade Ice Silkworm Gu will double the Sealing time of host's techniques and weapons; Premature Jade Ice Silkworm Gu needs to consume 8 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
