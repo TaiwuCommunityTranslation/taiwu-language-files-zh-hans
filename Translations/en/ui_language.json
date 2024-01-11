@@ -5125,7 +5125,7 @@
   "LK_Apply_Restart_Title": "Confirm changes and restart the game",
   "LK_Apply_Restart_Content": "If you detect a change in the mod's enabled status, dependencies, or settings that require a restart, and the change takes effect, you need to restart the game to reload the mod.",
   "LK_Mod_Outdated_Tips_Content": "This MOD does not match the game version, and there may be many errors when it is started, please wait for the author to update it before enabling it!",
-  "LK_Mod_DetailSettings": "Detailed Settings",
+  "LK_Mod_DetailSettings": "Settings",
   "LK_Mod_Toggle_Current": "Current",
   "LK_Mod_Toggle_Workshop": "Workshop",
   "LK_Mod_Toggle_Upload": "Upload",
