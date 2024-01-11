@@ -5284,7 +5284,7 @@
   "LK_Mod_Notification_Sync_Success": "Sync success",
   "LK_Mod_Notification_Backup_Success": "Backup Successful",
   "LK_Mod_Enable_Same_Tip": "Disable enabling of identical mods. Other identical mods except for this mod will be disabled.",
-  "LK_Mod_Upload_Description_Tip": "The text here will be displayed in the mod introduction in the Steam workshop as a basic introduction to this mod... ",
+  "LK_Mod_Upload_Description_Tip": "The text here will be displayed in the mod introduction in the Steam workshop as a basic introduction to this mod...",
   "LK_Mod_Upload_Setting_Tip": "Settings added here will affect the parameter changes specified in your mod...",
   "LK_Mod_Upload_Source_Steam_Tip": "This mod has been uploaded to the Steam Workshop...",
   "LK_Mod_Upload_Source_External_Tip": "This mod has not been uploaded to the Steam Workshop..."
