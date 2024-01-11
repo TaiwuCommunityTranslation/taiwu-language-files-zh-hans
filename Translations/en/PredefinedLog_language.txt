@@ -25,3 +25,9 @@ Role Runtime Exception
 Characters are running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website and submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
 Abnormalities in the operation of feats
 The feats are running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website to submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
+Communication runtime exception
+An abnormality occurred while the communication was running. We have noticed the problem and are trying to make the game continue through compatibility processing. \nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {0} 
+Debate operation expired
+The system abnormally received the expired operation {0} (timestamp: {1}) and invalidated it in the round number {2}
+Dream Back world file doesn't match
+Please note that the world you are currently traveling through in your dream does not match the original world save, and various unknown errors may occur if you continue the game! 
