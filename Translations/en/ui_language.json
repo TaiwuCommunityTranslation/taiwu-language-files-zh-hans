@@ -5120,7 +5120,7 @@
   "LK_Steam_Upload_Mod_Change_Note": "Brief description of the update",
   "LK_Enter_Path": "Enter the path...",
   "LK_Enter_Change_Note": "Input update briefly...",
-  "LK_Steam_Mod_Rating_Count": "{0}person rating",
+  "LK_Steam_Mod_Rating_Count": "{0}\nrated",
   "LK_Steam_Mod_Subscription_Count": "{0}People Subscribe",
   "LK_Apply_Restart_Title": "Confirm changes and restart the game",
   "LK_Apply_Restart_Content": "If you detect a change in the mod's enabled status, dependencies, or settings that require a restart, and the change takes effect, you need to restart the game to reload the mod.",
