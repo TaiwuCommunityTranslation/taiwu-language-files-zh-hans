@@ -1220,7 +1220,7 @@ Increase Break Damage
 At the start of the battle, the user gains 12 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Zombie Gu; The Premature Zombie Gu will greatly increase direct damage taken by the host from "Break" techniques; The Premature Zombie Gu needs to consume 12 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 Jade Ice\nSilkworm Gu Descent
 Increase Sealing Duration
-At the start of the battle, the user gains 8 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Ice Silkworm Gu; The Premature Ice Silkworm Gu will double the Sealing time of host's techniques and weapons; Premature Ice Silkworm Gu needs to consume 8 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
+At the start of the battle, the user gains 8 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Ice Silkworm Gu; The Premature Ice Silkworm Gu will double the Sealing time of host's techniques and weapons; The Premature Ice Silkworm Gu needs to consume 8 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 King Golden\nSilkworm Insanity
 Swallow Gu
 At the start of the battle, the user gains 16 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Golden Silkworm Gu; The Premature Golden Silkworm Gu will devour all other Premature Gu planted to the host in this battle, and inflict a large amount of Poison based on the Gu it devours; Premature Golden Silkworm Gu needs to consume 16 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
