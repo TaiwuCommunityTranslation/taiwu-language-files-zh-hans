@@ -2915,7 +2915,7 @@ Reverse - Dreadlord's\nMetallic Whip
 When attacking enemy with this technique: User's DES will be greatly increased; When this technique reaches $0$0% completion, all of enemy's Footwork and Stamina gets eliminated, and enemy gets pulled closer by 6 distance
 Reverse - Jade Breaking
 Stamina instead of Inhale
-The strength of the user's feet can be used up in place of Inhale when Inhale is not enough to perform this technique, so the user can move and attack with weapons While performing this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique increases.
+User's Stamina can replace Inhale when user's Inhale isn't enough to perform this technique. While performing this technique, the user can move and attack, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
 Reverse - Spider Silk\nWhip
 Sealing Your Skill
 When this technique reaches $0$0% completion, 2 of the enemy's "Weapons" that are not currently being used will be "Sealed" for a short period of time; After using this technique, it will unavoidably be Sealed for a long period of time.
