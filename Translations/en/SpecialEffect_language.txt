@@ -1259,7 +1259,7 @@ Dreadlord's\nMetallic Whip
 When attacking enemy with this technique: User's DES will be greatly increased; When this technique reaches $0$0% completion, all of enemy's Footwork and Stamina gets eliminated, and enemy gets knocked back by 6 distance
 Jade Breaking
 Stamina instead of Stance
-The strength of the user's feet can replace the Stance when the Stance is not enough to perform this technique, so the user can move and attack with weapons While performing this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
+User's Stamina can replace Stance when user's Stance isn't enough to perform this technique. While performing this technique, the user can move and attack, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
 Spider Silk\nWhip
 Blocking the enemy's weapon
 When this technique reaches $0$0% completion, 1 of the enemy's "Weapons" that is not currently being used will be "Sealed" for a very short period of time; After using this technique, the power of this technique will increase until the weapons Sealed by this technique stop being Sealed.
