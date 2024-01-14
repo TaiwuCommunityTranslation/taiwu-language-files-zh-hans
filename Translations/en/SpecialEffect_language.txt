@@ -2238,7 +2238,7 @@ Lowering the enemy's Inhale Recovery
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a debuff is applied to the enemy that reduces Inhale Recovery.
 Reverse - Muscle Displacement Bone Contraction
 Enhancement of chest and abdominal defense
-When defending with this technique, the Chest and Waist of the user will not receive Weak Points or Sealed Acupoints, and enemy attacks targeting the Chest or Waist of the user will be more easily Resolved.
+When defending with this technique, the Chest and Waist of the user will not receive Weak Points, Sealed Acupoints, or critical hits, and enemy attacks targeting the Chest or Waist of the user will be more easily Resolved.
 Reverse - 7 Wheel Induction
 Weakening of your own reduction
 Continuously Lowering True Qi
