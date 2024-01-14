@@ -468,7 +468,7 @@ Steal Random True Qi
 As long as the user has more True Qi in total than the enemy does, the enemy cannot have more than 4 usable Styles; If the enemy already had more than 4 usable Styles, all usable Styles above 4 will be eliminated, and the enemy will gain 5 points of a random True Qi for each Style eliminated this way.
 Buddha Body
 True qi offset marker
-When defending with this technique: As long as the user doesn't get hit on vital points, the user will be immune to Fatal Wound damage; For every 3 points of "Aegis" True Qi the user can remove 1 Injury marker from themselves, but the Internal Breath of the user will be increased as a result.
+When defending with this technique: As long as the user isn't attacked by a critical hit, the user will be immune to Fatal Wound damage; For every 3 points of "Aegis" True Qi the user can remove 1 Injury marker from themselves, but the Internal Breath of the user will be increased as a result.
 Lost Worm Incense
 Obtaining a Gu to cast a Gu
 Increase Poison Production
