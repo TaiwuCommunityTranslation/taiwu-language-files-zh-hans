@@ -452,7 +452,7 @@ Surrendering the enemy's Stance Recovery
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, a debuff is applied to the enemy which reduces Stance Recovery.
 Muscle Displacement Bone Contraction
 Strengthening of extremity defense
-When defending with this technique, the limbs of the user will not receive Weak Points or Sealed Acupoints, and enemy attacks targeting the limbs of the user will be more easily Resolved.
+When defending with this technique, the limbs of the user will not receive Weak Points, Sealed Acupoints, or critical hits, and enemy attacks targeting the limbs of the user will be more easily Resolved.
 7 Wheel Induction
 Enhancement of your own gain
 Continuously Raising True Qi
