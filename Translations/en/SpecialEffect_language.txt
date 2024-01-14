@@ -850,7 +850,7 @@ Ortho to Hetero
 After this technique reaches $0$0% completion, if user has at least 2 "Hack" styles left after this technique, user will consume 2 "Hack" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously. After using, this skill will change from Orthodox to Heterodox version.
 Wild Blade
 Reduce Your Hit Chance
-This technique will always hit vulnerabilities; Whenever user inflicts an Injury or Fatal Wound marker on the enemy with direct damage, the power of this technique will cumulatively increase based on how many markers were inflicted by the user, however the user's hit chance will cumulatively decrease by up to 90% until the end of the battle. The cumulative increase in power of this technique cannot be shifted or removed by any effect.
+This technique will always deal critical hits; Whenever user inflicts an Injury or Fatal Wound marker on the enemy with direct damage, the power of this technique will cumulatively increase based on how many markers were inflicted by the user, however the user's hit chance will cumulatively decrease by up to 90% until the end of the battle. The cumulative increase in power of this technique cannot be shifted or removed by any effect.
 Spear of Evil
 Extra Attack Tokens
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user receives an External Injury or Fatal Wound marker due to direct External Damage, user recovers all of their "attack tokens"
