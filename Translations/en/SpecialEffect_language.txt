@@ -2269,7 +2269,7 @@ When defending with this technique, whenever the user successfully counters an e
 Reverse - Silkworm Insanity
 For each type of Gu applied to the user, the user's random type of true qi will continue to increase by 1 point.
 Reverse - Ghost Included
-When defending with this technique, All direct damage taken by the user that doesn't hit vital points is reduced by 60%; Whenever the user Resolves an enemy attack that isn't a follow-up attack, for every 2 Daze markers the enemy has, 1 serious Sealed Acupoint will appear on a random body part of the enemy. If the enemy doesn't have any Daze markers, the user applies 2 Daze markers to the enemy.
+When defending with this technique, All direct damage taken by the user other than critical hits is reduced by 60%; Whenever the user Resolves an enemy attack that isn't a follow-up attack, for every 2 Daze markers the enemy has, 1 serious Sealed Acupoint will appear on a random body part of the enemy. If the enemy doesn't have any Daze markers, the user applies 2 Daze markers to the enemy.
 Reverse - Sky Snake Bone Exchange
 Invalidated by severe internal injuries
 The user's Internal Injuries will disappear over time; the user will not receive Fatal Wounds unless the attacked body part already has 4 Internal Injuries.
