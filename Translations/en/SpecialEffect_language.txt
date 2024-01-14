@@ -325,7 +325,7 @@ When using this technique for defense, the True Qi lost by the user in battle wi
 True Art Demon Slaying
 User's teammates will more frequently be able to perform "True Qi" order to transmit their True Qi to the user.
 Endless Power
-When defending with this technique: As long as the enemy doesn't hit user's vulnerabilities, even if the user fails to Resolve enemy's weapon attack, user will still be able to Counter; Whenever the user successfully Resolves and Counters enemy's weapon attack, enemy's Stance gets fully depleted, and the more Stance gets depleted, the more the damage of user's Counter will increase.
+When defending with this technique: As long as the enemy attack isn't a critical hit, even if the user fails to Resolve enemy's weapon attack, user will still be able to Counter; Whenever the user successfully Resolves and Counters enemy's weapon attack, enemy's Stance gets fully depleted, and the more Stance gets depleted, the more the damage of user's Counter will increase.
 3 Flower On Top
 If all True Qi of the user isn't lower than its initial value, the power of this technique will continuously increase, up to 2 times higher than the original power of this technique. If not, the power of this technique will be halved and its power won't increase; When power of this technique isn't lower than 100%, the power of all techniques performed by the user will be increased by a portion of this technique's power.
 9 Rollings
