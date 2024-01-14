@@ -218,7 +218,7 @@ When the dominant internal element of the user is "Earth", the direct damage and
 3 Poisons of\nDarkness Spell
 The happier the "Mood" of the user, the more the power of all the techniques of the user will be increased, by up to 15%
 Moon Shape
-Transform the user's "Fire" element into "Earth" element, the more the conversion ratio, the higher the power of the user's "Earth" skills will be; If the user "Fire" element is at 0%, the user will not be hit by "Fire" and "Earth" skills
+Converts user's "Fire" element into "Earth" element. The higher the conversion ratio, the higher the power of the user's "Earth" skills will be; If user's "Fire" element is at 0%, user will not be hit by any "Fire" or "Earth" techniques
 The Great 5 Yin
 The higher the ratio of the user's internal energy to the "Earth", the more the user's ability to Diversion, Parry, Evasion, and Focus will increase, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Children's\nBlood Sacrifice
