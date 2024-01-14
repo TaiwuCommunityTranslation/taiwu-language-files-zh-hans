@@ -4008,7 +4008,7 @@ Improve Cryotoxin Strength
 If the character is simultaneously affected by Umbritoxin, Oneirotoxin, and Pyrotoxin markers, when Umbritoxin and Pyrotoxin activates, based on the number of Oneirotoxin markers, generate extra Cryotoxin, and accelerate it's activation. The more Umbritoxin, Oneirotoxin, and Pyrotoxin markers there is, the more times this toxin effect can be activated in battle.
 Deflect Break
 Deflect Break Attack
-When the attacker breaks enemy's Deflect, attacker's Accuracy will be greatly increased, and they will immediately perform a weapon attack that will always hit vulnerabilities and do several follow-up attacks.
+When the attacker breaks enemy's Deflect, attacker's Accuracy will be greatly increased, and they will immediately perform a weapon attack that will always deal critical hits and do several follow-up attacks.
 Sagacious
 This innate skill cannot be Sealed; When Monkey/Spiritual Monkey receive enemy's Break technique, the power of the enemy's Break technique will be cumulatively reduced based on the Purity of the Monkey/Spiritual Monkey, lasting until the end of the battle.
 Eagle Soars in the Sky
