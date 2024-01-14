@@ -8,7 +8,7 @@ Formless Zen
 Greatly increase "Willpower" limit. Focus given by "Willpower" will be greatly increased based on user's purity.
 Bodhi\nMeditation
 Ignore Accuracy
-Converts user's "Water" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Water" element is at 0%, user will not be hit by any "Water" or "Metal" techniques
+Converts user's "Water" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Water" element is at 0%, user's vital points will not be hit by any "Water" or "Metal" techniques
 Za-A-Han\nScripture
 Range Up
 User's "Hunyuan" skills will also be considered as "Metal" skills; User can click to consume from 5 to 15 points of Aegis True Qi to increase the attack range of any Break "Metal" skill.
@@ -30,7 +30,7 @@ Spirituality\nComprehension
 skill power up
 Whenever the user obtains an available style, the user has a very low chance of increasing the power of all the user's techniques, which lasts until the end of the battle.
 Lotus\nMysterious
-Converts user's "Fire" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Fire" element is at 0%, user will not be hit by any "Fire" or "Wood" techniques
+Converts user's "Fire" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Fire" element is at 0%, user's vital points will not be hit by any "Fire" or "Wood" techniques
 Puxian\nScripture
 The higher the ratio of the "Wood" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Sitting-in-Oblivion
@@ -59,7 +59,7 @@ Horizontal Feet
 Stance Up
 When the user only consumes Inhale, an equal amount of Stance will be restored.
 Celestial Pillar\nHolding
-Converts user's "Wood" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Wood" element is at 0%, user will not be hit by any "Wood" or "Fire" techniques
+Converts user's "Wood" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Wood" element is at 0%, user's vital points will not be hit by any "Wood" or "Fire" techniques
 Golden Scripture\nof Marrow-Regen
 The higher the ratio of "Fire" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Wudang\nMixed Element
@@ -116,7 +116,7 @@ Greatly increase "Vitality" limit. Internal Defense given by "Vitality" will be 
 Xihua\nScripture
 The higher the percentage of "Water" internal power of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Holy Princess
-Converts user's "Wood" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Wood" element is at 0%, user will not be hit by any "Wood" or "Water" techniques
+Converts user's "Wood" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Wood" element is at 0%, user's vital points will not be hit by any "Wood" or "Water" techniques
 Nimbus Shower
 Significantly increase the power of the user's "Water" skills; During the cast of the "Water" skill, click to consume a min. of 5 and a max. of 15 points of the user's Quick True Qi to increase the cast progress of the "Water" skill by 50%, up to a maximum of 75%.
 Supreme\nGoddess Cultivation
@@ -157,7 +157,7 @@ The more types of True Qi the user has that exceed their initial value in combat
 Vajra-Inherited\nMeditation
 The higher the ratio of "Metal" internal power of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 The Great Sun\nScripture
-Converts user's "Earth" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Earth" element is at 0%, user will not be hit by any "Earth" or "Metal" techniques
+Converts user's "Earth" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Earth" element is at 0%, user's vital points will not be hit by any "Earth" or "Metal" techniques
 The Great Vajra\nScripture
 Significantly increases the power of user's "Metal" techniques; While performing any "Metal" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to increase the cast progress of the "Metal" technique by 50%, up to a maximum of 75%.
 Mahakala\nGuardian's Cultivation
@@ -174,7 +174,7 @@ Increases the power of the user's "Wood" type techniques by 10%
 Black\nImmortals Cultivation
 Significantly increases the amount of toxins that can be dispelled when the user performs "Detoxing" in battle
 Azure\nImmortals Cultivation
-Converts user's "Water" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Water" element is at 0%, user will not be hit by any "Water" or "Wood" techniques
+Converts user's "Water" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Water" element is at 0%, user's vital points will not be hit by any "Water" or "Wood" techniques
 Soul Out\nMeditation
 When the user removes toxins with "Detox" in battle, the user will be given a buff which enhances the user's Diversion, Parry, Evasion, and Focus. The more toxins removed, the stronger the effect.
 The Great Evil\nBody
@@ -218,7 +218,7 @@ When the dominant internal element of the user is "Earth", the direct damage and
 3 Poisons of\nDarkness Spell
 The happier the "Mood" of the user, the more the power of all the techniques of the user will be increased, by up to 15%
 Moon Shape
-Converts user's "Fire" element into "Earth" element. The higher the conversion ratio, the higher the power of the user's "Earth" skills will be; If user's "Fire" element is at 0%, user will not be hit by any "Fire" or "Earth" techniques
+Converts user's "Fire" element into "Earth" element. The higher the conversion ratio, the higher the power of the user's "Earth" skills will be; If user's "Fire" element is at 0%, user's vital points will not be hit by any "Fire" or "Earth" techniques
 The Great 5 Yin
 The higher the ratio of the user's internal energy to the "Earth", the more the user's ability to Diversion, Parry, Evasion, and Focus will increase, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Children's\nBlood Sacrifice
@@ -1827,7 +1827,7 @@ When the dominant internal element of the user is "Metal", the direct damage and
 Reverse -  Colorless Zen technique
 Greatly increase "Willpower" limit. Breath given by "Willpower" will be greatly increased based on user's purity.
 Reverse -  Bodhicitta Practice
-Converts user's "Wood" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Wood" element is at 0%, user will not be hit by any "Wood" or "Metal" techniques
+Converts user's "Wood" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Wood" element is at 0%, user's vital points will not be hit by any "Wood" or "Metal" techniques
 Reverse -  Miscellaneous Aramaic Sutras
 Damage Can't Be Reduced
 User's "Hunyuan" techniques will also be considered to be "Metal" techniques; When using "Metal" Break techniques, user can click to randomly consume from 5 to 15 points of "Aegis" True Qi to make direct damage dealt by a technique not be reduced for any reason.
@@ -1850,7 +1850,7 @@ Reverse -  Spiritual Enlightenment
 Reducing the power of enemy techniques
 Whenever the user obtains an available style, the user has a very low chance of reducing the power of all enemy techniques until the end of the battle.
 Reverse -  Lotus Tai Xuan technique
-Converts user's "Metal" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Metal" element is at 0%, user will not be hit by any "Metal" or "Wood" techniques
+Converts user's "Metal" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Metal" element is at 0%, user's vital points will not be hit by any "Metal" or "Wood" techniques
 Reversal-Pu Yin Xin Jing
 The higher the percentage of "Wood" internal power of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Sitting-in-Oblivion
@@ -1877,7 +1877,7 @@ Reverse -  One Word Mixed Pile
 Recover Inhale
 When the user only consumes Stance, an equal amount of Inhale will be restored.
 Reverse -  Luo Tian Zhen Zhi Twelve Piles
-Converts user's "Water" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Water" element is at 0%, user will not be hit by any "Water" or "Fire" techniques
+Converts user's "Water" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Water" element is at 0%, user's vital points will not be hit by any "Water" or "Fire" techniques
 Reversal - Golden Sutra of Marrow Washing
 The higher the percentage of "Fire" internal energy of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Wudang Mixed Element technique
@@ -1932,7 +1932,7 @@ Greatly increase "Vitality" limit. Internal Penetration given by "Vitality" will
 Reverse -  Sihwajin Sutra
 The higher the percentage of "Water" internal energy of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Empress Goddess
-Converts user's "Fire" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Fire" element is at 0%, user will not be hit by any "Fire" or "Water" techniques
+Converts user's "Fire" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Fire" element is at 0%, user's vital points will not be hit by any "Fire" or "Water" techniques
 Reverse -  Yaochi Immortal Bathing Method
 Significantly decreases the Inhale and Stance cost of user's "Water" techniques; While performing any "Water" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to significantly increase the power of the performed "Water" technique.
 Reverse -  Taiyuan Jade Lady technique
@@ -1973,7 +1973,7 @@ The more true qi types an enemy has below its true qi limit, the more the power 
 Reverse -  Vajra Dzogchen
 The higher the percentage of "Metal" internal Might of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Daishonin Sutra
-Converts user's "Fire" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Fire" element is at 0%, user will not be hit by any "Fire" or "Metal" techniques
+Converts user's "Fire" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Fire" element is at 0%, user's vital points will not be hit by any "Fire" or "Metal" techniques
 Reverse -  Vajradhara Sutra
 Significantly decreases the Inhale and Stance cost of user's "Metal" techniques; While performing any "Metal" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to significantly increase the power of the performed "Metal" technique.
 Reverse -  Mahakala Guardianship
@@ -1989,7 +1989,7 @@ Reduces the consumption of Inhale and Stance of the user's "Wood" type technique
 Reverse -  Black Fairy Law
 Significantly reduces the amount of toxins that can be dispelled when an enemy performs "Detox" in battle
 Reverse -  Green Immortal Law
-Converts user's "Earth" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Earth" element is at 0%, user will not be hit by any "Earth" or "Wood" techniques
+Converts user's "Earth" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Earth" element is at 0%, user's vital points will not be hit by any "Earth" or "Wood" techniques
 Reverse -  Spirituality
 When the user removes toxins with "Detox" in battle, the user will be given a buff which enhances the user's Might, Finesse, Swiftness, and Breath. The more toxins removed, the stronger the effect.
 Reverse -  Hundred Evil Body Technique
@@ -2033,7 +2033,7 @@ When the dominant internal element of the user is "Earth", it reduces the direct
 Reverse -  Three Poisonous Ignorance Mantra
 The more painful the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Reverse -  Taiyin Refining Form
-Converts user's "Water" element into "Earth" element. The higher the conversion ratio, the higher the power of the user's "Earth" skills will be; If user's "Water" element is at 0%, user will not be hit by any "Water" or "Earth" techniques
+Converts user's "Water" element into "Earth" element. The higher the conversion ratio, the higher the power of the user's "Earth" skills will be; If user's "Water" element is at 0%, user's vital points will not be hit by any "Water" or "Earth" techniques
 Reverse -  Five Yin Dada
 The higher the ratio of the user's "Earth" internal energy, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Child's Blood Refining Method
