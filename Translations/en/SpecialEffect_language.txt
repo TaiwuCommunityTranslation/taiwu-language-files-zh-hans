@@ -492,7 +492,7 @@ Silkworm Insanity
 For each type of Gu applied to the enemy, the enemy's True Qi of a random type will be continuously reduced by 1 point
 Ghost Included
 Cause Weak Point
-When defending with this technique, All direct damage taken by the user that doesn't hit vital points is reduced by 60%; Whenever the user Resolves an enemy attack that isn't a follow-up attack, for every 2 "None" styles the enemy has, 1 serious Weak Point will appear on a random body part of the enemy. If the enemy doesn't have any "None" styles, the user applies 2 "None" styles to the enemy.
+When defending with this technique, All direct damage taken by the user other than critical hits is reduced by 60%; Whenever the user Resolves an enemy attack that isn't a follow-up attack, for every 2 "None" styles the enemy has, 1 serious Weak Point will appear on a random body part of the enemy. If the enemy doesn't have any "None" styles, the user applies 2 "None" styles to the enemy.
 Sky Snake Bone Exchange
 Invalidated by severe trauma
 The user's External Injuries will disappear over time; the user will not receive Fatal Wounds unless the attacked body part already has 4 External Injuries.
