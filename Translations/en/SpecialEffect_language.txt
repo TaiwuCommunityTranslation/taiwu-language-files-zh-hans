@@ -7,7 +7,7 @@ When the dominant internal element of the user is "Metal", the direct damage dam
 Formless Zen
 Greatly increase "Willpower" limit. Focus given by "Willpower" will be greatly increased based on user's purity.
 Bodhi\nMeditation
-Ignore Accuracy
+Ignore Critical Hits
 Converts user's "Water" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Water" element is at 0%, user's vital points will not be hit by any "Water" or "Metal" techniques
 Za-A-Han\nScripture
 Range Up
