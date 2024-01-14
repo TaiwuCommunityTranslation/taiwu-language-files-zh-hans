@@ -2250,7 +2250,7 @@ When defending with this technique, whenever the user blocks an enemy attack wit
 Reverse - The Great Handprint
 As long as the enemy has more True Qi in total than the user does, the enemy cannot have more than 4 usable Styles; If the enemy already had more than 4 usable Styles, all usable Styles above 4 will be eliminated, and the enemy will gain 5 points of a random True Qi for each Style eliminated this way.
 Reverse - Buddha Body
-When defending with this technique: As long as the user doesn't get hit on vital points, the user will be immune to Fatal Wound damage; For every 3 points of "Aegis" True Qi the user can remove 1 Impairment marker from themselves, but the Internal Breath of the user will be increased as a result.
+When defending with this technique: As long as the user isn't attacked by a critical hit, the user will be immune to Fatal Wound damage; For every 3 points of "Aegis" True Qi the user can remove 1 Impairment marker from themselves, but the Internal Breath of the user will be increased as a result.
 Reverse - Lost Worm Incense
 Reduce Poison Production
 The user continuously obtains Gu Charges in battle. The higher the user's Toxicology skill, the faster the Gu Charges will be obtained, up to a maximum of 90 Gu Charges; The more Gu Charges the user has, the less poison will be produced by poison activations on the user.
