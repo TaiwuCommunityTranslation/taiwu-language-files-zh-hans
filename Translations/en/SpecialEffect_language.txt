@@ -4013,7 +4013,7 @@ Sagacious
 This innate skill cannot be Sealed; When Monkey/Spiritual Monkey receive enemy's Break technique, the power of the enemy's Break technique will be cumulatively reduced based on the Purity of the Monkey/Spiritual Monkey, lasting until the end of the battle.
 Eagle Soars in the Sky
 Increase Critical Hits
-This innate skill cannot be Sealed; The attack range of Eagle/Golden Roc will gradually increase with the sense of crisis, based on the Purity of Eagle/Golden Roc. The further the distance between the user and the enemy, the higher the chance that Eagle/Golden Roc will hit enemy's vital points
+This innate skill cannot be Sealed; The attack range of Eagle/Golden Roc will gradually increase with the sense of crisis, based on the Purity of Eagle/Golden Roc. The further the distance between the user and the enemy, the higher the chance that Eagle/Golden Roc will deal critical hits
 Brave Hog's Rush
 Preparing Jump
 Auto Advance Attack
