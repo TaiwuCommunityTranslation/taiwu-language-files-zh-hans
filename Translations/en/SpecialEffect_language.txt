@@ -180,7 +180,7 @@ When the user removes toxins with "Detox" in battle, the user will be given a bu
 The Great Evil\nBody
 The more negative "red traits" the user has, the more the power of all the user's techniques will be increased.
 Jieqing 4\nImages
-Increases the power limit of the user's "JieQing Sect" techniques by up to 30%
+Increases the power limit of the user's "Jieqing Gate" techniques by 30%
 Heaven\nMeditation
 Increases the power of the user's "Water" type techniques by 10%.
 12 Scrolls\nof Eastwall
