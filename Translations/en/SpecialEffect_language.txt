@@ -70,7 +70,7 @@ The higher the user's "Taoism" skill, the more injuries the user can remove by u
 Boundless\nPure Yang
 If the user's main element is "Fire", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Fire", "Metal", or "Wood" technique, the Fatal Wound damage taken will be reduced by 80%
 Fresh Breath
-Increases the power limit of the user's "Yuanshan School" techniques by up to 30%
+Increases the power limit of the user's "Yuanshan Sect" techniques by 30%
 Lighter\nYuanshan Force
 The higher the ratio of the user's "Earth" internal energy, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Greater\nYuanshan Force
