@@ -2369,7 +2369,7 @@ Reverse - Snow Step
 Reduce the level of sealing points
 During this Footwork, it reduces the level of the enemy's blocked points on the user.
 Reverse - Wick of Lamp
-During this Footwork, when the user is attacked by an enemy, they will make a Finesse attack on the enemy, each one less and less accurate, and if the enemy fails to resolve this Finesse attack, 1 random injury on the enemy's body will worsen
+During this Footwork, whenever an enemy attacks the user, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the enemy's body will be worsened by 1. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
 Reverse - Jade Step
 When retreating with this Footwork, the user needs to accumulate power to move 3 distances at once, and then a random injury on the user's body will be reduced by 2
 Reverse - Flower Listen Rain
