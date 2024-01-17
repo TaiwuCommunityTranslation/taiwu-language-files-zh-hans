@@ -106,7 +106,7 @@ Ingenious\nMysterious
 Increases Nadis
 At the beginning of a battle, the user's "Nadis" True Qi is increased significantly (by 60); the amount of "Nadis" True Qi gained during the battle is increased significantly; the amount of "Nadis" True Qi lost during the battle is decreased significantly.
 Xuannyu\nMeditation
-Increases the power limit of the user's "Xuan Nyu Sect" techniques by 30%
+Increases the power limit of the user's "Xuannyu Sect" techniques by 30%
 Jade Bone\nCultivation
 The higher the percentage of "Water" internal energy of the user, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Moon Drive\nCultivation
@@ -125,7 +125,7 @@ At the beginning of a battle, the user's Quick True Qi is increased significantl
 Moon Jade
 Greatly increases the upper limit of all major attributes of the user (by 20). Direct Internal Fatal Wound damage taken by user will be reduced by 50%; If the user is a virgin female, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Chap. Forge
-Increases the power limit of the user's "Sword manor" techniques by 30%
+Increases the power limit of the user's "Sword Manor" techniques by 30%
 Chap. Weave
 Increases the maximum performance of the "protective equipment" equipped by the user
 Chap. 5 Metals
