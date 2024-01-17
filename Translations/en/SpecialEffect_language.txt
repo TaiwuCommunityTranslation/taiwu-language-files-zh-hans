@@ -598,7 +598,7 @@ During this Footwork, if the weapon of the user is able to strike the style requ
 Shadow Surround
 During this Footwork, whenever the user hits an enemy with a "Flute" weapon, user's Stamina will be restored.
 Flying Needle
-Whenever the user hits an enemy with a "Needle box" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Needle Box" weapon, user's Stamina will be restored.
 Needle Driving
 Get the opportunity to change moves
 When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
@@ -617,7 +617,7 @@ During this Footwork, if the Accuracy stat of the user when attacking an enemy i
 8 Trigrams Step
 During this Footwork, if the user uses the "Aegis" technique, the enemy's Stance Recovery will be reduced
 Cloud Surround
-Whenever the user hits an enemy with a "Whisk" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Whisk" weapon, user's Stamina will be restored.
 Big Dipper Step\nof Heavenly Spirit
 Gain Specific Force
 Every time you move 1 distance with this Footwork, the user gains "Quick" true energy according to the amount of "Break" true energy the user has, and when the effect of this Footwork ends or expires, the user loses all "Quick" true energy gained in the process. Amount gained = (0.2 * [Break value] )
