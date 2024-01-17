@@ -776,7 +776,7 @@ Barefoot
 During this Footwork, the user will not be moved backwards for any reason.
 Drunk 8 Immortals
 Increase chase damage
-If the user is drunk during the duration of this technique, the damage dealt by the user when chasing an enemy is increased.
+During this Footwork, if the user is drunk, the damage dealt by user's follow-up attacks will be increased.
 Dragon Tail
 Increase the Weak Points level
 During this Footwork, the level of Weak Points caused by the user to the enemy is increased.
