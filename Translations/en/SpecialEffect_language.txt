@@ -781,7 +781,7 @@ Dragon Tail
 Increase the Weak Points level
 During this Footwork, the level of Weak Points caused by the user to the enemy is increased.
 Dragon Leap
-During this Footwork, when the user attacks an enemy, they will first deal a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might hit, all direct damage dealt by the user to the enemy will be increased by 15%
+During this Footwork, whenever the user attacks an enemy, a separate Might check will happen, and if the enemy fails to Resolve it, direct damage of this attack will be increased by 15%. This Might check becomes progressively less accurate each time it activates within the duration of this technique.
 Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during this Footwork, the user's Stamina is restored.
 Drunk Lying In The East Sea
