@@ -515,7 +515,7 @@ Seven elements of the great method to solve the evil
 Injury turned to an old injury
 When defending with this technique: the more body parts the user has destroyed, the less direct damage the enemy will inflict on the user; at the end of defending with this technique, 3 injury markers on the user's destroyed body parts will randomly change to old injuries that are more difficult to recover from
 Anger Face
-When the "Break" True Qi of the user is higher than the "Break" True Qi of the enemy, all direct damage dealt by the enemy to the user is reduced by 15%.
+When user's "Break" True Qi is higher than the enemy's "Break" True Qi, all direct damage dealt by the enemy will be reduced by 15%
 Dragon Looks Back
 When defending with this technique: all External Damage taken by the user is reduced by 30%; Whenever the user Reflects an enemy attack, the user gains 1 point of "Break" True Qi
 Divine Fire Cover
