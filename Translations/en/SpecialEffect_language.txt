@@ -2502,7 +2502,7 @@ During this Footwork, the minimum attack distance of the user is increased by 2
 Reverse - Traceless 6 Steps
 Whenever an enemy gains a "Point", "Stab", or "Shot" style during this Footwork, if the user can use these styles, there is a higher chance that the enemy's gained style will be transferred to the user.
 Reverse - Carefree Step
-Whenever the user hits an enemy with a "Hidden Weapon" during this Footwork, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Hidden Weapons" weapon, enemy's Stamina will be depleted.
 Reverse - Sky River Walk
 During this Footwork, for every distance the user accumulates back, the user draws 1 point of "Aegis" true qi from the enemy's body.
 Reverse - Take 5 Cars
