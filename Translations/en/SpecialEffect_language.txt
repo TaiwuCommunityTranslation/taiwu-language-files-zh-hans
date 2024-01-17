@@ -1,5 +1,5 @@
 Zen\nMeditation
-Increases the power limit of the user's "Shaolin" techniques by 30%
+Increases the power limit of "Shaolin" techniques by 30%
 Arhat\nMeditation
 Increases the power of the user's "Metal" type techniques by 10%
 Spiritual Unity\nCultivation
@@ -21,7 +21,7 @@ Sutra of Marrow\nRejuvenation
 Fatal Wnd. Decrease
 Greatly increases the upper limit of all major attributes of the user (by 20). Direct External Fatal Wound damage taken by user will be reduced by 50%; If the user is a virgin male, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Abdominal\nBreathing
-Increases the power limit of the user's "Emei Sect" techniques by 30%
+Increases the power limit of "Emei Sect" techniques by 30%
 Emei Pillar\nHolding
 The higher the percentage of "Wood" internal power of the user, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Original Pure\nForce
@@ -39,7 +39,7 @@ Significantly increases the power of user's "Wood" techniques; While performing 
 Great Nirvana
 The higher the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a positive trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
 Diagram of\nAcupunture Points
-Increases the power limit of the user's "Hundred Flowers Valley" techniques by 30%
+Increases the power limit of "Hundred Flowers Valley" techniques by 30%
 Acupuncture\nOriginal
 Increases the speed at which the user can "heal" in battle
 Significantly increases the speed at which the user can "heal" in battle
@@ -52,7 +52,7 @@ Meridian\nEnhancement
 Resolve Up
 When the user removes injuries with "Heal" in battle, the user will be given a buff which enhances the user's Diversion, Parry, Evasion, and Focus. The more injuries healed, the stronger the effect.
 Ultra Harmony\nof Wudang
-Increases the power limit of the user's "Wudang Sect" techniques by 30%
+Increases the power limit of "Wudang Sect" techniques by 30%
 Vitality\nRetainin
 Increases the power of the user's "Fire" type techniques by 10%
 Horizontal Feet
@@ -70,7 +70,7 @@ The higher the user's "Taoism" skill, the more injuries the user can remove by u
 Boundless\nPure Yang
 If the user's main element is "Fire", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Fire", "Metal", or "Wood" technique, the Fatal Wound damage taken will be reduced by 80%
 Fresh Breath
-Increases the power limit of the user's "Yuanshan Sect" techniques by 30%
+Increases the power limit of "Yuanshan Sect" techniques by 30%
 Lighter\nYuanshan Force
 The higher the ratio of the user's "Earth" internal energy, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Greater\nYuanshan Force
@@ -80,7 +80,7 @@ Convert the user's "Metal" internal energy into "Earth" internal energy. The mor
 Inscrutable\nRound
 Turns "Heterodox" skill effects into their "Orthodox" versions on all "Earth" element skills other than "Inner Arts"
 Stable Breath
-Increases the power limit of the user's "Lion-Face Clan" techniques by 30%
+Increases the power limit of "Lion-Face Clan" techniques by 30%
 13 Taibaos'\nIron Surface
 Dmg Taken Dn
 If the user receives consecutive attacks from the same enemy technique in this battle, each time it will cumulatively reduce the damage taken by the user, up to a maximum of 3 times
@@ -89,7 +89,7 @@ Reduces the maximum number of Weak Points on user's body parts
 Bright Lion\nPower
 Greatly increase "Strength" limit. Diversion given by "Strength" will be greatly increased based on user's purity.
 Develop\nAmbition
-Increases the power limit of the user's "Ranshan Sect" techniques by 30%
+Increases the power limit of "Ranshan Sect" techniques by 30%
 Whirling Circle
 When the user's standpoint is "Even", power of all of their techniques will be increased by 10%; When the user and the enemy don't have opposing standpoints, the power of all the user's techniques will be increased
 True Will\nCultivation
@@ -106,7 +106,7 @@ Ingenious\nMysterious
 Increases Nadis
 At the beginning of a battle, the user's "Nadis" True Qi is increased significantly (by 60); the amount of "Nadis" True Qi gained during the battle is increased significantly; the amount of "Nadis" True Qi lost during the battle is decreased significantly.
 Xuannyu\nMeditation
-Increases the power limit of the user's "Xuannyu Sect" techniques by 30%
+Increases the power limit of "Xuannyu Sect" techniques by 30%
 Jade Bone\nCultivation
 The higher the percentage of "Water" internal energy of the user, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Moon Drive\nCultivation
@@ -125,7 +125,7 @@ At the beginning of a battle, the user's Quick True Qi is increased significantl
 Moon Jade
 Greatly increases the upper limit of all major attributes of the user (by 20). Direct Internal Fatal Wound damage taken by user will be reduced by 50%; If the user is a virgin female, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Chap. Forge
-Increases the power limit of the user's "Sword Manor" techniques by 30%
+Increases the power limit of "Sword Manor" techniques by 30%
 Chap. Weave
 Increases the maximum performance of the "protective equipment" equipped by the user
 Chap. 5 Metals
@@ -135,7 +135,7 @@ The more times you refine your "weapon", the less damage your enemy will do to y
 Chap. Sacrifice
 Increases the upper limit of the "weapon" equipped by the user
 Summary of\nChihuang
-Increases the power limit of the user's "Kongsang Sect" techniques by 30%
+Increases the power limit of "Kongsang Sect" techniques by 30%
 Shennong\nMateria Medica
 Increase the speed of "Detoxing"
 Improve the effect of "Detoxing"
@@ -147,7 +147,7 @@ Greatly increase "Constitution" limit. External Defense given by "Constitution" 
 9 Tripots\nCultivation
 The longer the remaining health (in years) of the user, the more the power of the user's techniques will increase, by up to 40%.
 Vajra-Hearted\nBuddha Meditation
-Increases the power limit of the user's "Vajrayana" techniques by 30%
+Increases the power limit of "Vajrayana" techniques by 30%
 Internal Fire\nYoga
 The higher the percentage of "Metal" internal power of the user, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Trinity\nof Buddha
@@ -166,7 +166,7 @@ If the total number of user's defeat markers exceeds half of the defeat conditio
 Tantric Atiyoga
 If the user's main element is "Metal", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Metal", "Wood", or "Earth" technique, the Fatal Wound damage taken will be reduced by 80%
 Poisoning\nMethod
-Increases the power limit of the user's "Five Immortals Cult" techniques by 30%
+Increases the power limit of "Five Immortals Cult" techniques by 30%
 Yellow\nImmortals Cultivation
 Significantly increases the speed of the user's "Detoxing" in battle
 Red Immortals\nCultivation
@@ -180,7 +180,7 @@ When the user removes toxins with "Detox" in battle, the user will be given a bu
 The Great Evil\nBody
 The more negative "red traits" the user has, the more the power of all the user's techniques will be increased.
 Jieqing 4\nImages
-Increases the power limit of the user's "Jieqing Gate" techniques by 30%
+Increases the power limit of "Jieqing Gate" techniques by 30%
 Heaven\nMeditation
 Increases the power of the user's "Water" type techniques by 10%.
 12 Scrolls\nof Eastwall
@@ -194,7 +194,7 @@ Change the "Heterodox" effect of the user's "Water" type of technique other than
 Galaxy Map
 When the internal energy of the user is "Water", it is more difficult to "block" or "interrupt" all of the user's techniques.
 Fire Paint\nTattoo
-Increases the power limit of the user's "Fulong Altar" techniques by 30%
+Increases the power limit of "Fulong Altar" techniques by 30%
 Fulong\nFire-Engulf
 The higher the percentage of "Fire" internal energy of the user, the more the user's External Defense and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Pure Qi of Fire
@@ -210,7 +210,7 @@ The more mutilated body parts the user has, the less direct damage the enemy can
 The Great Jade\nYang
 Significantly increases the power of the user's "Fire" type techniques, by 20%.
 Hou Meditation
-Increases the power limit of the user's "Bloodhound Cult" techniques by 30%
+Increases the power limit of "Bloodhound Cult" techniques by 30%
 4 Methods of\nDark Corpse
 Increases the power of the user's "Earth" type techniques by 10%.
 Evil Ghost
