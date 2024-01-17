@@ -785,7 +785,7 @@ During this Footwork, when the user attacks an enemy, they will first deal a Mig
 Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during this Footwork, the user's Stamina is restored.
 Drunk Lying In The East Sea
-If the user is drunk during this Footwork, the user will consume all of the Inhale and Stance when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of Inhale and Stance that exceeded the requirements to perform it.
+During this Footwork, if the user is drunk, the user will consume all of the Inhale and Stance when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of Inhale and Stance that exceeded the requirements to perform it.
 Fox Move
 Accelerated mobile storage
 When moving forward with this Footwork, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
