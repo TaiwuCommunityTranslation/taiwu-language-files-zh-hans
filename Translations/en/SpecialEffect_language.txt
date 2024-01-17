@@ -2519,7 +2519,7 @@ Reverse - Barefoot
 During this Footwork, the user will not be moved forward for any reason.
 Reverse - Drunk 8 Immortals
 Reduced chase damage
-If the user is drunk during the duration of this technique, the damage dealt by the enemy when chasing the user is reduced.
+During this Footwork, if the user is drunk, the damage dealt by the enemy's follow-up attacks will be reduced.
 Reverse - Dragon Tail
 Reduce the level of Weak Points
 During this Footwork, it reduces the level of Weak Points caused by the enemy to the user.
