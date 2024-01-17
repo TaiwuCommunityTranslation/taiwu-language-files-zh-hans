@@ -730,7 +730,7 @@ During this Footwork, as long as the enemy does not have an effect that can chan
 Immobilize
 During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Punch", "Hack" and "Throw" styles possessed by the user can be used in place of each other.
 Vajra Stance
-Whenever the user hits an enemy with a "Club" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Pestle" weapon, user's Stamina will be restored.
 Divine Footsteps
 During the duration of this body method: the forward speed of the user will not be reduced for any reason; the forward movement of the user will not be regarded as movement, but as the change of the distance between the enemy and us, and will not cause any kind of movement effect, but the movement speed of the user will still affect the speed of the change of the distance between the enemy and us.
 Snake Crawling
