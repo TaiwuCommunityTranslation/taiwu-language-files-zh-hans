@@ -790,7 +790,7 @@ Fox Move
 Accelerated mobile storage
 When moving forward with this Footwork, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
 Tomb Escape
-Whenever the user hits an enemy with a "poisonous sand" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Poison Sand" weapon, user's Stamina will be restored.
 Ghost Move
 Improve leg swiftness
 The swiftness of the kicks performed by the user with this Footwork is greatly increased.
