@@ -748,7 +748,7 @@ Improves aura recovery
 Every time you move 1 distance with this Footwork, you apply a buff to the user that increases your Inhale and Stance Recoveries.
 Hundred Feet's Drill
 Attrition of the enemy's Aegis
-During this Footwork, whenever the user attacks an enemy, a separate Swiftness check will happen, and if the enemy fails to Resolve it, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced. This Swiftness check becomes progressively less accurate each time it activates within the duration of this technique.
+During this Footwork, whenever the user attacks an enemy, a separate Swiftness check will happen, and if the enemy fails to Resolve it, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced. This Swiftness check becomes progressively less accurate each time it activates within the duration of this technique.
 Sky Snake Rolling
 Reduce Poison Resistance
 When advancing with this Footwork, the user can accumulate strength to move 3 distances at once. After moving, user will apply a debuff to the enemy that reduces all Poison Resistances depending on the distance moved.
