@@ -726,7 +726,7 @@ Extra Kick
 As long as this Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a lower tier without any cost.
 Stone Sink
 Basic Atk All Might
-During this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Might accuracy value.
+During this Footwork, as long as the enemy doesn't have effect that change the way they Resolve attacks, all weapon attacks of the user will use the Might accuracy value.
 Immobilize
 During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Punch", "Hack" and "Throw" styles possessed by the user can be used in place of each other.
 Vajra Stance
