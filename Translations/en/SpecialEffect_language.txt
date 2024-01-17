@@ -757,7 +757,7 @@ During this Footwork, the maximum attack distance of the user is increased by 2
 Traceless 6 Steps
 During this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Point", "Stab" and "Shot" styles possessed by the user can be used in place of each other
 Carefree Step
-During the duration of this technique, whenever the user hits an enemy with a "concealed weapon" type weapon, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Hidden Weapons" weapon, user's Stamina will be restored.
 Sky River Walk
 During this Footwork, for every 1 distance the user advances, the user draws 1 point of "Break" true qi from the enemy's body.
 Take 5 Cars
@@ -783,7 +783,7 @@ During this Footwork, the level of Weak Points caused by the user to the enemy i
 Dragon Leap
 During this Footwork, whenever the user attacks an enemy, a separate Might check will happen, and if the enemy fails to Resolve it, direct damage of this attack will be increased by 15%. This Might check becomes progressively less accurate each time it activates within the duration of this technique.
 Wind Fire Stance
-Whenever the user hits an enemy with a "Blade" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Blade" weapon, user's Stamina will be restored.
 Drunk Lying In The East Sea
 During this Footwork, if the user is drunk, the user will consume all of the Inhale and Stance when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of Inhale and Stance that exceeded the requirements to perform it.
 Fox Move
