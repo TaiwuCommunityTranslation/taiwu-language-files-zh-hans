@@ -669,7 +669,7 @@ Above The Sky
 Enhanced Finesse gain
 During this Footwork: the user's Finesse will not be reduced by any effect; all Finesse-raising techniques and buffs effects received by the user are greatly increased
 Fallen Flower
-Whenever the user hits an enemy with a "Zither" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Zither" weapon, user's Stamina will be restored.
 Skyscraper Climbing
 Increase your hit
 When the user attacks an enemy during this Footwork, user's Accuracies other than Breath will be boosted by a portion of the user's Breath.
