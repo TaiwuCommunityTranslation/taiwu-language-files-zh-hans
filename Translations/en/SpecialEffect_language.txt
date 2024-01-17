@@ -21,7 +21,7 @@ Sutra of Marrow\nRejuvenation
 Fatal Wnd. Decrease
 Greatly increases the upper limit of all major attributes of the user (by 20). Direct External Fatal Wound damage taken by user will be reduced by 50%; If the user is a virgin male, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Abdominal\nBreathing
-Increase the power limit of the user's "Emei School" techniques by 30%
+Increases the power limit of the user's "Emei Sect" techniques by 30%
 Emei Pillar\nHolding
 The higher the percentage of "Wood" internal power of the user, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Original Pure\nForce
@@ -39,7 +39,7 @@ Significantly increases the power of user's "Wood" techniques; While performing 
 Great Nirvana
 The higher the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a positive trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
 Diagram of\nAcupunture Points
-Increase the power limit of the "Hundred Flowers Valley" technique of the user, by 30%
+Increases the power limit of the user's "Hundred Flowers Valley" techniques by 30%
 Acupuncture\nOriginal
 Increases the speed at which the user can "heal" in battle
 Significantly increases the speed at which the user can "heal" in battle
