@@ -581,7 +581,7 @@ White Ape's Leap
 Automatic Weapon Attack
 During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
 Unpredictable
-Whenever the user hits an enemy with a "Dagger" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Dagger" weapon, user's Stamina will be restored.
 Lotus Displacement
 Exchanging the enemy and us storage style
 During this Footwork, every time the user accumulates 1 distance, the user's 3 unavailable styles are exchanged with the enemy's 3 available styles.
