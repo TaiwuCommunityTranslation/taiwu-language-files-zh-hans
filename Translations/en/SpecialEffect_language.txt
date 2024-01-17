@@ -147,7 +147,7 @@ Greatly increase "Constitution" limit. External Defense given by "Constitution" 
 9 Tripots\nCultivation
 The longer the remaining health (in years) of the user, the more the power of the user's techniques will increase, by up to 40%.
 Vajra-Hearted\nBuddha Meditation
-Increases the power limit of the user's "Vajra Sect" techniques by 30%.
+Increases the power limit of the user's "Vajrayana" techniques by 30%
 Internal Fire\nYoga
 The higher the percentage of "Metal" internal power of the user, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Trinity\nof Buddha
