@@ -231,7 +231,7 @@ At the beginning of a battle, the user's "Break" True Qi is increased significan
 Energizing\nPractice
 All backlash damage to the user is significantly reduced
 Lying Beside Tiger
-When the "Aegis" True Qi of the user is higher than the "Aegis" True Qi of the enemy, all direct damage dealt by the enemy to the user is reduced by 15%.
+When user's "Aegis" True Qi is higher than the enemy's "Aegis" True Qi, all direct damage dealt by the enemy will be reduced by 15%
 18 Rollings
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a buff that improves Diversion, Parry, and Evasion by 2%, which can stack and has no time limit.
 Heavy Stance
@@ -259,7 +259,7 @@ Changing the Ext. Def. to Int. Def.
 Protection from external injury
 When defending with this technique, half of the user's External Defense temporarily shifts to Internal Defense. As long as the area where the user is attacked by the enemy doesn't have Weak Points, the user is immune to any External Injuries or Weak Points caused by the enemy.
 Emei Tiger Step
-When the "Quick" True Qi of the user is higher than the "Quick" True Qi of the enemy, all direct damage dealt by the enemy to the user is reduced by 15%.
+When user's "Quick" True Qi is higher than the enemy's "Quick" True Qi, all direct damage dealt by the enemy will be reduced by 15%
 Unintentional Mind
 Get extra storage style
 Whenever the user obtains any available style, there is a certain chance that the user will obtain 1 more style of the same type.
