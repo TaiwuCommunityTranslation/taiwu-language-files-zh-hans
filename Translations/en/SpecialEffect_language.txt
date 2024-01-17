@@ -2413,7 +2413,7 @@ During this Footwork, as long as the enemy does not have the effect that can cha
 Reverse - Driving Wind
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Cast Speed.
 Reverse - Fancy Step
-Whenever the user hits an enemy with a "Talisman" type weapon during this Footwork, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Talisman" weapon, enemy's Stamina will be depleted.
 Reverse - Driving Cloud
 Reduced enemy counter shock damage
 During this Footwork, the enemy's reflect damage is significantly reduced
