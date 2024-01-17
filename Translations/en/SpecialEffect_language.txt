@@ -2400,7 +2400,7 @@ Whenever you retreat 1 distance with this Footwork, your Stamina gets restored.
 Reverse - Mysterious Armor
 During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming Inhale or Stance
 Reverse - Shake Mountain
-During this Footwork, whenever the user inflicts an injury or Fatal Wound on an enemy with direct damage,, the enemy loses part of his Footwork and Stamina.
+During this Footwork, whenever the user inflicts an Injury or a Fatal Wound marker on the enemy with direct damage, the enemy loses a part of their Footwork and Stamina.
 Reverse - Iron Bridge
 During this Footwork, when the distance between the user and the enemy is less than 7, the closer the distance between the two, the lower the chance of the enemy hitting the user.
 Reverse - Chain of River-Block
