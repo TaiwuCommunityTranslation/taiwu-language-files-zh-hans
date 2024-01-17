@@ -3805,7 +3805,7 @@
   "LK_UI_OfferUp_SupportDown_ConfirmDesc": "You will temporarily distance yourself from this place, and won't require support from the common people and sect disciples of this area...",
   "LK_UI_OfferUp_SupportDown_ConfirmContent": "Are you sure you want to distance yourself from this place?",
   "LK_UI_OfferUp_Deactivate_ConfirmContent": "You will temporarily withhold assistance from the common people or sect disciples of this area, and will no longer receive corresponding resources...\nAre you sure you want to temporarily resign?",
-  "LK_UI_OfferUp_Status": "Resource Assistance: {0}/{1}",
+  "LK_UI_OfferUp_Status": "Res. Assist.: {0}/{1}",
   "LK_UI_OfferUp_ResourceTips": "Assistance Offers: ",
   "LK_UI_OfferUp_DisableTips": "Nowadays, all industries here are in decline, the regional culture is low, and assistance resources cannot be provided...",
   "LK_UI_OfferUp_SpritualDebt_Overflow": "The Favor of this place has overflowed\nAfter distancing yourself from this place, the returned Favor will <color=#brightred>disappear forever</color>.",
