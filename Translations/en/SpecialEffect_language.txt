@@ -2436,7 +2436,7 @@ During this Footwork, the enemy's casting speed is significantly reduced
 Reverse - Rushes To The Moon
 During this Footwork, the user has to accumulate power to jump 2 distance; Whenever the user jumps, they will gain 3 points of "Quick" True Qi.
 Reverse - Learae's Snowsteps
-During this Footwork, whenever the enemy attacks the user, user will first hit the enemy with a Breath attack, each one less and less accurate. If the enemy fails to resolve this Breath attack, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles.
+During this Footwork, whenever an enemy attacks the user, a separate Breath check will happen, and if the enemy fails to Resolve it, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles. This Breath check becomes progressively less accurate each time it activates within the duration of this technique.
 Reverse - Lady Azure's Icesteps
 Increase Swiftness Debuff
 During this Footwork, Enemy's Swiftness will not be increased by any effect; All debuffs that decrease Swiftness will be greatly improved; Any Break technique that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be Sealed after using.
