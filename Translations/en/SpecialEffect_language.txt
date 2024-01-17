@@ -2336,7 +2336,7 @@ During this Footwork, the power of the enemy's "Aegis" technique is reduced and 
 Reverse - Lighten Body
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a buff to the user to increase the speed of recovery of Stamina
 Reverse - The Great Flip
-Whenever the user hits an enemy with a "Polearm" during this Footwork, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Polearm" weapon, enemy's Stamina will be depleted.
 Reverse - 9 Maps And 6 Statues
 Increase the power of Aegis
 During this Footwork, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
@@ -2348,7 +2348,7 @@ During this Footwork, as long as the enemy does not have an effect that can chan
 Reverse - White Ape's Leap
 During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
 Reverse - Unpredictable
-Whenever the user hits an enemy with a "Dagger" type weapon during this Footwork, the enemy's Stamina is lost.
+During this Footwork, whenever the user hits an enemy with a "Dagger" weapon, enemy's Stamina will be depleted.
 Reverse - Lotus Displacement
 During this Footwork, every time the user accumulates 1 distance back, the 3 unavailable styles of the user are exchanged with the 3 available styles of the enemy.
 Reverse - Shuttle's Swift
