@@ -567,7 +567,7 @@ Lighten Body
 Improve Stamina recovery
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a buff to the user which increases the speed of Stamina recovery
 The Great Flip
-Whenever the user hits an enemy with a "Polearm" during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Polearm" weapon, user's Stamina will be restored.
 9 Maps And 6 Statues
 Increase Aegis time
 During this Footwork, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
