@@ -726,7 +726,7 @@ Extra Kick
 As long as this Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a lower tier without any cost.
 Stone Sink
 Basic Atk All Might
-During this Footwork, as long as the enemy doesn't have effect that change the way they Resolve attacks, all weapon attacks of the user will use the Might accuracy value.
+During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Might accuracy value.
 Immobilize
 During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Punch", "Hack" and "Throw" styles possessed by the user can be used in place of each other.
 Vajra Stance
@@ -2409,7 +2409,7 @@ Reverse - Lion's Swift
 During this Footwork, whenever the user hits an enemy with a "Hand Guard" weapon, enemy's Stamina will be depleted.
 Reverse - Ghost Step
 PAR all basic Atk
-During this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Parry.
+During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Parry value.
 Reverse - Driving Wind
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Cast Speed.
 Reverse - Fancy Step
