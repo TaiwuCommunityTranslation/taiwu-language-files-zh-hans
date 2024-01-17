@@ -2481,7 +2481,7 @@ During this Footwork, whenever the user hits an enemy with a "Pestle" weapon, en
 Reverse - Divine Footsteps
 During this Footwork: the backward speed of the user will not be reduced for any reason; the backwardness of the user will not be used as movement, but as a change in the distance between the enemy and us, and will not cause any kind of movement effect, but the speed of the user's movement will still affect the speed of the change in the distance between the enemy and us
 Reverse - Snake Crawling
-Whenever the user hits an enemy with a "Whip" type weapon during this Footwork, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Whip" weapon, enemy's Stamina will be depleted.
 Reverse - Breakthrough Swamp
 Prohibit moving gain
 During this Footwork, the enemy's movement speed cannot be increased for any reason
