@@ -2344,7 +2344,7 @@ Reverse - Crossing The River With A Reed
 During this Footwork: the enemy cannot eliminate the Footwork and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
 Reverse - Shorten Distance
 EVA all basic Atk
-During this Footwork, as long as the enemy does not have an effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Evasion.
+During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Evasion value.
 Reverse - White Ape's Leap
 During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
 Reverse - Unpredictable
@@ -2473,7 +2473,7 @@ Reverse - Flood Dragon Stirs Ocean
 As long as this Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a higher tier without any cost.
 Reverse - Stone Sink
 Diversion all basic Atk
-During this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Diversion.
+During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Diversion value.
 Reverse - Immobilize
 During this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
 Reverse - Vajra Stance
