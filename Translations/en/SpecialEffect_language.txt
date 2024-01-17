@@ -2445,7 +2445,7 @@ During this Footwork, whenever the user retreats 2 distances: User's Inhale and 
 Reverse - Feather Stance
 During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user retreats, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Reverse - Wooden Track
-During this Footwork, whenever the enemy inflicts an injury or Fatal Wound on the user with direct damage, the user restores a part of his Footwork and Stamina.
+During this Footwork, whenever the enemy inflicts an Injury or a Fatal Wound marker on the user with direct damage, the user restores a part of their Footwork and Stamina.
 Reverse - Car Driving Chapter
 During the duration of this technique, whenever the user hits an enemy with a "machine" type weapon, the enemy's Stamina will be lost.
 Reverse - All Directions
