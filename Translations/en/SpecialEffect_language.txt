@@ -194,7 +194,7 @@ Change the "Heterodox" effect of the user's "Water" type of technique other than
 Galaxy Map
 When the internal energy of the user is "Water", it is more difficult to "block" or "interrupt" all of the user's techniques.
 Fire Paint\nTattoo
-Increases the power limit of the user's "Fu Long Sect" techniques by 30%.
+Increases the power limit of the user's "Fulong Altar" techniques by 30%
 Fulong\nFire-Engulf
 The higher the percentage of "Fire" internal energy of the user, the more the user's External Defense and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
 Pure Qi of Fire
@@ -210,7 +210,7 @@ The more mutilated body parts the user has, the less direct damage the enemy can
 The Great Jade\nYang
 Significantly increases the power of the user's "Fire" type techniques, by 20%.
 Hou Meditation
-Increases the power limit of the user's "Bloodhound Cult" techniques by 30%.
+Increases the power limit of the user's "Bloodhound Cult" techniques by 30%
 4 Methods of\nDark Corpse
 Increases the power of the user's "Earth" type techniques by 10%.
 Evil Ghost
