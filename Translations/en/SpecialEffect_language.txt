@@ -606,7 +606,7 @@ Snow Step
 Increase the level of sealing points
 During this Footwork, the level of the blocked points caused by the user to the enemy is increased.
 Wick of Lamp
-During this Footwork, when the user attacks an enemy, they will first deal a Finesse attack, each one less and less accurate, and if the enemy fails to resolve this Finesse hit, a random injury on the user's body will be reduced by 2
+During this Footwork, whenever the user attacks an enemy, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the user's body will be reduced by 2. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
 Jade Step
 When advancing with this Footwork, the user needs to accumulate power to move 3 distances at once, and then a random injury on the user's body will be reduced by 2
 Flower Listen Rain
