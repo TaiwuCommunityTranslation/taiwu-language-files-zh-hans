@@ -656,7 +656,7 @@ Driving Wind
 Cast Spd up
 Every time you move 1 distance with this Footwork, a buff is applied to the user to increase cast speed.
 Fancy Step
-Whenever the user hits an enemy with a "talisman" type weapon during this Footwork, the user's strength is restored.
+During this Footwork, whenever the user hits an enemy with a "Talisman" weapon, user's Stamina will be restored.
 Driving Cloud
 Reduced enemy counterattack damage
 During this Footwork, the enemy's counterattack damage is significantly reduced
