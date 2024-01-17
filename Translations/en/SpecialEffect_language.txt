@@ -2425,7 +2425,7 @@ Reverse - Above The Sky
 Enhancement Parry
 During this Footwork: the enemy's Parry stat will not be increased by any effect; the enemy suffers significantly more effect from all skills and negative effects that reduce Parry stat.
 Reverse - Fallen Flower
-During the duration of this technique, whenever the user hits the enemy with a "Zither" type weapon, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Zither" weapon, enemy's Stamina will be depleted.
 Reverse - Skyscraper Climbing
 Increase your own dissolution
 When the enemy attacks the user during this Footwork, the user's defenses, except for Focus, will receive an additional portion of the user's Focus.
@@ -2447,7 +2447,7 @@ During this Footwork, whenever the user retreats, they need to accumulate power 
 Reverse - Wooden Track
 During this Footwork, whenever the enemy inflicts an Injury or a Fatal Wound marker on the user with direct damage, the user restores a part of their Footwork and Stamina.
 Reverse - Car Driving Chapter
-During the duration of this technique, whenever the user hits an enemy with a "machine" type weapon, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Mech. Bird" weapon, enemy's Stamina will be depleted.
 Reverse - All Directions
 For every 0.3 distance of accumulated retreat with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 Reverse - Tiger Hill Test Sword
