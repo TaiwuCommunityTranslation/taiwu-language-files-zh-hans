@@ -417,7 +417,7 @@ Forge Mysterious Iron
 Arms become divine weapons
 When the total number of defeat marks of the user exceeds half of the defeat condition, the weapon currently used by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" cannot be damaged unless it is damaged by attacking "Divine Armor"; direct damage caused by attacking with "Divine Armor" cannot be reduced by any effect unless the enemy is protected by "Divine Armor"
 4 Finger Azure Cream
-When the "Nadis" True Qi of the user is higher than the "Nadis" True Qi of the enemy, all direct damage dealt by the enemy to the user is reduced by 15%.
+When user's "Nadis" True Qi is higher than the enemy's "Nadis" True Qi, all direct damage dealt by the enemy will be reduced by 15%
 3 Books of 9-Steps
 When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Visceral Anatomy
