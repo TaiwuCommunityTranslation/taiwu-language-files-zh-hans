@@ -2464,7 +2464,7 @@ During this Footwork: the enemy's Diversion will not be increased by any effect;
 Reverse - Flying On The Grass
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 Reverse - Cliff Hanging Pot
-Whenever the user hits an enemy with a "Poison pouch" type weapon during this Footwork, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, enemy's Stamina will be depleted.
 Reverse - Shatang's Watersteps
 When using Kick Techniques in this Footwork your Accuracies will be shifted towards Finesse
 Reverse - Skyline of Mt.Chai
@@ -2477,7 +2477,7 @@ During this Footwork, as long as the enemy does not have the effect that can cha
 Reverse - Immobilize
 During this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
 Reverse - Vajra Stance
-Whenever the user hits an enemy with a "Club" type weapon during this Footwork, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Pestle" weapon, enemy's Stamina will be depleted.
 Reverse - Divine Footsteps
 During this Footwork: the backward speed of the user will not be reduced for any reason; the backwardness of the user will not be used as movement, but as a change in the distance between the enemy and us, and will not cause any kind of movement effect, but the speed of the user's movement will still affect the speed of the change in the distance between the enemy and us
 Reverse - Snake Crawling
