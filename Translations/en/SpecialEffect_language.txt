@@ -776,7 +776,7 @@ Barefoot
 During this Footwork, the user will not be moved backwards for any reason.
 Drunk 8 Immortals
 Increase chase damage
-During this Footwork, if the user is drunk, the damage dealt by user's follow-up attacks will be increased.
+During this Footwork, if the user is drunk, the damage dealt by the user's follow-up attacks will be increased.
 Dragon Tail
 Increase the Weak Points level
 During this Footwork, the level of Weak Points caused by the user to the enemy is increased.
@@ -2528,7 +2528,7 @@ During this Footwork, when the user is attacked by the enemy, the user will firs
 Reverse - Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during this Footwork, the enemy's Stamina will be lost.
 Reverse - Drunk Lying In The East Sea
-If the user is drunk during this Footwork, the user can perform the "Break" technique without the required Inhale and Stance, but the power of the technique will be reduced in proportion to the lack of required Inhale and Stance.
+During this Footwork, if the user is drunk, the user can perform the "Break" technique without the required Inhale and Stance, but the power of the technique will be reduced in proportion to the lack of required Inhale and Stance.
 Reverse - Fox Move
 When retreating with this Footwork, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 Reverse - Tomb Escape
