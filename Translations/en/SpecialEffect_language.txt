@@ -166,7 +166,7 @@ If the total number of user's defeat markers exceeds half of the defeat conditio
 Tantric Atiyoga
 If the user's main element is "Metal", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Metal", "Wood", or "Earth" technique, the Fatal Wound damage taken will be reduced by 80%
 Poisoning\nMethod
-Increase the power limit of the user's "Five Immortals" techniques by 30%
+Increases the power limit of the user's "Five Immortals Cult" techniques by 30%
 Yellow\nImmortals Cultivation
 Significantly increases the speed of the user's "Detoxing" in battle
 Red Immortals\nCultivation
