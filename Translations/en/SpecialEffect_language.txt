@@ -2290,7 +2290,7 @@ The more "Throw" styles the user has, the more the user's Diversion increases; t
 Reverse -  Seven Elements of the Greatest Relief Technique
 When defending with this technique: the more body parts the user has destroyed, the higher the reflect damage the user inflicts on the enemy; at the end of defending with this technique, 3 injury marks on the user's destroyed body parts are randomly changed to old injuries that are more difficult to recover from
 Reverse - Anger Face
-When the user's "Break" True Qi is twice as high as the enemy's "Break" True Qi, all direct damage dealt by the user to the enemy is increased by 15%.
+When user's "Break" True Qi is twice as high as the enemy's "Break" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - Dragon Looks Back
 When defending with this technique: all direct External Damage taken by the user is reduced by 30%; Whenever the user Reflects an enemy attack, the enemy loses 1 point of "Break" True Qi
 Reverse - Divine Fire Cover
