@@ -2069,7 +2069,7 @@ Reverse - Vajra Defence
 Improving external injury reflect
 When defending with this technique, as long as the area where the user is attacked doesn't have Weak Points, the External Reflect of this technique is greatly increased
 Reverse - Emei Tiger Step
-When the user's "Quick" True Qi is twice as high as the enemy's "Quick" True Qi, all direct damage dealt by the user to the enemy is increased by 15%.
+When user's "Quick" True Qi is twice as high as the enemy's "Quick" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - Unintentional Mind
 Exempt from storage loss
 Whenever the user loses any available formula, there is a certain chance that the user will lose 1 less formula.
@@ -2211,7 +2211,7 @@ Reverse - Forge Mysterious Iron
 Protective gear becomes divine armor
 When the total number of defeat marks of the user exceeds half of the defeat condition, the protective gear currently worn by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" will not be damaged unless it is damaged by the attack of "Divine Armor"; all direct damage resisted by "Divine Armor" cannot be increased by any effect unless the enemy attacks or performs a technique with "Divine Armor".
 Reverse - 4 Finger Azure Cream
-When the user's "Nadis" True Qi is twice as high as the enemy's "Nadis" True Qi, all direct damage dealt by the user to the enemy is increased by 15%.
+When user's "Nadis" True Qi is twice as high as the enemy's "Nadis" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - 3 Books of 9-Steps
 When the distance between the user and the enemy is less than 5, the closer the enemy is to us, the more the user's Diversion, Parry, Evasion and Focus will be improved.
 Reverse - Visceral Anatomy
