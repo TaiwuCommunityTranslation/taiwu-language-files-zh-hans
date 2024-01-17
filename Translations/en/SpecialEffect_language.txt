@@ -681,7 +681,7 @@ Rushes To The Moon
 When advancing with this Footwork, the user needs to accumulate power to jump 2 distances at once, and then the user gains 3 points of "Quick" True Qi
 Learae's Snowsteps
 Remove E·Style
-During this Footwork, whenever the user attacks the enemy, user will first hit the enemy with a Breath attack, each one less and less accurate. If the enemy fails to resolve this Breath attack, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles.
+During this Footwork, whenever the user attacks an enemy, a separate Breath check will happen, and if the enemy fails to Resolve it, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles. This Breath check becomes progressively less accurate each time it activates within the duration of this technique.
 Lady Azure's Icesteps
 Enhanced Swiftness Gain
 Auto Cast Break
