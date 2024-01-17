@@ -596,7 +596,7 @@ Needle Lift-Up
 Mutual substitution of storage type
 During this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Hold" style, "Slash" style and "Drive" style of the user can be used in place of each other
 Shadow Surround
-Whenever the user hits an enemy with a "Flute" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Flute" weapon, user's Stamina will be restored.
 Flying Needle
 Whenever the user hits an enemy with a "Needle box" type weapon during this Footwork, the user's Stamina is restored.
 Needle Driving
