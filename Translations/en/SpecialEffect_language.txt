@@ -2526,7 +2526,7 @@ During this Footwork, it reduces the level of Weak Points caused by the enemy to
 Reverse - Dragon Leap
 During this Footwork, whenever an enemy attacks the user, a separate Might check will happen, and if the enemy fails to Resolve it, direct damage of this attack will be reduced by 30%. This Might check becomes progressively less accurate each time it activates within the duration of this technique.
 Reverse - Wind Fire Stance
-Whenever the user hits an enemy with a "Blade" type weapon during this Footwork, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Blade" weapon, enemy's Stamina will be depleted.
 Reverse - Drunk Lying In The East Sea
 During this Footwork, if the user is drunk, the user can perform the "Break" technique without the required Inhale and Stance, but the power of the technique will be reduced in proportion to the lack of required Inhale and Stance.
 Reverse - Fox Move
