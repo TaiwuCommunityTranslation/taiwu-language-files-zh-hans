@@ -734,7 +734,7 @@ During this Footwork, whenever the user hits an enemy with a "Pestle" weapon, us
 Divine Footsteps
 During the duration of this body method: the forward speed of the user will not be reduced for any reason; the forward movement of the user will not be regarded as movement, but as the change of the distance between the enemy and us, and will not cause any kind of movement effect, but the movement speed of the user will still affect the speed of the change of the distance between the enemy and us.
 Snake Crawling
-Whenever the user hits an enemy with a "Whip" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Whip" weapon, user's Stamina will be restored.
 Breakthrough Swamp
 The movement speed of the user will not be reduced for any reason during this Footwork
 Toad Leap
