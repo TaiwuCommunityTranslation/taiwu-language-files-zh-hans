@@ -2362,7 +2362,7 @@ During the duration of this technique, whenever an enemy acquires the "Hold", "S
 Reverse - Shadow Surround
 During this Footwork, whenever the user hits an enemy with a "Flute" weapon, enemy's Stamina will be depleted.
 Reverse - Flying Needle
-During the duration of this technique, whenever the user hits the enemy with a "needle box" type weapon, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Needle Box" weapon, enemy's Stamina will be depleted.
 Reverse - Needle Driving
 When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
 Reverse - Snow Step
