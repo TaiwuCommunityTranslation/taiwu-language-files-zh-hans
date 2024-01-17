@@ -2451,7 +2451,7 @@ During this Footwork, whenever the user hits an enemy with a "Mech. Bird" weapon
 Reverse - All Directions
 For every 0.3 distance of accumulated retreat with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 Reverse - Tiger Hill Test Sword
-Whenever the user strikes an enemy with a "Sword" type weapon during this Footwork, the enemy's Stamina will be lost.
+During this Footwork, whenever the user hits an enemy with a "Sword" weapon, enemy's Stamina will be depleted.
 Reverse -  Stardust Fury Avoidance
 Increase weapon toughness
 When the user attacks an enemy during the duration of this technique, the toughness of the user's weapon will be greatly increased if the level of the enemy's protective gear is not higher than the level of the weapon used by the user.
