@@ -1841,7 +1841,7 @@ Increase Fatal Wound Damage Taken
 Increase All True Qi
 At the start of the battle, all user's True Qi will become 2 times their initial value. All Fatal Wound damage except for External taken by the user will be doubled; If the user is a virgin male, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Reverse -  Dantian Opening and Closing Gong
-Reduces the usage requirements of user's "Emei Sect" techniques by 20%
+Reduces the usage requirements of "Emei Sect" techniques by 20%.
 Reverse -  Emei Twelve Piles
 The higher the percentage of "Wood" internal power of the user, the more the user's External Penetration and Internal Penetration will be increased.
 Reverse -  Innate One Element Qigong
