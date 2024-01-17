@@ -2728,7 +2728,7 @@
   "LK_Dispatch_Work": "Dispatch Work",
   "LK_Heal_Tip": "Use medical and detox skills to heal or detox yourself and teammate...",
   "LK_Neigong_Looping_Tip_None": "Choose one inner art to cultivate and increase your dantian energy. Your elements will change accordingly based on the inner art you choose...",
-  "LK_Neigong_Looping_Tip_Finished": "Can't obtain internal energy from this Inner Art anymore. You can still cultivate it to change your element...",
+  "LK_Neigong_Looping_Tip_Finished": "Can't obtain any more internal energy from this Inner Art.\nIt's still possible to Cultivate it to change your element...",
   "LK_Read_Tip_None": "Choose one book to read and other books as referance. The reading progress will increase every month...",
   "LK_Read_Tip_Finished": "This book has been read...",
   "LK_Read_Tip_Wug": "Because your body is infected with a Red-eyed Gu, it's hard to study books!",
