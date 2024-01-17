@@ -576,7 +576,7 @@ Immune Spd Dn
 During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
 Shorten Distance
 Basic Atk All SWI
-During this Footwork, as long as the enemy has no effect that can change the way of defusing, all weapon attacks of the user will use the Swiftness accuracy value.
+During this Footwork, as long as the enemy doesn't have effect that change the way they Resolve attacks, all weapon attacks of the user will use the Swiftness accuracy value.
 White Ape's Leap
 Automatic Weapon Attack
 During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
