@@ -559,10 +559,10 @@ Exchange Damage
 When the total number of defeat marks of the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Stance required to use skills is reduced by 50%
 Lift-Up Jumping
 Move Spd Up
-During the duration of this Footwork, the movement speed of the user will be increased when the user uses the "Aegis" technique.
+During this Footwork, the movement speed of the user will be increased when the user uses the "Aegis" technique.
 Gecko's Crawling
 Increase Aegis power
-During the duration of this Footwork, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
+During this Footwork, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
 Lighten Body
 Improve Stamina recovery
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a buff to the user which increases the speed of Stamina recovery
@@ -570,13 +570,13 @@ The Great Flip
 Whenever the user hits an enemy with a "Polearm" during the duration of this Footwork, the user's Stamina is restored.
 9 Maps And 6 Statues
 Increase Aegis time
-During the duration of this Footwork, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
+During this Footwork, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
 Crossing The River With A Reed
 Immune Spd Dn
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
+During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
 Shorten Distance
 Basic Atk All SWI
-During the duration of this Footwork, as long as the enemy has no effect that can change the way of defusing, all weapon attacks of the user will use the Swiftness accuracy value.
+During this Footwork, as long as the enemy has no effect that can change the way of defusing, all weapon attacks of the user will use the Swiftness accuracy value.
 White Ape's Leap
 Automatic Weapon Attack
 During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
@@ -584,17 +584,17 @@ Unpredictable
 Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Lotus Displacement
 Exchanging the enemy and us storage style
-During the duration of this Footwork, every time the user accumulates 1 distance, the user's 3 unavailable styles are exchanged with the enemy's 3 available styles.
+During this Footwork, every time the user accumulates 1 distance, the user's 3 unavailable styles are exchanged with the enemy's 3 available styles.
 Shuttle's Swift
-During the duration of this Footwork, if the amount of "attack tokens" user has is lower than the amount of "attack tokens" enemy has, user's Attack Speed is greatly increased.
+During this Footwork, if the amount of "attack tokens" user has is lower than the amount of "attack tokens" enemy has, user's Attack Speed is greatly increased.
 Moonlight Shadow
 Accuracy Up
-During the duration of this Footwork: the user's maximum amount of "attack tokens" increases by 1; When the user attacks while having maximum amount of "attack tokens", the user's chance of hitting the enemy is greatly increased
+During this Footwork: the user's maximum amount of "attack tokens" increases by 1; When the user attacks while having maximum amount of "attack tokens", the user's chance of hitting the enemy is greatly increased
 Golden Fairy
 When advancing with this Footwork, the user needs to accumulate power. The more power user accumulates, the farther the user will advance, up to 4 distance, and the farther the user advances, the stronger the effect will be of a buff applied to the user which improves Might, Finesse and Swiftness.
 Needle Lift-Up
 Mutual substitution of storage type
-During the duration of this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Hold" style, "Slash" style and "Drive" style of the user can be used in place of each other
+During this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Hold" style, "Slash" style and "Drive" style of the user can be used in place of each other
 Shadow Surround
 Whenever the user hits an enemy with a "Flute" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Flying Needle
@@ -604,18 +604,18 @@ Get the opportunity to change moves
 When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
 Snow Step
 Increase the level of sealing points
-During the duration of this Footwork, the level of the blocked points caused by the user to the enemy is increased.
+During this Footwork, the level of the blocked points caused by the user to the enemy is increased.
 Wick of Lamp
-During the duration of this Footwork, when the user attacks an enemy, they will first deal a Finesse attack, each one less and less accurate, and if the enemy fails to resolve this Finesse hit, a random injury on the user's body will be reduced by 2
+During this Footwork, when the user attacks an enemy, they will first deal a Finesse attack, each one less and less accurate, and if the enemy fails to resolve this Finesse hit, a random injury on the user's body will be reduced by 2
 Jade Step
 When advancing with this Footwork, the user needs to accumulate power to move 3 distances at once, and then a random injury on the user's body will be reduced by 2
 Flower Listen Rain
 Enhancement of Breath gain
-During the duration of this Footwork: the user's Breath will not be reduced by any effect; the user will receive a significant increase in the effects of all techniques and buffs that increase Breath
+During this Footwork: the user's Breath will not be reduced by any effect; the user will receive a significant increase in the effects of all techniques and buffs that increase Breath
 5 Steps of Plum Poling
-During the duration of this Footwork, if the Accuracy stat of the user when attacking an enemy is lower than the enemy's Resolve stat, the user's chance of hitting the enemy is greatly increased.
+During this Footwork, if the Accuracy stat of the user when attacking an enemy is lower than the enemy's Resolve stat, the user's chance of hitting the enemy is greatly increased.
 8 Trigrams Step
-During the duration of this Footwork, if the user uses the "Aegis" technique, the enemy's Stance Recovery will be reduced
+During this Footwork, if the user uses the "Aegis" technique, the enemy's Stance Recovery will be reduced
 Cloud Surround
 Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Big Dipper Step\nof Heavenly Spirit
@@ -638,10 +638,10 @@ Step Alone A Thousand Mile
 Whenever you advance 1 distance with this Footwork, it restores your Stamina.
 Mysterious Armor
 0 skill cost
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming the Footwork and Stamina
+During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming the Footwork and Stamina
 Shake Mountain
 Improve Stamina depletion
-During the duration of this Footwork, it increases the loss of Footwork and Stamina caused by the user to the enemy.
+During this Footwork, it increases the loss of Footwork and Stamina caused by the user to the enemy.
 Iron Bridge
 E·WP Accuracy Dn
 During this Footwork, when the distance between the user and the enemy is more than 5, the further the distance between the two, the lower the chance of the enemy hitting the user
@@ -651,7 +651,7 @@ Lion's Swift
 Whenever the user hits an enemy with a "Hand Guard" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Ghost Step
 Basic Atk All FIN
-During the duration of this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Finesse accuracy value.
+During this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Finesse accuracy value.
 Driving Wind
 Cast Spd up
 Every time you move 1 distance with this Footwork, a buff is applied to the user to increase cast speed.
@@ -659,15 +659,15 @@ Fancy Step
 Whenever the user hits an enemy with a "talisman" type weapon during the duration of this Footwork, the user's strength is restored.
 Driving Cloud
 Reduced enemy counterattack damage
-During the duration of this Footwork, the enemy's counterattack damage is significantly reduced
+During this Footwork, the enemy's counterattack damage is significantly reduced
 Fairy Footsteps
 Move Closer
-During the duration of this Footwork, when the enemy attacks the user, the distance between the enemy and me is immediately reduced by 2. The reduced distance will be restored after the enemy's attack ends
+During this Footwork, when the enemy attacks the user, the distance between the enemy and me is immediately reduced by 2. The reduced distance will be restored after the enemy's attack ends
 Divine Swift
-During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not less than 7, the user does not consume Footwork when moving.
+During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not less than 7, the user does not consume Footwork when moving.
 Above The Sky
 Enhanced Finesse gain
-During the duration of this Footwork: the user's Finesse will not be reduced by any effect; all Finesse-raising techniques and buffs effects received by the user are greatly increased
+During this Footwork: the user's Finesse will not be reduced by any effect; all Finesse-raising techniques and buffs effects received by the user are greatly increased
 Fallen Flower
 Whenever the user hits an enemy with a "Zither" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Skyscraper Climbing
@@ -676,7 +676,7 @@ When the user attacks an enemy during the duration of this Footwork, user's Accu
 Farewell Steps
 During this Footwork, for every 3 successful hits on the enemy they will receive 1 "None" style.
 Afterglow Catching
-During the duration of this Footwork, the speed of the user's performance is greatly increased.
+During this Footwork, the speed of the user's performance is greatly increased.
 Rushes To The Moon
 When advancing with this Footwork, the user needs to accumulate power to jump 2 distances at once, and then the user gains 3 points of "Quick" True Qi
 Learae's Snowsteps
@@ -695,7 +695,7 @@ Cause Weak Point and Sealed Acupoint
 During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user advances, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Wooden Track
 Reduced movement loss
-During the duration of this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
+During this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
 Car Driving Chapter
 Whenever the user hits an enemy with a "machine" type weapon during the duration of this Footwork, the user's strength is restored.
 All Directions
@@ -704,13 +704,13 @@ Tiger Hill Test Sword
 Whenever the user hits an enemy with a "Sword" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Stardust Avoiding Anger
 Increase DES
-During the duration of this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the DES of the user's weapon will be greatly increased
+During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the DES of the user's weapon will be greatly increased
 Dragon Riding
 Footwork instead of Stance
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Stance is not enough to perform the "Break" technique, the user's Footwork can be consumed instead of the user's Stance.
+During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Stance is not enough to perform the "Break" technique, the user's Footwork can be consumed instead of the user's Stance.
 Tiankai Flowing Meteor Style
 Enhanced Might gain
-During the duration of this Footwork: the Might of the user will not be reduced by any effect; all Might-raising techniques and buff effects that the user receives are greatly increased
+During this Footwork: the Might of the user will not be reduced by any effect; all Might-raising techniques and buff effects that the user receives are greatly increased
 Flying On The Grass
 Move Dist Up
 When moving forward with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
@@ -726,7 +726,7 @@ Extra Kick
 As long as this Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a lower tier without any cost.
 Stone Sink
 Basic Atk All Might
-During the duration of this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Might accuracy value.
+During this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Might accuracy value.
 Immobilize
 During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Punch", "Hack" and "Throw" styles possessed by the user can be used in place of each other.
 Vajra Stance
@@ -748,24 +748,24 @@ Improves aura recovery
 Every time you move 1 distance with this Footwork, you apply a buff to the user that increases your Inhale and Stance Recoveries.
 Hundred Feet's Drill
 Attrition of the enemy's Aegis
-During the duration of this Footwork, when the user attacks the enemy, they will first perform a Swiftness attack on the enemy that gradually weakens with the number of uses. If the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced
+During this Footwork, when the user attacks the enemy, they will first perform a Swiftness attack on the enemy that gradually weakens with the number of uses. If the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced
 Sky Snake Rolling
 Reduce Poison Resistance
 When advancing with this Footwork, the user can accumulate strength to move 3 distances at once. After moving, user will apply a debuff to the enemy that reduces all Poison Resistances depending on the distance moved.
 A Hundred Feet Poling
-During the duration of this Footwork, the maximum attack distance of the user is increased by 2
+During this Footwork, the maximum attack distance of the user is increased by 2
 Traceless 6 Steps
-During the duration of this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Point", "Stab" and "Shot" styles possessed by the user can be used in place of each other
+During this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Point", "Stab" and "Shot" styles possessed by the user can be used in place of each other
 Carefree Step
 During the duration of this technique, whenever the user hits an enemy with a "concealed weapon" type weapon, the user's Stamina is restored.
 Sky River Walk
-During the duration of this Footwork, for every 1 distance the user advances, the user draws 1 point of "Break" true qi from the enemy's body.
+During this Footwork, for every 1 distance the user advances, the user draws 1 point of "Break" true qi from the enemy's body.
 Take 5 Cars
 When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then recover the user's Stamina
 Divine Rope
-During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the user attacks the enemy, the distance between the enemy and me is immediately reduced by 4. The reduced distance will be restored after the end of the user's attack
+During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the user attacks the enemy, the distance between the enemy and me is immediately reduced by 4. The reduced distance will be restored after the end of the user's attack
 Seven-Star Spin
-During the duration of this Footwork, the less "attack tokens" user has, the more the user's Attack Speed will increase.
+During this Footwork, the less "attack tokens" user has, the more the user's Attack Speed will increase.
 Heaven Leap
 Increase your attack
 When advancing with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the distance will be advanced, up to 5 distance, and the farther the user advances, the stronger a buff will be applied to the user which improves External Penetration and Internal Penetartion.
@@ -773,15 +773,15 @@ Moving Star
 Change the distance between enemy and us
 When this Footwork is performed, the distance between the enemy and me changes to 9; during the duration of this Footwork, the enemy cannot actively approach the user
 Barefoot
-During the duration of this Footwork, the user will not be moved backwards for any reason.
+During this Footwork, the user will not be moved backwards for any reason.
 Drunk 8 Immortals
 Increase chase damage
 If the user is drunk during the duration of this technique, the damage dealt by the user when chasing an enemy is increased.
 Dragon Tail
 Increase the Weak Points level
-During the duration of this Footwork, the level of Weak Points caused by the user to the enemy is increased.
+During this Footwork, the level of Weak Points caused by the user to the enemy is increased.
 Dragon Leap
-During the duration of this Footwork, when the user attacks an enemy, they will first deal a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might hit, all direct damage dealt by the user to the enemy will be increased by 15%
+During this Footwork, when the user attacks an enemy, they will first deal a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might hit, all direct damage dealt by the user to the enemy will be increased by 15%
 Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the user's Stamina is restored.
 Drunk Lying In The East Sea
@@ -2329,28 +2329,28 @@ Reverse - Undead Body of Blood Child
 When the total number of defeat marks of the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Inhale required to use skills is reduced by 50%
 Reverse - Lift-Up Jumping
 Reduce enemy movement speed
-During the duration of this Footwork, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
+During this Footwork, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
 Reverse - Gecko's Crawling
 Reducing the power of enemy Aegis
-During the duration of this Footwork, the power of the enemy's "Aegis" technique is reduced and lasts until the end of the "Aegis" technique.
+During this Footwork, the power of the enemy's "Aegis" technique is reduced and lasts until the end of the "Aegis" technique.
 Reverse - Lighten Body
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a buff to the user to increase the speed of recovery of Stamina
 Reverse - The Great Flip
 Whenever the user hits an enemy with a "Polearm" during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - 9 Maps And 6 Statues
 Increase the power of Aegis
-During the duration of this Footwork, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
+During this Footwork, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
 Reverse - Crossing The River With A Reed
-During the duration of this Footwork: the enemy cannot eliminate the Footwork and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
+During this Footwork: the enemy cannot eliminate the Footwork and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
 Reverse - Shorten Distance
 EVA all basic Atk
-During the duration of this Footwork, as long as the enemy does not have an effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Evasion.
+During this Footwork, as long as the enemy does not have an effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Evasion.
 Reverse - White Ape's Leap
 During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
 Reverse - Unpredictable
 Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the enemy's Stamina is lost.
 Reverse - Lotus Displacement
-During the duration of this Footwork, every time the user accumulates 1 distance back, the 3 unavailable styles of the user are exchanged with the 3 available styles of the enemy.
+During this Footwork, every time the user accumulates 1 distance back, the 3 unavailable styles of the user are exchanged with the 3 available styles of the enemy.
 Reverse - Shuttle's Swift
 While using this Footwork, if user has more "attack tokens" than the enemy, enemy's Attack Speed will be greatly reduced
 Reverse - Moonlight Shadow
@@ -2367,18 +2367,18 @@ Reverse - Needle Driving
 When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
 Reverse - Snow Step
 Reduce the level of sealing points
-During the duration of this Footwork, it reduces the level of the enemy's blocked points on the user.
+During this Footwork, it reduces the level of the enemy's blocked points on the user.
 Reverse - Wick of Lamp
-During the duration of this Footwork, when the user is attacked by an enemy, they will make a Finesse attack on the enemy, each one less and less accurate, and if the enemy fails to resolve this Finesse attack, 1 random injury on the enemy's body will worsen
+During this Footwork, when the user is attacked by an enemy, they will make a Finesse attack on the enemy, each one less and less accurate, and if the enemy fails to resolve this Finesse attack, 1 random injury on the enemy's body will worsen
 Reverse - Jade Step
 When retreating with this Footwork, the user needs to accumulate power to move 3 distances at once, and then a random injury on the user's body will be reduced by 2
 Reverse - Flower Listen Rain
 Enhancement of Focus reduction
-During the duration of this Footwork: the enemy's Focus will not be raised by any effect; all the effects of techniques and buffs that lower Focus the enemy receives are greatly increased
+During this Footwork: the enemy's Focus will not be raised by any effect; all the effects of techniques and buffs that lower Focus the enemy receives are greatly increased
 Reverse - 5 Steps of Plum Poling
-During the duration of this Footwork, if the enemy attacks the user with an Accuracy that is lower than the user's Resolve, the chance of the enemy hitting the user is significantly reduced.
+During this Footwork, if the enemy attacks the user with an Accuracy that is lower than the user's Resolve, the chance of the enemy hitting the user is significantly reduced.
 Reverse - 8 Trigrams Step
-During the duration of this Footwork, if the user uses the "Aegis" technique, the enemy's Inhale recovery will be reduced.
+During this Footwork, if the user uses the "Aegis" technique, the enemy's Inhale recovery will be reduced.
 Reverse - Cloud Surround
 During the duration of this technique, whenever the user hits the enemy with a "Whisk" type weapon, the enemy's Stamina will be lost.
 Reverse - Big Dipper Step\nof Heavenly Spirit
@@ -2398,9 +2398,9 @@ The Internal Penetration of the Kick performed by the user with this Footwork is
 Reverse - Step Alone A Thousand Mile
 Whenever you retreat 1 distance with this Footwork, your Stamina gets restored.
 Reverse - Mysterious Armor
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming Inhale or Stance
+During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming Inhale or Stance
 Reverse - Shake Mountain
-During the duration of this Footwork, whenever the user inflicts an injury or Fatal Wound on an enemy with direct damage,, the enemy loses part of his Footwork and Stamina.
+During this Footwork, whenever the user inflicts an injury or Fatal Wound on an enemy with direct damage,, the enemy loses part of his Footwork and Stamina.
 Reverse - Iron Bridge
 During this Footwork, when the distance between the user and the enemy is less than 7, the closer the distance between the two, the lower the chance of the enemy hitting the user.
 Reverse - Chain of River-Block
@@ -2409,21 +2409,21 @@ Reverse - Lion's Swift
 Whenever the user hits an enemy with a "Hand Guard" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Ghost Step
 PAR all basic Atk
-During the duration of this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Parry.
+During this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Parry.
 Reverse - Driving Wind
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Cast Speed.
 Reverse - Fancy Step
 Whenever the user hits an enemy with a "Talisman" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Driving Cloud
 Reduced enemy counter shock damage
-During the duration of this Footwork, the enemy's reflect damage is significantly reduced
+During this Footwork, the enemy's reflect damage is significantly reduced
 Reverse - Fairy Footsteps
-During the duration of this Footwork, when the enemy attacks the user, the distance between the enemy and me will immediately increase by 2. The increased distance will be restored after the enemy's attack ends
+During this Footwork, when the enemy attacks the user, the distance between the enemy and me will immediately increase by 2. The increased distance will be restored after the enemy's attack ends
 Reverse - Divine Swift
-During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not greater than 7, the user does not consume Footwork when moving.
+During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not greater than 7, the user does not consume Footwork when moving.
 Reverse - Above The Sky
 Enhancement Parry
-During the duration of this Footwork: the enemy's Parry stat will not be increased by any effect; the enemy suffers significantly more effect from all skills and negative effects that reduce Parry stat.
+During this Footwork: the enemy's Parry stat will not be increased by any effect; the enemy suffers significantly more effect from all skills and negative effects that reduce Parry stat.
 Reverse - Fallen Flower
 During the duration of this technique, whenever the user hits the enemy with a "Zither" type weapon, the enemy's Stamina will be lost.
 Reverse - Skyscraper Climbing
@@ -2432,7 +2432,7 @@ When the enemy attacks the user during the duration of this Footwork, the user's
 Reverse - Farewell Steps
 During this Footwork, for every 6 successful hits on the enemy they will receive 1 Daze marker.
 Reverse - Afterglow Catching
-During the duration of this Footwork, the enemy's casting speed is significantly reduced
+During this Footwork, the enemy's casting speed is significantly reduced
 Reverse - Rushes To The Moon
 During this Footwork, the user has to accumulate power to jump 2 distance; Whenever the user jumps, they will gain 3 points of "Quick" True Qi.
 Reverse - Learae's Snowsteps
@@ -2445,7 +2445,7 @@ During this Footwork, whenever the user retreats 2 distances: User's Inhale and 
 Reverse - Feather Stance
 During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user retreats, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Reverse - Wooden Track
-During the duration of this Footwork, whenever the enemy inflicts an injury or Fatal Wound on the user with direct damage, the user restores a part of his Footwork and Stamina.
+During this Footwork, whenever the enemy inflicts an injury or Fatal Wound on the user with direct damage, the user restores a part of his Footwork and Stamina.
 Reverse - Car Driving Chapter
 During the duration of this technique, whenever the user hits an enemy with a "machine" type weapon, the enemy's Stamina will be lost.
 Reverse - All Directions
@@ -2457,10 +2457,10 @@ Increase weapon toughness
 When the user attacks an enemy during the duration of this technique, the toughness of the user's weapon will be greatly increased if the level of the enemy's protective gear is not higher than the level of the weapon used by the user.
 Reverse - Dragon Riding
 Bodywork instead of Inhale lifting
-During the duration of this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Inhale is not enough to perform the "Break" technique, the user's Footwork can replace the user's Inhale consumption.
+During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Inhale is not enough to perform the "Break" technique, the user's Footwork can replace the user's Inhale consumption.
 Reverse -  Tenkai Flow Meteor Style
 Enhancement of Diversion reduction
-During the duration of this Footwork: the enemy's Diversion will not be increased by any effect; all techniques and debuffs that reduce the enemy's Diversion will be greatly increased
+During this Footwork: the enemy's Diversion will not be increased by any effect; all techniques and debuffs that reduce the enemy's Diversion will be greatly increased
 Reverse - Flying On The Grass
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 Reverse - Cliff Hanging Pot
@@ -2473,42 +2473,42 @@ Reverse - Flood Dragon Stirs Ocean
 As long as this Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a higher tier without any cost.
 Reverse - Stone Sink
 Diversion all basic Atk
-During the duration of this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Diversion.
+During this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Diversion.
 Reverse - Immobilize
-During the duration of this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
+During this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
 Reverse - Vajra Stance
 Whenever the user hits an enemy with a "Club" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Divine Footsteps
-During the duration of this Footwork: the backward speed of the user will not be reduced for any reason; the backwardness of the user will not be used as movement, but as a change in the distance between the enemy and us, and will not cause any kind of movement effect, but the speed of the user's movement will still affect the speed of the change in the distance between the enemy and us
+During this Footwork: the backward speed of the user will not be reduced for any reason; the backwardness of the user will not be used as movement, but as a change in the distance between the enemy and us, and will not cause any kind of movement effect, but the speed of the user's movement will still affect the speed of the change in the distance between the enemy and us
 Reverse - Snake Crawling
 Whenever the user hits an enemy with a "Whip" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Breakthrough Swamp
 Prohibit moving gain
-During the duration of this Footwork, the enemy's movement speed cannot be increased for any reason
+During this Footwork, the enemy's movement speed cannot be increased for any reason
 Reverse - Toad Leap
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at once. If the user has not attacked before the next accumulation of power, the cumulative amount of Footwork consumed by the user when advancing with this Footwork is reduced.
 Reverse - Flying Head
-During the duration of this Footwork, when the distance between the enemy and me is not greater than 7, the user won't receive new Weak Points or Sealed Acupoints
+During this Footwork, when the distance between the enemy and me is not greater than 7, the user won't receive new Weak Points or Sealed Acupoints
 Reverse - Rope Overhang
 Surrendering the enemy's momentum to restore
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Inhale and Stance Recoveries.
 Reverse - Hundred Feet's Drill
 Attrition of the enemy's bodywork
-During the duration of this Footwork, when the user is attacked by the enemy they will first hit the enemy with a Swiftness attack that gradually weakens with the number of uses, and if the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced.
+During this Footwork, when the user is attacked by the enemy they will first hit the enemy with a Swiftness attack that gradually weakens with the number of uses, and if the enemy fails to resolve this Swiftness attack, the remaining duration of the enemy's current "Aegis" skill will be significantly reduced.
 Reverse - Sky Snake Rolling
 When retreating with this Footwork, the user can accumulate strength to move 3 distances at once. After moving, user will apply a debuff to the enemy that reduces all Poison Resistances depending on the distance moved.
 Reverse - A Hundred Feet Poling
-During the duration of this Footwork, the minimum attack distance of the user is increased by 2
+During this Footwork, the minimum attack distance of the user is increased by 2
 Reverse - Traceless 6 Steps
 Whenever an enemy gains a "Point", "Stab", or "Shot" style during the duration of this Footwork, if the user can use these styles, there is a higher chance that the enemy's gained style will be transferred to the user.
 Reverse - Carefree Step
 Whenever the user hits an enemy with a "Hidden Weapon" during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Sky River Walk
-During the duration of this Footwork, for every distance the user accumulates back, the user draws 1 point of "Aegis" true qi from the enemy's body.
+During this Footwork, for every distance the user accumulates back, the user draws 1 point of "Aegis" true qi from the enemy's body.
 Reverse - Take 5 Cars
 When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then recover the user's Stamina
 Reverse - Divine Rope
-During the duration of this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the user attacks the enemy, the distance between the enemy and me will immediately increase by 4. The increased distance will be restored after the end of the user's attack
+During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the user attacks the enemy, the distance between the enemy and me will immediately increase by 4. The increased distance will be restored after the end of the user's attack
 Reverse - Seven-Star Spin
 While using this Footwork, the more "attack tokens" user has, the more user's Attack Speed will increase.
 Reverse - Heaven Leap
@@ -2516,15 +2516,15 @@ When retreating with this Footwork, the user needs to accumulate power, up to 5 
 Reverse - Moving Star
 When this Footwork is performed, the distance between the enemy and me changes to 5; during the duration of this Footwork, the enemy cannot actively move away from the user
 Reverse - Barefoot
-During the duration of this Footwork, the user will not be moved forward for any reason.
+During this Footwork, the user will not be moved forward for any reason.
 Reverse - Drunk 8 Immortals
 Reduced chase damage
 If the user is drunk during the duration of this technique, the damage dealt by the enemy when chasing the user is reduced.
 Reverse - Dragon Tail
 Reduce the level of Weak Points
-During the duration of this Footwork, it reduces the level of Weak Points caused by the enemy to the user.
+During this Footwork, it reduces the level of Weak Points caused by the enemy to the user.
 Reverse - Dragon Leap
-During the duration of this Footwork, when the user is attacked by the enemy, the user will first hit the enemy with a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might attack, all direct damage dealt by the enemy to the user is reduced by 30%
+During this Footwork, when the user is attacked by the enemy, the user will first hit the enemy with a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might attack, all direct damage dealt by the enemy to the user is reduced by 30%
 Reverse - Wind Fire Stance
 Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
 Reverse - Drunk Lying In The East Sea
