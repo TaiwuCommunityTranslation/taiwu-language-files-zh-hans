@@ -567,7 +567,7 @@ Lighten Body
 Improve Stamina recovery
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a buff to the user which increases the speed of Stamina recovery
 The Great Flip
-Whenever the user hits an enemy with a "Polearm" during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Polearm" during this Footwork, the user's Stamina is restored.
 9 Maps And 6 Statues
 Increase Aegis time
 During this Footwork, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
@@ -581,7 +581,7 @@ White Ape's Leap
 Automatic Weapon Attack
 During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
 Unpredictable
-Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Dagger" type weapon during this Footwork, the user's Stamina is restored.
 Lotus Displacement
 Exchanging the enemy and us storage style
 During this Footwork, every time the user accumulates 1 distance, the user's 3 unavailable styles are exchanged with the enemy's 3 available styles.
@@ -596,9 +596,9 @@ Needle Lift-Up
 Mutual substitution of storage type
 During this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Hold" style, "Slash" style and "Drive" style of the user can be used in place of each other
 Shadow Surround
-Whenever the user hits an enemy with a "Flute" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Flute" type weapon during this Footwork, the user's Stamina is restored.
 Flying Needle
-Whenever the user hits an enemy with a "Needle box" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Needle box" type weapon during this Footwork, the user's Stamina is restored.
 Needle Driving
 Get the opportunity to change moves
 When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
@@ -617,7 +617,7 @@ During this Footwork, if the Accuracy stat of the user when attacking an enemy i
 8 Trigrams Step
 During this Footwork, if the user uses the "Aegis" technique, the enemy's Stance Recovery will be reduced
 Cloud Surround
-Whenever the user hits an enemy with a "Whisk" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Whisk" type weapon during this Footwork, the user's Stamina is restored.
 Big Dipper Step\nof Heavenly Spirit
 Gain Specific Force
 Every time you move 1 distance with this Footwork, the user gains "Quick" true energy according to the amount of "Break" true energy the user has, and when the effect of this Footwork ends or expires, the user loses all "Quick" true energy gained in the process. Amount gained = (0.2 * [Break value] )
@@ -648,7 +648,7 @@ During this Footwork, when the distance between the user and the enemy is more t
 Chain of River-Block
 During this Footwork, every time the enemy advances 1 distance, user immediately makes a weapon attack that goes through Deflect without consumption.
 Lion's Swift
-Whenever the user hits an enemy with a "Hand Guard" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Hand Guard" type weapon during this Footwork, the user's Stamina is restored.
 Ghost Step
 Basic Atk All FIN
 During this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Finesse accuracy value.
@@ -656,7 +656,7 @@ Driving Wind
 Cast Spd up
 Every time you move 1 distance with this Footwork, a buff is applied to the user to increase cast speed.
 Fancy Step
-Whenever the user hits an enemy with a "talisman" type weapon during the duration of this Footwork, the user's strength is restored.
+Whenever the user hits an enemy with a "talisman" type weapon during this Footwork, the user's strength is restored.
 Driving Cloud
 Reduced enemy counterattack damage
 During this Footwork, the enemy's counterattack damage is significantly reduced
@@ -669,10 +669,10 @@ Above The Sky
 Enhanced Finesse gain
 During this Footwork: the user's Finesse will not be reduced by any effect; all Finesse-raising techniques and buffs effects received by the user are greatly increased
 Fallen Flower
-Whenever the user hits an enemy with a "Zither" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Zither" type weapon during this Footwork, the user's Stamina is restored.
 Skyscraper Climbing
 Increase your hit
-When the user attacks an enemy during the duration of this Footwork, user's Accuracies other than Breath will be boosted by a portion of the user's Breath.
+When the user attacks an enemy during this Footwork, user's Accuracies other than Breath will be boosted by a portion of the user's Breath.
 Farewell Steps
 During this Footwork, for every 3 successful hits on the enemy they will receive 1 "None" style.
 Afterglow Catching
@@ -697,11 +697,11 @@ Wooden Track
 Reduced movement loss
 During this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
 Car Driving Chapter
-Whenever the user hits an enemy with a "machine" type weapon during the duration of this Footwork, the user's strength is restored.
+Whenever the user hits an enemy with a "machine" type weapon during this Footwork, the user's strength is restored.
 All Directions
 For every 0.3 distance you advance with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 Tiger Hill Test Sword
-Whenever the user hits an enemy with a "Sword" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Sword" type weapon during this Footwork, the user's Stamina is restored.
 Stardust Avoiding Anger
 Increase DES
 During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the DES of the user's weapon will be greatly increased
@@ -715,7 +715,7 @@ Flying On The Grass
 Move Dist Up
 When moving forward with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 Cliff Hanging Pot
-Whenever the user hits an enemy with a "Poison pouch" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Poison pouch" type weapon during this Footwork, the user's Stamina is restored.
 Shatang's Watersteps
 Improve Finesse of Kick Techniques
 The Finesse of Kick Techniques performed in this Footwork will be greatly increased
@@ -730,13 +730,13 @@ During this Footwork, as long as the enemy does not have an effect that can chan
 Immobilize
 During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Punch", "Hack" and "Throw" styles possessed by the user can be used in place of each other.
 Vajra Stance
-Whenever the user hits an enemy with a "Club" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Club" type weapon during this Footwork, the user's Stamina is restored.
 Divine Footsteps
 During the duration of this body method: the forward speed of the user will not be reduced for any reason; the forward movement of the user will not be regarded as movement, but as the change of the distance between the enemy and us, and will not cause any kind of movement effect, but the movement speed of the user will still affect the speed of the change of the distance between the enemy and us.
 Snake Crawling
-Whenever the user hits an enemy with a "Whip" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Whip" type weapon during this Footwork, the user's Stamina is restored.
 Breakthrough Swamp
-The movement speed of the user will not be reduced for any reason during the duration of this Footwork
+The movement speed of the user will not be reduced for any reason during this Footwork
 Toad Leap
 Reduced Footwork consumption
 When advancing with this Footwork, the user needs to accumulate power to move 1 distance at once. If the user has not attacked before the next accumulation of power, the cumulative amount of Footwork consumed by the user when advancing with this Footwork is reduced.
@@ -771,7 +771,7 @@ Increase your attack
 When advancing with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the distance will be advanced, up to 5 distance, and the farther the user advances, the stronger a buff will be applied to the user which improves External Penetration and Internal Penetartion.
 Moving Star
 Change the distance between enemy and us
-When this Footwork is performed, the distance between the enemy and me changes to 9; during the duration of this Footwork, the enemy cannot actively approach the user
+When this Footwork is performed, the distance between the enemy and me changes to 9; during this Footwork, the enemy cannot actively approach the user
 Barefoot
 During this Footwork, the user will not be moved backwards for any reason.
 Drunk 8 Immortals
@@ -783,14 +783,14 @@ During this Footwork, the level of Weak Points caused by the user to the enemy i
 Dragon Leap
 During this Footwork, when the user attacks an enemy, they will first deal a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might hit, all direct damage dealt by the user to the enemy will be increased by 15%
 Wind Fire Stance
-Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "Blade" type weapon during this Footwork, the user's Stamina is restored.
 Drunk Lying In The East Sea
-If the user is drunk during the duration of this Footwork, the user will consume all of the Inhale and Stance when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of Inhale and Stance that exceeded the requirements to perform it.
+If the user is drunk during this Footwork, the user will consume all of the Inhale and Stance when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of Inhale and Stance that exceeded the requirements to perform it.
 Fox Move
 Accelerated mobile storage
 When moving forward with this Footwork, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
 Tomb Escape
-Whenever the user hits an enemy with a "poisonous sand" type weapon during the duration of this Footwork, the user's Stamina is restored.
+Whenever the user hits an enemy with a "poisonous sand" type weapon during this Footwork, the user's Stamina is restored.
 Ghost Move
 Improve leg swiftness
 The swiftness of the kicks performed by the user with this Footwork is greatly increased.
@@ -2336,7 +2336,7 @@ During this Footwork, the power of the enemy's "Aegis" technique is reduced and 
 Reverse - Lighten Body
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a buff to the user to increase the speed of recovery of Stamina
 Reverse - The Great Flip
-Whenever the user hits an enemy with a "Polearm" during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Polearm" during this Footwork, the enemy's Stamina will be lost.
 Reverse - 9 Maps And 6 Statues
 Increase the power of Aegis
 During this Footwork, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
@@ -2348,7 +2348,7 @@ During this Footwork, as long as the enemy does not have an effect that can chan
 Reverse - White Ape's Leap
 During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 1 distance. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
 Reverse - Unpredictable
-Whenever the user hits an enemy with a "Dagger" type weapon during the duration of this Footwork, the enemy's Stamina is lost.
+Whenever the user hits an enemy with a "Dagger" type weapon during this Footwork, the enemy's Stamina is lost.
 Reverse - Lotus Displacement
 During this Footwork, every time the user accumulates 1 distance back, the 3 unavailable styles of the user are exchanged with the 3 available styles of the enemy.
 Reverse - Shuttle's Swift
@@ -2406,14 +2406,14 @@ During this Footwork, when the distance between the user and the enemy is less t
 Reverse - Chain of River-Block
 During this Footwork, every time the enemy retreats 1 distance, user immediately makes a weapon attack that goes through Deflect without consumption.
 Reverse - Lion's Swift
-Whenever the user hits an enemy with a "Hand Guard" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Hand Guard" type weapon during this Footwork, the enemy's Stamina will be lost.
 Reverse - Ghost Step
 PAR all basic Atk
 During this Footwork, as long as the enemy does not have the effect that can change the way they hit, all enemy weapon attacks can be resolved by the user with Parry.
 Reverse - Driving Wind
 Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Cast Speed.
 Reverse - Fancy Step
-Whenever the user hits an enemy with a "Talisman" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Talisman" type weapon during this Footwork, the enemy's Stamina will be lost.
 Reverse - Driving Cloud
 Reduced enemy counter shock damage
 During this Footwork, the enemy's reflect damage is significantly reduced
@@ -2428,7 +2428,7 @@ Reverse - Fallen Flower
 During the duration of this technique, whenever the user hits the enemy with a "Zither" type weapon, the enemy's Stamina will be lost.
 Reverse - Skyscraper Climbing
 Increase your own dissolution
-When the enemy attacks the user during the duration of this Footwork, the user's defenses, except for Focus, will receive an additional portion of the user's Focus.
+When the enemy attacks the user during this Footwork, the user's defenses, except for Focus, will receive an additional portion of the user's Focus.
 Reverse - Farewell Steps
 During this Footwork, for every 6 successful hits on the enemy they will receive 1 Daze marker.
 Reverse - Afterglow Catching
@@ -2451,7 +2451,7 @@ During the duration of this technique, whenever the user hits an enemy with a "m
 Reverse - All Directions
 For every 0.3 distance of accumulated retreat with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 Reverse - Tiger Hill Test Sword
-Whenever the user strikes an enemy with a "Sword" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user strikes an enemy with a "Sword" type weapon during this Footwork, the enemy's Stamina will be lost.
 Reverse -  Stardust Fury Avoidance
 Increase weapon toughness
 When the user attacks an enemy during the duration of this technique, the toughness of the user's weapon will be greatly increased if the level of the enemy's protective gear is not higher than the level of the weapon used by the user.
@@ -2464,7 +2464,7 @@ During this Footwork: the enemy's Diversion will not be increased by any effect;
 Reverse - Flying On The Grass
 When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
 Reverse - Cliff Hanging Pot
-Whenever the user hits an enemy with a "Poison pouch" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Poison pouch" type weapon during this Footwork, the enemy's Stamina will be lost.
 Reverse - Shatang's Watersteps
 When using Kick Techniques in this Footwork your Accuracies will be shifted towards Finesse
 Reverse - Skyline of Mt.Chai
@@ -2477,11 +2477,11 @@ During this Footwork, as long as the enemy does not have the effect that can cha
 Reverse - Immobilize
 During this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
 Reverse - Vajra Stance
-Whenever the user hits an enemy with a "Club" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Club" type weapon during this Footwork, the enemy's Stamina will be lost.
 Reverse - Divine Footsteps
 During this Footwork: the backward speed of the user will not be reduced for any reason; the backwardness of the user will not be used as movement, but as a change in the distance between the enemy and us, and will not cause any kind of movement effect, but the speed of the user's movement will still affect the speed of the change in the distance between the enemy and us
 Reverse - Snake Crawling
-Whenever the user hits an enemy with a "Whip" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Whip" type weapon during this Footwork, the enemy's Stamina will be lost.
 Reverse - Breakthrough Swamp
 Prohibit moving gain
 During this Footwork, the enemy's movement speed cannot be increased for any reason
@@ -2500,9 +2500,9 @@ When retreating with this Footwork, the user can accumulate strength to move 3 d
 Reverse - A Hundred Feet Poling
 During this Footwork, the minimum attack distance of the user is increased by 2
 Reverse - Traceless 6 Steps
-Whenever an enemy gains a "Point", "Stab", or "Shot" style during the duration of this Footwork, if the user can use these styles, there is a higher chance that the enemy's gained style will be transferred to the user.
+Whenever an enemy gains a "Point", "Stab", or "Shot" style during this Footwork, if the user can use these styles, there is a higher chance that the enemy's gained style will be transferred to the user.
 Reverse - Carefree Step
-Whenever the user hits an enemy with a "Hidden Weapon" during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Hidden Weapon" during this Footwork, the enemy's Stamina will be lost.
 Reverse - Sky River Walk
 During this Footwork, for every distance the user accumulates back, the user draws 1 point of "Aegis" true qi from the enemy's body.
 Reverse - Take 5 Cars
@@ -2514,7 +2514,7 @@ While using this Footwork, the more "attack tokens" user has, the more user's At
 Reverse - Heaven Leap
 When retreating with this Footwork, the user needs to accumulate power, up to 5 distances, and the farther the user retreats, the stronger the buff will be applied to the user that improves Int. Pen and Ext. Pen.
 Reverse - Moving Star
-When this Footwork is performed, the distance between the enemy and me changes to 5; during the duration of this Footwork, the enemy cannot actively move away from the user
+When this Footwork is performed, the distance between the enemy and me changes to 5; during this Footwork, the enemy cannot actively move away from the user
 Reverse - Barefoot
 During this Footwork, the user will not be moved forward for any reason.
 Reverse - Drunk 8 Immortals
@@ -2526,9 +2526,9 @@ During this Footwork, it reduces the level of Weak Points caused by the enemy to
 Reverse - Dragon Leap
 During this Footwork, when the user is attacked by the enemy, the user will first hit the enemy with a Might attack, each one less and less accurate, and if the enemy fails to resolve this Might attack, all direct damage dealt by the enemy to the user is reduced by 30%
 Reverse - Wind Fire Stance
-Whenever the user hits an enemy with a "Blade" type weapon during the duration of this Footwork, the enemy's Stamina will be lost.
+Whenever the user hits an enemy with a "Blade" type weapon during this Footwork, the enemy's Stamina will be lost.
 Reverse - Drunk Lying In The East Sea
-If the user is drunk during the duration of this Footwork, the user can perform the "Break" technique without the required Inhale and Stance, but the power of the technique will be reduced in proportion to the lack of required Inhale and Stance.
+If the user is drunk during this Footwork, the user can perform the "Break" technique without the required Inhale and Stance, but the power of the technique will be reduced in proportion to the lack of required Inhale and Stance.
 Reverse - Fox Move
 When retreating with this Footwork, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 Reverse - Tomb Escape
