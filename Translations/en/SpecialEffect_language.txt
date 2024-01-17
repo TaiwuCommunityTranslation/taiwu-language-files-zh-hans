@@ -697,11 +697,11 @@ Wooden Track
 Reduced movement loss
 During this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
 Car Driving Chapter
-Whenever the user hits an enemy with a "machine" type weapon during this Footwork, the user's strength is restored.
+During this Footwork, whenever the user hits an enemy with a "Mech. Bird" weapon, user's Stamina will be restored.
 All Directions
 For every 0.3 distance you advance with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
 Tiger Hill Test Sword
-Whenever the user hits an enemy with a "Sword" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Sword" weapon, user's Stamina will be restored.
 Stardust Avoiding Anger
 Increase DES
 During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the DES of the user's weapon will be greatly increased
