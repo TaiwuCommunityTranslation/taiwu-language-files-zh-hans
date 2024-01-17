@@ -651,7 +651,7 @@ Lion's Swift
 During this Footwork, whenever the user hits an enemy with a "Hand Guard" weapon, user's Stamina will be restored.
 Ghost Step
 Basic Atk All FIN
-During this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Finesse accuracy value.
+During this Footwork, as long as the enemy doesn't have effect that change the way they Resolve attacks, all weapon attacks of the user will use the Finesse accuracy value.
 Driving Wind
 Cast Spd up
 Every time you move 1 distance with this Footwork, a buff is applied to the user to increase cast speed.
