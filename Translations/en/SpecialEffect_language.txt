@@ -1819,7 +1819,7 @@ When you start attacking an enemy with this technique, if the enemy's internal e
 Divine Blade\nof Mysterious
 Based on completion percentage of this technique and the amount of Inhale consumed by the user, user will gain up to 200 layers of this effect: When user performs a "Break" technique, layers of this effect will replace the Stance consumption, and the more layers get consumed, the more user's Ext. and Int. Penetration will be increased.
 Reverse -  Zen Meditation
-Reduces the usage requirements of user's "Shaolin" techniques by 20%
+Reduces the usage requirements of "Shaolin" techniques by 20%.
 Reverse -  Arhat Meditation
 Reduces the consumption of Inhale and Stance of the "Metal" type of technique by the user
 Reverse -  Heart Qi Mixing Technique
