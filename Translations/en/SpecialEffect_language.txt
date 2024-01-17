@@ -1819,7 +1819,7 @@ When you start attacking an enemy with this technique, if the enemy's internal e
 Divine Blade\nof Mysterious
 Based on completion percentage of this technique and the amount of Inhale consumed by the user, user will gain up to 200 layers of this effect: When user performs a "Break" technique, layers of this effect will replace the Stance consumption, and the more layers get consumed, the more user's Ext. and Int. Penetration will be increased.
 Reverse -  Zen Meditation
-Reduces the usage requirements of "Shaolin" techniques by 20%.
+Reduces the usage requirements of "Shaolin" techniques by 20%
 Reverse -  Arhat Meditation
 Reduces the consumption of Inhale and Stance of the "Metal" type of technique by the user
 Reverse -  Heart Qi Mixing Technique
@@ -1841,7 +1841,7 @@ Increase Fatal Wound Damage Taken
 Increase All True Qi
 At the start of the battle, all user's True Qi will become 2 times their initial value. All Fatal Wound damage except for External taken by the user will be doubled; If the user is a virgin male, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Reverse -  Dantian Opening and Closing Gong
-Reduces the usage requirements of "Emei Sect" techniques by 20%.
+Reduces the usage requirements of "Emei Sect" techniques by 20%
 Reverse -  Emei Twelve Piles
 The higher the percentage of "Wood" internal power of the user, the more the user's External Penetration and Internal Penetration will be increased.
 Reverse -  Innate One Element Qigong
@@ -1858,7 +1858,7 @@ Significantly decreases the Inhale and Stance cost of user's "Wood" techniques; 
 Reversal of the Great Nirvana Law
 The lower the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a negative trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
 Reverse -  Copper acupuncture point chart
-Reduces the usage requirements of "Hundred Flowers Valley" techniques by 20%.
+Reduces the usage requirements of "Hundred Flowers Valley" techniques by 20%
 Reverse -  Nine Needles Twelve Origin
 Reduced enemy healing speed
 Significantly reduce the speed of enemy "healing" in battle
@@ -1870,7 +1870,7 @@ Significantly reduces the amount of injuries that can be healed when an enemy pe
 Reversal - Golden Needle Vascularization Technique
 The more injuries the user removes with "Heal" in battle, the stronger the effect of a buff will be, which increases the user's Might, Finesse, Swiftness, and Breath.
 Reverse -  Wudang Taihe technique
-Reduces the usage requirements of "Wudang Sect" techniques by 20%.
+Reduces the usage requirements of "Wudang Sect" techniques by 20%
 Reverse -  Hold the Origin and Keep the One
 Reduces the consumption of Inhale and Stance of the user's "Fire" type technique
 Reverse -  One Word Mixed Pile
@@ -1887,7 +1887,7 @@ The higher the "Taoism" skill of the user, the more toxins the user can Detox in
 Reverse -  Pure Yang Wuji Gong
 When the user's main element is "Fire", they can perform techniques even if a required body part is broken, but the power of the technique performed this way will be reduced; When user gets attacked by a "Fire", "Metal", or "Wood" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
 Reverse -  exhale and clear method
-Reduces the usage requirements of "Yuanshan Sect" techniques by 20%.
+Reduces the usage requirements of "Yuanshan Sect" techniques by 20%
 Reverse -  Xiao Yuan Shan Jin
 The higher the ratio of the user's "Earth" internal energy, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Daewonsanjin
@@ -1897,7 +1897,7 @@ Converts the user's "Wood" internal energy into "Earth" internal energy. The mor
 Reverse -  Hunyuan WuXiangGong
 Turns "Orthodox" skill effects into their "Heterodox" versions on all "Earth" element skills other than "Inner Arts"
 Reverse -  seal gas fixation method
-Reduces the usage requirements of "Lion-Face Clan" techniques by 20%.
+Reduces the usage requirements of "Lion-Face Clan" techniques by 20%
 Reverse -  Thirteen Tai Bao cross practice
 When the user continuously attacks the enemy with the same technique in this battle, the damage dealt by the user will be increased each time, up to a maximum of 3 times.
 Reverse -  Iron Tripod Golden Body Technique
@@ -1905,7 +1905,7 @@ Significantly reduces the maximum number of Weak Points per user's body part, bu
 Reverse -  Light Lion Power
 Greatly increase "Strength" limit. Might given by "Strength" will be greatly increased based on user's purity.
 Reverse -  Nourishing the will method
-Reduces the usage requirements of "Ranshan Sect" techniques by 20%.
+Reduces the usage requirements of "Ranshan Sect" techniques by 20%
 Reverse -  Whirling Circle
 When the user's standpoint is "Even", power of all of their techniques will be increased; When the user and the enemy have opposing standpoints, the power of all the user's techniques will be increased
 Reverse -  Substantive Method
@@ -1922,7 +1922,7 @@ Reverse -  Xuanwei True Art
 Reducing the enemy's Nadis
 At the beginning of a battle, significantly reduce the amount of Nadis of the enemy and their helpers; significantly reduce the amount of Nadis gained by the enemy during the battle; significantly increase the amount of Nadis lost by the enemy during the battle
 Reversal - Xuan Nui Heart Skill
-Reduces the usage requirements of "Xuannyu Sect" techniques by 20%.
+Reduces the usage requirements of "Xuannyu Sect" techniques by 20%
 Reverse -  Jade Bone
 The higher the percentage of "Water" internal energy of the user, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Wang Shu Royal Moon technique
@@ -1941,7 +1941,7 @@ At the beginning of a battle, significantly reduce the amount of "Quick" True Qi
 Reverse -  Taiyin Yiming Jue
 At the start of the battle, all user's True Qi will become 2 times their initial value. All Fatal Wound damage except for Internal taken by the user will be doubled; If the user is a virgin female, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Reverse -  Burnt stone hammer forging
-Reduces the usage requirements of "Sword Manor" techniques by 20%.
+Reduces the usage requirements of "Sword Manor" techniques by 20%
 Reverse- manifesting the Shi Nai service
 Reduces the usage requirements of "Armor"
 Reverse - Chap. 5 Metals
@@ -1951,7 +1951,7 @@ The more times you refine your weapon, the more damage you can do to your enemy.
 Reverse -  sacrifice the soul to create a powerful chapter
 Reduces the usage requirements of "Weapons"
 Reversal - Essentials of Giftedness
-Reduces the usage requirements of "Kongsang Sect" techniques by 20%.
+Reduces the usage requirements of "Kongsang Sect" techniques by 20%
 Reverse -  Shennong Ben Cao Secret
 Reduce the speed of the enemy to drive away the poison
 Reducing the effect of enemy and expelling poison
@@ -1963,7 +1963,7 @@ Greatly increase "Constitution" limit. External Penetration given by "Constituti
 Reverse -  Jiu Ding Gong
 The shorter the remaining life span of the user, the more the power of all the feats of the user will increase, up to 40%.
 Reverse -  Vajra Four Karmas
-Reduces the usage requirements of "Vajrayana" techniques by 20%.
+Reduces the usage requirements of "Vajrayana" techniques by 20%
 Reverse -  Toom technique
 The higher the ratio of "Metal" internal power of the user, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Three Secret Response Method
@@ -1981,7 +1981,7 @@ If the total number of user's defeat markers exceeds half of the defeat conditio
 Reverse -  Supreme Yoga Method
 When the user's main element is "Metal", they can perform techniques even if a required body part is broken, but the power of the technique performed this way will be reduced; When user gets attacked by a "Metal", "Wood", or "Earth" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
 Reverse -  Poisoning Technique
-Reduces the usage requirements of "Five Immortals Cult" techniques by 20%.
+Reduces the usage requirements of "Five Immortals Cult" techniques by 20%
 Reverse -  Huang Xianfa
 Significantly reduces the speed of enemy "Detox" in combat
 Reverse -  Red Immortal Law
@@ -1995,7 +1995,7 @@ When the user removes toxins with "Detox" in battle, the user will be given a bu
 Reverse -  Hundred Evil Body Technique
 The more negative "characteristics" the enemy has, the more the power of all enemy techniques will be reduced
 Reverse -  JieQing Four Elephant Chart
-Reduces the usage requirements of "Jieqing Gate" techniques by 20%.
+Reduces the usage requirements of "Jieqing Gate" techniques by 20%
 Reverse -  Tian Yuan method of raising Qi
 Reduces the consumption of Inhale and Stance of the user's "Water" type techniques
 Reverse -  The Twelve Scrolls of the Eastern Wall
@@ -2009,7 +2009,7 @@ Changing the "Orthodox" effect of the user's "Water" type of technique other tha
 Reverse -  Armillary Chart
 If the internal energy of the user is "Water", even if the body part required to perform the technique is destroyed, the technique can still be performed, but the power of the technique is reduced.
 Reverse -  All-over fire painting method
-Reduces the usage requirements of "Fulong Altar" techniques by 20%.
+Reduces the usage requirements of "Fulong Altar" techniques by 20%
 Reverse -  Fulong Swallowing Fire technique
 The higher the percentage of "Fire" internal energy of the user, the more the user's External Penetration and Internal Penetration will be improved.
 Reverse -  Fire True Qi
@@ -2025,7 +2025,7 @@ The more mutilated body parts the user has, the higher the direct damage the use
 Reverse -  Great Yu Yang Shen Gong
 Significantly reduces the consumption of Inhale and Stance in the "Fire" type of technique of the user
 Reverse -  Himalayan mother work
-Reduces the usage requirements of "Bloodhound Cult" techniques by 20%.
+Reduces the usage requirements of "Bloodhound Cult" techniques by 20%
 Reverse -  Black Corpse Four Tips
 Reduces the consumption of Inhale and Stance of the user's "Earth" type techniques
 Reverse -  Evil Ghost technique
