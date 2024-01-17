@@ -80,7 +80,7 @@ Convert the user's "Metal" internal energy into "Earth" internal energy. The mor
 Inscrutable\nRound
 Turns "Heterodox" skill effects into their "Orthodox" versions on all "Earth" element skills other than "Inner Arts"
 Stable Breath
-Increases the power limit of the user's "Lion's Gate" techniques by 30%.
+Increases the power limit of the user's "Lion-Face Clan" techniques by 30%
 13 Taibaos'\nIron Surface
 Dmg Taken Dn
 If the user receives consecutive attacks from the same enemy technique in this battle, each time it will cumulatively reduce the damage taken by the user, up to a maximum of 3 times
@@ -89,7 +89,7 @@ Reduces the maximum number of Weak Points on user's body parts
 Bright Lion\nPower
 Greatly increase "Strength" limit. Diversion given by "Strength" will be greatly increased based on user's purity.
 Develop\nAmbition
-Increases the power limit of the user's "Ransan School" techniques by 30%
+Increases the power limit of the user's "Ranshan Sect" techniques by 30%
 Whirling Circle
 When the user's standpoint is "Even", power of all of their techniques will be increased by 10%; When the user and the enemy don't have opposing standpoints, the power of all the user's techniques will be increased
 True Will\nCultivation
