@@ -648,7 +648,7 @@ During this Footwork, when the distance between the user and the enemy is more t
 Chain of River-Block
 During this Footwork, every time the enemy advances 1 distance, user immediately makes a weapon attack that goes through Deflect without consumption.
 Lion's Swift
-Whenever the user hits an enemy with a "Hand Guard" type weapon during this Footwork, the user's Stamina is restored.
+During this Footwork, whenever the user hits an enemy with a "Hand Guard" weapon, user's Stamina will be restored.
 Ghost Step
 Basic Atk All FIN
 During this Footwork, as long as the enemy does not have an effect that can change the way they are defused, all weapon attacks of the use will use the Finesse accuracy value.
