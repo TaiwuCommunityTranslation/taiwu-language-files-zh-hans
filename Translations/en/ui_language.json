@@ -1603,7 +1603,7 @@
   "LK_ResetWorldSettings_Available": "World details can be reset...",
   "LK_AdjustWorldSettings_Available": "World details can be adjusted...",
   "LK_Legacy_Tips": "Spend your life's legacy to select multiple legacy rewards for \"your\" heir!\n<color=#yellow>(You can make limited adjustments to the details of the world before ending this legacy to change the challenges your heir will face...)</color>",
-  "LK_Legacy_Unavailable_Tips": "{0}'s life is not over and it's still full of possibilities. You can't now pass to next character.",
+  "LK_Legacy_Unavailable_Tips": "{0}'s life isn't over yet, and is still full of possibilities. Currently you can't pass inheritance to another character.",
   "LK_Legacy_LegacyPoints_WorldSettings": "Because of the selected World Settings, Legacy <color=#brightblue>+{0}%</color>",
   "LK_Taiwu_Inherit_Complete": "Taiwu Inheritance Complete",
   "LK_Taiwu_Inherit_Complete_Confirm": "Are you sure you want to complete this inheritance?\n<color=#yellow>（If any Legacy points are unused,<color=#white>25%</color>of them will be converted into \"your\" next heir's<color=#darkpurple>「Prestige」</color>!）</color>",
