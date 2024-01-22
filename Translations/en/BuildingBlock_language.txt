@@ -220,7 +220,7 @@ This is an extension building built next to the "Training Hall" using "Kirin Chi
 Secret Room
 Buried deep underground and reached only by hidden passageways,  this secret room keeps the practicing of stunts an absolute secret. Inside there are books and drawings that acts as study aids.
 This is an extension building built next to the "Training Hall" using "Wind Holes Machine" as the core material. \nThis building can increase the success rate of "Stunt" for characters within the influence of the town and sect to which they belong.
-Tiger ring
+Tiger Ring
 The tiger ring is just taller than the human body in all directions,  which makes escaping impossible. Only by training fist skills one can defeat the beasts that reside inside it.
 This is an extension building built next to the "Training Hall" using the "Tiger Feeding Cage" as the core material. \nIt can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Fist".
 Cocoon Wall
