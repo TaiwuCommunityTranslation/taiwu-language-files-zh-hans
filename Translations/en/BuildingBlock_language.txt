@@ -250,7 +250,7 @@ This is an extension building built next to the "Training Hall" with "Hundred Tu
 Reflections Room
 The many gems studded into the walls of this room will reflect moonlight into a myriad of shapes and colours. This trickery can helps with concentration needed for ranged weapons.
 This is an extension building built next to the "Training Hall" using the "Light Chasing Pearl" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through the "Ranged Weapons".
-Strings Hall
+Seven Strings Hall
 Seven strings made of exotic materials and in rainbow colours hang in this hall. They resonate to the internal energy and the mood of the music practioner respectively - happiness,  angriness,  sadness,  thoughtfulness,  sadness,  worriness and scaredness.
 This is an extension building built next to the "Training Hall" using "Seven Color Heartstrings" as the core material. \n can increase the success rate of characters within the influence of the town and sect to which they belong when they break through "Melody".
 Music Room
