@@ -5,7 +5,7 @@ Medium
 Long
 Epic
 Difficulty
-Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle.\n<color=#E3C66DFF>(The higher the difficulty, the stronger the enemy will be; the more intelligent enemies are; the more actions they will perform in battle)\n(For example: they will take better control of the distance and timing for attack and defence.)</color>
+Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle.\n<color=#E3C66DFF>(The higher the difficulty, the stronger the enemies will be;\nThe more intelligent the enemies will be;\nThe more actions they will perform in battle.\nFor example: they will have better control of the distance and timing for attack and defense.)\n(Note that difficulty names actually represent how hard they are. If you're a new player it's recommended to choose the \"Difficult\" difficulty.)</color>
 <color=#pinkyellow>Very Easy</color>
 <color=#9FE0DCFF>Difficult</color>
 <color=#FFE78FFF>Severe</color>
