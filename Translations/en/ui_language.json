@@ -60,7 +60,7 @@
   "UI_NewGame_Settings_CharactorLife": "Lifespan",
   "UI_NewGame_Tip_CharactorLife_Content": "The average lifespan of the player and NPCs in-game. \n <color=#E3C66DFF>(Lifespan does not affect game difficulty)</color> \n <color=#E4504DFF>(This option cannot be changed once the game starts!)</color>",
   "UI_NewGame_Settings_BattleHard": "Difficulty",
-  "UI_NewGame_Tip_BattleHard_Content": "Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle. \n <color=#E3C66DFF>(The higher the difficulty, the stronger the enemy will be; the more intelligent enemies are; the more actions they will perform in battle  \n For example: they will take better control of the distance and timing for attack and defence.)</color>",
+  "UI_NewGame_Tip_BattleHard_Content": "Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle.\n<color=#E3C66DFF>(The higher the difficulty, the stronger the enemy will be;\nThe more intelligent enemies will be;\nThe more actions they will perform in battle.\nFor example: they will take better control of the distance and timing for attack and defense.\nNote that difficulty names actually represent how hard they are. If you're a new player it's recommended to choose \"Difficult\")</color>",
   "UI_NewGame_Settings_RobberAmount": "Outlaws Amount",
   "UI_NewGame_Tip_RobberAmount_Content": "The number of enemies that exist in the world. How quickly their numbers increase. \n<color=#E3C66DFF>(encounter rate increases with higher difficulty)</color>",
   "UI_NewGame_Settings_AttackSpeed": "Invasion Speed",
