@@ -1358,7 +1358,7 @@ Damage delayed effect
 While performing this technique, all direct damage received by user won't take effect until after this technique is performed; After this technique reaches $0$0% completion, the External Injury and Fatal Wound markers that should've been received instead change into layers of this effect: When using "Break" techniques, user will consume up to 10 layers of this effect to increase the direct External Damage dealt. However, if the layers of this effect exceed 30, this effect will also work on enemy's techniques.
 Rock-Breaking\nPoke
 Improve DES
-Damage to enemy's protective gear
+Damage to enemy's armor
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: When user hits an enemy, user's DES will be greatly increased, and if user manages to damage enemy's Armor, its durability will be damaged by 5 additional points
 Dharma\nProtector's Poke
 Enchanted
