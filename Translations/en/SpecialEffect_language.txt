@@ -402,7 +402,7 @@ When defending with this technique: If the total number of defeat marks of the u
 Skillful Hands
 When the user is equipped with 3 different types of weapons, the user's casting speed increases
 Wooden Armor
-Increase the toughness of protective gear
+Increase the toughness of armor
 When defending with this technique: all direct damage taken by the user is reduced by 15%; If enemy weapon's grade isn't higher than the user's armor's grade, the Hardness of user's armor will be greatly increased.
 14 Methods of Real Steel
 Significantly increase the Hardness and DES of the user's weapon
