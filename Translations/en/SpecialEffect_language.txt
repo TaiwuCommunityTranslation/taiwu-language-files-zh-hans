@@ -2200,7 +2200,7 @@ Reverse - Wooden Armor
 Increase Armor TOU
 When defending with this technique: all direct damage taken by the user is reduced by 15%; If enemy weapon's grade isn't higher than the user's armor's grade, the TOU of user's armor will be greatly increased.
 Reverse - 14 Methods of Real Steel
-Significantly increase the edge breaking and toughness of the user's protective gear
+Significantly increase the Hardness and TOU of the user's armor
 Reverse - Mechanical Formation
 User's teammate's "Guide" and "Warn" orders will increase Accuracy and Resolve even more.
 Reverse - Heavenly Armor
@@ -2208,7 +2208,7 @@ When defending with this technique, If enemy weapon's grade isn't higher than th
 Reverse - Exquisite 9
 When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability and reduce the enemy's true qi according to the treasure's rank: gold and iron treasures reduce "Break" true qi; jade treasures reduce "Aegis" true qi; wooden treasures reduce "Quick" true qi; brocade treasures reduce "Nadis" true qi
 Reverse - Forge Mysterious Iron
-Protective gear becomes divine armor
+Armor becomes divine armor
 When the total number of defeat marks of the user exceeds half of the defeat condition, the protective gear currently worn by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" will not be damaged unless it is damaged by the attack of "Divine Armor"; all direct damage resisted by "Divine Armor" cannot be increased by any effect unless the enemy attacks or performs a technique with "Divine Armor".
 Reverse - 4 Finger Azure Cream
 When user's "Nadis" True Qi is twice as high as the enemy's "Nadis" True Qi, all direct damage dealt by the user will be increased by 15%
