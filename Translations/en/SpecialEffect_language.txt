@@ -2454,7 +2454,7 @@ Reverse - Tiger Hill Test Sword
 During this Footwork, whenever the user hits an enemy with a "Sword" weapon, enemy's Stamina will be depleted.
 Reverse -  Stardust Fury Avoidance
 Increase weapon toughness
-When the user attacks an enemy during the duration of this technique, the toughness of the user's weapon will be greatly increased if the level of the enemy's armor is not higher than the level of the weapon used by the user.
+During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the Hardness of the user's weapon will be greatly increased
 Reverse - Dragon Riding
 Bodywork instead of Inhale lifting
 During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Inhale is not enough to perform the "Break" technique, the user's Footwork can replace the user's Inhale consumption.
