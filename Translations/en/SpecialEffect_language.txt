@@ -131,7 +131,7 @@ Increases the maximum performance of the "protective equipment" equipped by the 
 Chap. 5 Metals
 When the internal energy attribute of the user is "Fire", the direct damage and repercussion damage caused by "Metal" type techniques to the user will be reduced.
 Chap. Refining
-The more times you refine your "weapon", the less damage your enemy will do to you.
+The more times the user's current "Weapon" is Refined, the less damage enemy will deal to the user
 Chap. Sacrifice
 Increases the upper limit of the "weapon" equipped by the user
 Summary of\nChihuang
@@ -1947,7 +1947,7 @@ Reduces the usage requirements of "Armor"
 Reverse - Chap. 5 Metals
 When the dominant internal element of the user is "Fire", the direct damage and repercussion damage caused by "Water" type techniques to the user will be reduced.
 Reverse -  A Thousand Hammers
-The more times you refine your weapon, the more damage you can do to your enemy.
+The more times the user's current "Weapon" is Refined, the more damage user will deal to the enemy
 Reverse -  sacrifice the soul to create a powerful chapter
 Reduces the usage requirements of "Weapons"
 Reversal - Essentials of Giftedness
