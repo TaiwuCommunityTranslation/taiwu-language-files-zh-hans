@@ -407,7 +407,7 @@ There are several kinds of bird's nests, but the red ones are called blood swall
 H·Amber Cardamom
 "It is a good idea to see the sun in a hundred years, but the sun is strong and defeated. Amber cardamom is born in the warm sun, its color is clear, its texture is moist, just like amber, and its medicinal properties are just as soft as it is rigid, so it has the name of "earthly grass spirit".\nCan be used to refine medicines for increasing MOV·Spd and Ext. Recovery or increasing Parry.
 H·Ruby fruit
-Vermilion fruit produces leaves in spring, flowers in summer, fruits in autumn, the fruit is round and red, eaten to produce fluid and stop bleeding, refreshing and relieving fatigue. \n can be used to refine pills that enhance the speed of lifting qi and racking speed or enhance swiftness.
+Vermilion fruit produces leaves in spring, flowers in summer, fruits in autumn, the fruit is round and red, eaten to produce fluid and stop bleeding, refreshing and relieving fatigue.\nCan be used to refine medicines for increasing Inhale Recovery and Stance Recovery or increasing Swiftness.
 H·Ghost grass
 The fetal grass is attached to the rhizomes of grasses and trees, absorbing their nutrients and surviving, just like a toddler attached to its mother, hence the name "fetal grass". \n can be used to refine pills that enhance the speed of Qi lifting and stance or enhance swiftness.
 H·Jade milk
