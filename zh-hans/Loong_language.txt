@@ -1,0 +1,5 @@
+当前已受<color=#pinkyellow>[层数]</color>层<color=#Jingang>雷泽</color>神力影响…在与白龙、小白龙战斗时，每层<color=#Jingang>雷泽</color>神力将使人物<color=#brightred>受到2至4的随机部位内伤;内伤越多，健康受损越多…</color>
+当前已受<color=#pinkyellow>[层数]</color>层<color=#Xuanyin>洪泽</color>神力影响…在与黑龙、小黑龙战斗时，每层<color=#Xuanyin>洪泽</color>神力将使人物<color=#brightred>随机受到500至1000的3种奇毒;中毒标记越多，健康受损越多…</color>
+当前已受<color=#pinkyellow>[层数]</color>层<color=#Zixia>风泽</color>神力影响…在与青龙、小青龙战斗时，每层<color=#Zixia>风泽</color>神力将使人物<color=#brightred>受到随机40至80的内息紊乱；内息紊乱越高，健康受损越多…</color>
+当前已受<color=#pinkyellow>[层数]</color>层<color=#Chunyang>炎泽</color>神力影响…在与赤龙、小赤龙战斗时，每层<color=#Chunyang>炎泽</color>神力将使人物<color=#brightred>受到2至4的随机部位外伤;外伤越多，健康受损越多…</color>
+当前已受<color=#pinkyellow>[层数]</color>层<color=#Guiyuan>沙泽</color>神力影响…在与黄龙、小黄龙战斗时，每层<color=#Guiyuan>沙泽</color>神力将使人物<color=#brightred>健康大幅受损…</color>
