@@ -547,7 +547,7 @@ People are born in the world, feel the greatness of heaven and earth, mayfly lif
 HG·Iron
 Iron hand is a simple to build from raw iron gloves, the use of the knuckles need to force, so the object is easy to hide, the brave people often carry with them.
 HG·Square
-The four-pronged gloves are worn on the four fingers, each finger has a total of four angles of the gloves, can use the raised point against the enemy, even the weak scholar, can also use it to defend themselves.
+Square gloves are gloves worn on the four fingers. Each finger has four edges and corners. The bulges can be used to fight the enemy. Even a weak scholar can use it to defend himself.
 HG·Tiger
 Tiger head iron palm set because the back of the palm with gold and iron carved into the shape of a tiger's head and named, this material is heavy, fist wind harsh, but also can be on the angles of the tiger's head, sharp teeth to hurt people.
 HG·Wind and fire
@@ -1775,3 +1775,67 @@ Spirit Serpent's Thorns
 Thorns of a spirit serpent.
 Spirit Serpent's Tail
 Tail of a spirit serpent.
+Dragon Teeth
+Divine Dragon's teeth.
+Dragon Claws
+Divine Dragon's claws.
+Dragon Tail
+Divine Dragon's tail.
+White Dragon Tail
+White Dragon's tail.
+Black Dragon Claws
+Black Dragon's claws.
+Green Dragon Tail
+Green Dragon's tail.
+Red Dragon Claws
+Red Dragon's claws.
+Yellow Dragon Horns
+Yellow Dragon's horns.
+Jiao Forehead
+Jiao's forehead.
+Growing Jiao's Forehead
+Forehead of a growing Jiao.
+Jiao Teeth
+Jiao's teeth.
+Growing Jiao's Teeth
+Teeth of a growing Jiao.
+Jiao Tail
+Jiao's tail.
+Growing Jiao's Tail
+Tail of a growing Jiao.
+Five Rhymes Horns
+Qiniu's horns.
+Five Rhymes Roar
+Qiuniu's roar.
+Murder Weapon Teeth
+Yazi's teeth.
+Murder Weapon Claws
+Yazi's claws.
+Demon Scaring Beak
+Chaofeng's beak.
+Demon Scaring Wings
+Chaofeng's wings.
+Ringing Bell Scream
+Pulao's voice.
+Ringing Bell Belly
+Pulao's belly.
+Mountain Subduing Forehead
+Baxia's forehead.
+Mountain Subduing Tablet
+Stone tablet carried by Baxia.
+Evil Judging Teeth
+Bian's teeth.
+Evil Judging Claws
+Bian's claws.
+Bright Spiritual Beard
+Fuxi's long beard.
+Bright Spiritual Tail
+Fuxi's tail.
+Rising Water Pearl
+Water pearl held in Chiwen's mouth.
+Rising Water Wings
+Chiwen's wings.
+Bright Gold Teeth
+Suanni's teeth.
+Bright Gold Claws
+Sunni's claws.
