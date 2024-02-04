@@ -3970,7 +3970,7 @@
   "LK_Gold_Thread_Desc": "The Golden Thread can only subdue Divine Dragons and cannot capture other creatures!",
   "LK_MouseTips_Jiao_CarrierDriveBeastTip": "When the Taming Level reaches 100, you can drive {0} in battle to obtain the \"{1}\" effect...",
   "LK_JiaoPoolUnavailableFunction": "\n\n<color=#brightred>Has to be located at any warehouse...</color>",
-  "LK_RecordSelect_CheckDlc_Dialog_Title": "Save Influenced",
+  "LK_RecordSelect_CheckDlc_Dialog_Title": "Save Influence",
   "LK_RecordSelect_CheckDlc_Dialog_Content": "DLC that affects saves has been enabled: {0}\nIf you load a save file without it and go to the next month, it will <color=#darkred>have an irreversible impact on the save file</color>.\nAre you sure you want to load this save file?",
   "LK_RecordSelect_ForbidEnter_Dialog_Title": "Loading Stopped",
   "LK_RecordSelect_ForbidEnter_Dialog_Content": "This save file has a DLC enabled that affects the save file: <color=#orange>{0}</color>\nPlease enable the corresponding DLC and try again...",
