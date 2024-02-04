@@ -481,3 +481,21 @@ Pregnancy
 {0} in {1} sensed a nascent qi in her stomach...
 Wild and Unruly
 {0} in {1} wasn't properly tamed and suddenly became wild...
+Urgent Letter in Village
+When things go awry, there must be a reason. An urgent message arrives to Taiwu Village, yet the cause remains unknown...
+Growing Jiao's Sprouting Growth
+Received news from Jiao Pond in {0}: Although {1} has grown recently, its mood is unusual...
+Qiuniu Music
+{1} is always by {0}'s side, and he is carefree and happy every day, but today there is something a little unusual...
+Revenge Over Dirty Look
+Chaofeng's Secret Report
+Pulao's Huge Sound
+Suanni's Amusement
+Baxia's Treasure Hunt
+Bian's Heavy Gaze
+Fuxi's Dance
+Chiwen's Internal Support
+Little Dragon Attack
+{0} in {1} was met with {2}'s attack!
+Jiao Rearing Complete
+In {0}, received news from Jiao Pond: Recently, {1} has experienced prosperous growth, showing signs of transforming into a Dragon Son...
