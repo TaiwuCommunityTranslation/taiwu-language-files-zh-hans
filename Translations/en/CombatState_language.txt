@@ -419,3 +419,123 @@ Slowly continuously increases random types of True Qi
 
 Slowly continuously reduces random types of True Qi
 
+Controlling White Jiao
+Because of controlling a White Jiao, user's "Composure" is increased.
+Controlling White Jiao: <color=#brightblue>User's "Composure" is increased</color>.
+Controlling Black Jiao
+Because of controlling a Black Jiao, user's "Cleverness" is increased.
+Controlling Black Jiao: <color=#brightblue>User's "Cleverness" is increased</color>.
+Controlling Green Jiao
+Because of controlling a Green Jiao, user's "Enthusiasm" is increased.
+Controlling Green Jiao: <color=#brightblue>User's "Enthusiasm" is increased</color>.
+Controlling Red Jiao
+Because of controlling a Green Jiao, user's "Valour" is increased.
+Controlling Red Jiao: <color=#brightblue>User's "Valour" is increased</color>.
+Controlling Yellow Jiao
+Because of controlling a Yellow Jiao, user's "Fortitude" is increased.
+Controlling Yellow Jiao: <color=#brightblue>User's "Fortitude" is increased</color>.
+Controlling Yin-Yang Jiao
+Because of controlling a Yin-Yang Jiao, user's "Composure" and "Cleverness" are increased.
+Controlling Yin-Yang Jiao: <color=#brightblue>User's "Composure" and "Cleverness" are increased</color>.
+Controlling Flying Lightning Jiao
+Because of controlling a Flying Lightning Jiao, user's "Composure" and "Enthusiasm" are increased.
+Controlling Flying Lightning Jiao: <color=#brightblue>User's "Composure" and "Enthusiasm" are increased</color>.
+Controlling Thunder Fire Jiao
+Because of controlling a Thunder Fire Jiao, user's "Composure" and "Valour" are increased.
+Controlling Thunder Fire Jiao: <color=#brightblue>User's "Composure" and "Valour" are increased</color>.
+Controlling Golden Eye Jiao
+Because of controlling a Golden Eye Jiao, user's "Composure" and "Fortitude" are increased.
+Controlling Golden Eye Jiao: <color=#brightblue>User's "Composure" and "Fortitude" are increased</color>.
+Controlling Green Pool Jiao
+Because of controlling a Green Pool Jiao, user's "Cleverness" and "Enthusiasm" are increased.
+Controlling Green Pool Jiao: <color=#brightblue>User's "Cleverness" and "Enthusiasm" are increased</color>.
+Controlling Burnt Cloud Jiao
+Because of controlling a Burnt Cloud Jiao, user's "Cleverness" and "Valour" are increased.
+Controlling Burnt Cloud Jiao: <color=#brightblue>User's "Cleverness" and "Valour" are increased</color>.
+Controlling Clay Pool Jiao
+Because of controlling a Clay Pool Jiao, user's "Cleverness" and "Fortitude" are increased.
+Controlling Clay Pool Jiao: <color=#brightblue>User's "Cleverness" and "Fortitude" are increased</color>.
+Controlling Flame Horn Jiao
+Because of controlling a Flame Horn Jiao, user's "Enthusiasm" and "Valour" are increased.
+Controlling Flame Horn Jiao: <color=#brightblue>User's "Enthusiasm" and "Valour" are increased</color>.
+Controlling Leaning Mountain Jiao
+Because of controlling a Leaning Mountain Jiao, user's "Enthusiasm" and "Fortitude" are increased.
+Controlling Leaning Mountain Jiao: <color=#brightblue>User's "Enthusiasm" and "Fortitude" are increased</color>.
+Controlling Refined Bone Jiao
+Because of controlling a Refined Bone Jiao, user's "Valour" and "Fortitude" are increased.
+Controlling Refined Bone Jiao: <color=#brightblue>User's "Valour" and "Fortitude" are increased</color>.
+Controlling Disturbed Ocean Jiao
+Because of controlling a Disturbed Ocean Jiao, user's "Composure", "Cleverness", and "Enthusiasm" are increased.
+Controlling Disturbed Ocean Jiao: <color=#brightblue>User's "Composure", "Cleverness", and "Enthusiasm" are increased</color>.
+Controlling Draped Clouds Jiao
+Because of controlling a Draped Clouds Jiao, user's "Composure", "Cleverness", and "Valour" are increased.
+Controlling Draped Clouds Jiao: <color=#brightblue>User's "Composure", "Cleverness", and "Valour" are increased</color>.
+Controlling Deep Depth Jiao
+Because of controlling a Deep Depth Jiao, user's "Composure", "Cleverness", and "Fortitude" are increased.
+Controlling Deep Depth Jiao: <color=#brightblue>User's "Composure", "Cleverness", and "Fortitude" are increased</color>.
+Controlling Heaven Thunder Jiao
+Because of controlling a Heaven Thunder Jiao, user's "Composure", "Enthusiasm", and "Valour" are increased.
+Controlling Heaven Thunder Jiao: <color=#brightblue>User's "Composure", "Enthusiasm", and "Valour" are increased</color>.
+Controlling Desolate Road Jiao
+Because of controlling a Desolate Road Jiao, user's "Composure", "Enthusiasm", and "Fortitude" are increased.
+Controlling Desolate Road Jiao: <color=#brightblue>User's "Composure", "Enthusiasm", and "Fortitude" are increased</color>.
+Controlling Qilin Jiao
+Because of controlling a Qilin Jiao, user's "Composure", "Valour", and "Fortitude" are increased.
+Controlling Qilin Jiao: <color=#brightblue>User's "Composure", "Valour", and "Fortitude" are increased</color>.
+Controlling Ghost Prison Jiao
+Because of controlling a Ghost Prison Jiao, user's "Cleverness", "Enthusiasm", and "Valour" are increased.
+Controlling Ghost Prison Jiao: <color=#brightblue>User's "Cleverness", "Enthusiasm", and "Valour" are increased</color>.
+Controlling Immortal Mountain Jiao
+Because of controlling a Immortal Mountain Jiao, user's "Cleverness", "Enthusiasm", and "Fortitude" are increased.
+Controlling Immortal Mountain Jiao: <color=#brightblue>User's "Cleverness", "Enthusiasm", and "Fortitude" are increased</color>.
+Controlling Flaming Pond Jiao
+Because of controlling a Flaming Pond Jiao, user's "Cleverness", "Valour", and "Fortitude" are increased.
+Controlling Flaming Pond Jiao: <color=#brightblue>User's "Cleverness", "Valour", and "Fortitude" are increased</color>.
+Controlling Burning Hill Jiao
+Because of controlling a Burning Hill Jiao, user's "Enthusiasm", "Valour", and "Fortitude" are increased.
+Controlling Burning Hill Jiao: <color=#brightblue>User's "Enthusiasm", "Valour", and "Fortitude" are increased</color>.
+Controlling Four Changes Jiao
+Because of controlling a Four Changes Jiao, user's "Composure", "Cleverness", "Enthusiasm", and "Valour" are increased.
+Controlling Four Changes Jiao: <color=#brightblue>User's "Composure", "Cleverness", "Enthusiasm", and "Valour" are increased</color>.
+Controlling Hundred Jewels Jiao
+Because of controlling a Four Changes Jiao, user's "Composure", "Cleverness", "Enthusiasm", and "Fortitude" are increased.
+Controlling Hundred Jewels Jiao: <color=#brightblue>User's "Composure", "Cleverness", "Enthusiasm", and "Fortitude" are increased</color>.
+Controlling Calm Sea Jiao
+Because of controlling a Calm Sea Jiao, user's "Composure", "Cleverness", "Valour", and "Fortitude" are increased.
+Controlling Calm Sea Jiao: <color=#brightblue>User's "Composure", "Cleverness", "Valour", and "Fortitude" are increased</color>.
+Controlling Heaven-swallowing Jiao
+Because of controlling a Heaven-swallowing Jiao, user's "Composure", "Enthusiasm", "Valour", and "Fortitude" are increased.
+Controlling Heaven-swallowing Jiao: <color=#brightblue>User's "Composure", "Enthusiasm", "Valour", and "Fortitude" are increased</color>.
+Controlling Mixed Scale Jiao
+Because of controlling a Mixed Scale Jiao, user's "Cleverness", "Enthusiasm", "Valour", and "Fortitude" are increased.
+Controlling Mixed Scale Jiao: <color=#brightblue>User's "Cleverness", "Enthusiasm", "Valour", and "Fortitude" are increased</color>.
+Controlling Rainbow Jiao
+Because of controlling a Rainbow Jiao, user's "Composure", "Cleverness", "Enthusiasm", "Valour", and "Fortitude" are increased.
+Controlling Rainbow Jiao: <color=#brightblue>User's "Composure", "Cleverness", "Enthusiasm", "Valour", and "Fortitude" are increased</color>.
+Controlling Qiuniu
+Because of controlling a Qiuniu: User's Might, Finesse, and Swiftness will be increased by user's Breath; User's Diversion, Parry, and Evasion will be increased by user's Focus.
+Controlling Qiuniu: <color=#brightblue>User's Might, Finesse, and Swiftness will be increased by user's Breath; User's Diversion, Parry, and Evasion will be increased by user's Focus.</color>
+Controlling Yazi
+Because of controlling a Yazi, a portion of any direct damage dealt by the enemy to the user will be added to the user's next attack.
+Controlling Yazi: <color=#brightblue>A portion of any direct damage dealt by the enemy to the user will be added to the user's next attack</color>.
+Controlling Chaofeng
+Because of controlling a Chaofeng: User's Movement Speed will not decrease due to low Stamina; The less Stamina user has, the less Stamina user's Footwork techniques will require to be used.
+Controlling Chaofeng: <color=#brightblue>User's Movement Speed will not decrease due to low Stamina; The less Stamina user has, the less Stamina user's Footwork techniques will require to be used</color>.
+Controlling Pulao
+Because of controlling a Pulao, the more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal.
+Controlling Pulao: <color=#brightblue>The more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal</color>.
+Controlling Suanni
+Because of controlling a Suanni: Fatal Wound damage dealt by the user is increased; Whenever the user deals a direct External or Internal damage to the enemy, there's a chance that it will change into Fatal Wound damage.
+Controlling Suanni: <color=#brightblue>Fatal Wound damage dealt by the user is increased; Whenever the user deals a direct External or Internal damage to the enemy, there's a chance that it will change into Fatal Wound damage</color>.
+Controlling Baxia
+Because of controlling a Baxia: User will not suffer penalties for exceeding equipment weight limit; The more the user exceeds the equipment weight limit, the more the power limit of user's Weapons and Armor will increase.
+Controlling Baxia: <color=#brightblue>User will not suffer penalties for exceeding equipment weight limit; The more the user exceeds the equipment weight limit, the more the power limit of user's Weapons and Armor will increase</color>.
+Controlling Bian
+Because of controlling a Bian, when the user attack an enemy with negative Fame, user's Ext. and Int. Pen. get increased based on how negative the enemy's Fame is; When the user gets attacked by an enemy with negative Fame, user's Ext. and Int. Def. get increased based on how negative the enemy's Fame is.
+Controlling Bian: <color=#brightblue>When the user attacks an enemy with negative Fame, user's Ext. and Int. Pen. get increased based on how negative the enemy's Fame is; When the user gets attacked by an enemy with negative Fame, user's Ext. and Int. Def. get increased based on how negative the enemy's Fame is</color>.
+Controlling Fuxi
+Because of controlling a Fuxi: User's Accuracy and Resolve stats get increased based on the user's Music, Chess, Literature, and Painting attainments; User's ATK and Defense stats get increased based on the user's Carpentry, Smithing, Weaving, and Gemcutting attainments.
+Controlling Fuxi: <color=#brightblue>User's Accuracy and Resolve stats get increased based on the user's Music, Chess, Literature, and Painting attainments; User's ATK and Defense stats get increased based on the user's Carpentry, Smithing, Weaving, and Gemcutting attainments</color>.
+Controlling Chiwen
+Because of controlling a Chiwen, whenever the user actively consumes 1 available Style, all True Qi of the user that was below its initial value gets increased by 2 points; Whenever the enemy actively consumes 1 available Style, all True Qi of the enemy that was above its initial value gets reduced by 2 points.
+Controlling Chiwen: <color=#brightblue>Whenever the user actively consumes 1 available Style, all True Qi of the user that was below its initial value gets increased by 2 points; Whenever the enemy actively consumes 1 available Style, all True Qi of the enemy that was above its initial value gets reduced by 2 points</color>.
