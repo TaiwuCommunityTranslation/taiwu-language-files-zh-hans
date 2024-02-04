@@ -105,6 +105,6 @@ The value of this equipment is increased by 75% and its popularity is reduced by
 Collectible 
 The popularity of this equipment is increased by 75%, and its value is reduced by 75%.
 Made by Adoptive Father
-The durability of this weapon is increased by 100%.
+The Might, Finesse, and Swiftness of this weapon are increased by 20%; The durability of this weapon in increased by 100%.
 Trial
 The durability of this weapon is reduced by 50% and the usage requirement is increased by 100%.
