@@ -15,7 +15,7 @@ The true body of Xiangshu came into the world, the sun and moon dimmed...\n\nSup
 Equip load overload
 The load of the equipment exceeds the limit that the character can bear, causing the MOV·Spd, Attack Speed, and Cast Speed of the character to <color=#brightred>decrease</color>
 Baggage Overweight
-Items in your bag have exceeded your carry capacity! Time required to move around the map is increased by <color=#red>{0}%</color>! \nIn this state,<color=#red> you will lose some items when going to the next month!</color>
+The total weight of items stored in the inventory exceeds the weight limit.\n<color=#darkred>As a result, you will lose some items at the start of every month!</color>\n<color=#brightred>The time required to move around the map will also be increased!</color>
 Not Enough Storage Space
 The total weight of the items stored in the Storage exceeds the maximum capacity! \nIn this state, <color=#red>you will lose some items when going to the next month!</color>
 Not Enough Resource Limit
