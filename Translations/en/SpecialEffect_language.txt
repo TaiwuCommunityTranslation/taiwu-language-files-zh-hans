@@ -11,7 +11,7 @@ Ignore Critical Hits
 Converts user's "Water" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Water" element is at 0%, user will not receive critical hits from "Water" or "Metal" techniques
 Za-A-Han\nScripture
 Range Up
-User's "Hunyuan" skills will also be considered as "Metal" skills; User can click to consume from 5 to 15 points of Aegis True Qi to increase the attack range of any Break "Metal" skill.
+User's "Hunyuan" techniques will also be considered to be "Metal" techniques; When using "Metal" Break techniques, user can click to randomly consume from 5 to 15 points of "Aegis" True Qi to increase the attack range of any "Metal" Break technique.
 Divine Scripture/nOf Arhat
 The higher the user's "Buddhism" skill, the more injuries the user can remove by using "Healing" in battle.
 Tendon\nRenewal Sutra
@@ -200,15 +200,16 @@ The higher the percentage of "Fire" internal energy of the user, the more the us
 Pure Qi of Fire
 The user's "Fire" type techniques will cause more direct damage and repercussion damage to characters with "Metal" dominant internal element.
 Divine Jade\nYang
-Dramatically increase (+25%) the amount of True Qi gained by the user in battle
+Eliminate your mark
+Whenever user's Break technique causes a critical hit, 1 Weak Point, 1 Sealed Acupoint, and 1 Daze marker on the user get removed
 Dragon Engulf\nElephant
-Convert the user's "Earth" internal energy into "Fire" internal energy. The more energy is converted, the more the power of the user's "Fire" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Earth" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Earth" element is at 0%, user will not receive critical hits from "Earth" or "Fire" techniques
 9 Dragons\nIn One
-Converts the "Heterodox" effect of the user's "Fire" type of technique other than "Inner Arts techniques" into a "Orthodox" effect
+User's "Hunyuan" techniques will also be considered to be "Fire" techniques; When using "Fire" Break techniques, user can click to randomly consume from 5 to 15 points of "Break" True Qi to increase the attack range of any "Fire" Break technique.
 Demonization
-The more mutilated body parts the user has, the less direct damage the enemy can inflict on the user.
+The more Fatal Wound markers the user has, the less direct damage user will take from enemy attacks
 The Great Jade\nYang
-Significantly increases the power of the user's "Fire" type techniques, by 20%.
+Significantly increases the power of user's "Fire" techniques; While performing any "Fire" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Nadis" True Qi to increase the cast progress of the "Fire" technique by 50%, up to a maximum of 75%.
 Hou Meditation
 Increases the power limit of "Bloodhound Cult" techniques by 30%
 4 Methods of\nDark Corpse
@@ -278,7 +279,6 @@ Seven-Star Cross Chain
 Stance Cost Dn
 When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Stance and have increased cast progress, and the more Stance doesn't get consumed, the more the cast progress of techniques will increase.
 Holy Light Inspiration
-Eliminate your mark
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 3 randomly available style and immediately removes 2 injuries
 36 Moves of Needle Change
 Improve Style Change Accuracy
@@ -527,11 +527,11 @@ When defending with this technique, the direct external damage caused by the ene
 Medical Heart
 The more "Punch" styles the user has, the more the user's Might will increase; the more "Point" styles the user has, the more the user's Swiftness will increase; the more "Hold" styles the user has, the more the user's Finesse will increase.
 Drunk A Thousand Year
-When the user is drunk, the user's chance of being chased by enemies is greatly reduced and the chance of enemies hitting the user is decreased.
+The enemy's chance to cause follow-up attacks on the user is greatly reduced, and the enemy's chance of hitting the user is greatly reduced. If the user is drunk, these effects are doubled.
 Cover Sky
 Forcing companions off the field
 Anti-vibration of the whole enemy
-When you start to perform this technique, the user forces all the enemy's helpers on the field to leave the field; when defending with this technique, the external reflect damage caused by the user to the enemy will be shared by all the enemy's characters, and the more enemy helpers there are, the greater the reflect damage shared
+When you start performing this technique, it forces all enemy teammates that support the enemy to leave the field; When defending with this technique, enemy teammates cannot use any assisting orders. External Reflect damage dealt by the user will be shared by all enemy characters. The more teammates the enemy has, the higher the shared Reflect damage will be.
 Mud Stunt
 Descending the enemy to chase and External Penetration
 When defending with this technique: all direct External Damage taken by the user is reduced by 30%; Ext. Pen. of enemy's "follow-up" attacks will be significantly reduced.
@@ -773,10 +773,11 @@ Moving Star
 Change the distance between enemy and us
 When this Footwork is performed, the distance between the enemy and me changes to 9; during this Footwork, the enemy cannot actively approach the user
 Barefoot
-During this Footwork, the user will not be moved backwards for any reason.
+During this Footwork: The user will not be moved backwards for any reason, and the enemy will have to consume more Footwork to move backwards
 Drunk 8 Immortals
-Increase chase damage
-During this Footwork, if the user is drunk, the damage dealt by the user's follow-up attacks will be increased.
+Recover Inhale
+Gain "attack token"
+During this Footwork, whenever the user moves 0.5 distance withing the enemy's Attack Range, the user will have a chance to recover either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
 Dragon Tail
 Increase the Weak Points level
 During this Footwork, the level of Weak Points caused by the user to the enemy is increased.
@@ -785,7 +786,7 @@ During this Footwork, whenever the user attacks an enemy, a separate Might check
 Wind Fire Stance
 During this Footwork, whenever the user hits an enemy with a "Blade" weapon, user's Stamina will be restored.
 Drunk Lying In The East Sea
-During this Footwork, if the user is drunk, the user will consume all of the Inhale and Stance when performing the "Break" technique, but the power of the technique will also increase in proportion to the amount of Inhale and Stance that exceeded the requirements to perform it.
+During this Footwork, user's "Break" techniques will consume all Stance and Inhale of the user, and the power of the techniques will be increased based on the amount of Stance and Inhale consumed that exceed the technique's requirements. If the user is drunk, the power increase will be doubled.
 Fox Move
 Accelerated mobile storage
 When moving forward with this Footwork, the user needs to build up strength to move 1 distance at a time, if the user has been attacked more times before building up strength, the faster the user will build up strength
@@ -1275,16 +1276,16 @@ Drunk\n8 Immortals Fist
 After this technique reaches $0$0% completion, user gains 8 layers of this effect: When user makes a weapon attack on the enemy, enemy can only use their lowest Resolve stat to Resolve the weapon attack; If user is drunk, when user makes a weapon attack on the enemy, the lowest Resolve stat of the enemy will be reduced.
 Refining\nFire Palm
 Ignore E·Armor
-When hitting an enemy with this technique, enemy's Armor cannot reduce the effect of user's attack; After this technique reaches $0$0% completion, user gains 3 layers of this effect: When enemy is attacked by the user's technique, 10 points of user's Constitution get consumed to increase user's External and Internal Penetration
+When hitting enemy with this technique, enemy's Armor will be ignored; After this technique reaches $0$0% completion, user gains 3 layers of this effect: When enemy is attacked by the user's technique, it consumes 10 points of the user's Constitution to increase user's External and Internal Penetration
 Crazy Drunk Fist
 When this technique reaches $0$0% completion, user has a low chance of performing this technique again immediately after it's finished, starting from 50% of its progress without consumption; The more disturbed user's Inner Breath is, the higher the External Damage caused by this technique will be; If user is drunk, the chance of performing this technique again increases greatly
 Great Colorful\nPalm
 When you start performing this technique, it transfers a portion of the power of 1 most powerful "Aegis" technique of the user and the enemy to this technique, and lasts until the end of the battle.
 Divine Fist\nof Jade Yang
 Increase the number of effect layers
-When this technique reaches $0$0% completion, you will consume 3 points of your own "Break" True Qi if possible, and change the number of effect layers of 1 random "Break" technique to the maximum.
+When this technique reaches $0$0% completion, user will consume 10 points of "Break" True Qi if possible, and change the number of effect layers of 1 random "Break" technique of the user to the maximum.
 Fire Palm of\n6 Yang
-When you start attacking an enemy with this technique, if the enemy's dominant internal element is "Metal", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the ongoing effect of the enemy's 3 "Break" techniques to 0 levels.
+When you attack enemy with this technique, if enemy's dominant internal element is "Metal" or "Wood", it will eliminate enemy's "Aegis" and "Quick" techniques, and reduce the continuous effect of 3 "Break" techniques of the enemy to 0 layers.
 Great Jade Yang\nFist
 When you start to perform this technique, the more the number of levels of the duration effect of all the "Break" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
 Dragon Palm
@@ -1296,11 +1297,11 @@ When this technique reaches $0$0% completion, for every 3 "Throw" styles the use
 Thunder Fire
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Shot" and "Drive" styles that user gains will be changed to "Throw" styles
 Dragon Spit\nDragon Ball
-When this technique reaches $0$0% completion, user will gain 2 points of "Break" True Qi
+When this technique reaches $0$0% completion, user will gain 5 points of "Break" True Qi
 Divine Power\nof Red Blue Fire
-When this technique reaches $0$0% completion, user gains a buff that greatly increases External Penetration, and a debuff that decreases External Defense.
+When you start performing this technique, the user will gain a buff that greatly increases External Penetration, and a debuff that reduces External Defense
 Blood Burning
-When you start performing this technique, if the user has any new external injury, it will change 1 random new external injury of the user to an old one that is harder to recover from, and then the power and attack range of this technique will increase significantly
+When you start performing this technique, if the user has any External Injuries, 3 random External Injuries of the user will change into 1 Old Injury that is harder to recover from, and then the power and Attack Range of this technique will increase greatly
 9 Refining of\nThe Sun
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Break" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, after which this effect reverts to 0 levels.
 Blade of Fulong
@@ -1309,18 +1310,19 @@ Drunk Blade
 When you start to perform this technique, you can eliminate up to 2 unusable forms of the user, and if the user is drunk, you can eliminate up to 3 unusable forms of the user, and the more you eliminate, the more the power of this technique will increase.
 4 Slashes of\nDragontooth
 Force E·skill
-When you start to perform this technique, if the enemy has any "Aegis" technique to perform, the enemy will start to perform it immediately, and the higher the rank of the "Aegis" technique performed by the enemy, the more the external injury caused by this technique will be increased.
+When you start performing this technique, if the enemy has an "Aegis" technique that can be performed, the enemy will start to perform it immediately, and the Orthodox/Heterodox effects of the performed "Aegis" technique won't work. The higher the tier of the performed "Aegis" technique, the more the direct External Damage of this technique will increase
 Blade of\nMindsets And Thoughts
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: all "Break" techniques performed by user will be affected by the lasting power increase effect of another "Break" technique of the user with the highest lasting power increase effect; If user is drunk, this effect will be greatly increased.
 81 Slashes of\nMadness Dragon
-After this technique reaches $0$0% completion, user gains 9 layers of this effect: The fewer layers of this effect remain, the more direct External Damage this technique will deal.
+After this technique reaches $0$0% completion, the user gains 4 layers of this effect: The direct External damage to the enemy's body part hit by this technique will continuously increase, lasting until the end of the battle
 The Great\nDrunk Blade of Yinyang
 When hitting an enemy with this technique, the direct External Damage dealt will be increased according to the amount of External Injuries on the same body part of the user. Effect is doubled if the user is drunk
 Dragonslayed\nBlade of Innocent Child
-When you start to perform this technique, if the user is a child or a virgin, the power of this technique and the chance of hitting the enemy will be greatly increased.
+When you start performing this technique, if the user is a male or female virgin, the power and hit chance of this technique will be greatly increased, and the damage dealt by this technique won't be reduced for any reason
 Hegemony\nBlade of 9 Dragons
 Transfer Power Gain
-When you start performing this technique, the power of up to 3 of your enemy's "Break" techniques will be transferred to the power of a random "Break" technique of the user, lasting until the end of the battle.
+Sealing Your Skill
+When you start performing this technique, the continuous power increase effects of up to 9 techniques of both the user and the enemy will be doubled and transferred to this technique; After performing this technique, it will always be "Sealed" for an extremely long period of time
 Vajra Hammer
 When this technique reaches $0$0% completion, user takes away 1 "Punch" style from the enemy.
 5 Anger Hands
@@ -1355,7 +1357,8 @@ Blade of\n6 Mighty Powers
 When attacking enemy with this technique, if the user's "Aegis" True Qi is higher than its initial value, the higher the user's "Aegis" True Qi is compared to enemy, the more direct damage the user will deal; When this technique ends, the user will lose 12 points of "Aegis" Qi
 Blade of\nMahakala
 Damage delayed effect
-While performing this technique, all direct damage received by user won't take effect until after this technique is performed; After this technique reaches $0$0% completion, the External Injury and Fatal Wound markers that should've been received instead change into layers of this effect: When using "Break" techniques, user will consume up to 10 layers of this effect to increase the direct External Damage dealt. However, if the layers of this effect exceed 30, this effect will also work on enemy's techniques.
+Increase Enemy Damage
+While performing this technique, all direct damage received by the user won't take effect until after this technique is performed; After this technique reaches $0$0% completion, the External Injury and Fatal Wound markers that should've been received instead change into layers of this effect: When using "Break" techniques, user will consume up to 10 layers of this effect to increase the direct damage dealt. However, if the layers of this effect exceed 30, this effect will also work on enemy's techniques.
 Rock-Breaking\nPoke
 Improve DES
 Damage to enemy's armor
@@ -1785,7 +1788,6 @@ Holy White\nElephant With 6 Tusks
 Eliminate Ext. Injuries
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user receives at least 2 direct Ext. Injuries, this effect increases by 1 level; when this effect reaches 4 levels, the power of this technique increases significantly, and when this effect reaches 6 levels, half of the user's Ext. Injuries and Fatal Wounds are removed, after which this effect reverts to 0 levels
 Swordsmanship\nof Arhat
-Gain "attack token"
 After this technique reaches $0$0% completion, if the weapon held by user is "Sword", and user can switch to a "Blade", the user immediately switches to a "Blade" and gains 1 "attack token".
 Swordsmanship\nof Pudu
 Detention of defeated enemies
@@ -1874,7 +1876,6 @@ Reduces the usage requirements of "Wudang Sect" techniques by 20%
 Reverse -  Hold the Origin and Keep the One
 Reduces the consumption of Inhale and Stance of the user's "Fire" type technique
 Reverse -  One Word Mixed Pile
-Recover Inhale
 When the user only consumes Stance, an equal amount of Inhale will be restored.
 Reverse -  Luo Tian Zhen Zhi Twelve Piles
 Converts user's "Water" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Water" element is at 0%, user will not receive critical hits from "Water" or "Fire" techniques
@@ -2015,15 +2016,16 @@ The higher the percentage of "Fire" internal energy of the user, the more the us
 Reverse -  Fire True Qi
 The user's "Fire" type of technique will cause more direct damage and repercussion damage to characters with "Water" dominant internal element
 Reverse -  Small Yu Yang Shen Gong
-Significantly reduce the amount of qi lost by the user in battle
+Whenever enemy's Break technique causes a critical hit, 1 Weak Point, 1 Sealed Acupoint, and 1 Daze marker on the user get removed
 Reverse -  Wild Dragon Swallowing Elephant technique
-Convert the user's "Metal" internal energy into "Fire" internal energy. The more energy is converted, the more the power of the user's "Fire" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Metal" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Metal" element is at 0%, user will not receive critical hits from "Metal" or "Fire" techniques
 Reverse -  Nine Dragons to One technique
-Change the "Orthodox" effect of the "Fire" type of technique of the user other than "Inner Arts techniques" to "Heterodox" effect
+Damage Reduction Ignore
+User's "Hunyuan" techniques will also be considered to be "Fire" techniques; When using "Fire" Break techniques, user can click to randomly consume from 5 to 15 points of "Break" True Qi to make direct damage dealt by a technique not be reduced for any reason.
 Reverse -  Into the Magic technique
-The more mutilated body parts the user has, the higher the direct damage the user can inflict on the enemy.
+The more Fatal Wound markers the user has, the more direct damage user will deal to the enemy
 Reverse -  Great Yu Yang Shen Gong
-Significantly reduces the consumption of Inhale and Stance in the "Fire" type of technique of the user
+Significantly decreases the Inhale and Stance cost of user's "Fire" techniques; While performing any "Fire" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Nadis" True Qi to significantly increase the power of the performed "Fire" technique.
 Reverse -  Himalayan mother work
 Reduces the usage requirements of "Bloodhound Cult" techniques by 20%
 Reverse -  Black Corpse Four Tips
@@ -2303,9 +2305,9 @@ When defending with this technique, the external damage caused to the enemy by t
 Reverse - Medical Heart
 The more "Punch" styles the user has, the more the user's Diversion increases; the more "Point" styles the user has, the more the user's Evasion increases; the more "Hold" styles the user has, the more the user's Parry increases.
 Reverse - Drunk A Thousand Year
-When the user is drunk, the user's chance of chasing the enemy increases significantly, and the user's chance of hitting the enemy increases.
+The user's chance to cause follow-up attacks on the enemy is greatly increased, and the user's chance of hitting the enemy is greatly increased. If the user is drunk, these effects are doubled.
 Reverse - Cover Sky
-When you start to perform this technique, the user forces all the enemy's helpers on the field to leave the field; when defending with this technique, the internal reflect damage caused by the user to the enemy will be shared by all the enemy's characters, and the more enemy helpers there are, the greater the reflect damage will be shared.
+When you start performing this technique, it forces all enemy teammates that support the enemy to leave the field; When defending with this technique, enemy teammates cannot use any assisting orders. Internal Reflect damage dealt by the user will be shared by all enemy characters. The more teammates the enemy has, the higher the shared Reflect damage will be.
 Reverse - Mud Stunt
 Descending the enemy to chase and Internal Penetration
 When defending with this technique: all direct Internal Damage taken by the user is reduced by 30%; Int. Pen. of enemy's "follow-up" attacks will be significantly reduced.
@@ -2516,10 +2518,10 @@ When retreating with this Footwork, the user needs to accumulate power, up to 5 
 Reverse - Moving Star
 When this Footwork is performed, the distance between the enemy and me changes to 5; during this Footwork, the enemy cannot actively move away from the user
 Reverse - Barefoot
-During this Footwork, the user will not be moved forward for any reason.
+During this Footwork: The user will not be moved forward for any reason, and the enemy will have to consume more Footwork to move forward
 Reverse - Drunk 8 Immortals
-Reduced chase damage
-During this Footwork, if the user is drunk, the damage dealt by the enemy's follow-up attacks will be reduced.
+Deplete Attack Tokens
+During this Footwork, whenever the enemy moves 0.5 distance withing the user's Attack Range, the enemy will have a chance to deplete either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
 Reverse - Dragon Tail
 Reduce the level of Weak Points
 During this Footwork, it reduces the level of Weak Points caused by the enemy to the user.
@@ -2528,7 +2530,8 @@ During this Footwork, whenever an enemy attacks the user, a separate Might check
 Reverse - Wind Fire Stance
 During this Footwork, whenever the user hits an enemy with a "Blade" weapon, enemy's Stamina will be depleted.
 Reverse - Drunk Lying In The East Sea
-During this Footwork, if the user is drunk, the user can perform the "Break" technique without the required Inhale and Stance, but the power of the technique will be reduced in proportion to the lack of required Inhale and Stance.
+Reduce Skill Power
+During this Footwork, user's "Break" techniques can be performed with only half of the required Stance and Inhale, but the power of the techniques will be reduced based on the amount of lacking Stance and Inhale. If the user is drunk, the power decrease will be halved.
 Reverse - Fox Move
 When retreating with this Footwork, the user needs to build up strength to move 1 distance at a time. If the user has been attacked more times before building up strength, the faster the user will build up strength
 Reverse - Tomb Escape
@@ -2917,28 +2920,26 @@ Reverse - Jade Breaking
 Stamina instead of Inhale
 User's Stamina can replace Inhale when user's Inhale isn't enough to perform this technique. While performing this technique, the user can move and attack, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
 Reverse - Spider Silk\nWhip
-Sealing Your Skill
 When this technique reaches $0$0% completion, 2 of the enemy's "Weapons" that are not currently being used will be "Sealed" for a short period of time; After using this technique, it will unavoidably be Sealed for a long period of time.
 Reverse - Dragon Whip
 When attacking enemy with this technique, the deeper the user is poisoned by Acritoxin, the more direct damage this technique will inflict; When this technique reaches $0$0% completion, the deeper the user is poisoned by Acritoxin, the more the power of this technique will cumulatively increase until the end of the battle.
 Reverse - Sky Snake Whip
 At the start of the battle, user gains 0 layers of this effect: Whenever user inflicts a direct Internal Injury marker on the enemy by means other than this technique, the number of layers of this effect will be increased, up to a maximum of 9 layers; When this technique reaches $0$0% completion, the direct Internal Damage caused by this technique will increase based on the number of layers of this effect, and then will be decreased by 1 layer.
 Reverse - Forged Bone\nFist
-Reduce Usage Requirements
-Based on completion percentage of this technique, the usage requirements of all "Break" techniques of the user will be reduced until the end of the battle.
+Based on completion percentage of this technique, 1 "Break" technique of the enemy will be "Sealed" for a very short period of time
 Reverse - Drunk\n8 Immortals Fist
 After this technique reaches $0$0% completion, user gains 8 layers of this effect: When enemy makes a weapon attack on the user, enemy can only use their lowest Accuracy stat to Hit the weapon attack; If user is drunk, when enemy makes a weapon attack on the user, the lowest Accuracy stat of the enemy will be reduced.
 Reverse - Refining\nFire Palm
 Improve your defense
-When hitting an enemy with this technique, enemy's Armor cannot reduce the effect of user's attack; After this technique reaches $0$0% completion, user gains 3 layers of this effect: When user is attacked by the enemy's technique, 10 points of user's Constitution get consumed to increase user's External and Internal Defense
+When hitting enemy with this technique, enemy's Armor will be ignored; After this technique reaches $0$0% completion, user gains 3 layers of this effect: When user is attacked by the enemy's technique, it consumes 10 points of the user's Constitution to increase user's External and Internal Defense
 Reverse - Crazy Drunk Fist
 When this technique reaches $0$0% completion, user has a low chance of performing this technique again immediately after it's finished, starting from 50% of its progress without consumption; The more disturbed user's Inner Breath is, the higher the Internal Damage caused by this technique will be; If user is drunk, the chance of performing this technique again increases greatly
 Reverse - Great Colorful\nPalm
 When you start performing this technique, a portion of the power of 1 most powerful "Quick" technique of the user and the enemy is transferred to this technique, and it lasts until the end of the battle.
 Reverse - Divine Fist\nof Jade Yang
-When this technique reaches $0$0% completion, you will consume 3 points of your own "Break" True Qi if possible, and change the number of effect layers of 1 random "Break" technique of the enemy to the minimum.
+When this technique reaches $0$0% completion, user will consume 10 points of "Break" True Qi if possible, and change the number of effect layers of 1 random "Break" technique of the enemy to the minimum.
 Reverse - Fire Palm of\n6 Yang
-When this technique reaches $0$0% completion, if enemy's dominant element is "Metal", direct damage dealt by this technique will be increased by 45%
+When this technique reaches $0$0% completion, if enemy's dominant element is "Metal" or "Wood", direct damage dealt by this technique will be increased by 90%
 Reverse - Great Jade Yang\nFist
 When you start to perform this technique, the more the number of levels of the enemy's "Break" technique's lasting effect is close to its lower limit, the more the power of this technique increases.
 Reverse - Dragon Palm
@@ -2949,11 +2950,11 @@ When this technique reaches $0$0% completion, for every 1 "Throw" style the user
 Reverse - Thunder Fire
 When this technique reaches $0$0% completion, user will gain 2 "Throw" styles
 Reverse - Dragon Spit\nDragon Ball
-When this technique reaches $0$0% completion, enemy will lose 2 points of "Break" True Qi.
+When this technique reaches $0$0% completion, enemy will lose 5 points of "Break" True Qi.
 Reverse - Divine Power\nof Red Blue Fire
-When this technique reaches $0$0% completion, user gains a buff that greatly increases Internal Penetration, and a debuff that decreases Internal Defense.
+When you start performing this technique, the user will gain a buff that greatly increases Internal Penetration, and a debuff that reduces Internal Defense
 Reverse - Blood Burning
-When you start performing this technique, if the user has any new internal injuries, it will change 1 random new internal injury of the user to an old injury that is harder to recover from, and then the power and attack range of this technique will increase significantly
+When you start performing this technique, if the user has any Internal Injuries, 3 random Internal Injuries of the user will change into 1 Old Injury that is harder to recover from, and then the power and Attack Range of this technique will increase greatly
 Reverse - 9 Refining of\nThe Sun
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Break" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Reverse - Blade of Fulong
@@ -2961,18 +2962,18 @@ Based on completion percentage of this technique, the power of all "Break" techn
 Reverse - Drunk Blade
 When you start to perform this technique, you can eliminate up to 2 usable forms of the enemy, and if the user is drunk, you can eliminate up to 3 usable forms of the enemy, and the more you eliminate, the more the power of this technique will increase.
 Reverse - 4 Slashes of\nDragontooth
-When you start to perform this technique, if the enemy has any "Aegis" technique to perform, the enemy will start to perform it immediately, and the higher the rank of the "Aegis" technique performed by the enemy, the more the direct internal injuries caused by this technique will be increased.
+When you start performing this technique, if the enemy has an "Aegis" technique that can be performed, the enemy will start to perform it immediately, and the Orthodox/Heterodox effects of the performed "Aegis" technique won't work. The higher the tier of the performed "Aegis" technique, the more the direct Internal Damage of this technique will increase
 Reverse - Blade of\nMindsets And Thoughts
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: all "Break" techniques performed by enemy will be affected by the lasting power decrease effect of another "Break" technique of the user with the highest lasting power decrease effect; If user is drunk, this effect will be greatly increased.
 Reverse - 81 Slashes of\nMadness Dragon
-After this technique reaches $0$0% completion, user gains 9 layers of this effect: The fewer layers of this effect remain, the more direct Internal Damage this technique will deal.
+After this technique reaches $0$0% completion, the user gains 4 layers of this effect: The direct Internal damage to the enemy's body part hit by this technique will continuously increase, lasting until the end of the battle
 Reverse - The Great\nDrunk Blade of Yinyang
 When hitting an enemy with this technique, the direct Internal Damage dealt will be increased according to the amount of Internal Injuries on the same body part of the user. Effect is doubled if the user is drunk
 Reverse - Dragonslayed\nBlade of Innocent Child
-When you start to perform this technique, if the user is not a child or a virgin, the power of this technique and the chance of hitting the enemy will be greatly increased.
+When you start performing this technique, if the user is not a male or female virgin, the power and hit chance of this technique will be greatly increased, and the damage dealt by this technique won't be reduced for any reason
 Reverse - Hegemony\nBlade of 9 Dragons
 Transfer of power reduction benefits
-When you start performing this technique, you will transfer the power of up to 3 of your "Break" techniques to the enemy's random "Break" techniques for the duration of the battle.
+When you start performing this technique, the continuous power decrease effects of up to 9 techniques of both the user and the enemy will be doubled and transferred as a power increase to this technique; After performing this technique, it will always be "Sealed" for an extremely long period of time
 Reverse - Vajra Hammer
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Punch" styles
 Reverse - 5 Anger Hands
@@ -3007,7 +3008,7 @@ After this technique reaches $0$0% completion, user gains 2 layers of this effec
 Reverse - Blade of\n6 Mighty Powers
 When attacking enemy with this technique, if the user's "Aegis" True Qi is lower than its initial value, the lower the user's "Aegis" True Qi is compared to enemy, the more direct damage the user will deal; When this technique ends, the user will gain 12 points of "Aegis" Qi
 Reverse - Blade of\nMahakala
-While performing this technique, all direct damage received by user won't take effect until after this technique is performed; After this technique reaches $0$0% completion, the Internal Injury and Fatal Wound markers that should've been received instead change into layers of this effect: When using "Break" techniques, user will consume up to 10 layers of this effect to increase the direct Internal Damage dealt. However, if the layers of this effect exceed 30, this effect will also work on enemy's techniques.
+While performing this technique, all direct damage received by the user won't take effect until after this technique is performed; After this technique reaches $0$0% completion, the Internal Injury and Fatal Wound markers that should've been received instead change into layers of this effect: When using "Break" techniques, user will consume up to 10 layers of this effect to increase the direct damage dealt. However, if the layers of this effect exceed 30, this effect will also work on enemy's techniques.
 Reverse - Rock-Breaking\nPoke
 Improve your own broken blade
 Break Weapon
@@ -3331,6 +3332,7 @@ When you start performing this technique, the more Daze markers user has, the mo
 Reverse - The World\nAmused
 When this technique reaches $0$0% completion, it will randomly greatly reduce the power of 1 "Break", 1 "Quick", 1 "Aegis" and 1 "Nadis" techniques of the enemy that haven't been weakened by this technique yet, lasting until the end of the battle.
 Reverse - Wudang\nLong Fist
+Reduce Usage Requirements
 Based on completion percentage of this technique, the usage requirements of all "Nadis" techniques of the user will be reduced until the end of the battle.
 Reverse - Wind Chasing\nPalm
 When this technique reaches $0$0% completion, user will gain 2 "Hold" styles
@@ -4035,3 +4037,66 @@ Continuously Attack Enemy
 This innate skill cannot be Sealed; Whenever Tiger/White Tiger inflicts a direct Injury marker on the enemy, it will immediately perform another attack on the enemy with decreased Accuracy. The higher the Purity of the Tiger/White Tiger is, the higher the damage will increase with each attack, lasting until continuous attacks stop
 Heavenly Snake
 This innate skill cannot be Sealed; The Heavenly Snake's External and Internal Injury markers will be removed over time
+Moon Passing Rainbow Star
+The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The White Dragon has to prepare to move 1 distance at a time. and can move up to 12 distance at once. Whenever the White Dragon receives direct damage from the enemy, if its remaining Stamina is not lower than 50%, it will immediately move outside of the enemy's Attack Range. Whenever the White Dragon prepares and moves 1 distance, 1 Daze marker will appear on the enemy.
+Black Sea's Evil Scales
+Reduce Poison Resistance
+The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Black Dragon will continuously apply a large amount of random Level 3 poisons to the enemy, and reduce enemy's resistance to all types of poison. The number of times toxins on the enemy can activate becomes unlimited.
+Deep Green Sky Mist
+The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Green Dragon's Injury and Old Injury markers will gradually disappear. The more Injury and Old Injury markers the Green Dragon has, the more the enemy's Attack Range will be reduced, and the Green Dragon's Attack Range will be increased.
+Flaming Divine Pearl
+Cannot be Resolved
+The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Red Dragon's attacks will worsen both External and Internal Injuries on the attacked body parts. When the Injury level on a body part reaches 4, it will be considered Broken, and the enemy won't be able to Resolve attacks on that body part.
+Superior to Heavens
+Decrease Vigor Limit
+Decrease Stamina Limit
+Eliminate Enemy's Deflect
+Cause Impairments
+The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; Whenever enemy's Break technique reaches at least $0$0% completion, the Yellow Dragon will make a random technique of the enemy Sealed. If a "Break" technique is Sealed, the enemy's maximum Stance/Inhale will be decreased. If a "Quick" technique is Sealed, the enemy's maximum Stamina will be decreased. If an "Aegis" technique is Sealed, the enemy's Deflect will be broken immediately. If a "Nadis" technique is Sealed, 3 random body parts of the enemy will receive Weak Points and Sealed Acupoints.
+Moon Partner Rainbow Star
+This innate talent cannot be Sealed; The Little White Dragon has to prepare to move 1 distance at a time. and can move up to 12 distance at once. Whenever the Little White Dragon receives direct damage from the enemy, if its remaining Stamina is not lower than 50%, it will immediately move outside of the enemy's Attack Range.
+Black Water's Evil Scales
+This innate talent cannot be Sealed; The Little Black Dragon will continuously apply a large amount of random Level 3 poisons to the enemy, and reduce enemy's resistance to all types of poison.
+Green Sky's Swift Rain
+This innate talent cannot be Sealed; The Little Green Dragon's Injury and Old Injury markers will gradually disappear. The more Injury and Old Injury markers the Little Green Dragon has, the more the enemy's Attack Range will be reduced, and the Little Green Dragon's Attack Range will be increased.
+Scarlet Fire Pearl
+This innate talent cannot be Sealed; The Red Dragon's attacks will worsen both External and Internal Injuries on the attacked body parts. When the Injury level on a body part reaches 4, it will be considered Broken.
+Honored Within Heavens
+This innate talent cannot be Sealed; Whenever enemy's Break technique reaches at least $0$0% completion, the Little Yellow Dragon will make a random technique of the enemy Sealed. The Sealed technique's power will be decreased, lasting until the end of the battle.
+White Jiao's Slender Tail
+This innate talent cannot be Sealed; This Jiao has to prepare to move 1 distance at a time. and can move up to 12 distance at once
+Black Jiao's Evil Scales
+This innate talent cannot be Sealed; This Jiao will continuously apply a large amount of random Level 3 poisons to the enemy
+Green Jiao's Iron Back
+This innate talent cannot be Sealed; This Jiao's Injury and Old Injury markers will gradually disappear.
+Red Jiao's Flaming Eye
+This innate talent cannot be Sealed; This Jiao's attacks will worsen both External and Internal Injuries on the attacked body parts
+Yellow Jiao's Lonely Horn
+This innate talent cannot be Sealed; Whenever enemy's Break technique reaches at least $0$0% completion, this Jiao will make a random technique of the enemy Sealed
+Myriad Rhymes Thousand Sounds
+This innate talent cannot be Sealed; Qiuniu is immune to all Defeat Markers other than Daze markers
+Revenge Over Dirty Look
+Accumulate Damage Taken
+This innate talent cannot be Sealed; Whenever the enemy deals direct damage to the Yazi, it will be added to its next attack. Yazi cannot be defeated while its next attack still has additional damage
+Demon-Frightening Lookout
+Add External Injury
+Add Internal Injury
+This innate talent cannot be Sealed; Whenever the enemy is near the Chaofeng, for every 0.5 distance moved forward the enemy will receive 1 External Injury; Whenever the enemy is away from the Chaofeng, for every 0.5 distance moved backwards the enemy will receive 1 Internal Injury
+Ringing Bell of Four Oceans
+Negate Mixed Damage
+This innate talent cannot be Sealed; Pulao cannot take more than one type of direct damage at a time; When Pulao receives direct External damage, he becomes immune to all direct External damage until he receives Daze damage or direct Internal damage; When Pulao receives direct Internal damage, he becomes immune to all direct Internal damage until he receives Daze damage or direct External damage; When Pulao receives Daze damage, he becomes immune to all Daze damage until he receives direct External or Internal damage.
+Heavenly Flame Golden Flower
+All Damage to Fatal
+This innate talent cannot be Sealed; Suanni's Fatal Wound damage is greatly increased; All direct damage dealt by Suanni turns into Fatal Wound damage
+Back Carry Thousand Years
+Reduce Deflect Damage
+This innate talent cannot be Sealed; Damage to Baxia's Deflect is greatly decreased; Baxia's Deflect works on enemy techniques
+Upright Justice Brave Might
+Penetration Up
+Raise Int/Ext Def.
+This innate talent cannot be Sealed; When Bian attacks an enemy with negative Fame, Bian's Ext. and Int. Pen. will be greatly increased based on how negative the enemy's Fame is; When Bian gets attacked by an enemy with negative Fame, Bian's Ext. and Int. Def. will be greatly increased based on how negative the enemy's Fame is
+Refined and Outstanding
+This innate talent cannot be Sealed; The enemy's Accuracy and Resolve stats cannot exceed the sum of their Music, Chess, Literature, and Painting attainments; The enemy's ATK and Defense stats cannot exceed the sum of their Carpentry, Smithing, Weaving, and Gemcutting attainments
+Fire Repelling Stream Surge
+Decrease Enemy's True QI
+This innate talent cannot be Sealed; Whenever Chiwen attacks an enemy, if any True Qi of the enemy is higher than its initial value, it will be greatly reduced. If any True Qi of the Chiwen is lower than its initial value, it will be greatly increased. The lower the enemy's True Qi than its initial value, and the higher the Chiwen's True Qi than its initial value, the more the direct damage of Chiwen's attacks will be.
