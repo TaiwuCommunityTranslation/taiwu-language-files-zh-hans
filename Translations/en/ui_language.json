@@ -5503,5 +5503,5 @@
   "LK_Mod_NeedRestart": "Requires Restart",
   "LK_Mod_ChangeConfig_Tip": "Flag used for the 「Mod Deficiency Risk Evaluation」 feature.\n<color=#orange>If this module modifies the game configuration</color>, it is recommended to turn this switch on.\nIf the save file menu detects that the save file contains this mod, but it isn't enabled, a risk warning will be displayed.",
   "LK_Mod_HasArchive_Tip": "Flag used for the 「Mod Deficiency Risk Evaluation」 feature.\n<color=#orange>If this module modifies the save data</color>, it is recommended to turn this switch on.\nIf the save file menu detects that the save file contains this mod, but it isn't enabled, a risk warning will be displayed.",
-  "LK_Mod_NeedRestart_Tip": "If changing settings of this mod requires a restart to take effect, it is recommended to turn this switch on. After turning it on, players will receive a "Confirm to restart the game" pop-up window when changing settings to ensure that the setting modifications can take effect correctly."
+  "LK_Mod_NeedRestart_Tip": "If changing settings of this mod requires a restart to take effect, it is recommended to turn this switch on. After turning it on, players will receive a \"Confirm to restart the game\" pop-up window when changing settings to ensure that the setting modifications can take effect correctly."
 }
