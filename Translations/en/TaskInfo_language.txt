@@ -965,3 +965,46 @@ Go to the Taiwu Village area, move to where the <color=#orange>「Return Invento
 Recover Martial Arts
 Recover abolished <color=#orange>Martial Arts</color>
 Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the dispelled <color=#orange>Martial Arts</color>.
+Stranger in the Village
+Go back to the <color=#orange>Taiwu Village</color>
+Return to the <color=#orange>Taiwu Village</color> to get to the bottom of this matter.
+I heard that a strange person was visiting the village, but I don’t know where they came from...
+Challenge Divine Dragon
+Leave to <color=#orange>challenge a Divine Dragon</color>
+Travel around the world in search of Divine Dragons, and use <color=#orange>「A Golden Thread」</color> to subdue the Divine Dragons.
+Since I have complied with the request of the Huanlong Clan's brother and sister, I should go to explore the traces of the Divine Dragons...
+Spiritual Pond Birth
+Rear a growing Jiao using <color=#orange>Jiao Pond</color>
+Go to the <color=#orange>「Taiwu Village」</color> press the "Industry" button, and go to the <color=#orange>「Jiao Pond」</color> to rear a Jiao.
+Now that the Jiao Pond has been built, you can go to the village and try raising Jiao...
+Breed Nine Sons
+
+
+Challenge White Dragon
+
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>White Dragon</color> located in the <color=#orange>Thunder Pond</color>.
+
+Challenge Black Dragon
+ 
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Black Dragon</color> located in the <color=#orange>Flood Pond</color>.
+
+Challenge Green Dragon
+
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Green Dragon</color> located in the <color=#orange>Wind Pond</color>.
+
+Challenge Red Dragon
+
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Red Dragon</color> located in the <color=#orange>Flame Pond</color>.
+
+Challenge Yellow Dragon
+
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Yellow Dragon</color> located in the <color=#orange>Sand Pond</color>.
+
+Raise and Train Jiao
+
+Go to the Jiao Pond and place a <color=#orange>「Jiao Egg」</color> inside, then <color=#orange>Select a Rearing Plan</color> to begin rearing.\nRearing time depends on the chosen Rearing Plan. <color=#orange>Every month it will consume a certain amount of resources</color>.\nIf the <color=#orange>Taming Level</color> of the Jiao gets too low, it is possible that it will try escaping from the Jiao Pond; If it escapes, it will wander in the <color=#orange>Taiwu Village's Area</color> and you will have to <color=#orange>fight it and use a rope to catch it</color> to return it into the Jiao Pond.\nOnce Jiao's rearing is complete, <color=#orange>it will be able to leave the Jiao Pond</color> and could be used as a Mount.
+
+Breeding Jiao
+
+Once Jiao's rearing is complete, two Jiao of the opposite sex can be used to <color=#orange>breed</color> in order to give birth to new <color=#orange>「Jiao Eggs」</color>.\nThrough rearing and breeding, it is possible to continuously improve the attributes of Jiao; If one attribute of a Jiao <color=#orange>reaches Pinnacle</color>, and <color=#orange>the remaining attributes have at least two Outstanding attributes</color>, it is possible to go to the <color=#orange>bottom right corner of the Jiao Pond's menu</color> to try <color=#orange>「Transforming into a Dragon Son」</color>.
+
