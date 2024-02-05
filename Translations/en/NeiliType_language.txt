@@ -1,72 +1,139 @@
 Metal·Devil-subduing Vajra
-"Vajra subdues devils, cleaning pagodas of their filth".\n\nThe power limit of "Metal" techniques is increased by 30%.\nThe power limit of "Wood" techniques is reduced by 30%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Vajra subdues devils, cleaning pagodas of their filth".\n\nThe power limit of "Metal" techniques is increased by 30%.\nThe power limit of "Wood" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Vajra subdues devils, cleaning pagodas of their filth"
+The power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_chunyang>"Fire"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Wood·Purple Clouds From East
-"Purple Clouds come from East, eliminating evil spirits".\n\nThe power limit of "Wood" techniques is increased by 30%.\nThe power limit of "Earth" techniques is reduced by 30%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Purple Clouds come from East, eliminating evil spirits".\n\nThe power limit of "Wood" techniques is increased by 30%.\nThe power limit of "Earth" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Purple Clouds come from East, eliminating evil spirits"
+The power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_jingang>"Metal"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Water·Ice-Cold Yin
-"Yin is Ice-Cold, Kun Hides in the Northern Sea".\n\nThe power limit of "Water" techniques is increased by 30%.\nThe power limit of "Fire" techniques is reduced by 30%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Yin is Ice-Cold, Kun Hides in the Northern Sea".\n\nThe power limit of "Water" techniques is increased by 30%.\nThe power limit of "Fire" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Yin is Ice-Cold, Kun Hides in the Northern Sea"
+The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_guiyuan>"Earth"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Fire·Pure Yang Flame
-"Pure Yang is like a flame, innocent children have no doubts".\n\nThe power limit of "Fire" techniques is increased by 30%.\nThe power limit of "Metal" techniques is reduced by 30%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Pure Yang is like a flame, innocent children have no doubts".\n\nThe power limit of "Fire" techniques is increased by 30%.\nThe power limit of "Metal" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Pure Yang is like a flame, innocent children have no doubts"
+The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_xuanyin>"Water"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Earth·Return to the Origin
-"Return to the origin to find inner strength, and you'll be able to carry the sky."\n\nThe power limit of "Earth" techniques is increased by 30%.\nThe power limit of "Water" techniques is reduced by 30%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Return to the origin to find inner strength, and you'll be able to carry the sky."\n\nThe power limit of "Earth" techniques is increased by 30%.\nThe power limit of "Water" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
+"Return to the origin to find inner strength, and you'll be able to carry the sky"
+The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Hunyuan·Man and Heaven as One
 "Man and Heaven as One, Origin of all Qi".\n\nThe power limit of "Hunyuan" techniques is increased by 30%.
+"Man and Heaven as One, Origin of all Qi"
+The power limit of <color=#fiveelementtype_hunyuan>"Hunyuan"</color> techniques <color=#brightblue>is increased by 30%</color>
 Metal·Shaped Gold
 "Water supports Metal, making it shaped."\n\nThe power limit of "Metal" and "Water" techniques is increased by 20%.\nThe power limit of "Wood" and "Fire" techniques is reduced by 20%.
+"Water supports Metal, making it shaped"
+The power limit of <color=#fiveelementtype_jingang>"Metal"</color> and <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_zixia>"Wood"</color> and <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 20%</color>
 Metal·Blunted Edge
 "When strong Metal meets Water, its edge will become blunt".\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Metal meets Water, its edge will become blunt"
+The power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_chunyang>"Fire"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Metal·Gold Deficiency
-"When strong Wood meets Metal, it certainly will be broken."\n\nThe power limit of "Metal" techniques is reduced by 30%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Wood meets Metal, it certainly will be broken."\n\nThe power limit of "Metal" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Wood meets Metal, it certainly will be broken"
+The power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_jingang>"Metal"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Metal·Chopped Wood
 "When weak Wood meets Metal, it will be cut and broken".\n\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When weak Wood meets Metal, it will be cut and broken"
+The power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Metal·Ore Veins
 "Earth generates Metal, allowing it to become a mound of diffused ore veins".\n\nThe power limit of "Metal" and "Earth" techniques is increased by 20%.\nThe power limit of "Wood" and "Water" techniques is reduced by 20%.
+"Earth generates Metal, allowing it to become a mound of diffused ore veins"
+The power limit of <color=#fiveelementtype_jingang>"Metal"</color> and <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_zixia>"Wood"</color> and <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 20%</color>
 Metal·Buried in the Ground
 "When strong Metal meets Earth, it's preciousness will be hidden."\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Metal meets Earth, it's preciousness will be hidden"
 Wood·Sprouting Trees
 "Fire supports Wood, allowing sprouting trees to be strong."\n\nThe power limit of "Wood" and "Fire" techniques is increased by 20%.\nThe power limit of "Earth" and "Metal" techniques is reduced by 20%.
+"Fire supports Wood, allowing sprouting trees to be strong"
+The power limit of <color=#fiveelementtype_zixia>"Wood"</color> and <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> and <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 20%</color>
 Wood·Quenched Woods
 "When strong Wood meets Fire, it will defeat it through stubbornness".\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Wood meets Fire, it will defeat it through stubbornness"
+The power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_jingang>"Metal"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Wood·Impenetrable Soil
-"When strong Earth meets Wood, it will be hard for Wood to thrive".\n\nThe power limit of "Wood" techniques is reduced by 30%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Earth meets Wood, it will be hard for Wood to thrive".\n\nThe power limit of "Wood" techniques is <color=#brightred>reduced by 30%</color>.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Earth meets Wood, it will be hard for Wood to thrive"
+The power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Wood·Sapped Earth
 "When weak Earth meets Wood, it will be sapped of nutrients."\n\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When weak Earth meets Wood, it will be sapped of nutrients"
+The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_guiyuan>"Earth"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Wood·Prosperous Forest
 "Water generates Wood, making it into a prosperous forest."\n\nThe power limit of "Wood" and "Water" techniques is increased by 20%.\nThe power limit of "Earth" and "Fire" techniques is reduced by 20%.
+"Water generates Wood, making it into a prosperous forest"
+The power limit of <color=#fiveelementtype_zixia>"Wood"</color> and <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> and <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 20%</color>
 Wood·Moistened Branches
 "When strong Wood meets Water, its branches will be moistened."\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Wood meets Water, its branches will be moistened"
 Water·Clean Lake
 "Wood supports Water, improving its quality."\n\nThe power limit of "Water" and "Wood" techniques is increased by 20%.\nThe power limit of "Fire" and "Earth" techniques is reduced by 20%.
+"Wood supports Water, improving its quality"
+The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> and <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_chunyang>"Fire"</color> and <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 20%</color>
 Water·Drained Water
 "When strong Water meets Wood, it will be drained."\n\nThe power limit of "Water" techniques is increased by 20%.\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Water meets Wood, it will be drained"
+The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_guiyuan>"Earth"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Water·Boiling Water
-"When strong Fire meets Water, it will be boiled."\n\nThe power limit of "Water" techniques is reduced by 30%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Fire meets Water, it will be boiled."\n\nThe power limit of "Water" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Fire meets Water, it will be boiled"
+The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_xuanyin>"Water"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Water·Drowned Flame
 "When weak Fire meets Water, it will be drowned out."\n\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When weak Fire meets Water, it will be drowned out"
+The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_chunyang>"Fire"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Water·Flooding Rivers
 "Metal generates Water, allowing rivers to thrive."\n\nThe power limit of "Water" and "Metal" techniques is increased by 20%.\nThe power limit of "Fire" and "Wood" techniques is reduced by 20%.
+"Metal generates Water, allowing rivers to thrive"
+The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> and <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_chunyang>"Fire"</color> and <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 20%</color>
 Water·Condensed Droplets
 "When strong Water meets Metal, it will start condensing on it."\n\nThe power limit of "Water" techniques is increased by 20%.\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Water meets Metal, it will start condensing on it"
 Fire·Warm Earth
 "Earth supports Fire, allowing it to burn longer."\n\nThe power limit of "Fire" and "Earth" techniques is increased by 20%.\nThe power limit of "Metal" and "Water" techniques is reduced by 20%.
+"Earth supports Fire, allowing it to burn longer"
+The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> and <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_jingang>"Metal"</color> and <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 20%</color>
 Fire·Weak Flame
 "When strong Fire meets Earth, its flames will be weakened."\n\nThe power limit of "Fire" techniques is increased by 20%.\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Fire meets Earth, its flames will be weakened"
+The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_xuanyin>"Water"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Fire·Extinguished Fire
-"When strong Metal meets Fire, it will be extinguished."\n\nThe power limit of "Fire" techniques is reduced by 30%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Metal meets Fire, it will be extinguished."\n\nThe power limit of "Fire" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Metal meets Fire, it will be extinguished"
+The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_chunyang>"Fire"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Fire·Melting Metal
 "When weak Metal meets Fire, it will be melted."\n\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When weak Metal meets Fire, it will be melted"
+The power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_jingang>"Metal"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Fire·Intense Tree Fire
 "Wood generates Fire, making a fierce fire."\n\nThe power limit of "Fire" and "Wood" techniques is increased by 20%.\nThe power limit of "Metal" and "Earth" techniques is reduced by 20%.
+"Wood generates Fire, making a fierce fire"
+The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> and <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_jingang>"Metal"</color> and <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 20%</color>
 Fire·Damp Fire Starter
 "When strong Fire meets Wood, it will waste its energy."\n\nThe power limit of "Fire" techniques is increased by 20%.\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Fire meets Wood, it will waste its energy"
 Earth·Solid Earth
 "Metal supports Earth, making it firm and strong."\n\nThe power limit of "Earth" and "Metal" techniques is increased by 20%.\nThe power limit of "Water" and "Wood" techniques is reduced by 20%.
+"Metal supports Earth, making it firm and strong"
+The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> and <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> and <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 20%</color>
 Earth·Rocky Ground
 "When strong Earth meets Metal, it will be obstructed."\n\nThe power limit of "Earth" techniques is increased by 20%.\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Earth meets Metal, it will be obstructed"
+The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Earth·Rushing River
-"When strong Water meets Earth, it will wash it away."\n\nThe power limit of "Earth" techniques is reduced by 30%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Water meets Earth, it will wash it away."\n\nThe power limit of "Earth" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Water meets Earth, it will wash it away"
+The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_guiyuan>"Earth"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Earth·Silted Stream
 "When weak Water meets Earth, it will be silted up."\n\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When weak Water meets Earth, it will be silted up"
+The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_xuanyin>"Water"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Earth·Rich Soil
 "Fire generates Earth, allowing it to thrive."\n\nThe power limit of "Earth" and "Fire" techniques is increased by 20%.\nThe power limit of "Water" and "Metal" techniques is reduced by 20%.
+"Fire generates Earth, allowing it to thrive"
+The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> and <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> and <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 20%</color>
 Earth·Fired Clay
 "When strong Earth meets Fire, it will be refined."\n\nThe power limit of "Earth" techniques is increased by 20%.\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
+"When strong Earth meets Fire, it will be refined"
