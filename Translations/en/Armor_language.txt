@@ -1054,3 +1054,18 @@ Mysterious Scales
 Spirit Scales
 Spirit scales from the top of a serpent's head.
 Scales of a spirit serpent.
+Dragon Scale
+Solid scales of a Divine Dragon's head.
+Solid scales of a Divine Dragon.
+Solid scales of Divine Dragon's forelimbs.
+Solid scales of Divine Dragon's hind legs.
+Fine Dragon Scale
+Fine scales of a Divine Dragon's head.
+Fine scales of a Divine Dragon.
+Fine scales of Divine Dragon's forelimbs.
+Fine scales of Divine Dragon's hind legs.
+Jiao's Clothes
+Scaled leather of Jiao's head.
+Scaled leather of Jiao
+Black Shell
+Baxia's shell.
