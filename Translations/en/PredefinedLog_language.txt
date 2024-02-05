@@ -31,3 +31,7 @@ Debate operation expired
 The system abnormally received the expired operation {0} (timestamp: {1}) and invalidated it in the round number {2}
 Dream Back world file doesn't match
 Please note that the world you are currently traveling through in your dream does not match the original world save, and various unknown errors may occur if you continue the game! 
+Abnormal refreshment of elements in the interface of Dragon Transformation
+An anomalous condition has been detected while the Chemtrail interface is running, we are aware of the issue and have attempted to enable the game to continue through compatibility processing.\nIf this log appears, please go to the official website and submit the log to help troubleshoot the problem.
+General interface element refresh exception
+We have noted the current abnormal conditions and have attempted to continue the game through compatibility processing. \nThe anomalies recorded when this log appears may not be the same, whenever this log appears, please go to the official website to submit the log to assist in troubleshooting the problem.\nException Information: {0}
