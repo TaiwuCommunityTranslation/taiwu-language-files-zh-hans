@@ -2692,7 +2692,7 @@
   "LK_OtherCombat_Favorability_Up": "<color=#B97D4BFF>{0}</color>'s <color=#E3C66DFF>Favor</color> for <color=#B97D4BFF>{1}</color> <color=#B5DEDEFF>increased</color>.",
   "LK_OtherCombat_Favorability_Down": "<color=#B97D4BFF>{0}</color>'s <color=#E3C66DFF>Favor</color> for <color=#B97D4BFF>{1}</color> <color=#c6272e>decreased</color>.",
   "LK_OtherCombat_Happiness_Up": "<color=#B97D4BFF>{0}</color>'s <color=#E3C66DFF>Mood</color> <color=#B5DEDEFF>improved</color>. ",
-  "LK_OtherCombat_Happiness_Down": "<color=#B97D4BFF>{0}</color>'s<color=#E3C66DFF>mood</color><color=#c6272e>has decreased.",
+  "LK_OtherCombat_Happiness_Down": "<color=#B97D4BFF>{0}</color>'s <color=#E3C66DFF>Mood</color> <color=#c6272e>worsened.</color> ",
   "LK_OtherCombat_Win": "Defeat to win",
   "LK_OtherCombat_Lose": "Lose after defeat",
   "LK_LifeRecord_None": "Passed in a trance",
