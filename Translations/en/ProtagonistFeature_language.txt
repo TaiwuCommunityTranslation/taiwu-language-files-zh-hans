@@ -47,7 +47,7 @@ Curing people and divining stars, both require knowledge of the yin yang and the
 Creativity
 Heaven creates things, and the fire of knowledge is passed from one generation to another...\nYour talent in Smithing, Carpentry, Gemcutting, and Weaving is extraordinary.\nIncreases your talent in Smithing, Carpentry, Gemcutting, and Weaving to at least 70.
 Unpolished Jade
-Unpolished jade awaits to be polished into a precious stone...\nYour efficiency in studying Fine Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Fine Art books. You also receive the "Unpolished Jade" trait that increases your Fortitude by 20. This trait will always be inherited by your children.
+Unpolished jade awaits to be polished into a precious stone...\nYour efficiency in studying Fine Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Fine Art books (by 30%). You also receive the "Unpolished Jade" trait that increases your Fortitude by 20. This trait will always be inherited by your children.
 Restrained Sharp Edge
 The sharp edge is restrained, the hidden dragon awaits to break free...\nYour efficiency in studying Martial Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Martial Art books. You also receive the "Restrained Sharp Edge" trait that increases your Fortitude by 20. This trait will always be inherited by your children.
 Treasures from Nature
