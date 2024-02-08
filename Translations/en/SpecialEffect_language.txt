@@ -713,7 +713,7 @@ Enhanced Might gain
 During this Footwork: the Might of the user will not be reduced by any effect; all Might-raising techniques and buff effects that the user receives are greatly increased
 Flying On The Grass
 Move Dist Up
-When moving forward with this Footwork, the user needs to accumulate power to move 1 distance at a time, and when the user accumulates power to move next time, the distance moved will be increased additionally.
+When advancing with this Footwork, the user will prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
 Cliff Hanging Pot
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, user's Stamina will be restored.
 Shatang's Watersteps
