@@ -1046,7 +1046,7 @@ Small 8 Moves\nof Gold Clank
 Lowering the enemy's External Defense
 This technique cannot be reflected; When attacking enemy with this technique, if the enemy's External Defense is higher than the user's External Penetration, after this technique is performed, a buff that increases the External Penetration is applied to the user and a debuff that decreases the External Defense is applied to the enemy.
 Flood Dragon's\nWagging Tail
-At the start of the battle, user gains 3 layers of this effect: Whenever the total number of user's Defeat Markers exceeds half of the Defeat Condition, if an enemy is within the attack range of this technique, user starts performing this technique without consumption from 75% of it's progress, and it's damage is increased by the amount of External Injuries user has.
+At the start of the battle, user gains 3 layers of this effect: Whenever the total number of user's Defeat Markers exceeds half of the Defeat Condition, if the enemy is within the attack range of this technique, user starts performing this technique without consumption from 75% of it's progress, and its damage is increased by the amount of External Injuries the user has.
 Flood Dragon's\nRolling Kick
 Remove Debuff
 Reduce Weak Points and Sealed Acupoints
