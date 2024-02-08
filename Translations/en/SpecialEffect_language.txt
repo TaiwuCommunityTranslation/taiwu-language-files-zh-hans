@@ -1956,7 +1956,7 @@ Reduces the usage requirements of "Kongsang Sect" techniques by 20%
 Reverse -  Shennong Ben Cao Secret
 Reduce the speed of the enemy to drive away the poison
 Reducing the effect of enemy and expelling poison
-Reduces the speed of "Healing" and "Detox" of enemies in battle; reduces the number of injuries that can be healed by "Healing" and the number of toxins that can be removed by "Detox" in battle
+Reduces the speed of the enemy's "Healing" and "Detoxing" in battle; Reduces the number of Injuries and the amount of Poison the enemy can remove by using "Healing" and "Detoxing" in battle
 Reverse -  Shibayama Green Bag trick
 The higher the sum of the 5 highest-ranked elixirs among the elixirs currently consumed by the user, the higher the damage caused by the user to the enemy
 Reverse -  Jiaojiao four methods
