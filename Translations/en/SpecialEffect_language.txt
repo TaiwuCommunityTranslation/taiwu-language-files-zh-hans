@@ -419,7 +419,7 @@ When the total number of defeat marks of the user exceeds half of the defeat con
 4 Finger Azure Cream
 When user's "Nadis" True Qi is higher than the enemy's "Nadis" True Qi, all direct damage dealt by the enemy will be reduced by 15%
 3 Books of 9-Steps
-When the distance between the user and the enemy is less than 5, the closer the distance between the enemy and us, the more the user's Might, Finesse, Swiftness, and Breath will increase.
+When the distance between the user and the enemy is less than 5, the closer the user is to the enemy, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Visceral Anatomy
 Improving external injury
 User's External damage to uninjured body parts of the enemy is increased by 45%
