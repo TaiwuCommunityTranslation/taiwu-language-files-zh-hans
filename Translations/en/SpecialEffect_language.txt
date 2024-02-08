@@ -1179,7 +1179,7 @@ Mechanic Hawk
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user inflicts an External Injury on the enemy using direct damage, user can consume an additional "Ware" style to inflict 1 indirect External Injury to a random body part of the enemy, which will immediately change into an Old Injury that is harder to recover from.
 The Impulse
 Transfer Injuries
-After this technique reaches $0$0% completion, user gains 1 layer of this effect: When the total number of user's Defeat Markers reaches defeat condition, all of removable Injury and Fatal Wound markers of the user get removed, and a portion of the removed Injury markers is transferred to the enemy, after which this technique will be always be "Sealed" until the end of the battle.
+After this technique reaches $0$0% completion, user gains 1 layer of this effect: When the total number of defeat markers sustained by user reaches the defeat condition, all of removable Injury and Fatal Wound markers of the user get removed, and a portion of the removed Injury markers is transferred to the enemy, after which this technique will be always be "Sealed" until the end of the battle.
 Ancestor's\nLong Fist
 Extra Prestige
 When an enemy is defeated with this technique, the prestige gained by the user at the end of the battle is greatly increased
