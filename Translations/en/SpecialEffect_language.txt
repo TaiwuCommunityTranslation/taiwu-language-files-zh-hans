@@ -2328,7 +2328,7 @@ Reverse - Sky Demon
 Worsening the enemy's internal wounds
 When defending with this technique: all direct Internal Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Cryotoxin to the enemy, and at the same time worsens the Internal Injuries on all body parts of the enemy
 Reverse - Undead Body of Blood Child
-When the total number of defeat marks of the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Inhale required to use skills is reduced by 50%
+When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Inhale required to use skills is reduced by 50%
 Reverse - Lift-Up Jumping
 Reduce enemy movement speed
 During this Footwork, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
