@@ -837,7 +837,7 @@ After this technique reaches $0$0% completion, user gains 4 layers of this effec
 Shield Blade\nof Lion Phase
 When this technique reaches $0$0% completion, for every 3 "Hack" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Tremendous\nEffort Blade
-When you start to perform this technique, the more Strength the user has not consumed, the more the power of this technique will increase
+When you start performing this technique, the more Strength the user has not consumed, the more the power of this technique will increase
 Ao Slaying\nBlade
 Injuries inflicted by this technique on the enemy's Legs will change to older injuries that are more difficult to recover from
 Overlord Blade
@@ -845,7 +845,7 @@ Forbid the enemy to retreat
 After this technique reaches $0$0% completion, user gains 8 layers of this effect: Whenever enemy receives an Injury marker, layers of this effect get reduced by 1. While this effect is active, enemy cannot retreat as long as the user is in the enemy's attack range.
 Gold Lion Blade
 Ban Hetero
-When you start to perform this technique, "interrupt" all the enemy's Heterodox training techniques and eliminate all the enemy's Heterodox training techniques; While performing this technique, the enemy cannot perform any Heterodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Heterodox training techniques, and every time the user performs any Orthodox training techniques, this effect is reduced by 1 level
+When you start performing this technique, "interrupt" all the enemy's Heterodox training techniques and eliminate all the enemy's Heterodox training techniques; While performing this technique, the enemy cannot perform any Heterodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Heterodox training techniques, and every time the user performs any Orthodox training techniques, this effect is reduced by 1 level
 Coiled Dragon\nGhost Blade
 Ortho to Hetero
 After this technique reaches $0$0% completion, if user has at least 2 "Hack" styles left after this technique, user will consume 2 "Hack" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously. After using, this skill will change from Orthodox to Heterodox version.
@@ -856,17 +856,17 @@ Spear of Evil
 Extra Attack Tokens
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user receives an External Injury or Fatal Wound marker due to direct External Damage, user recovers all of their "attack tokens"
 Soul-Severed\nSpear of 5 Tigers
-When you start to perform this technique, the greater the maximum attack distance of the user than the maximum attack distance of the enemy, the more the power of this technique will increase
+When you start performing this technique, the greater the maximum attack distance of the user than the maximum attack distance of the enemy, the more the power of this technique will increase
 8 Mother's\nSpear of Lion Phase
 Enhance Buff
 Based on completion percentage of this technique, increases the strength of 1 buff on the user
 General's\n16 Spear
-When you start to perform this technique, the more Constitution the user has not consumed, the more the power of this technique will increase
+When you start performing this technique, the more Constitution the user has not consumed, the more the power of this technique will increase
 Spear of\nUniverse
 While performing this technique, user can advance up to 3 distance, and the consumption of Stamina and Footwork will be halved. The further the user advances, the more the power of this technique will increase. For every 0.2 distance the user advances, user will gain 3 points of "Break" and "Aegis" True Qi
 Spear of\nMountain-Shaking Beasts
 Switch E·Weapon
-When you start to perform this technique, if the enemy does not use the "Aegis" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons can not be used temporarily.
+When you start performing this technique, if the enemy does not use the "Aegis" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons can not be used temporarily.
 Lion Spear of\nMadness Dragon
 Transfer Reflect Damage
 When this technique's damage gets Reflected, user transfers all of the Reflect damage back to the enemy; After this technique reaches $0$0% completion, user gains 4 layers of this effect: When user isn't using a Footwork, the user can quickly accumulate power to advance 2 distance at once without consumption
@@ -888,14 +888,14 @@ When this technique reaches $0$0% completion, user immediately performs a "Melod
 When you start performing this technique, the power of this technique increases dramatically
 Xiang Lady Tears
 Reduce the power of techniques
-When you start to perform this technique, if the enemy has a deceased spouse, the higher the good sense of the enemy and the deceased spouse with the lowest good sense, the more the power of this technique will increase, but if the good sense of the enemy and the deceased spouse with the lowest good sense is lower than enthusiasm, the power of this technique will be greatly reduced instead
+When you start performing this technique, if the enemy has a deceased spouse, the higher the good sense of the enemy and the deceased spouse with the lowest good sense, the more the power of this technique will increase, but if the good sense of the enemy and the deceased spouse with the lowest good sense is lower than enthusiasm, the power of this technique will be greatly reduced instead
 3 Nights of Joy
 Increase Breath
-When you start to perform this technique: A part of the user's Charm is added to the user's Breath accuracy value;  if the enemy is male, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
+When you start performing this technique: A part of the user's Charm is added to the user's Breath accuracy value;  if the enemy is male, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
 Song of\nThe Moon
 When you start performing this technique: If the enemy doesn't have a teammate, the power of this technique will be greatly increased; If the enemy has a teammate, and the user doesn't, user will receive a large amount of True Qi equal to the portion of True Qi of 1 random enemy teammate; When this technique reaches $0$0% completion, add 3 "None" styles to the enemy.
 Love Poem
-When you start to perform this technique, the more enemies and mutual love, the more the power of this technique will increase, but if the number of mutual love with the enemy exceeds 10 people, the power of this technique will be reduced instead
+When you start performing this technique, the more enemies and mutual love, the more the power of this technique will increase, but if the number of mutual love with the enemy exceeds 10 people, the power of this technique will be reduced instead
 Celestial Music\nof Goddess
 Remove E·Buff
 Add Critical Wound
@@ -1009,7 +1009,7 @@ After this technique reaches $0$0% completion, user gains 5 layers of this effec
 The Great Snow\nMountain Palm
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: The higher the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are compared to those of the enemy, the more the power of any "Break" technique performed by the user will be increased.
 Blood Palm
-When you start to perform this technique, the deeper the enemy is poisoned with Pyrotoxin, the more the power of this technique will increase
+When you start performing this technique, the deeper the enemy is poisoned with Pyrotoxin, the more the power of this technique will increase
 Osbeck Bone Melt
 Steady pace of descending the enemy
 Based on the power of this technique, apply a debuff to the enemy that reduces Ext. Recovery
@@ -1029,7 +1029,7 @@ Iron Flower\nRotten Bone Claw
 Injuries inflicted by this technique on the enemy's Chest will change to older injuries that are more difficult to recover from
 Jade Cicada\nFinger
 Variable toxin type
-When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of poison among the enemy's Umbritoxin, Cryotoxin and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
+When you start performing this technique, the toxin applied by the user to the enemy will change according to the lowest amount of poison among the enemy's Umbritoxin, Cryotoxin and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
 Flood Dragon's\nIron Tentacle
 No Harm Hands
 Eliminate the memory of the enemy
@@ -1057,7 +1057,7 @@ While performing this technique, enemies with lower Ext. Recovery than the user 
 A Hundred Steps\nof Mysterious Tripot
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: When the number of layers of this effect is Even, user's Might, Finesse and Swiftness will be greatly increased; When the number of layers of this effect is Odd, user's Diversion, Parry and Evasion will be greatly increased; If user performs this technique while still having layers of this effect remaining, their power will be greatly increased.
 Zhen Fragrant
-When you start to perform this technique, the deeper the enemy is poisoned with Acritoxin, the more the power of this technique will increase
+When you start performing this technique, the deeper the enemy is poisoned with Acritoxin, the more the power of this technique will increase
 8 Fairies\nof The Other Side
 Increase Poison Activation Count
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: The number of actions required for Poisons on the enemy to activate is increased, but every time a Poison on the enemy activates, it activates 2 times.
@@ -1184,13 +1184,13 @@ Ancestor's\nLong Fist
 Extra Prestige
 When an enemy is defeated with this technique, the prestige gained by the user at the end of the battle is greatly increased
 Scorpion Hand
-When you start to perform this technique, the deeper the enemy is poisoned with Umbritoxin, the more the power of this technique will increase
+When you start performing this technique, the deeper the enemy is poisoned with Umbritoxin, the more the power of this technique will increase
 Python Hand
 Ignore Def Effect
 When attacking the enemy with this technique, if the enemy's Oneirotoxin attacks the heart, the special effect of the enemy's "Aegis" technique cannot take effect
 Blood Fluke\nPalm
 Soul-Extinct\nPalm
-When you start to perform this technique, the toxin applied to the enemy by the user will change according to the least poisoned of the enemy's Acritoxin, Pyrotoxin and Necrotoxin, if the poison applied to the enemy after the change is still Necrotoxin, the power of this technique will be greatly increased
+When you start performing this technique, the toxin applied to the enemy by the user will change according to the least poisoned of the enemy's Acritoxin, Pyrotoxin and Necrotoxin, if the poison applied to the enemy after the change is still Necrotoxin, the power of this technique will be greatly increased
 Azure Spider\nHand
 Binding Enemy's technique
 Exemption from exertion
@@ -1287,7 +1287,7 @@ When this technique reaches $0$0% completion, user will consume 10 points of "Br
 Fire Palm of\n6 Yang
 When you attack enemy with this technique, if enemy's dominant internal element is "Metal" or "Wood", it will eliminate enemy's "Aegis" and "Quick" techniques, and reduce the continuous effect of 3 "Break" techniques of the enemy to 0 layers.
 Great Jade Yang\nFist
-When you start to perform this technique, the more the number of levels of the duration effect of all the "Break" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
+When you start performing this technique, the more the number of levels of the duration effect of all the "Break" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
 Dragon Palm
 Change skills
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: All Orthodox "Fist Techniques" performed by user will change into this technique, and based on power of this technique, their power will be greatly increased, lasting until the end of the battle; Orthodox Way of these techniques temporarily shifts to: "When this technique reaches $0$0% completion, enemy's "Aegis" technique, Footwork and Stamina will be removed."
@@ -1307,7 +1307,7 @@ At the beginning of the battle, the user gains 0 levels of this effect: every ti
 Blade of Fulong
 Based on completion percentage of this technique, the power of all "Break" techniques of the user will be increased by 20% until the end of the battle.
 Drunk Blade
-When you start to perform this technique, you can eliminate up to 2 unusable forms of the user, and if the user is drunk, you can eliminate up to 3 unusable forms of the user, and the more you eliminate, the more the power of this technique will increase.
+When you start performing this technique, you can eliminate up to 2 unusable forms of the user, and if the user is drunk, you can eliminate up to 3 unusable forms of the user, and the more you eliminate, the more the power of this technique will increase.
 4 Slashes of\nDragontooth
 Force E·skill
 When you start performing this technique, if the enemy has an "Aegis" technique that can be performed, the enemy will start to perform it immediately, and the Orthodox/Heterodox effects of the performed "Aegis" technique won't work. The higher the tier of the performed "Aegis" technique, the more the direct External Damage of this technique will increase
@@ -1339,7 +1339,7 @@ After this technique reaches $0$0% completion, if user has at least 2 "Punch" st
 When this technique reaches $0$0% completion, user gains 1 layer of this effect, stacking up to a maximum of 4 layers: At 1 layer: Power of this technique greatly increases; At 2 layers: Maximum attack range of this technique increases; At 3 layers: Direct External Damage caused by this technique won't be reduced for any reason; At 4 layers: After performing this skill, all Stance consumed by it gets restored.
 The Great Sun\nBuddha Palm
 Reduce Debuff
-When you start to perform this technique, the effect of all the user's debuffs will be halved and the effect of all the buffs will be doubled until the end of this technique.
+When you start performing this technique, the effect of all the user's debuffs will be halved and the effect of all the buffs will be doubled until the end of this technique.
 Vajra Blade
 When this technique reaches $0$0% completion, user takes away 1 "Hack" style from the enemy.
 Rakkhasa Blade
@@ -1419,7 +1419,7 @@ Special Action\nof Trigram Map
 Triggering the kill effect
 When this technique reaches $0$0% completion, if user has any effects that would activate because "user gains a "Kill" style", then these effects will activate immediately without consuming layers; User will have a high chance of gaining 1 "Kill" style after this effect activates.
 Throw\nTweet-Dragon
-When you start to perform this technique, the more "Kill" styles the user has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the "Kill" styles the user has arranged together, which greatly increases the direct damage caused by this technique to the enemy
+When you start performing this technique, the more "Kill" styles the user has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the "Kill" styles the user has arranged together, which greatly increases the direct damage caused by this technique to the enemy
 Divine Needle\nof Shadow-Stopped
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user gains a "Kill" style, enemy's Footwork and Stamina will be completely depleted.
 Divine\nNone-Thought
@@ -1481,7 +1481,7 @@ When you start performing this technique, the more body parts of the enemy have 
 Poison Dragon\nClaw
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: Pyrotoxin applied by the user's "Break" techniques on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". User's "Break" techniques the have Pyrotoxin on them will also have a greatly increased Cast Speed.
 Hade Finger
-When you start to perform this technique, the deeper the enemy is poisoned with Necrotoxin, the more the power of this technique will be increased
+When you start performing this technique, the deeper the enemy is poisoned with Necrotoxin, the more the power of this technique will be increased
 Blood Pool\nGhost Claw
 When this technique reaches $0$0% completion, user transfers 1 non-old External Injury from each of their body parts to the "Injured" body part of the enemy.
 Lower Body Kick
@@ -1643,7 +1643,7 @@ After this technique reaches $0$0% completion, user gains 10 layers of this effe
 Beauty Stab
 When this technique reaches $0$0% completion, if the distance between the user and the enemy is less than the enemy's maximum attack range, user will immediately retreat to the enemy's maximum attack range without consumption.
 Stab of\nDexterity Snake
-When you start to perform this technique, the more Agility the user has not consumed, the more the power of this technique will increase
+When you start performing this technique, the more Agility the user has not consumed, the more the power of this technique will increase
 Shadow Stab
 When this technique reaches $0$0% completion, if the enemy's "Quick" True Qi isn't lower than its initial value, the enemy will lose 30 points of "Quick" True Qi. Otherwise, the enemy will lose 10 points.
 Divine Needle\nof Meditation Wisdom
@@ -1664,7 +1664,7 @@ After this technique reaches $0$0% completion, user gains 10 layers of this effe
 Flower Rain
 For every $0$0% of completion of this technique, user has a low chance of inflicting 1 additional Sealed Acupoint on the enemy
 The Great\nFlower Finger of Mandala
-When you start to perform this technique, the deeper the enemy is poisoned with Oneirotoxin, the more the power of this technique will increase
+When you start performing this technique, the deeper the enemy is poisoned with Oneirotoxin, the more the power of this technique will increase
 Flower Spirit\nMoon Finger
 When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Fire", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 A Hundred\nFlower Fight
@@ -1677,7 +1677,7 @@ When this technique reaches $0$0% completion, for every 3 "Drive" styles the use
 5 Elements\nPinprick
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Throw" and "Shot" styles that user gains will be changed to "Drive" styles
 Chilling Pinprick
-When you start to perform this technique, the deeper the enemy is poisoned by Cryotoxin, the more the power of this technique will increase
+When you start performing this technique, the deeper the enemy is poisoned by Cryotoxin, the more the power of this technique will increase
 Bianque Pinprick
 Heal Injuries
 When the cast progress of this technique reaches 100%, the user will perform 1 "Healing" that doesn't consume a "Healing" attempt, but also can't cure Old Wounds. The more Injuries this "Healing" eliminates, the more power of this skill will be increased
@@ -1698,7 +1698,7 @@ Home Forgetting
 When you start performing this technique, the better the user's Mood is, the more the power of this technique increases; When this technique reaches $0$0% completion, attack range of user's next "Break" technique increases based on how high user's Mood is; At the end of this technique, based on completion percentage of this technique user gains a buff that improves their Mood.
 Phoenix Arrival
 Improving BRE and FOC
-When you start to perform this technique, if the Karma of the user is higher than the Karma of the enemy, the Karma will be added to the power of this technique, and if the Perception of the user is also higher than the Perception of the enemy, the user will be given a buff that improves Breath and Focus.
+When you start performing this technique, if the Karma of the user is higher than the Karma of the enemy, the Karma will be added to the power of this technique, and if the Perception of the user is also higher than the Perception of the enemy, the user will be given a buff that improves Breath and Focus.
 Imperial\nConcubine
 When you start performing this technique, all of your True Qi that is below the initial value will be restored by 1 point; When this technique reaches $0$0% completion, all of your True Qi that is below the initial value will again be restored by a maximum of 2 points.
 Flowers Sigh
@@ -1735,9 +1735,9 @@ Swordsmanship\nof Rainbow White
 Extra Move
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy retreats 1 distance, user will immediately advance 1 distance. When layers of this effect get exhausted, if the enemy is within the user's attack range, user will immediately perform this technique from 75% of its progress without any consumption. When performed this way, this technique won't give layers of effect.
 Swordsmanship\nof The Ultra One Mysterious
-When you start to perform this technique, the more Vitality the user has not consumed, the more the power of this technique will increase
+When you start performing this technique, the more Vitality the user has not consumed, the more the power of this technique will increase
 Pure Yang\nSword Intent
-When you start to perform this technique, if the user is a child or a virgin, the power of this technique will be increased according to the internal power of the user.
+When you start performing this technique, if the user is a child or a virgin, the power of this technique will be increased according to the internal power of the user.
 Swordsmanship\nof Roving Dragon
 Backing up while operating
 At the start of the battle, user gains 0 layers of this effect: Whenever user advances 1 distance while not casting any technique, this effect increases by 1 layer, up to 4 layers; Under this effect, user can retreat a distance equal to the number of layers of this effect during the cast of any "Break" technique with halved Stamina and Footwork consumption. This effect decreases by 1 layer for every 2 distances retreated during the cast of "Break" techniques.
@@ -1796,7 +1796,7 @@ Swordsmanship\nof Seventy Two Rages
 Whenever the weapon used by the user switches from a weapon other than "Sword" to a "Sword", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption from 50% of the execution progress.
 Swordsmanship\nof Great Mercy
 Swordsmanship\nof Manjusri's Wisdom
-When you start to perform this technique, the more weapons you have that are not "Swords" but can perform this technique, the more the power and range of this technique will increase.
+When you start performing this technique, the more weapons you have that are not "Swords" but can perform this technique, the more the power and range of this technique will increase.
 Skanda\nSwordsmanship of Defeat Demon
 When this technique fails to reach $0$0% completion, user advances 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Blade Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
 Swordsmanship\nof Supreme Bodhi
@@ -1813,7 +1813,7 @@ Blade of\nTiger Step Extremely Far
 Whenever the weapon used by the user switches from a weapon other than a "Blade" to a "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption from 50% of the execution progress.
 Golden Blade\nof The Ultra One
 Blade of 7 Star
-When you start to perform this technique, the more weapons the user has that are not "Blades" but can perform this technique, the more the power and range of this technique will increase.
+When you start performing this technique, the more weapons the user has that are not "Blades" but can perform this technique, the more the power and range of this technique will increase.
 Blade of Endless
 When this technique fails to reach $0$0% completion, user retreats 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Sword Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
 Heavenly Spirit\nBlade
@@ -2568,20 +2568,20 @@ When attacking enemy with this technique, if the enemy is using a "Quick" techni
 Reverse - Great Slow Hand
 At the end of this technique, the enemy's Diversion will be reduced, and the user will immediately perform this technique again without consumption from 50% of the progress until the enemy leaves the attack range of this technique.
 Reverse - Ground Blade\nof Lion Face
-When you start to perform this technique, you will regain your Stamina; While performing this technique, you can retreat up to 2 distances.
+When you start performing this technique, you will regain your Stamina; While performing this technique, you can retreat up to 2 distances.
 Reverse - Rapid Blade\nof Mountain Cleave
 When this technique reaches $0$0% completion, user will gain 2 "Hack" styles
 Reverse - Shield Blade\nof Lion Phase
 When this technique reaches $0$0% completion, for every 1 "Hack" style the user has, user will inflict additional 10% of the direct damage caused by this technique to the enemy's attacked body part as Fatal Wound damage.
 Reverse - Tremendous\nEffort Blade
-When you start to perform this technique, the more Strength the user has consumed, the more the power of this technique will increase
+When you start performing this technique, the more Strength the user has consumed, the more the power of this technique will increase
 Reverse - Ao Slaying\nBlade
 When hitting enemy's Leg, direct damage of this technique increases by 45%; When this technique reaches $0$0% completion, it fully depletes enemy's Stamina and Footwork
 Reverse - Overlord Blade
 After this technique reaches $0$0% completion, user gains 8 layers of this effect: Whenever enemy receives an Injury marker, layers of this effect get reduced by 1. While this effect is active, enemy cannot advance as long as the user is in the enemy's attack range.
 Reverse - Gold Lion Blade
 Ban Ortho
-When you start to perform this technique, "interrupt" all Orthodox training techniques being performed by the enemy, and eliminate all Orthodox training techniques being performed by the enemy; While performing this technique, the enemy cannot perform any Orthodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Orthodox training techniques, and every time the user performs any Heterodox training techniques, this effect is reduced by 1 level.
+When you start performing this technique, "interrupt" all Orthodox training techniques being performed by the enemy, and eliminate all Orthodox training techniques being performed by the enemy; While performing this technique, the enemy cannot perform any Orthodox training techniques; after the performance of this technique, the user gains 3 levels of this effect: the user cannot perform any Orthodox training techniques, and every time the user performs any Heterodox training techniques, this effect is reduced by 1 level.
 Reverse - Coiled Dragon\nGhost Blade
 When you start performing this technique, all available styles of the user will be changed to "Hack" styles. The more styles get changed to "Hack" style, the more power of this technique will be increased; After using, this technique will change from Heterodox to Orthodox version.
 Reverse - Wild Blade
@@ -2589,15 +2589,15 @@ This technique will always deal critical hits; Whenever enemy inflicts an Injury
 Reverse - Spear of Evil
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user receives an Internal Injury or Fatal Wound marker due to direct Internal Damage, user recovers all of their "attack tokens"
 Reverse - Soul-Severed\nSpear of 5 Tigers
-When you start to perform this technique, the smaller the minimum attack distance of the user than the minimum attack distance of the enemy, the more the power of this technique will increase
+When you start performing this technique, the smaller the minimum attack distance of the user than the minimum attack distance of the enemy, the more the power of this technique will increase
 Reverse - 8 Mother's\nSpear of Lion Phase
 Based on completion percentage of this technique, reduces the strength of 1 debuff on the user
 Reverse - General's\n16 Spear
-When you start to perform this technique, the more Constitution the user has consumed, the more the power of this technique will increase
+When you start performing this technique, the more Constitution the user has consumed, the more the power of this technique will increase
 Reverse - Spear of\nUniverse
 While performing this technique, user can retreat up to 3 distance, and the consumption of Stamina and Footwork will be halved. The further the user retreats, the more the power of this technique will increase. For every 0.2 distance the user retreats, user will gain 3 points of "Break" and "Aegis" True Qi
 Reverse - Spear of\nMountain-Shaking Beasts
-When you start to perform this technique, if the enemy does not use the "Quick" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons will be temporarily unusable.
+When you start performing this technique, if the enemy does not use the "Quick" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons will be temporarily unusable.
 Reverse - Lion Spear of\nMadness Dragon
 When this technique's damage gets Reflected, user transfers all of the Reflect damage back to the enemy; After this technique reaches $0$0% completion, user gains 4 layers of this effect: When user isn't using a Footwork, the user can quickly accumulate power to retreat 2 distance at once without consumption
 Reverse - Overlord Spear\nof Dragon
@@ -2613,13 +2613,13 @@ When you start performing this technique, the worse the user's mood is, the more
 Reverse - Yellow Bamboo
 When this technique reaches $0$0% completion, user immediately performs a "Melody" technique without any cost. The possible tier of the "Melody" technique performed this way depends on the number of Daze markers the enemy has; If the immediately performed technique is still this one, the Heterodox practice effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique greatly increases"
 Reverse - Xiang Lady Tears
-When you start to perform this technique, if the user has a deceased spouse, the higher the good sense of the user and the deceased spouse with the lowest good sense, the more the power of this technique will be increased, but if the good sense of the user and the deceased spouse with the lowest good sense is lower than enthusiasm, the power of this technique will be greatly reduced.
+When you start performing this technique, if the user has a deceased spouse, the higher the good sense of the user and the deceased spouse with the lowest good sense, the more the power of this technique will be increased, but if the good sense of the user and the deceased spouse with the lowest good sense is lower than enthusiasm, the power of this technique will be greatly reduced.
 Reverse - 3 Nights of Joy
-When you start to perform this technique: A part of the user's Charm is added to the user's Breath; if the enemy is female, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
+When you start performing this technique: A part of the user's Charm is added to the user's Breath; if the enemy is female, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
 Reverse - Song of\nThe Moon
 When you start performing this technique: If the user doesn't have a teammate, the power of this technique will be greatly increased; If the user has a teammate, and the enemy doesn't, enemy will lose a large amount of True Qi equal to the portion of True Qi of 1 random teammate of the user; When this technique reaches $0$0% completion, add 3 Daze markers to the enemy.
 Reverse - Love Poem
-When you start to perform this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
+When you start performing this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
 Reverse - Celestial Music\nof Goddess
 When you start attacking enemy with this technique, if the enemy has 6 or more Daze markers, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's Daze markers, and add them back to the enemy as Fatal Wound markers.
 Reverse - Pure Lady's\nHidden Hand
@@ -2716,7 +2716,7 @@ After this technique reaches $0$0% completion, user gains 5 layers of this effec
 Reverse - The Great Snow\nMountain Palm
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: The lower the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are compared to those of the enemy, the more the power of any "Break" technique performed by the user will be increased.
 Reverse - Blood Palm
-When you start to perform this technique, the deeper the Pyrotoxin the user has, the more the power of this technique will increase
+When you start performing this technique, the deeper the Pyrotoxin the user has, the more the power of this technique will increase
 Reverse - Osbeck\nBone Melt Palm
 Subdue the enemy to induce Qi to rush through the gate
 Based on the power of this technique, apply a debuff to the enemy that reduces Int. Recovery
@@ -2735,7 +2735,7 @@ Reverse - Iron Flower\nRotten Bone Claw
 Absorb Enemy's Inhale
 When hitting enemy's Chest, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, user absorbs enemy's Inhale
 Reverse - Jade Cicada\nFinger
-When you start to perform this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's Umbritoxin, Cryotoxin, and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
+When you start performing this technique, the toxin applied by the user to the enemy will change according to the lowest amount of the user's Umbritoxin, Cryotoxin, and Oneirotoxin, and the power of this technique will be greatly increased if the Oneirotoxin is still applied to the enemy after the change.
 Reverse - Flood Dragon's\nIron Tentacle
 Increase Sealed Acupoints Duration
 When hitting enemy's Arm, direct damage of this technique increases by 45%; When this technique reaches $0$0% completion, duration of all Sealed Acupoints on the enemy get increased to the maximum
@@ -2759,7 +2759,7 @@ While performing this technique, enemies with lower Int. Recovery than the user 
 Reverse - A Hundred Steps\nof Mysterious Tripot
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: When the number of layers of this effect is Even, enemy's Might, Finesse and Swiftness will be greatly reduced; When the number of layers of this effect is Odd, enemy's Diversion, Parry and Evasion will be greatly reduced; If user performs this technique while still having layers of this effect remaining, their power will be greatly increased.
 Reverse - Zhen Fragrant
-When you start to perform this technique, the deeper the user is poisoned with Acritoxin, the more the power of this technique will increase
+When you start performing this technique, the deeper the user is poisoned with Acritoxin, the more the power of this technique will increase
 Reverse - 8 Fairies\nof The Other Side
 Increase Poison Activation Requirements
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: The number of actions required for Poisons on the user to activate is increased, but every time a Poison on the user activates, it activates 2 times.
@@ -2846,7 +2846,7 @@ Reverse - The Impulse
 After this technique reaches $0$0% completion, user gains 1 layer of this effect: When the total number of defeat markers sustained by the user reaches the defeat condition, all of removable Impairment and Fatal Wound markers of the user get removed, and a portion of the removed Impairment markers is transferred to the enemy, after which this technique will be always be "Sealed" until the end of the battle.
 Reverse - Ancestor's\nLong Fist
 Reverse - Scorpion Hand
-When you start to perform this technique, the deeper the Umbritoxin the user is, the more the power of this technique will increase
+When you start performing this technique, the deeper the Umbritoxin the user is, the more the power of this technique will increase
 Reverse - Python Hand
 Ignore light effects
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's Oneirotoxin attacks his heart
@@ -2854,7 +2854,7 @@ Reverse - Blood Fluke\nPalm
 Absorb Enemy's Stance
 When hitting enemy's Waist, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, it absorbs enemy's Stance
 Reverse - Soul-Extinct\nPalm
-When you start to perform this technique, the toxin applied by the user to the enemy will change according to the one with the lowest amount of poisoning among the user's strong Acritoxin, Pyrotoxin and Necrotoxin, and if the poison applied to the enemy after the change is still Necrotoxin, the power of this technique will be greatly increased
+When you start performing this technique, the toxin applied by the user to the enemy will change according to the one with the lowest amount of poisoning among the user's strong Acritoxin, Pyrotoxin and Necrotoxin, and if the poison applied to the enemy after the change is still Necrotoxin, the power of this technique will be greatly increased
 Reverse - Azure Spider\nHand
 After this technique reaches $0$0% completion: randomly select 1 "Break" technique of the enemy that has the most power debuffs on it; When you start performing this technique, the power of this technique increases by the same amount as the power reduced by the power debuff of the selected technique; Whenever enemy performs the selected technique, user can also perform this technique from 50% of its progress without consumption
 Reverse - Poison Palm\nof Red Toad
@@ -2941,7 +2941,7 @@ When this technique reaches $0$0% completion, user will consume 10 points of "Br
 Reverse - Fire Palm of\n6 Yang
 When this technique reaches $0$0% completion, if enemy's dominant element is "Metal" or "Wood", direct damage dealt by this technique will be increased by 90%
 Reverse - Great Jade Yang\nFist
-When you start to perform this technique, the more the number of levels of the enemy's "Break" technique's lasting effect is close to its lower limit, the more the power of this technique increases.
+When you start performing this technique, the more the number of levels of the enemy's "Break" technique's lasting effect is close to its lower limit, the more the power of this technique increases.
 Reverse - Dragon Palm
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: All Heterodox "Fist Techniques" performed by user will change into this technique, and based on power of this technique, their power will be greatly increased, lasting until the end of the battle; Heterodox Way of these techniques temporarily shifts to: "When this technique reaches $0$0% completion, enemy's "Aegis" technique, Footwork and Stamina will be removed."
 Reverse - Flying Sand
@@ -2960,7 +2960,7 @@ At the beginning of the battle, the user gains 0 levels of this effect: every ti
 Reverse - Blade of Fulong
 Based on completion percentage of this technique, the power of all "Break" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Drunk Blade
-When you start to perform this technique, you can eliminate up to 2 usable forms of the enemy, and if the user is drunk, you can eliminate up to 3 usable forms of the enemy, and the more you eliminate, the more the power of this technique will increase.
+When you start performing this technique, you can eliminate up to 2 usable forms of the enemy, and if the user is drunk, you can eliminate up to 3 usable forms of the enemy, and the more you eliminate, the more the power of this technique will increase.
 Reverse - 4 Slashes of\nDragontooth
 When you start performing this technique, if the enemy has an "Aegis" technique that can be performed, the enemy will start to perform it immediately, and the Orthodox/Heterodox effects of the performed "Aegis" technique won't work. The higher the tier of the performed "Aegis" technique, the more the direct Internal Damage of this technique will increase
 Reverse - Blade of\nMindsets And Thoughts
@@ -2990,7 +2990,7 @@ When this technique reaches $0$0% completion, user gains 1 layer of this effect,
 Reverse - The Great Sun\nBuddha Palm
 Reduce E·Buff
 Enhanced Benefit Reduction Buffs
-When you start to perform this technique, the effect of all enemy's buff will be halved, and the effect of all the debuff will be doubled, which will last until the end of this technique.
+When you start performing this technique, the effect of all enemy's buff will be halved, and the effect of all the debuff will be doubled, which will last until the end of this technique.
 Reverse - Vajra Blade
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Hack" styles
 Reverse - Rakkhasa Blade
@@ -3063,7 +3063,7 @@ After this technique reaches $0$0% completion, user gains 3 layers of this effec
 Reverse - Special Action\nof Trigram Map
 When this technique reaches $0$0% completion, if user has any effects that would activate because "enemy gains a "Kill" style", then these effects will activate immediately without consuming layers; Enemy will have a high chance of gaining 1 "Kill" style after this effect activates.
 Reverse - Throw\nTweet-Dragon
-When you start to perform this technique, the more "Kill" styles the enemy has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all your arranged "Kill" styles and greatly increase the degree of direct damage caused by this technique to the enemy
+When you start performing this technique, the more "Kill" styles the enemy has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all your arranged "Kill" styles and greatly increase the degree of direct damage caused by this technique to the enemy
 Reverse - Divine Needle\nof Shadow-Stopped
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy gains a "Kill" style, enemy's Footwork and Stamina will be completely depleted.
 Reverse - Divine\nNone-Thought
@@ -3118,7 +3118,7 @@ Reverse - Poison Dragon\nClaw
 E·Cast Spd Dn
 When this technique reaches $0$0% completion, user gains 10 layers of this effect: Pyrotoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". Enemy's "Break" techniques that have Pyrotoxin on them will have greatly reduced Cast Speed.
 Reverse - Hade Finger
-When you start to perform this technique, the deeper the Necrotoxin the user is, the more the power of this technique will increase
+When you start performing this technique, the deeper the Necrotoxin the user is, the more the power of this technique will increase
 Reverse - Blood Pool\nGhost Claw
 When this technique reaches $0$0% completion, user transfers 1 non-old Internal Injury from each of their body parts to the "Agony" body part of the enemy.
 Reverse - Lower Body Kick
@@ -3167,7 +3167,7 @@ Ext. Pen. to Int. Pen.
 When attacking enemy with this technique, if user's Strength is higher than the enemy's Strength, a portion of user's External Penetration will be transferred to Internal Penetration; When this technique reaches $0$0% completion, 10 points of user's Strength will be consumed to obtain a buff that increases Internal Penetration, and a debuff that decreases External Penetration
 Reverse - 18 Hands of\nDharma
 Self Int. Pen. buff
-When you start to perform this technique, the power of this technique will increase if the user's Internal Defense is higher than the user's Internal Penetration; when you attack the enemy with this technique, the user's Internal Penetration will additionally be added to the user's Internal Defense
+When you start performing this technique, the power of this technique will increase if the user's Internal Defense is higher than the user's Internal Penetration; when you attack the enemy with this technique, the user's Internal Penetration will additionally be added to the user's Internal Defense
 Reverse - Vajra Prajna\nPalm
 When this technique reaches $0$0% completion, if enemy's dominant element is "Wood" or "Earth", direct damage dealt by this technique will be increased by 90%
 Reverse - Demonhunt\nLight Fist
@@ -3266,7 +3266,7 @@ After this technique reaches $0$0% completion, user gains 10 layers of this effe
 Reverse - Beauty Stab
 When this technique reaches $0$0% completion, if the distance between the user and the enemy is more than the enemy's minimum attack range, user will immediately advance to the enemy's minimum attack range without consumption.
 Reverse - Stab of\nDexterity Snake
-When you start to perform this technique, the more Agility the user has consumed, the more the power of this technique will increase
+When you start performing this technique, the more Agility the user has consumed, the more the power of this technique will increase
 Reverse - Shadow Stab
 When this technique reaches $0$0% completion, if the enemy's "Quick" True Qi isn't lower than its initial value, the user steals 15 points of "Quick" True Qi from the enemy. Otherwise, steals 5 points.
 Reverse - Divine Needle\nof Meditation Wisdom
@@ -3287,7 +3287,7 @@ After this technique reaches $0$0% completion, user gains 10 layers of this effe
 Reverse - Flower Rain
 For every $0$0% of completion of this technique, user has a low chance of inflicting 1 additional Weak Point on the enemy
 Reverse - The Great\nFlower Finger of Mandala
-When you start to perform this technique, the deeper the Oneirotoxin the user has, the more the power of this technique will increase
+When you start performing this technique, the deeper the Oneirotoxin the user has, the more the power of this technique will increase
 Reverse - Flower Spirit\nMoon Finger
 When this technique reaches $0$0% completion, if enemy's dominant element is "Fire", direct damage dealt by this technique will be increased by 45%
 Reverse - A Hundred\nFlower Fight
@@ -3300,7 +3300,7 @@ When this technique reaches $0$0% completion, for every 1 "Drive" style user has
 Reverse - 5 Elements\nPinprick
 When this technique reaches $0$0% completion, user will gain 2 "Drive" styles
 Reverse - Chilling Pinprick
-When you start to perform this technique, the deeper the Cryotoxin in the user, the more the power of this technique will increase
+When you start performing this technique, the deeper the Cryotoxin in the user, the more the power of this technique will increase
 Reverse - Bianque Pinprick
 When the cast progress of this technique reaches 100%, the user will perform 1 "Detox" that doesn't consume a "Detox" attempt, but also can't dispel stubborn poison. The more Poison markers this "Detox" eliminates, the more power of this skill will be increased
 Reverse - Vitality\nLosing Pinprick
@@ -3321,7 +3321,7 @@ Reduced enemy attack range
 When you start performing this technique, the better the enemy's Mood is, the more the power of this technique increases; When this technique reaches $0$0% completion, attack range of enemy's next "Break" technique decreases based on how high enemy's Mood is; At the end of this technique, based on completion percentage of this technique enemy gains a buff that improves their Mood.
 Reverse - Phoenix Arrival
 Reduce BRE and FOC
-When you start to perform this technique, if the Karma of the user is higher than the Karma of the enemy, the Karma will be added to the power of this technique, and if the Perception of the user is also higher than the Perception of the enemy, the enemy will get a debuff that decreases Breath and Focus.
+When you start performing this technique, if the Karma of the user is higher than the Karma of the enemy, the Karma will be added to the power of this technique, and if the Perception of the user is also higher than the Perception of the enemy, the enemy will get a debuff that decreases Breath and Focus.
 Reverse - Imperial\nConcubine
 When you start performing this technique, all of enemy's True Qi that is above the initial value will be reduced by 1 point; When this technique reaches $0$0% completion, all of enemy's True Qi that is above the initial value will again be reduced by a maximum of 2 points.
 Reverse - Flowers Sigh
@@ -3357,9 +3357,9 @@ While performing this technique, user can retreat up to 2 distances without cons
 Reverse - Swordsmanship\nof Rainbow White
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy advances 1 distance, user will immediately retreat 1 distance. When layers of this effect get exhausted, if the enemy is within the user's attack range, user will immediately perform this technique from 75% of its progress without any consumption. When performed this way, this technique won't give layers of effect.
 Reverse - Swordsmanship\nof The Ultra One Mysterious
-When you start to perform this technique, the more Vitality the user has consumed, the more the power of this technique will increase
+When you start performing this technique, the more Vitality the user has consumed, the more the power of this technique will increase
 Reverse - Pure Yang\nSword Intent
-When you start to perform this technique, if the user is not a child or a virgin, the power of this technique will be increased according to the internal power of the user.
+When you start performing this technique, if the user is not a child or a virgin, the power of this technique will be increased according to the internal power of the user.
 Reverse - Swordsmanship\nof Roving Dragon
 Advancement while operating
 At the start of the battle, user gains 0 layers of this effect: Whenever user retreats 1 distance while not casting any technique, this effect increases by 1 layer, up to 4 layers; Under this effect, user can advance a distance equal to the number of layers of this effect during the cast of any "Break" technique with halved Stamina and Footwork consumption. This effect decreases by 1 layer for every 2 distances advanced during the cast of "Break" techniques.
