@@ -398,7 +398,7 @@ Mirror Flower Water Moon
 Directly defuse the attack
 When defending with this technique, the more "no" styles the enemy has, the higher the chance the user has of directly resolving the enemy's attack.
 Stance of Nuwa's Sky-Mending
-When defending with this technique: If the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's external injury will return to the number at the beginning of the defense with this technique
+When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's external injury will return to the number at the beginning of the defense with this technique
 Skillful Hands
 When the user is equipped with 3 different types of weapons, the user's casting speed increases
 Wooden Armor
@@ -439,7 +439,7 @@ Reduce Qi Disorder
 Whenever Poison activates on the enemy, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
 Flood Dragon's Bone Regeneration
 Automatic healing of injuries
-When defending with this technique: If the total number of defeat markers sustained by user reaches the defeat condition, user will not be defeated; All External Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
+When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All External Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 9 Colored Jade Cicada
 Consume Nadis True Qi
 When the total number of defeat markers sustained by the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 Injuries, Impairment, and Fatal Wound markers in total
@@ -2195,7 +2195,7 @@ Significantly reduce the duration of the enemy's "Quick" technique
 Reverse - Mirror Flower Water Moon
 When defending with this technique, the more Daze markers the enemy receives, the higher the chance the user has of directly resolving the enemy's attack
 Reverse - Stance of Nuwa's Sky-Mending
-When defending with this technique: If the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's internal wound marks will return to the number at the beginning of the defense with this technique
+When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's internal wound marks will return to the number at the beginning of the defense with this technique
 Reverse - Skillful Hands
 When the user is equipped with 3 different types of weapons, the movement speed of the user is increased.
 Reverse - Wooden Armor
@@ -2230,7 +2230,7 @@ Reduces the number of actions required for Poison to activate on the enemy
 Reverse - White Water Long Live Method
 Whenever Poison activates on the user, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
 Reverse - Flood Dragon's Bone Regeneration
-When defending with this technique: If the total number of defeat markers sustained by user reaches the defeat condition, user will not be defeated; All Internal Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
+When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All Internal Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 Reverse - 9 Colored Jade Cicada
 When the total number of defeat markers sustained by the user reaches the defeat condition, user will immediately consume 9 points of "Nadis" True Qi to remove all Injury, Impairment, and Fatal Wound markers; Every time this effect activates, it's cost goes up by 9 points, up to a maximum of 99 points.
 Reverse - Go With The Flow
