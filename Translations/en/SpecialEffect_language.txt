@@ -1958,7 +1958,7 @@ Reduce the speed of the enemy to drive away the poison
 Reducing the effect of enemy and expelling poison
 Reduces the speed of the enemy's "Healing" and "Detoxing" in battle; Reduces the number of Injuries and the amount of Poison the enemy can remove by using "Healing" and "Detoxing" in battle
 Reverse - Medical Treatment
-The higher the sum of the 5 highest-ranked elixirs among the elixirs currently consumed by the user, the higher the damage caused by the user to the enemy
+The higher the sum of tiers of the 5 highest-tiered currently consumed medicines of the user, the more damage the user will deal to the enemy.
 Reverse -  Jiaojiao four methods
 Greatly increase "Constitution" limit. External Penetration given by "Constitution" will be greatly increased based on user's purity.
 Reverse -  Jiu Ding Gong
