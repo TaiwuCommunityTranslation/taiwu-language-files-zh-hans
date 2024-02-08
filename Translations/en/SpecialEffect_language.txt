@@ -442,7 +442,7 @@ Automatic healing of injuries
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All External Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 9 Colored Jade Cicada
 Consume Nadis True Qi
-When the total number of defeat markers sustained by the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 Injuries, Impairment, and Fatal Wound markers in total
+When the total number of defeat markers sustained by the user reaches the defeat condition, user will immediately consume 9 points of "Nadis" True Qi to randomly remove 9 Injury, Impairment, and Fatal Wound markers in total
 Go With The Flow
 Force Change·RNG
 Eliminate useless storage type
