@@ -2751,7 +2751,7 @@ Reverse - Small 8 Moves\nof Gold Clank
 E·Int.Def. Dn
 This technique cannot be reflected; When attacking enemy with this technique, if the enemy's Internal Defense is higher than the user's Internal Penetration, a buff that increases Internal Penetration is applied to the user and a debuff that decreases Internal Defense is applied to the enemy after the technique is performed
 Reverse - Flood Dragon's\nWagging Tail
-At the start of the battle, user gains 3 layers of this effect: Whenever the total number of user's Defeat Markers exceeds half of the Defeat Condition, if an enemy is within the attack range of this technique, user starts performing this technique without consumption from 75% of it's progress, and it's damage is increased by the amount of Internal Injuries user has.
+At the start of the battle, user gains 3 layers of this effect: Whenever the total number of user's Defeat Markers exceeds half of the Defeat Condition, if the enemy is within the attack range of this technique, user starts performing this technique without consumption from 75% of it's progress, and its damage is increased by the amount of Internal Injuries the user has.
 Reverse - Flood Dragon's\nRolling Kick
 While performing this technique, user can retreat up to 3 distances, and for every 0.2 distance the user retreats, 1 Injury marker and 1 debuff inflicted while performing this technique will be removed from the user; While performing this technique, user's Weak Points and Sealed Acupoints will recover at a faster rate
 Reverse - Great 8 Moves\nof Sea-Blocking
