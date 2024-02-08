@@ -1065,7 +1065,7 @@ Shock Dream\nFragrant
 Interrupting enemy operations
 When you start performing this technique: the closer the enemy is to the user, the higher the starting cast progress of this technique will be; When this technique reaches $0$0% completion, if the enemy's Focus is lower than user's Breath, immediately "Interrupt" enemy's cast, Healing, Detox, and Escape
 Blood Narcissus
-After this technique reaches $0$0% completion, user gains 4 layers of this effect: the more Injury markers user inflicts on the enemy with direct damage, the more power and attack range of this technique increases. This effect lasts until this technique is performed again.
+After this technique reaches $0$0% completion, user gains 4 layers of this effect: the more Injury markers the user inflicts on the enemy with direct damage, the more the power and attack range of this technique will increase. This effect lasts until this technique is performed again.
 9 Idiotic Fragrant
 Skill Dmg Up
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: the damage dealt by the enemy's "Break" techniques is greatly increased, but there is a high chance that they will be "Interrupted" when reaching 90% of their progress. If the number of remaining layers of this effect is Even, the chance of "Interrupting" is doubled.
