@@ -2716,7 +2716,7 @@ After this technique reaches $0$0% completion, user gains 5 layers of this effec
 Reverse - The Great Snow\nMountain Palm
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: The lower the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are compared to those of the enemy, the more the power of any "Break" technique performed by the user will be increased.
 Reverse - Blood Palm
-When you start performing this technique, the deeper the Pyrotoxin the user has, the more the power of this technique will increase
+When you start performing this technique, the deeper the user is poisoned with Pyrotoxin, the more the power of this technique will increase
 Reverse - Osbeck\nBone Melt Palm
 Subdue the enemy to induce Qi to rush through the gate
 Based on the power of this technique, apply a debuff to the enemy that reduces Int. Recovery
