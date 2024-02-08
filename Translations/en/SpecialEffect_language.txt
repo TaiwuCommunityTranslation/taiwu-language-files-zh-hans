@@ -2215,7 +2215,7 @@ When the total number of defeat marks of the user exceeds half of the defeat con
 Reverse - 4 Finger Azure Cream
 When user's "Nadis" True Qi is twice as high as the enemy's "Nadis" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - 3 Books of 9-Steps
-When the distance between the user and the enemy is less than 5, the closer the enemy is to us, the more the user's Diversion, Parry, Evasion and Focus will be improved.
+When the distance between the user and the enemy is less than 5, the closer the user is to the enemy, the more the user's Diversion, Parry, Evasion, and Focus will increase.
 Reverse - Visceral Anatomy
 Increase direct internal injuries
 User's Internal damage to uninjured body parts of the enemy is increased by 45%
