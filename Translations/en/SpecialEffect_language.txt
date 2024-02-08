@@ -1961,7 +1961,7 @@ Reverse - Medical Treatment
 The higher the sum of tiers of the 5 highest-tiered currently consumed medicines of the user, the more damage the user will deal to the enemy.
 Reverse -  Jiaojiao four methods
 Greatly increase "Constitution" limit. External Penetration given by "Constitution" will be greatly increased based on user's purity.
-Reverse -  Jiu Ding Gong
+Reverse - 9 Tripots Cultivation
 The shorter the remaining life span of the user, the more the power of all the feats of the user will increase, up to 40%.
 Reverse -  Vajra Four Karmas
 Reduces the usage requirements of "Vajrayana" techniques by 20%
