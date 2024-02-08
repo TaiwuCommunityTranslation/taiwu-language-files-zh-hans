@@ -2766,7 +2766,7 @@ After this technique reaches $0$0% completion, user gains 4 layers of this effec
 Reverse - Shock Dream\nFragrant
 When you start performing this technique: the farther the enemy is from the user, the higher the starting cast progress of this technique will be; When this technique reaches $0$0% completion, if the enemy's Focus is lower than user's Breath, immediately "Interrupt" enemy's cast, Healing, Detox, and Escape
 Reverse - Blood Narcissus
-After this technique reaches $0$0% completion, user gains 4 layers of this effect: the more Injury markers enemy inflicts on the user with direct damage, the more power and attack range of this technique increases. This effect lasts until this technique is performed again.
+After this technique reaches $0$0% completion, user gains 4 layers of this effect: the more Injury markers the enemy inflicts on the user with direct damage, the more the power and attack range of this technique will increase. This effect lasts until this technique is performed again.
 Reverse - 9 Idiotic\nFragrant
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: the damage dealt by the user's "Break" techniques is greatly increased, but there is a high chance that they will be "Interrupted" when reaching 90% of their progress. If the number of remaining layers of this effect is Even, the chance of "Interrupting" is halved.
 Reverse - Black Water\nPoison
