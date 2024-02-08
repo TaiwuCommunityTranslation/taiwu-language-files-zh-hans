@@ -2738,7 +2738,7 @@ Reverse - Jade Cicada\nFinger
 When you start performing this technique, the poison applied by the user to the enemy will change to either Umbritoxin, Cryotoxin or Oneirotoxin, depending on which of those the user has less of. If after changing the applied poison is Oneirotoxin, the power of this technique will be greatly increased.
 Reverse - Flood Dragon's\nIron Tentacle
 Increase Sealed Acupoints Duration
-When hitting enemy's Arm, direct damage of this technique increases by 45%; When this technique reaches $0$0% completion, duration of all Sealed Acupoints on the enemy get increased to the maximum
+When hitting enemy's Arm, direct damage of this technique increases by 45%; When this technique reaches $0$0% completion, duration of all Sealed Acupoints on the enemy gets increased to the maximum
 Reverse - No Harm Hands
 When this technique reaches $0$0% completion, if user hits enemy's Head: Enemy loses all memories of this battle; Enemy can't attack with weapons, or perform techniques that require Inhale until they are attacked in any way
 Reverse - Conversely\nBeating As Rocking Sky
