@@ -1070,7 +1070,7 @@ After this technique reaches $0$0% completion, user gains 4 layers of this effec
 Skill Dmg Up
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: the damage dealt by the enemy's "Break" techniques is greatly increased, but there is a high chance that they will be "Interrupted" when reaching 90% of their progress. If the number of remaining layers of this effect is Even, the chance of "Interrupting" is doubled.
 Black Water\nPoison
-When this technique reaches $0$0% completion, the more Acritoxin markers enemy has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
+When this technique reaches $0$0% completion, the more Acritoxin markers the enemy has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
 Nippy Fragrant\nof Hundreds Evil
 This skill will change enemy's Umbritoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Umbritoxin, Umbritoxin will activate
 Flood Dragon's\nBlood
