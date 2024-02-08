@@ -2764,7 +2764,7 @@ Reverse - 8 Fairies\nof The Other Side
 Increase Poison Activation Requirements
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: The number of actions required for Poisons on the user to activate is increased, but every time a Poison on the user activates, it activates 2 times.
 Reverse - Shock Dream\nFragrant
-When you start performing this technique: the farther the enemy is from the user, the more progress of this technique will be increased; When this technique reaches $0$0% completion, if the enemy's Focus is lower than user's Breath, immediately "Interrupt" enemy's cast, Healing, Detox, and Escape
+When you start performing this technique: the farther the enemy is from the user, the higher the starting cast progress of this technique will be; When this technique reaches $0$0% completion, if the enemy's Focus is lower than user's Breath, immediately "Interrupt" enemy's cast, Healing, Detox, and Escape
 Reverse - Blood Narcissus
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: the more Injury markers enemy inflicts on the user with direct damage, the more power and attack range of this technique increases. This effect lasts until this technique is performed again.
 Reverse - 9 Idiotic\nFragrant
