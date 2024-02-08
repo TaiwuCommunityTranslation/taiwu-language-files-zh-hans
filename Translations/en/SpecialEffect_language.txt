@@ -2468,7 +2468,7 @@ When retreating with this Footwork, the user will prepare to jump 1 distance at 
 Reverse - Cliff Hanging Pot
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, enemy's Stamina will be depleted.
 Reverse - Shatang's Watersteps
-When using Kick Techniques in this Footwork your Accuracies will be shifted towards Finesse
+When using Kick Techniques with this Footwork, your Accuracies will be shifted towards Finesse
 Reverse - Skyline of Mt.Chai
 While performing a Kick Technique in this Footwork, direct Internal Damage dealt by the enemy will be reduced by 60%
 Reverse - Flood Dragon Stirs Ocean
