@@ -817,7 +817,7 @@ DES up
 When attacking enemy with this technique: user's DES will be greatly increased; if the user's DES is higher than the enemy's Hardness, and the durability of the attacked armor isn't less than 75%, user's External and Internal Penetration will be greatly increased
 Gold Palm of\nLion Phase
 The injury becomes an old injury
-Injuries inflicted by this technique on the enemy's Arms will change to older injuries that are more difficult to recover from
+Injuries inflicted by this technique on the enemy's Arms will change to Old Injuries that are more difficult to recover from
 Warlord's\nPull Bow
 location DMG up
 When this technique reaches $0$0% completion,, the damage caused by the user to either arm of the enemy will be applied to both the left and right arm of the enemy.
