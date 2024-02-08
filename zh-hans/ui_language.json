@@ -2638,6 +2638,7 @@
   "LK_CharacterAttribute_Eating_Title": "服食汲饮",
   "LK_CharacterAttribute_QiDisorder_Title": "体能内息",
   "LK_CharacterAttribute_Samsara_Char_Title": "轮回之人",
+  "LK_CharacterAttribute_MainAttribute_ChangePerMonth": "每月:",
   "LK_Equip_Slot_Empty_Tips": "{0}未装备",
   "LK_Chicken_Name": "元鸡",
   "LK_BuildingOverview_NewBuilding": "新建建筑",
