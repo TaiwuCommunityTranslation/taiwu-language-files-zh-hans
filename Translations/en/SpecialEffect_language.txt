@@ -1962,7 +1962,7 @@ The higher the sum of tiers of the 5 highest-tiered currently consumed medicines
 Reverse -  Jiaojiao four methods
 Greatly increase "Constitution" limit. External Penetration given by "Constitution" will be greatly increased based on user's purity.
 Reverse - 9 Tripots Cultivation
-The shorter the remaining life span of the user, the more the power of all the feats of the user will increase, up to 40%.
+The shorter the remaining lifespan of the user (in years), the more the power of the user's techniques will increase, by up to 40%.
 Reverse -  Vajra Four Karmas
 Reduces the usage requirements of "Vajrayana" techniques by 20%
 Reverse -  Toom technique
