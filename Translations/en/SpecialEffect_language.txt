@@ -139,7 +139,7 @@ Increases the power limit of "Kongsang Sect" techniques by 30%
 Shennong\nMateria Medica
 Increase the speed of "Detoxing"
 Improve the effect of "Detoxing"
-Increases the speed of the user's "Healing" and "Detoxing" in battle; increases the number of injuries the user can heal by performing "Healing" and the number of toxins the user can remove by performing "Detoxing" in battle
+Increases the speed of the user's "Healing" and "Detoxing" in battle; Increases the number of Injuries and the amount of Poison the user can remove by using "Healing" and "Detoxing" in battle
 Medical\nTreatment
 The higher the sum of the 5 highest-ranked elixirs among the elixirs currently consumed by the user, the lower the damage inflicted by the enemy on the user
 4 Methods of\nHibernation
