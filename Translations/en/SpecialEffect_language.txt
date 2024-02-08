@@ -2472,7 +2472,7 @@ When using Kick Techniques with this Footwork, your Accuracies will be shifted t
 Reverse - Skyline of Mt.Chai
 While performing a Kick Technique in this Footwork, direct Internal Damage dealt by the enemy will be reduced by 60%
 Reverse - Flood Dragon Stirs Ocean
-As long as this Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a higher tier without any cost.
+In this Footwork, when a Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a higher tier without any cost.
 Reverse - Stone Sink
 Diversion all basic Atk
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Diversion value.
