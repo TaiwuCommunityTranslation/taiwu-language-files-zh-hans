@@ -439,7 +439,7 @@ Reduce Qi Disorder
 Whenever Poison activates on the enemy, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
 Flood Dragon's Bone Regeneration
 Automatic healing of injuries
-When defending with this technique : If the total number of injuries sustained by user reaches the defeat condition, user will not be defeated；All External Injuries of the user will be quickly healed by themselves over time；At the end of defending with this technique, removes 6 Fatal Wounds.
+When defending with this technique: If the total number of defeat markers sustained by user reaches the defeat condition, user will not be defeated; All External Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 9 Colored Jade Cicada
 Consume Nadis True Qi
 When the total number of defeat markers of the user reaches the defeat condition, the user immediately consumes 9 points of "Nadis" true qi to randomly remove 9 Injuries, Impairment, and Fatal Wound markers in total
