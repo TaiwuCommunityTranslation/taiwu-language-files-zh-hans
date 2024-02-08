@@ -2221,7 +2221,7 @@ Increase direct internal injuries
 User's Internal damage to uninjured body parts of the enemy is increased by 45%
 Reverse - Anti-Poisoning
 Return Poison to the Enemy
-When defending with this technique: User is immune to all direct toxin effects; Poison applied to user by the enemy are instead applied on the enemy.
+When defending with this technique: User is immune to all direct poison; Poisons applied to user by the enemy are instead applied on the enemy.
 Reverse - Meridian Benzoin
 Whenever user inflicts an Injury, Poison, or Fatal Wound marker on the enemy with direct damage, enemy loses 5 points of a random True Qi
 Reverse - Blood Transfusion
