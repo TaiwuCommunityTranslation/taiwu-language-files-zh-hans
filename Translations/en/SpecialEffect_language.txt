@@ -723,7 +723,7 @@ Skyline of Mt.Chai
 While performing a Kick Technique in this Footwork, direct External Damage dealt by the enemy will be reduced by 60%
 Flood Dragon Stirs Ocean
 Extra Kick
-As long as this Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a lower tier without any cost.
+In this Footwork, when a Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a lower tier without any cost.
 Stone Sink
 Basic Atk All Might
 During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Might accuracy value.
