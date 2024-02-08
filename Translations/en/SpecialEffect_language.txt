@@ -718,7 +718,7 @@ Cliff Hanging Pot
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, user's Stamina will be restored.
 Shatang's Watersteps
 Improve Finesse of Kick Techniques
-The Finesse of Kick Techniques performed in this Footwork will be greatly increased
+The Finesse of Kick Techniques performed with this Footwork will be greatly increased
 Skyline of Mt.Chai
 While performing a Kick Technique in this Footwork, direct External Damage dealt by the enemy will be reduced by 60%
 Flood Dragon Stirs Ocean
