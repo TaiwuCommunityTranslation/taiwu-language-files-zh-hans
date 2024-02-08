@@ -432,7 +432,7 @@ Gain Random Force
 Whenever user inflicts an Injury, Poison, or Fatal Wound marker on the enemy with direct damage, user gains 5 points of a random True Qi
 Blood Transfusion
 Increase direct toxicity
-Increases the amount of poison toxins inflicted by the user to the enemy in combat
+Increases the amount of poison inflicted by the user on the enemy in combat
 White Water Long Live Method
 Gain Nadis Force
 Reduce Qi Disorder
