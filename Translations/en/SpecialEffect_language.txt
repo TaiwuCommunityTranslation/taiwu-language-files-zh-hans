@@ -2230,7 +2230,7 @@ Reduces the number of actions required for Poison to activate on the enemy
 Reverse - White Water Long Live Method
 Whenever Poison activates on the user, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
 Reverse - Flood Dragon's Bone Regeneration
-When defending with this technique: if the total number of defeat marks of the user reaches the defeat condition, the user will not be defeated; all internal injury marks of the user will be eliminated quickly by themselves with time; at the end of the defense of this technique, 6 severe injury marks of the user will be eliminated
+When defending with this technique: If the total number of defeat markers sustained by user reaches the defeat condition, user will not be defeated; All Internal Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 Reverse - 9 Colored Jade Cicada
 When total number of defeat markers on the user reaches defeat condition, user will immediately consume 9 points of "Nadis" True Qi to remove all Injury, Impairment, and Fatal Wound markers; Every time this effect activates, it's cost goes up by 9 points, up to a maximum of 99 points.
 Reverse - Go With The Flow
