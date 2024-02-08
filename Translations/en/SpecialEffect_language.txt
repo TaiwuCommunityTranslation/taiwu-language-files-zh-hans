@@ -145,7 +145,7 @@ The higher the sum of tiers of the 5 highest-tiered currently consumed medicines
 4 Methods of\nHibernation
 Greatly increase "Constitution" limit. External Defense given by "Constitution" will be greatly increased based on user's purity.
 9 Tripots\nCultivation
-The longer the remaining health (in years) of the user, the more the power of the user's techniques will increase, by up to 40%.
+The longer the remaining lifespan of the user (in years), the more the power of the user's techniques will increase, by up to 40%.
 Vajra-Hearted\nBuddha Meditation
 Increases the power limit of "Vajrayana" techniques by 30%
 Internal Fire\nYoga
