@@ -2727,7 +2727,7 @@ Reverse - Divine Flood\nDragon Palm
 When you start performing this technique, the more Injury markers user has, the more the power of this technique increases; When this technique reaches $0$0% completion, up to 18 Injury markers of the enemy will change into Old Injuries that are more difficult to recover from
 Reverse - Fallen Hands\nof Mt.Chai
 E·ATK Spd Dn
-Based on completion percentage of this technique, enemy receives a debuff that decreases Attack Speed
+Based on completion percentage of this technique, enemy receives a debuff that reduces Attack Speed
 Reverse - Hook Claw
 Increase Acritoxin Resistance
 When this technique reaches $0$0% completion, user gains 10 layers of this effect: Acritoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". User's Acritoxin Resistance will also be increased according to the number of remaining layers.
