@@ -426,7 +426,7 @@ User's External damage to uninjured body parts of the enemy is increased by 45%
 Anti-Poisoning
 Protection from toxins
 Exorcise your own toxins
-When defending with this technique: User is immune to all direct toxin effects; Poison applied to user by the enemy will reduce corresponding Poison on the user.
+When defending with this technique: User is immune to all direct poison; Poisons applied to user by the enemy will reduce corresponding Poisons on the user.
 Meridian Benzoin
 Gain Random Force
 Whenever user inflicts an Injury, Poison, or Fatal Wound marker on the enemy with direct damage, user gains 5 points of a random True Qi
