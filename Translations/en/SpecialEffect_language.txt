@@ -2746,7 +2746,7 @@ When you start performing this technique, if the enemy has no memory of this tec
 Reverse - One Step Turn
 While enemy is performing a technique, user can perform this technique from 50% of its progress; After this technique reaches $0$0% completion, user retreats 2 distance. This effect cannot be repeated during the cast of the same technique.
 Reverse - Cuckoo's\nPecking
-For every 1 internal injury mark this technique inflicts on an enemy, it causes 1 sealed point to appear on the enemy's attacked area
+For every 1 Internal Injury this technique causes, it causes 1 Sealed Acupoint to appear on the enemy's attacked body part
 Reverse - Small 8 Moves\nof Gold Clank
 E·Int.Def. Dn
 This technique cannot be reflected; when attacking an enemy with this technique, if the enemy's Internal Defense is higher than the user's Internal Penetration, a buff that increases Internal Penetration is applied to the user and a debuff that decreases Internal Defense is applied to the enemy after the technique is performed
