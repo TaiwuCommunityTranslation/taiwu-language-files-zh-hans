@@ -615,7 +615,7 @@ During this Footwork: the user's Breath will not be reduced by any effect; the u
 5 Steps of Plum Poling
 During this Footwork, if the Accuracy stat of the user used to attack the enemy is lower than the enemy's Resolve stat, the user's chance of hitting the enemy is greatly increased.
 8 Trigrams Step
-During this Footwork, if the user uses the "Aegis" technique, the enemy's Stance Recovery will be reduced
+During this Footwork, if the user performs an "Aegis" technique, the enemy's Stance Recovery will be reduced
 Cloud Surround
 During this Footwork, whenever the user hits an enemy with a "Whisk" weapon, user's Stamina will be restored.
 Big Dipper Step\nof Heavenly Spirit
