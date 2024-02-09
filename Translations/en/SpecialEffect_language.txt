@@ -2413,7 +2413,7 @@ Reverse - Ghost Step
 PAR all basic Atk
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Parry value.
 Reverse - Driving Wind
-Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Cast Speed.
+Whenever the user moves 1 distance with this Footwork, a debuff that reduces Cast Speed will be applied to the enemy
 Reverse - Fancy Step
 During this Footwork, whenever the user hits an enemy with a "Talisman" weapon, enemy's Stamina will be depleted.
 Reverse - Driving Cloud
