@@ -1935,7 +1935,7 @@ The higher the percentage of "Water" internal energy of the user, the more the u
 Reverse -  Empress Goddess
 Converts user's "Fire" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Water" techniques
 Reverse -  Yaochi Immortal Bathing Method
-Significantly decreases the Inhale and Stance cost of user's "Water" techniques; While performing any "Water" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to significantly increase the power of the performed "Water" technique.
+Greatly reduces the Inhale and Stance cost of the user's "Water" techniques; While performing any "Water" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to significantly increase the power of the performed "Water" technique.
 Reverse -  Taiyuan Jade Lady technique
 Reduced enemy Quick true qi
 At the beginning of a battle, significantly reduce the amount of "Quick" True Qi of the enemy and their helpers; significantly reduce the amount of "Quick" True Qi gained by the enemy during the battle; significantly increase the amount of "Quick" True Qi lost by the enemy during the battle
