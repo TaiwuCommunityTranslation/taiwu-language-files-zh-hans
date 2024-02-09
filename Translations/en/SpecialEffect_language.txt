@@ -87,7 +87,7 @@ If the user receives consecutive attacks from the same enemy technique in this b
 Tripod Stance\nof Golden Body
 Reduces the maximum number of Weak Points on user's body parts
 Bright Lion\nPower
-Greatly increase "Strength" limit. Diversion given by "Strength" will be greatly increased based on user's purity.
+Greatly increases "Strength" limit. Diversion given by "Strength" will be greatly increased based on user's purity.
 Develop\nAmbition
 Increases the power limit of "Ranshan Sect" techniques by 30%
 Whirling Circle
