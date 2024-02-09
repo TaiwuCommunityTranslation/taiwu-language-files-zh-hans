@@ -2418,7 +2418,7 @@ Reverse - Fancy Step
 During this Footwork, whenever the user hits an enemy with a "Talisman" weapon, enemy's Stamina will be depleted.
 Reverse - Driving Cloud
 Reduce Enemy Reflect
-During this Footwork, the enemy's reflect damage is significantly reduced
+During this Footwork, the enemy's Reflect damage will be greatly reduced
 Reverse - Fairy Footsteps
 During this Footwork, when the enemy attacks the user, the distance between the enemy and me will immediately increase by 2. The increased distance will be restored after the enemy's attack ends
 Reverse - Divine Swift
