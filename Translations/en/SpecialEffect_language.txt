@@ -1825,7 +1825,7 @@ Reduces the usage requirements of "Shaolin" techniques by 20%
 Reverse -  Arhat Meditation
 Reduces the Inhale and Stance cost of the user's "Metal" techniques
 Reverse -  Heart Qi Mixing Technique
-When the dominant internal element of the user is "Metal", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
+When the user's internal element is "Metal", direct damage and backlash damage dealt to the user by the "Fire" techniques will be reduced.
 Reverse -  Colorless Zen technique
 Greatly increase "Willpower" limit. Breath given by "Willpower" will be greatly increased based on user's purity.
 Reverse -  Bodhicitta Practice
