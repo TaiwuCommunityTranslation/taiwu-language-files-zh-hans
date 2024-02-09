@@ -1910,7 +1910,7 @@ Reduces the usage requirements of "Ranshan Sect" techniques by 20%
 Reverse - Whirling Circle
 When the user's standpoint is "Even", power of all of their techniques will be increased by 10%; When the user and the enemy have opposing standpoints, the power of all the user's techniques will be increased
 Reverse -  Substantive Method
-When the dominant internal element of the user is "Wood", it reduces the direct damage and repercussion damage caused by "Metal" type techniques to the user.
+When the user's internal element is "Wood", direct damage and backlash damage dealt to the user by the "Metal" techniques will be reduced.
 Reverse -  Damage Method
 Significantly reduce the "enlightenment" consumption of the user
 Reverse -  Sheng Shen Fa
