@@ -3359,7 +3359,7 @@ After this technique reaches $0$0% completion, user gains 3 layers of this effec
 Reverse - Swordsmanship\nof The Ultra One Mysterious
 When you start performing this technique, the more Vitality the user has consumed, the more the power of this technique will increase
 Reverse - Pure Yang\nSword Intent
-When you start performing this technique, if the user is not a child or a virgin, the power of this technique will be increased according to the internal power of the user.
+When you start performing this technique, if the user is not a virgin, the power of this technique will be increased based on the user's Int Ratio Bonus
 Reverse - Swordsmanship\nof Roving Dragon
 Advancement while operating
 At the start of the battle, user gains 0 layers of this effect: Whenever user retreats 1 distance while not casting any technique, this effect increases by 1 layer, up to 4 layers; Under this effect, user can advance a distance equal to the number of layers of this effect during the cast of any "Break" technique with halved Stamina and Footwork consumption. This effect decreases by 1 layer for every 2 distances advanced during the cast of "Break" techniques.
