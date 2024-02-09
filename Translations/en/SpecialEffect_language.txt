@@ -5,7 +5,7 @@ Increases the power of the user's "Metal" type techniques by 10%
 Spiritual Unity\nCultivation
 When the user's internal element is "Metal", direct damage and backlash damage dealt to the user by the "Wood" techniques will be reduced.
 Formless Zen
-Greatly increase "Willpower" limit. Focus given by "Willpower" will be greatly increased based on user's purity.
+Greatly increases "Willpower" limit. Focus given by "Willpower" will be greatly increased based on user's purity.
 Bodhi\nMeditation
 Ignore Critical Hits
 Converts user's "Water" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Water" element is at 0%, user will not receive critical hits from "Water" or "Metal" techniques
