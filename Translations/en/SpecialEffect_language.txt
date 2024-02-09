@@ -321,7 +321,7 @@ Change Enemy Int. Ratio
 If the enemy's Qi Disorder is higher than the user's, Internal Ratio of all enemy techniques will increase according to the Internal Ratio of this technique; Whenever user's "Break" techniques reach 100% completion, user's Qi Disorder will be reduced.
 5 Qi In One
 Recover Force
-When using this technique for defense, the True Qi lost by the user in battle will increase rapidly over time and recover to the initial limit
+When defending with this technique, user's True Qi lost in battle will rapidly recover until it reaches the initial value
 True Art Demon Slaying
 User's teammates will more frequently be able to perform "True Qi" order to transmit their True Qi to the user.
 Endless Power
