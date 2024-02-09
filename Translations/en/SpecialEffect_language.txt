@@ -1918,7 +1918,7 @@ The power of all the user's techniques will continuously increase after every ba
 Reverse - Efficiency Gains
 Changes the effect of all "Wood" techniques of the user other than "Inner Art" techniques from "Orthodox" to "Heterodox"
 Reverse - Diffuse Momentum
-When the dominant internal element of the user is "Wood", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
+When the user's internal element is "Wood", user will be able to perform techniques even if a required body part is broken, but the power of the techniques performed this way will be reduced
 Reverse - Ingenious Mysterious
 Reducing the enemy's Nadis
 At the beginning of a battle, significantly reduce the amount of Nadis of the enemy and their helpers; significantly reduce the amount of Nadis gained by the enemy during the battle; significantly increase the amount of Nadis lost by the enemy during the battle
