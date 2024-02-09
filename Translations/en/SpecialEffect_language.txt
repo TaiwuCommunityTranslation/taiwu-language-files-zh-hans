@@ -613,7 +613,7 @@ Flower Listen Rain
 Enhancement of Breath gain
 During this Footwork: the user's Breath will not be reduced by any effect; the user will receive a significant increase in the effects of all techniques and buffs that increase Breath
 5 Steps of Plum Poling
-During this Footwork, if the Accuracy stat of the user when attacking an enemy is lower than the enemy's Resolve stat, the user's chance of hitting the enemy is greatly increased.
+During this Footwork, if the Accuracy stat of the user used to attack the enemy is lower than the enemy's Resolve stat, the user's chance of hitting the enemy is greatly increased.
 8 Trigrams Step
 During this Footwork, if the user uses the "Aegis" technique, the enemy's Stance Recovery will be reduced
 Cloud Surround
