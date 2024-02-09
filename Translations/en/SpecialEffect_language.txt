@@ -149,7 +149,7 @@ The longer the remaining lifespan of the user (in years), the more the power of 
 Vajra-Hearted\nBuddha Meditation
 Increases the power limit of "Vajrayana" techniques by 30%
 Internal Fire\nYoga
-The higher the percentage of "Metal" internal power of the user, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
+The higher the user's "Metal" internal element, the more the user's External and Internal Defense will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Trinity\nof Buddha
 The "Metal" type technique of the user will cause more direct damage and repercussion damage to characters whose dominant internal element is "Wood".
 Aquarius\nMeditation
@@ -196,7 +196,7 @@ When the internal energy of the user is "Water", it is more difficult to "block"
 Fire Paint\nTattoo
 Increases the power limit of "Fulong Altar" techniques by 30%
 Fulong\nFire-Engulf
-The higher the percentage of "Fire" internal energy of the user, the more the user's External Defense and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
+The higher the user's "Fire" internal element, the more the user's External and Internal Defense will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Pure Qi of Fire
 The user's "Fire" type techniques will cause more direct damage and repercussion damage to characters with "Metal" dominant internal element.
 Divine Jade\nYang
