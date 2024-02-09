@@ -2012,7 +2012,7 @@ If the internal energy of the user is "Water", even if the body part required to
 Reverse -  All-over fire painting method
 Reduces the usage requirements of "Fulong Altar" techniques by 20%
 Reverse -  Fulong Swallowing Fire technique
-The higher the percentage of "Fire" internal energy of the user, the more the user's External Penetration and Internal Penetration will be improved.
+The higher the user's "Fire" internal element, the more the user's External and Internal Penetration will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Fire True Qi
 The user's "Fire" type of technique will cause more direct damage and repercussion damage to characters with "Water" dominant internal element
 Reverse -  Small Yu Yang Shen Gong
