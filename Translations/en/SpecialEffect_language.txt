@@ -1759,7 +1759,7 @@ Laojun Swipe
 At the start of the battle, user gains 6 layers of this effect: Whenever the total number of user's defeat markers exceeds half of the defeat condition, these layers will be consumed to remove user's Injury markers; For every Injury marker removed, 1 layer of this effect will be consumed; When this technique reaches $0$0% completion, 1 layer of this effect will be restored, up to a maximum of 3 layers
 Yin-Yang Invert
 Restraint Orthodox practice Nadis
-The direct injuries caused by this technique will be resisted by the enemy's Internal Defense; While performing this technique, all of the enemy's Orthodox "Nadis" techniques cannot be effective.
+The enemy will use Internal Defense to resist the direct External damage dealt by this technique; While performing this technique, all of the enemy's Orthodox "Nadis" techniques won't work
 The Ultra One\nSwipe
 When this technique reaches $0$0% completion, the lower the Qi Disorder of the user, the higher the number and level of Sealed Acupoints caused by this technique will be.
 Heavy Swipe
@@ -3380,7 +3380,7 @@ Reverse - Laojun Swipe
 At the start of the battle, user gains 6 layers of this effect: Whenever the total number of user's defeat markers exceeds half of the defeat condition, these layers will be consumed to remove user's Impairment markers; For every Impairment marker removed, 1 layer of this effect will be consumed; When this technique reaches $0$0% completion, 1 layer of this effect will be restored, up to a maximum of 3 layers
 Reverse - Yin-Yang Invert
 Restraint against practicing strange tricks
-The direct internal injuries caused by this technique will be resisted by the enemy's External Defense instead; While performing this technique, all of the enemy's Heterodox training "Nadis" techniques cannot take effect
+The enemy will use External Defense to resist the direct Internal damage dealt by this technique; While performing this technique, all of the enemy's Heterodox "Nadis" techniques won't work
 Reverse - The Ultra One\nSwipe
 When this technique reaches $0$0% completion, the higher the Qi Disorder of the enemy, the higher the number and level of Sealed Acupoints caused by this technique will be.
 Reverse - Heavy Swipe
