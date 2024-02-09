@@ -2029,7 +2029,7 @@ Greatly reduces the Inhale and Stance cost of the user's "Fire" techniques; Whil
 Reverse -  Himalayan mother work
 Reduces the usage requirements of "Bloodhound Cult" techniques by 20%
 Reverse -  Black Corpse Four Tips
-Reduces the consumption of Inhale and Stance of the user's "Earth" type techniques
+Reduces the Inhale and Stance cost of the user's "Earth" techniques
 Reverse -  Evil Ghost technique
 When the dominant internal element of the user is "Earth", it reduces the direct damage and repercussion damage caused by the "Wood" type techniques to the user.
 Reverse -  Three Poisonous Ignorance Mantra
