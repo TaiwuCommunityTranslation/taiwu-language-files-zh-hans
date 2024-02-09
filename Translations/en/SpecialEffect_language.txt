@@ -658,7 +658,7 @@ Whenever the user moves 1 distance with this Footwork, a buff that increases Cas
 Fancy Step
 During this Footwork, whenever the user hits an enemy with a "Talisman" weapon, user's Stamina will be restored.
 Driving Cloud
-Reduced enemy counterattack damage
+Reduced Enemy Counter
 During this Footwork, the enemy's counterattack damage is significantly reduced
 Fairy Footsteps
 Move Closer
