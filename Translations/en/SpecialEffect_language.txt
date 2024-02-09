@@ -114,7 +114,7 @@ The user's "Water" type of technique will cause more direct damage and backlash 
 Jade Mirror\nof Yin
 Greatly increase "Vitality" limit. Internal Defense given by "Vitality" will be greatly increased based on user's purity.
 Xihua\nScripture
-The higher the percentage of "Water" internal power of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
+The higher the user's "Water" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Holy Princess
 Converts user's "Wood" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Wood" element is at 0%, user will not receive critical hits from "Wood" or "Water" techniques
 Nimbus Shower
