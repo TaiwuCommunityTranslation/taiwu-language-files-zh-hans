@@ -2008,7 +2008,7 @@ Convert the user's "Earth" internal energy into "Water" internal energy. The mor
 Reverse -  Esi Legacy
 Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Orthodox" to "Heterodox"
 Reverse -  Armillary Chart
-If the internal energy of the user is "Water", even if the body part required to perform the technique is destroyed, the technique can still be performed, but the power of the technique is reduced.
+When the user's internal element is "Water", user will be able to perform techniques even if a required body part is broken, but the power of the techniques performed this way will be reduced
 Reverse -  All-over fire painting method
 Reduces the usage requirements of "Fulong Altar" techniques by 20%
 Reverse -  Fulong Swallowing Fire technique
