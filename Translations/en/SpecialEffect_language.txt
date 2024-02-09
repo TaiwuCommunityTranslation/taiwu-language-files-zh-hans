@@ -1946,7 +1946,7 @@ Reduces the usage requirements of "Sword Manor" techniques by 20%
 Reverse- manifesting the Shi Nai service
 Reduces the usage requirements of "Armor"
 Reverse - Chap. 5 Metals
-When the dominant internal element of the user is "Fire", the direct damage and repercussion damage caused by "Water" type techniques to the user will be reduced.
+When the user's internal element is "Fire", direct damage and backlash damage dealt to the user by the "Water" techniques will be reduced.
 Reverse -  A Thousand Hammers
 The more times the user's current "Weapon" is Refined, the more damage user will deal to the enemy
 Reverse -  sacrifice the soul to create a powerful chapter
@@ -2000,7 +2000,7 @@ Reduces the usage requirements of "Jieqing Gate" techniques by 20%
 Reverse -  Tian Yuan method of raising Qi
 Reduces the Inhale and Stance cost of the user's "Water" techniques
 Reverse -  The Twelve Scrolls of the Eastern Wall
-When the dominant internal element of the user is "Water", the direct damage and repercussion damage caused by the "Earth" type of technique to the user will be reduced.
+When the user's internal element is "Water", direct damage and backlash damage dealt to the user by the "Earth" techniques will be reduced.
 Reverse -  Bu Tian Ge
 Significantly reduce the "Agility" consumption of the user
 Reverse -  Xuan Hei Zhen Jing
