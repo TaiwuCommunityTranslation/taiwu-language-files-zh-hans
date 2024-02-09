@@ -2180,7 +2180,7 @@ Reverse - Elephant Imitation
 Diverting enemy gain
 When defending with this technique: All direct damage taken by the user is reduced by 45%; Whenever the user Reflects an enemy attack, 1 buff is transferred from the enemy to the user
 Reverse - Thousands Incarnation Return
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user's internal injury will be restored to the amount it was at the beginning of the defense with this technique, and half of the non-old internal injuries removed by the restoration will be applied to the enemy.
+When defending with this technique, whenever the user successfully Counters a weapon attack, the user's Internal Injury markers will be restored to the amount the user had at the beginning of this technique, and half of the non-old Internal Injury markers removed by this effect will be applied to the enemy
 Reverse - Pure Virgin
 The higher the user's Charm, the more the user's Focus will increase.
 Reverse - Reclamation Stance
