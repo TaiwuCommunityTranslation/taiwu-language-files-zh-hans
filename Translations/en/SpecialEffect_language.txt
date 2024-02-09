@@ -2031,7 +2031,7 @@ Reduces the usage requirements of "Bloodhound Cult" techniques by 20%
 Reverse -  Black Corpse Four Tips
 Reduces the Inhale and Stance cost of the user's "Earth" techniques
 Reverse -  Evil Ghost technique
-When the dominant internal element of the user is "Earth", it reduces the direct damage and repercussion damage caused by the "Wood" type techniques to the user.
+When the user's internal element is "Earth", direct damage and backlash damage dealt to the user by the "Wood" techniques will be reduced.
 Reverse -  Three Poisonous Ignorance Mantra
 The more painful the "mood" of the user, the more the power of all the techniques of the user will be increased.
 Reverse -  Taiyin Refining Form
