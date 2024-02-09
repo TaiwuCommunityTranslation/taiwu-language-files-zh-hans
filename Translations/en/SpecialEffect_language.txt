@@ -1966,7 +1966,7 @@ The shorter the remaining lifespan of the user (in years), the more the power of
 Reverse -  Vajra Four Karmas
 Reduces the usage requirements of "Vajrayana" techniques by 20%
 Reverse -  Toom technique
-The higher the ratio of "Metal" internal power of the user, the more the user's External Penetration and Internal Penetration will be improved.
+The higher the user's "Metal" internal element, the more the user's External and Internal Penetration will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Three Secret Response Method
 The user's "Metal" type techniques will cause more direct damage and repercussion damage to characters with "Fire" dominant internal element.
 Reverse -  Baobao Qi Gong Method
