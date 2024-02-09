@@ -1874,7 +1874,7 @@ The more injuries the user removes with "Heal" in battle, the stronger the effec
 Reverse - Ultra Harmony of Wudang
 Reduces the usage requirements of "Wudang Sect" techniques by 20%
 Reverse - Vitality Retaining
-Reduces the consumption of Inhale and Stance of the user's "Fire" type technique
+Reduces the Inhale and Stance cost of the user's "Fire" techniques
 Reverse -  One Word Mixed Pile
 When the user only consumes Stance, an equal amount of Inhale will be restored.
 Reverse -  Luo Tian Zhen Zhi Twelve Piles
