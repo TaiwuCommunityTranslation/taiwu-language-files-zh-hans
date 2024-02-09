@@ -2122,7 +2122,7 @@ Reverse - Sword Formation of The 3 Elements
 When your teammates use the 「Mend」 or 「Release」 orders, they will remove more Weak Points and Sealed Acupoints.
 Reverse - Cloud Bed
 Raising the Qi draw-off
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a buff is applied to the user that increases the Int. Recovery.
+When defending with this technique, whenever the user successfully Counters a weapon attack, a buff that increases Int. Recovery. will be applied to the user
 Reverse - Yinyang Recycle
 Causes internal disorders
 Change Enemy Ext. Ratio
