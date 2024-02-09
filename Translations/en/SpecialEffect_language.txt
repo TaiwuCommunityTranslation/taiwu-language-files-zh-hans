@@ -3354,7 +3354,7 @@ Reverse - Wudang\nSwordsmanship
 Based on completion percentage of this technique, the power of all "Nadis" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Wudang\nSwordsmanship of Unfettered
 While performing this technique, user can retreat up to 2 distances without consuming Stamina
-Reverse - Swordsmanship\nof Rainbow White
+Reverse - Plain Rainbow\nSword
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy advances 1 distance, user will immediately retreat 1 distance. When layers of this effect get exhausted, if the enemy is within the user's attack range, user will immediately perform this technique from 75% of its progress without any consumption. When performed this way, this technique won't give layers of effect.
 Reverse - Swordsmanship\nof The Ultra One Mysterious
 When you start performing this technique, the more Vitality the user has consumed, the more the power of this technique will increase
