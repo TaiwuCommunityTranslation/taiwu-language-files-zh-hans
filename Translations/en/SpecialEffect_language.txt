@@ -1921,7 +1921,7 @@ Reverse - Diffuse Momentum
 When the user's internal element is "Wood", user will be able to perform techniques even if a required body part is broken, but the power of the techniques performed this way will be reduced
 Reverse - Ingenious Mysterious
 Reducing the enemy's Nadis
-At the beginning of a battle, significantly reduce the amount of Nadis of the enemy and their helpers; significantly reduce the amount of Nadis gained by the enemy during the battle; significantly increase the amount of Nadis lost by the enemy during the battle
+At the start of the battle, the enemy's and their teammates' "Nadis" True Qi will be reduced significantly; The amount of "Nadis" True Qi gained by the enemy during the battle will be reduced greatly; The amount of "Nadis" True Qi lost by the enemy during the battle will be increased greatly
 Reversal - Xuan Nui Heart Skill
 Reduces the usage requirements of "Xuannyu Sect" techniques by 20%
 Reverse -  Jade Bone
