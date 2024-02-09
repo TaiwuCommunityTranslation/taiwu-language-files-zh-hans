@@ -2378,7 +2378,7 @@ Reverse - Flower Listen Rain
 Enhancement of Focus reduction
 During this Footwork: the enemy's Focus will not be raised by any effect; all the effects of techniques and buffs that lower Focus the enemy receives are greatly increased
 Reverse - 5 Steps of Plum Poling
-During this Footwork, if the enemy attacks the user with an Accuracy that is lower than the user's Resolve, the chance of the enemy hitting the user is significantly reduced.
+During this Footwork, if the Accuracy stat of the enemy used to attack the user is lower than the user's Resolve stat, the enemy's chance of hitting the user is greatly reduced.
 Reverse - 8 Trigrams Step
 During this Footwork, if the user uses the "Aegis" technique, the enemy's Inhale recovery will be reduced.
 Reverse - Cloud Surround
