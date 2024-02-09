@@ -2384,7 +2384,7 @@ During this Footwork, if the user performs an "Aegis" technique, the enemy's Inh
 Reverse - Cloud Surround
 During this Footwork, whenever the user hits an enemy with a "Whisk" weapon, enemy's Stamina will be depleted.
 Reverse - Big Dipper Step\nof Heavenly Spirit
-Every time you move 1 distance with this Footwork, depending on the amount of "Aegis" True Qi the user has, the user gains "Quick" True Qi, and when the effect of this Footwork ends or expires, the user loses all the "Quick" True Qi gained in the process. Amount gained = (0.2 * [Aegis value] )
+Whenever the user moves 1 distance with this Footwork, the user gains "Quick" True Qi based on the amount of "Aegis" True Qi the user has. When this Footwork ends, the user loses all "Quick" True Qi gained from this effect. (Amount gained = 0.2 * [Aegis value])
 Reverse - The One Step
 Lowering the enemy's internal power play
 During the duration of this technique: the enemy's internal power is significantly reduced; the more uneven the ratio of internal to Ext. Injuries of the enemy's "Break" technique, the more the power of this technique is reduced.
