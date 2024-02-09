@@ -1252,7 +1252,7 @@ Lowering the enemy advance distance
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: When enemy builds up strength to advance a long distance, the distance advanced will be greatly reduced
 Centipede-Like\nWhip
 Recovery of Weak Point
-When attacking the enemy with this technique, this technique will directly attack the body part of the enemy with the biggest amount of strongest Weak Points, and the duration of all Weak Points on the attacked body part will change to the maximum
+When attacking the enemy with this technique, this technique will directly attack the body part of the enemy that has the biggest amount of strongest Weak Points, and the duration of all Weak Points on the attacked body part will change to the maximum
 5 Divine Whip
 After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Whip" technique performed by the user will transform from Heterodox to Orthodox version, and power of the transformed "Whip" technique will be greatly increased.
 Bone-Breaking\nWhip
@@ -2908,7 +2908,7 @@ Descending enemy retreat distance
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: When enemy builds up strength to retreat a long distance, the distance retreated will be greatly reduced
 Reverse - Centipede-Like\nWhip
 Extra hit
-When you hit an enemy with this technique, this technique will additionally hit 1 another body part of the enemy that has the most and strongest Weak Points on it.
+When hitting an enemy with this technique, this technique will additionally hit 1 other body part of the enemy that has the biggest amount of strongest Weak Points
 Reverse - 5 Divine Whip
 After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Whip" technique performed by the user will transform from Orthodox to Heterodox version, and power of the transformed "Whip" technique will be greatly increased.
 Reverse - Bone-Breaking\nWhip
@@ -3373,7 +3373,7 @@ When enemy doesn't have any available styles, this technique can be performed wi
 Reverse - Whisk Swipe
 Based on completion percentage of this technique, it increases enemy's Qi Disorder
 Reverse - Wudang\nMetallic Swipe
-When hitting an enemy with this technique, it will additionally hit 1 another body part of the enemy that has the most and strongest Sealed Acupoints
+When hitting an enemy with this technique, this technique will additionally hit 1 other body part of the enemy that has the biggest amount of strongest Sealed Acupoints
 Reverse - Taichi Swipe
 After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Whisk" technique performed by user will be change from Orthodox to Heterodox version, and power of those transformed "Whisk" techniques will be greatly increased.
 Reverse - Laojun Swipe
