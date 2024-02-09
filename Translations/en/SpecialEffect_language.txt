@@ -32,7 +32,7 @@ Whenever the user obtains an available style, the user has a very low chance of 
 Lotus\nMysterious
 Converts user's "Fire" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Wood" techniques
 Puxian\nScripture
-The higher the ratio of the "Wood" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
+The higher the user's "Wood" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Sitting-in-Oblivion
 Increase the casting progress
 Significantly increases the power of user's "Wood" techniques; While performing any "Wood" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Wood" technique by 50%, up to a maximum of 75%.
