@@ -23,7 +23,7 @@ Greatly increases the upper limit of all major attributes of the user (by 20). D
 Abdominal\nBreathing
 Increases the power limit of "Emei Sect" techniques by 30%
 Emei Pillar\nHolding
-The higher the percentage of "Wood" internal power of the user, the more the user's External and Internal Defense will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
+The higher the user's "Wood" internal element, the more the user's External and Internal Defense will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Original Pure\nForce
 The user's "Wood" type techniques will cause more direct damage and repercussion damage to characters whose dominant internal element is "Earth".
 Spirituality\nComprehension
