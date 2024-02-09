@@ -952,7 +952,7 @@ Changing the Enemy's External Defense
 When attacking the enemy with this technique: the smaller the difference between user's and enemy's Ext. Def. and Ext. Pen., the smaller the enemy's Ext. Def. will be
 The Great\nYinyang Hand
 Steal Buff
-When this technique starts, the user is temporarily affected by all the enemy's buffs, which lasts until the end of this technique.
+When you start performing this technique, the user becomes temporarily affected by all the enemy's buffs, which lasts until the end of this technique
 Sky Earth Finger
 When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Earth", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 Swordsmanship\nof Round-Trip
