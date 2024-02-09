@@ -1911,7 +1911,7 @@ Reverse - Whirling Circle
 When the user's standpoint is "Even", power of all of their techniques will be increased by 10%; When the user and the enemy have opposing standpoints, the power of all the user's techniques will be increased
 Reverse - True Will Cultivation
 When the user's internal element is "Wood", direct damage and backlash damage dealt to the user by the "Metal" techniques will be reduced.
-Reverse -  Damage Method
+Reverse - Focus Thought
 Greatly reduces "Comprehension" consumption
 Reverse -  Sheng Shen Fa
 The power of all the user's techniques will continuously increase after every battle, stacking up to 5 times. Every month, this increased power will be greatly reduced.
