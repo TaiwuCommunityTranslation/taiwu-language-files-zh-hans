@@ -377,7 +377,7 @@ When defending with this technique: The user will not receive "None" styles; If 
 Formation of 6 Men 6 Armor
 User's teammates will more frequently be able to perform "Swap" and "Restrain" orders to swap into combat or prevent enemy's teammates from using orders for a short period of time.
 Spell of Heavenly Spirit
-When defending with this technique, the direct damage inflicted by the enemy on the user with the Heterodox technique is greatly reduced
+When defending with this technique, the direct damage dealt by the enemy to the user with Heterodox techniques will be greatly reduced
 Elephant Imitation
 Transferring your benefits
 When defending with this technique: all direct damage taken by the user is reduced by 45%; whenever the user reflects from an enemy attack, 1 of the user's debuffs is transferred to the enemy
