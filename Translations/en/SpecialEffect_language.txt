@@ -2039,7 +2039,7 @@ Converts user's "Water" element into "Earth" element. The higher the conversion 
 Reverse -  Five Yin Dada
 The higher the ratio of the user's "Earth" internal energy, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Reverse -  Child's Blood Refining Method
-Significantly decreases the Inhale and Stance cost of user's "Earth" techniques; While performing any "Earth" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Break" True Qi to significantly increase the power of the performed "Earth" technique.
+Greatly reduces the Inhale and Stance cost of the user's "Earth" techniques; While performing any "Earth" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Break" True Qi to significantly increase the power of the performed "Earth" technique.
 Reverse -  Blood Hollow Evil Scripture
 Deflect En Break
 When the user's main element is "Earth", they can perform techniques even if a required body part is broken, but the power of the technique performed this way will be reduced; When user gets attacked by an "Earth", "Water", or "Fire" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
