@@ -625,7 +625,7 @@ The One Step
 Increase Int Ratio Bonus
 During this Footwork: User's Int. Ratio Bonus is greatly increased; The more evenly the Ext./Int. Ratio of the user's "Break" technique is split, the more the power of that technique will increase.
 Ladder Climbing
-During the duration of this technique, each time the user advances 0.5 distance, the power of all the "Break" techniques of the user will be increased, up to a maximum of 6 times, but if the user retreats, all the accumulated power will be lost.
+During this Footwork, whenever the user advances 0.5 distance, the power of all of the user's "Break" techniques will increase, up to a maximum of 6 times. If the user retreats, all the accumulated power will disappear.
 Cloud Gliding
 When advancing with this Footwork, the user needs to accumulate power to move 3 distances at once. After doing so, the user will gain 5 points of a random True Qi, and if that True Qi is still lower than its initial value, user will gain another 15 points of that True Qi.
 Stone Poling
