@@ -970,7 +970,7 @@ Swordsmanship\nof 9 Lights
 At the start of the battle, the user gains 0 layers of this effect: Whenever the user gains 1 point of "Nadis" True Qi, this effect increases by 1 layer, and when this effect reaches up to 9 layers, the power of this technique will increase greatly, and it will be performed from 50% of its progress, after which this effect will revert to 0 layers
 Swordsmanship\nof Yinyang Reversed
 Ext. Def. UP
-When attacking an enemy with this technique, if this technique can cause direct internal damage and the user's Internal Penetration is lower than the enemy's Internal Defense, the user's External Penetration is greatly increased and the user's direct external damage to the enemy is greatly increased
+When attacking the enemy with this technique, if this technique can cause direct Internal damage, and the user's Internal Penetration is lower than the enemy's Internal Defense, the user's External Penetration will be greatly increased, and the direct External damage dealt to the enemy will be greatly increased
 Origin\nSword Intent
 0 Inhale·Stance cost
 If the user's Nadis Qi is higher than the initial value and higher than the enemy's Nadis Qi, this technique can be performed without consuming Inhale and Stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of Nadis at the end of this technique.
