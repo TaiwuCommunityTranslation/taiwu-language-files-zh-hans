@@ -1917,7 +1917,7 @@ Reverse - Activate Energy
 The power of all the user's techniques will continuously increase after every battle, stacking up to 5 times. Every month, this increased power will be greatly reduced.
 Reverse - Efficiency Gains
 Change the "Orthodox" effect of the user's "Wood" type of technique other than "Internal Arts" into a "Heterodox" effect.
-Reverse -  Dispersion Method
+Reverse - Diffuse Momentum
 When the dominant internal element of the user is "Wood", even if the body part required to perform the technique is destroyed, it can still be performed, but the power of the technique is reduced.
 Reverse -  Xuanwei True Art
 Reducing the enemy's Nadis
