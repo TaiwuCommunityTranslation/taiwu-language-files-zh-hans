@@ -2493,7 +2493,7 @@ Reverse - Flying Head
 During this Footwork, when the distance between the enemy and me is not greater than 7, the user won't receive new Weak Points or Sealed Acupoints
 Reverse - Rope Overhang
 Surrendering the enemy's momentum to restore
-Every time you move 1 distance with this Footwork, you apply a debuff to the enemy that reduces their Inhale and Stance Recoveries.
+Whenever the user moves 1 distance with this Footwork, a debuff that reduces Inhale and Stance Recovery will be applied to the enemy
 Reverse - Hundred Feet's Drill
 Attrition of the enemy's bodywork
 During this Footwork, whenever an enemy attacks the user, a separate Swiftness check will happen, and if the enemy fails to Resolve it, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced. This Swiftness check becomes progressively less accurate each time it activates within the duration of this technique.
