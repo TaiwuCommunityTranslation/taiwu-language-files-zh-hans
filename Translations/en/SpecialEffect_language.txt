@@ -225,7 +225,7 @@ The higher the user's "Earth" internal element, the more the user's Diversion, P
 Children's\nBlood Sacrifice
 Significantly increase the power of the user's "Earth" skills; During the cast of the "Earth" skill, click to consume a min. of 5 and a max. of 15 points of the user's Break True Qi to increase the cast progress of the "Earth" skill by 50%, up to a maximum of 75%.
 Evil Scripture\nof Blood Hou
-If the user's main element is "Earth", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by an "Earth", "Water", or "Fire" technique, the Fatal Wound damage taken will be reduced by 80%
+If the user's internal element is "Earth", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by an "Earth", "Water", or "Fire" technique, the Fatal Wound damage taken will be reduced by 80%
 The Great Blood\nChild
 Increases the Break of true qi
 At the beginning of a battle, the user's "Break" True Qi is increased significantly (by 60); the amount of "Break" True Qi gained during the battle is increased significantly; the amount of "Break" True Qi lost during the battle is decreased significantly.
