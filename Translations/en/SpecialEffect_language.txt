@@ -2168,7 +2168,7 @@ When defending with this technique, if the user's Internal Defense is lower than
 Reverse - Vision Enhanced
 When the distance between the user and the enemy is not less than 7, the farther the distance between the enemy and the user, the more the user's Diversion, Parry, Evasion, and Focus will increase.
 Reverse - Yinyang Eye
-Whenever the applicator starts to perform a technique, the more the enemy's performance speed is higher than the applicator's performance speed, the more the enemy's performance speed is reduced
+Whenever the user starts to perform a technique, the higher the enemy's Cast Speed is compared to the user's Cast Speed, the more the enemy's Cast Speed will be reduced
 Reverse - The Great Dementor
 Freedom from the Daze marker
 When defending with this technique: the user will not receive Daze markers; if the enemy can receive Daze markers, and the user's Breath is higher than the enemy's Focus, the Daze markers applied to the user by the enemy will be applied to the enemy instead
