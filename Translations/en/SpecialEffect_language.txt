@@ -143,7 +143,7 @@ Increases the speed of the user's "Healing" and "Detoxing" in battle; Increases 
 Medical\nTreatment
 The higher the sum of tiers of the 5 highest-tiered currently consumed medicines of the user, the less damage the enemy will deal to the user.
 4 Methods of\nHibernation
-Greatly increase "Constitution" limit. External Defense given by "Constitution" will be greatly increased based on user's purity.
+Greatly increases "Constitution" limit. External Defense given by "Constitution" will be greatly increased based on user's purity.
 9 Tripots\nCultivation
 The longer the remaining lifespan of the user (in years), the more the power of the user's techniques will increase, by up to 40%.
 Vajra-Hearted\nBuddha Meditation
