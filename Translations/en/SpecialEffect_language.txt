@@ -1986,7 +1986,7 @@ Reduces the usage requirements of "Five Immortals Cult" techniques by 20%
 Reverse -  Huang Xianfa
 Significantly reduces the speed of enemy "Detox" in combat
 Reverse -  Red Immortal Law
-Reduces the consumption of Inhale and Stance of the user's "Wood" type techniques
+Reduces the Inhale and Stance cost of the user's "Wood" techniques
 Reverse -  Black Fairy Law
 Significantly reduces the amount of toxins that can be dispelled when an enemy performs "Detox" in battle
 Reverse -  Green Immortal Law
