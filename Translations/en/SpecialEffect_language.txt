@@ -2117,7 +2117,7 @@ Reverse - Perfect Unbreakable
 When defending with this technique, if the number of direct injuries caused by the enemy to the user is not higher than the current number of injuries on the user's attacked body part, the damage is ignored
 Reverse - Wudang Iron Clothes
 Average Pen.
-When defending with this technique: all direct damage received by the user is reduced by 15%; the user resists the enemy's attack with the average value of the enemy's External and Internal Penetration
+When defending with this technique: All direct damage received by the user is reduced by 15%; The user resists enemy attacks with the average value of the enemy's External and Internal Penetration
 Reverse - Sword Formation of The 3 Elements
 When your teammate uses the「Mend」or「Release」commands, they will remove more Weak Points and Blocked Acupoints.
 Reverse - Cloud Bed
