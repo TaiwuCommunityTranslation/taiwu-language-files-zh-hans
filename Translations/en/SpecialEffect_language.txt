@@ -2006,7 +2006,7 @@ Greatly reduces "Agility" consumption
 Reverse -  Xuan Hei Zhen Jing
 Convert the user's "Earth" internal energy into "Water" internal energy. The more energy is converted, the more the power of the user's "Water" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
 Reverse -  Esi Legacy
-Changing the "Orthodox" effect of the user's "Water" type of technique other than "Inner Arts techniques" to "Heterodox" effect
+Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Orthodox" to "Heterodox"
 Reverse -  Armillary Chart
 If the internal energy of the user is "Water", even if the body part required to perform the technique is destroyed, the technique can still be performed, but the power of the technique is reduced.
 Reverse -  All-over fire painting method
