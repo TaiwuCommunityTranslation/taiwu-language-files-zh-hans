@@ -367,7 +367,7 @@ When defending with this technique, whenever an enemy inflicts an injury or a Fa
 Exchange of Int. Pen. for Ext. Def.
 When defending with this technique, if the user's External Defense is lower than the enemy's Internal Penetration, the user's External Defense and Internal Penetration will be temporarily exchanged with the enemy's.
 Vision Enhanced
-When the distance between the user and the enemy is not less than 7, the farther the distance between the enemy and me, the more the user's Might, Finesse, Swiftness, and Breath will increase.
+When the distance between the user and the enemy is not less than 7, the farther the distance between the enemy and the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Yinyang Eye
 E·Cast Spd Dn
 Whenever the user starts to perform a technique, the more the user's performance speed is higher than the enemy's performance speed, the more the enemy's performance speed is reduced
@@ -2166,7 +2166,7 @@ Reverse - 5 Ghosts Handling
 Exchange of External Penetration Internal Defense
 When defending with this technique, if the user's Internal Defense is lower than the enemy's External Penetration, the Internal Defense and External Penetration of the user and the enemy will be temporarily exchanged.
 Reverse - Vision Enhanced
-When the distance between the user and the enemy is not less than 7, the further the distance between the enemy and me, the more the user's Diversion, Parry, Evasion and Focus will be improved.
+When the distance between the user and the enemy is not less than 7, the farther the distance between the enemy and the user, the more the user's Diversion, Parry, Evasion, and Focus will increase.
 Reverse - Yinyang Eye
 Whenever the applicator starts to perform a technique, the more the enemy's performance speed is higher than the applicator's performance speed, the more the enemy's performance speed is reduced
 Reverse - The Great Dementor
