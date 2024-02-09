@@ -664,7 +664,7 @@ Fairy Footsteps
 Move Closer
 During this Footwork, whenever the enemy attacks the user, the distance between the enemy and the user will immediately reduce by 2. The reduced distance will be restored after the attack ends
 Divine Swift
-During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not less than 7, the user does not consume Footwork when moving.
+During this Footwork: The enemy cannot remove user's Footwork and Stamina; When the distance between the user and the enemy is not less than 7, the user doesn't consume Footwork when moving
 Above The Sky
 Enhanced Finesse gain
 During this Footwork: the user's Finesse will not be reduced by any effect; all Finesse-raising techniques and buffs effects received by the user are greatly increased
