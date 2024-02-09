@@ -1714,7 +1714,7 @@ After this technique reaches $0$0% completion, user gains 4 layers of this effec
 Wudang Soft\nPalm
 When hitting enemy with this technique, enemy's Armor will be ignored; After this technique reaches $0$0% completion, user gains 3 layers of this effect: When enemy is attacked by the user's technique, it consumes 10 points of the user's Vitality to increase user's External and Internal Penetration
 The 8 Trigrams\nPalm
-At the beginning of the battle, the user gains 0 layers of this effect: for every distance the user moves, this effect increases by 1 layer, up to a maximum of 5 layers. The higher the number of layers of this effect, the less Inhale and Stance the user needs to consume when performing this technique, and the more the user's Might, Finesse and Swiftness will increase; after the performance of this technique is finished, this effect decreases by 1 layer
+At the start of the battle, the user gains 0 layers of this effect: For every 1 distance the user moves, this effect increases by 1 layer, up to 5 layers. The higher the number of layers of this effect, the less Inhale and Stance the user needs to consume when performing this technique, and the more the user's Might, Finesse and Swiftness will increase; After this technique is used, this effect decreases by 1 layer
 The Ultra One\nUnfettered Palm
 While performing this technique, user can advance up to 3 distance. The farther the user advances, the more the power of this technique will increase. For every 0.2 distance the user advances, user will gain 3 points of "Nadis" True Qi
 Divine Fist
