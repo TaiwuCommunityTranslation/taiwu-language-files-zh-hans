@@ -1976,7 +1976,7 @@ The higher the percentage of "Metal" internal Might of the user, the more the us
 Reverse -  Daishonin Sutra
 Converts user's "Fire" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Metal" techniques
 Reverse -  Vajradhara Sutra
-Significantly decreases the Inhale and Stance cost of user's "Metal" techniques; While performing any "Metal" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to significantly increase the power of the performed "Metal" technique.
+Greatly reduces the Inhale and Stance cost of the user's "Metal" techniques; While performing any "Metal" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to significantly increase the power of the performed "Metal" technique.
 Reverse -  Mahakala Guardianship
 If the total number of user's defeat markers exceeds half of the defeat condition, the amount of True Qi lost by the user will be greatly reduced, and the user won't receive Sealed Acupoints.
 Reverse -  Supreme Yoga Method
