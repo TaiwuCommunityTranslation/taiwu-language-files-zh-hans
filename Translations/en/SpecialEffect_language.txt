@@ -1883,7 +1883,7 @@ Reversal - Golden Sutra of Marrow-Regen
 The higher the user's "Fire" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse - Wudang Mixed Element
 If the enemy's attack includes both External and Internal damage, the Internal damage user receives will be reduced by 60%
-Reverse -  Taiyi Shen Gong
+Reverse - Divine One
 The higher the "Taoism" skill of the user, the more toxins the user can Detox in battle.
 Reverse -  Pure Yang Wuji Gong
 When the user's main element is "Fire", they can perform techniques even if a required body part is broken, but the power of the technique performed this way will be reduced; When user gets attacked by a "Fire", "Metal", or "Wood" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
