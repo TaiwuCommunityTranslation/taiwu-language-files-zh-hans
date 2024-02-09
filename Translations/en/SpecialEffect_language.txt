@@ -1938,7 +1938,7 @@ Reverse -  Yaochi Immortal Bathing Method
 Greatly reduces the Inhale and Stance cost of the user's "Water" techniques; While performing any "Water" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to significantly increase the power of the performed "Water" technique.
 Reverse -  Taiyuan Jade Lady technique
 Reduced enemy Quick true qi
-At the beginning of a battle, significantly reduce the amount of "Quick" True Qi of the enemy and their helpers; significantly reduce the amount of "Quick" True Qi gained by the enemy during the battle; significantly increase the amount of "Quick" True Qi lost by the enemy during the battle
+At the start of the battle, the enemy's and their teammates' "Quick" True Qi will be reduced significantly; The amount of "Quick" True Qi gained by the enemy during the battle will be reduced greatly; The amount of "Quick" True Qi lost by the enemy during the battle will be increased greatly
 Reverse -  Taiyin Yiming Jue
 At the start of the battle, all user's True Qi will become 2 times their initial value. All Fatal Wound damage except for Internal taken by the user will be doubled; If the user is a virgin female, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Reverse -  Burnt stone hammer forging
