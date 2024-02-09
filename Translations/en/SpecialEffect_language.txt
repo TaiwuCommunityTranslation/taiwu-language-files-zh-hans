@@ -215,7 +215,7 @@ Increases the power limit of "Bloodhound Cult" techniques by 30%
 4 Methods of\nDark Corpse
 Increases the power of the user's "Earth" type techniques by 10%.
 Evil Ghost
-When the dominant internal element of the user is "Earth", the direct damage and repercussion damage caused by the "Water" type techniques to the user will be reduced.
+When the user's internal element is "Earth", direct damage and backlash damage dealt to the user by the "Water" techniques will be reduced.
 3 Poisons of\nDarkness Spell
 The happier the "Mood" of the user, the more the power of all the techniques of the user will be increased, by up to 15%
 Moon Shape
