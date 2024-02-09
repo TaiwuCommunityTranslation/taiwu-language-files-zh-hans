@@ -53,7 +53,7 @@ Resolve Up
 When the user removes injuries with "Heal" in battle, the user will be given a buff which enhances the user's Diversion, Parry, Evasion, and Focus. The more injuries healed, the stronger the effect.
 Ultra Harmony\nof Wudang
 Increases the power limit of "Wudang Sect" techniques by 30%
-Vitality\nRetainin
+Vitality\nRetaining
 Increases the power of the user's "Fire" type techniques by 10%
 Horizontal Feet
 Stance Up
