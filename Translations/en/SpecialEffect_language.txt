@@ -373,7 +373,7 @@ E·Cast Spd Dn
 Whenever the user starts to perform a technique, the higher the user's Cast Speed is compared to the enemy's Cast Speed, the more the enemy's Cast Speed will be reduced
 The Great Dementor
 Unable to add no style
-When defending with this technique: the user will not gain any "none" wounds; if the enemy can gain "none" wounds and the user's Breath is higher than the enemy's Focus, the "none" wounds which should have been added to the user will be added to the enemy instead.
+When defending with this technique: The user will not receive "None" styles; If the enemy can receive "None" styles, and the user's Breath is higher than the enemy's Focus, the "None" styles applied to the user by the enemy will be applied to the enemy instead
 Formation of 6 Men 6 Armor
 User's teammates will more frequently be able to perform "Swap" and "Restrain" orders to swap into combat or prevent enemy's teammates from using orders for a short period of time.
 Spell of Heavenly Spirit
