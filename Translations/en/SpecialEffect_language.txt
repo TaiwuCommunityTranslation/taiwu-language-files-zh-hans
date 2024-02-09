@@ -93,7 +93,7 @@ Increases the power limit of "Ranshan Sect" techniques by 30%
 Whirling Circle
 When the user's standpoint is "Even", power of all of their techniques will be increased by 10%; When the user and the enemy don't have opposing standpoints, the power of all the user's techniques will be increased
 True Will\nCultivation
-When the dominant internal element of the user is "Wood", the direct damage and repercussion damage caused to the user by the "Earth" type of technique will be reduced.
+When the user's internal element is "Wood", direct damage and backlash damage dealt to the user by the "Earth" techniques will be reduced.
 Focus Thought
 Significantly increase (by 30) the "Comprehension" limit of the user
 Activate Energy
@@ -129,7 +129,7 @@ Increases the power limit of "Sword Manor" techniques by 30%
 Chap. Weave
 Increases the maximum performance of the "protective equipment" equipped by the user
 Chap. 5 Metals
-When the internal energy attribute of the user is "Fire", the direct damage and repercussion damage caused by "Metal" type techniques to the user will be reduced.
+When the user's internal element is "Fire", direct damage and backlash damage dealt to the user by the "Metal" techniques will be reduced.
 Chap. Refining
 The more times the user's current "Weapon" is Refined, the less damage enemy will deal to the user
 Chap. Sacrifice
