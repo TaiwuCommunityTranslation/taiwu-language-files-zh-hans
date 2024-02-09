@@ -164,7 +164,7 @@ Mahakala\nGuardian's Cultivation
 Avoiding Weak Points
 If the total number of user's defeat markers exceeds half of the defeat condition, the amount of True Qi gained by the user will be greatly increased, and the user won't receive Weak Points.
 Tantric Atiyoga
-If the user's main element is "Metal", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Metal", "Wood", or "Earth" technique, the Fatal Wound damage taken will be reduced by 80%
+If the user's internal element is "Metal", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Metal", "Wood", or "Earth" technique, the Fatal Wound damage taken will be reduced by 80%
 Poisoning\nMethod
 Increases the power limit of "Five Immortals Cult" techniques by 30%
 Yellow\nImmortals Cultivation
