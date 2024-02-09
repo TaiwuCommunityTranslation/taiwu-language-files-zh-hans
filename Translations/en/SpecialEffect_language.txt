@@ -155,7 +155,7 @@ The "Metal" type technique of the user will cause more direct damage and repercu
 Aquarius\nMeditation
 The more types of True Qi the user has that exceed their initial value in combat, the more the power of all the user's techniques will increase, by up to 20% (5% per type of True Qi).
 Vajra-Inherited\nMeditation
-The higher the ratio of "Metal" internal power of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
+The higher the user's "Metal" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 The Great Sun\nScripture
 Converts user's "Earth" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Earth" element is at 0%, user will not receive critical hits from "Earth" or "Metal" techniques
 The Great Vajra\nScripture
