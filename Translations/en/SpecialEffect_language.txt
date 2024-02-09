@@ -190,7 +190,7 @@ Greatly increases "Agility" limit
 Mysterious\nScripture
 Convert the user's "Metal" internal energy into "Water" internal energy. The more energy is converted, the more the power of the user's "Water" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
 Posthumous Ginseng
-Change the "Heterodox" effect of the user's "Water" type of technique other than "Inner Arts techniques" into a "Orthodox" effect
+Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Heterodox" to "Orthodox"
 Galaxy Map
 When the internal energy of the user is "Water", it is more difficult to "block" or "interrupt" all of the user's techniques.
 Fire Paint\nTattoo
