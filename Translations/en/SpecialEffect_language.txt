@@ -2674,7 +2674,7 @@ Reverse - The Great\nYinyang Hand
 Handover Debuff
 When you start performing this technique, the enemy becomes temporarily affected by all the user's debuffs, which lasts until the end of this technique
 Reverse - Sky Earth Finger
-When this technique reaches $0$0% completion, if enemy's dominant element is "Earth", direct damage dealt by this technique will be increased by 45%
+When this technique reaches $0$0% completion, if the enemy's internal element is "Earth", direct damage dealt by this technique will be increased by 45%
 Reverse - Swordsmanship\nof Round-Trip
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Stab" styles
 Reverse - Swordsmanship\nof Sanchin
