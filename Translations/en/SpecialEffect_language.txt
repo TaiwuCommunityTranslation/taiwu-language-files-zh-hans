@@ -2128,7 +2128,7 @@ Causes internal disorders
 Change Enemy Ext. Ratio
 If the enemy's Qi Disorder is higher than the user's, External Ratio of all enemy techniques will increase according to the External Ratio of this technique; Whenever user's "Break" techniques reach 100% completion, enemy's Qi Disorder will be increased.
 Reverse - 5 Qi In One
-When defending with this technique, the true qi gained by the enemy in battle will rapidly decrease over time and recover to the initial limit
+When defending with this technique, enemy's True Qi gained in battle will rapidly decrease until it reaches the initial value
 Reverse - True Art Demon Slaying
 When your teammate uses the「True Qi」command, more True Qi will be transferred to the user.
 Reverse - Endless Power
