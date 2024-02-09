@@ -112,7 +112,7 @@ The higher the user's "Water" internal element, the more the user's External and
 Moon Drive\nCultivation
 The user's "Water" type of technique will cause more direct damage and backlash damage to characters with "Fire" dominant internal element
 Jade Mirror\nof Yin
-Greatly increase "Vitality" limit. Internal Defense given by "Vitality" will be greatly increased based on user's purity.
+Greatly increases "Vitality" limit. Internal Defense given by "Vitality" will be greatly increased based on user's purity.
 Xihua\nScripture
 The higher the user's "Water" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Holy Princess
