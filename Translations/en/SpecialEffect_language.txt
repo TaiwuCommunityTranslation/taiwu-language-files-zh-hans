@@ -2042,7 +2042,7 @@ Reverse -  Child's Blood Refining Method
 Greatly reduces the Inhale and Stance cost of the user's "Earth" techniques; While performing any "Earth" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Break" True Qi to significantly increase the power of the performed "Earth" technique.
 Reverse -  Blood Hollow Evil Scripture
 Deflect En Break
-When the user's main element is "Earth", they can perform techniques even if a required body part is broken, but the power of the technique performed this way will be reduced; When user gets attacked by an "Earth", "Water", or "Fire" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
+When the user's internal element is "Earth", user will be able to perform techniques even if a required body part is broken, but the power of the techniques performed this way will be reduced; When user gets attacked by an "Earth", "Water", or "Fire" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
 Reverse -  Blood Child Method
 Reduce the enemy to destroy the real Qi
 At the beginning of a battle, dramatically reduce the amount of Devastating True Qi of the enemy and their helpers; dramatically reduce the amount of Devastating True Qi gained by the enemy in battle; dramatically increase the amount of Devastating True Qi lost by the enemy in battle
