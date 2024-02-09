@@ -1980,7 +1980,7 @@ Greatly reduces the Inhale and Stance cost of the user's "Metal" techniques; Whi
 Reverse -  Mahakala Guardianship
 If the total number of user's defeat markers exceeds half of the defeat condition, the amount of True Qi lost by the user will be greatly reduced, and the user won't receive Sealed Acupoints.
 Reverse -  Supreme Yoga Method
-When the user's main element is "Metal", they can perform techniques even if a required body part is broken, but the power of the technique performed this way will be reduced; When user gets attacked by a "Metal", "Wood", or "Earth" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
+When the user's internal element is "Metal", user will be able to perform techniques even if a required body part is broken, but the power of the techniques performed this way will be reduced; When user gets attacked by a "Metal", "Wood", or "Earth" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
 Reverse -  Poisoning Technique
 Reduces the usage requirements of "Five Immortals Cult" techniques by 20%
 Reverse -  Huang Xianfa
