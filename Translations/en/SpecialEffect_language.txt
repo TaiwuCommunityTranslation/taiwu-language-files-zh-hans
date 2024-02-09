@@ -667,7 +667,7 @@ Divine Swift
 During this Footwork: The enemy cannot remove user's Footwork and Stamina; When the distance between the user and the enemy is not less than 7, the user doesn't consume Footwork when moving
 Above The Sky
 Enhanced Finesse gain
-During this Footwork: the user's Finesse will not be reduced by any effect; all Finesse-raising techniques and buffs effects received by the user are greatly increased
+During this Footwork: User's Finesse will not be reduced by any effect; The effect of all Finesse-increasing technique effects and buffs received by the user will be greatly increased
 Fallen Flower
 During this Footwork, whenever the user hits an enemy with a "Zither" weapon, user's Stamina will be restored.
 Skyscraper Climbing
