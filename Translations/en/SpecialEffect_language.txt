@@ -1925,7 +1925,7 @@ At the beginning of a battle, significantly reduce the amount of Nadis of the en
 Reversal - Xuan Nui Heart Skill
 Reduces the usage requirements of "Xuannyu Sect" techniques by 20%
 Reverse -  Jade Bone
-The higher the percentage of "Water" internal energy of the user, the more the user's External Penetration and Internal Penetration will be improved.
+The higher the user's "Water" internal element, the more the user's External and Internal Penetration will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Wang Shu Royal Moon technique
 The user's "Water" type techniques will cause more direct damage and repercussion damage to characters whose dominant internal element is "Earth".
 Reverse -  Shao Yin Yi Ming Jue
