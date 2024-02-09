@@ -97,7 +97,7 @@ When the user's internal element is "Wood", direct damage and backlash damage de
 Focus Thought
 Greatly increases "Comprehension" limit
 Activate Energy
-The power of all techniques of the user will be continuously increased and accumulated up to 5 times per month, but after each battle, these increased powers will be significantly reduced
+The power of all the user's techniques will continuously increase every month, stacking up to 5 times. After every battle, this increased power will be greatly reduced.
 Efficiency Gains
 Change the "Heterodox" effect of the user's "Wood" type of technique other than "Inner Arts techniques" into a "Orthodox" effect
 Diffuse\nMomentum
