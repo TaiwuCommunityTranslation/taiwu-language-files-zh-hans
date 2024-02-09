@@ -2389,7 +2389,7 @@ Reverse - The One Step
 Lowering the enemy's internal power play
 During this Footwork: Enemy's Int. Ratio Bonus is greatly reduced; The more unevenly the Ext./Int. Ratio of the enemy's "Break" technique is split, the more the power of that technique will reduce.
 Reverse - Ladder Climbing
-During the duration of this technique, each time the user retreats 0.5 distance, the power of all the "Break" techniques of the user will be increased, up to a maximum of 6 times, but if the user advances, all the accumulated power will be lost.
+During this Footwork, whenever the user retreats 0.5 distance, the power of all of the user's "Break" techniques will increase, up to a maximum of 6 times. If the user advances, all the accumulated power will disappear.
 Reverse - Cloud Gliding
 When retreating with this Footwork, the user needs to accumulate power to move 3 distances at once. After doing so, the user will gain 5 points of a random True Qi, and if that True Qi is still lower than its initial value, user will gain another 15 points of that True Qi.
 Reverse - Stone Poling
