@@ -1827,7 +1827,7 @@ Reduces the Inhale and Stance cost of the user's "Metal" techniques
 Reverse -  Heart Qi Mixing Technique
 When the user's internal element is "Metal", direct damage and backlash damage dealt to the user by the "Fire" techniques will be reduced.
 Reverse -  Colorless Zen technique
-Greatly increase "Willpower" limit. Breath given by "Willpower" will be greatly increased based on user's purity.
+Greatly increases "Willpower" limit. Breath given by "Willpower" will be greatly increased based on user's purity.
 Reverse -  Bodhicitta Practice
 Converts user's "Wood" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Wood" element is at 0%, user will not receive critical hits from "Wood" or "Metal" techniques
 Reverse -  Miscellaneous Aramaic Sutras
@@ -1904,7 +1904,7 @@ When the user continuously attacks the enemy with the same technique in this bat
 Reverse -  Iron Tripod Golden Body Technique
 Significantly reduces the maximum number of Weak Points per user's body part, but if the user has at least 3 Weak Points, the direct External Damage dealt by the user will also be reduced.
 Reverse -  Light Lion Power
-Greatly increase "Strength" limit. Might given by "Strength" will be greatly increased based on user's purity.
+Greatly increases "Strength" limit. Might given by "Strength" will be greatly increased based on user's purity.
 Reverse -  Nourishing the will method
 Reduces the usage requirements of "Ranshan Sect" techniques by 20%
 Reverse - Whirling Circle
