@@ -2387,7 +2387,7 @@ Reverse - Big Dipper Step\nof Heavenly Spirit
 Whenever the user moves 1 distance with this Footwork, the user gains "Quick" True Qi based on the amount of "Aegis" True Qi the user has. When this Footwork ends, the user loses all "Quick" True Qi gained from this effect. (Amount gained = 0.2 * [Aegis value])
 Reverse - The One Step
 Lowering the enemy's internal power play
-During the duration of this technique: the enemy's internal power is significantly reduced; the more uneven the ratio of internal to Ext. Injuries of the enemy's "Break" technique, the more the power of this technique is reduced.
+During this Footwork: Enemy's Int. Ratio Bonus is greatly reduced; The more unevenly the Ext./Int. Ratio of the enemy's "Break" technique is split, the more the power of that technique will reduce.
 Reverse - Ladder Climbing
 During the duration of this technique, each time the user retreats 0.5 distance, the power of all the "Break" techniques of the user will be increased, up to a maximum of 6 times, but if the user advances, all the accumulated power will be lost.
 Reverse - Cloud Gliding
