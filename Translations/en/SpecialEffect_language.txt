@@ -1998,7 +1998,7 @@ The more negative "characteristics" the enemy has, the more the power of all ene
 Reverse -  JieQing Four Elephant Chart
 Reduces the usage requirements of "Jieqing Gate" techniques by 20%
 Reverse -  Tian Yuan method of raising Qi
-Reduces the consumption of Inhale and Stance of the user's "Water" type techniques
+Reduces the Inhale and Stance cost of the user's "Water" techniques
 Reverse -  The Twelve Scrolls of the Eastern Wall
 When the dominant internal element of the user is "Water", the direct damage and repercussion damage caused by the "Earth" type of technique to the user will be reduced.
 Reverse -  Bu Tian Ge
