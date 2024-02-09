@@ -184,7 +184,7 @@ Increases the power limit of "Jieqing Gate" techniques by 30%
 Heaven\nMeditation
 Increases the power of the user's "Water" type techniques by 10%.
 12 Scrolls\nof Eastwall
-When the dominant internal element of the user is "Water", the direct damage and repercussion damage caused by "Fire" type techniques to the user will be reduced.
+When the user's internal element is "Water", direct damage and backlash damage dealt to the user by the "Fire" techniques will be reduced.
 Step Sky
 Significantly increase (by 30) the "Agility" limit of the user
 Mysterious\nScripture
