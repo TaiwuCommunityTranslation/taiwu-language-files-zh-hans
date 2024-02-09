@@ -1929,7 +1929,7 @@ The higher the user's "Water" internal element, the more the user's External and
 Reverse -  Wang Shu Royal Moon technique
 The user's "Water" type techniques will cause more direct damage and repercussion damage to characters whose dominant internal element is "Earth".
 Reverse -  Shao Yin Yi Ming Jue
-Greatly increase "Vitality" limit. Internal Penetration given by "Vitality" will be greatly increased based on user's purity.
+Greatly increases "Vitality" limit. Internal Penetration given by "Vitality" will be greatly increased based on user's purity.
 Reverse -  Sihwajin Sutra
 The higher the user's "Water" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Empress Goddess
@@ -1960,7 +1960,7 @@ Reduces the speed of the enemy's "Healing" and "Detoxing" in battle; Reduces the
 Reverse - Medical Treatment
 The higher the sum of tiers of the 5 highest-tiered currently consumed medicines of the user, the more damage the user will deal to the enemy.
 Reverse -  Jiaojiao four methods
-Greatly increase "Constitution" limit. External Penetration given by "Constitution" will be greatly increased based on user's purity.
+Greatly increases "Constitution" limit. External Penetration given by "Constitution" will be greatly increased based on user's purity.
 Reverse - 9 Tripots Cultivation
 The shorter the remaining lifespan of the user (in years), the more the power of the user's techniques will increase, by up to 40%.
 Reverse -  Vajra Four Karmas
