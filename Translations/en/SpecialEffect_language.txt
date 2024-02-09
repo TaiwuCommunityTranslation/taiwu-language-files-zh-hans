@@ -1879,7 +1879,7 @@ Reverse - Horizontal Feet
 When the user only consumes Stance, an equal amount of Inhale will be restored.
 Reverse - Celestial Pillar Holding
 Converts user's "Water" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Water" element is at 0%, user will not receive critical hits from "Water" or "Fire" techniques
-Reversal - Golden Sutra of Marrow Washing
+Reversal - Golden Sutra of Marrow-Regen
 The higher the user's "Fire" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Wudang Mixed Element technique
 If the enemy's attack includes both External and Internal damage, the Internal damage user receives will be reduced by 60%
