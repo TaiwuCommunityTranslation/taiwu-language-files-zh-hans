@@ -2119,7 +2119,7 @@ Reverse - Wudang Iron Clothes
 Average Pen.
 When defending with this technique: All direct damage received by the user is reduced by 15%; The user resists enemy attacks with the average value of the enemy's External and Internal Penetration
 Reverse - Sword Formation of The 3 Elements
-When your teammate uses the「Mend」or「Release」commands, they will remove more Weak Points and Blocked Acupoints.
+When your teammates use the 「Mend」 or 「Release」 orders, they will remove more Weak Points and Sealed Acupoints.
 Reverse - Cloud Bed
 Raising the Qi draw-off
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a buff is applied to the user that increases the Int. Recovery.
