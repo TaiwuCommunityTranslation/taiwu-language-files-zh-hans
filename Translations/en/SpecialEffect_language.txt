@@ -192,7 +192,7 @@ Convert the user's "Metal" internal energy into "Water" internal energy. The mor
 Posthumous Ginseng
 Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Heterodox" to "Orthodox"
 Galaxy Map
-When the internal energy of the user is "Water", it is more difficult to "block" or "interrupt" all of the user's techniques.
+When the user's internal element is "Water", user's techniques will be more resistant to being "Sealed" or "Interrupted"
 Fire Paint\nTattoo
 Increases the power limit of "Fulong Altar" techniques by 30%
 Fulong\nFire-Engulf
