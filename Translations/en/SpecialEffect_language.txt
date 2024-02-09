@@ -1931,7 +1931,7 @@ The user's "Water" type techniques will cause more direct damage and repercussio
 Reverse -  Shao Yin Yi Ming Jue
 Greatly increase "Vitality" limit. Internal Penetration given by "Vitality" will be greatly increased based on user's purity.
 Reverse -  Sihwajin Sutra
-The higher the percentage of "Water" internal energy of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
+The higher the user's "Water" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Empress Goddess
 Converts user's "Fire" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Water" techniques
 Reverse -  Yaochi Immortal Bathing Method
