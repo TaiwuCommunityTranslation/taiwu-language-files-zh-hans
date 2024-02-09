@@ -659,7 +659,7 @@ Fancy Step
 During this Footwork, whenever the user hits an enemy with a "Talisman" weapon, user's Stamina will be restored.
 Driving Cloud
 Reduced Enemy Counter
-During this Footwork, the enemy's counterattack damage is significantly reduced
+During this Footwork, the enemy's Counter damage will be greatly reduced
 Fairy Footsteps
 Move Closer
 During this Footwork, when the enemy attacks the user, the distance between the enemy and me is immediately reduced by 2. The reduced distance will be restored after the enemy's attack ends
