@@ -1731,7 +1731,7 @@ Wudang\nSwordsmanship
 Based on completion percentage of this technique, the power of all "Nadis" techniques of the user will be increased by 20% until the end of the battle.
 Wudang\nSwordsmanship of Unfettered
 While performing this technique, user can advance up to 2 distances without consuming Stamina
-Swordsmanship\nof Rainbow White
+Plain Rainbow\nSword
 Extra Move
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy retreats 1 distance, user will immediately advance 1 distance. When layers of this effect get exhausted, if the enemy is within the user's attack range, user will immediately perform this technique from 75% of its progress without any consumption. When performed this way, this technique won't give layers of effect.
 Swordsmanship\nof The Ultra One Mysterious
