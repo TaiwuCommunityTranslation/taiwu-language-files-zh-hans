@@ -2175,7 +2175,7 @@ When defending with this technique: The user will not receive Daze markers; If t
 Reverse - Formation of 6 Men 6 Armor
 User's teammate's "Swap" and "Restrain" orders will work for a longer period of time.
 Reverse - Spell of Heavenly Spirit
-When defending with this technique, the direct damage inflicted by the enemy on the user with the technique being practiced is greatly reduced
+When defending with this technique, the direct damage dealt by the enemy to the user with Orthodox techniques will be greatly reduced
 Reverse - Elephant Imitation
 Diverting enemy gain
 When defending with this technique: all direct damage taken by the user is reduced by 45%; whenever the user Reflects an enemy attack, 1 enemy buff is transferred to the user
