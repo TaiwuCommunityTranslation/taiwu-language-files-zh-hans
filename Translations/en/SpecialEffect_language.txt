@@ -61,7 +61,7 @@ When the user only consumes Inhale, an equal amount of Stance will be restored.
 Celestial Pillar\nHolding
 Converts user's "Wood" element into "Fire" element. The higher the conversion ratio, the higher the power of the user's "Fire" skills will be; If user's "Wood" element is at 0%, user will not receive critical hits from "Wood" or "Fire" techniques
 Golden Scripture\nof Marrow-Regen
-The higher the ratio of "Fire" internal energy of the user, the more the user's Diversion, Parry, Evasion and Focus will be improved, by up to 20%. (Bonus = 0.2 * [elemental value] )
+The higher the user's "Fire" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Wudang\nMixed Element
 Ext Taken Dn
 If the enemy's attack includes both External and Internal damage, the External damage user receives will be reduced by 60%
