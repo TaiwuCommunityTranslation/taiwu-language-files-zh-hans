@@ -99,7 +99,7 @@ Greatly increases "Comprehension" limit
 Activate Energy
 The power of all the user's techniques will continuously increase every month, stacking up to 5 times. After every battle, this increased power will be greatly reduced.
 Efficiency Gains
-Change the "Heterodox" effect of the user's "Wood" type of technique other than "Inner Arts techniques" into a "Orthodox" effect
+Changes the effect of all "Wood" techniques of the user other than "Inner Art" techniques from "Heterodox" to "Orthodox"
 Diffuse\nMomentum
 When the dominant internal element of the user is "Wood", it is more difficult for all of the user's techniques to be "blocked" or "interrupted".
 Ingenious\nMysterious
