@@ -66,7 +66,7 @@ Wudang\nMixed Element
 Ext Taken Dn
 If the enemy's attack includes both External and Internal damage, the External damage user receives will be reduced by 60%
 Divine One
-The higher the user's "Taoism" skill, the more injuries the user can remove by using "Healing" in battle.
+The higher the user's "Taoism" attainment, the more Injury markers the user can remove by using "Healing" in battle.
 Boundless\nPure Yang
 If the user's main element is "Fire", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Fire", "Metal", or "Wood" technique, the Fatal Wound damage taken will be reduced by 80%
 Fresh Breath
