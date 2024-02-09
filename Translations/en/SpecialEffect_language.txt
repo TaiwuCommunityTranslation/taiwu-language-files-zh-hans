@@ -973,7 +973,7 @@ Ext. Def. UP
 When attacking the enemy with this technique, if this technique can cause direct Internal damage, and the user's Internal Penetration is lower than the enemy's Internal Defense, the user's External Penetration will be greatly increased, and the direct External damage dealt to the enemy will be greatly increased
 Origin\nSword Intent
 0 Inhale·Stance cost
-If the user's Nadis Qi is higher than the initial value and higher than the enemy's Nadis Qi, this technique can be performed without consuming Inhale and Stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of Nadis at the end of this technique.
+If the user's "Nadis" True Qi is higher than its initial value, and is higher than the enemy's "Nadis" True Qi, this technique will be performed without consuming Inhale and Stance, its power will be greatly increased, and at the end of this technique, user will lose 6 points of "Nadis" True Qi
 Ever-Changing\n14 Swordmanship
 Cast E·Skill
 When attacking enemy with this technique, only enemy's lowest Resolve stat (except Focus) and lowest Defense stat will be used; After this technique reaches $0$0% completion, user gains 3 layers of this effect: When enemy performs any "Break" technique that consumes "Hack", "Stab", or "Slash" styles, if user can use those styles, user will immediately perform the same technique without consumption, and if user hits the enemy with the same technique before they finish performing it, enemy's technique will be "Interrupted"
