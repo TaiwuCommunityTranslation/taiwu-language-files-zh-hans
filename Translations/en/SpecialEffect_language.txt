@@ -2422,7 +2422,7 @@ During this Footwork, the enemy's Reflect damage will be greatly reduced
 Reverse - Fairy Footsteps
 During this Footwork, whenever the enemy attacks the user, the distance between the enemy and the user will immediately increase by 2. The increased distance will be restored after the attack ends
 Reverse - Divine Swift
-During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not greater than 7, the user does not consume Footwork when moving.
+During this Footwork: The enemy cannot remove user's Footwork and Stamina; When the distance between the user and the enemy is not greater than 7, the user doesn't consume Footwork when moving
 Reverse - Above The Sky
 Enhancement Parry
 During this Footwork: the enemy's Parry stat will not be increased by any effect; the enemy suffers significantly more effect from all skills and negative effects that reduce Parry stat.
