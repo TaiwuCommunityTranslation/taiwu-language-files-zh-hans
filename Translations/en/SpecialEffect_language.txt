@@ -121,7 +121,7 @@ Nimbus Shower
 Significantly increase the power of the user's "Water" skills; During the cast of the "Water" skill, click to consume a min. of 5 and a max. of 15 points of the user's Quick True Qi to increase the cast progress of the "Water" skill by 50%, up to a maximum of 75%.
 Supreme\nGoddess Cultivation
 Increases Quick of Spirit
-At the beginning of a battle, the user's Quick True Qi is increased significantly (by 60); the amount of Quick True Qi gained during the battle is increased significantly; the amount of Quick True Qi lost during the battle is decreased significantly.
+At the start of the battle, the user's "Quick" True Qi will be increased significantly (by 60); The amount of "Quick" True Qi gained by the user during the battle will be increased greatly; The amount of "Quick" True Qi lost by the user during the battle will be reduced greatly
 Moon Jade
 Greatly increases the upper limit of all major attributes of the user (by 20). Direct Internal Fatal Wound damage taken by user will be reduced by 50%; If the user is a virgin female, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Chap. Forge
@@ -228,7 +228,7 @@ Evil Scripture\nof Blood Hou
 When the user's internal element is "Earth", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by an "Earth", "Water", or "Fire" technique, the Fatal Wound damage taken will be reduced by 80%
 The Great Blood\nChild
 Increases the Break of true qi
-At the beginning of a battle, the user's "Break" True Qi is increased significantly (by 60); the amount of "Break" True Qi gained during the battle is increased significantly; the amount of "Break" True Qi lost during the battle is decreased significantly.
+At the start of the battle, the user's "Break" True Qi will be increased significantly (by 60); The amount of "Break" True Qi gained by the user during the battle will be increased greatly; The amount of "Break" True Qi lost by the user during the battle will be reduced greatly
 Energizing\nPractice
 All backlash damage to the user is significantly reduced
 Lying Beside Tiger
