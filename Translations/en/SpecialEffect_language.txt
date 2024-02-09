@@ -2002,7 +2002,7 @@ Reduces the Inhale and Stance cost of the user's "Water" techniques
 Reverse -  The Twelve Scrolls of the Eastern Wall
 When the user's internal element is "Water", direct damage and backlash damage dealt to the user by the "Earth" techniques will be reduced.
 Reverse -  Bu Tian Ge
-Significantly reduce the "Agility" consumption of the user
+Greatly reduces "Agility" consumption
 Reverse -  Xuan Hei Zhen Jing
 Convert the user's "Earth" internal energy into "Water" internal energy. The more energy is converted, the more the power of the user's "Water" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
 Reverse -  Esi Legacy
