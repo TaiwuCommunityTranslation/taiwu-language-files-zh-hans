@@ -2708,7 +2708,7 @@ When this spell reaches $0$0% completion, 2 of the enemy's "Quick" techniques th
 Reverse - The 7 Whites'\nExorcism
 When this spell reaches $0$0% completion, 2 of the enemy's "Aegis" techniques that are not permanently Sealed will be "Sealed" for a short time; Based on the effect of those Sealed "Aegis" techniques, enemy's Resolve and Defense stats will be reduced; After casting this spell, it will always be temporarily "Sealed".
 Reverse - Bless of\nThe Stars
-When you start to cast this spell, it's power will be increased if the user is Enthralled, and it will be greatly increased if the user is Possessed; When this spell reaches $0$0% completion, if the user is Enthralled, enemy's Health will be reduced by 3 points, and if user is Possessed, enemy's Health will be reduced by additional 3 points.
+When you start to cast this spell, its power will be increased if the user is Enthralled, and it will be greatly increased if the user is Possessed; When this spell reaches $0$0% completion, if the user is Enthralled, enemy's Health will be reduced by 3 points, and if user is Possessed, enemy's Health will be reduced by additional 3 points.
 Reverse - Almighty Spell
 When this spell reaches $0$0% completion, 2 of the enemy's "Nadis" techniques that are not permanently Sealed will be "Sealed" for a very short time; Any technique performed during this period of time will cause the enemy to suffer the backlash damage from those "Nadis" techniques; After casting this spell, it will always be temporarily "Sealed".
 Reverse - 5 Animals Fist
