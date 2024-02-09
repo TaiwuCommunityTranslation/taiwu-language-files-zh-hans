@@ -1854,7 +1854,7 @@ Whenever the user obtains an available style, the user has a very low chance of 
 Reverse -  Lotus Tai Xuan technique
 Converts user's "Metal" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Metal" element is at 0%, user will not receive critical hits from "Metal" or "Wood" techniques
 Reversal-Pu Yin Xin Jing
-The higher the percentage of "Wood" internal power of the user, the more the user's Might, Finesse, Swiftness, and Breath will increase.
+The higher the user's "Wood" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Sitting-in-Oblivion
 Greatly reduces the Inhale and Stance cost of the user's "Wood" techniques; While performing any "Wood" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to significantly increase the power of the performed "Wood" technique.
 Reversal of the Great Nirvana Law
