@@ -620,7 +620,7 @@ Cloud Surround
 During this Footwork, whenever the user hits an enemy with a "Whisk" weapon, user's Stamina will be restored.
 Big Dipper Step\nof Heavenly Spirit
 Gain Specific Force
-Every time you move 1 distance with this Footwork, the user gains "Quick" true energy according to the amount of "Break" true energy the user has, and when the effect of this Footwork ends or expires, the user loses all "Quick" true energy gained in the process. Amount gained = (0.2 * [Break value] )
+Whenever the user moves 1 distance with this Footwork, the user gains "Quick" True Qi based on the amount of "Break" True Qi the user has. When this Footwork ends, the user loses all "Quick" True Qi gained from this effect. (Amount gained = 0.2 * [Break value])
 The One Step
 Improve the internal strength to play
 During the duration of this footwork, the internal ratio percentage of the user increases significantly; the more evenly the ratio of internal to external injuries of the "Break" technique performed by the user, the more the power of this technique increases.
