@@ -662,7 +662,7 @@ Reduced Enemy Counter
 During this Footwork, the enemy's Counter damage will be greatly reduced
 Fairy Footsteps
 Move Closer
-During this Footwork, when the enemy attacks the user, the distance between the enemy and me is immediately reduced by 2. The reduced distance will be restored after the enemy's attack ends
+During this Footwork, whenever the enemy attacks the user, the distance between the enemy and the user will immediately reduce by 2. The reduced distance will be restored after the attack ends
 Divine Swift
 During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the distance between the user and the enemy is not less than 7, the user does not consume Footwork when moving.
 Above The Sky
