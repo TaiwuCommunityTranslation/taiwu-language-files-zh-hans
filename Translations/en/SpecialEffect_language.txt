@@ -739,7 +739,7 @@ Breakthrough Swamp
 The movement speed of the user will not be reduced for any reason during this Footwork
 Toad Leap
 Reduced Footwork consumption
-When advancing with this Footwork, the user needs to accumulate power to move 1 distance at once. If the user has not attacked before the next accumulation of power, the cumulative amount of Footwork consumed by the user when advancing with this Footwork is reduced.
+When advancing with this Footwork, the user needs to prepare to jump 1 distance at once. If the user hasn't attacked before the next preparation, the amount of Footwork consumed to advance will be continuously reduced
 Flying Head
 Heal Weak Points and Sealed Acupoints
 During this Footwork, when the distance between the user and the enemy is not less than 5, the user won't receive any Weak Points or Sealed Acupoints
