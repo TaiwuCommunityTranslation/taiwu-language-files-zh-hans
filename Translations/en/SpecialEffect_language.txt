@@ -35,7 +35,7 @@ Puxian\nScripture
 The higher the user's "Wood" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Sitting-in-Oblivion
 Increase the casting progress
-Significantly increases the power of user's "Wood" techniques; While performing any "Wood" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Wood" technique by 50%, up to a maximum of 75%.
+Greatly increases the power of user's "Wood" techniques; While performing any "Wood" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Wood" technique by 50%, up to a maximum of 75%.
 Great Nirvana
 The higher the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a positive trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
 Diagram of\nAcupunture Points
