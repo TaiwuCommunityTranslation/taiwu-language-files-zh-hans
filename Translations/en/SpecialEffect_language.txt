@@ -2498,7 +2498,7 @@ Reverse - Hundred Feet's Drill
 Attrition of the enemy's bodywork
 During this Footwork, whenever an enemy attacks the user, a separate Swiftness check will happen, and if the enemy fails to Resolve it, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced. This Swiftness check becomes progressively less accurate each time it activates within the duration of this technique.
 Reverse - Sky Snake Rolling
-When retreating with this Footwork, the user can accumulate strength to move 3 distances at once. After moving, user will apply a debuff to the enemy that reduces all Poison Resistances depending on the distance moved.
+When retreating with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, the enemy will receive a debuff that reduces all Poison Resistances depending on the distance moved.
 Reverse - A Hundred Feet Poling
 During this Footwork, the minimum attack distance of the user is increased by 2
 Reverse - Traceless 6 Steps
