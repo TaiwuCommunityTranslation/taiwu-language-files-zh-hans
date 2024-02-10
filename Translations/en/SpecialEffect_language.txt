@@ -296,7 +296,7 @@ Yinyang Reverse
 Debuff to Buff
 When defending with this technique, whenever the user successfully Counters an attack, 1 debuff on the user will change into a buff
 Shifting of 12 Meridians
-Closed points become unblocked points
+Remove Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead remove a Sealed Acupoint on the user
 8 Doors of Live Or Dead
 Whenever the user receives an injury from the enemy, the injuries of the user on 1 other random body part with fewer injuries will be reduced by 2
