@@ -610,7 +610,7 @@ During this Footwork, whenever the user attacks an enemy, a separate Finesse che
 Jade Step
 When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Flower Listen Rain
-Enhancement of Breath gain
+Increase Breath Buffs
 During this Footwork: the user's Breath will not be reduced by any effect; the user will receive a significant increase in the effects of all techniques and buffs that increase Breath
 5 Steps of Plum Poling
 During this Footwork, if the Accuracy stat of the user used to attack the enemy is lower than the enemy's Resolve stat, the user's chance of hitting the enemy is greatly increased.
