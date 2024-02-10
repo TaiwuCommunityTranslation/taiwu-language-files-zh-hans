@@ -2105,7 +2105,7 @@ Reverse - Mixed Needle
 Whenever the user inflicts a Sealed Acupoint to the enemy, 1 additional Sealed Acupoint will be created on another random body part of the enemy
 Reverse - Yinyang Reverse
 Buff to Debuff
-When defending with this technique, every time the user successfully counters an enemy's weapon attack, 1 enemy buff is changed to a debuff
+When defending with this technique, whenever the user successfully Counters an attack, 1 buff on the enemy will change into a debuff
 Reverse - Shifting of 12 Meridians
 Transferring your sealed points
 When this technique is used for defense, the enemy will close the enemy's own acupuncture points when the enemy seals them.
