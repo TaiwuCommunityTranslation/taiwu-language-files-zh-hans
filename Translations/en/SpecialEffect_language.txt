@@ -3152,7 +3152,7 @@ When attacking the enemy with this technique, the higher the enemy's Internal Pe
 Reverse - Lady Poison
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user retreats 1 distance, 1 "Toxic" style of the user will be consumed to make the enemy retreat from the user for 1 distance. When enemy moves because of this effect, 1 Sealed Acupoint will appear on a random body part of the enemy.
 Reverse - Bloodhound's\nSand
-The amount of Pyrotoxin applied by this skill is greatly increased, but there is a low chance that the user will also get poisoned by Pyrotoxin; Unless the victim is Immune to Pyrotoxin, the Pyrotoxin applied by this technique will ignore half of the victim's poison resistance
+The amount of Pyrotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Pyrotoxin; Unless the victim is Immune to Pyrotoxin, the Pyrotoxin applied by this technique will ignore half of the victim's poison resistance
 Reverse - Shaolin\nLong Fist
 At the beginning of the battle, the user gains 0 levels of this effect: Each time the user receives Internal Injury or a Fatal Wound due to direct damage, this effect increases by 1 level, up to a maximum of 36 levels, with each level increasing the power of this technique
 Reverse - Shaolin\nVajra Palm
