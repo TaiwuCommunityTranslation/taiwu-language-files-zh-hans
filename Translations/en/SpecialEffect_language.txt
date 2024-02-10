@@ -151,7 +151,7 @@ Increases the power limit of "Vajrayana" techniques by 30%
 Internal Fire\nYoga
 The higher the user's "Metal" internal element, the more the user's External and Internal Defense will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Trinity\nof Buddha
-The "Metal" type technique of the user will cause more direct damage and repercussion damage to characters whose dominant internal element is "Wood".
+User's "Metal" techniques will deal more direct damage and backlash damage to characters whose internal element is "Wood"
 Aquarius\nMeditation
 The more types of True Qi the user has that exceed their initial value in combat, the more the power of all the user's techniques will increase, by up to 20% (5% per type of True Qi).
 Vajra-Inherited\nMeditation
