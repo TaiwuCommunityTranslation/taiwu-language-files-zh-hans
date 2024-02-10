@@ -2488,7 +2488,7 @@ Reverse - Breakthrough Swamp
 Prohibit moving gain
 During this Footwork, the enemy's movement speed cannot be increased for any reason
 Reverse - Toad Leap
-When retreating with this Footwork, the user needs to accumulate power to move 1 distance at once. If the user has not attacked before the next accumulation of power, the cumulative amount of Footwork consumed by the user when advancing with this Footwork is reduced.
+When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. If the user hasn't attacked before the next preparation, the amount of Footwork consumed to retreat will be continuously reduced
 Reverse - Flying Head
 During this Footwork, when the distance between the enemy and me is not greater than 7, the user won't receive new Weak Points or Sealed Acupoints
 Reverse - Rope Overhang
