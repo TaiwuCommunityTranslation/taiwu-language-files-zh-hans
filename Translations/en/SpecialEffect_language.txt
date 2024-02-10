@@ -1868,7 +1868,7 @@ Reverse - Full Chapter of Jia-Yi
 Greatly reduces the maximum number of Sealed Acupoints on user's body parts, but if the user has 3 or more Sealed Acupoints, the direct Internal damage dealt by the user will be reduced
 Reverse - Spiritual Pivot
 Reduce Enemy Healing Effect
-Significantly reduces the amount of injuries that can be healed when an enemy performs "Healing" in battle
+Greatly reduces the number of Injuries enemy's "Healing" will remove in battle
 Reversal - Golden Needle Vascularization Technique
 The more injuries the user removes with "Heal" in battle, the stronger the effect of a buff will be, which increases the user's Might, Finesse, Swiftness, and Breath.
 Reverse - Ultra Harmony of Wudang
