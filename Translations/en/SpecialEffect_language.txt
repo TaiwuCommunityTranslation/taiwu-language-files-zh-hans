@@ -3100,7 +3100,7 @@ Reverse - Bone Melting\nGhost Palm
 When you start performing this technique, all available styles of the user will be changed to "Hold" styles. The more styles get changed to "Hold" style, the more power of this technique will be increased; After using, this technique will change from Heterodox to Orthodox version.
 Reverse - Sky Demon Palm
 Ignore Poison Resistance
-The amount of Acritoxin applied by this skill is greatly increased, but there is a low chance that the user will also get poisoned by Acritoxin; Unless the victim is Immune to Acritoxin, the Acritoxin applied by this technique will ignore half of the victim's poison resistance
+The amount of Acritoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Acritoxin; Unless the victim is Immune to Acritoxin, the Acritoxin applied by this technique will ignore half of the victim's poison resistance
 Reverse - Blood Hou's\nEvil Palm
 When attacking enemy with this technique, the deeper the user is poisoned by Pyrotoxin, the more direct damage this skill will deal; When this technique reaches $0$0% completion, the deeper the user is poisoned by Pyrotoxin, the more additional Fatal Wounds and Injuries enemy's random body parts will receive
 Reverse - Poke Eye and\nCut Ear
