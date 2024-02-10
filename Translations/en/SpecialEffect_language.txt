@@ -50,7 +50,7 @@ Increase Healing Effect
 Greatly increases the number of Injuries user's "Healing" will remove in battle
 Meridian\nEnhancement
 Resolve Up
-When the user removes injuries with "Heal" in battle, the user will be given a buff which enhances the user's Diversion, Parry, Evasion, and Focus. The more injuries healed, the stronger the effect.
+Whenever the user removes Injuries using "Healing" in battle, the user will receive a buff that increases user's Diversion, Parry, Evasion, and Focus. The more Injuries get removed, the stronger the buff will be
 Ultra Harmony\nof Wudang
 Increases the power limit of "Wudang Sect" techniques by 30%
 Vitality\nRetaining
