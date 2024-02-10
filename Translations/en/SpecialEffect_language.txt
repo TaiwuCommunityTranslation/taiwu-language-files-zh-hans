@@ -2508,7 +2508,7 @@ During this Footwork, whenever the user hits an enemy with a "Hidden Weapons" we
 Reverse - Sky River Walk
 During this Footwork, for every distance the user accumulates back, the user draws 1 point of "Aegis" true qi from the enemy's body.
 Reverse - Take 5 Cars
-When retreating with this Footwork, the user needs to accumulate power to move 2 distances at once, and then recover the user's Stamina
+When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, user's Stamina will be recovered.
 Reverse - Divine Rope
 During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the user attacks the enemy, the distance between the enemy and me will immediately increase by 4. The increased distance will be restored after the end of the user's attack
 Reverse - Seven-Star Spin
