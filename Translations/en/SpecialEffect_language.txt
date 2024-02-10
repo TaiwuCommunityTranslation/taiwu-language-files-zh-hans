@@ -223,7 +223,7 @@ Converts user's "Fire" element into "Earth" element. The higher the conversion r
 The Great 5 Yin
 The higher the user's "Earth" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Children's\nBlood Sacrifice
-Significantly increase the power of the user's "Earth" skills; During the cast of the "Earth" skill, click to consume a min. of 5 and a max. of 15 points of the user's Break True Qi to increase the cast progress of the "Earth" skill by 50%, up to a maximum of 75%.
+Greatly increases the power of user's "Earth" techniques; While performing any "Earth" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Break" True Qi to increase the cast progress of the "Earth" technique by 50%, up to a maximum of 75%.
 Evil Scripture\nof Blood Hou
 When the user's internal element is "Earth", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by an "Earth", "Water", or "Fire" technique, the Fatal Wound damage taken will be reduced by 80%
 The Great Blood\nChild
