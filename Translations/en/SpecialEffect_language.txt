@@ -1870,7 +1870,7 @@ Reverse - Spiritual Pivot
 Reduce Enemy Healing Effect
 Greatly reduces the number of Injuries enemy's "Healing" will remove in battle
 Reverse - Meridian Enhancement
-The more injuries the user removes with "Heal" in battle, the stronger the effect of a buff will be, which increases the user's Might, Finesse, Swiftness, and Breath.
+Whenever the user removes Injuries using "Healing" in battle, the user will receive a buff that increases user's Might, Finesse, Swiftness, and Breath. The more Injuries get removed, the stronger the buff will be
 Reverse - Ultra Harmony of Wudang
 Reduces the usage requirements of "Wudang Sect" techniques by 20%
 Reverse - Vitality Retaining
