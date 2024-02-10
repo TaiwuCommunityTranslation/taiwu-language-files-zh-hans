@@ -2641,7 +2641,7 @@ When you start performing this technique, if the user likes enemy's gender, the 
 Reverse - Divine Cold\nPalm
 Applying more toxins
 Ignore Cryotoxin Resistance
-The amount of Cryotoxin applied by this skill is greatly increased, but there is a low chance that the user will also get poisoned by Cryotoxin; Unless the enemy is Immune to Cryotoxin, the Cryotoxin applied by this technique will ignore half of the victim's Poison Resistance
+The amount of Cryotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Cryotoxin; Unless the enemy is Immune to Cryotoxin, the Cryotoxin applied by this technique will ignore half of the victim's Poison Resistance
 Reverse - One Mysterious\nHand
 After this technique reaches $0$0% completion, user retreats 2 distance away from the enemy.
 Reverse - Mysterious\nIce Finger
