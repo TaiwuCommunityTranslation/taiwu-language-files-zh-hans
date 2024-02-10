@@ -2100,7 +2100,7 @@ Reverse - Net Clothes
 Poison Dmg Dn
 Reduces the number of Injury markers the user receives when Poisons activate
 Reverse - Herb Moxibustion
-Whenever the user hits an enemy with a Style Change, there is a chance that 1 injury on a random body part of an enemy will worsen
+Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the enemy will worsen
 Reverse - Mixed Needle
 Whenever the user closes an acupuncture point on the enemy's body, he can close 1 additional acupuncture point on another random part of the enemy
 Reverse - Yinyang Reverse
