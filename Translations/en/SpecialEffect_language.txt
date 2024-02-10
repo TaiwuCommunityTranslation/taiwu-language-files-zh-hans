@@ -3039,7 +3039,7 @@ When this technique reaches $0$0% completion, it will absorb 2 points of True Qi
 Reverse - Latency Yin\nFinger
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Internal Injuries inflicted on the enemy will have a higher chance to become Old Injuries that are harder to recover from.
 Reverse - Thunderbolt\n7 Stars Finger
-When this technique reaches $0$0% completion, user drains 3 points of "Break" True Qi from the enemy
+When this technique reaches $0$0% completion, user will drain 3 points of "Break" True Qi from the enemy
 Reverse - Mysterious\nFinger
 When this technique reaches $0$0% completion, the more Cryotoxin markers user has, the more Internal Injuries will be added to random body parts of the enemy.
 Reverse - Source Extinct\nHands
