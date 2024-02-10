@@ -1902,7 +1902,7 @@ Reduces the usage requirements of "Lion-Face Clan" techniques by 20%
 Reverse -  Thirteen Tai Bao cross practice
 When the user continuously attacks the enemy with the same technique in this battle, the damage dealt by the user will be increased each time, up to a maximum of 3 times.
 Reverse -  Iron Tripod Golden Body Technique
-Significantly reduces the maximum number of Weak Points per user's body part, but if the user has at least 3 Weak Points, the direct External Damage dealt by the user will also be reduced.
+Greatly reduces the maximum number of Weak Points on user's body parts, but if the user has 3 or more Weak Points, the direct External damage dealt by the user will be reduced
 Reverse -  Light Lion Power
 Greatly increases "Strength" limit. Might given by "Strength" will be greatly increased based on user's purity.
 Reverse - Develop Ambition
