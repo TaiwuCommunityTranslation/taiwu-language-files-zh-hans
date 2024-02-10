@@ -293,7 +293,7 @@ Mixed Needle
 Remove Additional Sealed Acupoints
 Whenever the user removes a Sealed Acupoint from themselves, 1 additional Sealed Acupoint will be removed from another random body part of the user
 Yinyang Reverse
-Gain to Gain
+Debuff to Buff
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, it will change 1 of the user's debuffs into a buff to the same values.
 Shifting of 12 Meridians
 Closed points become unblocked points
