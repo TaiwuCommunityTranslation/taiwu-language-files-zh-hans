@@ -285,7 +285,7 @@ Improve Style Change Accuracy
 Increases Might, Finesse, Swiftness, and Breath of the user's "Style Change"
 Net Clothes
 Poison Recieved Dn
-Reduces the amount of poisons inflicted by the enemy to the user in combat
+Reduces the amount of Poison the enemy inflicts on the user in battle
 Herb Moxibustion
 Full Heal
 Whenever the user hits an enemy with a Style Change, there is a certain chance that the user's injury on 1 random body part will be reduced by 2
