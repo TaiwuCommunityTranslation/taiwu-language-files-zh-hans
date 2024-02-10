@@ -1856,7 +1856,7 @@ Converts user's "Metal" element into "Wood" element. The higher the conversion r
 Reversal-Pu Yin Xin Jing
 The higher the user's "Wood" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Sitting-in-Oblivion
-Greatly reduces the Inhale and Stance cost of the user's "Wood" techniques; While performing any "Wood" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to significantly increase the power of the performed "Wood" technique.
+Greatly reduces the Inhale and Stance cost of the user's "Wood" techniques; While performing any "Wood" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to greatly increase the power of the performed "Wood" technique.
 Reversal of the Great Nirvana Law
 The lower the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a negative trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
 Reverse -  Copper acupuncture point chart
