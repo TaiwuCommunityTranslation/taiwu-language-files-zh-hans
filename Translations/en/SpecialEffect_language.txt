@@ -2436,7 +2436,7 @@ During this Footwork, for every 6 successful hits on the enemy they will receive
 Reverse - Afterglow Catching
 During this Footwork, the enemy's casting speed is significantly reduced
 Reverse - Rushes To The Moon
-During this Footwork, the user has to accumulate power to jump 2 distance; Whenever the user jumps, they will gain 3 points of "Quick" True Qi.
+When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 3 points of "Quick" True Qi
 Reverse - Learae's Snowsteps
 During this Footwork, whenever an enemy attacks the user, a separate Breath check will happen, and if the enemy fails to Resolve it, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles. This Breath check becomes progressively less accurate each time it activates within the duration of this technique.
 Reverse - Lady Azure's Icesteps
