@@ -2369,7 +2369,7 @@ Reverse - Needle Driving
 When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 1 Style Change charge
 Reverse - Snow Step
 Reduce Sealed Acupoint Level
-During this Footwork, it reduces the level of the enemy's blocked points on the user.
+During this Footwork, the level of Sealed Acupoints inflicted by the enemy will be reduced
 Reverse - Wick of Lamp
 During this Footwork, whenever an enemy attacks the user, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the enemy's body will be worsened by 1. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
 Reverse - Jade Step
