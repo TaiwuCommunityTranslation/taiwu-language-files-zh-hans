@@ -120,7 +120,7 @@ Converts user's "Wood" element into "Water" element. The higher the conversion r
 Nimbus Shower
 Greatly increases the power of user's "Water" techniques; While performing any "Water" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Water" technique by 50%, up to a maximum of 75%.
 Supreme\nGoddess Cultivation
-Increases Quick of Spirit
+Increase Quick True Qi
 At the start of the battle, the user's "Quick" True Qi will be increased significantly (by 60); The amount of "Quick" True Qi gained by the user during the battle will be increased greatly; The amount of "Quick" True Qi lost by the user during the battle will be reduced greatly
 Moon Jade
 Greatly increases the upper limit of all major attributes of the user (by 20). Direct Internal Fatal Wound damage taken by user will be reduced by 50%; If the user is a virgin female, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
