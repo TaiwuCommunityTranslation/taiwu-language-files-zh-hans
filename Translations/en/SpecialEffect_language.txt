@@ -2376,7 +2376,7 @@ Reverse - Jade Step
 When retreating with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Reverse - Flower Listen Rain
 Increase Focus Debuffs
-During this Footwork: the enemy's Focus will not be raised by any effect; all the effects of techniques and buffs that lower Focus the enemy receives are greatly increased
+During this Footwork: Enemy's Focus will not be increased by any effect; The effect of all Focus-reducing technique effects and buffs received by the enemy will be greatly increased
 Reverse - 5 Steps of Plum Poling
 During this Footwork, if the Accuracy stat of the enemy used to attack the user is lower than the user's Resolve stat, the enemy's chance of hitting the user is greatly reduced.
 Reverse - 8 Trigrams Step
