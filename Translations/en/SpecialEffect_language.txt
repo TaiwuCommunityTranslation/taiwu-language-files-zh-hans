@@ -3328,7 +3328,7 @@ Reverse - Flowers Sigh
 When this technique reaches $0$0% completion, it removes 1 strongest buff from the enemy. Depending on the strength of the removed buff. it also removes a large amount of Daze markers from the user.
 Reverse - Burydeer Orchid
 Elimination of Daze markers
-When you start performing this technique, the more Daze markers user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will remove 2 Daze markers from the user.
+When you start performing this technique, the more Daze markers the user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will remove 2 Daze markers from the user.
 Reverse - The World\nAmused
 When this technique reaches $0$0% completion, it will randomly greatly reduce the power of 1 "Break", 1 "Quick", 1 "Aegis" and 1 "Nadis" techniques of the enemy that haven't been weakened by this technique yet, lasting until the end of the battle.
 Reverse - Wudang\nLong Fist
