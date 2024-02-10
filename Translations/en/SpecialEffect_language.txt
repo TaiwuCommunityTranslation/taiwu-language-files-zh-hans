@@ -159,7 +159,7 @@ The higher the user's "Metal" internal element, the more the user's Diversion, P
 The Great Sun\nScripture
 Converts user's "Earth" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Earth" element is at 0%, user will not receive critical hits from "Earth" or "Metal" techniques
 The Great Vajra\nScripture
-Significantly increases the power of user's "Metal" techniques; While performing any "Metal" technique, you can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to increase the cast progress of the "Metal" technique by 50%, up to a maximum of 75%.
+Greatly increases the power of user's "Metal" techniques; While performing any "Metal" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to increase the cast progress of the "Metal" technique by 50%, up to a maximum of 75%.
 Mahakala\nGuardian's Cultivation
 Avoiding Weak Points
 If the total number of user's defeat markers exceeds half of the defeat condition, the amount of True Qi gained by the user will be greatly increased, and the user won't receive Weak Points.
