@@ -110,7 +110,7 @@ Increases the power limit of "Xuannyu Sect" techniques by 30%
 Jade Bone\nCultivation
 The higher the user's "Water" internal element, the more the user's External and Internal Defense will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Moon Drive\nCultivation
-The user's "Water" type of technique will cause more direct damage and backlash damage to characters with "Fire" dominant internal element
+User's "Water" techniques will deal more direct damage and backlash damage to characters whose internal element is "Fire"
 Jade Mirror\nof Yin
 Greatly increases "Vitality" limit. Internal Defense given by "Vitality" will be greatly increased based on user's purity.
 Xihua\nScripture
