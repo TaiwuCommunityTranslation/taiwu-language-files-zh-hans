@@ -1862,7 +1862,7 @@ The lower the "Fame" of all the previous lives of the user, the more the power o
 Reverse -  Copper acupuncture point chart
 Reduces the usage requirements of "Hundred Flowers Valley" techniques by 20%
 Reverse - Nine Needles and Twelve Source Points
-Reduced enemy healing speed
+Reduce Enemy Healing Speed
 Significantly reduce the speed of enemy "healing" in battle
 Reversal - A and B full article
 Significantly reduces the maximum number of Sealed Acupoints per user's body part, but if the user has at least 3 Sealed Acupoints, the direct Internal Damage dealt by the user will also be reduced.
