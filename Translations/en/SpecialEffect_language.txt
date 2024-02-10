@@ -1968,7 +1968,7 @@ Reduces the usage requirements of "Vajrayana" techniques by 20%
 Reverse -  Toom technique
 The higher the user's "Metal" internal element, the more the user's External and Internal Penetration will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Three Secret Response Method
-The user's "Metal" type techniques will cause more direct damage and repercussion damage to characters with "Fire" dominant internal element.
+User's "Metal" techniques will deal more direct damage and backlash damage to characters whose internal element is "Fire"
 Reverse -  Baobao Qi Gong Method
 The more true qi types an enemy has below its true qi limit, the more the power of all the techniques of the applicator increases
 Reverse -  Vajra Dzogchen
