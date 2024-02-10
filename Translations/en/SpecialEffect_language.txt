@@ -1939,7 +1939,7 @@ Greatly reduces the Inhale and Stance cost of the user's "Water" techniques; Whi
 Reverse - Supreme Goddess Cultivation
 Reduce Enemy Quick True Qi
 At the start of the battle, the enemy's and their teammates' "Quick" True Qi will be reduced significantly; The amount of "Quick" True Qi gained by the enemy during the battle will be reduced greatly; The amount of "Quick" True Qi lost by the enemy during the battle will be increased greatly
-Reverse -  Taiyin Yiming Jue
+Reverse - Moon Jade
 At the start of the battle, all user's True Qi will become 2 times their initial value. All Fatal Wound damage except for Internal taken by the user will be doubled; If the user is a virgin female, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Reverse -  Burnt stone hammer forging
 Reduces the usage requirements of "Sword Manor" techniques by 20%
