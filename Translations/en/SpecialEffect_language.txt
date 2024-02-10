@@ -2108,7 +2108,7 @@ Buff to Debuff
 When defending with this technique, whenever the user successfully Counters an attack, 1 buff on the enemy will change into a debuff
 Reverse - Shifting of 12 Meridians
 Transfer Your Own Sealed Acupoints
-When this technique is used for defense, the enemy will close the enemy's own acupuncture points when the enemy seals them.
+When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead be inflicted on the enemy
 Reverse - 8 Doors of Live Or Dead
 Whenever an enemy receives a direct injury from the user, the injuries on 1 different body part of the enemy with fewer injuries will worsen
 Reverse - Ice Condensate of Blood
