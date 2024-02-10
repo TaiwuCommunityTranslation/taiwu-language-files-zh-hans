@@ -299,7 +299,7 @@ Shifting of 12 Meridians
 Remove Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead remove a Sealed Acupoint on the user
 8 Doors of Live Or Dead
-Whenever the user receives an injury from the enemy, the injuries of the user on 1 other random body part with fewer injuries will be reduced by 2
+Whenever the user receives an Injury marker from the enemy, the Injury markers on 1 other random body part of the user with fewer Injury markers will be reduced by 2
 Ice Condensate of Blood
 Toxins received by countershock
 Change your own toxins
