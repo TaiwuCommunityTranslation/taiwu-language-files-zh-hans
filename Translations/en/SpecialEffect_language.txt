@@ -2336,7 +2336,7 @@ Reverse - Gecko's Crawling
 Reducing the power of enemy Aegis
 During this Footwork, the power of the enemy's "Aegis" technique is reduced and lasts until the end of the "Aegis" technique.
 Reverse - Lighten Body
-When retreating with this Footwork, the user needs to accumulate power to move 1 distance at a time, and then apply a buff to the user to increase the speed of recovery of Stamina
+When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After jumping, the user will receive a buff that increases Stamina recovery speed
 Reverse - The Great Flip
 During this Footwork, whenever the user hits an enemy with a "Polearm" weapon, enemy's Stamina will be depleted.
 Reverse - 9 Maps And 6 Statues
