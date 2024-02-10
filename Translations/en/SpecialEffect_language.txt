@@ -3306,7 +3306,7 @@ When the cast progress of this technique reaches 100%, the user will perform 1 "
 Reverse - Vitality\nLosing Pinprick
 When this technique reaches $0$0% completion, user will drain 3 points of "Nadis" True Qi from the enemy
 Reverse - Deadly Pinprick
-All internal injuries caused by this technique are not direct internal injuries, but will change to worsen the existing internal injuries of the enemy
+This technique's damage will not cause direct Internal Injuries, but will instead make already existing Internal Injury markers on the enemy worsen
 Reverse - 9-Needle Strike
 This technique increases the amount of Oneirotoxin applied to the enemy significantly, but there is a low chance that the user will be partially poisoned with Oneirotoxin at the same time.
 Reverse - Meridian\nBreaking Pinprick
