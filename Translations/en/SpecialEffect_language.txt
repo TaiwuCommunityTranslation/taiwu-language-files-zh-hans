@@ -287,7 +287,7 @@ Net Clothes
 Poison Recieved Dn
 Reduces the amount of Poison the enemy inflicts on the user in battle
 Herb Moxibustion
-Full Heal
+Heal Your Own Injuries
 Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the user will be reduced by 2
 Mixed Needle
 Additional elimination of sealed points
