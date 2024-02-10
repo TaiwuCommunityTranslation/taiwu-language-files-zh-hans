@@ -627,7 +627,7 @@ During this Footwork: User's Int. Ratio Bonus is greatly increased; The more eve
 Ladder Climbing
 During this Footwork, whenever the user advances 0.5 distance, the power of all of the user's "Break" techniques will increase, up to a maximum of 6 times. If the user retreats, all the accumulated power will disappear.
 Cloud Gliding
-When advancing with this Footwork, the user needs to prepare to jump 3 distances at once. After doing so, the user will gain 5 points of a random True Qi, and if that True Qi is still lower than its initial value, user will gain another 15 points of that True Qi.
+When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, the user will gain 5 points of a random True Qi, and if that True Qi is still lower than its initial value, user will gain another 15 points of that True Qi.
 Stone Poling
 Improving Might of Kick
 The Might of the Kick performed by the user with this Footwork is greatly increased
