@@ -1930,7 +1930,7 @@ Reverse - Moon Drive Cultivation
 User's "Water" techniques will deal more direct damage and backlash damage to characters whose internal element is "Earth"
 Reverse - Jade Mirror of Yin
 Greatly increases "Vitality" limit. Internal Penetration given by "Vitality" will be greatly increased based on user's purity.
-Reverse -  Sihwajin Sutra
+Reverse - Xihua Scripture
 The higher the user's "Water" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Empress Goddess
 Converts user's "Fire" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Water" techniques
