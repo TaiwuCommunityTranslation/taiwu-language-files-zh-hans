@@ -288,7 +288,7 @@ Poison Recieved Dn
 Reduces the amount of Poison the enemy inflicts on the user in battle
 Herb Moxibustion
 Full Heal
-Whenever the user hits an enemy with a Style Change, there is a certain chance that the user's injury on 1 random body part will be reduced by 2
+Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the user will be reduced by 2
 Mixed Needle
 Additional elimination of sealed points
 Whenever the user unlocks his or her own closed acupuncture point, he or she can unlock an additional 1 acupuncture point on a random part of the user.
