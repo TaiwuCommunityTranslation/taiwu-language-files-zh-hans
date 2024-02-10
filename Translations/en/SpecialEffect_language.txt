@@ -2102,7 +2102,7 @@ Reduces the number of Injury markers the user receives when Poisons activate
 Reverse - Herb Moxibustion
 Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the enemy will worsen
 Reverse - Mixed Needle
-Whenever the user closes an acupuncture point on the enemy's body, he can close 1 additional acupuncture point on another random part of the enemy
+Whenever the user inflicts a Sealed Acupoint to the enemy, 1 additional Sealed Acupoint will be created on another random body part of the enemy
 Reverse - Yinyang Reverse
 Gain to Gain
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, 1 enemy buff is changed to a debuff
