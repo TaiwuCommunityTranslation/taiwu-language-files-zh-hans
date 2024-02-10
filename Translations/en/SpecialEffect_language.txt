@@ -3308,7 +3308,7 @@ When this technique reaches $0$0% completion, user will drain 3 points of "Nadis
 Reverse - Deadly Pinprick
 This technique's damage will not cause direct Internal Injuries, but will instead make already existing Internal Injury markers on the enemy worsen
 Reverse - 9-Needle Strike
-This technique increases the amount of Oneirotoxin applied to the enemy significantly, but there is a low chance that the user will be partially poisoned with Oneirotoxin at the same time.
+The amount of Oneirotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Oneirotoxin
 Reverse - Meridian\nBreaking Pinprick
 When attacking enemy with this technique, the deeper the user is poisoned with Umbritoxin, the more direct damage this technique will cause; Direct damage caused by this technique to the body parts that are already injured will not be reduced for any reason
 Reverse - 12-String\nNeedles
