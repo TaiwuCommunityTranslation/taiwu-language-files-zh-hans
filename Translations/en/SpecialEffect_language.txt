@@ -565,7 +565,7 @@ Increase Aegis power
 During this Footwork, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
 Lighten Body
 Improve Stamina recovery
-When advancing with this Footwork, the user needs to prepare to jump 1 distance at once, and then apply a buff to the user which increases the speed of Stamina recovery
+When advancing with this Footwork, the user needs to prepare to jump 1 distance at once. After jumping, the user will receive a buff that increases Stamina recovery speed
 The Great Flip
 During this Footwork, whenever the user hits an enemy with a "Polearm" weapon, user's Stamina will be restored.
 9 Maps And 6 Statues
