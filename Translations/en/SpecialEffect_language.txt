@@ -2110,7 +2110,7 @@ Reverse - Shifting of 12 Meridians
 Shift Your Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead be inflicted on the enemy
 Reverse - 8 Doors of Live Or Dead
-Whenever an enemy receives a direct injury from the user, the injuries on 1 different body part of the enemy with fewer injuries will worsen
+Whenever the enemy receives an Injury marker from the user, the Injury markers on 1 other random body part of the enemy with fewer Injury markers will worsen
 Reverse - Ice Condensate of Blood
 When defending with this technique: the user's Umbritoxin, Cryotoxin and Oneirotoxin will not trigger; the user can reflect Umbritoxin, Cryotoxin and Oneirotoxin; at the end of defending with this technique, the more Umbritoxin, Cryotoxin and Oneirotoxin the user has received, the stronger the effect of a buff which increases Internal Defense for the user, and then all the Umbritoxin, Cryotoxin and Oneirotoxin the user has received in the process will be dispelled.
 Reverse - Perfect Unbreakable
