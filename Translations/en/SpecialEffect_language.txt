@@ -2464,7 +2464,7 @@ Reverse -  Tenkai Flow Meteor Style
 Enhancement of Diversion reduction
 During this Footwork: the enemy's Diversion will not be increased by any effect; all techniques and debuffs that reduce the enemy's Diversion will be greatly increased
 Reverse - Flying On The Grass
-When retreating with this Footwork, the user will prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
+When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
 Reverse - Cliff Hanging Pot
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, enemy's Stamina will be depleted.
 Reverse - Shatang's Watersteps
