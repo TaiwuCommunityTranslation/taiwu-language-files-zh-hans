@@ -2104,7 +2104,7 @@ Whenever the user hits an enemy with a Style Change, there's a chance that Injur
 Reverse - Mixed Needle
 Whenever the user inflicts a Sealed Acupoint to the enemy, 1 additional Sealed Acupoint will be created on another random body part of the enemy
 Reverse - Yinyang Reverse
-Gain to Gain
+Buff to Debuff
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, 1 enemy buff is changed to a debuff
 Reverse - Shifting of 12 Meridians
 Transferring your sealed points
