@@ -600,7 +600,7 @@ During this Footwork, whenever the user hits an enemy with a "Flute" weapon, use
 Flying Needle
 During this Footwork, whenever the user hits an enemy with a "Needle Box" weapon, user's Stamina will be restored.
 Needle Driving
-Get the opportunity to change moves
+Gain Style Change Charge
 When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
 Snow Step
 Increase the level of sealing points
