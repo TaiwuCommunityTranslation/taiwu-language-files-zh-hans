@@ -47,7 +47,7 @@ Full Chapter of\nJia-Yi
 Reduces the maximum number of Sealed Acupoints on user's body parts
 Spiritual Pivot
 Increase Healing Effect
-Significantly increases the number of injuries that can be removed when the user performs "Healing" in battle
+Greatly increases the number of Injuries user's "Healing" will remove in battle
 Meridian\nEnhancement
 Resolve Up
 When the user removes injuries with "Heal" in battle, the user will be given a buff which enhances the user's Diversion, Parry, Evasion, and Focus. The more injuries healed, the stronger the effect.
