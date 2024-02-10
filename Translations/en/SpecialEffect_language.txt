@@ -2112,7 +2112,7 @@ When defending with this technique, whenever the enemy inflicts a Sealed Acupoin
 Reverse - 8 Doors of Live Or Dead
 Whenever the enemy receives an Injury marker from the user, the Injury markers on 1 other random body part of the enemy with fewer Injury markers will worsen
 Reverse - Ice Condensate of Blood
-When defending with this technique: the user's Umbritoxin, Cryotoxin and Oneirotoxin will not trigger; the user can reflect Umbritoxin, Cryotoxin and Oneirotoxin; at the end of defending with this technique, the more Umbritoxin, Cryotoxin and Oneirotoxin the user has received, the stronger the effect of a buff which increases Internal Defense for the user, and then all the Umbritoxin, Cryotoxin and Oneirotoxin the user has received in the process will be dispelled.
+When defending with this technique: Umbritoxin, Cryotoxin and Oneirotoxin on the user won't activate; User can Reflect Umbritoxin, Cryotoxin and Oneirotoxin; At the end of defending with this technique, based on how much Umbritoxin, Cryotoxin and Oneirotoxin the user received during this technique, the user will receive a buff that increases Internal Defense, and remove all the Umbritoxin, Cryotoxin and Oneirotoxin received during this technique
 Reverse - Perfect Unbreakable
 When defending with this technique, if the number of direct injuries caused by the enemy to the user is not higher than the current number of injuries on the user's attacked body part, the damage is ignored
 Reverse - Wudang Iron Clothes
