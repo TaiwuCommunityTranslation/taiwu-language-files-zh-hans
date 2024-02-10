@@ -2860,7 +2860,7 @@ After this technique reaches $0$0% completion: randomly select 1 "Break" techniq
 Reverse - Poison Palm\nof Red Toad
 When this technique reaches $0$0% completion, the more Pyrotoxin markers the user has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
 Reverse - 4 Colors Palm
-The amount of Necrotoxin this technique applies to the enemy is greatly increased, but there is a low chance that the user will also receive a part of this Necrotoxin; When this technique reaches $0$0% completion, up to 3 techniques of the enemy that have External Ratio of 60% or higher will be Sealed for a long period of time.
+The amount of Necrotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Necrotoxin; When this technique reaches $0$0% completion, up to 3 techniques of the enemy that have External Ratio of 60% or higher will be Sealed for a long period of time.
 Reverse - Soul Peeling\nHands
 When attacking enemy with this technique, the deeper the enemy is poisoned by Oneirotoxin, the more direct damage this technique will inflict; When this technique reaches $0$0% completion, the deeper the enemy is poisoned by Oneirotoxin, the higher the chance that the enemy will produce a Secret that they've been "Kidnapped", "Poisoned", "Assassinated" or "Humiliated" by random people on both sides of the battle.
 Reverse - Snake Insanity\nHands
