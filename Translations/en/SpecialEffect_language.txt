@@ -1865,7 +1865,7 @@ Reverse - Nine Needles and Twelve Source Points
 Reduce Enemy Healing Speed
 Greatly reduce enemy's "Healing" speed in battle
 Reverse - Full Chapter of Jia-Yi
-Significantly reduces the maximum number of Sealed Acupoints per user's body part, but if the user has at least 3 Sealed Acupoints, the direct Internal Damage dealt by the user will also be reduced.
+Greatly reduces the maximum number of Sealed Acupoints on user's body parts, but if the user has 3 or more Sealed Acupoints, the direct Internal damage dealt by the user will be reduced
 Reverse -  Inner Classic Ling Shu Chapter
 Reduced enemy healing effect
 Significantly reduces the amount of injuries that can be healed when an enemy performs "Healing" in battle
