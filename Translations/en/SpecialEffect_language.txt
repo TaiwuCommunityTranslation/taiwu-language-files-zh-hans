@@ -1704,7 +1704,7 @@ When you start performing this technique, all of your True Qi that is below the 
 Flowers Sigh
 When this technique reaches $0$0% completion, it removes 1 strongest debuff from the user. Depending on the strength of the removed debuff. it also removes a large amount of "None" styles from the user.
 Burydeer Orchid
-When you start performing this technique, the more "None" styles user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will remove 2 "None" styles from the user.
+When you start performing this technique, the more "None" styles the user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will remove 2 "None" styles from the user.
 The World\nAmused
 When this technique reaches $0$0% completion, it will randomly greatly increase the power of 1 "Break", 1 "Quick", 1 "Aegis" and 1 "Nadis" techniques that haven't been enhanced by this technique yet, lasting until the end of the battle.
 Wudang\nLong Fist
