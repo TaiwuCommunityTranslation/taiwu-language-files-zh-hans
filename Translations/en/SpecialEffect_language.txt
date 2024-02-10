@@ -608,7 +608,7 @@ During this Footwork, the level of the blocked points caused by the user to the 
 Wick of Lamp
 During this Footwork, whenever the user attacks an enemy, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the user's body will be reduced by 2. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
 Jade Step
-When advancing with this Footwork, the user needs to accumulate power to move 3 distances at once, and then a random injury on the user's body will be reduced by 2
+When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Flower Listen Rain
 Enhancement of Breath gain
 During this Footwork: the user's Breath will not be reduced by any effect; the user will receive a significant increase in the effects of all techniques and buffs that increase Breath
