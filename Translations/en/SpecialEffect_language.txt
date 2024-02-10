@@ -604,7 +604,7 @@ Gain Style Change Charge
 When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 1 Style Change charge
 Snow Step
 Increase Sealed Acupoint Level
-During this Footwork, the level of the blocked points caused by the user to the enemy is increased.
+During this Footwork, the level of Sealed Acupoints inflicted by the user will be increased
 Wick of Lamp
 During this Footwork, whenever the user attacks an enemy, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the user's body will be reduced by 2. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
 Jade Step
