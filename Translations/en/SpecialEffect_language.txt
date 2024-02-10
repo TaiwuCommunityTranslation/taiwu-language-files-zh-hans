@@ -2772,7 +2772,7 @@ After this technique reaches $0$0% completion, user gains 9 layers of this effec
 Reverse - Black Water\nPoison
 When this technique reaches $0$0% completion, the more Acritoxin markers the user has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
 Reverse - Nippy Fragrant\nof Hundreds Evil
-The amount of Umbritoxin applied by this skill is greatly increased, but there is a low chance that the user will also get poisoned by Umbritoxin; Unless the enemy is Immune to Umbritoxin, the Umbritoxin applied by this technique will ignore half of the victim's Poison Resistance
+The amount of Umbritoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Umbritoxin; Unless the enemy is Immune to Umbritoxin, the Umbritoxin applied by this technique will ignore half of the victim's Poison Resistance
 Reverse - Flood Dragon's\nBlood
 Reduce Armor Durability
 When attacking enemy with this technique, the deeper the user is poisoned with Necrotoxin, the more direct damage this technique will deal; If the attacked body part doesn't have Armor or if its Armor's durability is completely depleted, the direct damage dealt by this technique will not be reduced for any reason; After this technique reaches $0$0% completion, the deeper the user is poisoned with Necrotoxin, the more all of the enemy's Armor will be damaged.
