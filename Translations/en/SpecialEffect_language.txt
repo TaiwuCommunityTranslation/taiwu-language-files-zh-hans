@@ -290,7 +290,7 @@ Herb Moxibustion
 Heal Your Own Injuries
 Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the user will be reduced by 2
 Mixed Needle
-Additional elimination of sealed points
+Remove Additional Sealed Acupoints
 Whenever the user removes a Sealed Acupoint from themselves, 1 additional Sealed Acupoint will be removed from another random body part of the user
 Yinyang Reverse
 Gain to Gain
