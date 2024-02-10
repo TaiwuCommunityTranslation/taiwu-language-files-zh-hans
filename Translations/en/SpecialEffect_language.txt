@@ -118,7 +118,7 @@ The higher the user's "Water" internal element, the more the user's Diversion, P
 Holy Princess
 Converts user's "Wood" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Wood" element is at 0%, user will not receive critical hits from "Wood" or "Water" techniques
 Nimbus Shower
-Significantly increase the power of the user's "Water" skills; During the cast of the "Water" skill, click to consume a min. of 5 and a max. of 15 points of the user's Quick True Qi to increase the cast progress of the "Water" skill by 50%, up to a maximum of 75%.
+Greatly increases the power of user's "Water" techniques; While performing any "Water" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Water" technique by 50%, up to a maximum of 75%.
 Supreme\nGoddess Cultivation
 Increases Quick of Spirit
 At the start of the battle, the user's "Quick" True Qi will be increased significantly (by 60); The amount of "Quick" True Qi gained by the user during the battle will be increased greatly; The amount of "Quick" True Qi lost by the user during the battle will be reduced greatly
