@@ -1684,7 +1684,7 @@ When the cast progress of this technique reaches 100%, the user will perform 1 "
 Vitality\nLosing Pinprick
 When this technique reaches $0$0% completion, enemy will lose 6 points of "Nadis" True Qi.
 Deadly Pinprick
-All external injuries caused by this technique are not direct external injuries, but will change to worsen the existing external injuries to the enemy
+This technique's damage will not cause direct External Injuries, but will instead make already existing External Injury markers on the enemy worsen
 9-Needle Strike
 The Oneirotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
 Meridian\nBreaking Pinprick
