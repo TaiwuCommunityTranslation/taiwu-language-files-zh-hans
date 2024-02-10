@@ -2098,7 +2098,7 @@ Reduce Enemy's Style Change Accuracy
 Reduces Might, Finesse, Swiftness, and Breath of the enemy's "Style Change"
 Reverse - Net Clothes
 Poison Dmg Dn
-Reduces the number of injuries received by the user when poisoned
+Reduces the number of Injury markers the user receives when Poisons activate
 Reverse - Herb Moxibustion
 Whenever the user hits an enemy with a Style Change, there is a chance that 1 injury on a random body part of an enemy will worsen
 Reverse - Mixed Needle
