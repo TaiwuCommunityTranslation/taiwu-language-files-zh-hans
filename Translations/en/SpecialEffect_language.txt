@@ -601,7 +601,7 @@ Flying Needle
 During this Footwork, whenever the user hits an enemy with a "Needle Box" weapon, user's Stamina will be restored.
 Needle Driving
 Gain Style Change Charge
-When advancing with this Footwork, the user needs to accumulate power to move 2 distances at once, and then the user gets 1 chance to Style Change
+When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 1 Style Change charge
 Snow Step
 Increase the level of sealing points
 During this Footwork, the level of the blocked points caused by the user to the enemy is increased.
