@@ -291,7 +291,7 @@ Heal Your Own Injuries
 Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the user will be reduced by 2
 Mixed Needle
 Additional elimination of sealed points
-Whenever the user unlocks his or her own closed acupuncture point, he or she can unlock an additional 1 acupuncture point on a random part of the user.
+Whenever the user removes a Sealed Acupoint from themselves, 1 additional Sealed Acupoint will be removed from another random body part of the user
 Yinyang Reverse
 Gain to Gain
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, it will change 1 of the user's debuffs into a buff to the same values.
