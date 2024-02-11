@@ -908,7 +908,7 @@ Cold Yin Palm
 Injuries inflicted by this technique on the enemy's Waist will change to older injuries that are more difficult to recover from
 9 Moves of\n9 Heavens
 Reduction of external reflect
-After this technique reaches $0$0% completion, user gains 9 layers of this effect: if a "Break" technique performed by the user fails to reach $0$0% completion, user will receive significantly less External Reflect, and receive a portion of Stance consumed after performing that technique.
+After this technique reaches $0$0% completion, user gains 9 layers of this effect: If a "Break" technique performed by the user fails to reach $0$0% completion, user will receive significantly less External Reflect, and receive a portion of Stance consumed after performing that technique.
 Jade Tripot Fist
 Upgrading toxin levels
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: Cryotoxin applied by the user's "Break" techniques on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". User's "Break" techniques the have Cryotoxin on them will also have a greatly increased Cast Speed.
@@ -2631,7 +2631,7 @@ Reverse - Cold Yin Palm
 When hitting enemy's Waist, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, it worsens Internal Injuries on random body parts of the enemy.
 Reverse - 9 Moves of\n9 Heavens
 Reduces internal reflect
-After this technique reaches $0$0% completion, user gains 9 layers of this effect: if a "Break" technique performed by the user fails to reach $0$0% completion, user will receive significantly less Internal Reflect, and receive a portion of Inhale consumed after performing that technique.
+After this technique reaches $0$0% completion, user gains 9 layers of this effect: If a "Break" technique performed by the user fails to reach $0$0% completion, user will receive significantly less Internal Reflect, and receive a portion of Inhale consumed after performing that technique.
 Reverse - Jade Tripot Fist
 Toxin level reduction
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: Cryotoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". Enemy's "Break" techniques that have Cryotoxin on them will have a greatly reduced Cast Speed.
