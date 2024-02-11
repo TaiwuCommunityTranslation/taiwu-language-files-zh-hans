@@ -674,7 +674,7 @@ Skyscraper Climbing
 Increase Your Accuracies
 During this Footwork, whenever the user attacks the enemy, user's Accuracy stats other than Breath will be increased by a portion of the user's Breath
 Farewell Steps
-During this Footwork, for every 3 successful hits on the enemy they will receive 1 "None" style.
+During this Footwork, every time the user hits an enemy 3 times, the enemy will receive 1 "None" style
 Afterglow Catching
 During this Footwork, the speed of the user's performance is greatly increased.
 Rushes To The Moon
