@@ -2430,7 +2430,7 @@ Reverse - Fallen Flower
 During this Footwork, whenever the user hits an enemy with a "Zither" weapon, enemy's Stamina will be depleted.
 Reverse - Skyscraper Climbing
 Increase Your Resolves
-When the enemy attacks the user during this Footwork, the user's defenses, except for Focus, will receive an additional portion of the user's Focus.
+During this Footwork, whenever the enemy attacks the user, user's Resolve stats other than Focus will be increased by a portion of the user's Focus
 Reverse - Farewell Steps
 During this Footwork, for every 6 successful hits on the enemy they will receive 1 Daze marker.
 Reverse - Afterglow Catching
