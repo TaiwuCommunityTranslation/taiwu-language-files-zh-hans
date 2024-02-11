@@ -692,7 +692,7 @@ Adding a Daze marker
 During this Footwork, whenever the user advances 2 distance: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, enemy receives up to 3 Daze Markers based on the user's Charm.
 Feather Stance
 Cause Weak Point and Sealed Acupoint
-When advancing with this Footwork, the user needs to prepare to jump 1 distance at once, up to 4 distance at once. If the user prepares to jump inside of the enemy's attack range, the farther the user advances, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
+When advancing with this Footwork, the user needs to prepare to jump, up to 4 distance at once. If the user prepares to jump inside of the enemy's attack range, the farther the user advances, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Wooden Track
 Reduced movement loss
 During this Footwork, it reduces the loss of Footwork and Stamina caused by the enemy to the user.
