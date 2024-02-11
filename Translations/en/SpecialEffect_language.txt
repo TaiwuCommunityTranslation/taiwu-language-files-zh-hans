@@ -398,7 +398,7 @@ Mirror Flower Water Moon
 Directly defuse the attack
 When defending with this technique, the more "None" styles the enemy has, the higher the chance that the user will directly Resolve enemy attacks
 Stance of Nuwa's Sky-Mending
-When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, the user will not be defeated; if the total number of defeat marks of the user reaches the defeat condition at the end of the defense with this technique, the user's external injury will return to the number at the beginning of the defense with this technique
+When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, the user will not be defeated; If at the end of this technique the total number of defeat markers sustained by the user reaches the defeat condition, user's External Injury markers will return to the number the user had at the start of this technique
 Skillful Hands
 When the user is equipped with 3 different types of weapons, the user's casting speed increases
 Wooden Armor
