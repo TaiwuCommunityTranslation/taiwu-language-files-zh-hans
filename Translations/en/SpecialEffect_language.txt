@@ -685,7 +685,7 @@ During this Footwork, whenever the user attacks an enemy, a separate Breath chec
 Lady Azure's Icesteps
 Enhanced Swiftness Gain
 Auto Cast Break
-During this Footwork, User's Swiftness will not be reduced by any effect; All buffs that increase Swiftness will be greatly improved; Any Break technique that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be automatically cast again for free after using.
+During this Footwork, user's Swiftness will not be reduced by any effect; Effect of all buffs on the user that increase Swiftness will be greatly improved; Any "Break" technique of the user that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be automatically cast again without any consumption
 Luoshen's Riversteps
 Restore your momentum
 Adding a Daze marker
