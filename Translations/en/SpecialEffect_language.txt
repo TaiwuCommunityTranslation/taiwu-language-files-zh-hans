@@ -2622,7 +2622,7 @@ Reverse - Love Poem
 When you start performing this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
 Reverse - Celestial Music\nof Goddess
 When you start attacking enemy with this technique, if the enemy has 6 or more Daze markers, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's Daze markers, and add them back to the enemy as Fatal Wound markers.
-Reverse - Pure Lady's\nHidden Hand
+Reverse - Pure Lady's Hidden Hand
 Ban style gain
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Hold" styles
 Reverse - Jade Hand
