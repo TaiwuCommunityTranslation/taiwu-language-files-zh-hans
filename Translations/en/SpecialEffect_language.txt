@@ -932,7 +932,7 @@ When this technique reaches $0$0% completion, it has a chance to remove 1 piece 
 Poisonous Snake\nHidden Move
 At the start of the battle, the user gains 0 layers of this effect: Whenever the user gains 1 point of "Quick" True Qi, this effect increases by 1 layer, and when this effect reaches up to 9 layers, the power of this technique will increase greatly, and it will be performed from 50% of its progress, after which this effect will revert to 0 layers
 12 Moves of\nChangxi
-After this technique reaches $0$0% completion, if user has at least 2 "Point" styles left after this technique, user will consume 2 "Point" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously. After using, this skill will change from Orthodox to Heterodox version.
+After this technique reaches $0$0% completion, if the user has at least 2 "Point" styles left after this technique, the user will consume 2 "Point" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, its power increases greatly and continues until the user is no longer able to perform the technique continuously. After using, this technique will change from Orthodox to Heterodox version.
 Polaris Finger\nPoint
 Inactivated AcuPt
 When this technique reaches $0$0% completion, all body parts of the enemy that have Weak Points on them will receive 1 Sealed Acupoint of the same level as the highest level Weak Point on that body part.
