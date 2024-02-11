@@ -895,7 +895,7 @@ When you start performing this technique: A part of the user's Charm will be add
 Song of\nThe Moon
 When you start performing this technique: If the enemy doesn't have a teammate, the power of this technique will be greatly increased; If the enemy has a teammate, and the user doesn't, user will receive a large amount of True Qi equal to the portion of True Qi of 1 random enemy teammate; When this technique reaches $0$0% completion, add 3 "None" styles to the enemy.
 Love Poem
-When you start performing this technique, the more enemies and mutual love, the more the power of this technique will increase, but if the number of mutual love with the enemy exceeds 10 people, the power of this technique will be reduced instead
+When you start performing this technique, the more mutual lovers the enemy has, the more the power of this technique will increase, but if the enemy has more than 10 mutual lovers, the power of this technique will be reduced instead
 Celestial Music\nof Goddess
 Remove E·Buff
 Add Critical Wound
