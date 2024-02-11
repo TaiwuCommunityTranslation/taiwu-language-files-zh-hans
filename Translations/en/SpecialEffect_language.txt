@@ -2434,7 +2434,7 @@ During this Footwork, whenever the enemy attacks the user, user's Resolve stats 
 Reverse - Farewell Steps
 During this Footwork, every time the user hits an enemy 6 times, the enemy will receive 1 Daze marker
 Reverse - Afterglow Catching
-During this Footwork, the enemy's casting speed is significantly reduced
+During this Footwork, enemy's Cast Speed is greatly reduced
 Reverse - Rushes To The Moon
 When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 3 points of "Quick" True Qi
 Reverse - Learae's Snowsteps
