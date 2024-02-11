@@ -2613,7 +2613,7 @@ When you start performing this technique, the worse the user's mood is, the more
 Reverse - Yellow Bamboo
 When this technique reaches $0$0% completion, user immediately performs a "Melody" technique without any cost. The possible tier of the "Melody" technique performed this way depends on the number of Daze markers the enemy has; If the immediately performed technique is still this one, the Heterodox practice effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique greatly increases"
 Reverse - Xiang Lady Tears
-When you start performing this technique, if the user has a deceased spouse, the higher the good sense of the user and the deceased spouse with the lowest good sense, the more the power of this technique will be increased, but if the good sense of the user and the deceased spouse with the lowest good sense is lower than enthusiasm, the power of this technique will be greatly reduced.
+When you start performing this technique, if the user has a deceased spouse, the higher the Favor between the user and their deceased spouse with lowest Favor, the more the power of this technique will increase. However, if the Favor between the user and their deceased spouse with lowest Favor is lower than Warm, the power of this technique will be greatly reduced instead
 Reverse - 3 Nights of Joy
 When you start performing this technique: A part of the user's Charm will be added to the user's Breath; If the enemy is female, the power of this technique will greatly increase, and if the enemy isn't a virgin, the power of this technique will greatly increase again
 Reverse - Song of\nThe Moon
