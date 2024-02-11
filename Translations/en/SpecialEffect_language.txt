@@ -2432,7 +2432,7 @@ Reverse - Skyscraper Climbing
 Increase Your Resolves
 During this Footwork, whenever the enemy attacks the user, user's Resolve stats other than Focus will be increased by a portion of the user's Focus
 Reverse - Farewell Steps
-During this Footwork, for every 6 successful hits on the enemy they will receive 1 Daze marker.
+During this Footwork, every time the user hits an enemy 6 times, the enemy will receive 1 Daze marker
 Reverse - Afterglow Catching
 During this Footwork, the enemy's casting speed is significantly reduced
 Reverse - Rushes To The Moon
