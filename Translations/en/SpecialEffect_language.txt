@@ -2619,7 +2619,7 @@ When you start performing this technique: A part of the user's Charm will be add
 Reverse - Song of\nThe Moon
 When you start performing this technique: If the user doesn't have a teammate, the power of this technique will be greatly increased; If the user has a teammate, and the enemy doesn't, enemy will lose a large amount of True Qi equal to the portion of True Qi of 1 random teammate of the user; When this technique reaches $0$0% completion, add 3 Daze markers to the enemy.
 Reverse - Love Poem
-When you start performing this technique, the more people you love, the more the power of this technique will increase, but if the number of people you love exceeds 10, the power of this technique will decrease.
+When you start performing this technique, the more mutual lovers the user has, the more the power of this technique will increase, but if the user has more than 10 mutual lovers, the power of this technique will be reduced instead
 Reverse - Celestial Music\nof Goddess
 When you start attacking enemy with this technique, if the enemy has 6 or more Daze markers, eliminate enemy's "Aegis" and "Quick" techniques; When this technique reaches $0$0% completion, eliminate all enemy's Daze markers, and add them back to the enemy as Fatal Wound markers.
 Reverse - Pure Lady's Hidden Hand
