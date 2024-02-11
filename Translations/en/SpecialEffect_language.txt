@@ -2445,7 +2445,7 @@ During this Footwork, enemy's Swiftness will not be increased by any effect; Eff
 Reverse - Luoshen's Riversteps
 During this Footwork, whenever the user retreats 2 distance: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, enemy receives up to 3 Daze Markers based on the user's Charm.
 Reverse - Feather Stance
-During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user retreats, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
+When retreating with this Footwork, the user needs to prepare to jump 1 distance at once, up to 4 distance at once. If the user prepares to jump inside of the enemy's attack range, the farther the user retreats, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Reverse - Wooden Track
 During this Footwork, whenever the enemy inflicts an Injury or a Fatal Wound marker on the user with direct damage, the user restores a part of their Footwork and Stamina.
 Reverse - Car Driving Chapter
