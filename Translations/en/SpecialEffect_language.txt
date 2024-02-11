@@ -2443,7 +2443,7 @@ Reverse - Lady Azure's Icesteps
 Increase Swiftness Debuff
 During this Footwork, enemy's Swiftness will not be increased by any effect; Effect of all debuffs on the enemy that increase Swiftness will be greatly improved; Any "Break" technique of the enemy that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be Sealed after use
 Reverse - Luoshen's Riversteps
-During this Footwork, whenever the user retreats 2 distances: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, apply up to 3 Daze Markers to the enemy based on the user's Charm.
+During this Footwork, whenever the user retreats 2 distance: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, enemy receives up to 3 Daze Markers based on the user's Charm.
 Reverse - Feather Stance
 During this Footwork, whenever the user retreats, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user retreats, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Reverse - Wooden Track
