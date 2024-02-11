@@ -891,7 +891,7 @@ Reduce the power of techniques
 When you start performing this technique, if the enemy has a deceased spouse, the higher the good sense of the enemy and the deceased spouse with the lowest good sense, the more the power of this technique will increase, but if the good sense of the enemy and the deceased spouse with the lowest good sense is lower than enthusiasm, the power of this technique will be greatly reduced instead
 3 Nights of Joy
 Increase Breath
-When you start performing this technique: A part of the user's Charm is added to the user's Breath accuracy value;  if the enemy is male, the power of this technique increases significantly, and if the enemy is not a virgin, the power of this technique increases significantly.
+When you start performing this technique: A part of the user's Charm will be added to the user's Breath; If the enemy is male, the power of this technique will greatly increase, and if the enemy isn't a virgin, the power of this technique will greatly increase again
 Song of\nThe Moon
 When you start performing this technique: If the enemy doesn't have a teammate, the power of this technique will be greatly increased; If the enemy has a teammate, and the user doesn't, user will receive a large amount of True Qi equal to the portion of True Qi of 1 random enemy teammate; When this technique reaches $0$0% completion, add 3 "None" styles to the enemy.
 Love Poem
