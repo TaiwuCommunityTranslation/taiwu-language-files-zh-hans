@@ -2191,7 +2191,7 @@ Greatly increases the duration of Daze markers on the enemy
 Reverse - Formation of Scattered Flowers
 When your teammate uses the「Push」or「Pull」commands, the user will be pushed and pulled farther.
 Reverse - Rainbow Fairy Dress
-Greatly reduces enemy's "Quick" technique duration
+Greatly reduces the duration of enemy's "Quick" techniques
 Reverse - Mirror Flower Water Moon
 When defending with this technique, the more Daze markers the enemy receives, the higher the chance the user has of directly resolving the enemy's attack
 Reverse - Stance of Nuwa's Sky-Mending
