@@ -689,7 +689,7 @@ During this Footwork, user's Swiftness will not be reduced by any effect; Effect
 Luoshen's Riversteps
 Restore your momentum
 Adding a Daze marker
-During this Footwork, whenever the user advances 2 distances: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, apply up to 3 Daze Markers to the enemy based on the user's Charm.
+During this Footwork, whenever the user advances 2 distance: User's Inhale and Stance get restored, and if the user is inside of the enemy's attack range, enemy receives up to 3 Daze Markers based on the user's Charm.
 Feather Stance
 Cause Weak Point and Sealed Acupoint
 During this Footwork, whenever the user advances, they need to accumulate power to jump, for a maximum of 4 distance. If the user accumulates power inside of the enemy's attack range, the farther the user advances, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
