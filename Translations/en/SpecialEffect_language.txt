@@ -881,7 +881,7 @@ Crystal Tune
 When you start performing this technique, if the enemy doesn't have any "None" styles, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 "None" style to the enemy, and if the enemy didn't have any "None" styles, add 3 additional "None" styles to the enemy.
 Heart-Breaking
 Worsen E·Injuries
-When you start performing this technique, the worse the enemy's mood is, the more the power of this technique increases; When this technique reaches $0$0% completion, it randomly worsens enemy's Injuries based on how bad enemy's mood is; After performing this technique, based on completion percentage of this technique, a special debuff which reduces mood is applied to the enemy
+When you start performing this technique, the worse the enemy's mood is, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will randomly worsen enemy's Injuries based on how bad the enemy's mood is; After performing this technique, based on completion percentage of this technique, a special debuff which reduces mood will be applied to the enemy
 Yellow Bamboo
 Auto Cast
 When this technique reaches $0$0% completion, user immediately performs a "Melody" technique without any cost. The possible tier of the "Melody" technique performed this way depends on the number of "None" styles the enemy has; If the immediately performed technique is still this one, the Orthodox practice effect of this technique temporarily changes to: "When you start performing this technique, the power of this technique greatly increases"
