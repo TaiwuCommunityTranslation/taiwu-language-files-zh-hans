@@ -2653,7 +2653,7 @@ When this technique reaches $0$0% completion, it has a chance to remove 1 piece 
 Reverse - Poisonous Snake Hidden Move
 At the start of the battle, the user gains 0 layers of this effect: Whenever the user loses 1 point of "Quick" True Qi, this effect increases by 1 layer, and when this effect reaches up to 9 layers, the power of this technique will increase greatly, and it will be performed from 50% of its progress, after which this effect will revert to 0 layers
 Reverse - 12 Moves of\nChangxi
-When you start performing this technique, all available styles of the user will be changed to "Point" styles. The more styles get changed to "Point" style, the more power of this technique will be increased; After using, this technique will change from Heterodox to Orthodox version.
+When you start performing this technique, all available styles of the user will be changed to "Point" styles. The more styles get changed to "Point" style, the more the power of this technique will increase; After using, this technique will change from Heterodox to Orthodox version.
 Reverse - Polaris Finger\nPoint
 When this technique reaches $0$0% completion, all body parts of the enemy that have Sealed Acupoints on them will receive 1 Weak Point of the same level as the highest level Sealed Acupoint on that body part.
 Reverse - The Great Moon\nFinger
