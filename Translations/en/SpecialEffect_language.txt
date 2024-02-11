@@ -676,7 +676,7 @@ During this Footwork, whenever the user attacks the enemy, user's Accuracy stats
 Farewell Steps
 During this Footwork, every time the user hits an enemy 3 times, the enemy will receive 1 "None" style
 Afterglow Catching
-During this Footwork, the speed of the user's performance is greatly increased.
+During this Footwork, user's Cast Speed is greatly increased
 Rushes To The Moon
 When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 3 points of "Quick" True Qi
 Learae's Snowsteps
