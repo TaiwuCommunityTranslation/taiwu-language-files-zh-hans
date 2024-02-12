@@ -433,7 +433,7 @@ Whenever user inflicts an Injury, Poison, or Fatal Wound marker on the enemy wit
 Blood Transfusion
 Increase direct toxicity
 Increases the amount of poison inflicted by the user on the enemy in combat
-White Water Long Live Method
+White Water\nLongevity Art
 Gain Nadis Force
 Reduce Qi Disorder
 Whenever Poison activates on the enemy, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
@@ -2227,7 +2227,7 @@ Whenever user inflicts an Injury, Poison, or Fatal Wound marker on the enemy wit
 Reverse - Blood Transfusion
 Reduce Poison Activation Requirements
 Reduces the number of actions required for Poison to activate on the enemy
-Reverse - White Water Long Live Method
+Reverse - White Water\nLongevity Art
 Whenever Poison activates on the user, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
 Reverse - Flood Dragon's Bone Regeneration
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All Internal Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
