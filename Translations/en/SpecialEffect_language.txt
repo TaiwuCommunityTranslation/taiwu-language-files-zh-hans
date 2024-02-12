@@ -76,7 +76,7 @@ The higher the user's "Earth" internal element, the more the user's External and
 Greater\nYuanshan Force
 User's "Earth" techniques will deal more direct damage and backlash damage to characters whose internal element is "Water"
 Silence Methods
-Convert the user's "Metal" internal energy into "Earth" internal energy. The more energy is converted, the more the power of the user's "Earth" type techniques will be increased. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Metal" internal element into "Earth" internal element. The higher the conversion ratio, the more the power of user's "Earth" techniques will be increased
 Inscrutable\nRound
 Changes the effect of all "Earth" techniques of the user other than "Inner Art" techniques from "Heterodox" to "Orthodox"
 Stable Breath
