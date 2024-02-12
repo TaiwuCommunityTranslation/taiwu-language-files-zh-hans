@@ -763,7 +763,7 @@ During this Footwork, whenever the user advances 1 distance, user absorbs 1 poin
 Take 5 Cars
 When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, user's Stamina will be recovered.
 Divine Rope
-During this Footwork: the enemy cannot eliminate the Footwork and Stamina of the user; when the user attacks the enemy, the distance between the enemy and me is immediately reduced by 4. The reduced distance will be restored after the end of the user's attack
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; Whenever the user attacks the enemy, the distance between the enemy and the user will immediately reduce by 4. The reduced distance will be restored after the attack ends
 Seven-Star Spin
 During this Footwork, the less "attack tokens" user has, the more the user's Attack Speed will increase.
 Heaven Leap
