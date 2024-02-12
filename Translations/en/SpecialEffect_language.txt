@@ -506,7 +506,7 @@ When defending with this technique, whenever the user successfully Counters an a
 Drain E·Force
 When defending with this technique, whenever the user Resolves an attack using Evasion, the user steals 1 point of "Aegis" True Qi from the enemy
 8 Threads of Frozen
-When defending with this technique, direct Internal damage dealt by the enemy to the user is reduced by 45%
+When defending with this technique, the direct Internal damage dealt by the enemy to the user will be reduced by 45%
 Formation of 6 Stars
 User's teammates will more frequently be able to perform "Haste" order to fasten the cast of user's technique.
 9 Star Eye
