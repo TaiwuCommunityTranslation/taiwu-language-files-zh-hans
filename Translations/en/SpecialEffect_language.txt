@@ -450,7 +450,7 @@ Whenever the user inflicts an Injury or Fatal Wound marker on an enemy with dire
 Take The Pulse
 Surrendering the enemy's Stance Recovery
 When defending with this technique, every time the user successfully counters an enemy's weapon attack, a debuff is applied to the enemy which reduces Stance Recovery.
-Muscle Displacement Bone Contraction
+Muscle and Bone\nDisplacement Art
 Strengthening of extremity defense
 When defending with this technique, the limbs of the user will not receive Weak Points, Sealed Acupoints, or critical hits, and enemy attacks targeting the limbs of the user will be more easily Resolved.
 7 Wheel Induction
