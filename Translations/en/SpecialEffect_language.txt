@@ -1829,7 +1829,7 @@ When the user's internal element is "Metal", direct damage and backlash damage d
 Reverse -  Colorless Zen technique
 Greatly increases "Willpower" limit. Breath given by "Willpower" will be greatly increased based on user's purity.
 Reverse -  Bodhicitta Practice
-Converts user's "Wood" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Wood" element is at 0%, user will not receive critical hits from "Wood" or "Metal" techniques
+Converts user's "Wood" internal element into "Metal" internal element. The higher the conversion ratio, the higher the power of the user's "Metal" techniques will be; If user's "Wood" element is at 0%, user will not receive critical hits from "Wood" or "Metal" techniques
 Reverse -  Miscellaneous Aramaic Sutras
 Damage Can't Be Reduced
 User's "Hunyuan" techniques will also be considered to be "Metal" techniques; When using "Metal" Break techniques, user can click to randomly consume from 5 to 15 points of "Aegis" True Qi to make direct damage dealt by a technique not be reduced for any reason.
