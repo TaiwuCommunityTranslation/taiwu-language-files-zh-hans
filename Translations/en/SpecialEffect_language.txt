@@ -2139,7 +2139,7 @@ Reverse - 9 Rollings
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the enemy's Footwork and Stamina will be lost
 Reverse - Sword Or Blade
 When the user performs a Blade technique with a Sword, the power of the Blade techniques increases
-Reverse - Yuanshan 7 Formations
+Reverse - Yuanshan Killing Formation
 When using "Attack" order, it will greatly increase the Ext. Pen., Int. Pen., Might, Finesse, Swiftness, and Breath of teammate's attack
 Reverse - Golden Blade Fist
 When defending with this technique, every time user successfully counters an enemy's weapon attack, user gains an "attack token", and if user's "attack tokens" were already full before this effect, user's Counter damage to the enemy will be greatly increased
