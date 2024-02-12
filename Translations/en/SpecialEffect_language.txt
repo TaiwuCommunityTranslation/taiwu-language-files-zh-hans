@@ -247,7 +247,7 @@ Remove Weak Point
 When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, randomly eliminate 2 Weak Points on user's body
 Small Arhat\nRod Formation
 User's teammates will more frequently be able to perform "Defend" order to protect the user with an Aegis technique from enemy attacks.
-Buddhism Lion Roar
+Buddhism\nLion Roar
 Attrition of enemy's Stamina
 Whenever user actively starts to perform a "Break" technique, if the enemy is within the user's attack range, all of the enemy's Footwork and Stamina will be depleted.
 Mixed Element In One
@@ -2062,7 +2062,7 @@ Reverse - Golden Bell\nCover
 When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, inflict 2 Weak Points on a random body part of the enemy
 Reverse - Small Arhat\nRod Formation
 When using "Defend" order, it will greatly increase the power of teammate's "Aegis" technique
-Reverse - Buddhism Lion Roar
+Reverse - Buddhism\nLion Roar
 Whenever user actively starts to perform a "Break" technique, if the enemy is within the user's attack range, all of the enemy's Stance and Inhale will be depleted.
 Reverse - Mixed Element In One
 Increase internal injury reflect
