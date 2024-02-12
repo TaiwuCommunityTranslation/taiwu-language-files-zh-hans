@@ -714,7 +714,7 @@ During this Footwork: the Might of the user will not be reduced by any effect; a
 Flying on Grass
 Move Dist Up
 When advancing with this Footwork, the user needs to prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
-Cliff Hanging Pot
+Perilous Cliff\nGathering
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, user's Stamina will be restored.
 Shatang's Watersteps
 Improve Finesse of Kick Techniques
@@ -2465,7 +2465,7 @@ Enhancement of Diversion reduction
 During this Footwork: the enemy's Diversion will not be increased by any effect; all techniques and debuffs that reduce the enemy's Diversion will be greatly increased
 Reverse - Flying on Grass
 When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
-Reverse - Cliff Hanging Pot
+Reverse - Perilous Cliff\nGathering
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, enemy's Stamina will be depleted.
 Reverse - Shatang's Watersteps
 When using Kick Techniques with this Footwork, your Accuracies will be shifted towards Finesse
