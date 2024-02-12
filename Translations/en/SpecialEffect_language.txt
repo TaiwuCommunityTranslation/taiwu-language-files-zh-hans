@@ -3059,7 +3059,7 @@ When this technique reaches $0$0% completion, enemy will gain 1 "Kill" style.
 Reverse - Shooting Star
 When this technique reaches $0$0% completion, if the enemy has more than one "Kill" style, up to 3 random "Kill" styles of the enemy will be arranged together at the end of enemy's style bar
 Reverse - Snapshot
-After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy gains a "Kill" style, the more "Kill" styles enemy has arranged together, the more random body parts of the enemy will receive Weak Points.
+After this technique reaches $0$0% completion, the user gains 3 layers of this effect: Whenever the enemy gains a "Kill" style, the more "Kill" styles the enemy has arranged together, the more random body parts of the enemy will receive Weak Points
 Reverse - Special Action\nof Trigram Map
 When this technique reaches $0$0% completion, if user has any effects that would activate because "enemy gains a "Kill" style", then these effects will activate immediately without consuming layers; Enemy will have a high chance of gaining 1 "Kill" style after this effect activates.
 Reverse - Throw\nTweet-Dragon
