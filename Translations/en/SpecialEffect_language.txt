@@ -525,7 +525,7 @@ User's teammates will more frequently be able to perform "Break" order to attack
 Thunder Bone
 When defending with this technique, the direct external damage caused by the enemy to the user is reduced by 45%
 Medical Heart
-The more "Punch" styles the user has, the more the user's Might will increase; the more "Point" styles the user has, the more the user's Swiftness will increase; the more "Hold" styles the user has, the more the user's Finesse will increase.
+The more "Punch" styles the user has, the more the user's Might will increase; The more "Point" styles the user has, the more the user's Swiftness will increase; The more "Hold" styles the user has, the more the user's Finesse will increase
 Drunk A Thousand Year
 The enemy's chance to cause follow-up attacks on the user is greatly reduced, and the enemy's chance of hitting the user is greatly reduced. If the user is drunk, these effects are doubled.
 Cover Sky
