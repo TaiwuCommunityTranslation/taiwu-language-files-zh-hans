@@ -2516,7 +2516,7 @@ During this Footwork, the more "attack tokens" the user has, the more the user's
 Reverse - Heaven Leap
 When retreating with this Footwork, the user needs to prepare to jump, up to 5 distance at once. After jumping, the user will gain a buff that will increase user's Ext. Pen and Int. Pen.; The farther the user retreats, the stronger the buff will be
 Reverse - Moving Star
-When this Footwork is performed, the distance between the enemy and me changes to 5; during this Footwork, the enemy cannot actively move away from the user
+When this Footwork is used, the distance between the user and the enemy changes to 5; During this Footwork, the enemy cannot actively move away from the user
 Reverse - Barefoot
 During this Footwork: The user will not be moved forward for any reason, and the enemy will have to consume more Footwork to move forward
 Reverse - Drunk 8 Immortals
