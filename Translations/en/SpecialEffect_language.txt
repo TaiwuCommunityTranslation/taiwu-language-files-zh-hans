@@ -505,7 +505,7 @@ When defending with this technique, whenever the user successfully Counters an a
 6 Turn of Royal
 Drain E·Force
 When defending with this technique, whenever the user Resolves an attack using Evasion, the user steals 1 point of "Aegis" True Qi from the enemy
-8 Threads of Frozen
+8 Veins of\nCold Ice
 When defending with this technique, the direct Internal damage dealt by the enemy to the user will be reduced by 45%
 Formation of 6 Stars
 User's teammates will more frequently be able to perform "Haste" order to increase the cast progress of user's techniques
@@ -2283,7 +2283,7 @@ Transfer Unusable Style
 When defending with this technique, whenever the user successfully Counters an attack, 1 unusable style of the user will be transferred to the enemy
 Reverse - 6 Turn of Royal
 When defending with this technique, whenever the user Resolves an attack using Evasion, the user steals 1 point of "Break" True Qi from the enemy
-Reverse - 8 Threads of Frozen
+Reverse - 8 Veins of\nCold Ice
 When defending with this technique, user's Internal Reflect damage will be increased by 30%
 Reverse - Formation of 6 Stars
 If the user's helper can use the "push" command, the progress of the user's technique can be increased even more.
