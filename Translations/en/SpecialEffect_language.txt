@@ -2204,7 +2204,7 @@ When defending with this technique: all direct damage taken by the user is reduc
 Reverse - 14 Methods of Real Steel
 Significantly increase the Hardness and TOU of the user's armor
 Reverse - Mechanical Formation
-User's teammate's "Guide" and "Warn" orders will increase Accuracy and Resolve even more.
+When using "Warn" or "Guide" orders, they will increase user's Accuracy and Resolve stats more
 Reverse - Heavenly Armor
 When defending with this technique, If enemy weapon's grade isn't higher than the user's armor's grade, all Internal damage caused by the enemy to the user will be reduced by 60%
 Reverse - Exquisite 9
