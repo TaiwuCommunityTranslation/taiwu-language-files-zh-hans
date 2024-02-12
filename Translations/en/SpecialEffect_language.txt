@@ -768,7 +768,7 @@ Seven-Star Spin
 During this Footwork, the less "attack tokens" the user has, the more the user's Attack Speed will be increased
 Heaven Leap
 Increase your attack
-When advancing with this Footwork, the user needs to accumulate power, the more power the user accumulates, the farther the distance will be advanced, up to 5 distance, and the farther the user advances, the stronger a buff will be applied to the user which improves External Penetration and Internal Penetartion.
+When advancing with this Footwork, the user needs to prepare to jump, up to 5 distance at once. After jumping, the user will gain a buff that will increase user's Ext. Pen and Int. Pen.; The farther the user advances, the stronger the buff will be
 Moving Star
 Change the distance between enemy and us
 When this Footwork is performed, the distance between the enemy and me changes to 9; during this Footwork, the enemy cannot actively approach the user
