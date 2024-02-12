@@ -116,7 +116,7 @@ Greatly increases "Vitality" limit. Internal Defense given by "Vitality" will be
 Xihua\nScripture
 The higher the user's "Water" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Holy Princess
-Converts user's "Wood" element into "Water" element. The higher the conversion ratio, the more the power of user's "Water" skills will be; If user's "Wood" internal element is at 0%, user will not receive critical hits from "Wood" or "Water" techniques
+Converts user's "Wood" element into "Water" element. The higher the conversion ratio, the more the power of user's "Water" techniques will be increased; If user's "Wood" internal element is at 0%, user will not receive critical hits from "Wood" or "Water" techniques
 Nimbus Shower
 Greatly increases the power of user's "Water" techniques; While performing any "Water" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Water" technique by 50%, up to a maximum of 75%.
 Supreme\nGoddess Cultivation
@@ -157,7 +157,7 @@ The more types of True Qi the user has that exceed their initial value in combat
 Vajra-Inherited\nMeditation
 The higher the user's "Metal" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 The Great Sun\nScripture
-Converts user's "Earth" element into "Metal" element. The higher the conversion ratio, the more the power of user's "Metal" skills will be; If user's "Earth" internal element is at 0%, user will not receive critical hits from "Earth" or "Metal" techniques
+Converts user's "Earth" element into "Metal" element. The higher the conversion ratio, the more the power of user's "Metal" techniques will be increased; If user's "Earth" internal element is at 0%, user will not receive critical hits from "Earth" or "Metal" techniques
 The Great Vajra\nScripture
 Greatly increases the power of user's "Metal" techniques; While performing any "Metal" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to increase the cast progress of the "Metal" technique by 50%, up to a maximum of 75%.
 Mahakala\nGuardian's Cultivation
@@ -174,7 +174,7 @@ Increases the power of user's "Wood" techniques by 10%
 Black\nImmortals Cultivation
 Significantly increases the amount of toxins that can be dispelled when the user performs "Detoxing" in battle
 Azure\nImmortals Cultivation
-Converts user's "Water" element into "Wood" element. The higher the conversion ratio, the more the power of user's "Wood" skills will be; If user's "Water" internal element is at 0%, user will not receive critical hits from "Water" or "Wood" techniques
+Converts user's "Water" element into "Wood" element. The higher the conversion ratio, the more the power of user's "Wood" techniques will be increased; If user's "Water" internal element is at 0%, user will not receive critical hits from "Water" or "Wood" techniques
 Soul Out\nMeditation
 When the user removes toxins with "Detox" in battle, the user will be given a buff which enhances the user's Diversion, Parry, Evasion, and Focus. The more toxins removed, the stronger the effect.
 The Great Evil\nBody
