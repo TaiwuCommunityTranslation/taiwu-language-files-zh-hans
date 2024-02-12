@@ -497,7 +497,7 @@ Sky Snake Bone Exchange
 Invalidated by severe trauma
 The user's External Injuries will disappear over time; the user will not receive Fatal Wounds unless the attacked body part already has 4 External Injuries.
 Sky Bridge
-Remove all sealed points
+Remove All Sealed Acupoints
 Whenever the total number of sealed points on the user's body is not less than 7, all the sealed points on the user's body will be released and no effect from the release of the sealed points will be triggered.
 River Immortals Wedding
 Steal E·Style
