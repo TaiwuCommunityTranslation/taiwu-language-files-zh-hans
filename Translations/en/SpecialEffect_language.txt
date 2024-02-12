@@ -394,7 +394,7 @@ Scattered Flowers\nFormation
 User's teammates will more frequently be able to perform "Push" and "Pull" orders to push you forward or pull you back 1 distance.
 Immortal Beauty\nDress Art
 Greatly increases the duration of user's "Quick" techniques
-Mirror Flower Water Moon
+Mirrored Flowers\nReflected Moon
 Directly defuse the attack
 When defending with this technique, the more "None" styles the enemy has, the higher the chance that the user will directly Resolve enemy attacks
 Stance of Nuwa's Sky-Mending
@@ -2192,7 +2192,7 @@ Reverse - Scattered Flowers\nFormation
 When using "Push" or "Pull" orders, they will push or pull the user farther
 Reverse - Immortal Beauty\nDress Art
 Greatly reduces the duration of enemy's "Quick" techniques
-Reverse - Mirror Flower Water Moon
+Reverse - Mirrored Flowers\nReflected Moon
 When defending with this technique, the more Daze markers the enemy has, the higher the chance that the user will directly Resolve enemy attacks
 Reverse - Stance of Nuwa's Sky-Mending
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, the user will not be defeated; If at the end of this technique the total number of defeat markers sustained by the user reaches the defeat condition, user's Internal Injury markers will return to the number the user had at the start of this technique
