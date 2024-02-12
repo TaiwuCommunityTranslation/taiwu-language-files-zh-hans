@@ -2004,7 +2004,7 @@ When the user's internal element is "Water", direct damage and backlash damage d
 Reverse -  Bu Tian Ge
 Greatly reduces "Agility" consumption
 Reverse -  Xuan Hei Zhen Jing
-Convert the user's "Earth" internal energy into "Water" internal energy. The more energy is converted, the more the power of the user's "Water" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Earth" internal element into "Water" internal element. The higher the conversion ratio, the more the power of user's "Water" techniques will be increased
 Reverse -  Esi Legacy
 Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Orthodox" to "Heterodox"
 Reverse -  Armillary Chart
