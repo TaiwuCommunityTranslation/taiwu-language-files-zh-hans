@@ -1417,7 +1417,7 @@ Cause Random Weak Points
 After this technique reaches $0$0% completion, the user gains 3 layers of this effect: Whenever the user gains a "Kill" style, the more "Kill" styles the user has arranged together, the more random body parts of the enemy will receive Weak Points
 Special Action\nof Trigram Map
 Triggering the kill effect
-When this technique reaches $0$0% completion, if user has any effects that would activate because "user gains a "Kill" style", then these effects will activate immediately without consuming layers; User will have a high chance of gaining 1 "Kill" style after this effect activates.
+When this technique reaches $0$0% completion, if the user has any effects that would activate because "user gains a "Kill" style", then these effects will activate immediately without consuming layers; User will have a high chance of gaining 1 "Kill" style after this effect activates.
 Throw\nTweet-Dragon
 When you start performing this technique, the more "Kill" styles the user has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all the "Kill" styles the user has arranged together, which greatly increases the direct damage caused by this technique to the enemy
 Divine Needle\nof Shadow-Stopped
