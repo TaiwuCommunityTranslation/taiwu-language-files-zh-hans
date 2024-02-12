@@ -1797,7 +1797,7 @@ Whenever the weapon used by the user switches from a weapon other than "Sword" t
 Great Mercy\nSword
 Manjushri's Great\nWisdom Sword
 When you start performing this technique, the more weapons you have that are not "Swords" but can perform this technique, the more the power and range of this technique will increase.
-Skanda\nSwordsmanship of Defeat Demon
+Skanda's Evil\nSubduing Sword
 When this technique fails to reach $0$0% completion, user advances 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Blade Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
 Swordsmanship\nof Supreme Bodhi
 Reversal is less powerful
