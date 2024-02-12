@@ -682,7 +682,7 @@ When advancing with this Footwork, the user needs to prepare to jump 2 distance 
 Beauty's\nSnow Walking
 Remove E·Style
 During this Footwork, whenever the user attacks an enemy, a separate Breath check will happen, and if the enemy fails to Resolve it, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles. This Breath check becomes progressively less accurate each time it activates within the duration of this technique.
-Lady Azure's Icesteps
+Snow Goddess\nTreading Ice
 Enhanced Swiftness Gain
 Auto Cast Break
 During this Footwork, user's Swiftness will not be reduced by any effect; Effect of all buffs on the user that increase Swiftness will be greatly improved; Any "Break" technique of the user that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be automatically cast again without any consumption
@@ -2439,7 +2439,7 @@ Reverse - Chang'e Flies\nto the Moon
 When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 3 points of "Quick" True Qi
 Reverse - Beauty's\nSnow Walking
 During this Footwork, whenever an enemy attacks the user, a separate Breath check will happen, and if the enemy fails to Resolve it, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles. This Breath check becomes progressively less accurate each time it activates within the duration of this technique.
-Reverse - Lady Azure's Icesteps
+Reverse - Snow Goddess\nTreading Ice
 Increase Swiftness Debuff
 During this Footwork, enemy's Swiftness will not be increased by any effect; Effect of all debuffs on the enemy that increase Swiftness will be greatly improved; Any "Break" technique of the enemy that has a Swiftness part will have a chance equal to half of the Swiftness part's percentage to be Sealed after use
 Reverse - Luoshen's Riversteps
