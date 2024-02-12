@@ -2173,7 +2173,7 @@ Reverse - The Great Dementor
 Freedom from the Daze marker
 When defending with this technique: The user will not receive Daze markers; If the enemy can receive Daze markers, and the user's Breath is higher than the enemy's Focus, the Daze markers applied to the user by the enemy will be applied to the enemy instead
 Reverse - Formation of 6 Men 6 Armor
-User's teammate's "Swap" and "Restrain" orders will work for a longer period of time.
+When using "Swap" or "Restrain" orders, their duration will be greatly increased
 Reverse - Spell of Heavenly Spirit
 When defending with this technique, the direct damage dealt by the enemy to the user with Orthodox techniques will be greatly reduced
 Reverse - Elephant Imitation
