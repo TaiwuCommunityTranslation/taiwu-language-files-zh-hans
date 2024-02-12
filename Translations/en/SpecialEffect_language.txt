@@ -504,7 +504,7 @@ Steal Usable Style
 When defending with this technique, whenever the user successfully Counters an attack, 1 usable style of the enemy will be transferred to the user
 6 Turn of Royal
 Drain E·Force
-When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user draws 1 point of "Aegis" true qi from the enemy's body
+When defending with this technique, whenever the user Resolves an attack using Evasion, the user steals 1 point of "Aegis" True Qi from the enemy
 8 Threads of Frozen
 When defending with this technique, the direct internal damage caused by the enemy to the user is reduced by 45%
 Formation of 6 Stars
