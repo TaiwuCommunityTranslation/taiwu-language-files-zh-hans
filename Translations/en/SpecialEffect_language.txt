@@ -304,7 +304,7 @@ Blood Sea\nFreezing Art
 Toxins received by countershock
 Change your own toxins
 When defending with this technique: Acritoxin, Pyrotoxin, and Necrotoxin on the user won't activate; User can Reflect Acritoxin, Pyrotoxin, and Necrotoxin; At the end of defending with this technique, based on how much Acritoxin, Pyrotoxin, and Necrotoxin the user received during this technique, the user will receive a buff that increases External Defense, and remove all the Acritoxin, Pyrotoxin, and Necrotoxin received during this technique
-Perfect Unbreakable
+Flawless Jade Art
 Direct damage invalid
 When defending with this technique, if the number of direct Injury markers dealt by the enemy to the user isn't lower than the current number of Injury markers on the user's attacked body part, the damage will be ignored
 Wudang Iron Clothes
@@ -2113,7 +2113,7 @@ Reverse - Eight Gates of\nLife and Death
 Whenever the enemy receives an Injury marker from the user, the Injury markers on 1 other random body part of the enemy with fewer Injury markers will worsen
 Reverse - Blood Sea\nFreezing Art
 When defending with this technique: Umbritoxin, Cryotoxin and Oneirotoxin on the user won't activate; User can Reflect Umbritoxin, Cryotoxin and Oneirotoxin; At the end of defending with this technique, based on how much Umbritoxin, Cryotoxin and Oneirotoxin the user received during this technique, the user will receive a buff that increases Internal Defense, and remove all the Umbritoxin, Cryotoxin and Oneirotoxin received during this technique
-Reverse - Perfect Unbreakable
+Reverse - Flawless Jade Art
 When defending with this technique, if the number of direct Injury markers dealt by the enemy to the user isn't higher than the current number of Injury markers on the user's attacked body part, the damage will be ignored
 Reverse - Wudang Iron Clothes
 Average Pen.
