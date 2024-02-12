@@ -295,7 +295,7 @@ Whenever the user removes a Sealed Acupoint from themselves, 1 additional Sealed
 Yinyang Reverse
 Debuff to Buff
 When defending with this technique, whenever the user successfully Counters an attack, 1 debuff on the user will change into a buff
-Shifting of 12 Meridians
+Twelve Meridians\nShift
 Remove Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead remove a Sealed Acupoint on the user
 8 Doors of Live Or Dead
@@ -2106,7 +2106,7 @@ Whenever the user inflicts a Sealed Acupoint to the enemy, 1 additional Sealed A
 Reverse - Yinyang Reverse
 Buff to Debuff
 When defending with this technique, whenever the user successfully Counters an attack, 1 buff on the enemy will change into a debuff
-Reverse - Shifting of 12 Meridians
+Reverse - Twelve Meridians\nShift
 Shift Your Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead be inflicted on the enemy
 Reverse - 8 Doors of Live Or Dead
