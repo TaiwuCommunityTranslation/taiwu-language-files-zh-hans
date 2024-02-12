@@ -385,7 +385,7 @@ Myriad Changes\nRewind
 When defending with this technique, whenever the user successfully Counters a weapon attack, the user's External Injury markers will be restored to the amount the user had at the beginning of this technique, and half of the non-old External Injury markers removed by this effect will be applied to the enemy
 Pure Virgin
 The higher the user's Charm, the more the user's Breath will increase.
-Reclamation Stance
+Reclamation\nStance
 Interrupt E·Style
 When defending with this technique, whenever the user Resolves an attack using Evasion, the user adds 1 "None" style to the enemy
 Dark Jade Practice
@@ -2183,7 +2183,7 @@ Reverse - Myriad Changes\nRewind
 When defending with this technique, whenever the user successfully Counters a weapon attack, the user's Internal Injury markers will be restored to the amount the user had at the beginning of this technique, and half of the non-old Internal Injury markers removed by this effect will be applied to the enemy
 Reverse - Pure Virgin
 The higher the user's Charm, the more the user's Focus will increase.
-Reverse - Reclamation Stance
+Reverse - Reclamation\nStance
 Applying a mind marker
 When defending with this technique, whenever the user Resolves an attack using Evasion, the user applies 1 Daze marker to the enemy
 Reverse - Dark Jade Practice
