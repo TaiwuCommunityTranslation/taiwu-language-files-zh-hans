@@ -1441,7 +1441,7 @@ Disrupt all Kill styles
 When attacking the enemy with this technique, all "Kill" styles of the user that are arranged together are considered to be additional Weak Points with an increased effect on the enemy's attacked body part; When this technique ends, all "Kill" styles of the user will be rearranged.
 Swordsmanship\nof Netherworld
 When this technique reaches $0$0% completion, 3 "Fire" techniques of the enemy will be "Sealed" for a long time.
-Perfect\nSwordsmanship of 7 Ends
+Seven-Severing\nPerfect Sword
 After this technique reaches $0$0% completion, user gains 7 layers of this effect: Whenever the user's "Kill" styles get arranged together, if this technique is not Sealed, user will immediately perform a T6 "Sword Technique" from 100% of its progress without any consumption. For every additional "Kill" style aligned together, the level of "Sword Technique" that can be performed by this skill increases by one, up to a maximum of T4; When this effect activates, this technique will always become "Sealed" for a short amount of time
 Mysterious\nSword Intent
 When attacking the enemy with this technique, the deeper the enemy is poisoned with Cryotoxin, the more direct damage this technique will deal; If this technique attacks a body part that already has an Injury marker on it, its direct damage will not be reduced for any reason
@@ -3080,7 +3080,7 @@ Reverse - Swordsmanship\nof Kill
 When attacking the enemy with this technique, all "Kill" styles of the enemy that are arranged together are considered to be additional Weak Points with an increased effect on the enemy's attacked body part; When this technique ends, all "Kill" styles of the enemy will be rearranged.
 Reverse - Swordsmanship\nof Netherworld
 When this technique reaches $0$0% completion, it will reduce power of 3 "Fire" techniques of the enemy until the end of the battle
-Reverse - Perfect\nSwordsmanship of 7 Ends
+Reverse - Seven-Severing\nPerfect Sword
 After this technique reaches $0$0% completion, user gains 7 layers of this effect: Whenever the enemy's "Kill" styles get arranged together, if this technique is not Sealed, user will immediately perform a T6 "Sword Technique" from 100% of its progress without any consumption. For every additional "Kill" style aligned together, the level of "Sword Technique" that can be performed by this skill increases by one, up to a maximum of T4; When this effect activates, this technique will always become "Sealed" for a short amount of time
 Reverse - Mysterious\nSword Intent
 When attacking the enemy with this technique, the deeper the user is poisoned with Cryotoxin, the more direct damage this technique will deal; If this technique attacks a body part that already has an Injury marker on it, its direct damage will not be reduced for any reason
