@@ -752,7 +752,7 @@ During this Footwork, whenever the user attacks an enemy, a separate Swiftness c
 Sky Snake Rolling
 Reduce Poison Resistance
 When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, the enemy will receive a debuff that reduces all Poison Resistances depending on the distance moved.
-A Hundred Feet Poling
+Hundred-Foot\nPoles
 During this Footwork, user's maximum attack range is increased by 2
 Traceless 6 Steps
 During this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Point", "Stab" and "Shot" styles possessed by the user can be used in place of each other
@@ -2499,7 +2499,7 @@ Attrition of the enemy's bodywork
 During this Footwork, whenever an enemy attacks the user, a separate Swiftness check will happen, and if the enemy fails to Resolve it, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced. This Swiftness check becomes progressively less accurate each time it activates within the duration of this technique.
 Reverse - Sky Snake Rolling
 When retreating with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, the enemy will receive a debuff that reduces all Poison Resistances depending on the distance moved.
-Reverse - A Hundred Feet Poling
+Reverse - Hundred-Foot\nPoles
 During this Footwork, user's minimum attack range is increased by 2
 Reverse - Traceless 6 Steps
 Whenever an enemy gains a "Point", "Stab", or "Shot" style during this Footwork, if the user can use these styles, there is a higher chance that the enemy's gained style will be transferred to the user.
