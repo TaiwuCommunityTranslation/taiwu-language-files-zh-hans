@@ -3304,7 +3304,7 @@ When you start performing this technique, the deeper the user is poisoned by Cry
 Reverse - Bianque Pinprick
 When the cast progress of this technique reaches 100%, the user will perform 1 "Detox" that doesn't consume a "Detox" attempt, but also can't dispel stubborn poison. The more Poison markers this "Detox" eliminates, the more the power of this technique will be increased
 Reverse - Vitality\nLosing Pinprick
-When this technique reaches $0$0% completion, user will drain 3 points of "Nadis" True Qi from the enemy
+When this technique reaches $0$0% completion, user will steal 3 points of "Nadis" True Qi from the enemy
 Reverse - Deadly Pinprick
 This technique's damage will not cause direct Internal Injuries, but will instead make already existing Internal Injury markers on the enemy worsen
 Reverse - 9-Needle Strike
