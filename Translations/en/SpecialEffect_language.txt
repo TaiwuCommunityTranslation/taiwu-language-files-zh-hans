@@ -719,7 +719,7 @@ During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weap
 Water Floating\nSteps
 Improve Finesse of Kick Techniques
 The Finesse of Kick Techniques performed with this Footwork will be greatly increased
-Skyline of Mt.Chai
+Mount Chai's\nSkyline
 While performing a Kick Technique in this Footwork, direct External Damage dealt by the enemy will be reduced by 60%
 Flood Dragon Stirs Ocean
 Extra Kick
@@ -2469,7 +2469,7 @@ Reverse - Perilous Cliff\nGathering
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, enemy's Stamina will be depleted.
 Reverse - Water Floating\nSteps
 When using Kick Techniques with this Footwork, your Accuracies will be shifted towards Finesse
-Reverse - Skyline of Mt.Chai
+Reverse - Mount Chai's\nSkyline
 While performing a Kick Technique in this Footwork, direct Internal Damage dealt by the enemy will be reduced by 60%
 Reverse - Flood Dragon Stirs Ocean
 In this Footwork, when a Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a higher tier without any cost.
