@@ -2061,7 +2061,7 @@ When an uninjured body part of the user receives a direct internal injury from t
 Reverse - Golden Bell Sheild
 When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, inflict 2 Weak Points on a random body part of the enemy
 Reverse - Arhat's Stick Formation
-When your teammate uses the "Defend" order, the power of your "Aegis" technique will be greatly increased.
+When using "Defend" order, it will greatly increase the power of teammate's "Aegis" technique
 Reverse - Buddhism Lion Roar
 Whenever user actively starts to perform a "Break" technique, if the enemy is within the user's attack range, all of the enemy's Stance and Inhale will be depleted.
 Reverse - Mixed Element In One
