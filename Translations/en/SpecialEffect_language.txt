@@ -721,7 +721,7 @@ Improve Finesse of Kick Techniques
 The Finesse of Kick Techniques performed with this Footwork will be greatly increased
 Mount Chai's\nSkyline
 While performing a Kick Technique in this Footwork, direct External Damage dealt by the enemy will be reduced by 60%
-Flood Dragon Stirs Ocean
+Flood Dragon\nStirs Ocean
 Extra Kick
 In this Footwork, when a Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a lower tier without any cost.
 Stone Sink
@@ -2471,7 +2471,7 @@ Reverse - Water Floating\nSteps
 When using Kick Techniques with this Footwork, your Accuracies will be shifted towards Finesse
 Reverse - Mount Chai's\nSkyline
 While performing a Kick Technique in this Footwork, direct Internal Damage dealt by the enemy will be reduced by 60%
-Reverse - Flood Dragon Stirs Ocean
+Reverse - Flood Dragon\nStirs Ocean
 In this Footwork, when a Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a higher tier without any cost.
 Reverse - Stone Sink
 Diversion all basic Atk
