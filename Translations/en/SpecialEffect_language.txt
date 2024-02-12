@@ -390,7 +390,7 @@ Interrupt E·Style
 When defending with this technique, whenever the user Resolves an attack using Evasion, the user adds 1 "None" style to the enemy
 Dark Jade Practice
 Greatly reduces the duration of Daze markers on the user
-Formation of Scattered Flowers
+Scattered Flowers\nFormation
 User's teammates will more frequently be able to perform "Push" and "Pull" orders to push you forward or pull you back 1 distance.
 Rainbow Fairy Dress
 Greatly increases the duration of user's "Quick" techniques
@@ -2188,7 +2188,7 @@ Applying a mind marker
 When defending with this technique, whenever the user Resolves an attack using Evasion, the user applies 1 Daze marker to the enemy
 Reverse - Dark Jade Practice
 Greatly increases the duration of Daze markers on the enemy
-Reverse - Formation of Scattered Flowers
+Reverse - Scattered Flowers\nFormation
 When using "Push" or "Pull" orders, they will push or pull the user farther
 Reverse - Rainbow Fairy Dress
 Greatly reduces the duration of enemy's "Quick" techniques
