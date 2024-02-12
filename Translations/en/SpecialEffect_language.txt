@@ -387,7 +387,7 @@ Pure Virgin
 The higher the user's Charm, the more the user's Breath will increase.
 Reclamation Stance
 Interrupt E·Style
-When defending with this technique, whenever the user uses Evasion to Resolve enemy's attack, the user adds 1 "None" to the enemy.
+When defending with this technique, whenever the user Resolves an attack using Evasion, the user adds 1 "None" style to the enemy
 Dark Jade Practice
 Greatly reduces the duration of Daze markers on the user
 Formation of Scattered Flowers
