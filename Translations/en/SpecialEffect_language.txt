@@ -2512,7 +2512,7 @@ When retreating with this Footwork, the user needs to prepare to jump 2 distance
 Reverse - Divine Rope
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; Whenever the user attacks the enemy, the distance between the enemy and the user will immediately increase by 4. The reduced distance will be restored after the attack ends
 Reverse - Seven-Star Spin
-While using this Footwork, the more "attack tokens" user has, the more user's Attack Speed will increase.
+During this Footwork, the more "attack tokens" the user has, the more the user's Attack Speed will be increased
 Reverse - Heaven Leap
 When retreating with this Footwork, the user needs to accumulate power, up to 5 distances, and the farther the user retreats, the stronger the buff will be applied to the user that improves Int. Pen and Ext. Pen.
 Reverse - Moving Star
