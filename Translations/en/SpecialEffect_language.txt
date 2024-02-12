@@ -2288,7 +2288,7 @@ When defending with this technique, user's Internal Reflect damage will be incre
 Reverse - Formation of 6 Stars
 If the user's helper can use the "push" command, the progress of the user's technique can be increased even more.
 Reverse - 9 Star Eye
-The more "Throw" styles the user has, the more the user's Diversion increases; the more "Shot" styles the user has, the more the user's Evasion increases; the more "Drive" styles the user has, the more the user's Parry increases.
+The more "Throw" styles the user has, the more the user's Diversion will increase; The more "Shot" styles the user has, the more the user's Evasion will increase; The more "Drive" styles the user has, the more the user's Parry will increase
 Reverse -  Seven Elements of the Greatest Relief Technique
 When defending with this technique: the more body parts the user has destroyed, the higher the reflect damage the user inflicts on the enemy; at the end of defending with this technique, 3 injury marks on the user's destroyed body parts are randomly changed to old injuries that are more difficult to recover from
 Reverse - Anger Face
