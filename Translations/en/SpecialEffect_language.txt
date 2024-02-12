@@ -3075,7 +3075,7 @@ Reverse - Swordsmanship\nof Intercourse Breaking
 When attacking the enemy with this technique: If the enemy has 3 "Kill" styles arranged together, the higher the Favor between the user and the enemy, the more direct damage this technique will deal. If the Favor between the user and the enemy isn't lower than Intimate, the direct damage of this technique will not be reduced for any reason. After using this technique, the enemy and the user will have a Feud with each other.
 Reverse - Sword Intent\nof Fear
 Reverse - Jieqing Hidden\nRapid Sword
-When this technique reaches $0$0% completion, if enemy has at least 2 "Kill" styles, user will be able to perform a T9 "Sword Technique" from 50% of its progress without any consumption. For every 2 additional "Kill" styles, the level of "Sword Technique" that can be performed by this technique increases by one, up to a maximum of T7.
+When this technique reaches $0$0% completion, if the enemy has at least 2 "Kill" styles, the user will be able to perform a T9 "Sword Technique" from 50% of its progress without any consumption. For every 2 additional "Kill" styles, the level of "Sword Technique" that can be performed by this technique increases by one, up to a maximum of T7.
 Reverse - Swordsmanship\nof Kill
 When attacking an enemy with this technique, all the "Kill" styles of the enemy that are arranged together are considered to be additional Weak Points with an increased effect on the enemy's attacked body part; When this technique ends, all "Kill" styles of the enemy will be rearranged.
 Reverse - Swordsmanship\nof Netherworld
