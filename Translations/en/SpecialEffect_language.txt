@@ -753,7 +753,7 @@ Sky Snake Rolling
 Reduce Poison Resistance
 When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, the enemy will receive a debuff that reduces all Poison Resistances depending on the distance moved.
 A Hundred Feet Poling
-During this Footwork, the maximum attack distance of the user is increased by 2
+During this Footwork, user's maximum attack range is increased by 2
 Traceless 6 Steps
 During this Footwork, if the weapon of the user is able to strike the style required to perform the technique or the special effect of the technique, the "Point", "Stab" and "Shot" styles possessed by the user can be used in place of each other
 Carefree Step
