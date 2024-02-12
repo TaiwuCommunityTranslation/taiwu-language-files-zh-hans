@@ -300,7 +300,7 @@ Remove Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead remove a Sealed Acupoint on the user
 Eight Gates of\nLife and Death
 Whenever the user receives an Injury marker from the enemy, the Injury markers on 1 other random body part of the user with fewer Injury markers will be reduced by 2
-Ice Condensate of Blood
+Blood Sea\nFreezing Art
 Toxins received by countershock
 Change your own toxins
 When defending with this technique: Acritoxin, Pyrotoxin, and Necrotoxin on the user won't activate; User can Reflect Acritoxin, Pyrotoxin, and Necrotoxin; At the end of defending with this technique, based on how much Acritoxin, Pyrotoxin, and Necrotoxin the user received during this technique, the user will receive a buff that increases External Defense, and remove all the Acritoxin, Pyrotoxin, and Necrotoxin received during this technique
@@ -2111,7 +2111,7 @@ Shift Your Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead be inflicted on the enemy
 Reverse - Eight Gates of\nLife and Death
 Whenever the enemy receives an Injury marker from the user, the Injury markers on 1 other random body part of the enemy with fewer Injury markers will worsen
-Reverse - Ice Condensate of Blood
+Reverse - Blood Sea\nFreezing Art
 When defending with this technique: Umbritoxin, Cryotoxin and Oneirotoxin on the user won't activate; User can Reflect Umbritoxin, Cryotoxin and Oneirotoxin; At the end of defending with this technique, based on how much Umbritoxin, Cryotoxin and Oneirotoxin the user received during this technique, the user will receive a buff that increases Internal Defense, and remove all the Umbritoxin, Cryotoxin and Oneirotoxin received during this technique
 Reverse - Perfect Unbreakable
 When defending with this technique, if the number of direct Injury markers dealt by the enemy to the user isn't higher than the current number of Injury markers on the user's attacked body part, the damage will be ignored
