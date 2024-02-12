@@ -2358,7 +2358,7 @@ While using this Footwork, if user has more "attack tokens" than the enemy, enem
 Reverse - Moonlight Shadow
 While using this Footwork: Enemy's maximum amount of "attack tokens" is reduced by 1; When enemy attacks the user while having a maximum amount of "attack tokens", enemy's chances of hitting the user will be greatly reduced.
 Reverse - Golden Fairy
-When retreating with this Footwork, the user needs to prepare to jump, up to 4 distance at once. After jumping, the user will gain a buff that will increase user's Might, Finesse, and Swiftness, strength of which will be based on how far the user retreated
+When retreating with this Footwork, the user needs to prepare to jump, up to 4 distance at once. After jumping, the user will gain a buff that will increase user's Might, Finesse, and Swiftness; The farther the user retreats, the stronger the buff will be
 Reverse - Needle Lift-Up
 During the duration of this technique, whenever an enemy acquires the "Hold", "Slash", or "Drive" styles, if the user can use these styles, there is a higher chance that the enemy's acquired styles will be transferred to the user.
 Reverse - Shadow Surround
