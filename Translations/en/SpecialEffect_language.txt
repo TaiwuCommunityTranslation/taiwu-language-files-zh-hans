@@ -1823,7 +1823,7 @@ Based on completion percentage of this technique and the amount of Inhale consum
 Reverse -  Zen Meditation
 Reduces the usage requirements of "Shaolin" techniques by 20%
 Reverse -  Arhat Meditation
-Reduces the Inhale and Stance cost of the user's "Metal" techniques
+Reduces the Inhale and Stance cost of user's "Metal" techniques
 Reverse -  Heart Qi Mixing Technique
 When the user's internal element is "Metal", direct damage and backlash damage dealt to the user by the "Fire" techniques will be reduced.
 Reverse -  Colorless Zen technique
@@ -1856,7 +1856,7 @@ Converts user's "Metal" element into "Wood" element. The higher the conversion r
 Reversal-Pu Yin Xin Jing
 The higher the user's "Wood" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Sitting-in-Oblivion
-Greatly reduces the Inhale and Stance cost of the user's "Wood" techniques; While performing any "Wood" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to greatly increase the power of the performed "Wood" technique.
+Greatly reduces the Inhale and Stance cost of user's "Wood" techniques; While performing any "Wood" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to greatly increase the power of the performed "Wood" technique.
 Reversal of the Great Nirvana Law
 The lower the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a negative trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
 Reverse -  Copper acupuncture point chart
@@ -1874,7 +1874,7 @@ Whenever the user removes Injuries using "Healing" in battle, the user will rece
 Reverse - Ultra Harmony of Wudang
 Reduces the usage requirements of "Wudang Sect" techniques by 20%
 Reverse - Vitality Retaining
-Reduces the Inhale and Stance cost of the user's "Fire" techniques
+Reduces the Inhale and Stance cost of user's "Fire" techniques
 Reverse - Horizontal Feet
 When the user only consumes Stance, an equal amount of Inhale will be restored.
 Reverse - Celestial Pillar Holding
@@ -1935,7 +1935,7 @@ The higher the user's "Water" internal element, the more the user's Might, Fines
 Reverse - Holy Princess
 Converts user's "Fire" element into "Water" element. The higher the conversion ratio, the higher the power of the user's "Water" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Water" techniques
 Reverse - Nimbus Shower
-Greatly reduces the Inhale and Stance cost of the user's "Water" techniques; While performing any "Water" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to greatly increase the power of the performed "Water" technique.
+Greatly reduces the Inhale and Stance cost of user's "Water" techniques; While performing any "Water" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to greatly increase the power of the performed "Water" technique.
 Reverse - Supreme Goddess Cultivation
 Reduce Enemy Quick True Qi
 At the start of the battle, the enemy's and their teammates' "Quick" True Qi will be reduced significantly; The amount of "Quick" True Qi gained by the enemy during the battle will be reduced greatly; The amount of "Quick" True Qi lost by the enemy during the battle will be increased greatly
@@ -1976,7 +1976,7 @@ The higher the user's "Metal" internal element, the more the user's Might, Fines
 Reverse -  Daishonin Sutra
 Converts user's "Fire" element into "Metal" element. The higher the conversion ratio, the higher the power of the user's "Metal" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Metal" techniques
 Reverse -  Vajradhara Sutra
-Greatly reduces the Inhale and Stance cost of the user's "Metal" techniques; While performing any "Metal" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to greatly increase the power of the performed "Metal" technique.
+Greatly reduces the Inhale and Stance cost of user's "Metal" techniques; While performing any "Metal" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to greatly increase the power of the performed "Metal" technique.
 Reverse -  Mahakala Guardianship
 If the total number of user's defeat markers exceeds half of the defeat condition, the amount of True Qi lost by the user will be greatly reduced, and the user won't receive Sealed Acupoints.
 Reverse -  Supreme Yoga Method
@@ -1986,7 +1986,7 @@ Reduces the usage requirements of "Five Immortals Cult" techniques by 20%
 Reverse -  Huang Xianfa
 Significantly reduces the speed of enemy "Detox" in combat
 Reverse -  Red Immortal Law
-Reduces the Inhale and Stance cost of the user's "Wood" techniques
+Reduces the Inhale and Stance cost of user's "Wood" techniques
 Reverse -  Black Fairy Law
 Significantly reduces the amount of toxins that can be dispelled when an enemy performs "Detox" in battle
 Reverse -  Green Immortal Law
@@ -1998,7 +1998,7 @@ The more negative "characteristics" the enemy has, the more the power of all ene
 Reverse -  JieQing Four Elephant Chart
 Reduces the usage requirements of "Jieqing Gate" techniques by 20%
 Reverse - Heaven Meditation
-Reduces the Inhale and Stance cost of the user's "Water" techniques
+Reduces the Inhale and Stance cost of user's "Water" techniques
 Reverse -  The Twelve Scrolls of the Eastern Wall
 When the user's internal element is "Water", direct damage and backlash damage dealt to the user by the "Earth" techniques will be reduced.
 Reverse -  Bu Tian Ge
@@ -2025,11 +2025,11 @@ User's "Hunyuan" techniques will also be considered to be "Fire" techniques; Whe
 Reverse -  Into the Magic technique
 The more Fatal Wound markers the user has, the more direct damage user will deal to the enemy
 Reverse -  Great Yu Yang Shen Gong
-Greatly reduces the Inhale and Stance cost of the user's "Fire" techniques; While performing any "Fire" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Nadis" True Qi to greatly increase the power of the performed "Fire" technique.
+Greatly reduces the Inhale and Stance cost of user's "Fire" techniques; While performing any "Fire" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Nadis" True Qi to greatly increase the power of the performed "Fire" technique.
 Reverse -  Himalayan mother work
 Reduces the usage requirements of "Bloodhound Cult" techniques by 20%
 Reverse -  Black Corpse Four Tips
-Reduces the Inhale and Stance cost of the user's "Earth" techniques
+Reduces the Inhale and Stance cost of user's "Earth" techniques
 Reverse -  Evil Ghost technique
 When the user's internal element is "Earth", direct damage and backlash damage dealt to the user by the "Wood" techniques will be reduced.
 Reverse -  Three Poisonous Ignorance Mantra
@@ -2039,7 +2039,7 @@ Converts user's "Water" element into "Earth" element. The higher the conversion 
 Reverse -  Five Yin Dada
 The higher the user's "Earth" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse -  Child's Blood Refining Method
-Greatly reduces the Inhale and Stance cost of the user's "Earth" techniques; While performing any "Earth" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Break" True Qi to greatly increase the power of the performed "Earth" technique.
+Greatly reduces the Inhale and Stance cost of user's "Earth" techniques; While performing any "Earth" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Break" True Qi to greatly increase the power of the performed "Earth" technique.
 Reverse -  Blood Hollow Evil Scripture
 Deflect En Break
 When the user's internal element is "Earth", user will be able to perform techniques even if a required body part is broken, but the power of the techniques performed this way will be reduced; When user gets attacked by an "Earth", "Water", or "Fire" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
