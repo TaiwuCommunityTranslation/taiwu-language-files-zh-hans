@@ -30,7 +30,7 @@ Spirituality\nComprehension
 skill power up
 Whenever the user obtains an available style, the user has a very low chance of increasing the power of all the user's techniques, which lasts until the end of the battle.
 Lotus\nMysterious
-Converts user's "Fire" element into "Wood" element. The higher the conversion ratio, the higher the power of the user's "Wood" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Wood" techniques
+Converts user's "Fire" internal element into "Wood" internal element. The higher the conversion ratio, the higher the power of the user's "Wood" techniques will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Wood" techniques
 Puxian\nScripture
 The higher the user's "Wood" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Sitting-in-Oblivion
