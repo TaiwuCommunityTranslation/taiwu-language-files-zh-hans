@@ -2276,7 +2276,7 @@ Reverse - Sky Snake Bone Exchange
 Invalidated by severe internal injuries
 The user's Internal Injuries will disappear over time; the user will not receive Fatal Wounds unless the attacked body part already has 4 Internal Injuries.
 Reverse - Sky Bridge
-Eliminate all Weak Points
+Remove All Weak Points
 Whenever the total number of Weak Point on the whole body of a user is at 7 or more, all of the Weak Point on the user's body will be eliminated, and no effect from their elimination will be triggered.
 Reverse - River Immortals Wedding
 Handover Styles
