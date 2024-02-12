@@ -500,7 +500,7 @@ Sky Bridge
 Remove All Sealed Acupoints
 Whenever the user has a total of 7 or more Sealed Acupoints on their body, all Sealed Acupoints will be removed, and no effects from removing the Sealed Acupoints will trigger
 River Immortals Wedding
-Steal E·Style
+Steal Usable Style
 When defending with this technique, whenever the user successfully Counters an attack, 1 usable style of the enemy will be transferred to the user
 6 Turn of Royal
 Drain E·Force
