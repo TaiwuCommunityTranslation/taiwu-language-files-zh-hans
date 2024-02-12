@@ -3061,7 +3061,7 @@ When this technique reaches $0$0% completion, if the enemy has more than one "Ki
 Reverse - Snapshot
 After this technique reaches $0$0% completion, the user gains 3 layers of this effect: Whenever the enemy gains a "Kill" style, the more "Kill" styles the enemy has arranged together, the more random body parts of the enemy will receive Weak Points
 Reverse - Special Action\nof Trigram Map
-When this technique reaches $0$0% completion, if user has any effects that would activate because "enemy gains a "Kill" style", then these effects will activate immediately without consuming layers; Enemy will have a high chance of gaining 1 "Kill" style after this effect activates.
+When this technique reaches $0$0% completion, if the user has any effects that would activate because "enemy gains a "Kill" style", then these effects will activate immediately without consuming layers; Enemy will have a high chance of gaining 1 "Kill" style after this effect activates.
 Reverse - Throw\nTweet-Dragon
 When you start performing this technique, the more "Kill" styles the enemy has arranged together, the more the power of this technique increases; when you attack the enemy with this technique, you consume all your arranged "Kill" styles and greatly increase the degree of direct damage caused by this technique to the enemy
 Reverse - Divine Needle\nof Shadow-Stopped
