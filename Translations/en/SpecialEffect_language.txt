@@ -1058,7 +1058,7 @@ A Hundred Steps\nof Mysterious Tripot
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: When the number of layers of this effect is Even, user's Might, Finesse and Swiftness will be greatly increased; When the number of layers of this effect is Odd, user's Diversion, Parry and Evasion will be greatly increased; If user performs this technique while still having layers of this effect remaining, their power will be greatly increased.
 Zhen Fragrant
 When you start performing this technique, the deeper the enemy is poisoned with Acritoxin, the more the power of this technique will increase
-8 Fairies\nof The Other Side
+8 Immortals of\nthe Other Shore
 Increase Poison Activation Count
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: The number of actions required for Poisons on the enemy to activate is increased, but every time a Poison on the enemy activates, it activates 2 times.
 Shock Dream\nFragrant
@@ -2760,7 +2760,7 @@ Reverse - A Hundred Steps\nof Mysterious Tripot
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: When the number of layers of this effect is Even, enemy's Might, Finesse and Swiftness will be greatly reduced; When the number of layers of this effect is Odd, enemy's Diversion, Parry and Evasion will be greatly reduced; If user performs this technique while still having layers of this effect remaining, their power will be greatly increased.
 Reverse - Zhen Fragrant
 When you start performing this technique, the deeper the user is poisoned with Acritoxin, the more the power of this technique will increase
-Reverse - 8 Fairies\nof The Other Side
+Reverse - 8 Immortals of\nthe Other Shore
 Increase Poison Activation Requirements
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: The number of actions required for Poisons on the user to activate is increased, but every time a Poison on the user activates, it activates 2 times.
 Reverse - Shock Dream\nFragrant
