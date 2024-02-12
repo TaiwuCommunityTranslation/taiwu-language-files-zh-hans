@@ -677,7 +677,7 @@ Farewell Steps
 During this Footwork, every time the user hits an enemy 3 times, the enemy will receive 1 "None" style
 8 Steps of\nSunset Gazing
 During this Footwork, user's Cast Speed is greatly increased
-Rushes To The Moon
+Chang'e Flies\nto the Moon
 When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 3 points of "Quick" True Qi
 Learae's Snowsteps
 Remove E·Style
@@ -2435,7 +2435,7 @@ Reverse - Farewell Steps
 During this Footwork, every time the user hits an enemy 6 times, the enemy will receive 1 Daze marker
 Reverse - 8 Steps of\nSunset Gazing
 During this Footwork, enemy's Cast Speed is greatly reduced
-Reverse - Rushes To The Moon
+Reverse - Chang'e Flies\nto the Moon
 When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 3 points of "Quick" True Qi
 Reverse - Learae's Snowsteps
 During this Footwork, whenever an enemy attacks the user, a separate Breath check will happen, and if the enemy fails to Resolve it, based on the user's Charm, up to 3 available Styles of the enemy will be changed to "None" Styles. This Breath check becomes progressively less accurate each time it activates within the duration of this technique.
