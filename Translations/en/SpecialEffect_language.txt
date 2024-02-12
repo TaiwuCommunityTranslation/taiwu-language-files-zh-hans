@@ -188,7 +188,7 @@ When the user's internal element is "Water", direct damage and backlash damage d
 Step Sky
 Greatly increases "Agility" limit
 Mysterious\nScripture
-Convert the user's "Metal" internal energy into "Water" internal energy. The more energy is converted, the more the power of the user's "Water" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Metal" internal element into "Water" internal element. The higher the conversion ratio, the more the power of user's "Water" techniques will be increased
 Posthumous Ginseng
 Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Heterodox" to "Orthodox"
 Galaxy Map
