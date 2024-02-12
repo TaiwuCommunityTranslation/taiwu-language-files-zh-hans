@@ -1386,7 +1386,7 @@ Based on completion percentage of this technique, enemy's Stance will be deplete
 Picking Star\nMove
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Punch" and "Hold" styles that user gains will be changed to "Point" styles
 Jade Well Hands
-When this technique reaches $0$0% completion, it will absorb 2 points of True Qi from the enemy. The type of True Qi absorbed will be the lowest True Qi of the user; If user's True Qi is still lower than its initial value after absorbing, user will absorb additional 3 points of this type of True Qi from the enemy
+When this technique reaches $0$0% completion, it will steal 2 points of True Qi from the enemy. The type of True Qi stolen will be the lowest True Qi of the user; If user's True Qi is still lower than its initial value after stealing, user will steal additional 3 points of this type of True Qi from the enemy
 Latency Yin\nFinger
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: External Injuries inflicted on the enemy will have a higher chance to become Old Injuries that are harder to recover from.
 Thunderbolt\n7 Stars Finger
