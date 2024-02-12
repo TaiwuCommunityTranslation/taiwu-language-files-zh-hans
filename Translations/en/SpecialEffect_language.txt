@@ -1428,7 +1428,7 @@ Hidden Weapons auto attack
 When you start performing this technique, If the weapon held by user has "Spirituality", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, the "Hidden Weapon" used to perform this technique will gain "Spirituality" for this battle. When this "Hidden Weapon" is not being held in hand by the user, when user obtains a "Kill" style, it will immediately attack the enemy regardless of the distance, without being affected by Counterattack or Reflect, and will always hit the enemy, but the user will not get any Stance or Styles from it.
 Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
 Jieqing\nRapid Sword
-Continuous execution of sword techniques
+Continuously Use Sword Technique
 When this technique reaches $0$0% completion, user gains 1 "Kill" style; When this technique reaches $1$0% completion, there will be a high chance that this technique will be immediately performed again from 50% of progress without any consumption.
 Swordsmanship\nof Intercourse Breaking
 When attacking the enemy with this technique: If the user has 3 "Kill" styles arranged together, the higher the user's good sense with the enemy, the more direct damage this technique will cause to the enemy; when the user's good sense with the enemy is not less than intimate, the direct damage caused by this technique will not be reduced for any reason, and the enemy will have a grudge against the user after this technique is performed
