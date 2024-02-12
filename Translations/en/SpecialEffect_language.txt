@@ -2146,7 +2146,7 @@ When defending with this technique, every time user successfully counters an ene
 Reverse - Sakyamuni Elephant Throwing
 Whenever the user switches weapons, the heavier the weapon, the higher the chance of the user gaining 1 point of "Aegis" true qi.
 Reverse - Divine Mysterious
-The more "Hack" styles the user has, the more the user's Diversion increases; the more "Stab" styles the user has, the more the user's Evasion increases; the more "Slash" styles the user has, the more the user's Parry increase.
+The more "Throw" styles the user has, the more the user's Diversion will increase; The more "Stab" styles the user has, the more the user's Evasion will increase; The more "Slash" styles the user has, the more the user's Parry will increase
 Reverse - Ultra Alpha Reflection
 No access to true qi
 When defending with this technique: the enemy cannot gain true qi; if the enemy can lose true qi and will gain it, the enemy's true qi will instead be decreased by twice of what should've been gained.
