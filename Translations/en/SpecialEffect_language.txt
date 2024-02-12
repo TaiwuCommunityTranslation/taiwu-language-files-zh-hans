@@ -1795,7 +1795,7 @@ When defeating an enemy in a deadly fight with this technique, if the enemy has 
 Swordsmanship\nof Seventy Two Rages
 Whenever the weapon used by the user switches from a weapon other than "Sword" to a "Sword", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption from 50% of the execution progress.
 Great Mercy\nSword
-Swordsmanship\nof Manjusri's Wisdom
+Manjushri's Great\nWisdom Sword
 When you start performing this technique, the more weapons you have that are not "Swords" but can perform this technique, the more the power and range of this technique will increase.
 Skanda\nSwordsmanship of Defeat Demon
 When this technique fails to reach $0$0% completion, user advances 2 distances and then, if the enemy is still within the user's attack range, user will immediately perform another "Blade Technique" of a tier not exceeding this technique from 50% of its progress without any consumption
@@ -3414,7 +3414,7 @@ Reverse - Swordsmanship\nof Seventy Two Rages
 Whenever the weapon used by the user switches from a non-sword to a sword, the power of this technique increases dramatically and continues until the user performs this technique.
 Reverse - Great Mercy Sword
 This technique deals 45% more direct damage to the enemy's arms, but has a higher chance of attacking other body parts of the enemy
-Reverse - Swordsmanship\nof Manjusri's Wisdom
+Reverse - Manjushri's Great\nWisdom Sword
 Prohibition of enemy gain
 When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Quick" techniques will not be effective.
 Reverse - Skanda\nSwordsmanship of Defeat Demon
