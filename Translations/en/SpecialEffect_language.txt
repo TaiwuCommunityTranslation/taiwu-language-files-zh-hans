@@ -280,7 +280,7 @@ Stance Cost Dn
 When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Stance and have increased cast progress, and the more Stance doesn't get consumed, the more the cast progress of techniques will increase.
 Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 3 randomly available style and immediately removes 2 injuries
-36 Moves of Needle Change
+Thirty-Six Needle\nHolding Art
 Improve Style Change Accuracy
 Increases Might, Finesse, Swiftness, and Breath of the user's "Style Change"
 Net Clothes
@@ -2093,7 +2093,7 @@ Inhale Cost Dn
 When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Inhale and have increased cast progress, and the more Inhale doesn't get consumed, the more the cast progress of techniques will increase.
 Reverse - Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 3 randomly available style and immediately removes 2 Impairment markers.
-Reverse - 36 Moves of Needle Change
+Reverse - Thirty-Six Needle\nHolding Art
 Reduce Enemy's Style Change Accuracy
 Reduces Might, Finesse, Swiftness, and Breath of the enemy's "Style Change"
 Reverse - Net Clothes
