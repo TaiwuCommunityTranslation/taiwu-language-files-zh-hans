@@ -1398,7 +1398,7 @@ Source Extinct\nHands
 Interrupt E·Skill
 The higher the completion percentage of this technique, the higher the chance of "Interrupting" enemy's technique. Power of this technique will increase based on power of the "Interrupted" technique, lasting until the end of the battle.
 Staggered\nFinger
-If the user's "Quick" True Qi is higher than the initial value and higher than the enemy's "Quick" True Qi, this technique can be performed without consuming Inhale and Stance, in this case, the power of this technique is greatly increased, and the user loses 6 points of "Quick" True Qi at the end of this technique.
+If the user's "Quick" True Qi is higher than its initial value, and is higher than the enemy's "Quick" True Qi, this technique will be performed without consuming Inhale and Stance, its power will be greatly increased, and at the end of this technique, user will lose 6 points of "Quick" True Qi
 The Ultra One\nCrystal Finger
 Changing the Ext. Def. for Ext. Pen.
 While performing this technique: Most of the External Defense of the user and the enemy changes to External Penetration; all direct external injuries suffered by the user will not exceed 2
