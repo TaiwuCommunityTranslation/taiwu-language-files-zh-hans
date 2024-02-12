@@ -727,7 +727,7 @@ In this Footwork, when a Kick Technique reaches $0$0% completion, the user will 
 Stone Sink
 Basic Atk All Might
 During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Might accuracy value.
-Immobilize
+Great Stability\nStance
 During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Punch", "Hack" and "Throw" styles possessed by the user can be used in place of each other.
 Vajra Stance
 During this Footwork, whenever the user hits an enemy with a "Pestle" weapon, user's Stamina will be restored.
@@ -2476,7 +2476,7 @@ In this Footwork, when a Kick Technique reaches $0$0% completion, the user will 
 Reverse - Stone Sink
 Diversion all basic Atk
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Diversion value.
-Reverse - Immobilize
+Reverse - Great Stability Stance
 During this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
 Reverse - Vajra Stance
 During this Footwork, whenever the user hits an enemy with a "Pestle" weapon, enemy's Stamina will be depleted.
