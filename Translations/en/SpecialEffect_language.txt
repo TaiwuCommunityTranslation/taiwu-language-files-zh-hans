@@ -675,7 +675,7 @@ Increase Your Accuracies
 During this Footwork, whenever the user attacks the enemy, user's Accuracy stats other than Breath will be increased by a portion of the user's Breath
 Farewell Steps
 During this Footwork, every time the user hits an enemy 3 times, the enemy will receive 1 "None" style
-Afterglow Catching
+8 Steps of\nSunset Gazing
 During this Footwork, user's Cast Speed is greatly increased
 Rushes To The Moon
 When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 3 points of "Quick" True Qi
@@ -2433,7 +2433,7 @@ Increase Your Resolves
 During this Footwork, whenever the enemy attacks the user, user's Resolve stats other than Focus will be increased by a portion of the user's Focus
 Reverse - Farewell Steps
 During this Footwork, every time the user hits an enemy 6 times, the enemy will receive 1 Daze marker
-Reverse - Afterglow Catching
+Reverse - 8 Steps of\nSunset Gazing
 During this Footwork, enemy's Cast Speed is greatly reduced
 Reverse - Rushes To The Moon
 When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 3 points of "Quick" True Qi
