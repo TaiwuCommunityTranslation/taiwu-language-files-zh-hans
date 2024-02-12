@@ -1413,7 +1413,7 @@ Shooting Star
 Change Kill Style Arrangement
 When this technique reaches $0$0% completion, if the user has more than one "Kill" style, up to 3 random "Kill" styles of the user will be arranged together at the end of user's style bar
 Snapshot
-Causes random Weak Point
+Cause Random Weak Points
 After this technique reaches $0$0% completion, the user gains 3 layers of this effect: Whenever the user gains a "Kill" style, the more "Kill" styles the user has arranged together, the more random body parts of the enemy will receive Weak Points
 Special Action\nof Trigram Map
 Triggering the kill effect
