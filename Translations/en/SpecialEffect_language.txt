@@ -2303,7 +2303,7 @@ Reverse - Thunder Bone
 Reflect Ext. DMG UP
 When defending with this technique, the external damage caused to the enemy by the user's Reflect is increased by 30%
 Reverse - Medical Heart
-The more "Punch" styles the user has, the more the user's Diversion increases; the more "Point" styles the user has, the more the user's Evasion increases; the more "Hold" styles the user has, the more the user's Parry increases.
+The more "Punch" styles the user has, the more the user's Diversion will increase; The more "Point" styles the user has, the more the user's Evasion will increase; The more "Hold" styles the user has, the more the user's Parry will increase
 Reverse - Drunk A Thousand Year
 The user's chance to cause follow-up attacks on the enemy is greatly increased, and the user's chance of hitting the enemy is greatly increased. If the user is drunk, these effects are doubled.
 Reverse - Cover Sky
