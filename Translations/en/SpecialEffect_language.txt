@@ -3048,7 +3048,7 @@ Reverse - Staggered\nFinger
 If the user's "Quick" True Qi is lower than its initial value, and is lower than the enemy's "Quick" True Qi, this technique will be performed without consuming Inhale and Stance, its power will be greatly increased, and at the end of this technique, user will gain 6 points of "Quick" True Qi
 Reverse - The Ultra One\nCrystal Finger
 Changing Int. Def. to Int. Pen.
-While performing this technique: Most of the Internal Defense of the user and the enemy changes to Internal Penetration; all direct internal injuries suffered by the user will not exceed 2
+While performing this technique: The majority of user's and enemy's Internal Defense changes to Internal Penetration; User will not receive more than 2 Internal Injury markers at once
 Reverse - 10 Methods of\nJieqing
 When this technique reaches $0$0% completion, for every 2 "Shot" styles on the user's weapon, 1 random Weak Point on the enemy will increase by 1 level.
 Reverse - Leaf Picking
