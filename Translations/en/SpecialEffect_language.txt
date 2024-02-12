@@ -2290,7 +2290,7 @@ If the user's helper can use the "push" command, the progress of the user's tech
 Reverse - 9 Star Eye
 The more "Throw" styles the user has, the more the user's Diversion will increase; The more "Shot" styles the user has, the more the user's Evasion will increase; The more "Drive" styles the user has, the more the user's Parry will increase
 Reverse -  Seven Elements of the Greatest Relief Technique
-When defending with this technique: the more body parts the user has destroyed, the higher the reflect damage the user inflicts on the enemy; at the end of defending with this technique, 3 injury marks on the user's destroyed body parts are randomly changed to old injuries that are more difficult to recover from
+When defending with this technique: The more body parts of the user are broken, the more Reflect damage the user will deal; At the end of this technique, 3 random Injury markers on user's broken body parts will change into Old Injuries that are more difficult to recover from
 Reverse - Anger Face
 When user's "Break" True Qi is twice as high as the enemy's "Break" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - Dragon Looks Back
