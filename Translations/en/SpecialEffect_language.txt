@@ -3041,7 +3041,7 @@ After this technique reaches $0$0% completion, user gains 6 layers of this effec
 Reverse - Thunderbolt\n7 Stars Finger
 When this technique reaches $0$0% completion, user will steal 3 points of "Break" True Qi from the enemy
 Reverse - Mysterious\nFinger
-When this technique reaches $0$0% completion, the more Cryotoxin markers user has, the more Internal Injuries will be added to random body parts of the enemy.
+When this technique reaches $0$0% completion, the more Cryotoxin markers the user has, the more Internal Injuries will be added to random body parts of the enemy.
 Reverse - Source Extinct\nHands
 The higher the completion percentage of this technique, the higher the chance of "Interrupting" enemy's technique. Power of the "Interrupted" technique will decrease based on power of this technique, lasting until the end of the battle.
 Reverse - Staggered\nFinger
