@@ -2185,7 +2185,7 @@ Reverse - Pure Virgin
 The higher the user's Charm, the more the user's Focus will increase.
 Reverse - Reclamation Stance
 Applying a mind marker
-When defending with this technique, whenever the user uses Evasion to Resolve enemy's attack, the user applies 1 Daze marker to the enemy
+When defending with this technique, whenever the user Resolves an attack using Evasion, the user applies 1 Daze marker to the enemy
 Reverse - Dark Jade Practice
 Greatly increases the duration of Daze markers on the enemy
 Reverse - Formation of Scattered Flowers
