@@ -2506,7 +2506,7 @@ Whenever an enemy gains a "Point", "Stab", or "Shot" style during this Footwork,
 Reverse - Carefree Step
 During this Footwork, whenever the user hits an enemy with a "Hidden Weapons" weapon, enemy's Stamina will be depleted.
 Reverse - Sky River Walk
-During this Footwork, for every distance the user accumulates back, the user draws 1 point of "Aegis" true qi from the enemy's body.
+During this Footwork, whenever the user retreats 1 distance, user absorbs 1 point of "Aegis" True Qi from the enemy
 Reverse - Take 5 Cars
 When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, user's Stamina will be recovered.
 Reverse - Divine Rope
