@@ -1401,7 +1401,7 @@ Staggered\nFinger
 If the user's "Quick" True Qi is higher than its initial value, and is higher than the enemy's "Quick" True Qi, this technique will be performed without consuming Inhale and Stance, its power will be greatly increased, and at the end of this technique, user will lose 6 points of "Quick" True Qi
 The Ultra One\nCrystal Finger
 Changing the Ext. Def. for Ext. Pen.
-While performing this technique: Most of the External Defense of the user and the enemy changes to External Penetration; all direct external injuries suffered by the user will not exceed 2
+While performing this technique: The majority of user's and enemy's External Defense changes to External Penetration; User will not receive more than 2 External Injury markers at once
 10 Methods of\nJieqing
 When this technique reaches $0$0% completion, for every 3 "Shot" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Leaf Picking
