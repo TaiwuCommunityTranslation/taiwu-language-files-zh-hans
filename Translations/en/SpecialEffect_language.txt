@@ -1411,7 +1411,7 @@ Obtain special Kill style
 When this technique reaches $0$0% completion, user will gain 1 "Kill" style.
 Shooting Star
 Variation of killing arrangement
-When this technique reaches $0$0% completion, if user has more than one "Kill" style, up to 3 "Kill" styles will be randomly arranged at the end of the user's style bar.
+When this technique reaches $0$0% completion, if the user has more than one "Kill" style, up to 3 random "Kill" styles of the user will be arranged together at the end of user's style bar
 Snapshot
 Causes random Weak Point
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user gains a "Kill" style, the more "Kill" styles user has arranged together, the more random body parts of the enemy will receive Weak Points.
