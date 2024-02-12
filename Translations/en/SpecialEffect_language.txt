@@ -1894,7 +1894,7 @@ The higher the user's "Earth" internal element, the more the user's External and
 Reverse -  Daewonsanjin
 User's "Earth" techniques will deal more direct damage and backlash damage to characters whose internal element is "Wood"
 Reverse -  No Mind Tricks
-Converts the user's "Wood" internal energy into "Earth" internal energy. The more energy is converted, the more the power of the user's "Earth" type techniques will be increased, by up to 20%. (Bonus = 0.2 * [percentage converted] )
+Converts user's "Wood" internal element into "Earth" internal element. The higher the conversion ratio, the more the power of user's "Earth" techniques will be increased
 Reverse -  Hunyuan WuXiangGong
 Changes the effect of all "Earth" techniques of the user other than "Inner Art" techniques from "Orthodox" to "Heterodox"
 Reverse -  seal gas fixation method
