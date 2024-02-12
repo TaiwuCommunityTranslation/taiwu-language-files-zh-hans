@@ -2189,7 +2189,7 @@ When defending with this technique, whenever the user Resolves an attack using E
 Reverse - Dark Jade Practice
 Greatly increases the duration of Daze markers on the enemy
 Reverse - Formation of Scattered Flowers
-When your teammate uses the「Push」or「Pull」commands, the user will be pushed and pulled farther.
+When using "Push" or "Pull" orders, they will push or pull the user farther
 Reverse - Rainbow Fairy Dress
 Greatly reduces the duration of enemy's "Quick" techniques
 Reverse - Mirror Flower Water Moon
