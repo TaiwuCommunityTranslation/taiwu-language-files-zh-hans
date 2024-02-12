@@ -2500,7 +2500,7 @@ During this Footwork, whenever an enemy attacks the user, a separate Swiftness c
 Reverse - Sky Snake Rolling
 When retreating with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, the enemy will receive a debuff that reduces all Poison Resistances depending on the distance moved.
 Reverse - A Hundred Feet Poling
-During this Footwork, the minimum attack distance of the user is increased by 2
+During this Footwork, user's minimum attack range is increased by 2
 Reverse - Traceless 6 Steps
 Whenever an enemy gains a "Point", "Stab", or "Shot" style during this Footwork, if the user can use these styles, there is a higher chance that the enemy's gained style will be transferred to the user.
 Reverse - Carefree Step
