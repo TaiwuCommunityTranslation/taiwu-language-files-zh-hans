@@ -2282,7 +2282,7 @@ Reverse - River Immortals Wedding
 Transfer Unusable Style
 When defending with this technique, whenever the user successfully Counters an attack, 1 unusable style of the user will be transferred to the enemy
 Reverse - 6 Turn of Royal
-When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user draws 1 point of "Break" True Qi from the enemy's body.
+When defending with this technique, whenever the user Resolves an attack using Evasion, the user steals 1 point of "Break" True Qi from the enemy
 Reverse - 8 Threads of Frozen
 When defending with this technique, the internal damage caused to the enemy by the user's Reflect is increased by 30%
 Reverse - Formation of 6 Stars
