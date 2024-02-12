@@ -770,7 +770,7 @@ Heaven Leap
 Increase your attack
 When advancing with this Footwork, the user needs to prepare to jump, up to 5 distance at once. After jumping, the user will gain a buff that will increase user's Ext. Pen and Int. Pen.; The farther the user advances, the stronger the buff will be
 Moving Star
-Change the distance between enemy and us
+Change DIstance
 When this Footwork is used, the distance between the user and the enemy changes to 9; During this Footwork, the enemy cannot actively move closer to the user
 Barefoot
 During this Footwork: The user will not be moved backwards for any reason, and the enemy will have to consume more Footwork to move backwards
