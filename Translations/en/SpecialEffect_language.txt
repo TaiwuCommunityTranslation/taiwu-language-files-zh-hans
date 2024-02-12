@@ -760,7 +760,7 @@ Carefree Step
 During this Footwork, whenever the user hits an enemy with a "Hidden Weapons" weapon, user's Stamina will be restored.
 Sky River Walk
 During this Footwork, whenever the user advances 1 distance, user absorbs 1 point of "Break" True Qi from the enemy
-Take 5 Cars
+Riding Five\nCarriages
 When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, user's Stamina will be recovered.
 Divine Rope
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; Whenever the user attacks the enemy, the distance between the enemy and the user will immediately reduce by 4. The reduced distance will be restored after the attack ends
@@ -2507,7 +2507,7 @@ Reverse - Carefree Step
 During this Footwork, whenever the user hits an enemy with a "Hidden Weapons" weapon, enemy's Stamina will be depleted.
 Reverse - Sky River Walk
 During this Footwork, whenever the user retreats 1 distance, user absorbs 1 point of "Aegis" True Qi from the enemy
-Reverse - Take 5 Cars
+Reverse - Riding Five\nCarriages
 When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, user's Stamina will be recovered.
 Reverse - Divine Rope
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; Whenever the user attacks the enemy, the distance between the enemy and the user will immediately increase by 4. The reduced distance will be restored after the attack ends
