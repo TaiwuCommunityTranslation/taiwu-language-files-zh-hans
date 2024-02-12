@@ -3071,7 +3071,7 @@ When you start performing this technique, If the weapon held by user has "Spirit
 Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
 Reverse - Jieqing\nRapid Sword
 When this technique reaches $0$0% completion, enemy gains 1 "Kill" style; When this technique reaches $1$0% completion, there will be a high chance that this technique will be immediately performed again from 50% of progress without any consumption.
-Reverse - Swordsmanship\nof Intercourse Breaking
+Reverse - Relationships\nCutting Sword
 When attacking the enemy with this technique: If the enemy has 3 "Kill" styles arranged together, the higher the Favor between the user and the enemy, the more direct damage this technique will deal. If the Favor between the user and the enemy isn't lower than Intimate, the direct damage of this technique will not be reduced for any reason. After using this technique, the enemy and the user will have a Feud with each other.
 Reverse - Sword Intent\nof Fear
 Reverse - Jieqing Hidden\nRapid Sword
