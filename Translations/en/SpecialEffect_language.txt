@@ -716,7 +716,7 @@ Move Dist Up
 When advancing with this Footwork, the user needs to prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
 Perilous Cliff\nGathering
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, user's Stamina will be restored.
-Shatang's Watersteps
+Water Floating\nSteps
 Improve Finesse of Kick Techniques
 The Finesse of Kick Techniques performed with this Footwork will be greatly increased
 Skyline of Mt.Chai
@@ -2467,7 +2467,7 @@ Reverse - Flying on Grass
 When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
 Reverse - Perilous Cliff\nGathering
 During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weapon, enemy's Stamina will be depleted.
-Reverse - Shatang's Watersteps
+Reverse - Water Floating\nSteps
 When using Kick Techniques with this Footwork, your Accuracies will be shifted towards Finesse
 Reverse - Skyline of Mt.Chai
 While performing a Kick Technique in this Footwork, direct Internal Damage dealt by the enemy will be reduced by 60%
