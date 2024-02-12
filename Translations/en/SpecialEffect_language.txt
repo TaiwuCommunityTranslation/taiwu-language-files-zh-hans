@@ -2298,7 +2298,7 @@ When defending with this technique: all direct External Damage taken by the user
 Reverse - Divine Fire Cover
 When defending with this technique: all direct Internal Damage taken by the user is reduced by 30%; Whenever the user Reflects an enemy attack, the enemy loses 1 point of "Aegis" True Qi
 Reverse - Dragon Breakthrough
-When user's teammate uses "Break" order, the power of their "Break" technique will be greatly increased.
+When using "Break" order, it will greatly increase the power of teammate's "Break" technique
 Reverse - Thunder Bone
 Reflect Ext. DMG UP
 When defending with this technique, the external damage caused to the enemy by the user's Reflect is increased by 30%
