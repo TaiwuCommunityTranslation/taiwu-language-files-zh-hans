@@ -1809,7 +1809,7 @@ After this technique reaches $0$0% completion, if the weapon held by user is "Bl
 Blade of\n6 Directions
 Wp·Switch CD Dn
 After this technique reaches $0$0% completion, it removes switch cooldown of 1 weapon of the user that isn't being held, making it immediately available for switching.
-Blade of\nTiger Step Extremely Far
+Tiger Step\n8 Poles Blade
 Whenever the weapon used by the user switches from a weapon other than a "Blade" to a "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption from 50% of the execution progress.
 Golden Blade\nof The Ultra One
 Blade of 7 Star
@@ -3430,7 +3430,7 @@ After this technique reaches $0$0% completion, if the weapon held by user is a "
 Reverse - Blade of\n6 Directions
 Ban E·Weapon
 After this technique reaches $0$0% completion, it puts 1 weapon of the enemy that isn't being held on a cooldown, making it temporarily unavailable for switching.
-Reverse - Blade of\nTiger Step Extremely Far
+Reverse - Tiger Step\n8 Poles Blade
 Whenever the weapon used by the user switches from a non-sword to a sword, the power of this technique increases dramatically and lasts until the user performs this technique.
 Reverse - Golden Blade\nof The Ultra One
 This technique deals 45% more direct damage to the enemy's legs, but has a higher chance of attacking other body parts of the enemy
