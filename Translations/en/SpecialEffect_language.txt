@@ -499,7 +499,7 @@ The user's External Injuries will disappear over time; the user will not receive
 Sky Bridge
 Remove All Sealed Acupoints
 Whenever the user has a total of 7 or more Sealed Acupoints on their body, all Sealed Acupoints will be removed, and no effects from removing the Sealed Acupoints will trigger
-River Immortals Wedding
+River God's\nMarriage
 Steal Usable Style
 When defending with this technique, whenever the user successfully Counters an attack, 1 usable style of the enemy will be transferred to the user
 6 Turn of Royal
@@ -2278,7 +2278,7 @@ The user's Internal Injuries will disappear over time; the user will not receive
 Reverse - Sky Bridge
 Remove All Weak Points
 Whenever the user has a total of 7 or more Weak Points on their body, all Weak Points will be removed, and no effects from removing the Weak Points will trigger
-Reverse - River Immortals Wedding
+Reverse - River God's\nMarriage
 Transfer Unusable Style
 When defending with this technique, whenever the user successfully Counters an attack, 1 unusable style of the user will be transferred to the enemy
 Reverse - 6 Turn of Royal
