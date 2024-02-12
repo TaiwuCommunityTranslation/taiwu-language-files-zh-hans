@@ -2130,7 +2130,7 @@ If the enemy's Qi Disorder is higher than the user's, External Ratio of all enem
 Reverse - 5 Qi In One
 When defending with this technique, enemy's True Qi gained in battle will rapidly decrease until it reaches the initial value
 Reverse - True Art Demon Slaying
-When your teammates use the 「True Qi」 order, more True Qi will be transferred to the user.
+When using "True Qi" order, it will transfer more True Qi to the user
 Reverse - Endless Power
 When defending with this technique: As long as the enemy attack isn't a critical hit, even if the user fails to Resolve enemy's weapon attack, user will still be able to Counter; Whenever the user successfully Resolves and Counters enemy's weapon attack, enemy's Inhale gets fully depleted, and the more Inhale gets depleted, the more the damage of user's Counter will increase.
 Reverse - 3 Flower On Top
