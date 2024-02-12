@@ -381,7 +381,7 @@ When defending with this technique, the direct damage dealt by the enemy to the 
 Elephant Imitation
 Transferring your benefits
 When defending with this technique: All direct damage taken by the user is reduced by 45%; Whenever the user Reflects an enemy attack, 1 debuff is transferred from the user to the enemy
-Thousands Incarnation Return
+Myriad Changes\nRewind
 When defending with this technique, whenever the user successfully Counters a weapon attack, the user's External Injury markers will be restored to the amount the user had at the beginning of this technique, and half of the non-old External Injury markers removed by this effect will be applied to the enemy
 Pure Virgin
 The higher the user's Charm, the more the user's Breath will increase.
@@ -2179,7 +2179,7 @@ When defending with this technique, the direct damage dealt by the enemy to the 
 Reverse - Elephant Imitation
 Diverting enemy gain
 When defending with this technique: All direct damage taken by the user is reduced by 45%; Whenever the user Reflects an enemy attack, 1 buff is transferred from the enemy to the user
-Reverse - Thousands Incarnation Return
+Reverse - Myriad Changes\nRewind
 When defending with this technique, whenever the user successfully Counters a weapon attack, the user's Internal Injury markers will be restored to the amount the user had at the beginning of this technique, and half of the non-old Internal Injury markers removed by this effect will be applied to the enemy
 Reverse - Pure Virgin
 The higher the user's Charm, the more the user's Focus will increase.
