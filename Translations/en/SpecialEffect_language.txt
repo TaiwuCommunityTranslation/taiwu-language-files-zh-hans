@@ -2084,7 +2084,7 @@ Reverse - Quiet Return In One
 E·Inhale Dn
 Whenever the user neutralizes an enemy's non-chasing attack, the enemy's Inhale is reduced and the user gains 1 randomly available style.
 Reverse - 4 Images of Lotus Formation
-When your teammate uses the「Heal」or「Detox」commands, they will heal more injuries and detox more poisons on the user.
+When using "Heal" or "Detox" orders, they will heal more Injuries and detox more Poison
 Reverse - Immortal Yang's Golden Body
 Increasing anti-shock damage
 When defending with this technique, the more storages available to the user, the higher the reflect damage the user can inflict on the enemy.
