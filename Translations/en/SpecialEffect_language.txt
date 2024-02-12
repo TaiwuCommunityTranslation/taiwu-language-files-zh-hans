@@ -3072,7 +3072,7 @@ Spirituality: When this "Hidden Weapons" is not being held in hand by the user, 
 Reverse - Jieqing\nRapid Sword
 When this technique reaches $0$0% completion, enemy gains 1 "Kill" style; When this technique reaches $1$0% completion, there will be a high chance that this technique will be immediately performed again from 50% of progress without any consumption.
 Reverse - Swordsmanship\nof Intercourse Breaking
-When attacking the enemy with this technique: If the enemy has 3 "Kill" styles arranged together, the higher the good sense of the user and the enemy, the more direct damage this technique will cause to the enemy, and when the good sense of the user and the enemy is not less than intimate, the direct damage caused by this technique will not be reduced for any reason, and the enemy will have a grudge against the user after this technique is performed.
+When attacking the enemy with this technique: If the enemy has 3 "Kill" styles arranged together, the higher the Favor between the user and the enemy, the more direct damage this technique will deal. If the Favor between the user and the enemy isn't lower than Intimate, the direct damage of this technique will not be reduced for any reason. After using this technique, the enemy and the user will have a Feud with each other.
 Reverse - Sword Intent\nof Fear
 Reverse - Jieqing Hidden\nRapid Sword
 When this technique reaches $0$0% completion, if enemy has at least 2 "Kill" styles, user will be able to perform a T9 "Sword Technique" from 50% of its progress without any consumption. For every 2 additional "Kill" styles, the level of "Sword Technique" that can be performed by this technique increases by one, up to a maximum of T7.
