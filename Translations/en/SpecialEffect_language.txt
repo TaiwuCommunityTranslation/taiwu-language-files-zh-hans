@@ -759,7 +759,7 @@ During this Footwork, if the weapon of the user is able to strike the style requ
 Carefree Step
 During this Footwork, whenever the user hits an enemy with a "Hidden Weapons" weapon, user's Stamina will be restored.
 Sky River Walk
-During this Footwork, for every 1 distance the user advances, the user draws 1 point of "Break" true qi from the enemy's body.
+During this Footwork, whenever the user advances 1 distance, user absorbs 1 point of "Break" True Qi from the enemy
 Take 5 Cars
 When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, user's Stamina will be recovered.
 Divine Rope
