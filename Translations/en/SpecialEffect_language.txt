@@ -2145,7 +2145,7 @@ Reverse - Golden Blade Fist
 When defending with this technique, every time user successfully counters an enemy's weapon attack, user gains an "attack token", and if user's "attack tokens" were already full before this effect, user's Counter damage to the enemy will be greatly increased
 Reverse - Sakyamuni Elephant Toss
 Whenever the user switches weapons, the heavier the weapon, the higher the chance of the user gaining 1 point of "Aegis" true qi.
-Reverse - Divine Mysterious
+Reverse - Profound Divination Law
 The more "Throw" styles the user has, the more the user's Diversion will increase; The more "Stab" styles the user has, the more the user's Evasion will increase; The more "Slash" styles the user has, the more the user's Parry will increase
 Reverse - Ultra Alpha Reflection
 No access to true qi
