@@ -298,7 +298,7 @@ When defending with this technique, whenever the user successfully Counters an a
 Twelve Meridians\nShift
 Remove Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead remove a Sealed Acupoint on the user
-8 Doors of Live Or Dead
+Eight Gates of\nLife and Death
 Whenever the user receives an Injury marker from the enemy, the Injury markers on 1 other random body part of the user with fewer Injury markers will be reduced by 2
 Ice Condensate of Blood
 Toxins received by countershock
@@ -2109,7 +2109,7 @@ When defending with this technique, whenever the user successfully Counters an a
 Reverse - Twelve Meridians\nShift
 Shift Your Sealed Acupoints
 When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead be inflicted on the enemy
-Reverse - 8 Doors of Live Or Dead
+Reverse - Eight Gates of\nLife and Death
 Whenever the enemy receives an Injury marker from the user, the Injury markers on 1 other random body part of the enemy with fewer Injury markers will worsen
 Reverse - Ice Condensate of Blood
 When defending with this technique: Umbritoxin, Cryotoxin and Oneirotoxin on the user won't activate; User can Reflect Umbritoxin, Cryotoxin and Oneirotoxin; At the end of defending with this technique, based on how much Umbritoxin, Cryotoxin and Oneirotoxin the user received during this technique, the user will receive a buff that increases Internal Defense, and remove all the Umbritoxin, Cryotoxin and Oneirotoxin received during this technique
