@@ -392,7 +392,7 @@ Dark Jade Practice
 Greatly reduces the duration of Daze markers on the user
 Scattered Flowers\nFormation
 User's teammates will more frequently be able to perform "Push" and "Pull" orders to push you forward or pull you back 1 distance.
-Rainbow Fairy Dress
+Immortal Beauty\nDress Art
 Greatly increases the duration of user's "Quick" techniques
 Mirror Flower Water Moon
 Directly defuse the attack
@@ -2190,7 +2190,7 @@ Reverse - Dark Jade Practice
 Greatly increases the duration of Daze markers on the enemy
 Reverse - Scattered Flowers\nFormation
 When using "Push" or "Pull" orders, they will push or pull the user farther
-Reverse - Rainbow Fairy Dress
+Reverse - Immortal Beauty\nDress Art
 Greatly reduces the duration of enemy's "Quick" techniques
 Reverse - Mirror Flower Water Moon
 When defending with this technique, the more Daze markers the enemy has, the higher the chance that the user will directly Resolve enemy attacks
