@@ -437,7 +437,7 @@ White Water\nLongevity Art
 Gain Nadis Force
 Reduce Qi Disorder
 Whenever Poison activates on the enemy, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
-Flood Dragon's Bone Regeneration
+Young Dragon's\nBone Regrowth Art
 Automatic healing of injuries
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All External Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 9 Colored Jade Cicada
@@ -2229,7 +2229,7 @@ Reduce Poison Activation Requirements
 Reduces the number of actions required for Poison to activate on the enemy
 Reverse - White Water\nLongevity Art
 Whenever Poison activates on the user, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
-Reverse - Flood Dragon's Bone Regeneration
+Reverse - Young Dragon's\nBone Regrowth Art
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All Internal Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 Reverse - 9 Colored Jade Cicada
 When the total number of defeat markers sustained by the user reaches the defeat condition, user will immediately consume 9 points of "Nadis" True Qi to remove all Injury, Impairment, and Fatal Wound markers; Every time this effect activates, it's cost goes up by 9 points, up to a maximum of 99 points.
