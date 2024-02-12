@@ -3057,7 +3057,7 @@ Reverse - 6 Hands of\nShadowless
 Make the enemy get the Kill style
 When this technique reaches $0$0% completion, enemy will gain 1 "Kill" style.
 Reverse - Shooting Star
-When this technique reaches $0$0% completion, if enemy has more than one "Kill" style, up to 3 "Kill" styles will be randomly arranged at the end of the enemy's style bar.
+When this technique reaches $0$0% completion, if the enemy has more than one "Kill" style, up to 3 random "Kill" styles of the enemy will be arranged together at the end of enemy's style bar
 Reverse - Snapshot
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy gains a "Kill" style, the more "Kill" styles enemy has arranged together, the more random body parts of the enemy will receive Weak Points.
 Reverse - Special Action\nof Trigram Map
