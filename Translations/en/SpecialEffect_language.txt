@@ -670,7 +670,7 @@ Enhanced Finesse gain
 During this Footwork: User's Finesse will not be reduced by any effect; The effect of all Finesse-increasing technique effects and buffs received by the user will be greatly increased
 Fallen Flower
 During this Footwork, whenever the user hits an enemy with a "Zither" weapon, user's Stamina will be restored.
-Skyscraper Climbing
+Jade Pavilion\nClimbing
 Increase Your Accuracies
 During this Footwork, whenever the user attacks the enemy, user's Accuracy stats other than Breath will be increased by a portion of the user's Breath
 Farewell Steps
@@ -2428,7 +2428,7 @@ Enhancement Parry
 During this Footwork: Enemy's Parry will not be increased by any effect; The effect of all Parry-reducing technique effects and buffs received by the enemy will be greatly increased
 Reverse - Fallen Flower
 During this Footwork, whenever the user hits an enemy with a "Zither" weapon, enemy's Stamina will be depleted.
-Reverse - Skyscraper Climbing
+Reverse - Jade Pavilion\nClimbing
 Increase Your Resolves
 During this Footwork, whenever the enemy attacks the user, user's Resolve stats other than Focus will be increased by a portion of the user's Focus
 Reverse - Farewell Steps
