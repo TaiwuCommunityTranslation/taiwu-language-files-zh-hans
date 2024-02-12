@@ -2280,7 +2280,7 @@ Remove All Weak Points
 Whenever the user has a total of 7 or more Weak Points on their body, all Weak Points will be removed, and no effects from removing the Weak Points will trigger
 Reverse - River Immortals Wedding
 Handover Styles
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 1 of the user's unavailable styles will be transferred to the enemy.
+When defending with this technique, whenever the user successfully Counters an attack, 1 unusable style of the user will be transferred to the enemy
 Reverse - 6 Turn of Royal
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user draws 1 point of "Break" True Qi from the enemy's body.
 Reverse - 8 Threads of Frozen
