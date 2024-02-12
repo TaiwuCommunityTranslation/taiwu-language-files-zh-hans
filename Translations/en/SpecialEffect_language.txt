@@ -310,7 +310,7 @@ When defending with this technique, if the number of direct Injury markers dealt
 Wudang Iron Clothes
 Equal share of Ext. and Int. Def.
 When defending with this technique: All direct damage received by the user is reduced by 15%; The user resists enemy attacks with the average value of the user's External and Internal Defense
-Sword Formation of The 3 Elements
+Three Talents\nSword Formation
 User's teammates will more frequently be able to perform "Mend" and "Release" orders to remove Weak Points and Sealed Acupoints from the user.
 Cloud Bed
 Steady pace of improvement
@@ -2118,7 +2118,7 @@ When defending with this technique, if the number of direct Injury markers dealt
 Reverse - Wudang Iron Clothes
 Average Pen.
 When defending with this technique: All direct damage received by the user is reduced by 15%; The user resists enemy attacks with the average value of the enemy's External and Internal Penetration
-Reverse - Sword Formation of The 3 Elements
+Reverse - Three Talents\nSword Formation
 When using "Mend" or "Release" orders, they will remove more Weak Points and Sealed Acupoints
 Reverse - Cloud Bed
 Raising the Qi draw-off
