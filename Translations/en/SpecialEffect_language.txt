@@ -242,7 +242,7 @@ When defending with this technique, user won't be moved backwards for any reason
 Iron Skin
 Reduce Ext. Inj
 When an uninjured body part of the user receives a direct external injury from the enemy, the number of injuries is reduced to 1
-Golden Bell Sheild
+Golden Bell\nCover
 Remove Weak Point
 When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, randomly eliminate 2 Weak Points on user's body
 Arhat's Stick Formation
@@ -2058,7 +2058,7 @@ When defending with this technique, user won't be moved forward for any reason; 
 Reverse - Iron Skin
 Int. DMG Taken Dn
 When an uninjured body part of the user receives a direct internal injury from the enemy, the number of injuries is reduced to 1
-Reverse - Golden Bell Sheild
+Reverse - Golden Bell\nCover
 When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, inflict 2 Weak Points on a random body part of the enemy
 Reverse - Arhat's Stick Formation
 When using "Defend" order, it will greatly increase the power of teammate's "Aegis" technique
