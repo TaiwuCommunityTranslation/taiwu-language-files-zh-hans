@@ -170,7 +170,7 @@ Increases the power limit of "Five Immortals Cult" techniques by 30%
 Yellow\nImmortals Cultivation
 Significantly increases the speed of the user's "Detoxing" in battle
 Red Immortals\nCultivation
-Increases the power of the user's "Wood" type techniques by 10%
+Increases the power of user's "Wood" techniques by 10%
 Black\nImmortals Cultivation
 Significantly increases the amount of toxins that can be dispelled when the user performs "Detoxing" in battle
 Azure\nImmortals Cultivation
