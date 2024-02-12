@@ -219,7 +219,7 @@ When the user's internal element is "Earth", direct damage and backlash damage d
 3 Poisons of\nDarkness Spell
 The happier the "Mood" of the user, the more the power of all the techniques of the user will be increased, by up to 15%
 Moon Shape
-Converts user's "Fire" element into "Earth" element. The higher the conversion ratio, the higher the power of the user's "Earth" skills will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Earth" techniques
+Converts user's "Fire" internal element into "Earth" internal element. The higher the conversion ratio, the higher the power of the user's "Earth" techniques will be; If user's "Fire" element is at 0%, user will not receive critical hits from "Fire" or "Earth" techniques
 The Great 5 Yin
 The higher the user's "Earth" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Children's\nBlood Sacrifice
