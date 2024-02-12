@@ -339,7 +339,7 @@ Golden Blade Fist
 Reduce Enemy Attack Tokens
 Dmg Immunity
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the enemy's "attack tokens" are reduced, and if the enemy's "attack tokens" were already empty before this reduction occurs, the user's counterattack damage to the enemy is greatly increased
-Sakyamuni Elephant Throwing
+Sakyamuni\nElephant Toss
 Gain Specific Force
 Whenever the user switches weapons, the heavier the weapon, the higher the chance that the user will gain 1 point of "Break" true qi.
 Divine Mysterious
