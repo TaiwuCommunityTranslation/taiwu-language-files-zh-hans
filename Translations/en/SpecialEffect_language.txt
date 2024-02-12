@@ -418,7 +418,7 @@ Arms become divine weapons
 When the total number of defeat marks of the user exceeds half of the defeat condition, the weapon currently used by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" cannot be damaged unless it is damaged by attacking "Divine Armor"; direct damage caused by attacking with "Divine Armor" cannot be reduced by any effect unless the enemy is protected by "Divine Armor"
 4 Finger Azure Cream
 When user's "Nadis" True Qi is higher than the enemy's "Nadis" True Qi, all direct damage dealt by the enemy will be reduced by 15%
-3 Books of 9-Steps
+3 Parts 9 Pulses
 When the distance between the user and the enemy is less than 5, the closer the user is to the enemy, the more the user's Might, Finesse, Swiftness, and Breath will increase.
 Visceral Anatomy
 Improving external injury
@@ -2214,7 +2214,7 @@ Armor becomes divine armor
 When the total number of defeat marks of the user exceeds half of the defeat condition, the Armor currently worn by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" will not be damaged unless it is damaged by the attack of "Divine Armor"; all direct damage resisted by "Divine Armor" cannot be increased by any effect unless the enemy attacks or performs a technique with "Divine Armor".
 Reverse - 4 Finger Azure Cream
 When user's "Nadis" True Qi is twice as high as the enemy's "Nadis" True Qi, all direct damage dealt by the user will be increased by 15%
-Reverse - 3 Books of 9-Steps
+Reverse - 3 Parts 9 Pulses
 When the distance between the user and the enemy is less than 5, the closer the user is to the enemy, the more the user's Diversion, Parry, Evasion, and Focus will increase.
 Reverse - Visceral Anatomy
 Increase direct internal injuries
