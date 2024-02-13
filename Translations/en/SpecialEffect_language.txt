@@ -3000,7 +3000,7 @@ As long as this technique isn't Resolved with Diversion by the enemy, the direct
 Reverse - Blade of\nSoul Heat
 At the start of the battle, the user gains 0 layers of this effect: Every time the user loses 1 point of True Qi, this effect increases by 1 layer. The more layers of this effect user has, the more the power and attack range of this technique will increase. However, if the number of layers of this effect reaches 30 or more, the user will suffer backlash damage from this technique, and the number of layers of this effect will be reduced to 0.
 Reverse - Blade of\nVajra Fall
-When this technique reaches $0$0% completion, if the enemy's "Aegis" True Qi isn't lower than its initial value, the user steals 15 points of "Aegis" True Qi from the enemy. Otherwise, steals 5 points.
+When this technique reaches $0$0% completion, if the enemy's "Aegis" True Qi isn't lower than its initial value, the user will steal 15 points of "Aegis" True Qi from the enemy. Otherwise, the user will steal 5 points
 Reverse - Vajra Prajna\nBlade
 When this technique reaches $0$0% completion, the power of 3 "Wood", 2 "Fire", and 1 "Metal" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Ruyibaolun\nBlade
