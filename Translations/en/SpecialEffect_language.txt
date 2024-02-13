@@ -27,7 +27,7 @@ The higher the user's "Wood" internal element, the more the user's External and 
 Original Pure\nForce
 User's "Wood" techniques will deal more direct damage and backlash damage to characters whose internal element is "Earth"
 Spirituality\nComprehension
-skill power up
+Increase Technique Power
 Whenever the user obtains an available style, the user has a very low chance of increasing the power of all the user's techniques, which lasts until the end of the battle.
 Lotus\nMysterious
 Converts user's "Fire" internal element into "Wood" internal element. The higher the conversion ratio, the more the power of user's "Wood" techniques will be increased; If user's "Fire" internal element is at 0%, user will not receive critical hits from "Fire" or "Wood" techniques
