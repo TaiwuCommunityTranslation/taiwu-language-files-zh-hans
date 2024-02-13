@@ -3216,7 +3216,7 @@ As long as this technique isn't Resolved with Evasion by the enemy, the direct I
 Reverse - White Ape's\nLong-Arm Fist
 Based on completion percentage of this technique, greatly consumes the duration of enemy's "Quick" technique
 Reverse - Transfer Flower\nPicker
-Transformation of Internal Defense to External Defense
+Int. Def. to Ext. Def.
 When attacking enemy with this technique, if user's Agility is higher than the enemy's Agility, a portion of enemy's Internal Defense will be transferred to External Defense; When this technique reaches $0$0% completion, 10 points of user's Agility will be consumed to inflict enemy with a buff that increases External Defense, and a debuff that decreases Internal Defense
 Reverse - Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Internal Penetration when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Inhale recovery speed is reduced.
