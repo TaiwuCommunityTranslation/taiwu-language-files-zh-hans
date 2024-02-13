@@ -1849,7 +1849,7 @@ The higher the user's "Wood" internal element, the more the user's External and 
 Reverse -  Innate One Element Qigong
 User's "Wood" techniques will deal more direct damage and backlash damage to characters whose internal element is "Metal"
 Reverse -  Spiritual Enlightenment
-Reducing the power of enemy techniques
+Reduce Technique Power
 Whenever the user obtains an available style, the user has a very low chance of reducing the power of all enemy techniques until the end of the battle.
 Reverse -  Lotus Tai Xuan technique
 Converts user's "Metal" internal element into "Wood" internal element. The higher the conversion ratio, the more the power of user's "Wood" techniques will be increased; If user's "Metal" internal element is at 0%, user will not receive critical hits from "Metal" or "Wood" techniques
