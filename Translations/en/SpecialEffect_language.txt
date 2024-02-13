@@ -3239,7 +3239,7 @@ This technique can't be "Sealed" or "Interrupted"; When this technique reaches $
 Reverse - The Great\nFinger of Mt.Light
 When you start performing this technique, the lower the user's Fame, the more the power of this technique will increase; If the user's Fame isn't higher than the enemy's, this technique will always reach 100% completion
 Reverse - Heavenly Spirit\nFinger
-Weak Point Appears
+Weak Points Appears
 Level of Weak Points caused by this technique won't be reduced for any reason; After this technique reaches $0$0% completion, the user gains 7 layers of this effect: Whenever the enemy removes a Weak Point with a level less than 4, the Weak Point will reappear with a level increased by 1. This effect won't activate any effects that activate by inflicting Weak Points on the enemy
 Reverse - Swordsmanship\nof Flower Brush
 Reduce Enemy's Swiftness
