@@ -1613,7 +1613,7 @@ The Attack Range of this technique is always the maximum; When this technique re
 A Thousand\nHands
 Decrease Attack Token Consumption
 Reduce your Accuracy
-This technique can't be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, user gains 4 layers of this effect: Weapon attacks that cost 2 or more attack tokens will cost 1 less attack token, but the Might, Finesse, and Swiftness of this attack will be greatly reduced.
+This technique can't be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, the user gains 4 layers of this effect: Weapon attacks that cost 2 or more attack tokens will cost 1 less attack token, but the Might, Finesse, and Swiftness of these attacks will be greatly reduced
 The Great\nFinger of Mt.Light
 When you start performing this technique, the higher the user's Fame, the more the power of this technique will increase; If user's Fame isn't lower than the enemy's, this technique will always reach 100% completion.
 Heavenly Spirit\nFinger
