@@ -267,7 +267,7 @@ Whenever the user obtains usable styles, there's a chance that the user will obt
 Multifarious
 If the user possesses 3 or more different types of usable styles, user's Might, Finesse, Swiftness, and Breath will increase
 Boneless Stance
-When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the user gains 2 randomly available styles.
+When defending with this technique, whenever the user Resolves an attack using Evasion, the user gains 2 random usable styles
 Quiet Return In One
 E·Stance Dn
 Whenever the user resolves a non-chasing enemy attack, the enemy's Stance is reduced and the user gains 1 randomly available style.
