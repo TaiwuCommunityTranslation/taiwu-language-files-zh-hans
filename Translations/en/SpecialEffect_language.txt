@@ -2352,7 +2352,7 @@ When retreating with this Footwork, the user needs to prepare to jump 1 distance
 Reverse - Unpredictable
 During this Footwork, whenever the user hits an enemy with a "Dagger" weapon, enemy's Stamina will be depleted.
 Reverse - Lotus Displacement
-During this Footwork, every time the user accumulates 1 distance back, the 3 unavailable styles of the user are exchanged with the 3 available styles of the enemy.
+During this Footwork, whenever the user retreats 1 distance, 3 unusable styles of the user will be exchanged for 3 styles usable by the user from the enemy
 Reverse - Shuttle's Swift
 While using this Footwork, if user has more "attack tokens" than the enemy, enemy's Attack Speed will be greatly reduced
 Reverse - Moonlight Shadow
