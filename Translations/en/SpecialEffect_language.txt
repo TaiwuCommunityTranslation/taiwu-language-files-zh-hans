@@ -279,7 +279,7 @@ Seven-Star Cross Chain
 Stance Cost Dn
 If the user possesses 7 or more usable styles, all "Break" techniques performed by the user will only consume 50% of Stance, and will have an increased cast progress. The more Stance doesn't get consumed, the more the cast progress of "Break" techniques will increase
 Holy Light Inspiration
-When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 3 randomly available style and immediately removes 2 injuries
+When defending with this technique: Whenever the user successfully Counters an attack, the user gains 3 random usable styles and removes 2 Injury markers
 Thirty-Six Needle\nHolding Art
 Improve Style Change Accuracy
 Increases Might, Finesse, Swiftness, and Breath of the user's "Style Change"
