@@ -2356,7 +2356,7 @@ During this Footwork, whenever the user retreats 1 distance, 3 unusable styles o
 Reverse - Shuttle's Swift
 During this Footwork, if the user has more "attack tokens" than the enemy, enemy's Attack Speed will be greatly reduced
 Reverse - Moonlight Shadow
-While using this Footwork: Enemy's maximum amount of "attack tokens" is reduced by 1; When enemy attacks the user while having a maximum amount of "attack tokens", enemy's chances of hitting the user will be greatly reduced.
+During this Footwork: Enemy's maximum number of "attack tokens" reduces by 1; Whenever the enemy attacks while having a maximum number of "attack tokens", enemy's chance of hitting the user will be greatly reduced
 Reverse - Golden Fairy
 When retreating with this Footwork, the user needs to prepare to jump, up to 4 distance at once. After jumping, the user will gain a buff that will increase user's Might, Finesse, and Swiftness; The farther the user retreats, the stronger the buff will be
 Reverse - Needle Lift-Up
