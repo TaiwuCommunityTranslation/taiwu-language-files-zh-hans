@@ -270,7 +270,7 @@ Boneless Stance
 When defending with this technique, whenever the user Resolves an attack using Evasion, the user gains 2 random usable styles
 Quiet Return In One
 E·Stance Dn
-Whenever the user resolves a non-chasing enemy attack, the enemy's Stance is reduced and the user gains 1 randomly available style.
+Whenever the user Resolves a non-follow-up attack, enemy's Stance will be reduced and the user will gain 1 random usable style
 4 Images of Lotus Formation
 User's teammates will more frequently be able to perform "Heal" and "Detox" orders to Heal and Detox user.
 Immortal Yang's Golden Body
