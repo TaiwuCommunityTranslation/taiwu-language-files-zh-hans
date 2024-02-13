@@ -1606,7 +1606,7 @@ Lame Fight\n80 Moves
 When this technique reaches $0$0% completion, for every 3 "Hold" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Split Flower
 Resolve to Accu
-When attacking enemy with this technique, ignore Armor on the attacked body part; After this technique reaches $0$0% completion, user gains 4 layers of this effect: if Might, Finesse, or Swiftness of user's attack is lower than user's Diversion, Parry, or Evasion, user's corresponding Resolve stat multiplied by 1.5 replaces the Accuracy stat.
+When attacking the enemy with this technique, ignore Armor on the attacked body part; After this technique reaches $0$0% completion, the user gains 4 layers of this effect: if Might, Finesse, or Swiftness of the user's attack is lower than the user's Diversion, Parry, or Evasion, user's corresponding Resolve stat multiplied by 1.5 replaces the Accuracy stat
 Lighten Finger
 Deal Extra Dmg
 Attack range of this technique is always the maximum; When this technique reaches $0$0% completion, user will knock back the enemy by 4 distance, and if the distance between the enemy and the user after being knocked back is not greater than 8, user will deal the same damage to the enemy again
