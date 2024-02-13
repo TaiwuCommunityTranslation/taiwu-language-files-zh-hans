@@ -2079,7 +2079,7 @@ Reverse - Multifarious
 If the user possesses 3 or more different types of usable styles, user's Diversion, Parry, Evasion, and Focus will increase
 Reverse - Boneless Stance
 Deplete Enemy's Styles
-When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the enemy loses 2 randomly available styles.
+When defending with this technique, whenever the user Resolves an attack using Evasion, the enemy loses 2 random usable styles
 Reverse - Quiet Return In One
 E·Inhale Dn
 Whenever the user neutralizes an enemy's non-chasing attack, the enemy's Inhale is reduced and the user gains 1 randomly available style.
