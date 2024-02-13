@@ -583,7 +583,7 @@ When advancing with this Footwork, the user needs to prepare to jump 1 distance 
 Unpredictable
 During this Footwork, whenever the user hits an enemy with a "Dagger" weapon, user's Stamina will be restored.
 Lotus Displacement
-Exchanging the enemy and us storage style
+Exchange Styles
 During this Footwork, whenever the user advances 1 distance, 3 unusable styles of the user will be exchanged for 3 styles usable by the user from the enemy
 Shuttle's Swift
 During this Footwork, if the amount of "attack tokens" user has is lower than the amount of "attack tokens" enemy has, user's Attack Speed is greatly increased.
