@@ -3235,7 +3235,7 @@ Reverse - Lighten Finger
 The Attack Range of this technique is always the maximum; When this technique reaches $0$0% completion, the user will pull the enemy closer 4 distance, and if the distance between the enemy and the user after being pulled closer is not lower than 4, user will deal the same damage to the enemy again
 Reverse - A Thousand\nHands
 Increase Attack Token Consumption
-This technique can't be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, user gains 4 layers of this effect: Weapon attacks that cost 2 or less attack tokens will cost 1 more attack token, but the Might, Finesse, and Swiftness of this attack will be greatly increased.
+This technique can't be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, the user gains 4 layers of this effect: Weapon attacks that cost 2 or less attack tokens will cost 1 more attack token, but the Might, Finesse, and Swiftness of these attacks will be greatly increased
 Reverse - The Great\nFinger of Mt.Light
 When you start performing this technique, the lower the user's Fame, the more the power of this technique will increase; If user's Fame isn't higher than the enemy's, this technique will always reach 100% completion.
 Reverse - Heavenly Spirit\nFinger
