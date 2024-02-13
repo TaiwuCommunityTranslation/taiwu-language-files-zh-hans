@@ -2076,7 +2076,7 @@ Reverse - Unintentional Mind
 Prevent Style Loss
 Whenever the user loses usable styles, there's a chance that the user will lose 1 less of that style
 Reverse - Multifarious
-When the user has 3 or more different types of available styles, the user's Diversion, Parry, Evasion, and Focus will be increased.
+If the user possesses 3 or more different types of usable styles, user's Diversion, Parry, Evasion, and Focus will increase
 Reverse - Boneless Stance
 Attrition of enemy's storage style
 When defending with this technique, whenever the user uses Evasion to resolve enemy's attack, the enemy loses 2 randomly available styles.
