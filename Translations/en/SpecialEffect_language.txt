@@ -3268,7 +3268,7 @@ When this technique reaches $0$0% completion, if the distance between the user a
 Reverse - Stab of\nDexterity Snake
 When you start performing this technique, the more Agility the user has consumed, the more the power of this technique will increase
 Reverse - Shadow Stab
-When this technique reaches $0$0% completion, if the enemy's "Quick" True Qi isn't lower than its initial value, the user steals 15 points of "Quick" True Qi from the enemy. Otherwise, steals 5 points.
+When this technique reaches $0$0% completion, if the enemy's "Quick" True Qi isn't lower than its initial value, the user will steal 15 points of "Quick" True Qi from the enemy. Otherwise, the user will steal 5 points
 Reverse - Divine Needle\nof Meditation Wisdom
 When this technique reaches $0$0% completion, enemy loses all memories of this battle. Power of all techniques used by the enemy before enemy lost memories will be greatly reduced, lasting until the end of the battle
 Reverse - Pure Girl's Stab
