@@ -589,7 +589,7 @@ Shuttle's Swift
 During this Footwork, if the user has less "attack tokens" than the enemy, user's Attack Speed will be greatly increased
 Moonlight Shadow
 Accuracy Up
-During this Footwork: the user's maximum amount of "attack tokens" increases by 1; When the user attacks while having maximum amount of "attack tokens", the user's chance of hitting the enemy is greatly increased
+During this Footwork: User's maximum number of "attack tokens" increases by 1; Whenever the user attacks while having a maximum number of "attack tokens", user's chance of hitting the enemy will be greatly increased
 Golden Fairy
 When advancing with this Footwork, the user needs to prepare to jump, up to 4 distance at once. After jumping, the user will gain a buff that will increase user's Might, Finesse, and Swiftness; The farther the user advances, the stronger the buff will be
 Needle Lift-Up
