@@ -3221,7 +3221,7 @@ When attacking the enemy with this technique, if the user's Agility is higher th
 Reverse - Heavenly Spirit\nThunder Palm
 At the start of the battle, the user gains 3 layers of this effect: This technique will start from 50% of cast progress, and user's Int. Pen. when using this technique will be greatly increased, but the more layers of this effect remain, the more the user's Inhale Recovery speed will be reduced
 Reverse - Vajra Samadhi\nPalm
-Reduction of enemy's imperial energy
+Reduce Enemy Int. Def.
 This technique cannot be interrupted; This technique will always reach $0$0% completion; The higher the enemy's External Defense, the more their Internal Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 5 points of "Nadis" True Qi, otherwise these effects won't activate.
 Reverse - Emei Eagle Claw
 Based on completion percentage of this technique, the power of all "Quick" techniques of the enemy will be reduced until the end of the battle.
