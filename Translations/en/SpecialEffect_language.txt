@@ -274,7 +274,7 @@ Whenever the user Resolves a non-follow-up attack, enemy's Stance will be reduce
 4 Images of Lotus Formation
 User's teammates will more frequently be able to perform "Heal" and "Detox" orders to Heal and Detox user.
 Immortal Yang's Golden Body
-When defending with this technique, the more styles the user has available, the less direct damage the enemy will inflict on the user.
+When defending with this technique, the more usable styles the user has, the less direct damage the enemy will be able to deal to the user
 Seven-Star Cross Chain
 Stance Cost Dn
 When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Stance and have increased cast progress, and the more Stance doesn't get consumed, the more the cast progress of techniques will increase.
