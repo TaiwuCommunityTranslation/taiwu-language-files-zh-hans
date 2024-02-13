@@ -3214,7 +3214,7 @@ When you start performing this technique, the higher the enemy's sense of crisis
 Reverse - 12 Hands of\nSilk Fist
 As long as this technique isn't Resolved with Evasion by the enemy, the direct Internal Damage dealt by this technique will be greatly increased and won't be reduced for any reason.
 Reverse - White Ape's\nLong-Arm Fist
-Based on completion percentage of this technique, greatly consume the duration of enemy's "Quick" technique
+Based on completion percentage of this technique, greatly consumes the duration of enemy's "Quick" technique
 Reverse - Transfer Flower\nPicker
 Transformation of Internal Defense to External Defense
 When attacking enemy with this technique, if user's Agility is higher than the enemy's Agility, a portion of enemy's Internal Defense will be transferred to External Defense; When this technique reaches $0$0% completion, 10 points of user's Agility will be consumed to inflict enemy with a buff that increases External Defense, and a debuff that decreases Internal Defense
