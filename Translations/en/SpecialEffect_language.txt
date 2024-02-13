@@ -277,7 +277,7 @@ Immortal Yang's Golden Body
 When defending with this technique, the more usable styles the user has, the less direct damage the enemy will be able to deal to the user
 Seven-Star Cross Chain
 Stance Cost Dn
-When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Stance and have increased cast progress, and the more Stance doesn't get consumed, the more the cast progress of techniques will increase.
+If the user possesses 7 or more usable styles, all "Break" techniques performed by the user will only consume 50% of Stance, and will have an increased cast progress. The more Stance doesn't get consumed, the more the cast progress of "Break" techniques will increase
 Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 3 randomly available style and immediately removes 2 injuries
 Thirty-Six Needle\nHolding Art
