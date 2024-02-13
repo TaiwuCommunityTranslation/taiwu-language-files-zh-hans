@@ -1587,7 +1587,7 @@ When you start performing this technique, the lower the enemy's sense of crisis 
 12 Hands of\nSilk Fist
 As long as this technique isn't Resolved with Evasion by the enemy, the direct External Damage dealt by this technique will be greatly increased and won't be reduced for any reason.
 White Ape's\nLong-Arm Fist
-Recovery of body time
+Restore Footwork Duration
 Based on completion percentage of this technique, greatly restores the duration of user's "Quick" technique
 Transfer Flower\nPicker
 Ext. Def. to Int. Def.
