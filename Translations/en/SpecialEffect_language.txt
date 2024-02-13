@@ -2086,7 +2086,7 @@ Whenever the user Resolves a non-follow-up attack, enemy's Inhale will be reduce
 Reverse - 4 Images of Lotus Formation
 When using "Heal" or "Detox" orders, they will heal more Injuries and detox more Poison
 Reverse - Immortal Yang's Golden Body
-Increasing anti-shock damage
+Increase Reflect Damage
 When defending with this technique, the more storages available to the user, the higher the reflect damage the user can inflict on the enemy.
 Reverse - Seven-Star Cross Chain
 Inhale Cost Dn
