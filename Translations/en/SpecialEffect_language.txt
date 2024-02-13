@@ -2090,7 +2090,7 @@ Increase Reflect Damage
 When defending with this technique, the more usable styles the user has, the more Reflect damage the user will deal
 Reverse - Seven-Star Cross Chain
 Inhale Cost Dn
-When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Inhale and have increased cast progress, and the more Inhale doesn't get consumed, the more the cast progress of techniques will increase.
+If the user possesses 7 or more usable styles, all "Break" techniques performed by the user will only consume 50% of Inhale, and will have an increased cast progress. The more Inhale doesn't get consumed, the more the cast progress of "Break" techniques will increase
 Reverse - Holy Light Inspiration
 When defending with this technique: Whenever the user successfully counters an enemy's weapon attack, the user gains 3 randomly available style and immediately removes 2 Impairment markers.
 Reverse - Thirty-Six Needle\nHolding Art
