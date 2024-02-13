@@ -1592,7 +1592,7 @@ Based on completion percentage of this technique, greatly restores the duration 
 Transfer Flower\nPicker
 Ext. Def. to Int. Def.
 Ext. and Int. Def. Change
-When attacking enemy with this technique, if user's Agility is higher than the enemy's Agility, a portion of enemy's External Defense will be transferred to Internal Defense; When this technique reaches $0$0% completion, 10 points of user's Agility will be consumed to inflict enemy with a buff that increases Internal Defense, and a debuff that decreases External Defense
+When attacking the enemy with this technique, if the user's Agility is higher than the enemy's Agility, a portion of enemy's External Defense will be transferred to Internal Defense; When this technique reaches $0$0% completion, 10 points of user's Agility will be consumed to inflict enemy with a buff that increases Internal Defense, and a debuff that decreases External Defense
 Heavenly Spirit\nThunder Palm
 At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Ext. Pen. when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Stance recovery speed is reduced.
 Vajra Samadhi\nPalm
