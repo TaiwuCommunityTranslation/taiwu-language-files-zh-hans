@@ -2087,7 +2087,7 @@ Reverse - 4 Images of Lotus Formation
 When using "Heal" or "Detox" orders, they will heal more Injuries and detox more Poison
 Reverse - Immortal Yang's Golden Body
 Increase Reflect Damage
-When defending with this technique, the more storages available to the user, the higher the reflect damage the user can inflict on the enemy.
+When defending with this technique, the more usable styles the user has, the more Reflect damage the user will deal
 Reverse - Seven-Star Cross Chain
 Inhale Cost Dn
 When the user has 7 or more available styles, all "Break" techniques performed by the user will only consume 50% of Inhale and have increased cast progress, and the more Inhale doesn't get consumed, the more the cast progress of techniques will increase.
