@@ -3219,7 +3219,7 @@ Reverse - Transfer Flower\nPicker
 Int. Def. to Ext. Def.
 When attacking the enemy with this technique, if the user's Agility is higher than the enemy's Agility, a portion of enemy's Internal Defense will be transferred to External Defense; When this technique reaches $0$0% completion, 10 points of user's Agility will be consumed to inflict enemy with a buff that increases External Defense, and a debuff that decreases Internal Defense
 Reverse - Heavenly Spirit\nThunder Palm
-At the beginning of the battle, the user gains 3 levels of this effect: the user can start to perform this technique to attack the enemy from 50% of the progress, and the user's Internal Penetration when attacking the enemy with this technique is greatly increased, but the more levels of this effect remain, the more the user's Inhale recovery speed is reduced.
+At the start of the battle, the user gains 3 layers of this effect: This technique will start from 50% of cast progress, and user's Int. Pen. when using this technique will be greatly increased, but the more layers of this effect remain, the more the user's Inhale Recovery speed will be reduced
 Reverse - Vajra Samadhi\nPalm
 Reduction of enemy's imperial energy
 This technique cannot be interrupted; This technique will always reach $0$0% completion; The higher the enemy's External Defense, the more their Internal Defense will be reduced, up to a half. For every hit made by this technique that misses, user needs to consume 5 points of "Nadis" True Qi, otherwise these effects won't activate.
