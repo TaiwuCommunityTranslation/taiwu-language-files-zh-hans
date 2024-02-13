@@ -1583,7 +1583,7 @@ Cancel Unusable Style
 After this technique reaches $0$0% completion, the user gains 18 layers of this effect: Whenever the enemy tries to add an unusable style to the user, the same number of layers of this effect will be consumed to cancel it out
 Rejuvenation\nFinger
 Reduce Enemy Crisis
-When you start performing this technique, the lower the enemy's sense of crisis is, the more the power of this technique will increase; When this technique fails to reach $0$0% completion, enemy's sense of crisis will be reduced.
+When you start performing this technique, the lower the enemy's sense of crisis is, the more the power of this technique will increase; When this technique fails to reach $0$0% completion, enemy's sense of crisis will be reduced
 12 Hands of\nSilk Fist
 As long as this technique isn't Resolved with Evasion by the enemy, the direct External Damage dealt by this technique will be greatly increased and won't be reduced for any reason.
 White Ape's\nLong-Arm Fist
