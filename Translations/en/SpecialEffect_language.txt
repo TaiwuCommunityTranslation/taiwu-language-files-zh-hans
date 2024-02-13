@@ -2082,7 +2082,7 @@ Deplete Enemy's Styles
 When defending with this technique, whenever the user Resolves an attack using Evasion, the enemy loses 2 random usable styles
 Reverse - Quiet Return In One
 E·Inhale Dn
-Whenever the user neutralizes an enemy's non-chasing attack, the enemy's Inhale is reduced and the user gains 1 randomly available style.
+Whenever the user Resolves a non-follow-up attack, enemy's Inhale will be reduced and the user will gain 1 random usable style
 Reverse - 4 Images of Lotus Formation
 When using "Heal" or "Detox" orders, they will heal more Injuries and detox more Poison
 Reverse - Immortal Yang's Golden Body
