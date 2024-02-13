@@ -1348,7 +1348,7 @@ As long as this technique isn't Resolved with Diversion by the enemy, the direct
 Blade of\nSoul Heat
 At the start of the battle, the user gains 0 layers of this effect: Every time the user gains 1 point of True Qi, this effect increases by 1 layer. The more layers of this effect user has, the more the power and attack range of this technique will increase. However, if the number of layers of this effect reaches 30 or more, the user will suffer backlash damage from this technique, and the number of layers of this effect will be reduced to 0.
 Blade of\nVajra Fall
-When this technique reaches $0$0% completion, if the enemy's "Aegis" True Qi isn't lower than its initial value, the enemy will lose 30 points of "Aegis" True Qi. Otherwise, the enemy will lose 10 points.
+When this technique reaches $0$0% completion, if the enemy's "Aegis" True Qi isn't lower than its initial value, the enemy will lose 30 points of "Aegis" True Qi. Otherwise, the enemy will lose 10 points
 Vajra Prajna\nBlade
 When this technique reaches $0$0% completion, 3 "Wood", 2 "Fire", and 1 "Metal" technique of the enemy will be "Sealed" for a short period of time.
 Ruyibaolun\nBlade
@@ -1645,7 +1645,7 @@ When this technique reaches $0$0% completion, if the distance between the user a
 Stab of\nDexterity Snake
 When you start performing this technique, the more Agility the user has not consumed, the more the power of this technique will increase
 Shadow Stab
-When this technique reaches $0$0% completion, if the enemy's "Quick" True Qi isn't lower than its initial value, the enemy will lose 30 points of "Quick" True Qi. Otherwise, the enemy will lose 10 points.
+When this technique reaches $0$0% completion, if the enemy's "Quick" True Qi isn't lower than its initial value, the enemy will lose 30 points of "Quick" True Qi. Otherwise, the enemy will lose 10 points
 Divine Needle\nof Meditation Wisdom
 When this technique reaches $0$0% completion, enemy loses all memories of this battle. Power of all techniques used by the user before enemy lost memories will be greatly increased, lasting until the end of the battle
 Pure Girl's Stab
