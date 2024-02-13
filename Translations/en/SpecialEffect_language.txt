@@ -3232,7 +3232,7 @@ When this technique reaches $0$0% completion, for every 1 "Hold" style user has,
 Reverse - Split Flower
 When attacking the enemy with this technique, ignore Armor on the attacked body part; After this technique reaches $0$0% completion, the user gains 4 layers of this effect: if Might, Finesse, or Swiftness of the enemy's attack is higher than the enemy's Diversion, Parry, or Evasion, enemy's corresponding Resolve stat multiplied by 1.5 replaces the Accuracy stat
 Reverse - Lighten Finger
-Attack range of this technique is always the maximum; When this technique reaches $0$0% completion, user will pull the enemy closer by 4 distance, and if the distance between the enemy and the user after being pulled closer is not lower than 4, user will deal the same damage to the enemy again
+The Attack Range of this technique is always the maximum; When this technique reaches $0$0% completion, the user will pull the enemy closer 4 distance, and if the distance between the enemy and the user after being pulled closer is not lower than 4, user will deal the same damage to the enemy again
 Reverse - A Thousand\nHands
 Increase Attack Token Consumption
 This technique can't be "Sealed" or "Interrupted"; When this technique reaches $0$0% completion, user gains 4 layers of this effect: Weapon attacks that cost 2 or less attack tokens will cost 1 more attack token, but the Might, Finesse, and Swiftness of this attack will be greatly increased.
