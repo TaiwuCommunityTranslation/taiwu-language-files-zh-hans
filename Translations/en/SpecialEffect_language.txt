@@ -2074,7 +2074,7 @@ Reverse - Emei Tiger Step
 When user's "Quick" True Qi is twice as high as the enemy's "Quick" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - Unintentional Mind
 Prevent Style Loss
-Whenever the user loses any available formula, there is a certain chance that the user will lose 1 less formula.
+Whenever the user loses usable styles, there's a chance that the user will lose 1 less of that style
 Reverse - Multifarious
 When the user has 3 or more different types of available styles, the user's Diversion, Parry, Evasion, and Focus will be increased.
 Reverse - Boneless Stance
