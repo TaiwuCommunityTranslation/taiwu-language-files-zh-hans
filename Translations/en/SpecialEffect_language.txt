@@ -1617,7 +1617,7 @@ This technique can't be "Sealed" or "Interrupted"; When this technique reaches $
 The Great\nFinger of Mt.Light
 When you start performing this technique, the higher the user's Fame, the more the power of this technique will increase; If the user's Fame isn't lower than the enemy's, this technique will always reach 100% completion
 Heavenly Spirit\nFinger
-Sealed cave reappears
+Sealed Acupoints Reappear
 Level of Sealed Acupoints caused by this technique won't be reduced for any reason; After this technique reaches $0$0% completion, the user gains 7 layers of this effect: Whenever the enemy unseals a Sealed Acupoint with a level less than 4, the Sealed Acupoint will reappear with a level increased by 1. This effect won't activate any effects that activate by inflicting Sealed Acupoint on the enemy
 Swordsmanship\nof Flower Brush
 Improve your Swiftness
