@@ -2348,7 +2348,7 @@ Reverse - Shorten Distance
 EVA all basic Atk
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Evasion value.
 Reverse - White Ape's Leap
-When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After jumping, the user will make a free weapon attack on the enemy that can't have follow-up attacks and ignores Deflect.
+When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After jumping, the user will make a free weapon attack on the enemy that ignores Deflect
 Reverse - Unpredictable
 During this Footwork, whenever the user hits an enemy with a "Dagger" weapon, enemy's Stamina will be depleted.
 Reverse - Lotus Displacement
