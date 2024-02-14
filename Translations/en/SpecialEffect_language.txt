@@ -910,7 +910,7 @@ Injuries inflicted by this technique on the enemy's Waist will change to older i
 Reduction of external reflect
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: If a "Break" technique performed by the user fails to reach $0$0% completion, user will receive significantly less External Reflect, and receive a portion of Stance consumed after performing that technique.
 Jade Tripot Fist
-Upgrading toxin levels
+Increase Poison Level
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: Cryotoxin applied by the user's "Break" techniques on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". User's "Break" techniques the have Cryotoxin on them will also have a greatly increased Cast Speed.
 Princess\nRainfall
 Charm the Enemy
