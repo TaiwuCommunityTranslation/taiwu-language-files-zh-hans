@@ -1885,7 +1885,7 @@
   "LK_CharacterMenu_Injury_EatingLimit": "You've hit consumable limit. Cannot consume more food or medicine...",
   "LK_CharacterMenu_Injury_EatingNull": "Consume various types of items to get different effects...",
   "LK_CharacterMenu_Injury_EatingTooMuch": "Consuming beyond the physical limits...",
-  "LK_CharacterMenu_Injury_EatingItem_Duration": "<color=#lightgrey> It will take <color=#orange> {0} </color> turns to finish eating.</color>",
+  "LK_CharacterMenu_Injury_EatingItem_Duration": "<color=#lightgrey>Will take <color=#orange>{0}</color> months to finish digesting...</color>",
   "LK_Settlement_Btn_Disable_Tips": "Never arrived, no way to see...",
   "LK_Taiwu_Villagers_Title": "Village Roster",
   "LK_Taiwu_Villagers_Tips": "View and manage all the villagers of Taiwu Village.",
