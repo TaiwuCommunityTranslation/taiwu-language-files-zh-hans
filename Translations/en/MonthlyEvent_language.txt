@@ -46,8 +46,8 @@ The Unknown Orphan
 A baby was abandoned in the village of Taiwu...
 Child's week
 {0} turned one year old!
-Education of children
-{0}As you get older, it's time to start your education...
+Educating Children
+As {0} grows older, it's time to begin their education...
 Coming of age
 {0} Coming of age!
 Captive Birth
