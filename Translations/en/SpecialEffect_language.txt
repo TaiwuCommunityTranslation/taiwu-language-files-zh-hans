@@ -254,7 +254,7 @@ Hunyuan\nBreathing
 Changing Int. Def. to Ext. Def.
 Avoid direct internal injuries
 Avoiding Sealed Acupoints
-When defending with this technique, half of the user's Internal Defense is temporarily changed into External Defense, so that the user is protected from any direct internal injuries and sealed points caused by the enemy as long as there are no sealed points in the area where the user is attacked by the enemy.
+When defending with this technique, half of the user's Internal Defense temporarily shifts to External Defense. As long as the attacked body part of the user doesn't have Sealed Acupoints, the user will be immune to any Internal Injuries or Sealed Acupoints caused by the enemy.
 Vajra Defence
 Changing the Ext. Def. to Int. Def.
 Protection from external injury
