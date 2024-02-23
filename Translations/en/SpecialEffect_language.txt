@@ -1522,7 +1522,7 @@ Bloodhound's\nSand
 En Pyrotoxin Attack
 This skill will change enemy's Pyrotoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Pyrotoxin, Pyrotoxin will activate
 Shaolin\nLong Fist
-At the beginning of the battle, the user gains 0 levels of this effect: Each time the user receives External Injury or a Fatal Wound due to direct damage, this effect increases by 1 level, up to a maximum of 36 levels, with each level increasing the power of this technique
+At the start of the battle, the user gains 0 layers of this effect: Whenever the user receives an External Injury or Fatal Wound marker due to direct External Damage, this effect increases by 1 layer, up to a maximum of 36 layers. Each layer of this effect increases the power of this technique.
 Shaolin\nVajra Palm
 Increase the ratio of internal power
 Based on completion percentage of this technique, the percentage of Internal Ratio of this technique will be increased. When this technique reaches 100% Internal Ratio, its power increases greatly, and direct damage inflicted by this technique won't be reduced for any reason.
