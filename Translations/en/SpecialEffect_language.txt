@@ -2341,7 +2341,7 @@ Reverse - The Great Flip
 During this Footwork, whenever the user hits an enemy with a "Polearm" weapon, enemy's Stamina will be depleted.
 Reverse - 9 Maps 6 Statues
 Increase the power of Aegis
-During this Footwork, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
+During this Footwork, the duration of user's "Aegis" techniques will be reduced, but the power of user's "Aegis" techniques will be increased, lasting until an "Aegis" technique is used
 Reverse - Crossing River on a Reed
 During this Footwork: the enemy cannot eliminate the Footwork and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
 Reverse - Shorten Distance
