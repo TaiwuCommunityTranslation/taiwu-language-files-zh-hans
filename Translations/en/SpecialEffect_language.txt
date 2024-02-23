@@ -2057,7 +2057,7 @@ Decrease Enemy's Stance and Inhale
 When defending with this technique, user won't be moved forward for any reason; Enemies who try to make the user move forward will lose a part of their Stance and Inhale
 Reverse - Iron Skin
 Int. DMG Taken Dn
-When an uninjured body part of the user receives a direct internal injury from the enemy, the number of injuries is reduced to 1
+When an uninjured body part of the user receives direct Internal Injuries from the enemy, the number of Injuries will be reduced by 1
 Reverse - Golden Bell\nCover
 When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, inflict 2 Weak Points on a random body part of the enemy
 Reverse - Small Arhat\nRod Formation
