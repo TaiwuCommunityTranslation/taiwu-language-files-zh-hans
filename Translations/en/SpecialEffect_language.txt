@@ -573,7 +573,7 @@ Increase Aegis time
 During this Footwork, the duration of user's "Aegis" techniques will be increased, but the power of user's "Aegis" techniques will be reduced, lasting until an "Aegis" technique is used
 Crossing River on a Reed
 Immune Spd Dn
-During this Footwork: Enemy cannot remove user's Footwork or Stamina; Enemy cannot prevent the user from moving; User's movement speed will not be reduced for any reason
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; Enemy cannot prevent the user from moving; User's Movement Speed will not be reduced for any reason
 Shorten Distance
 Basic Atk All SWI
 During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Swiftness accuracy value.
