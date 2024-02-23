@@ -1563,7 +1563,7 @@ After this technique reaches $0$0% completion, user gains 4 layers of this effec
 QiMei Staff of\n18 Points
 When this technique reaches $0$0% completion, for every 3 "Slash" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Yakkha Staff
-The maximum attack distance of this technique is increased by 2; when attacking the enemy with this technique, the closer the enemy and me are to the maximum attack distance of this technique, the more the power of this technique is increased
+The maximum Attack Range of this technique is increased by 2; When attacking the enemy with this technique, the closer the enemy is to the maximum Attack Range of this technique, the more the power of this technique will be increased
 Staff of\nSheep-Hunting Tigers
 Exempt from Stance consumption
 The user can perform the "Aegis" technique from 50% of its progress without using up the Stance.
