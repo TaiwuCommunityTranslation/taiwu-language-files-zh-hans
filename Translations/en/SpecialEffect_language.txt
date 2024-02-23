@@ -2331,7 +2331,7 @@ Reverse - Undead Body of Blood Child
 When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Inhale required to use skills is reduced by 50%
 Reverse - Lift-Up Jumping
 Reduce enemy movement speed
-During this Footwork, the movement speed of the enemy will be reduced when the user uses the "Aegis" technique.
+During this Footwork, enemy's Movement Speed will be reduced if the user uses an "Aegis" technique
 Reverse - Gecko's Crawling
 Reducing the power of enemy Aegis
 During this Footwork, the power of the enemy's "Aegis" technique is reduced and lasts until the end of the "Aegis" technique.
