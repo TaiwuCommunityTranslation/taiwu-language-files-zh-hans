@@ -241,7 +241,7 @@ Attrition of the enemy's momentum
 When defending with this technique, user won't be moved backwards for any reason; Enemies who try to make the user move backwards will lose a part of their Stance and Inhale
 Iron Skin
 Reduce Ext. Inj
-When an uninjured body part of the user receives a direct external injury from the enemy, the number of injuries is reduced to 1
+When an uninjured body part of the user receives direct External Injuries from the enemy, the number of Injuries will be reduced by 1
 Golden Bell\nCover
 Remove Weak Point
 When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, randomly eliminate 2 Weak Points on user's body
