@@ -2343,7 +2343,7 @@ Reverse - 9 Maps 6 Statues
 Increase the power of Aegis
 During this Footwork, the duration of user's "Aegis" techniques will be reduced, but the power of user's "Aegis" techniques will be increased, lasting until an "Aegis" technique is used
 Reverse - Crossing River on a Reed
-During this Footwork: the enemy cannot eliminate the Footwork and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; Enemy cannot prevent the user from moving; Enemy's Movement Speed will not be increased for any reason
 Reverse - Shorten Distance
 EVA all basic Atk
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Evasion value.
