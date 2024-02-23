@@ -244,7 +244,7 @@ Reduce Ext. Inj
 When an uninjured body part of the user receives direct External Injuries from the enemy, the number of Injuries will be reduced by 1
 Golden Bell\nCover
 Remove Weak Point
-When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, randomly eliminate 2 Weak Points on user's body
+When defending with this technique: All direct damage taken by the user will be reduced by 30%; Whenever the user Reflects an attack, 2 Weak Points will be removed from random body parts of the user
 Small Arhat\nRod Formation
 User's teammates will more frequently be able to perform "Defend" order to protect the user with an Aegis technique from enemy attacks.
 Buddhism\nLion Roar
