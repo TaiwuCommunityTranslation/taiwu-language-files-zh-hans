@@ -248,7 +248,7 @@ When defending with this technique: All direct damage taken by the user will be 
 Small Arhat\nRod Formation
 User's teammates will more frequently be able to perform "Defend" order to protect the user with an Aegis technique from enemy attacks.
 Buddhism\nLion Roar
-Attrition of enemy's Stamina
+Remove Enemy Stamina
 Whenever user actively starts to perform a "Break" technique, if the enemy is within the user's attack range, all of the enemy's Footwork and Stamina will be depleted.
 Hunyuan\nBreathing
 Changing Int. Def. to Ext. Def.
