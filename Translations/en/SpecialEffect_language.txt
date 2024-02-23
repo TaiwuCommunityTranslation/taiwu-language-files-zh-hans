@@ -2069,7 +2069,7 @@ Increase internal injury reflect
 When defending with this technique, as long as the attacked body part of the user doesn't have Sealed Acupoints, the Internal Reflect of this technique will be greatly increased
 Reverse - Vajra Defence
 Improving external injury reflect
-When defending with this technique, as long as the area where the user is attacked doesn't have Weak Points, the External Reflect of this technique is greatly increased
+When defending with this technique, as long as the attacked body part of the user doesn't have Weak Points, the External Reflect of this technique will be greatly increased
 Reverse - Emei Tiger Step
 When user's "Quick" True Qi is twice as high as the enemy's "Quick" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - Unintentional Mind
