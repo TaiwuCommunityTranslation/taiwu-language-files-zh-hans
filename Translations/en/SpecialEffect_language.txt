@@ -2063,7 +2063,7 @@ When defending with this technique: All direct damage taken by the user will be 
 Reverse - Small Arhat\nRod Formation
 When using "Defend" order, it will greatly increase the power of teammate's "Aegis" technique
 Reverse - Buddhism\nLion Roar
-Whenever user actively starts to perform a "Break" technique, if the enemy is within the user's attack range, all of the enemy's Stance and Inhale will be depleted.
+Whenever the user actively start to perform a "Break" technique, if the enemy is within the user's Attack Range, enemy's Inhale and Stance will be completely removed
 Reverse - Hunyuan\nBreathing
 Increase internal injury reflect
 When defending with this technique, the internal reflect damage of this technique will be greatly increased as long as there are no sealed points in the area where the user is attacked by the enemy.
