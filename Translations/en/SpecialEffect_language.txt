@@ -2059,7 +2059,7 @@ Reverse - Iron Skin
 Int. DMG Taken Dn
 When an uninjured body part of the user receives direct Internal Injuries from the enemy, the number of Injuries will be reduced by 1
 Reverse - Golden Bell\nCover
-When defending with this technique: all direct damage taken by the user is reduced by 30%; whenever the user Reflects enemy's attack, inflict 2 Weak Points on a random body part of the enemy
+When defending with this technique: All direct damage taken by the user will be reduced by 30%; Whenever the user Reflects an attack, 2 Weak Points will be inflicted on a random body part of the enemy
 Reverse - Small Arhat\nRod Formation
 When using "Defend" order, it will greatly increase the power of teammate's "Aegis" technique
 Reverse - Buddhism\nLion Roar
