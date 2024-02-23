@@ -2334,7 +2334,7 @@ Reduce enemy movement speed
 During this Footwork, enemy's Movement Speed will be reduced if the user uses an "Aegis" technique
 Reverse - Gecko's Crawling
 Reducing the power of enemy Aegis
-During this Footwork, the power of enemy's "Aegis" techniques will be reduced, lasting until the "Aegis" technique is used
+During this Footwork, the power of enemy's "Aegis" techniques will be reduced, lasting until an "Aegis" technique is used
 Reverse - Lighten Body
 When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After jumping, the user will receive a buff that increases Stamina recovery speed
 Reverse - The Great Flip
