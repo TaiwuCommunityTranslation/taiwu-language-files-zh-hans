@@ -2066,7 +2066,7 @@ Reverse - Buddhism\nLion Roar
 Whenever the user actively start to perform a "Break" technique, if the enemy is within the user's Attack Range, enemy's Inhale and Stance will be completely removed
 Reverse - Hunyuan\nBreathing
 Increase internal injury reflect
-When defending with this technique, the internal reflect damage of this technique will be greatly increased as long as there are no sealed points in the area where the user is attacked by the enemy.
+When defending with this technique, as long as the attacked body part of the user doesn't have Sealed Acupoints, the Internal Reflect of this technique will be greatly increased
 Reverse - Vajra Defence
 Improving external injury reflect
 When defending with this technique, as long as the area where the user is attacked doesn't have Weak Points, the External Reflect of this technique is greatly increased
