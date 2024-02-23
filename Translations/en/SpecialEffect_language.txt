@@ -2050,7 +2050,7 @@ Reverse -  Peiyang trick
 Reverse - Lying Beside Tiger
 When user's "Aegis" True Qi is twice as high as the enemy's "Aegis" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - 18 Rollings
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, a debuff is applied to the enemy in the form of reduced Diversion, Parry, and Evasion.
+When defending with this technique, whenever the user successfully Counters an attack, the enemy will receive a debuff that reduces Diversion, Parry, and Evasion
 Reverse - Heavy Stance
 Prevented from being pulled close
 Decrease Enemy's Stance and Inhale
