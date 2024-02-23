@@ -573,7 +573,7 @@ Increase Aegis time
 During this Footwork, the duration of user's "Aegis" techniques will be increased, but the power of user's "Aegis" techniques will be reduced, lasting until an "Aegis" technique is used
 Crossing River on a Reed
 Immune Spd Dn
-During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
 Shorten Distance
 Basic Atk All SWI
 During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Swiftness accuracy value.
@@ -638,7 +638,7 @@ Step Alone a\nThousand Li
 Whenever you advance 1 distance with this Footwork, it restores your Stamina.
 Profound Bell\nStance
 0 skill cost
-During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming the Footwork and Stamina
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; the user can perform the Kicks without consuming the Footwork and Stamina
 Shake Mountain
 Improve Stamina depletion
 During this Footwork, it increases the loss of Footwork and Stamina caused by the user to the enemy.
@@ -707,7 +707,7 @@ Increase DES
 During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the DES of the user's weapon will be greatly increased
 Dragon Riding
 Footwork instead of Stance
-During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Stance is not enough to perform the "Break" technique, the user's Footwork can be consumed instead of the user's Stance.
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; if the user's Stance is not enough to perform the "Break" technique, the user's Footwork can be consumed instead of the user's Stance.
 Tiankai Flowing Meteor Style
 Enhanced Might gain
 During this Footwork: the Might of the user will not be reduced by any effect; all Might-raising techniques and buff effects that the user receives are greatly increased
@@ -2400,7 +2400,7 @@ The Internal Penetration of the Kick performed by the user with this Footwork is
 Reverse - Step Alone a Thousand Li
 Whenever you retreat 1 distance with this Footwork, your Stamina gets restored.
 Reverse - Profound BellStance
-During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the user can perform the Kicks without consuming Inhale or Stance
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; the user can perform the Kicks without consuming Inhale or Stance
 Reverse - Shake Mountain
 During this Footwork, whenever the user inflicts an Injury or a Fatal Wound marker on the enemy with direct damage, the enemy loses a part of their Footwork and Stamina.
 Reverse - Iron Bridge
@@ -2459,7 +2459,7 @@ Increase weapon toughness
 During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the Hardness of the user's weapon will be greatly increased
 Reverse - Dragon Riding
 Bodywork instead of Inhale lifting
-During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; if the user's Inhale is not enough to perform the "Break" technique, the user's Footwork can replace the user's Inhale consumption.
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; if the user's Inhale is not enough to perform the "Break" technique, the user's Footwork can replace the user's Inhale consumption.
 Reverse -  Tenkai Flow Meteor Style
 Enhancement of Diversion reduction
 During this Footwork: the enemy's Diversion will not be increased by any effect; all techniques and debuffs that reduce the enemy's Diversion will be greatly increased
