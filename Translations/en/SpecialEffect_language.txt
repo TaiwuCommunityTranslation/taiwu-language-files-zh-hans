@@ -570,7 +570,7 @@ The Great Flip
 During this Footwork, whenever the user hits an enemy with a "Polearm" weapon, user's Stamina will be restored.
 9 Maps 6 Statues
 Increase Aegis time
-During this Footwork, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
+During this Footwork, the duration of user's "Aegis" techniques will be increased, but the power of user's "Aegis" techniques will be reduced, lasting until an "Aegis" technique is used
 Crossing River on a Reed
 Immune Spd Dn
 During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
