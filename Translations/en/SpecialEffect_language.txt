@@ -249,7 +249,7 @@ Small Arhat\nRod Formation
 User's teammates will more frequently be able to perform "Defend" order to protect the user with an Aegis technique from enemy attacks.
 Buddhism\nLion Roar
 Remove Enemy Stamina
-Whenever the user actively start to perform a "Break" technique, if the enemy is within the user's Attack Range, all of the enemy's Footwork and Stamina will be removed
+Whenever the user actively start to perform a "Break" technique, if the enemy is within the user's Attack Range, enemy's Footwork and Stamina will be completely removed
 Hunyuan\nBreathing
 Changing Int. Def. to Ext. Def.
 Avoid direct internal injuries
