@@ -1569,7 +1569,7 @@ Exempt from Stance consumption
 During "Aegis" techniques, the user can perform this technique from 50% of its progress without consuming Stance
 Shaolin Staff\nof Madness
 Increase "attack token" Recovery
-While performing this technique, user gains "attack tokens" twice as fast, and can make weapon attacks on the enemy. The more times enemy gets hit by those attacks, the more External Penetration and Attack Range of this technique will increase, up to a maximum of 6 times.
+While performing this technique, the user restores "attack tokens" twice as fast, and can make weapon attacks. The more times the enemy gets hit by those attacks, the more the External Penetration and Attack Range of this technique will increase, up to a maximum of 6 times
 Skanda Staff
 Cause Extra WS
 After this technique reaches $0$0% completion, user gains 18 layers of this effect: When user is about to receive a Weak Point, a number or layers of this effect equal to the level of the Weak Point prevented will be consumed to transfer that Weak Point to a random body part of the enemy. This effect won't activate any effects that activate by inflicting Weak Point on the enemy.
