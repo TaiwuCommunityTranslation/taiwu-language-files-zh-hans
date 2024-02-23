@@ -3197,7 +3197,7 @@ Reverse - Staff of\nSheep-Hunting Tigers
 No Inhale consumption
 During "Aegis" techniques, the user can perform this technique from 50% of its progress without consuming Inhale
 Reverse - Shaolin Staff\nof Madness
-While performing this technique, user gains "attack tokens" twice as fast, and can make weapon attacks on the enemy. The more times enemy gets hit by those attacks, the more Internal Penetration and Attack Range of this technique will increase, up to a maximum of 6 times.
+While performing this technique, the user restores "attack tokens" twice as fast, and can make weapon attacks. The more times the enemy gets hit by those attacks, the more the Internal Penetration and Attack Range of this technique will increase, up to a maximum of 6 times
 Reverse - Skanda Staff
 Causes random sealing of points
 After this technique reaches $0$0% completion, user gains 18 layers of this effect: When user is about to receive a Sealed Acupoint, a number or layers of this effect equal to the level of the Sealed Acupoint prevented will be consumed to transfer that Sealed Acupoint to a random body part of the enemy. This effect won't activate any effects that activate by inflicting Sealed Acupoint on the enemy.
