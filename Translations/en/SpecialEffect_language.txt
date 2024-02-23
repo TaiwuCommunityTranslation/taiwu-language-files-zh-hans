@@ -3192,7 +3192,7 @@ When this technique reaches $0$0% completion, user will gain 2 "Slash" styles
 Reverse - QiMei Staff of\n18 Points
 When this technique reaches $0$0% completion, for every 1 "Slash" style user has, user will have a high chance of gaining a Style Change charge
 Reverse - Yakkha Staff
-The minimum attack distance of this technique is reduced by 2; when attacking the enemy with this technique, the closer the enemy and me are to the minimum attack distance of this technique, the more the power of this technique is increased
+The minimum Attack Range of this technique is increased by 2; When attacking the enemy with this technique, the closer the enemy is to the minimum Attack Range of this technique, the more the power of this technique will be increased
 Reverse - Staff of\nSheep-Hunting Tigers
 No Inhale consumption
 The user can perform the "Aegis" technique from 50% of its progress without using up Inhale.
