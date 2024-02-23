@@ -562,7 +562,7 @@ Move Spd Up
 During this Footwork, user's Movement Speed will be increased if the user uses an "Aegis" technique
 Gecko's Crawling
 Increase Aegis power
-During this Footwork, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
+During this Footwork, the power of user's "Aegis" techniques will be increased, lasting until the "Aegis" technique is used
 Lighten Body
 Improve Stamina recovery
 When advancing with this Footwork, the user needs to prepare to jump 1 distance at once. After jumping, the user will receive a buff that increases Stamina recovery speed
