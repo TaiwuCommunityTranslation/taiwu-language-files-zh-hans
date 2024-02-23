@@ -234,7 +234,7 @@ All backlash damage to the user is significantly reduced
 Lying Beside Tiger
 When user's "Aegis" True Qi is higher than the enemy's "Aegis" True Qi, all direct damage dealt by the enemy will be reduced by 15%
 18 Rollings
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user will be given a buff that improves Diversion, Parry, and Evasion by 2%, which can stack and has no time limit.
+When defending with this technique, whenever the user successfully Counters an attack, the user will receive a buff that increases Diversion, Parry, and Evasion
 Heavy Stance
 Prevents repulsion
 Attrition of the enemy's momentum
