@@ -559,7 +559,7 @@ Exchange Damage
 When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Stance required to use skills is reduced by 50%
 Lift-Up Jumping
 Move Spd Up
-During this Footwork, the movement speed of the user will be increased when the user uses the "Aegis" technique.
+During this Footwork, user's Movement Speed will be increased if the user uses an "Aegis" technique
 Gecko's Crawling
 Increase Aegis power
 During this Footwork, the power of the user's "Aegis" technique increases and lasts until the end of the "Aegis" technique.
