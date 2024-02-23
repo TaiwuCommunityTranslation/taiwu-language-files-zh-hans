@@ -1566,7 +1566,7 @@ Yakkha Staff
 The maximum Attack Range of this technique is increased by 2; When attacking the enemy with this technique, the closer the enemy is to the maximum Attack Range of this technique, the more the power of this technique will be increased
 Staff of\nSheep-Hunting Tigers
 Exempt from Stance consumption
-The user can perform the "Aegis" technique from 50% of its progress without using up the Stance.
+During "Aegis" techniques, the user can perform this technique from 50% of its progress without consuming Stance
 Shaolin Staff\nof Madness
 Increase "attack token" Recovery
 While performing this technique, user gains "attack tokens" twice as fast, and can make weapon attacks on the enemy. The more times enemy gets hit by those attacks, the more External Penetration and Attack Range of this technique will increase, up to a maximum of 6 times.
@@ -3195,7 +3195,7 @@ Reverse - Yakkha Staff
 The minimum Attack Range of this technique is increased by 2; When attacking the enemy with this technique, the closer the enemy is to the minimum Attack Range of this technique, the more the power of this technique will be increased
 Reverse - Staff of\nSheep-Hunting Tigers
 No Inhale consumption
-The user can perform the "Aegis" technique from 50% of its progress without using up Inhale.
+During "Aegis" techniques, the user can perform this technique from 50% of its progress without consuming Inhale
 Reverse - Shaolin Staff\nof Madness
 While performing this technique, user gains "attack tokens" twice as fast, and can make weapon attacks on the enemy. The more times enemy gets hit by those attacks, the more Internal Penetration and Attack Range of this technique will increase, up to a maximum of 6 times.
 Reverse - Skanda Staff
