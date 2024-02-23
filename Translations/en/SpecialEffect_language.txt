@@ -571,7 +571,7 @@ During this Footwork, whenever the user hits an enemy with a "Polearm" weapon, u
 9 Maps And 6 Statues
 Increase Aegis time
 During this Footwork, the duration of the user's "Aegis" technique increases, but the power of the "Aegis" technique decreases and lasts until the end of the "Aegis" technique.
-Crossing The River With A Reed
+Crossing River on a Reed
 Immune Spd Dn
 During this Footwork: the enemy cannot eliminate the user's Footwork and Stamina; the enemy cannot prevent the user from moving; the user's movement speed will not be reduced for any reason
 Shorten Distance
@@ -2342,7 +2342,7 @@ During this Footwork, whenever the user hits an enemy with a "Polearm" weapon, e
 Reverse - 9 Maps And 6 Statues
 Increase the power of Aegis
 During this Footwork, the duration of the user's "Aegis" technique is reduced, but the power of the "Aegis" technique is increased and lasts until the end of the "Aegis" technique.
-Reverse - Crossing The River With A Reed
+Reverse - Crossing River on a Reed
 During this Footwork: the enemy cannot eliminate the Footwork and footwork of the user; the enemy cannot prevent the user from moving; the enemy's movement speed cannot be increased for any reason
 Reverse - Shorten Distance
 EVA all basic Atk
