@@ -1537,7 +1537,7 @@ External and Internal Penetration changes
 When attacking enemy with this technique, if user's Strength is higher than the enemy's Strength, a portion of user's Internal Penetration will be transferred to External Penetration; When this technique reaches $0$0% completion, 10 points of user's Strength will be consumed to obtain a buff that increases External Penetration, and a debuff that decreases Internal Penetration
 18 Hands of\nDharma
 Increase your own Ext. Pen.
-When you start performing this technique, the power of this technique increases if the user's External Defense is higher than the user's External Penetration; when you attack the enemy with this technique, the user's External Penetration is added to the user's External Defense.
+When you start performing this technique, the power of this technique increases if the user's External Defense is higher than the user's External Penetration; when you attack the enemy with this technique, a part of the user's External Penetration will be added to the user's External Defense
 Vajra Prajna\nPalm
 When you attack enemy with this technique, if enemy's dominant internal element is "Wood" or "Earth", it will eliminate enemy's "Aegis" and "Quick" techniques, and reduce the continuous effect of 3 "Break" techniques of the enemy to 0 layers.
 Demonhunt\nLight Fist
