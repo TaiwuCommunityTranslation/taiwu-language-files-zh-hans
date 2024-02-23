@@ -3167,7 +3167,7 @@ Ext. Pen. to Int. Pen.
 When attacking enemy with this technique, if user's Strength is higher than the enemy's Strength, a portion of user's External Penetration will be transferred to Internal Penetration; When this technique reaches $0$0% completion, 10 points of user's Strength will be consumed to obtain a buff that increases Internal Penetration, and a debuff that decreases External Penetration
 Reverse - 18 Hands of\nDharma
 Self Int. Pen. buff
-When you start performing this technique, the power of this technique will increase if the user's Internal Defense is higher than the user's Internal Penetration; when you attack the enemy with this technique, the user's Internal Penetration will additionally be added to the user's Internal Defense
+When you start performing this technique, the power of this technique will increase if the user's Internal Defense is higher than the user's Internal Penetration; when you attack the enemy with this technique, a part of the user's Internal Penetration will be added to the user's Internal Defense
 Reverse - Vajra Prajna\nPalm
 When this technique reaches $0$0% completion, if enemy's dominant element is "Wood" or "Earth", direct damage dealt by this technique will be increased by 90%
 Reverse - Demonhunt\nLight Fist
