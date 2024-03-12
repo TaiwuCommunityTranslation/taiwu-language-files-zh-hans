@@ -257,7 +257,7 @@ Because of Mo Nyu passing nearby, {1} people near the {0} are affected by her di
 Yaochang Brings Disaster
 Because of Dayue Yaochang passing nearby, {1} people near the {0} are affected by her disaster, causing them to die!
 Jiu Han Brings Disaster
-The geodesic grid near {0} was damaged due to the passage of Jiukan!
+Because of Jiu Han passing nearby, lands near the {0} have been damaged!
 Phoenix is a scourge
 Due to the passing of the golden phoenixer, {0} near {1} suffered a crossroad!
 calamity
