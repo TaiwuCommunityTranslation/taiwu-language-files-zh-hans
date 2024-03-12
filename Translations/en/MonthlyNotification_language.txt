@@ -261,7 +261,7 @@ Because of Jiu Han passing nearby, lands near the {0} have been damaged!
 Huang'er Brings Disaster
 Because of Jin Huang'er passing nearby, {1} people near the {0} suffered an unexpected calamity!
 Yihou Brings Disaster
-As Yi Yihou passed by, {0} the nearby characters were all mourning, grief and anger.
+Because of Yi Yihou passing nearby, people's mind near the {0} was filled with grief and sorrow.
 Wei Qi is a scourge
 Weiqi transfers all damage to {1} near {0}!
 taking a direction for a disaster
