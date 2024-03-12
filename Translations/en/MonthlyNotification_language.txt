@@ -269,7 +269,7 @@ Because of Yi Xiang passing nearby, standpoint of people near the {0} has change
 Xue Feng Brings Disaster
 Because of Xue Feng passing nearby, more Xiangshu Minions appeared near the {0}!
 Shu Fang Brings Disaster
-Due to the passing of the operative side, {0} near {1} age extra!
+Because of Shu Fang passing nearby, {1} people near the {0} has aged!
 Mo Nyu saves the suffering
 {0} was treated by a mysterious person who called herself Mo Nyu at {1}.
 Yao Chang Saves Suffering
