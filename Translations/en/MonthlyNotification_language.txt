@@ -254,7 +254,7 @@ Break out from the tomb
 A powerful enemy calling themselves "Xiangshu Incarnation" came out of the "{0}" Sword Tomb near the Taiwu Village! They are coming straight to the Taiwu Village!
 Mo Nyu Brings Disaster
 Because of Mo Nyu passing nearby, {1} people near the {0} are affected by her disaster, causing them to suffer injuries and poison!
-Yao Chang Brings Disaster
+Yaochang Brings Disaster
 Because of Dayue Yaochang passing nearby, {1} people near the {0} are affected by her disaster, causing them to die!
 Nine cold as a scourge
 The geodesic grid near {0} was damaged due to the passage of Jiukan!
