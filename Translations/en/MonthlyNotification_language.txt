@@ -283,7 +283,7 @@ People near the {0} are more likely to fall in love with others after meeting a 
 Wei Qi Saves the Suffering
 {0} was rescued by a mysterious man who called himself Wei Qi in the {1} and transferred the injuries to {2}.
 Yi Xiang Saves the Suffering
-{0} The characters in the neighborhood are temporarily converted to a benevolent stance by a mysterious man who calls himself Yi Xiang.
+People near the {0} have their standpoint temporarily be changed to Kind by a mysterious man who calls himself Yi Xiang.
 Xue Feng to Save the Suffering
 {0} was attacked by a mysterious man calling himself Xue Feng at {1}.
 Artistic formula to save suffering
