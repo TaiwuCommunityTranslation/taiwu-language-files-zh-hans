@@ -287,7 +287,7 @@ People near the {0} have their standpoint temporarily be changed to Kind by a my
 Xue Feng Saves the Suffering
 {0} was attacked by a mysterious man calling himself Xue Feng at {1}.
 Shu Fang Saves the Suffering
-{0} stumbled upon a mysterious man in {1} who called himself Jitsufang, and then seemed to get younger!
+{0} stumbled upon a mysterious man in the {1} who called himself Shu Fang, and then seemed to get younger!
 Civilian Disappearance
 {0} was lost at {1} and was later confirmed dead.
 Caravan Departure
