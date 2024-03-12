@@ -255,7 +255,7 @@ A powerful enemy calling themselves "Xiangshu Incarnation" came out of the "{0}"
 Mo Nyu Brings Disaster
 Because of Mo Nyu passing nearby, {1} people near the {0} are affected by her disaster, causing them to suffer injuries and poison!
 Yao Chang Brings Disaster
-Because of Dayue Yaochang often passed by, {0} nearby characters are affected by its scourge, {1} died!
+Because of Dayue Yaochang passing nearby, {1} people near the {0} are affected by her disaster, causing them to die!
 Nine cold as a scourge
 The geodesic grid near {0} was damaged due to the passage of Jiukan!
 Phoenix is a scourge
