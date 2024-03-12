@@ -263,7 +263,7 @@ Because of Jin Huang'er passing nearby, {1} people near the {0} suffered an unex
 Yihou Brings Disaster
 Because of Yi Yihou passing nearby, people's mind near the {0} was filled with grief and sorrow.
 Wei Qi Brings Disaster
-Weiqi transfers all damage to {1} near {0}!
+Wei Qi transferred all his injuries to {1} near the {0}!
 taking a direction for a disaster
 As a result of to pass by, {0} the position of the nearby characters has changed!
 Xue Feng as a scourge
