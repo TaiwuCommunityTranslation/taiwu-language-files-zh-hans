@@ -322,7 +322,7 @@ Wilderness
 Overgrown place...
 Destroyed Land
 The horrible, abominable place full of blood and ash and basalt...
-dark abyss
+Dark Abyss
 A profound abyss that is extremely difficult to surmount. \n\n <color=#red> Attention! Passing through the abyss not only takes a lot of time, but also leads to injuries and damage to those involved, so you should avoid passing over the abyss if possible. </color> 
 Blocking
 
