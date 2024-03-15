@@ -323,7 +323,7 @@ Overgrown place...
 Destroyed Land
 The horrible, abominable place full of blood and ash and basalt...
 Dark Abyss
-A profound abyss that is extremely difficult to surmount. \n\n <color=#red> Attention! Passing through the abyss not only takes a lot of time, but also leads to injuries and damage to those involved, so you should avoid passing over the abyss if possible. </color> 
+An unfathomable abyss that is extremely hard to travel through.\n\n<color=#red>Attention! Not only does traveling through the Deep Abyss take a lot of time, but it also leads to injuries for everyone who travels through it. You should avoid traveling through it if possible.</color>
 Blocking
 
 
