@@ -1,7 +1,7 @@
 
 
 专解
-<color=#brightblue>放置其中的功法的发挥度上限增加50%，</color><color=#brightred>但功法的使用需求提高25%。</color>
+<color=#brightblue>放置其中的功法的发挥度上限增加50%，</color><color=#brightred>但功法的使用需求增加25%。</color>
 用极
 <color=#pinkyellow>运起放置其中的功法时，根据五行相同、相生、相克的不同，</color><color=#brightblue>增加</color><color=#pinkyellow>或</color><color=#brightred>减少</color><color=#pinkyellow>其它功法的威力。</color>
 大盈
@@ -11,7 +11,7 @@
 绝旨
 <color=#brightblue>放置其中的功法在战斗开始时，威力会发生变化：运用者的该功法的威力增加40%；敌人的该功法的威力减少40%。</color>
 收置
-<color=#brightblue>放置其中的功法只占用1格功法栏，</color><color=#brightred>但功法的使用需求提高50%。</color>
+<color=#brightblue>放置其中的功法只占用1格功法栏，</color><color=#brightred>但功法的使用需求增加50%。</color>
 
 
 
@@ -61,7 +61,7 @@
 
 
 断穴
-<color=#brightblue>放置其中的兵器在一轮兵器攻击中追击敌人5次后，短时间封禁敌人的1个随机功法。</color>
+<color=#brightblue>放置其中的兵器在一轮兵器攻击中追击敌人5次后，一定几率极短时间封禁敌人的1个随机功法。</color>
 死穴
 <color=#brightblue>敌人身上被封闭的穴道越多，运用者主动施展放置其中的指法时，指法的伤害就越高，</color><color=#brightred>但此指法在施展结束后将不可避免地被「封禁」，持续直到战斗结束。</color>
 <color=#brightblue>在敌人施展指法的过程中，如果运用者主动施展放置其中的指法攻击敌人，且发挥十成威力时，将可打断敌人的功法施展；</color><color=#brightred>但施展此功法所需的时间提高50%。</color>
