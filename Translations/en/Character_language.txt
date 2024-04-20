@@ -1426,7 +1426,7 @@ Foreign Master
 
 
 
-Dharma Seeker
+Vajrayana Treasure-searching Disciple
 
 
 
@@ -1541,7 +1541,7 @@ Angry Emei Disciple
 FuYu Hilt
 
 
-Deep Valley Taiwu
+Taiwu Shadow
 
 
 White Dragon
@@ -1695,4 +1695,78 @@ Chiwen
 
 
 Huanlong Clan
+
+
+Sacred Nun
+
+
+
+
+
+
+
+
+
+
+Skeleton Monk
+
+
+
+
+
+
+
+
+
+
+"Clothes" Borrowing Monk
+Mysterious Monk
+Eminent Monk
+Hun Ling
+
+
+Dai Fawang
+
+
+Suspicious Monk
+
+
+Hesitant Monk
+
+
+Disturbed Monk
+
+
+Bewildered Monk
+
+
+Courteous Monk
+
+
+Boorish Monk
+
+
+Fanatical Monk
+
+
+Obstinate Monk
+
+
+Apathetic Monk
+
+
+Calm Monk
+
+
+Zhuo Ma
+
+Foreign Bandit
+
+
+
+
+
+
+
+
 
