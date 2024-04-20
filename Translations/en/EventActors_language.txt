@@ -82,10 +82,10 @@ Elder Monk
 Young Monk
 Insider
 Mountain Boar Cub
-Old Father
 Shao Nu
 Shao Nian
 Old Farmer
+Old Father
 Taoist
 Injured Taiwu Villager
 The Three Ancestors
@@ -130,3 +130,11 @@ Shadow
 Craftsman
 Huanlong Clan's Elder Brother
 Huanlong Clan's Younger Sister
+Girl within the Mist
+Villager
+Villager
+Ghost Monk
+Senior Monk Hun Ling
+Granny
+Miao Girl
+Miao Youth
