@@ -35,7 +35,7 @@ This weapon has 50% higher Hardness, but 50% lower DES.
 Venomous sting
 This weapon causes 20% more Poison damage to enemies.
 Spiritual Use
-20% reduction in the usage requirements of this weapon
+This weapon's usage requirements are lowered by 20%
 Blood Kills
 When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct External Damage.
 Qi killing
@@ -79,7 +79,7 @@ This equipment has 50% higher TOU, but 50% lower Hardness.
 Tenacious
 This equipment has 50% higher Hardness, but 50% lower TOU.
 This equipment causes 20% more poison damage to enemies.
-20% reduction in the requirements to use this equipment.
+This armor's usage requirements are lowered by 20%
 Physical Protection
 When using this armor to resist the enemy's attack or Break skill if this armor is damaged, the direct External Damage inflicted by the enemy is reduced by 30%.
 Qi·Protection
@@ -107,4 +107,4 @@ The popularity of this equipment is increased by 75%, and its value is reduced b
 Made by Adoptive Father
 The Might, Finesse, and Swiftness of this weapon are increased by 20%; The durability of this weapon in increased by 100%.
 Trial
-The durability of this weapon is reduced by 50% and the usage requirement is increased by 100%.
+This weapon's durability is reduced by 50%, and its usage requirements are increased by 100%
