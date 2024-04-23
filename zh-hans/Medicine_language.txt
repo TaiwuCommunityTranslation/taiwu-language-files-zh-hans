@@ -1213,7 +1213,7 @@
 沾染此毒时，如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记，根据这些标记数量，<color=#brightred>恶化人物全身的内伤</color>。
 如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记，在<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记数量，<color=#brightred>人物的随机部位有一定几率出现1个更难恢复的旧内伤，若未出现旧内伤，则出现1个封穴</color>。\n所中的<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 邪阴彻体
-沾染此毒后，如果人物同时身中<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记、<color=#illusorypoison>幻毒</color>，根据这些标记数量，<color=#brightred>减少人物的奇窍功法运功栏位</color>。
+沾染此毒后，如果人物同时身中<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>减少人物的奇窍功法运功栏位</color>。
 如果人物同时身中<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物的1个随机奇窍功法将长时间被封禁</color>。\n所中的<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 迷惧钻心
 沾染此毒后，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>提高人物受到<color=#gloomypoison>郁毒</color>的毒量</color>。
