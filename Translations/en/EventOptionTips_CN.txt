@@ -32,7 +32,7 @@ Taiwu's Qi Disorder needs to be lower than {0}
 Favor required: {0}
 {0} cannot be a monk
 {0} must be a city lord
-{0} can't be Possessed or Enthralled by XiangShu
+{0} can't be Possessed or Enthralled by Xiangshu
 {0} can't be an owner of a Legendary Manual
 {0} can't be affected by an effect that temporarily changes their standpoint
 Experience required: {0}
