@@ -1230,7 +1230,7 @@ At the start of the battle, the user gains 6 Gu Charges; When this technique rea
 Internal Demon\nDescent
 Deplete Random True Qi
 Additional loss of true qi
-When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Internal Demon Gu; The Premature Internal Demon Gu will reduce host's random True Qi by 1 point whenever host's True Qi gets reduced, and will cause their opponent to obtain Gu Charges based on the original True Qi reduction, up to a maximum of 90 Gu Charges.
+When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Internal Demon Gu; The Premature Internal Demon Gu will decrease host's random True Qi by 1 point whenever host's True Qi gets decreased, and will cause the user to obtain Gu Charges based on the original True Qi decrease, up to a maximum of 90 Gu Charges.
 9 Yin Chi Corpse Gu
 Increase Damage Taken
 Increase Fatal Wound Damage Taken
