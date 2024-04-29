@@ -3723,7 +3723,7 @@
   "LK_FiveElements_HunYuan_Title": "Hunyuan·Man and Heaven as One",
   "LK_FiveElements_HunYuan_Desc": "Man and Heaven as One, Origin of all Qi",
   "LK_FiveElements_HunYuan_Condition": "All elements are within 10% of each other.",
-  "LK_FiveElements_HunYuan_Effect": "The usage requirements of all skills are <color=#brightblue>reduced by 20%</color>",
+  "LK_FiveElements_HunYuan_Effect": "The usage requirements of all techniques are <color=#brightblue>reduced by 20%</color>",
   "LK_Item_Mousetip_TotalCount": "(Owned: {0})",
   "LK_CombatSkill_ModifyBook_Change": "Modify",
   "LK_Planting_ShortDistance": "<color=#brightred>Too close to another Divine Tree location...</color>",
