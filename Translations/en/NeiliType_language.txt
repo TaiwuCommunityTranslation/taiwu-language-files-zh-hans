@@ -19,9 +19,9 @@ Earth·Return to the Origin
 "Return to the origin to find inner strength, and you'll be able to carry the sky"
 The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
 Hunyuan·Man and Heaven as One
-"Man and Heaven as One, Origin of all Qi".\n\nThe power limit of "Hunyuan" techniques is increased by 30%.
+"Man and Heaven as One, Origin of all Qi"\n\nUsage requirements of all techniques of the user are reduced by 20%.
 "Man and Heaven as One, Origin of all Qi"
-The power limit of <color=#fiveelementtype_hunyuan>"Hunyuan"</color> techniques <color=#brightblue>is increased by 30%</color>
+All techniques' <color=#brightblue>usage requirements are reduced by 20%</color>.
 Metal·Shaped Gold
 "Water supports Metal, making it shaped."\n\nThe power limit of "Metal" and "Water" techniques is increased by 20%.\nThe power limit of "Wood" and "Fire" techniques is reduced by 20%.
 "Water supports Metal, making it shaped"
