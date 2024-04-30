@@ -755,7 +755,7 @@ Hundred Feet's Drill
 Attrition of the enemy's Aegis
 During this Footwork, whenever the user attacks an enemy, a separate Swiftness check will happen, and if the enemy fails to Resolve it, the remaining duration of the enemy's current "Aegis" technique will be significantly reduced. This Swiftness check becomes progressively less accurate each time it activates within the duration of this technique.
 Sky Snake Rolling
-Reduce Poison Resistance
+Reduce Enemy's Poison Resistance
 When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, the enemy will receive a debuff that reduces all Poison Resistances depending on the distance moved
 Hundred-Foot\nPoles
 During this Footwork, user's maximum attack range is increased by 2
@@ -1020,7 +1020,8 @@ After this technique reaches $0$0% completion, user gains 5 layers of this effec
 The Great Snow\nMountain Palm
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: The higher the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are compared to those of the enemy, the more the power of any "Break" technique performed by the user will be increased.
 Blood Palm
-When you start performing this technique, the deeper the enemy is poisoned with Pyrotoxin, the more the power of this technique will increase
+Reduce Enemy's Pyrotoxin Resistance
+When you start performing this technique, the more the enemy is poisoned by Pyrotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Pyrotoxin resistance.
 Osbeck Bone Melt
 Steady pace of descending the enemy
 Based on completion percentage of this technique, enemy receives a debuff that reduces Ext. Recovery
@@ -1068,7 +1069,8 @@ While performing this technique, enemies with lower Ext. Recovery than the user 
 A Hundred Steps\nof Mysterious Tripot
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: When the number of layers of this effect is Even, user's Might, Finesse and Swiftness will be greatly increased; When the number of layers of this effect is Odd, user's Diversion, Parry and Evasion will be greatly increased; If user performs this technique while still having layers of this effect remaining, their power will be greatly increased.
 Zhen Fragrant
-When you start performing this technique, the deeper the enemy is poisoned with Acritoxin, the more the power of this technique will increase
+Reduce Enemy's Acritoxin Resistance
+When you start performing this technique, the more the enemy is poisoned by Acritoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Acritoxin resistance.
 8 Immortals of\nthe Other Shore
 Increase Poison Activation Count
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: The number of actions required for Poisons on the enemy to activate is increased, but every time a Poison on the enemy activates, it activates 2 times.
@@ -1195,7 +1197,8 @@ Ancestor's\nLong Fist
 Extra Prestige
 When an enemy is defeated with this technique, the prestige gained by the user at the end of the battle is greatly increased
 Scorpion Hand
-When you start performing this technique, the deeper the enemy is poisoned with Umbritoxin, the more the power of this technique will increase
+Reduce Enemy's Umbritoxin Resistance
+When you start performing this technique, the more the enemy is poisoned by Umbritoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Umbritoxin resistance.
 Python Hand
 Ignore Def Effect
 When attacking the enemy with this technique, if the enemy's Oneirotoxin attacks the heart, the special effect of the enemy's "Aegis" technique cannot take effect
@@ -1503,7 +1506,8 @@ When you start performing this technique, the more body parts of the enemy have 
 Poison Dragon\nClaw
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: Pyrotoxin applied by the user's "Break" techniques on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". User's "Break" techniques the have Pyrotoxin on them will also have a greatly increased Cast Speed.
 Hade Finger
-When you start performing this technique, the deeper the enemy is poisoned with Necrotoxin, the more the power of this technique will be increased
+Reduce Enemy's Necrotoxin Resistance
+When you start performing this technique, the more the enemy is poisoned by Necrotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Necrotoxin resistance.
 Blood Pool\nGhost Claw
 When this technique reaches $0$0% completion, user transfers 1 non-old External Injury from each of their body parts to the "Injured" body part of the enemy.
 Lower Body Kick
@@ -1687,7 +1691,8 @@ After this technique reaches $0$0% completion, user gains 10 layers of this effe
 Flower Rain
 For every $0$0% of completion of this technique, user has a low chance of inflicting 1 additional Sealed Acupoint on the enemy
 The Great\nFlower Finger of Mandala
-When you start performing this technique, the deeper the enemy is poisoned with Oneirotoxin, the more the power of this technique will increase
+Reduce Enemy's Oneirotoxin Resistance
+When you start performing this technique, the more the enemy is poisoned by Oneirotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Oneirotoxin resistance.
 Flower Spirit\nMoon Finger
 When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Fire", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
 A Hundred\nFlower Fight
@@ -1700,7 +1705,8 @@ When this technique reaches $0$0% completion, for every 3 "Drive" styles the use
 5 Elements\nPinprick
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Throw" and "Shot" styles that user gains will be changed to "Drive" styles
 Chilling Pinprick
-When you start performing this technique, the deeper the enemy is poisoned by Cryotoxin, the more the power of this technique will increase
+Reduce Enemy's Cryotoxin Resistance
+When you start performing this technique, the more the enemy is poisoned by Cryotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Cryotoxin resistance.
 Bianque Pinprick
 Heal Injuries
 When the cast progress of this technique reaches 100%, the user will perform 1 "Healing" that doesn't consume a "Healing" attempt, but also can't cure Old Wounds. The more Injuries this "Healing" eliminates, the more the power of this technique will be increased
@@ -2743,7 +2749,8 @@ After this technique reaches $0$0% completion, user gains 5 layers of this effec
 Reverse - The Great Snow\nMountain Palm
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: The lower the current values of Strength, Agility, Constitution, Vitality, Comprehension and Willpower of the user are compared to those of the enemy, the more the power of any "Break" technique performed by the user will be increased.
 Reverse - Blood Palm
-When you start performing this technique, the deeper the user is poisoned with Pyrotoxin, the more the power of this technique will increase
+Increase Your Pyrotoxin Resistance
+When you start performing this technique, the more the user is poisoned by Pyrotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Pyrotoxin resistance.
 Reverse - Osbeck\nBone Melt Palm
 Subdue the enemy to induce Qi to rush through the gate
 Based on completion percentage of this technique, enemy receives a debuff that reduces Int. Recovery
@@ -2786,7 +2793,8 @@ While performing this technique, enemies with lower Int. Recovery than the user 
 Reverse - A Hundred Steps\nof Mysterious Tripot
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: When the number of layers of this effect is Even, enemy's Might, Finesse and Swiftness will be greatly reduced; When the number of layers of this effect is Odd, enemy's Diversion, Parry and Evasion will be greatly reduced; If user performs this technique while still having layers of this effect remaining, their power will be greatly increased.
 Reverse - Zhen Fragrant
-When you start performing this technique, the deeper the user is poisoned with Acritoxin, the more the power of this technique will increase
+Increase Your Acritoxin Resistance
+When you start performing this technique, the more the user is poisoned by Acritoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Acritoxin resistance.
 Reverse - 8 Immortals of\nthe Other Shore
 Increase Poison Activation Requirements
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: The number of actions required for Poisons on the user to activate is increased, but every time a Poison on the user activates, it activates 2 times.
@@ -2873,7 +2881,8 @@ Reverse - The Impulse
 After this technique reaches $0$0% completion, user gains 1 layer of this effect: When the total number of defeat markers sustained by the user reaches the defeat condition, all of removable Impairment and Fatal Wound markers of the user get removed, and a portion of the removed Impairment markers is transferred to the enemy, after which this technique will be always be "Sealed" until the end of the battle.
 Reverse - Ancestor's\nLong Fist
 Reverse - Scorpion Hand
-When you start performing this technique, the deeper the Umbritoxin the user is, the more the power of this technique will increase
+Increase Your Umbritoxin Resistance
+When you start performing this technique, the more the user is poisoned by Umbritoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Umbritoxin resistance.
 Reverse - Python Hand
 Ignore light effects
 When attacking an enemy with this technique, the special effect of the enemy's "Quick" technique cannot take effect if the enemy's Oneirotoxin attacks his heart
@@ -3152,7 +3161,8 @@ Reverse - Poison Dragon\nClaw
 E·Cast Spd Dn
 When this technique reaches $0$0% completion, user gains 10 layers of this effect: Pyrotoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". Enemy's "Break" techniques that have Pyrotoxin on them will have greatly reduced Cast Speed.
 Reverse - Hade Finger
-When you start performing this technique, the deeper the Necrotoxin the user is, the more the power of this technique will increase
+Increase Your Necrotoxin Resistance
+When you start performing this technique, the more the user is poisoned by Necrotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Necrotoxin resistance.
 Reverse - Blood Pool\nGhost Claw
 When this technique reaches $0$0% completion, user transfers 1 non-old Internal Injury from each of their body parts to the "Agony" body part of the enemy.
 Reverse - Lower Body Kick
@@ -3321,7 +3331,8 @@ After this technique reaches $0$0% completion, user gains 10 layers of this effe
 Reverse - Flower Rain
 For every $0$0% of completion of this technique, user has a low chance of inflicting 1 additional Weak Point on the enemy
 Reverse - The Great\nFlower Finger of Mandala
-When you start performing this technique, the deeper the user is poisoned with Oneirotoxin, the more the power of this technique will increase
+Increase Your Oneirotoxin Resistance
+When you start performing this technique, the more the user is poisoned by Oneirotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Oneirotoxin resistance.
 Reverse - Flower Spirit\nMoon Finger
 When this technique reaches $0$0% completion, if enemy's dominant element is "Fire", direct damage dealt by this technique will be increased by 45%
 Reverse - A Hundred\nFlower Fight
@@ -3334,7 +3345,8 @@ When this technique reaches $0$0% completion, for every 1 "Drive" style user has
 Reverse - 5 Elements\nPinprick
 When this technique reaches $0$0% completion, user will gain 2 "Drive" styles
 Reverse - Chilling Pinprick
-When you start performing this technique, the deeper the user is poisoned by Cryotoxin, the more the power of this technique will increase
+Increase Your Cryotoxin Resistance
+When you start performing this technique, the more the user is poisoned by Cryotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Cryotoxin resistance.
 Reverse - Bianque Pinprick
 When the cast progress of this technique reaches 100%, the user will perform 1 "Detox" that doesn't consume a "Detox" attempt, but also can't dispel stubborn poison. The more Poison markers this "Detox" eliminates, the more the power of this technique will be increased
 Reverse - Vitality\nLosing Pinprick
