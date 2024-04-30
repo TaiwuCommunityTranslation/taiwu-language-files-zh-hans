@@ -1171,64 +1171,64 @@
 
 
 裂皮碎骨
-沾染此毒时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>标记，根据这些标记数量，<color=#brightred>立即大幅减少人物的健康</color>。
+在月份更替时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>大幅减少人物的「健康」</color>，减少程度受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>标记，在<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，<color=#brightred>人物受到一定数量的重创标记</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 心残肉挫
-沾染此毒后，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>减少人物的轻灵身法运功栏位</color>。
+如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，<color=#brightred>获得「轻灵运功栏位减少」的减益</color>，直到驱除此混合毒素，减少程度受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#hotpoison>烈毒</color>发作时，人物的身法将被消除，且根据人物所中的<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物的1个随机轻灵身法将长时间被封禁</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 骨错筋缠
-沾染此毒后，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>标记，根据这些标记数量，<color=#brightred>在月份更替时，人物会痛苦难熬，将数个自己的物品丢弃</color>。
+在月份更替时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>人物会痛苦难熬，将数个自己的物品丢弃</color>，丢弃数量受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>标记，在<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，<color=#brightred>人物有一定几率立即抛下手中的兵器切换至空手，且敌人所有的兵器均暂时无法使用</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 肝肠寸断
-沾染此毒后，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记，根据这些标记数量，<color=#brightred>提高人物受到<color=#redpoison>赤毒</color>的毒量</color>。
+如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>获得「<color=#redpoison>赤毒</color>获取量提升」的减益</color>，直到驱除此混合毒素，提升量受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>标记、<color=#rottenpoison>腐毒</color>，在<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，<color=#brightred>额外衍生多次<color=#redpoison>赤毒</color>，且加快人物下一次<color=#redpoison>赤毒</color>的发作速度</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 血迷关窍
-沾染此毒后，如果人物同时身中<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>减少人物的摧破功法运功栏位</color>。
+如果人物同时身中<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，<color=#brightred>获得「摧破运功栏位减少」的减益</color>，直到驱除此混合毒素，减少程度受上述标记数量影响。
 如果人物同时身中<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#redpoison>赤毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物的1个随机摧破功法将长时间被封禁</color>。\n所中的<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 五脏败腐
-沾染此毒后，如果人物同时身中<color=#redpoison>赤毒</color>、<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>标记，根据这些标记数量，<color=#brightred>提高人物受到<color=#hotpoison>烈毒</color>的毒量</color>。
+如果人物同时身中<color=#redpoison>赤毒</color>、<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>获得「<color=#hotpoison>烈毒</color>获取量提升」的减益</color>，直到驱除此混合毒素，提升量受上述标记数量影响。
 如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>标记，在<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，<color=#brightred>额外衍生多次<color=#hotpoison>烈毒</color>，且加快人物下一次<color=#hotpoison>烈毒</color>的发作速度</color>。\n所中的<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 坏血断肠
-沾染此毒后，如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记，根据这些标记数量，<color=#brightred>在月份更替时，人物会将所中<color=#rottenpoison>腐毒</color>扩散给同地格的人物</color>。
+在月份更替时，如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>人物会将所中<color=#rottenpoison>腐毒</color>扩散给同地格的人物</color>，扩散人数受上述标记数量影响。
 如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记，在<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，<color=#brightred>人物受到随机的降低化解的损害状态，且将人物所中的<color=#rottenpoison>腐毒</color>的一部分扩散给己方助战的同伴</color>。\n所中的<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 毒火焚心
-沾染此毒后，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>在月份更替时，人物会迷失心性，对随机人物进行数次作恶</color>。
+在月份更替时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>标记， <color=#brightred>人物会迷失心性，对随机人物进行数次作恶</color>，作恶次数受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>发作时，根据人物所中的<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物对自己进行数次兵器攻击</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 骨中烧疽
-沾染此毒后，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>标记、<color=#redpoison>赤毒</color>，根据这些标记数量，<color=#brightred>在月份更替时，人物的容貌会为恶毒摧残，直到连续三月未受到此效果影响时才会恢复</color>。
+在月份更替时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>标记， <color=#brightred>人物的容貌会为恶毒摧残</color>，直到连续三月未受到此效果影响时才会恢复，容貌摧残的程度受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>标记，在<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>发作时，根据人物所中的<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>标记数量，<color=#brightred>人物的脚力将被损耗</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 血火阴杀
-沾染此毒时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记，根据这些标记数量，<color=#brightred>恶化人物全身的外伤</color>。
+在月份更替时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记， <color=#brightred>恶化人物全身的「外伤」</color>，恶化程度受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记，在<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记数量，<color=#brightred>人物的随机部位有一定几率出现1个更难恢复的旧外伤，若未出现旧外伤，则出现1个破绽</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 摧心蚀元
-沾染此毒后，如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>减少人物的生育行为和生育能力</color>。
+如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记， <color=#brightred>获得「生育行为减少」和「生育能力降低」的减益</color>，直到驱除此混合毒素，下降程度受上述标记数量影响。
 如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物受到一定数量的失神标记</color>。\n所中的<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 化骨封髓
-沾染此毒时，如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记，根据这些标记数量，<color=#brightred>人物受到随机数个功法的反噬伤害</color>。
+在月份更替时，如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>人物受到随机数个功法的反噬伤害</color>，反噬的功法数量受上述标记数量影响。
 如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记，在<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，<color=#brightred>人物受到随机数个功法的反噬伤害</color>。\n所中的<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 寒锥锁脉
-沾染此毒时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>标记，根据这些标记数量，<color=#brightred>立即增加人物的内息紊乱</color>。
+在月份更替时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>标记， <color=#brightred>增加人物的「内息紊乱」</color>，增加程度受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>标记，在<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>标记数量，<color=#brightred>增加人物的内息紊乱</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#coldpoison>寒毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 锁血凝髓
-沾染此毒时，如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记，根据这些标记数量，<color=#brightred>恶化人物全身的内伤</color>。
+在月份更替时，如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记， <color=#brightred>恶化人物全身的内伤</color>，恶化程度受上述标记数量影响。
 如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记，在<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>标记数量，<color=#brightred>人物的随机部位有一定几率出现1个更难恢复的旧内伤，若未出现旧内伤，则出现1个封穴</color>。\n所中的<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 邪阴彻体
-沾染此毒后，如果人物同时身中<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>减少人物的奇窍功法运功栏位</color>。
+如果人物同时身中<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，<color=#brightred>获得「奇窍运功栏位减少」的减益</color>，直到驱除此混合毒素，减少程度受上述标记数量影响。
 如果人物同时身中<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物的1个随机奇窍功法将长时间被封禁</color>。\n所中的<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 迷惧钻心
-沾染此毒后，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>提高人物受到<color=#gloomypoison>郁毒</color>的毒量</color>。
+如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记， <color=#brightred>提高人物受到「<color=#gloomypoison>郁毒</color>获取量提升」的减益</color>，直到驱除此混合毒素</color>，提升量受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>额外衍生多次<color=#gloomypoison>郁毒</color>，且加快人物下一次<color=#gloomypoison>郁毒</color>的发作速度</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 剧恶深苦
-沾染此毒后，如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>在月份更替时，人物会将所中<color=#illusorypoison>幻毒</color>扩散给同地格的人物</color>。
+在月份更替时，如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记， <color=#brightred>人物会将所中<color=#illusorypoison>幻毒</color>扩散给同地格的人物</color>，扩散人数受上述标记数量影响。
 如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物受到随机的降低命中的损害状态，且将人物所中的<color=#illusorypoison>幻毒</color>的一部分扩散给己方助战的同伴</color>。\n所中的<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 失魂鬼瘴
-沾染此毒后，如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>减少人物的护体功法运功栏位</color>。
+如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，<color=#brightred>获得「护体运功栏位减少」的减益</color>，直到驱除此混合毒素，减少程度受上述标记数量影响。
 如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#gloomypoison>郁毒</color>发作时，人物的护体将被消除，且根据人物所中的<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物的1个随机护体功法将长时间被封禁</color>。\n所中的<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 绝脉乱心
-沾染此毒时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>立即损耗人物的真气</color>。
+在月份更替时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#illusorypoison>幻毒</color>标记， <color=#brightred>将损耗人物随机类型的「真气」</color>，损耗程度受上述标记数量影响。
 如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>发作时，根据人物所中的<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>人物失去随机类型的真气</color>。\n所中的<color=#hotpoison>烈毒</color>、<color=#gloomypoison>郁毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 封颅闭血
-沾染此毒后，如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>标记，根据这些标记数量，<color=#brightred>提高人物受到<color=#coldpoison>寒毒</color>的毒量</color>。
+如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>标记， <color=#brightred>获得「<color=#coldpoison>寒毒</color>获取量提升」的减益</color>，直到驱除此混合毒素，提升量受上述标记数量影响。
 如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>标记，在<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>发作时，根据人物所中的<color=#illusorypoison>幻毒</color>标记数量，<color=#brightred>额外衍生多次<color=#coldpoison>寒毒</color>，且加快人物下一次<color=#coldpoison>寒毒</color>的发作速度</color>。\n所中的<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 赤目王蛊
 赤目蛊双瞳血红，身有赤斑，乃是于死人头颅当中炼制而成的苗疆蛊虫。\n赤目王蛊更是于万蛊坛中浴万毒而生，毒性远胜寻常。
