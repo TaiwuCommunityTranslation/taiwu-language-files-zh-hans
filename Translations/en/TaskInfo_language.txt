@@ -640,87 +640,87 @@ But the flying generals of Dragon City are here, and foreign traitors aren't tau
 Attending Celebratory Banquet
 Go to <color=#orange>Lion-Face Clan</color> and participate in a celebratory banquet.
 Lion-Face Clan invited me to a banquet, and naturally it's hard to refuse...
-No Way for the People to Live
-People of Kunlun Mountain are in dire straits
-
-
+Vajrayana's Evil Actions
+Go to <color=#orange>Vajrayana</color> to investigate
+Visit <color=#orange>any city or village in Vajrayana</color> to examine the damage suffered by villagers.
+The residents here seem to have suffered greatly at the hands of the Vajrayana, yet they fear to speak out...
 Go to the Vajrayana
-Go to the Vajrayana to investigate
-
-
+Visit <color=#orange>Vajrayana Sect</color>
+Visit <color=#orange>Vajrayana Sect</color>, and pay a visit to the Eminent Monk.
+I heard that the eminent monk from the Western Regions has arrived at the Vajrayana. It's a good opportunity to pay a visit...
 Ancient Scripture Mystery
-Go to the【Ancient Scripture Mystery】adventure
-Will it be blocked?
-
-Interpreting the residual scriptures
-I wonder who can interpret the residual scriptures? Maybe Vajrayana?
-
-
-Eminent Monk Writing Sutras
-Wait for Eminent Monk to finish Writing Sutras
-Multiplexing
-
-Reply to the Eminent Monk
-Talk with the Eminent Monk
-
-Exchange through Qinzhou
-You can exchange scriptures in Qinzhou, or you can go to the Vajrayana
-
-
-Exchange through Xiangyang
-You can exchange scriptures in Xiangyang, or you can go to the Vajrayana
-
-
-Exchange through Taiyuan
-You can exchange scriptures in Taiyuan, or you can go to the Vajrayana
-
-
-Exchange through Capital
-You can exchange scriptures in Capital, or you can go to the Vajrayana
-
-
+Go to <color=#orange>Qinzhou</color>'s 「Ancient Scripture Mystery」 adventure
+Go to <color=#orange>{0}</color>, and enter the <color=#orange>「Ancient Scripture Mystery」</color> adventure.
+Since i have already agreed to the request of the Vajrayana, why not explore the ancient monastery...
+Western Region's Matter
+Go to the <color=#orange>West</color> and explore all over the place
+Go to the <color=#orange>West</color> and <color=#orange>explore the areas within it</color>.
+In the past few days I've been feeling dizzy and powerless without any reason, that's really strange...
+Enter the <color=#orange>Reincarnation Platform</color>, and help the Eminent Monk reincarnate
+Enter the Taiwu Village's Industry screen, interact with the <color=#orange>「Reincarnation Platform」</color> building, and help the Eminent Monk reincarnate into any path.
+The soul of the Eminent Monk keeps following me all day long, I should quickly visit Reincarnation Platform to help him reincarnate...
+Wait for Reincarnation
+<color=#orange>Wait</color> for Eminent Monk's reincarnation
+After sending the Eminent Monk into the Reincarnation Platform <color=#orange>Reincarnation Progress</color> will accumulate over time. When it's full, you will be able to click the <color=#orange>「Reincarnation」</color> button in the Reincarnation Platform to help the Eminent Monk reincarnate.
+Eminent Monk's reincarnation still requires some time, I might as well meditate while waiting...
+Go to Vajrayana
+Visit <color=#orange>Vajrayana</color> to investigate
+Visit <color=#orange>various cities and villages in Vajrayana</color> to look for the eminent monks and help them get out of their predicament.
+I am going to Vajrayana, hoping to find a way to help the eminent monks escape from their predicament...
+Eminent Monk Matter
+Go to the <color=#orange>Vajrayana Sect</color> to inquire about the Eminent Monk's matter
+Visit the <color=#orange>Vajrayana Sect</color> to inquire about the Eminent Monk's matter. You can also interact with the <color=#orange>local population</color> to inquire about recent occurrences.
+The matter of the Eminent Monk from the Western Regions is just a rumor, so i still need to find someone to investigate...
+Assist in Preaching Scripture
+<color=#orange>Spread Secrets</color> to help the Eminent Monk to spread scriptures
+Interact with other characters and use the <color=#orange>「Passing Scriptures」</color> secret. Because it is very rare for eminent monks to preach scriptures, those who hear about this secret will spread it to other people again and again. This way, you will be able to just <color=#orange>wait</color> for people to spread it by word of mouth, and within a few months this secret should become public. The Vajrayana Sect is ruthless, and has been coveting the precious scriptures for a long time, so it may be <color=#orange>cautious</color> about this secret.\nWhile waiting for the words to spread, you could also talk to the soul of the Eminent Monk at the Reincarnation Platform.
+Right now I'm helping an Eminent Monk to spread scriptures, but I still need to think carefully about how to act in the future...
+Vajrayana Business
+<color=#orange>Wait</color> for the Vajrayana matter to settle
+Since I've never agreed to help Vajrayana Sect find scriptures, i should just <color=#orange>wait</color> for this matter to settle.
+The Vajrayana Sect behaves in a way that angers everyone, in the end they will suffer the consequences of their own actions...
 Where is the Eminent Monk?
-I wonder where the Eminent Monk went
+Abandoned
 
 
-Closure of the Matter
-Go to Vajrayana to finish this matter
-
-
+Handing Over Scrupture
+Visit <color=#orange>Vajrayana Sect</color> to hand over the scripture, in order to end their search for the scriptures.
+Now all i have to do is to hand over the scripture to the Vajrayana Sect to settle this matter...
 Return the Scriptures
-Go to the Vajrayana to return【Misspelled False Scriptures】
 
 
 True Scriptures without words
-Wait for the end
-
-
-Take often baths
-
-
-Go to the Flower Valley
-
-
-Five Immortals Request
-Accept the request from the sect master of Five Immortals to detoxify Ran Xindu
-
-
-Travel to Kongsang
-Leave Flower Valley and go to Kongsang
-
-
-Return to Five Immortals
-Leave Kongsang and return to Five Immortals
-
-
+<color=#orange>Wait</color> for news from Vajrayana Sect
+Vajrayana Sect has already obtained the scripture, I should just <color=#orange>wait</color> for news.
+The Vajrayana Sect has obtained the scripture, but i don't know what will happen in the future...
+Secret Bath of Five Saints
+Once again visit the <color=#orange>「Secret Bath of Five Saints」</color>
+Talk to T3 characters of the Five Immortals Cult, or enter the Five Immortals Cult's Industry screen, click the <color=#orange>「Five Poisons Bath Valley」</color> building, and select Taiwu to interact with the <color=#orange>「Secret Bath of Five Saints」</color> sect service.
+The Secret Bath of Five Saints is really miraculous, you might as well go there once more...
+Hundred Flowers Treatment
+Visit <color=#orange>Hundred Flowers Valley</color> in search for a treatment
+Go to the <color=#orange>areas near the Hundred Flowers Valley</color> in order to search for a treatment for Ran Xindu.
+Hundred Flowers's medical skills are unparalleled in the world, they will definitely be able to diagnose and cure Ran Xindu's illness...
+Looking for Ran Xindu
+Interact with <color=#orange>Ran Xindu</color>
+Interact with the <color=#orange>Ran Xindu</color>, who's located in the vicinity of the Five Immortals Cult.
+Now that I have agreed to the Sacren Nun's request, let's go see Ran Xindu...
+Kongsang Treatment
+Visit <color=#orange>Kongsang Sect</color> in search for a treatment
+Go to the <color=#orange>areas near the Kongsang Sect</color> in order to search for a treatment for Ran Xindu.
+The secret medicines of Kongsang are famous all over the world, they definitely will be able to diagnose and cure Ran Xindu's illness...
+Ran Xindu's Letter
+<color=#orange>Wait</color> for news from Ran Xindu
+Ran Xindu has already returned to the Five Immortals Cult, let's just <color=#orange>wait</color> for news.
+Ran Xindu has now returned to the Five Immortals. I wonder what will happen in the future...
 Unfulfilled Wish
-Ran Xindu is dead, 3 wishes not fulfilled
-
-
-Five Sacred Heart Poison
-Go to the【Five Sacred Heart Poison】adventure
-
-
+<color=#orange>Wait</color> for Ran Xindu
+There is still a glimmer of hope in my heart, let's just <color=#orange>wait</color> for news about Ran Xindu.
+Although the matter of the Five Immortals has been settled, the relationship between me and Ran Xindu should not be severed...
+Sudden Change in Five Immortals
+Visit <color=#orange>Five Immortals Cult</color>
+Visit <color=#orange>Five Immortals Cult</color>, and enter the <color=#orange>「Sudden Change in Five Immortals」</color> adventure. The situation at the Five Immortals Cult is critical, and if delayed for more than <color=#orange>12 months</color>, the situation will become irrepairable!
+The matter mentioned in the Ran Xindu's letter seems to be extremely urgent, i must rush to the Five Immortals Cult...
 Emei's Murder Case
 Pay attention to Emei's terrible situation
 <color=#orange>Spend some time</color>, and go back to the <color=#orange>place where the terrible murder occured</color> in Emei to check the situation.
@@ -813,7 +813,6 @@ Return <color=#orange>Shattered Sculpture</color> to Shaolin
 <color=#orange>Interact</color> with a Shaolin character to return <color=#orange>Shattered Sculpture</color> to Shaolin.
 The statue is shattered, I think the opportunity is over, I should return this thing...
 Battle of Zen and Martial Arts
-Abandoned
 
 
 Concentrate on Practice
@@ -1008,3 +1007,68 @@ Breeding Jiao
 
 Once Jiao's rearing is complete, two Jiao of the opposite sex can be used to <color=#orange>breed</color> in order to give birth to new <color=#orange>「Jiao Eggs」</color>.\nThrough rearing and breeding, it is possible to continuously improve the attributes of Jiao; If one attribute of a Jiao <color=#orange>reaches Pinnacle</color>, and <color=#orange>the remaining attributes have at least two Outstanding attributes</color>, it is possible to go to the <color=#orange>bottom right corner of the Jiao Pond's menu</color> to try <color=#orange>「Transforming into a Dragon Son」</color>.
 
+One Step, One Gu
+Go to the <color=#orange>vicinity of the Five Immortals Cult</color> and proceed with caution
+There are many strange things happening in the Five Immortals Cult, so I must <color=#orange>proceed cautiously in the vicinity</color>.
+This place is full of verdant hills and limpid water, but in reality danger lurks in every corner, I must proceed very cautiously...
+Method of Removing Gu
+Inquire <color=#orange>Five Immortals Cult characters</color> about the Gu matter
+Interact with the <color=#orange>Five Immortals Cult characters</color>, and inquire them about the Gu matter.
+Miao people's Gu techniques are mysterious and unpredictable. I wonder if the Five Immortals Cult has a solution...
+Visit the <color=#orange>「Secret Bath of Five Saints」</color>
+Whether this Secret Bath of Five Saints is really that miraculous, I still need to try it in order to find out...
+Sacred Nun's True Desire
+The Five Poisons Bath Valley matter is really strange, it would be better to just <color=#orange>wait</color> for a while to see if there's any changes.
+What I saw in the Five Poisons Bath Valley was really strange. I don’t know what that “cherished desire” meant...
+Wait and see
+<color=#orange>Wait</color> for everything in the Five Immortals Cult to settle
+Since I've never agreed to the Sacred Nun's request, i should just <color=#orange>wait</color> for this matter to settle.
+Things in Miao territory are so complicated that I don’t want to get involved...
+Panwang Dance
+Enter the <color=#orange>「Panwang Dance」</color> adventure
+Go to the <color=#orange>「Hundred Flowers Valley」</color>, and enter the <color=#orange>「Panwang Dance」</color> adventure.
+Panwang Festival is a grand event in Guangnan, you might as well join Ran Xindu to join in the fun...
+Hundred Flowers' Prescription
+Talk with <color=#orange>Hundred Flowers Valley characters</color> to inquire about illness
+Interact with the <color=#orange>T3 or above characters from Hundred Flowers Valley</color> to inquire about Ran Xindu's illness.
+I have been here for some time, I wonder if Hundred Flowers Valley has already found an effective cure...
+Star Ceremony
+Enter the <color=#orange>「Star Ceremony」</color> adventure
+Go to the <color=#orange>「Kongsang Mountain」</color>, and enter the <color=#orange>「Star Ceremony」</color> adventure.
+The Star Ceremony is an ancient ritual in Liaodong. You might as well go and visit it with Ran Xindu...
+Kongsang's Prescription
+Talk with <color=#orange>Kongsang Sect characters</color> to inquire about illness
+Interact with the <color=#orange>T3 or above characters from Kongsang Sect</color> to inquire about Ran Xindu's illness.
+I have been here for some time, I wonder if Kongsang Sect has already found an effective cure...
+Searching Mandarin Insect
+Go to the <color=#orange>Five Immortals Cult</color> to search for Ran Xindu's mandarin insect.
+Ran Xindu only has this mandarin insect left, i can't let it get lost again...
+Cherished Desire Complete
+The Five Immortals' matter is almost done, i should just <color=#orange>wait</color> for it to completely settle.
+The matter of the Five Immortals has been settled, there is no need to think about it anymore...
+Where's the Old Buddhist Temple
+
+
+Eminent Monk's Whereabouts
+<color=#orange>Wait</color> for a change
+Vajrayana Sect has learned about the Eminent Monk's whereabouts, i should just <color=#orange>wait</color> for a change.
+The Vajrayana Sect has found the whereabouts of the eminent monks of the Western Regions, I don't know what will happen next...
+Central Plains Monks
+Chat with <color=#orange>monks of Central Plains</color>
+Pay a visit to <color=#orange>monks of Central Plains</color> and talk with them.
+Many monks from the Central Plains come out of admiration, it's a good opportunity to discuss with them...
+Confusion within Scriptures
+Talk with the <color=#orange>eminent monks of Western Regions</color>
+Talk with the <color=#orange>eminent monks of Western Regions</color> to convey the questions of monks from Central Plains.
+The scriptures still have many difficult passages to understand, we still need to seek advice from the eminent monks...
+Eminent Monks Dispel Doubts
+<color=#orange>Wait</color> for eminent monks to dispel doubts
+<color=#orange>Wait</color> for eminent monks of Western Regions to explain deep meanings in the scriptures
+The eminent monks still need to contemplate about the questions, perhaps it would be better to come back and seek advice after some time...
+Miao People's Strange Matter
+Things in Miao territory are strange and difficult to understand, it would be better to just <color=#orange>wait</color> for changes.
+People say that there are many strange people and events in the Miao region, i shouldn't be careless...
+Five Saints Heart Poison
+Go to the <color=#orange>vicinity of the Five Immortals Cult</color> to examine
+Go to the <color=#orange>vicinity of the Five Immortals Cult</color> to examine.
+This girl is deeply knowledgeable about Gu techniques, but she seems to have no malicious intentions. I wonder what her intentions are...
