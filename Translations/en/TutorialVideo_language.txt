@@ -148,7 +148,7 @@ The breakthrough needs to start from the <color=#orange>Start Cell</color> and e
 <color=#orange>Talent Limit</color> determines the number of times you can connect cells. Each connection attempt consumes 1 point of talent, and if you go beyond the <color=#orange>Talent Limit</color>, you will enter <color=#orange>Obsessed</color> state.
 <color=#orange>Common Cells</color> are normal cells that don't provide any special effects
 <color=#orange>Special Cells</color> are cells that provide various connection effects.
-<color=#orange>Golden Cells</color> will make the skill gain permanent effects. Connect to as many Golden Cells as possible to maximize the benefit of breakthroughs.
+<color=#orange>Golden Cells</color> will make the technique gain permanent effects. Connect to as many Golden Cells as possible to maximize the benefit of breakthroughs.
 If the connection fails, the cell will be closed and its effect will not be activated
 When all adjacent cells fail to connect, the breakthrough fails
 Understand the rules of skill breakthrough
