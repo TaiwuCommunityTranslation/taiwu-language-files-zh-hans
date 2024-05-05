@@ -1,0 +1,32 @@
+The host's weapon attacks will have an additionally reduced chance of hitting the enemy.
+The host's weapon attacks will have an additionally increased chance of hitting the enemy.
+The host will lose a part of their items every month.
+It certainly will be born when <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color> consumption reaches 40%
+The host will receive 1 Daze Marker whenever host's Poison activates.
+The host will receive 1 Daze Marker whenever enemy's Poison activates.
+Every month, the host might start Hating the characters whose Favor has dropped significantly, and will more easily seek revenge on their enemies.
+It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color> consumption reaches 40%
+Level of Weak Points and Sealed Acupoints received by the host will increase by 1 level
+Level of Weak Points and Sealed Acupoints received by the host will reduced by 1 level
+The host's Inner Breath will become disordered based on the level of Injuries they have
+It certainly will be born when <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 40%
+Whenever the host's True Qi gets decreased, a random type of the host's True Qi will be decreased by 1 point.
+Whenever the host's True Qi gets increased, a random type of the host's True Qi will be increased by 1 point.
+Every month, the host's demonization value will be increased by 10 times.
+It certainly will be born if all types of poison consumption are within 10% of each other
+If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally increased, and whenever the host's Fatal Wound damage taken gets increased, the host's Health will also be reduced.
+If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally decreased, but whenever the host's Fatal Wound damage taken gets decreased, the host's Health will also be reduced.
+Inner Breath state won't recover the host's Health every month.
+It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color>, <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color>, and <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 30% each
+Sealing chance of the host's techniques and weapons will be additionally increased.
+Sealing chance of the host's techniques and weapons will be additionally decreased.
+The host's Internal Energy will not be restored every month, and will instead be greatly depleted.
+It certainly will be born when <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color> consumption reaches 40%
+The effects of the host's Empty Body, Regulate Qi, Divine Step, and Entranced pure essence realms will be reduced.
+The effects of the host's Empty Body, Regulate Qi, Divine Step, and Entranced pure essence realms will be increased.
+The Golden Silkworm Gu King will devour 1 random Mature Gu in the host's body every month to apply a large amount of Poisons to the host
+It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color> consumption reaches 40%
+The positive effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's positive "Traits" will temporarily change to negative effects.
+The negative effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's negative "Traits" will temporarily change to positive effects.
+All characters who spend a Spring Night with the host will be implanted with an untamed Premature Azure Marrow Gu.
+It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color>, <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color>, and <SpName=sp_icon_poison_5><color=#illusorypoison>Oneirotoxin</color> consumption reaches 30% each
