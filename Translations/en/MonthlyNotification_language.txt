@@ -322,7 +322,7 @@ Secret news expires next month
 Secret news about to expire: {0}
 Secret News Expired
 Secret News Expired: {0}
-Strange Individuals Appeared
+Strange Person Appeared
 Calling Taiwu: Strange individuals appeared in the world, everyone is calling {0} to return to the Taiwu Village...
 Returning with a Festival
 Time has no regrets, after thirty years of trials and tribulations, the tea and horse gang has surprisingly returned to Taiwu Village...
