@@ -1,7 +1,7 @@
 
 
 Expert
-<color=#brightblue>The power limit of skills placed in here are increased by 50%,</color><color=#brightred> but the use requirement are increased by 25%.</color> 
+<color=#brightblue>The power limit of techniques placed in here are increased by 50%,</color> <color=#brightred>but the use requirements are increased by 25%.</color>
 Extreme
 <color=#pinkyellow>When a skill is placed in here, depending on the difference between your main element and your mutual and restraining elements, the power of other skills may</color> <color=#brightblue>Increase</color> <color=#pinkyellow>or</color> <color=#brightred>Decrease</color>
 Expand
@@ -11,7 +11,7 @@ Shrink
 Snipe
 <color=#brightblue>The power of skills placed in here changes at the start of the battle: For user power increases by 40%; For opponent power decreases by 40%.</color>
 Store
-<color=#brightblue>The skill placed in here only takes up 1 slot,</color> <color=#brightred>but its requirements are increased by 50%</color>
+<color=#brightblue>The technique placed in here only takes up 1 slot,</color> <color=#brightred>but its requirements are increased by 50%.</color>
 
 
 
@@ -61,7 +61,7 @@ Counter
 
 
 Chase
-<color=#brightblue>Weapon placed in here will block 1 enemy skill for a short while after your weapon attack chases them 5 times.</color>
+<color=#brightblue>Weapon placed in here will block 1 enemy technique for an extremely short period of time after your weapon attack chases them 5 times.</color>
 Poke
 <color=#brightblue>The damage of actively cast Finger skills placed in here will be increased the more blocked acupoints enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
 <color=#brightblue>If you attack the enemy with a Finger skill placed in here while they're casting their own Finger skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
