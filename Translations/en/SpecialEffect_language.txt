@@ -3925,10 +3925,10 @@ Lost
 When starting to perform this divine power, Huan Xin will receive a buff that increases Ext. and Int. Penetration; Enemy will receive a debuff that reduces Ext. and Int. Penetration; When this divine power reaches $0$0% completion, all "Quick" techniques of the enemy that haven't been permanently "Sealed" will become "Sealed" for a short period of time.
 33 Spiritualizations
 Absorbing the enemy's true qi
-When you start to perform this divine power, if Zi Wu Xiang does not have the effect layer of "San San Hua Ling", Zi Wu Xiang gains 3 layers of this effect: when the enemy is about to gain or lose true qi, Zi Wu Xiang will double the corresponding true qi, and the layer of this effect will be reduced when Zi Wu Xiang loses true qi
+When you start to perform this divine power, if Zi Wuxiao does not have the effect layer of "San San Hua Ling", Zi Wuxiao gains 3 layers of this effect: when the enemy is about to gain or lose true qi, Zi Wuxiao will double the corresponding true qi, and the layer of this effect will be reduced when Zi Wuxiao loses true qi
 77 Wisdoms
 Absorb the enemy's storage style
-When you start to perform this power, if Zi Wu Xiang doesn't have the effect tier of "7.7 Born Wisdom", Zi Wu Xiang gains 7 tiers of this effect: when the enemy is about to gain or lose a style, Zi Wu Xiang will gain the same number of randomly available styles at the same time, and the number of tiers of this effect will be reduced when Zi Wu Xiang gains an unusable style
+When you start to perform this power, if Zi Wuxiao doesn't have the effect tier of "7.7 Born Wisdom", Zi Wuxiao gains 7 tiers of this effect: when the enemy is about to gain or lose a style, Zi Wuxiao will gain the same number of randomly available styles at the same time, and the number of tiers of this effect will be reduced when Zi Wuxiao gains an unusable style
 99 Destinies
 Absorbing enemy healing
 When you start to perform this power, if Purple Raw does not have the effect level of "Nine-Nine Life Creation", Purple Raw gains 9 levels of this effect: when the enemy is about to eliminate or receive a wound mark, the wound mark on the corresponding part of Purple Raw will be eliminated at the same time, and the number of levels of this effect will be reduced when a poison mark appears on Purple Raw
