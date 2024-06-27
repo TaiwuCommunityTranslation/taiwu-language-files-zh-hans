@@ -3624,7 +3624,7 @@ Kneel Before The King
 When Huan Xin is defeated for the first time, it will enter a new combat phase: whenever Huan Xin's attack is resolved, apply 1 buff that increases the corresponding Accuracy of Huan Xin; whenever Huan Xin fails to resolve an enemy attack, apply 1 buff that increases the corresponding Resolve of Huan Xin
 No Dye
 Purple bamboo spirit illusion birth!
-When Violet is defeated for the first time, she will enter a new stage of battle: Whenever Violet's "Break" technique becomes 100% powerful, she will add 1 death mark to the enemy, the more death marks there are, the more the power of all the enemy's techniques will be increased, once the enemy has 6 death marks, the enemy will be defeated and his health will be reduced to 0
+When Zi Wuxiao is defeated for the first time, she will enter a new stage of battle: Whenever Zi Wuxiao's "Break" technique becomes 100% powerful, she will add 1 death mark to the enemy, the more death marks there are, the more the power of all the enemy's techniques will be increased, once the enemy has 6 death marks, the enemy will be defeated and his health will be reduced to 0
 No change in blazing heart
 The language Porphyra phantom born!
 When the Long Yufu is defeated for the first time, she will enter a new phase of the battle: the direct injuries inflicted by the Long Yufu on different body parts of the enemy increase according to the injuries on body parts of the Long Yufu; the direct injuries inflicted by the enemy on different parts of the Long Yufu decrease according to the injuries inflicted on different parts of the enemy
