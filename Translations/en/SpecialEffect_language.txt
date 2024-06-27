@@ -3931,7 +3931,7 @@ Absorb the enemy's storage style
 When you start to perform this power, if Zi Wuxiao doesn't have the effect tier of "7.7 Born Wisdom", Zi Wuxiao gains 7 tiers of this effect: when the enemy is about to gain or lose a style, Zi Wuxiao will gain the same number of randomly available styles at the same time, and the number of tiers of this effect will be reduced when Zi Wuxiao gains an unusable style
 99 Destinies
 Absorbing enemy healing
-When you start to perform this power, if Purple Raw does not have the effect level of "Nine-Nine Life Creation", Purple Raw gains 9 levels of this effect: when the enemy is about to eliminate or receive a wound mark, the wound mark on the corresponding part of Purple Raw will be eliminated at the same time, and the number of levels of this effect will be reduced when a poison mark appears on Purple Raw
+When you start to perform this power, if Zi Wuxiao does not have the effect level of "Nine-Nine Life Creation", Zi Wuxiao gains 9 levels of this effect: when the enemy is about to eliminate or receive a wound mark, the wound mark on the corresponding part of Zi Wuxiao will be eliminated at the same time, and the number of levels of this effect will be reduced when a poison mark appears on Zi Wuxiao
 Spiritual Dispersion - Heaven, Earth and Human
 When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "33 Spiritualizations" to greatly increase power of this divine power; When this divine power reaches $0$0% completion, if Zi Wuxiao has effect layers of "77 Wisdoms", Zi Wuxiao will immediately perform "Wisdom Death - Seven Awareness Branches" without any consumption, and if not, then all types of True Qi of the enemy will be halved.
 Wisdom Death - Seven Awareness Branches
