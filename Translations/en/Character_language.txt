@@ -653,7 +653,7 @@ Passed away Elder
 
 
 Corrupted
-
+Nameless Monster
 
 Demoniac
 
@@ -1440,9 +1440,10 @@ Vajrayana Treasure-searching Disciple
 Western Monk
 
 
-Central Plains Monk
+GuiGu Zi
 
-
+Zhang
+Ling
 
 
 Tomb Remains
@@ -1467,7 +1468,7 @@ White Ape
 
 Houjiu
 Mysterious Person
-White
+Bai
 Ao Tian
 Young Gentleman
 Wan
@@ -1476,23 +1477,25 @@ Evil Old Man
 Evil Father
 Kind Old Man
 
+Xuan Huangzi
+Glowering Elderly
+
+Kun Wuzi
+Languid Elderly
+
+You Mingzi
+Grim Elderly
+
+Huaju
 
 
+Xuanzhi
 
 
+Yingjiao
+Nameless Woman
 
-
-
-
-
-
-
-
-
-
-
-
-
+Zhuxian
 
 
 
@@ -1769,4 +1772,95 @@ Foreign Bandit
 
 
 
+
+
+Elder·A
+
+
+
+
+CaseHolder
+
+
+V·Leader
+
+
+
+
+GreatBeta
+
+
+Celestial
+
+
+G·Mistress
+
+
+M·Smith
+
+
+HerbKing
+
+
+WisdomKing
+
+
+Saint
+
+
+Shadowless
+
+
+ViceLord
+
+
+V·Hierarch
+
+Wuyang
+Girl in White Clothes
+Xuan
+Wuyou
+Youngster in Black Clothes
+
+Resurrected Person
+
+
+
+
+Crazy Person
+Night Watchman
+
+
+
+
+
+
+
+
+
+Vice Valley Lord
+
+Lu
+Chijing
+
+Li
+Shidao
+
+Yan
+Feiran
+
+Tian
+Buhui
+
+
+
+
+
+
+
+
+White Deer
+
+
+Black Owl
 
