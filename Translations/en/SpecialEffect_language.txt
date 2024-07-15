@@ -66,7 +66,7 @@ Wudang\nMixed Element
 Ext Taken Dn
 If the enemy's attack includes both External and Internal damage, the External damage user receives will be reduced by 60%
 Divine One
-The higher the user's "Taoism" attainment, the more Injury markers the user can remove by using "Healing" in battle.
+The higher the user's "Taoism" attainment, the more Injury markers the user can remove by using "Healing" in battle
 Boundless\nPure Yang
 When the user's internal element is "Fire", user's techniques will be more resistant to being "Sealed" or "Interrupted"; When user gets attacked by a "Fire", "Metal", or "Wood" technique, the Fatal Wound damage taken will be reduced by 80%
 Fresh Breath
@@ -282,13 +282,13 @@ Holy Light Inspiration
 When defending with this technique: Whenever the user successfully Counters an attack, the user gains 3 random usable styles and removes 2 Injury markers
 Thirty-Six Needle\nHolding Art
 Improve Style Change Accuracy
-Increases Might, Finesse, Swiftness, and Breath of the user's "Style Change"
+Increases the critical chance, Might, Finesse, Swiftness, and Breath of user's "Style Change" attacks
 Net Clothes
 Poison Recieved Dn
 Reduces the amount of Poison the enemy inflicts on the user in battle
 Herb Moxibustion
 Heal Your Own Injuries
-Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the user will be reduced by 2
+Whenever the user hits an enemy with a Style Change attack, there's a chance that Injury markers on 1 random body part of the user will be reduced by 1
 Mixed Needle
 Remove Additional Sealed Acupoints
 Whenever the user removes a Sealed Acupoint from themselves, 1 additional Sealed Acupoint will be removed from another random body part of the user
@@ -297,7 +297,8 @@ Debuff to Buff
 When defending with this technique, whenever the user successfully Counters an attack, 1 debuff on the user will change into a buff
 Twelve Meridians\nShift
 Remove Sealed Acupoints
-When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead remove a Sealed Acupoint on the user
+Increase Unsealing Speed
+When defending with this technique, Sealed Acupoints on the user will be unsealed faster. Whenever the enemy inflicts a Sealed Acupoint on the user, it will instead remove a Sealed Acupoint on the user
 Eight Gates of\nLife and Death
 Whenever the user receives an Injury marker from the enemy, the Injury markers on 1 other random body part of the user with fewer Injury markers will be reduced by 2
 Blood Sea\nFreezing Art
@@ -316,9 +317,9 @@ Cloud Bed
 Steady pace of improvement
 When defending with this technique, whenever the user successfully Counters a weapon attack, a buff that increases Ext. Recovery. will be applied to the user
 Yinyang Recycle
-Reduction of internal disorders
+New Qi Disorder Reduce
 Change Enemy Int. Ratio
-If the enemy's Qi Disorder is higher than the user's, Internal Ratio of all enemy techniques will increase according to the Internal Ratio of this technique; Whenever user's "Break" techniques reach 100% completion, user's Qi Disorder will be reduced.
+If the enemy's Qi Disorder is higher than the user's, Internal Ratio of all enemy techniques will increase according to the Internal Ratio of this technique; Whenever user's "Break" techniques reach 100% completion, user's newly inflicted Qi Disorder will be reduced
 5 Qi In One
 Recover Force
 When defending with this technique, user's True Qi lost in battle will rapidly recover until it reaches the initial value
@@ -438,8 +439,8 @@ Increase direct toxicity
 Increases the amount of poison inflicted by the user on the enemy in combat
 White Water\nLongevity Art
 Gain Nadis Force
-Reduce Qi Disorder
-Whenever Poison activates on the enemy, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
+Reduce New Qi Disorder
+Whenever Poison activates on the enemy, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's newly inflicted Qi Disorder
 Young Dragon's\nBone Regrowth Art
 Automatic healing of injuries
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All External Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
@@ -514,8 +515,8 @@ User's teammates will more frequently be able to perform "Haste" order to increa
 9 Star Eye
 The more "Throw" styles the user has, the more the user's Might increases; the more "Shot" styles the user has, the more the user's Swiftness increases; the more "Drive" styles the user has, the more the user's Finesse increases.
 Seven Origins\nCalamity-Solving Art
-Injury turned to an old injury
-When defending with this technique: The more body parts of the user are broken, the less direct damage the user will take; At the end of this technique, 3 random Injury markers on user's broken body parts will change into Old Injuries that are more difficult to recover from
+Change to Old Injuries
+When defending with this technique: The more body parts of the user are Broken, the less direct damage the user will receive; At the end of this technique, 3 random Injury markers on user's Broken body parts will change into Old Injuries that are more difficult to recover from
 Anger Face
 When user's "Break" True Qi is higher than the enemy's "Break" True Qi, all direct damage dealt by the enemy will be reduced by 15%
 Dragon Looks Back
@@ -547,8 +548,8 @@ Eliminate your own injuries
 Whenever the user inflicts 1 direct External Injury on the enemy, randomly eliminate 1 External Injury from user's body part with less than 4 External Injuries.
 The Great Spell of Soul Exchange
 Transfer Ext Inj
-Transfer of internal rest disorders
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 2 external injury and a portion of the user's internal breath disorder will be transferred to the enemy.
+Transfer New Qi Disorder
+When defending with this technique, whenever the user successfully Counters an enemy attack, 2 External Injury markers and a portion of the user's newly inflicted Qi Disorder will be transferred to the enemy
 Heart-Self Destroy Spell
 Obtain a large amount of true qi
 Whenever the total number of defeat marks of the user's teammate exceeds half of the defeat condition, user will receive a large amount of True Qi depending on the amount of each True Qi of the teammate.
@@ -558,8 +559,9 @@ Sky Demon
 Worsening enemy external injury
 When defending with this technique: all direct External Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Pyrotoxin to the enemy, and at the same time worsens the External Injuries on all body parts of the enemy
 Undead Body of Blood Child
+Increase Old Qi Disorder
 Exchange Damage
-When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Stance required to use skills is reduced by 50%
+When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Old Qi Disorder will start to increase continuously until it reaches "Shattered". Until then, the user cannot be defeated, the direct External damage dealt by the user, and direct Internal damage received by the user will be increased by 40%, and Stance required to use techniques will be reduced by 50%
 Lift-Up Jumping
 Move Spd Up
 During this Footwork, user's Movement Speed will be increased if the user uses an "Aegis" technique
@@ -605,17 +607,19 @@ Flying Needle
 During this Footwork, whenever the user hits an enemy with a "Needle Box" weapon, user's Stamina will be restored.
 Needle Driving
 Gain Style Change Charge
-When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 1 Style Change charge
+When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 2 Style Change charges
 Snow Step
 Increase Sealed Acupoint Level
 During this Footwork, the level of Sealed Acupoints inflicted by the user will be increased
 Wick of Lamp
-During this Footwork, whenever the user attacks an enemy, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the user's body will be reduced by 2. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
+Worsen E·Injuries
+During this Footwork, whenever the user attacks the enemyr, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the enemy's body will be worsened by 1. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
 Jade Step
 When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Flower Listen Rain
 Increase Breath Buffs
-During this Footwork: User's Breath will not be reduced by any effect; The effect of all Breath-increasing technique effects and buffs received by the user will be greatly increased
+Fasten Daze Lodging
+During this Footwork: User's Breath will not be reduced by any effect; The effect of all Breath-increasing technique effects and buffs received by the user will be greatly increased; The progress of Lodged Daze markers being applied to the enemy due to the non-lodged Daze markers disappearing is doubled
 5 Steps of Plum Poling
 During this Footwork, if the Accuracy stat of the user used to attack the enemy is lower than the enemy's Resolve stat, the user's chance of hitting the enemy is greatly increased.
 8 Trigrams Step
@@ -811,7 +815,7 @@ Little Leap
 When you move with this Footwork, you have a higher chance of not consuming your Footwork
 Mountain\nPushing Palm
 Increase your Might
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more user's Might increases when attacking the enemy.
+After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more user's Might will be increased when attacking the enemy
 Iron Fist of\nLion Phase
 Change sytle gain
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Point" and "Hold" styles that user gains will be changed to "Punch" styles
@@ -821,7 +825,6 @@ The Great\nStonebreaker
 DES up
 When attacking enemy with this technique: user's DES will be greatly increased; if the user's DES is higher than the enemy's Hardness, and the durability of the attacked armor isn't less than 75%, user's External and Internal Penetration will be greatly increased
 Gold Palm of\nLion Phase
-The injury becomes an old injury
 Injuries inflicted by this technique on the enemy's Arms will change to Old Injuries that are more difficult to recover from
 Warlord's\nPull Bow
 location DMG up
@@ -880,11 +883,10 @@ Cancel Received Markers
 When this technique reaches $0$0% completion, all of the enemy's teammates will take the same amount of damage as the enemy, and gain twice as many layers of this effects according to the number of External Injury and Fatal Wound markers enemy receives; Each layer of this effect will cancel out External Injury, Daze, and Fatal Wound markers caused by direct damage by the enemy to the user.
 Emotions
 Improve Breath
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more user's Breath increases when attacking the enemy.
+After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more user's Breath will be increased when attacking the enemy
 Crystal Tune
 When you start performing this technique, if the enemy doesn't have any "None" styles, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 "None" style to the enemy, and if the enemy didn't have any "None" styles, add 3 additional "None" styles to the enemy.
 Heart-Breaking
-Worsen E·Injuries
 When you start performing this technique, the worse the enemy's mood is, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will randomly worsen enemy's Injuries based on how bad the enemy's mood is; After performing this technique, based on completion percentage of this technique, a special debuff which reduces mood will be applied to the enemy
 Yellow Bamboo
 Auto Cast
@@ -920,9 +922,9 @@ Princess\nRainfall
 Charm the Enemy
 When you start performing this technique, if the enemy likes user's gender, the higher the user's Charm is, the more the power of this technique will increase; If the enemy can Adore the user, when this technique reaches $0$0% completion, there will be a very low chance that the enemy will start Adoring the user.
 Divine Cold\nPalm
-Toxins become persistent
+Change to Old Poison
 En Cryotoxin Attack
-This skill will change enemy's Cryotoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Cryotoxin, Cryotoxin will activate
+This skill will change enemy's Cryotoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Cryotoxin, Cryotoxin will activate
 One Mysterious\nHand
 After this technique reaches $0$0% completion, user advances 2 distance towards the enemy.
 Mysterious\nIce Finger
@@ -1010,7 +1012,7 @@ Bless of\nThe Stars
 Reducing the health of the enemy
 Change Marker Type
 Increase Sealing Duration
-When this spell reaches $0$0% completion, if the enemy is Enthralled or Possessed, enemy's Health will be greatly reduced; After this spell reaches $0$0% completion, user gains 9 layers of this effect: The Daze markers caused by any spell cast by the user will change into Fatal Wound markers, and if user's spell reaches $1$0% completion, it will double the duration of Sealing on enemy techniques
+When this spell reaches $0$0% completion, if the enemy is Enthralled or Possessed, enemy's Health will be greatly reduced; After this spell reaches $0$0% completion, user gains 9 layers of this effect: The Daze markers caused by any spell cast by the user will change into Fatal Wound markers, and if user's spell reaches $1$0% completion, it will greatly increase the duration of Sealing on enemy's techniques
 Almighty Spell
 Prevent Sealing
 Refresh Sealing Duration
@@ -1028,7 +1030,7 @@ Based on completion percentage of this technique, enemy receives a debuff that r
 Divine Drug\nPalm
 Absorbing enemy toxins
 Applying additional toxins
-When this technique reaches $0$0% completion, it absorbs the deepest non-stubborn Poison from the enemy, and changes the absorbed Poison markers into Injury markers at random body parts; After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user hits the enemy, the Poison absorbed by this technique will be applied to the enemy, ignoring enemy's Poison Resistance unless they're "Immune" to it
+When this technique reaches $0$0% completion, it absorbs the deepest newly inflicted Poison from the enemy, and changes the absorbed Poison markers into Injury markers at random body parts; After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user hits the enemy, the Poison absorbed by this technique will be applied to the enemy, ignoring enemy's Poison Resistance unless they're "Immune" to it
 Divine Flood\nDragon Palm
 When you start performing this technique, the more Injury markers enemy has, the more the power of this technique increases; When this technique reaches $0$0% completion, up to 18 Injury markers of the enemy will change into Old Injuries that are more difficult to recover from
 Fallen Hands\nof Mt.Chai
@@ -1085,7 +1087,7 @@ After this technique reaches $0$0% completion, user gains 9 layers of this effec
 Black Water\nPoison
 When this technique reaches $0$0% completion, the more Acritoxin markers the enemy has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
 Nippy Fragrant\nof Hundreds Evil
-This skill will change enemy's Umbritoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Umbritoxin, Umbritoxin will activate
+This skill will change enemy's Umbritoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Umbritoxin, Umbritoxin will activate
 Flood Dragon's\nBlood
 Decrease Armor Durability
 When attacking enemy with this technique, the deeper the enemy is poisoned with Necrotoxin, the more direct damage this technique will deal; If the attacked body part doesn't have Armor or if its Armor's durability is completely depleted, the direct damage dealt by this technique will not be reduced for any reason; After this technique reaches $0$0% completion, the deeper the enemy is poisoned with Necrotoxin, the more all of the enemy's Armor will be damaged.
@@ -1212,7 +1214,7 @@ After this technique reaches $0$0% completion: randomly select 2 "Break" techniq
 Poison Palm\nof Red Toad
 When this technique reaches $0$0% completion, the more Pyrotoxin markers the enemy has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
 4 Colors Palm
-This skill will change enemy's Necrotoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, it will immediately apply Acritoxin, Pyrotoxin, and Necrotoxin to the enemy.
+This skill will change enemy's Necrotoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, it will immediately apply Acritoxin, Pyrotoxin, and Necrotoxin to the enemy.
 Soul Peeling\nHands
 Make False Secrets
 When attacking enemy with this technique, the deeper the enemy is poisoned by Oneirotoxin, the more direct damage this technique will inflict; When this technique reaches $0$0% completion, the deeper the enemy is poisoned by Oneirotoxin, the higher the chance that the enemy will produce a Secret that they've "Kidnapped", "Poisoned", "Assassinated" or "Humiliated" random people on both sides of the battle.
@@ -1240,16 +1242,15 @@ Increase Fatal Wound Damage Taken
 Decrease Your Health
 At the start of the battle, the user gains 12 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Chi Corpse Gu; The Premature Chi Corpse Gu will greatly increase direct damage taken by the host from "Break" techniques; The Premature Chi Corpse Gu needs to consume 12 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 Jade Ice\nSilkworm Gu Descent
-Increase Sealing Duration
 Increase Sealing Chance
-At the start of the battle, the user gains 8 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Ice Silkworm Gu; The Premature Ice Silkworm Gu will double the Sealing time of host's techniques and weapons; The Premature Ice Silkworm Gu needs to consume 8 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
+At the start of the battle, the user gains 8 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Ice Silkworm Gu; The Premature Ice Silkworm Gu will greatly increase the Sealing time of host's techniques and weapons; The Premature Ice Silkworm Gu needs to consume 8 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 Ghost-Eating\nGolden Silkworm Gu
 Swallow Gu
 Receive A Lot Poison
 At the start of the battle, the user gains 16 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Golden Silkworm Gu; The Premature Golden Silkworm Gu will devour all other Premature Gu planted to the host in this battle, and inflict a large amount of Poison based on the Gu it devours; The Premature Golden Silkworm Gu needs to consume 16 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 A Hundred\nColors Marrow Insanity
 Randomly Mature Gu
-At the start of the battle, the user gains 28 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Azure Marrow Gu; The Premature Azure Marrow Gu will cause Premature Gu implanted to the host in this battle to change into sustained untamed Gu whenever the host receives a Fatal Wound marker. Sustained Gu won't require consumption of Gu Charges to trigger; Premature Azure Marrow Gu needs to consume 28 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
+At the start of the battle, the user gains 28 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Azure Marrow Gu; Whenever the host receives a Fatal Wound marker, the Premature Azure Marrow Gu will either cause Premature Gu implanted to the host in this battle to change into sustained untamed Gu, or grow a sustained Premature Gu into a Mature Gu. Sustained Gu won't require consumption of Gu Charges to trigger; Premature Azure Marrow Gu needs to consume 28 Gu Charges from the host or the enemy after every trigger, otherwise it will die
 Swordsmanship\nof Green Beard
 When this technique reaches $0$0% completion, user takes away 1 "Slash" style from the enemy.
 Swordsmanship\nof Billhook
@@ -1323,7 +1324,7 @@ When this technique reaches $0$0% completion, user will gain 5 points of "Break"
 Divine Power\nof Red Blue Fire
 When you start performing this technique, user gains a buff that greatly increases External Penetration, and a debuff that reduces External Defense
 Blood Burning
-When you start performing this technique, if the user has any External Injuries, 3 random External Injuries of the user will change into 1 Old Injury that is harder to recover from, and then the power and Attack Range of this technique will increase greatly
+When you start performing this technique, if the user has any newly inflicted External Injuries, 3 random newly inflicted External Injuries of the user will change into 1 Old Injury that is harder to recover from, and then the power and Attack Range of this technique will increase greatly
 9 Refining of\nThe Sun
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user gains 1 point of "Break" true qi, this effect increases by 1 level, when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy without consumption from 50% of the progress of its performance, after which this effect reverts to 0 levels.
 Blade of Fulong
@@ -1412,7 +1413,7 @@ After this technique reaches $0$0% completion, user gains 4 layers of this effec
 Jade Well Hands
 When this technique reaches $0$0% completion, it will steal 2 points of True Qi from the enemy. The type of True Qi stolen will be the lowest True Qi of the user; If user's True Qi is still lower than its initial value after stealing, user will steal additional 3 points of this type of True Qi from the enemy
 Latency Yin\nFinger
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: External Injuries inflicted on the enemy will have a high chance to become Old Injuries that are harder to recover from.
+After this technique reaches $0$0% completion, user gains 6 layers of this effect: External Injuries inflicted on the enemy will have a high chance to become Old Injuries that are harder to recover from
 Thunderbolt\n7 Stars Finger
 When this technique reaches $0$0% completion, enemy will lose 6 points of "Break" True Qi.
 Mysterious\nFinger
@@ -1487,7 +1488,7 @@ Bone Melting\nGhost Palm
 After this technique reaches $0$0% completion, if user has at least 2 "Hold" styles left after this technique, user will consume 2 "Hold" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously. After using, this skill will change from Orthodox to Heterodox version.
 Sky Demon Palm
 Old Acritoxin
-This skill will change enemy's Acritoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Acritoxin, Acritoxin will activate
+This skill will change enemy's Acritoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Acritoxin, Acritoxin will activate
 Blood Hou's\nEvil Palm
 Additional Markers
 When attacking enemy with this technique, the deeper the enemy is poisoned by Pyrotoxin, the more direct damage this skill will deal; When this technique reaches $0$0% completion, the deeper the enemy is poisoned by Pyrotoxin, the more additional Fatal Wounds and Injuries enemy's random body parts will receive
@@ -1509,7 +1510,7 @@ Hade Finger
 Reduce Enemy's Necrotoxin Resistance
 When you start performing this technique, the more the enemy is poisoned by Necrotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Necrotoxin resistance.
 Blood Pool\nGhost Claw
-When this technique reaches $0$0% completion, user transfers 1 non-old External Injury from each of their body parts to the "Injured" body part of the enemy.
+When this technique reaches $0$0% completion, user transfers 1 newly inflicted External Injury from each of their body parts to the "Injured" body part of the enemy
 Lower Body Kick
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user hits enemy's Head, the power and starting cast progress of this skill increases, accumulating up to 2 levels; When using this skill on a Male, the power of this skill increases significantly
 Conversely Kick\nof Toad
@@ -1547,7 +1548,7 @@ Lady Poison
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user advances 1 distance, 1 "Toxic" style of the user will be consumed to make the enemy advance to the user for 1 distance. When enemy moves because of this effect, 1 Sealed Acupoint will appear on a random body part of the enemy.
 Bloodhound's\nSand
 En Pyrotoxin Attack
-This skill will change enemy's Pyrotoxin into more stubborn poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Pyrotoxin, Pyrotoxin will activate
+This skill will change enemy's Pyrotoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Pyrotoxin, Pyrotoxin will activate
 Shaolin\nLong Fist
 At the start of the battle, the user gains 0 layers of this effect: Whenever the user receives an External Injury or Fatal Wound marker due to direct External Damage, this effect increases by 1 layer, up to a maximum of 36 layers. Each layer of this effect increases the power of this technique
 Shaolin\nVajra Palm
@@ -1648,7 +1649,7 @@ Sealed Acupoints Reappear
 Level of Sealed Acupoints caused by this technique won't be reduced for any reason; After this technique reaches $0$0% completion, the user gains 7 layers of this effect: Whenever the enemy unseals a Sealed Acupoint with a level less than 4, the Sealed Acupoint will reappear with a level increased by 1. This effect won't activate any effects that activate by inflicting Sealed Acupoint on the enemy
 Swordsmanship\nof Flower Brush
 Improve your Swiftness
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more user's Swiftness increases when attacking the enemy.
+After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more user's Swiftness will be increased when attacking the enemy
 Swordsmanship\nof Hidden Swordmaster
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Hack" and "Slash" styles that user gains will be changed to "Stab" styles
 Swordsmanship\nof White Eyebrow
@@ -1681,25 +1682,25 @@ Immortal\nNeedle of Golden Top
 After this technique reaches $0$0% completion, if user has at least 2 "Stab" styles left after this technique, user will consume 2 "Stab" styles and perform this technique again immediately from 50% of its progress. When this technique is performed this way, it's power increases drastically and continues until the user is no longer able to perform the technique continuously. After using, this skill will change from Orthodox to Heterodox version.
 Needle Finger
 Improve your Finesse
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more user's Finesse increases when attacking the enemy.
+After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more user's Finesse will be increased when attacking the enemy
 Rejuvenation\nFinger
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: Umbritoxin applied by the user on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3".
+When this technique reaches $0$0% completion, user gains 10 layers of this effect: Umbritoxin applied by the user's "Break" techniques on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". Enemy's Umbritoxin Resistance will also be reduced according to the number of remaining layers
 Finger Magenta
 When this technique reaches $0$0% completion, for every 3 "Point" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Blue And White\nFlower Beauty
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: Oneirotoxin applied by the user on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3".
+After this technique reaches $0$0% completion, user gains 10 layers of this effect: Oneirotoxin applied by the user's "Break" techniques on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". User's "Break" techniques the have Oneirotoxin on them will also be immune to being Deflected, Sealed, or Interrupted
 Flower Rain
 For every $0$0% of completion of this technique, user has a low chance of inflicting 1 additional Sealed Acupoint on the enemy
 The Great\nFlower Finger of Mandala
 Reduce Enemy's Oneirotoxin Resistance
 When you start performing this technique, the more the enemy is poisoned by Oneirotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Oneirotoxin resistance.
 Flower Spirit\nMoon Finger
-When you start attacking an enemy with this technique, if the enemy's internal energy attribute is "Fire", it will eliminate the enemy's "Aegis" and "Quick" techniques and reduce the continuous effect of the enemy's 3 "Break" techniques to 0 levels.
+When you attack enemy with this technique, if enemy's dominant internal element is "Fire" or "Metal", it will eliminate enemy's "Aegis" and "Quick" techniques, and reduce the continuous effect of 3 "Break" techniques of the enemy to 0 layers
 A Hundred\nFlower Fight
-When this technique reaches $0$0% completion, 1 Injury marker will be added to all body parts of the enemy that have Sealed Acupoints.
+When this technique reaches $0$0% completion, 1 Old Injury marker will be added to all body parts of the enemy that have Sealed Acupoints
 8 Moves of\nBlood Red Flower
-Life Up Power Dn
-When this technique reaches $0$0% completion: Cumulatively reduce the power of this skill; Cumulatively increase user's maximum Health; Cumulatively increase user's Health loss; This effect can accumulate up to 20 layers, and will not be increased or decreased by any other effects. Lasts until user dies; Unless user re-does the breakthrough, the Way of this skill will not change to Heterodox for any reason
+Dec. Health to Dec. Injury
+Unless this technique is retrained, its Way will not be changed for any reason; When this technique reaches $0$0% completion: User consumes a part of the enemy's Health, and changes it into the user's Health limit, which can be accumulated up to 80 years of life. This effect lasts until this technique is retrained, or the user dies; Whenever an enemy inflicts a Fatal Wound on the user, 4 years of this accumulated life will be consumed to reduce it by 1
 Needle Control
 When this technique reaches $0$0% completion, for every 3 "Drive" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 5 Elements\nPinprick
@@ -1709,35 +1710,41 @@ Reduce Enemy's Cryotoxin Resistance
 When you start performing this technique, the more the enemy is poisoned by Cryotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Cryotoxin resistance.
 Bianque Pinprick
 Heal Injuries
-When the cast progress of this technique reaches 100%, the user will perform 1 "Healing" that doesn't consume a "Healing" attempt, but also can't cure Old Wounds. The more Injuries this "Healing" eliminates, the more the power of this technique will be increased
+When the cast progress of this technique reaches 100%, the user will perform 1 "Healing" that doesn't consume a "Healing" attempt, but can only cure newly inflicted Injuries. The more Injuries this "Healing" eliminates, the more the power of this technique will be increased
 Vitality\nLosing Pinprick
-When this technique reaches $0$0% completion, enemy will lose 6 points of "Nadis" True Qi.
+When this technique reaches $0$0% completion, if the enemy's "Nadis" True Qi isn't lower than its initial value, the enemy will lose 30 points of "Nadis" True Qi. Otherwise, the enemy will lose 10 points
 Deadly Pinprick
-This technique's damage will not cause direct External Injuries, but will instead make already existing External Injury markers on the enemy worsen
+Ext. Dmg. to Fatal Dmg.
+Worsening the enemy's internal wounds
+All External Damage dealt by this technique will turn into Fatal Wound Damage. For every 1 Fatal Wound marker this technique inflicts, a random Internal Injury on the enemy's body will worsen
 9-Needle Strike
-The Oneirotoxin applied to the enemy by this technique will change into a more difficult to dispel stubborn poison
+This skill will change enemy's Oneirotoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, it will immediately apply Umbritoxin, Cryotoxin, and Oneirotoxin to the enemy
 Meridian\nBreaking Pinprick
-When attacking enemy with this technique, the deeper the enemy is poisoned with Umbritoxin, the more direct damage this technique will cause; Direct damage caused by this technique to the body parts that are already injured will not be reduced for any reason
+Decrease Enemy's True QI
+When attacking enemy with this technique, the more the enemy is poisoned with Umbritoxin, the more direct damage this technique will deal; After this technique reaches $0$0% completion, the more the enemy is poisoned with Umbritoxin, the more "Break", "Quick", "Aegis", and "Nadis" True Qi the enemy will lose, and for a certain period of time the enemy's True Qi won't naturally recover
 12-String\nNeedles
-When you start performing this technique, it consumes up to 12 Style Change charges of the user. The more charges this technique consumes, the more the power of this technique will increase; When this technique reaches $0$0% completion, for every 1 charge this technique consumes, user will gain 3 points of a random True Qi
+Change Enemy's Int. Element
+When attacking enemy with this technique, the user will consume up to 12 Style Change charges. For every 4 consumed charges, a Sealed Acupoint will appear on the attacked body part of the enemy; After this technique reaches $0$0% completion, user gains 6 layers of this effect: Layers of this effect can be used as Style Change charges, and whenever the user hits the enemy with a Style Change attack, based on what body part was hit, enemy's Internal Element will change in this battle
 Cloud And Stream
-Inhale·Stance cost Dn
-After this technique reaches $0$0% completion, user gains 2 layers of this effect: Stance and Inhale cost of any technique of the user will be greatly reduced
+Inhale instead of Stance
+After this technique reaches $0$0% completion, user gains 3 layers of this effect: User's Stance requirements to actively perform techniques will completely change to requiring Inhale instead, and the Inhale used this way will partially restore user's Stance
 Home Forgetting
 When you start performing this technique, the better the user's Mood is, the more the power of this technique increases; When this technique reaches $0$0% completion, attack range of user's next "Break" technique increases based on how high user's Mood is; At the end of this technique, based on completion percentage of this technique user gains a buff that improves their Mood.
 Phoenix Arrival
 Improving BRE and FOC
 When you start performing this technique, if the user's Karma is higher than the enemy's Karma, user's Karma will be added to the power of this technique, and if the user's Perception is also higher than the enemy's Perception, user will receive a buff that increases Breath and Focus
 Imperial\nConcubine
-When you start performing this technique, all of your True Qi that is below the initial value will be restored by 1 point; When this technique reaches $0$0% completion, all of your True Qi that is below the initial value will again be restored by a maximum of 2 points.
+When you start performing this technique, all of your True Qi that is below the initial value will be restored by 3 points; When this technique reaches $0$0% completion, all of your True Qi that is below the initial value will again be restored by a maximum of 6 points
 Flowers Sigh
-When this technique reaches $0$0% completion, it removes 1 strongest debuff from the user. Depending on the strength of the removed debuff. it also removes a large amount of "None" styles from the user.
+Inc. your Seven Instincts
+When this technique reaches $0$0% completion, it removes all debuffs on the user with at least 300% intensity, and based on the number of removed debuffs, it applies buffs that increase all Seven Instincts of the user
 Burydeer Orchid
-When you start performing this technique, the more "None" styles the user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will remove 2 "None" styles from the user.
+Disorder Enemy's Styles
+When you start performing this technique, the more "None" Styles both the user and the enemy have, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will randomly remove from 2 to 4 "None" Styles from the user, and randomly add from 2 to 4 "None" Styles to the enemy
 The World\nAmused
 When this technique reaches $0$0% completion, it will randomly greatly increase the power of 1 "Break", 1 "Quick", 1 "Aegis" and 1 "Nadis" techniques that haven't been enhanced by this technique yet, lasting until the end of the battle.
 Wudang\nLong Fist
-Based on completion percentage of this technique, the power limit of all "Nadis" techniques of the user will be increased by 30% until the end of the battle.
+According to the power of this technique, it increases the power limit of all the "Nadis" techniques of the user by 30% until the end of the battle.
 Wind Chasing\nPalm
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Punch" and "Point" styles that user gains will be changed to "Hold" styles
 Wudang Soft\nPalm
@@ -1751,7 +1758,7 @@ When this technique reaches $0$0% completion, 3 "Metal", 2 "Wood", and 1 "Fire" 
 Wudang\nPure Yang Fist
 While enemy is performing a "Break" technique with an Internal Ratio of 50% or more, user can start performing this technique from 50% of its progress. When this technique reaches $0$0% completion, it will "Interrupt" enemy's "Break" technique that has Internal Ratio of 50% or more.
 Purple Yang\nUpright Fist
-This technique cannot be reflected; When you start performing this technique, the higher the Internal Breath stat of the user, the more the power of this technique will increase; When this technique reaches $0$0% completion, user's Qi Disorder will be greatly reduced.
+This technique cannot be reflected; When you start performing this technique, the higher the Internal Breath stat of the user, the more the power of this technique will increase; When this technique reaches $0$0% completion, user's newly inflicted Qi Disorder will be greatly reduced
 Taichi Fist
 Accumulate Skill Powe
 Reduce Direct Damage
@@ -1778,7 +1785,7 @@ If the user's real age is not higher than 40, the power of this technique won't 
 Limitless\nSword Form
 When user doesn't have any available styles, this technique can be performed without any styles; When attacking enemy with this technique, if the user doesn't have any available styles, the attack range of this technique changes to the maximum, the power of this technique increases greatly. this technique will always reach $0$0% completion, and this technique cannot be reflected.
 Whisk Swipe
-Based on completion percentage of this technique, it reduces user's Qi Disorder
+Based on completion percentage of this technique, it reduces user's newly inflicted Qi Disorder
 Wudang\nMetallic Swipe
 Resume sealing time
 When attacking the enemy with this technique, this technique will directly attack the body part of the enemy with the biggest amount of strongest Sealed Acupoints, and the duration of all Sealed Acupoints on the attacked body part will change to the maximum
@@ -1794,7 +1801,7 @@ When this technique reaches $0$0% completion, the lower the Qi Disorder of the u
 Heavy Swipe
 When you start performing this technique, the lower the Qi Disorder of the user, the more the power of this technique will increase; When this technique reaches $0$0% completion, the lower the Qi Disorder of the user, the more direct damage this technique will deal.
 Formless Swipe
-When this technique reaches $0$0% completion, it completely eliminates power debuff effects of 3 skills of the user received during this battle, reduces user's Qi Disorder, and increases power of this technique based on how much power was regained from removing power debuffs, lasting until the end of the battle
+When this technique reaches $0$0% completion, it completely eliminates power debuff effects of 3 skills of the user received during this battle, reduces user's newly inflicted Qi Disorder, and increases power of this technique based on how much power was regained from removing power debuffs, lasting until the end of the battle
 Yuanshan\nJump Kick
 Whenever the user chases an enemy at least 2 times with "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to Heterodox practice
 Mandarin Duck\nCombo Kick
@@ -1911,7 +1918,7 @@ The higher the user's "Fire" internal element, the more the user's Might, Finess
 Reverse - Wudang Mixed Element
 If the enemy's attack includes both External and Internal damage, the Internal damage user receives will be reduced by 60%
 Reverse - Divine One
-The higher the user's "Taoism" attainment, the more Poison the user can remove by using "Detox" in battle.
+The higher the user's "Taoism" attainment, the more Poison the user can remove by using "Detox" in battle
 Reverse - Boundless Pure Yang
 When the user's internal element is "Metal", user will be able to perform techniques even if a required body part is broken, but the power of the techniques performed this way will be reduced; When user gets attacked by a "Fire", "Metal", or "Wood" technique, Deflect will work on them, and if the user's Deflect is not broken by the enemy's Break technique, the enemy will suffer backlash damage from their technique
 Reverse -  exhale and clear method
@@ -2121,10 +2128,9 @@ Reverse - Holy Light Inspiration
 When defending with this technique: Whenever the user successfully Counters an attack, the user gains 3 random usable styles and removes 2 Impairment markers
 Reverse - Thirty-Six Needle\nHolding Art
 Reduce Enemy's Style Change Accuracy
-Reduces Might, Finesse, Swiftness, and Breath of the enemy's "Style Change"
+Reduces the critical chance, Might, Finesse, Swiftness, and Breath of enemy's "Style Change" attacks
 Reverse - Net Clothes
-Poison Dmg Dn
-Reduces the number of Injury markers the user receives when Poisons activate
+Increases the number of actions required for Poison to activate on the user
 Reverse - Herb Moxibustion
 Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the enemy will worsen
 Reverse - Mixed Needle
@@ -2134,7 +2140,7 @@ Buff to Debuff
 When defending with this technique, whenever the user successfully Counters an attack, 1 buff on the enemy will change into a debuff
 Reverse - Twelve Meridians\nShift
 Shift Your Sealed Acupoints
-When defending with this technique, whenever the enemy inflicts a Sealed Acupoint on the user, it will instead be inflicted on the enemy
+When defending with this technique, Sealed Acupoints on the user will be unsealed faster. Whenever the enemy inflicts a Sealed Acupoint on the user, it will inflict a Sealed Acupoint on the enemy instead
 Reverse - Eight Gates of\nLife and Death
 Whenever the enemy receives an Injury marker from the user, the Injury markers on 1 other random body part of the enemy with fewer Injury markers will worsen
 Reverse - Blood Sea\nFreezing Art
@@ -2255,7 +2261,7 @@ Reverse - Blood Transfusion
 Reduce Poison Activation Requirements
 Reduces the number of actions required for Poison to activate on the enemy
 Reverse - White Water\nLongevity Art
-Whenever Poison activates on the user, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's Qi Disorder
+Whenever Poison activates on the user, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's newly inflicted Qi Disorder
 Reverse - Young Dragon's\nBone Regrowth Art
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All Internal Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 Reverse - 9-Colored\nJade Cicada Art
@@ -2269,7 +2275,7 @@ Reverse - Muscle and Bone Displacement Art
 Enhancement of chest and abdominal defense
 When defending with this technique, the Chest and Waist of the user will not receive Weak Points, Sealed Acupoints, or critical hits, and enemy attacks targeting the Chest or Waist of the user will be more easily Resolved.
 Reverse - 7 Wheel Induction
-Weaken Your Debuffs
+Strengthen Enemy Debuff
 When the enemy receives a debuff, its initial strength will be doubled, and an additional debuff that slowly reduces random types of True Qi will be applied; Whenever enemy's debuff becomes stronger, the additional debuff also becomes stronger.
 Reverse - Mandala Mantra
 When defending with this technique: All direct damage taken by the user is reduced by 30%; Whenever the user Reflects an enemy attack, for every 1 Injury marker inflicted to the enemy by the Reflect, the user will gain 5 points of "Break" True Qi.
@@ -2316,7 +2322,7 @@ If the user's helper can use the "push" command, the progress of the user's tech
 Reverse - 9 Star Eye
 The more "Throw" styles the user has, the more the user's Diversion will increase; The more "Shot" styles the user has, the more the user's Evasion will increase; The more "Drive" styles the user has, the more the user's Parry will increase
 Reverse - Seven Origins\nCalamity-Solving Art
-When defending with this technique: The more body parts of the user are broken, the more Reflect damage the user will deal; At the end of this technique, 3 random Injury markers on user's broken body parts will change into Old Injuries that are more difficult to recover from
+When defending with this technique: The more body parts of the user are Broken, the more Reflect damage the user will deal; At the end of this technique, 3 random Injury markers on user's Broken body parts will change into Old Injuries that are more difficult to recover from
 Reverse - Anger Face
 When user's "Break" True Qi is twice as high as the enemy's "Break" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - Dragon Looks Back
@@ -2345,16 +2351,15 @@ Reverse - Blood Meal
 Whenever the user inflicts 1 direct Internal Injury on the enemy, randomly eliminate 1 Internal Injury from user's body part with less than 4 Internal Injuries.
 Reverse - The Great Spell of Soul Exchange
 Transfer Injuries
-When defending with this technique, whenever the user successfully counters an enemy's weapon attack, 2 internal injury marks and a portion of the user's internal breath disorder will be transferred to the enemy.
+When defending with this technique, whenever the user successfully Counters an enemy attack, 2 Internal Injury markers and a portion of the user's newly inflicted Qi Disorder will be transferred to the enemy
 Reverse - Heart-Self Destroy Spell
 Whenever the total number of defeat marks of the user's teammate exceeds half of the defeat condition, enemy will lose a large amount of True Qi depending on the amount of each True Qi of the teammate.
 Reverse - 12 Blood Child Formation
 The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of Internal Injuries and Fatal Wounds of the user in battle.
 Reverse - Sky Demon
-Worsening the enemy's internal wounds
 When defending with this technique: all direct Internal Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Cryotoxin to the enemy, and at the same time worsens the Internal Injuries on all body parts of the enemy
 Reverse - Undead Body of Blood Child
-When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Inner Breath will start to increase continuously until it reaches "Shattered". Until then, the user is invincible, the direct External and Internal damage caused by the user is increased by 40%, and Inhale required to use skills is reduced by 50%
+When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Old Qi Disorder will start to increase continuously until it reaches "Shattered". Until then, the user cannot be defeated, the direct Internal damage dealt by the user, and direct External damage received by the user will be increased by 40%, and Inhale required to use techniques will be reduced by 50%
 Reverse - Lift-Up Jumping
 Reduce enemy movement speed
 During this Footwork, enemy's Movement Speed will be reduced if the user uses an "Aegis" technique
@@ -2392,7 +2397,7 @@ During this Footwork, whenever the user hits an enemy with a "Flute" weapon, ene
 Reverse - Flying Needle
 During this Footwork, whenever the user hits an enemy with a "Needle Box" weapon, enemy's Stamina will be depleted.
 Reverse - Needle Driving
-When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 1 Style Change charge
+When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After jumping, the user will gain 2 Style Change charges
 Reverse - Snow Step
 Reduce Sealed Acupoint Level
 During this Footwork, the level of Sealed Acupoints inflicted by the enemy will be reduced
@@ -2402,7 +2407,8 @@ Reverse - Jade Step
 When retreating with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Reverse - Flower Listen Rain
 Increase Focus Debuffs
-During this Footwork: Enemy's Focus will not be increased by any effect; The effect of all Focus-reducing technique effects and buffs received by the enemy will be greatly increased
+Slow Daze Lodging
+During this Footwork: Enemy's Breath will not be increased by any effect; The effect of all Breath-reducing technique effects and buffs received by the enemy will be greatly increased; The progress of Lodged Daze markers being applied to the user due to the non-lodged Daze markers disappearing is halved
 Reverse - 5 Steps of Plum Poling
 During this Footwork, if the Accuracy stat of the enemy used to attack the user is lower than the user's Resolve stat, the enemy's chance of hitting the user is greatly reduced.
 Reverse - 8 Trigrams Step
@@ -2573,7 +2579,7 @@ When using this Footwork, the direct Internal damage caused by the user's Kicks 
 Reverse - Little Leap
 Reverse - Mountain\nPushing Palm
 Reduce Enemy Might
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Might decreases when attacking the user.
+After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more enemy's Might will be reduced when attacking the user
 Reverse - Iron Fist of\nLion Phase
 When this technique reaches $0$0% completion, user will gain 2 "Punch" styles
 Reverse - Gate Breaker\n8 Moves
@@ -2630,7 +2636,7 @@ Reverse - Overlord Spear\nof Dragon
 When this technique reaches $0$0% completion, all of the enemy's teammates will take the same amount of damage as the enemy, and gain twice as many layers of this effects according to the number of Internal Injury and Fatal Wound markers enemy receives; Each layer of this effect will cancel out Internal Injury, Daze, and Fatal Wound markers caused by direct damage by the enemy to the user.
 Reverse - Emotions
 Reduce Enemy's Breath
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Breath decreases when attacking the user.
+After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more enemy's Breath will be reduced when attacking the user
 Reverse - Crystal Tune
 When you start performing this technique, if the enemy doesn't have any Daze markers, the power of this technique will be greatly increased; When this technique reaches $0$0% completion, add 1 Daze marker to the enemy, and if the enemy didn't have any Daze markers, add 3 additional Daze markers to the enemy.
 Reverse - Heart-Breaking
@@ -2739,8 +2745,8 @@ When this spell reaches $0$0% completion, 2 "Quick" techniques of the enemy that
 Reverse - The 7 Whites'\nExorcism
 When this spell reaches $0$0% completion, 2 "Aegis" techniques of the enemy that aren't permanently Sealed will be "Sealed" for a short period of time; Based on the effect of the Sealed "Aegis" techniques, enemy's Ext. Defense, Int. Defense, Diversion, Parry, Evasion, and Focus will be reduced; After casting this spell, it will always be "Sealed" for a long period of time.
 Reverse - Bless of\nThe Stars
-Lower Sealing Duration
-When this spell reaches $0$0% completion, if the enemy is Enthralled or Possessed, enemy's Health will be greatly reduced; After this spell reaches $0$0% completion, user gains 9 layers of this effect: The Daze markers caused by any spell cast by the user will change into Fatal Wound markers, and if user's spell reaches $1$0% completion, it will halve the duration of Sealing on user's spells
+Reduce Sealing Duration
+When this spell reaches $0$0% completion, if the enemy is Enthralled or Possessed, enemy's Health will be greatly reduced; After this spell reaches $0$0% completion, user gains 9 layers of this effect: The Daze markers caused by any spell cast by the user will change into Fatal Wound markers, and if user's spell reaches $1$0% completion, it will greatly reduce the duration of Sealing on user's techniques
 Reverse - Almighty Spell
 Remove Sealing
 This spell cannot be Sealed; This spell can only be cast when the user's True Qi isn't lower than its initial value; When this spell reaches $0$0% completion, it will remove Sealing from all techniques of the user that aren't permanently Sealed. Whenever Sealing gets removed from a technique, the enemy will suffer a backlash damage from that technique 1 time; At the end of this spell, user's True Qi will be greatly depleted based on the type and quantity of techniques it removes Sealing from
@@ -2756,7 +2762,7 @@ Subdue the enemy to induce Qi to rush through the gate
 Based on completion percentage of this technique, enemy receives a debuff that reduces Int. Recovery
 Reverse - Divine Drug\nPalm
 Absorb your own toxins
-When this technique reaches $0$0% completion, it absorbs the deepest non-stubborn Poison from the user, and changes the absorbed Poison markers into Injury markers at random body parts; After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user hits the enemy, the Poison absorbed by this technique will be applied to the enemy, ignoring enemy's Poison Resistance unless they're "Immune" to it
+When this technique reaches $0$0% completion, it absorbs the deepest newly inflicted Poison from the user, and changes the absorbed Poison markers into Injury markers at random body parts; After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever user hits the enemy, the Poison absorbed by this technique will be applied to the enemy, ignoring enemy's Poison Resistance unless they're "Immune" to it
 Reverse - Divine Flood\nDragon Palm
 When you start performing this technique, the more Injury markers user has, the more the power of this technique increases; When this technique reaches $0$0% completion, up to 18 Injury markers of the enemy will change into Old Injuries that are more difficult to recover from
 Reverse - Fallen Hands\nof Mt.Chai
@@ -2896,6 +2902,7 @@ After this technique reaches $0$0% completion: randomly select 1 "Break" techniq
 Reverse - Poison Palm\nof Red Toad
 When this technique reaches $0$0% completion, the more Pyrotoxin markers the user has, the more External Injuries and Weak Points will be added to random body parts of the enemy.
 Reverse - 4 Colors Palm
+Apply Necrotoxin to Yourself
 The amount of Necrotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Necrotoxin; When this technique reaches $0$0% completion, up to 3 techniques of the enemy that have External Ratio of 60% or higher will be Sealed for a long period of time.
 Reverse - Soul Peeling\nHands
 When attacking enemy with this technique, the deeper the enemy is poisoned by Oneirotoxin, the more direct damage this technique will inflict; When this technique reaches $0$0% completion, the deeper the enemy is poisoned by Oneirotoxin, the higher the chance that the enemy will produce a Secret that they've been "Kidnapped", "Poisoned", "Assassinated" or "Humiliated" by random people on both sides of the battle.
@@ -2921,14 +2928,14 @@ Reverse - 9 Yin Chi Corpse Gu
 Reduce Break Damage
 At the start of the battle, the user gains 12 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Chi Corpse Gu; The Premature Chi Corpse Gu will greatly reduce direct damage taken by the host from "Break" techniques; The Premature Chi Corpse Gu needs to consume 12 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 Reverse - Jade Ice\nSilkworm Gu Descent
-Reduce Sealing Duration
 Decrease Sealing Chance
-At the start of the battle, the user gains 8 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Ice Silkworm Gu; The Premature Ice Silkworm Gu will halve the Sealing time of host's techniques and weapons; Premature Ice Silkworm Gu needs to consume 8 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
+At the start of the battle, the user gains 8 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Ice Silkworm Gu; The Premature Ice Silkworm Gu will greatly decrease the Sealing time of host's techniques and weapons; The Premature Ice Silkworm Gu needs to consume 8 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 H·Ghost-Eating\nGolden Silkworm Gu
 Detox A Lot Poison
 At the start of the battle, the user gains 16 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Golden Silkworm Gu; The Premature Golden Silkworm Gu will devour all other Premature Gu planted to the host in this battle, and Detox a large amount of Poison based on the Gu it devours; The Premature Golden Silkworm Gu needs to consume 16 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 Reverse - A Hundred\nColors Marrow Insanity
-At the start of the battle, the user gains 28 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Azure Marrow Gu; The Premature Azure Marrow Gu will cause Premature Gu implanted to the host in this battle to change into sustained tamed Gu whenever the host receives a Fatal Wound marker. Sustained Gu won't require consumption of Gu Charges to trigger; Premature Azure Marrow Gu needs to consume 28 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
+Randomly Degenerate Gu
+At the start of the battle, the user gains 28 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Azure Marrow Gu; Whenever the host receives a Fatal Wound marker, the Premature Azure Marrow Gu will either cause Premature Gu implanted to the host in this battle to change into sustained tamed Gu, or degenerate a Mature Gu into a sustained tamed Premature Gu. Sustained Gu won't require consumption of Gu Charges to trigger; Premature Azure Marrow Gu needs to consume 28 Gu Charges from the host or the enemy after every trigger, otherwise it will die
 Reverse - Swordsmanship\nof Green Beard
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Slash" styles
 Reverse - Swordsmanship\nof Billhook
@@ -2995,7 +3002,7 @@ When this technique reaches $0$0% completion, enemy will lose 5 points of "Break
 Reverse - Divine Power\nof Red Blue Fire
 When you start performing this technique, user gains a buff that greatly increases Internal Penetration, and a debuff that reduces Internal Defense
 Reverse - Blood Burning
-When you start performing this technique, if the user has any Internal Injuries, 3 random Internal Injuries of the user will change into 1 Old Injury that is harder to recover from, and then the power and Attack Range of this technique will increase greatly
+When you start performing this technique, if the user has any newly inflicted Internal Injuries, 3 random newly inflicted Internal Injuries of the user will change into 1 Old Injury that is harder to recover from, and then the power and Attack Range of this technique will increase greatly
 Reverse - 9 Refining of\nThe Sun
 At the beginning of the battle, the user gains 0 levels of this effect: every time the user loses 1 point of "Break" true qi, this effect increases by 1 level, and when this effect accumulates up to 9 levels, the power of this technique increases significantly, and the user can perform this technique to attack the enemy from 50% of the progress, and then this effect reverts to 0 levels.
 Reverse - Blade of Fulong
@@ -3079,7 +3086,7 @@ When this technique reaches $0$0% completion, user will gain 2 "Point" styles
 Reverse - Jade Well Hands
 When this technique reaches $0$0% completion, it will steal 2 points of True Qi from the enemy. The type of True Qi stolen will be the highest True Qi of the enemy; If enemy's True Qi is still higher than its initial value after stealing, user will steal additional 3 points of this type of True Qi from the enemy
 Reverse - Latency Yin\nFinger
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: Internal Injuries inflicted on the enemy will have a high chance to become Old Injuries that are harder to recover from.
+After this technique reaches $0$0% completion, user gains 6 layers of this effect: Internal Injuries inflicted on the enemy will have a high chance to become Old Injuries that are harder to recover from
 Reverse - Thunderbolt\n7 Stars Finger
 When this technique reaches $0$0% completion, user will steal 3 points of "Break" True Qi from the enemy
 Reverse - Mysterious\nFinger
@@ -3135,7 +3142,7 @@ Reverse - 72 Hellbound\nFist
 Heel paid
 When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will cause enemy's Leg to be in "Agony" if it has an Int. Injury on it; The person who has "Leg Agony" status will only get half of the Footwork bar. In addition, if there are 4 Int. Injuries on the victim's Leg, it will be considered as a Broken Leg, which won't disappear until the victim heals all Int. Injuries on their Leg
 Reverse - Zombie\nPoison Palm
-When this technique reaches $0$0% completion, user gains 10 layers of this effect: Necrotoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". User will be able to Deflect enemy's "Break" techniques that have Necrotoxin on them, and if enemy's technique fails to break user's Deflect, enemy will suffer backlash damage from their technique
+When this technique reaches $0$0% completion, user gains 10 layers of this effect: Necrotoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". User will be able to Deflect enemy's "Break" techniques that have Necrotoxin on them, and if enemy's technique fails to break user's Deflect, enemy will suffer backlash damage from this technique
 Reverse - Blood Evil Palm
 Chest pain
 When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will cause enemy's Torso to be in "Agony" if it has an Int. Injury on it; The person who has "Torso Agony" status can't have more than 60% of Inhale. In addition, if there are 4 Int. Injuries on the victim's Torso, it will be considered as a Broken Torso, which won't disappear until the victim heals all Int. Injuries on their Torso
@@ -3164,7 +3171,7 @@ Reverse - Hade Finger
 Increase Your Necrotoxin Resistance
 When you start performing this technique, the more the user is poisoned by Necrotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Necrotoxin resistance.
 Reverse - Blood Pool\nGhost Claw
-When this technique reaches $0$0% completion, user transfers 1 non-old Internal Injury from each of their body parts to the "Agony" body part of the enemy.
+When this technique reaches $0$0% completion, user transfers 1 newly inflicted Internal Injury from each of their body parts to the "Agony" body part of the enemy
 Reverse - Lower Body Kick
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user hits enemy's Head, the power and starting cast progress of this skill increases, accumulating up to 2 levels; When using this skill on a Female, the power of this skill increases significantly
 Reverse - Conversely Kick\nof Toad
@@ -3287,7 +3294,7 @@ Weak Points Appears
 Level of Weak Points caused by this technique won't be reduced for any reason; After this technique reaches $0$0% completion, the user gains 7 layers of this effect: Whenever the enemy removes a Weak Point with a level less than 4, the Weak Point will reappear with a level increased by 1. This effect won't activate any effects that activate by inflicting Weak Points on the enemy
 Reverse - Swordsmanship\nof Flower Brush
 Reduce Enemy's Swiftness
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Swiftness decreases when attacking the user.
+After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more enemy's Swiftness will be reduced when attacking the user
 Reverse - Swordsmanship\nof Hidden Swordmaster
 When this technique reaches $0$0% completion, user will gain 2 "Stab" styles
 Reverse - Swordsmanship\nof White Eyebrow
@@ -3320,26 +3327,26 @@ After this technique reaches $0$0% completion, the user gains 3 layers of this e
 Reverse - Immortal\nNeedle of Golden Top
 When you start performing this technique, all available styles of the user will be changed to "Stab" styles. The more styles get changed to "Stab" style, the more power of this technique will be increased; After using, this technique will change from Heterodox to Orthodox version.
 Reverse - Needle Finger
-Reduce the enemy's Parry
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: the fewer layers of this effect remain, the more enemy's Parry decreases when user attacks the enemy
+Reduce Enemy's Finesse
+After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more enemy's Finesse will be reduced when attacking the user
 Reverse - Rejuvenation\nFinger
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: Umbritoxin applied by the enemy on the user is lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1".
+When this technique reaches $0$0% completion, user gains 10 layers of this effect: Umbritoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". User's Umbritoxin Resistance will also be increased according to the number of remaining layers
 Reverse - Finger Magenta
 When this technique reaches $0$0% completion, for every 2 "Point" styles on the user's weapon, 1 random Weak Point on the enemy will increase by 1 level.
 Reverse - Blue And White\nFlower Beauty
-After this technique reaches $0$0% completion, user gains 10 layers of this effect: Oneirotoxin applied by the enemy on the user is lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1".
+When this technique reaches $0$0% completion, user gains 10 layers of this effect: Oneirotoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". User will be able to Deflect enemy's "Break" techniques that have Oneirotoxin on them, and if enemy's technique fails to break user's Deflect, enemy will suffer backlash damage from this technique
 Reverse - Flower Rain
 For every $0$0% of completion of this technique, user has a low chance of inflicting 1 additional Weak Point on the enemy
 Reverse - The Great\nFlower Finger of Mandala
 Increase Your Oneirotoxin Resistance
 When you start performing this technique, the more the user is poisoned by Oneirotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Oneirotoxin resistance.
 Reverse - Flower Spirit\nMoon Finger
-When this technique reaches $0$0% completion, if enemy's dominant element is "Fire", direct damage dealt by this technique will be increased by 45%
+When this technique reaches $0$0% completion, if enemy's dominant element is "Fire" or "Metal", direct damage dealt by this technique will be increased by 90%
 Reverse - A Hundred\nFlower Fight
-When this technique reaches $0$0% completion, 1 Injury marker will be added to all body parts of the enemy that have Weak Points.
+When this technique reaches $0$0% completion, 1 Old Injury marker will be added to all body parts of the enemy that have Weak Points
 Reverse - 8 Moves of\nBlood Red Flower
-Life Dn power Up
-When this technique reaches $0$0% completion: Cumulatively increase the power of this skill; Cumulatively reduce user's maximum Health; Cumulatively reduce user's Health loss; This effect can accumulate up to 20 layers, and will not be increased or decreased by any other effects. Lasts until user dies; Unless user re-does the breakthrough, the Way of this skill will not change to Orthodox for any reason
+Dec. Health to Inc. Injury
+Unless this technique is retrained, its Way will not be changed for any reason; When this technique reaches $0$0% completion: User consumes a part of the enemy's Health, and changes it into the user's Health limit, which can be accumulated up to 80 years of life. This effect lasts until this technique is retrained, or the user dies; Whenever the user inflicts a Fatal Wound on the enemy, 4 years of this accumulated life will be consumed to increase it by 1
 Reverse - Needle Control
 When this technique reaches $0$0% completion, for every 1 "Drive" style user has, user will have a high chance of gaining a Style Change charge
 Reverse - 5 Elements\nPinprick
@@ -3348,20 +3355,22 @@ Reverse - Chilling Pinprick
 Increase Your Cryotoxin Resistance
 When you start performing this technique, the more the user is poisoned by Cryotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the user will receive a buff that increases Cryotoxin resistance.
 Reverse - Bianque Pinprick
-When the cast progress of this technique reaches 100%, the user will perform 1 "Detox" that doesn't consume a "Detox" attempt, but also can't dispel stubborn poison. The more Poison markers this "Detox" eliminates, the more the power of this technique will be increased
+When the cast progress of this technique reaches 100%, the user will perform 1 "Detox" that doesn't consume a "Detox" attempt, but can only cure newly inflicted Poison. The more Poison this "Detox" eliminates, the more the power of this technique will be increased
 Reverse - Vitality\nLosing Pinprick
-When this technique reaches $0$0% completion, user will steal 3 points of "Nadis" True Qi from the enemy
+When this technique reaches $0$0% completion, if the enemy's "Nadis" True Qi isn't lower than its initial value, the user will steal 15 points of "Nadis" True Qi from the enemy. Otherwise, the user will steal 5 points
 Reverse - Deadly Pinprick
-This technique's damage will not cause direct Internal Injuries, but will instead make already existing Internal Injury markers on the enemy worsen
+Int. Dmg. to Fatal Dmg.
+All Internal Damage dealt by this technique will turn into Fatal Wound Damage. For every 1 Fatal Wound marker this technique inflicts, a random External Injury on the enemy's body will worsen
 Reverse - 9-Needle Strike
-The amount of Oneirotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Oneirotoxin
+Apply Oneirotoxin to Yourself
+The amount of Oneirotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Oneirotoxin; When this technique reaches $0$0% completion, up to 3 techniques of the enemy that have Internal Ratio of 60% or higher will be Sealed for a long period of time
 Reverse - Meridian\nBreaking Pinprick
-When attacking enemy with this technique, the deeper the user is poisoned with Umbritoxin, the more direct damage this technique will cause; Direct damage caused by this technique to the body parts that are already injured will not be reduced for any reason
+When attacking enemy with this technique, the more the user is poisoned with Umbritoxin, the more direct damage this technique will deal; After this technique reaches $0$0% completion, the more the user is poisoned with Umbritoxin, the more "Break", "Quick", "Aegis", and "Nadis" True Qi the enemy will lose, and for a certain period of time the enemy's True Qi won't naturally recover
 Reverse - 12-String\nNeedles
-When you start performing this technique, it consumes up to 12 Style Change charges of the user. The more charges this technique consumes, the more the power of this technique will increase; When this technique reaches $0$0% completion, for every 1 charge this technique consumes, enemy will lose 3 points of a random True Qi
+When attacking enemy with this technique, the user will consume up to 12 Style Change charges. For every 4 consumed charges, a Weak Point will appear on the attacked body part of the enemy; After this technique reaches $0$0% completion, user gains 6 layers of this effect: Layers of this effect can be used as Style Change charges, and whenever the user hits the enemy with a Style Change attack, based on what body part was hit, enemy's Internal Element will change in this battle
 Reverse - Cloud And Stream
-Increases qi consumption
-After this technique reaches $0$0% completion, user gains 2 layers of this effect: Stance and Inhale cost of any technique of the enemy will be greatly increased
+Stance instead of Inhale
+After this technique reaches $0$0% completion, user gains 3 layers of this effect: User's Inhale requirements to actively perform techniques will completely change to requiring Stance instead, and the Stance used this way will partially restore user's Inhale
 Reverse - Home Forgetting
 Reduced enemy attack range
 When you start performing this technique, the better the enemy's Mood is, the more the power of this technique increases; When this technique reaches $0$0% completion, attack range of enemy's next "Break" technique decreases based on how high enemy's Mood is; At the end of this technique, based on completion percentage of this technique enemy gains a buff that improves their Mood.
@@ -3369,17 +3378,17 @@ Reverse - Phoenix Arrival
 Reduce BRE and FOC
 When you start performing this technique, if the user's Karma is higher than the enemy's Karma, user's Karma will be added to the power of this technique, and if the user's Perception is also higher than the enemy's Perception, enemy will receive a debuff that decreases Breath and Focus
 Reverse - Imperial\nConcubine
-When you start performing this technique, all of enemy's True Qi that is above the initial value will be reduced by 1 point; When this technique reaches $0$0% completion, all of enemy's True Qi that is above the initial value will again be reduced by a maximum of 2 points.
+When you start performing this technique, all of enemy's True Qi that is above the initial value will be reduced by 3 point; When this technique reaches $0$0% completion, all of enemy's True Qi that is above the initial value will again be reduced by a maximum of 6 points
 Reverse - Flowers Sigh
-When this technique reaches $0$0% completion, it removes 1 strongest buff from the enemy. Depending on the strength of the removed buff. it also removes a large amount of Daze markers from the user.
+Dec. enemy's Seven Instincts
+When this technique reaches $0$0% completion, it removes all buffs on the enemy with at least 300% intensity, and based on the number of removed buffs, it applies debuffs that decrease all Seven Instincts of the enemy
 Reverse - Burydeer Orchid
 Elimination of Daze markers
-When you start performing this technique, the more Daze markers the user has, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will remove 2 Daze markers from the user.
+When you start performing this technique, the more Daze markers both the user and the enemy have, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will randomly remove from 2 to 4 Daze markers from the user, and randomly add from 2 to 4 Daze markers to the enemy
 Reverse - The World\nAmused
 When this technique reaches $0$0% completion, it will randomly greatly reduce the power of 1 "Break", 1 "Quick", 1 "Aegis" and 1 "Nadis" techniques of the enemy that haven't been weakened by this technique yet, lasting until the end of the battle.
 Reverse - Wudang\nLong Fist
-Reduce Usage Requirements
-Based on completion percentage of this technique, the usage requirements of all "Nadis" techniques of the user will be reduced until the end of the battle.
+Based on completion percentage of this technique, 1 "Nadis" technique of the enemy will be "Sealed" for a very short period of time
 Reverse - Wind Chasing\nPalm
 When this technique reaches $0$0% completion, user will gain 2 "Hold" styles
 Reverse - Wudang Soft\nPalm
@@ -3680,7 +3689,7 @@ Resting Earth Devouring Spirit
 When defending with this divine power, whenever an enemy hits, 3 points of a random type of true qi will be stolen from them.
 Maple God Called to Order
 Changes in injuries sustained
-When defending with this divine power: Whenever Xue Feng receives direct damage, it will first change the non-old injuries Xue Feng already has into old ones, and only when all of Xue Feng's injuries are old will he receive new ones again
+When defending with this divine power: Whenever Xue Feng receives direct damage, it will first change the existing newly inflicted Injuries on Xue Feng to Old Injuries. Only when all of Xue Feng's Injuries are Old will he receive new ones again
 Three Elements and Nine Transportations
 Transfer of defeat markers
 When defending with this divine power, the artist continuously transfers his random defeat mark to the enemy
@@ -3801,7 +3810,7 @@ Continuously causing breakdowns
 At the end of this divine power, Jin Huo'er gains 18 levels of this effect: the enemy continues to have 1 break; for every break in the enemy due to this effect, the number of levels of this effect is reduced by 1
 Red Feather Breaks the Sky
 Repel and damage the enemy
-When this divine power reaches $0$0% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
+When this divine power reaches $0$0% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina will get completely depleted, and enemy will receive 3 Old Injuries at random body parts
 When this divine power reaches $0$0% completion, user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 3 Old Injuries at random body parts.
 Goodness HeShi
 At the end of this divine power, Golden Phoenix gains 6 levels of this effect: Golden Phoenix's weapon attacks will repeat 4 times
@@ -3809,7 +3818,7 @@ At the end of this power, the user gains 6 levels of this effect: the user's wea
 The phoenix leads the nine daughters
 At the end of this power, Jin Huo'er gains 18 levels of this effect: the enemy will continue to have 2 weaknesses; every time the enemy has a weakness due to this effect, the number of levels of this effect is reduced by 1
 Golden Plume Breaks the Sky
-When this divine power reaches $0$0% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 6 Old Injuries at random body parts.
+When this divine power reaches $0$0% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina will get completely depleted, and enemy will receive 6 Old Injuries at random body parts
 When this divine power reaches $0$0% completion, user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Footwork and Stamina get completely depleted, and enemy receives 6 Old Injuries at random body parts.
 fox hunting
 While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, Yi Yihou adds 3 "None" styles to the enemy; When this divine power reaches $0$0% completion, Yi Yihou adds 3 "None" styles to the enemy.
@@ -3859,23 +3868,23 @@ During the application of this power, the chance of the enemy hitting the user i
 Sword into no sword
 Spiritualization without soul
 War Without Pardon
-When attacking an enemy with this divine power, the wound that Xue Feng inflicts on the enemy will change to an old wound that is harder to recover from
+When attacking an enemy with this divine power, the Injuries Xue Feng inflicts on the enemy will change into Old Injuries that are more difficult to recover from
 When attacking an enemy with this divine power, the wounds inflicted by the user on the enemy will change to old wounds that are more difficult to recover from
 The fierce soldiers broke through the three formations
 Stimulate combat potential
 During the process of exercising this divine power, Xue Feng can move and attack, and the movement speed and attack speed are increased
 While exercising this power, the user can move and attack, and the movement speed and attack speed are increased.
 The fishy wind sweeps the four fields
-The more old wounds on Xue Feng's body when he started to exercise this divine power, the more the power of this divine power increased
+When starting to perform this divine power, the more Old Injuries Xue Feng has, the more the power of this divine power will increase
 kill without pardon
-When attacking the enemy with this divine power, the injuries that Xue Feng inflicts on the enemy will change into an old injury that are more difficult to recover from; If this divine power causes the enemy to reach 6 injuries on one body part, Xue Feng will immediately attack the enemy with this divine power again without consumption starting from 75% of the progress
+When attacking an enemy with this divine power, the Injuries Xue Feng inflicts on the enemy will change into Old Injuries that are more difficult to recover from; If this divine power causes the enemy's body part to reach 6 Injuries, Xue Feng will immediately use this divine power again without any consumption from 75% of its progress
 When attacking an enemy with this power, the wounds the user inflicts on the enemy will change to old wounds that are more difficult to recover from; if this power causes the enemy to reach 6 levels of wounds, the user will immediately attack the enemy with this power again without consumption starting from 75% of the progress of the application.
 Warlords fighting in the Sixth Harmony
 While performing this divine power: Xue Feng can move and attack, and his movement speed and attack speed are increased; The direct damage dealt by Xue Feng to the enemy is increased by 60%, and the direct damage dealt by the enemy to Xue Feng is reduced by 60%
 While performing this divine power: user can move and attack, and their movement speed and attack speed are increased; The direct damage dealt by the user to the enemy is increased by 60%, and the direct damage dealt by the enemy to the user is reduced by 60%
 Blood Rain Bathing Eight Wastelands
 Transferring your old wounds
-When starting to perform this divine power, the more Old Injuries Xue Feng has on his body, the more the power of this divine power will increase; When this divine power reaches $0$0% completion, Xue Feng will randomly transfer up to 8 Old Injuries from his body to the enemy or their teammates
+When starting to perform this divine power, the more Old Injuries Xue Feng has, the more the power of this divine power will increase; When this divine power reaches $0$0% completion, Xue Feng will randomly transfer up to 8 Old Injuries from his body to the enemy or their teammates
 Order of Twelve\nImmortals of Kunlun
 Injuries cannot be increased
 When starting to perform this divine power, Shu Fang gains 12 levels of this effect: The direct damage dealt by enemies to Shu Fang cannot be increased by any effect, and the number of levels of this effect is reduced by 1 every time an enemy inflicts at least 3 Daze markers on Shu Fang
@@ -3958,41 +3967,41 @@ Eliminate your own attack and defense
 Yi Xiang - Solution
 Yi Xiang - Rob
 When you start to use this power, Dusty gains 9 levels of this effect: the chance of an enemy hitting Dusty is halved; the chance of Dusty hitting an enemy is doubled
-When the Ran Chenzi starts to perform this divine power, all the enemy's sealed points will be removed.
-When Ran Chenzi starts to perform this divine power, the enemy receives 1 level 4 sealed acupoint
+If Yi Xiang's Fate Chapter has been completed, when Ran Chenzi performs this divine power, all Sealed Acupoints will be removed from the enemy
+If Yi Xiang's Extinguishing Chapter has been completed, when Ran Chenzi performs this divine power, the enemy will receive 1 level 4 Sealed Acupoint 
 Two swords - Weaving of Mo Nyu
 Mo Nyu - Solution
 Mo Nyu - Robbery
 When starting to perform this divine power, Ran Chenzi gains 9 layers of this effect: Whenever Ran Chenzi receives 1 Injury marker, 1 Impairment marker gets removed from his body; Whenever Ran Chenzi receives 1 Impairment marker, 1 Injury marker gets removed from his body
-When Mo Nyu completes the Chapter of Unraveling, the enemy removes 1 random injury when Ran Chenzi starts to perform this divine power
-When Mo Nyu completes the Chapter of Robbery and Ran Chenzi begins to perform this divine power, the enemy receives 1 random old injury
+If Mo Nyu's Fate Chapter has been completed, when Ran Chenzi performs this divine power, 1 random Injury will be removed from the enemy
+If Mo Nyu's Extinguishing Chapter has been completed, when Ran Chenzi performs this divine power, the enemy will receive 1 random Old Injury marker
 Three Swords - Voodoo Iron
 Attrition of the enemy
 Dayue Yao Chang - Solution
 Dayue Yao Chang - robbery
 When you start to perform this divine power, if the enemy is within the range of Dyeing Dusty's attack, all of the enemy's Footwork, Stamina, Inhale and Stance will be lost.
-When Da Yue Yao Chang completes the chapter of the solution, when Dyeing Dust Son starts to perform this divine power, all the enemy's weaknesses are eliminated
-Da Yue Yao Chang completed the chapter of robbery, dyeing dust son began to cast this divine power when the enemy appeared 1 level 4 breakage
+If Dayue Yaochang's Fate Chapter has been completed, when Ran Chenzi performs this divine power, all Weak Points will be removed from the enemy
+If Dayue Yaochang's Extinguishing Chapter has been completed, when Ran Chenzi performs this divine power, the enemy will receive 1 level 4 Weak Point
 Four-Five Swords
 Fortune-Solution
 Fortunes and Disasters - Robbery
 Every time Dyeingdust Zi performs this divine power, this divine power will be able to start from a higher progress of performance, and the power of this divine power will continue to increase significantly until Dyeingdust Zi calls on other divine swords.
-Jiu Han and Jin Huo Er both completed the chapter of solution, the final power of this divine power is reduced by 50%.
-Jiu Han and Jin Huo Er both completed the chapter of robbery, the final power of this divine power increased by 50%
+If both Jiu Han's and Jin Huang'er's Fate Chapters have been completed, the final power of this divine power will be reduced by 50%
+If both Jiu Han's and Jin Huang'er's Extinguishing Chapters have been completed, the final power of this divine power will be increased by 50%
 Six - Seven - Eight Swords
 Transferring the Daze Marker
 Greed, Anger and Dementia - Solution
 Greed, Anger and Dementia - Robbery
 When starting to perform this divine power, the more Daze markers Ran Chenzi has, the more the power of this divine power increases; When this divine power reaches $0$0% completion, Ran Chenzi transfers up to 6 Daze markers from himself to the enemy
-When Xue Feng, Wei Qi, and Yi Yi Hou all complete the chapter of the solution, and Ran Chenzi starts to perform this divine power, the enemy removes 2 Daze markers
-When Xue Feng, Wei Qi and Yi Yi Hou all complete the Chapter of Robbery and Ran Chenzi begins to perform this divine power, the enemy gains 2 Daze markers
+If Xue Feng's, Wei Qi's and Yi Yihou's Fate Chapters have been completed, when Ran Chenzi performs this divine power, 2 Daze markers will be removed from the enemy
+If Xue Feng's, Wei Qi's and Yi Yihou's Extinguishing Chapters have been completed, when Ran Chenzi performs this divine power, the enemy will receive 2 Daze markers
 Nine Swords - Ghost God Xia
 
 Technique formula - solution
 Art side - robbery
-This divine power cannot be blocked or interrupted; the attack range of this divine power is always the maximum; during the execution of this divine power, Ran Chenzi can move and attack; there is no upper limit to the Daze markers caused by this divine power; at the end of the execution of this divine power, if the enemy is not defeated, Ran Chenzi will be defeated in battle
-When the art party completes the chapter of the solution, the time to perform the divine power is reduced by 50% when Dye Dusty starts to perform this divine power.
-When the art party completes the chapter of robbery and the dyed-in-the-wool son starts to cast this divine power, the casting time of the divine power is increased by 50%
+This divine power cannot be blocked or interrupted; The attack range of this divine power is always the maximum; While performing this divine power, Ran Chenzi can move and attack; At the end of this divine power, if the enemy is not defeated, Ran Chenzi will lose the battle
+If Shu Fang's Fate Chapter has been completed, when Ran Chenzi performs this divine power, the cast time of this divine power will be decreased by 50%
+If Shu Fang's Extinguishing Chapter has been completed, when Ran Chenzi performs this divine power, the cast time of this divine power will be increased by 50%
 Sundered Flesh and Bone
 Poison Inflicts Fatal Wounds
 If the character is simultaneously affected by Acritoxin, Pyrotoxin, and Necrotoxin markers, when Acritoxin and Pyrotoxin activates, based on the number of Necrotoxin markers, character will receive a certain number of Fatal Wounds. The more Acritoxin, Pyrotoxin, and Necrotoxin markers there is, the more times this toxin effect can be activated in battle.
@@ -4053,7 +4062,7 @@ If the character is simultaneously affected by Umbritoxin, Oneirotoxin, and Acri
 Sealed Skull
 Improve Cryotoxin Strength
 If the character is simultaneously affected by Umbritoxin, Oneirotoxin, and Pyrotoxin markers, when Umbritoxin and Pyrotoxin activates, based on the number of Oneirotoxin markers, generate extra Cryotoxin, and accelerate it's activation. The more Umbritoxin, Oneirotoxin, and Pyrotoxin markers there is, the more times this toxin effect can be activated in battle.
-Deflect Break
+Decisive Strike
 Deflect Break Attack
 When the attacker breaks enemy's Deflect, attacker's Accuracy will be greatly increased, and they will immediately perform a weapon attack that will always deal critical hits and do several follow-up attacks.
 Sagacious
@@ -4071,7 +4080,7 @@ Rampage without Fear
 Reflect Damage Increase
 This innate skill cannot be Sealed; The higher the Purity of the Buffalo/Wild Ox is, the higher the Reflect damage will be if the enemy is within the attack range of Buffalo/Wild Ox
 Poison Waterfall Fierce Mist
-This innate skill cannot be Sealed; The direct Injury markers inflicted by the Huge Snake/Python will turn into Old Wounds that are more difficult to recover from; The direct Poison inflicted by the Huge Snake/Python will turn into Stubborn Poison that is more difficult to detox
+This innate skill cannot be Sealed; The direct Injury markers inflicted by the Huge Snake/Python will turn into Old Wounds that are more difficult to recover from; The direct Poison inflicted by the Huge Snake/Python will turn into Old Poison that is more difficult to detox
 Civet Pursues Shadow
 This innate skill cannot be Sealed; After being attacked by an enemy, if the enemy is within attack range of Leopard/Black Panther, regardless of whether the Leopard/Black Panther Resolves the enemy attack, it will Counter the enemy. The higher the Purity of the Leopard/Black Panther is, the more power the Counter will have
 I am the Only One
@@ -4087,7 +4096,7 @@ Black Sea's Evil Scales
 Reduce Poison Resistance
 The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Black Dragon will continuously apply a large amount of random Level 3 poisons to the enemy, and reduce enemy's resistance to all types of poison. The number of times toxins on the enemy can activate becomes unlimited.
 Deep Green Sky Mist
-The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Green Dragon's Injury and Old Injury markers will gradually disappear. The more Injury and Old Injury markers the Green Dragon has, the more the enemy's Attack Range will be reduced, and the Green Dragon's Attack Range will be increased.
+The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Green Dragon's Injury and Old Injury markers will gradually disappear. The more Injury and Old Injury markers the Green Dragon has, the more the enemy's Attack Range will be reduced, and the Green Dragon's Attack Range will be increased
 Flaming Divine Pearl
 Cannot be Resolved
 The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Red Dragon's attacks will worsen both External and Internal Injuries on the attacked body parts. When the Injury level on a body part reaches 4, it will be considered Broken, and the enemy won't be able to Resolve attacks on that body part.
@@ -4101,7 +4110,7 @@ This innate talent cannot be Sealed; The Little White Dragon has to prepare to m
 Black Water's Evil Scales
 This innate talent cannot be Sealed; The Little Black Dragon will continuously apply a large amount of random Level 3 poisons to the enemy, and reduce enemy's resistance to all types of poison.
 Green Sky's Swift Rain
-This innate talent cannot be Sealed; The Little Green Dragon's Injury and Old Injury markers will gradually disappear. The more Injury and Old Injury markers the Little Green Dragon has, the more the enemy's Attack Range will be reduced, and the Little Green Dragon's Attack Range will be increased.
+This innate talent cannot be Sealed; The Little Green Dragon's Injury and Old Injury markers will gradually disappear. The more Injury and Old Injury markers the Little Green Dragon has, the more the enemy's Attack Range will be reduced, and the Little Green Dragon's Attack Range will be increased
 Scarlet Fire Pearl
 This innate talent cannot be Sealed; The Red Dragon's attacks will worsen both External and Internal Injuries on the attacked body parts. When the Injury level on a body part reaches 4, it will be considered Broken.
 Honored Within Heavens
@@ -4111,7 +4120,7 @@ This innate talent cannot be Sealed; This Jiao has to prepare to move 1 distance
 Black Jiao's Evil Scales
 This innate talent cannot be Sealed; This Jiao will continuously apply a large amount of random Level 3 poisons to the enemy
 Green Jiao's Iron Back
-This innate talent cannot be Sealed; This Jiao's Injury and Old Injury markers will gradually disappear.
+This innate talent cannot be Sealed; This Jiao's Injury and Old Injury markers will gradually disappear
 Red Jiao's Flaming Eye
 This innate talent cannot be Sealed; This Jiao's attacks will worsen both External and Internal Injuries on the attacked body parts
 Yellow Jiao's Lonely Horn
@@ -4141,7 +4150,6 @@ This innate talent cannot be Sealed; When Bian attacks an enemy with negative Fa
 Refined and Outstanding
 This innate talent cannot be Sealed; The enemy's Accuracy and Resolve stats cannot exceed the sum of their Music, Chess, Literature, and Painting attainments; The enemy's ATK and Defense stats cannot exceed the sum of their Carpentry, Smithing, Weaving, and Gemcutting attainments
 Fire Repelling Stream Surge
-Decrease Enemy's True QI
 This innate talent cannot be Sealed; Whenever Chiwen attacks an enemy, if any True Qi of the enemy is higher than its initial value, it will be greatly reduced. If any True Qi of the Chiwen is lower than its initial value, it will be greatly increased. The lower the enemy's True Qi than its initial value, and the higher the Chiwen's True Qi than its initial value, the more the direct damage of Chiwen's attacks will be.
 Continuously Raising True Qi
 Continuously Lowering True Qi
@@ -4169,3 +4177,22 @@ Implanting Gu King into the Enemy
 Implant Gu King into the enemy's body
 Implanting Gu King into Yourself
 Implant Gu King into your body
+Immune to Health damage
+Ignore Health Effects
+Fifteen Ancient Methods
+I seem to remember...
+Ancient Method Weak Point Backlash
+This secret technique cannot be Sealed; The Inhale/Stance Cost of any Break technique performed by the Resurrected Person is greatly reduced; Resurrected Person's Break techniques don't require Styles to use; Cast Time of any technique performed by the Resurrected Person is increased; While the Resurrected Person is performing any technique, if they get hit by the same technique from the enemy, the Resurrected Person will suffer backlash from this secret technique
+Great Power Brave Ability
+Remove Your Strength
+When user has at least 3 Fatal Wound markers: Reduces the Fatal Wound damage dealt by the enemy based on the user's current Strength, and continuously consumes user's Strength
+When enemy has at least 3 Fatal Wound markers: Increases the Fatal Wound damage dealt to the enemy based on the user's current Strength, and continuously consumes user's Strength
+Death Qi Seizes Soul
+Death Qi Ravages Organs
+Because of the agitation of death energy in the chest, it was as if being stabbed by thousands of knives. Not only was the pain unbearable, it was difficult to activate the power, and the internal organs were also destroyed...
+Eight Lives Qi
+Eight Lives Qi causes Backlash damage to the enemy
+Backlash
+Injured by the backlash from the Eight Lives Qi
+Eight Deaths Qi
+Injured by the backlash from the Eight Deaths Qi
