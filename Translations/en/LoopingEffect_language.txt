@@ -1,0 +1,123 @@
+Sink Qi to Dantian
+Gain Internal Energy equivalent to 100% of the monthly Cultivation.
+
+Five Qi Control
+Shift Five Internal Elements equivalent to 100% of the monthly Cultivation.
+
+Clearing Meridians
+Gain Circulation True Qi equivalent to 100% of the monthly Cultivation.
+
+Opening Sea of Qi
+Gain Internal Energy ranging from 50% to 150% of the monthly Cultivation.
+
+Adjust Form to Awaken Qi
+Shift Five Internal Elements ranging from 50% to 150% of the monthly Cultivation.
+
+Qi Passes Head
+Gain Circulation True Qi ranging from 50% to 150% of the monthly Cultivation.
+
+Filling Eight Veins
+Consume extra Internal Energy to gain Internal Energy equivalent to 200% of the monthly Cultivation.
+
+Washing Muscles and Bones
+Consume extra Internal Energy to shift Five Internal Elements equivalent to 200% of the monthly Cultivation.
+
+True Qi Surging
+Consume extra Internal Energy to gain Circulation True Qi equivalent to 200% of the monthly Cultivation.
+
+Unending Flow
+Increases the amount of Internal Energy gained from Cultivation.
+
+Clearing Meridians
+Increases the amount of Five Internal Elements shifting from Cultivation.
+
+Nourish Qi Through Spirit
+Increases the amount of Circulation True Qi gained from Cultivation.
+
+Continuous Breath
+Randomly increases the amount of Internal Energy gained from Cultivation.
+
+Relaxing Breath
+Randomly increases the amount of Five Internal Elements shifting from Cultivation.
+
+Using Meridians
+Randomly increases the amount of Circulation True Qi gained from Cultivation.
+
+Clouds Rising
+Consume extra Internal Energy to greatly increase the amount of Internal Energy gained from Cultivation.
+
+Heavenly Harmony
+Consume extra Internal Energy to greatly increase the amount of Five Internal Elements shifting from Cultivation.
+
+Clear Mind
+Consume extra Internal Energy to greatly increase the amount of Circulation True Qi gained from Cultivation.
+
+Metal Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Metal", the practitioner's Internal Element will no longer change.
+
+Wood Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Wood", the practitioner's Internal Element will no longer change.
+
+Water Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Water", the practitioner's Internal Element will no longer change.
+
+Fire Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Fire", the practitioner's Internal Element will no longer change.
+
+Earth Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Earth", the practitioner's Internal Element will no longer change.
+
+Hunyuan Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Hunyuan", the practitioner's Internal Element will no longer change.
+
+Earth to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Metal" shift.
+
+Water to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Metal" shift.
+
+Wood to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Metal" shift.
+
+Water to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Wood" shift.
+
+Fire to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Wood" shift.
+
+Earth to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Wood" shift.
+
+Metal to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Water" shift.
+
+Wood to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Water" shift.
+
+Fire to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Water" shift.
+
+Wood to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Fire" shift.
+
+Earth to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Fire" shift.
+
+Metal to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Fire" shift.
+
+Fire to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Earth" shift.
+
+Metal to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Earth" shift.
+
+Water to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Earth" shift.
+
+Stabilize Mind
+Remove the effects that were already active during Cultivation, and restore a certain amount of Willpower based on the number of eliminated effects.
+
+Return to Origin
+Remove the effects that were already active during Cultivation.
+
