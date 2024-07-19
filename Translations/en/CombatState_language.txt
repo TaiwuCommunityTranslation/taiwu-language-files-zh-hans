@@ -272,46 +272,46 @@ Lost
 Shaken
 
 
-Return to Innocence
+Pure Heart
 Because of the mystery of the book, the power of one's own techniques will be greatly increased or reduced according to the five elements of one's internal power
 
-Storm Swiftness
+Light-Robed Travel
 Due to the mystery of the strange book, the consumption of Footwork value in battle is greatly reduced.
 
-Myriads
+All-Encompassing Law
 Because of the mystery of the strange book, the power of Aegis and Nadis skills are multiplied
 
-Dragon-like Carving
+Dragon Imitating Painting
 Because of the mystery of the strange book, in battle, when you break the enemy's Deflect with Fist, you will make the enemy throw away their weapons, and the closer you are to the enemy, the higher the damage of your Fist skill
 
-Finger of Hades
+Mind's Eye Tattered Scroll
 Because of the secrets of the strange book, in the battle, after chasing the enemy 5 times in 1 round of weapon attacks with Fist, a random skill of the enemy will be blocked for a short time, and the more Acupoints are sealed on the enemy, the more powerful the Finger Technique damage will be.
 
-Omnidirectional Kick
+Eight Boundaries Scripture
 Because of the mystery of the strange book, in the battle, the weapons used by oneself replace the Legwear in using Kick Technique, and the lower the enemy's Stamina, the higher the damage of your Kick Technique will be.
 
-Shadow Sneak
+Shadow Sneak Book
 Because of the mystery of the strange book, in the battle, when you attack the enemy with Hidden Weapons, ignore the enemy's protective gear, and the farther you are from the enemy, the higher the damage of your Hidden Weapons techniques
 
-Nameless Sword
+Nameless Divine Sword
 Because of the secrets of the strange book, in battle, when hitting enemy that has no deflect with a Sword, there is a 50% chance to restore the consumed attack, and the less Style the enemy has, the higher the damage of his own Sword Technique
 
-Murderous Mara
+Ten Demons Slaying
 Because of the mystery of the strange book, in the battle, the enemy's Deflect cooldown caused by the Blade is increased by 3 times, and the more Weak Points enemy has, the higher the damage of the Blade Techniques
 
-Symbol of Sky
+Single Stroke Splits Heavens
 Because of the mystery of the strange book, in the battle, the Polearm used by you can Deflect more defeat marks, and the more defeat marks you have, the higher the damage of your Polearm Techniques.
 
-Unprecedented One
+Primordial Origin
 Because of the mystery of the strange book, in battle, when attacking the enemy with Exotic Weapons, the enemy's Deflect is more easily broken, and the lower the enemy's Stance, the higher the damage of your Exotic Weapon Techniques
 
-Dragon Treasure
+Nine Imitations True Manuscript
 Because of the mystery of the strange book, in the battle, the attack range of your Soft Weapons increases, and the lower the enemy's Inhale is, the higher the damage of your Soft Weapons Techniques
 
-Heavenly Divine
+Heavenly Communication Divine Technique
 Because of the mystery of the strange book, in the battle, when you Style Change when attacking with Ranged Weapons, the chance of chasing the enemy is multiplied, and the more times you Style Change, the higher the damage of your Ranged Weapons Techniques
 
-Ragnarok
+Goddess's Absolute Voice
 Because of the mystery of the strange book, in battle, when hitting the enemy with Melody, it will damage the enemy's True Qi, and the more Sound Styles one has, the higher the damage of one's own Melody Techniques
 
 King of the Hill
@@ -575,4 +575,60 @@ Flower Finger of Mandala
 
 
 
+
+Flowers Sigh
+
+
+
+
+Death Qi Within Chest
+Due to the chaotic death qi within the chest, they are feeling as if struck by lightning, the pain is unbearable, making it an extremely difficult task to try and mobilize one's power.
+
+Death Qi Seizes Soul
+Because of the agitation of death energy in the chest, it was as if being stabbed by thousands of knives. Not only was the pain unbearable, it was difficult to activate the power, and the internal organs were also destroyed...
+
+Shaolin loses power
+The power of Shaolin techniques increased; The power of Resurrected Person's Shaolin techniques decreased...
+
+Emei loses power
+The power of Emei techniques increased; The power of Resurrected Person's Emei techniques decreased...
+
+Hundred Flowers loses power
+The power of Hundred Flowers techniques increased; The power of Resurrected Person's Hundred Flowers techniques decreased...
+
+Wudang loses power
+The power of Wudang techniques increased; The power of Resurrected Person's Wudang techniques decreased...
+
+Yuanshan loses power
+The power of Yuanshan techniques increased; The power of Resurrected Person's Yuanshan techniques decreased...
+
+Lion-Face loses power
+The power of Lion-Face techniques increased; The power of Resurrected Person's Lion-Face techniques decreased...
+
+Ranshan loses power
+The power of Ranshan techniques increased; The power of Resurrected Person's Ranshan techniques decreased...
+
+Xuannyu loses power
+The power of Xuannyu techniques increased; The power of Resurrected Person's Xuannyu techniques decreased...
+
+Sword Manor loses power
+The power of Sword Manor techniques increased; The power of Resurrected Person's Sword Manor techniques decreased...
+
+Kongsang loses power
+The power of Kongsang techniques increased; The power of Resurrected Person's Kongsang techniques decreased...
+
+Vajrayana loses power
+The power of Vajrayana techniques increased; The power of Resurrected Person's Vajrayana techniques decreased...
+
+Five Immortals loses power
+The power of Five Immortals techniques increased; The power of Resurrected Person's Five Immortals techniques decreased...
+
+Jieqing loses power
+The power of Jieqing techniques increased; The power of Resurrected Person's Jieqing techniques decreased...
+
+Fulong loses power
+The power of Fulong techniques increased; The power of Resurrected Person's Fulong techniques decreased...
+
+Bloodhound loses power
+The power of Bloodhound techniques increased; The power of Resurrected Person's Bloodhound techniques decreased...
 
