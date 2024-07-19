@@ -581,7 +581,7 @@ Crossing River on a Reed
 Immune Spd Dn
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; Enemy cannot prevent the user from moving; User's Movement Speed will not be reduced for any reason
 Shorten Distance
-Basic Atk All SWI
+Use Swiftness to Resolve
 During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Swiftness accuracy value.
 White Ape's Leap
 Auto Attack
@@ -658,7 +658,7 @@ During this Footwork, every time the enemy advances 1 distance, user immediately
 Lion's Swift
 During this Footwork, whenever the user hits an enemy with a "Hand Guard" weapon, user's Stamina will be restored.
 Ghost Step
-Basic Atk All FIN
+Use Finesse to Resolve
 During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Finesse accuracy value.
 Driving Wind
 Cast Spd up
@@ -734,7 +734,7 @@ Flood Dragon\nStirs Ocean
 Extra Kick
 In this Footwork, when a Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a lower tier without any cost.
 Stone Sink
-Basic Atk All Might
+Use Might to Resolve
 During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Might accuracy value.
 Great Stability\nStance
 During the duration of this technique, if the user's weapon is capable of striking the style required to perform the technique or the special effect of the technique, the "Punch", "Hack" and "Throw" styles possessed by the user can be used in place of each other.
@@ -2376,7 +2376,7 @@ During this Footwork, the duration of user's "Aegis" techniques will be reduced,
 Reverse - Crossing River on a Reed
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; Enemy cannot prevent the user from moving; Enemy's Movement Speed will not be increased for any reason
 Reverse - Shorten Distance
-EVA all basic Atk
+Use Evasion to Resolve
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Evasion value.
 Reverse - White Ape's Leap
 When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After jumping, the user will make a free weapon attack on the enemy that ignores Deflect
@@ -2442,7 +2442,7 @@ During this Footwork, every time the enemy retreats 1 distance, user immediately
 Reverse - Lion's Swift
 During this Footwork, whenever the user hits an enemy with a "Hand Guard" weapon, enemy's Stamina will be depleted.
 Reverse - Ghost Step
-PAR all basic Atk
+Use Parry to Resolve
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Parry value.
 Reverse - Driving Wind
 Whenever the user moves 1 distance with this Footwork, enemy receives a debuff that reduces Cast Speed
@@ -2506,7 +2506,7 @@ While performing a Kick Technique in this Footwork, direct Internal Damage dealt
 Reverse - Flood Dragon\nStirs Ocean
 In this Footwork, when a Kick Technique reaches $0$0% completion, the user will be able to continue attacking the enemy by performing other Kick Techniques of a higher tier without any cost.
 Reverse - Stone Sink
-Diversion all basic Atk
+Use Diversion to Resolve
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Diversion value.
 Reverse - Great Stability Stance
 During this Footwork, whenever an enemy acquires "Punch", "Hack" or "Throw" styles, if the user can use these styles, the styles acquired by the enemy will have a higher chance of being transferred to the user.
@@ -4196,3 +4196,4 @@ Backlash
 Injured by the backlash from the Eight Lives Qi
 Eight Deaths Qi
 Injured by the backlash from the Eight Deaths Qi
+Unable to use...
