@@ -4472,7 +4472,7 @@
   "LK_LoopingInfomation_Title_Neili": "Int. Energy",
   "LK_LoopingInfomation_Title_SuccessRate": "Success",
   "LK_LoopingInfomation_Desc_Title": "True Qi Gain: ",
-  "LK_LoopingInfomation_Desc_Desc": "Whenever you complete a cycle, the corresponding True Qi progress will increase",
+  "LK_LoopingInfomation_Desc_Desc": "Complete cycles for progress",
   "LK_Looping_WaitReference": "Auxiliary",
   "LK_Looping_ReferenceSkill_Lock_Tip": "Any Martial Art attainment reaches {0}",
   "LK_LoopingEvent_Tips_Title": "Combat Circulation and Heavenly Resonance",
