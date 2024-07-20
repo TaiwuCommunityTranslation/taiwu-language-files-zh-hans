@@ -4414,7 +4414,7 @@
   "LK_Ellipsis_Symbol": "...",
   "LK_QuotationLeft_Symbol": "“",
   "LK_QuotationRight_Symbol": "”",
-  "LK_Legacy_Tip_Desc_Bonus": "Due to the chosen difficulty, the bonus limit of {0} is <color=#brightblue>{1}</color>",
+  "LK_Legacy_Tip_Desc_Bonus": "Due to the difficulty, max limit of {0} is increased by <color=#brightblue>{1}</color>",
   "LK_MouseTip_Destiny_Title": "【Reincarnation Karma】",
   "LK_MouseTip_Destiny_MotherSettlement": "Their mother might be a member of {0}: ",
   "LK_MouseTip_Destiny_MotherOrgGrade": "Their mother's Identity might be: ",
