@@ -41,7 +41,7 @@ Martial arts of Sword Manor encompass <SpName=mousetip_gongfa_7>Sword, <SpName=m
 Kongsang Sect
 The KongSang Sect school is also known as school of the medicine kings. Although the KongSang Sect mountain is a snow-capped mountain,  there are all kinds of exotic grasses among the hills. TheKongSang Sect disciples are specialized in both poison and medicine. Their medicine can bring the dead back to life,  while their poison can kill people without being noticed.
 Strange Poison Remedy
-Martial arts of Kongsang Sect encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_5>Kick, and <SpName=mousetip_gongfa_6>Hidden Weapon (Medicinal Cream) techniques. Rooted in the arts of poisons and toxins, they excel in using strange poisons and secret medicines to enhance their skills, even to the point of undergoing profound transformations, making them capable of almost anything.
+空桑派武学由<SpName=mousetip_gongfa_3>拳掌、<SpName=mousetip_gongfa_4>指法、<SpName=mousetip_gongfa_5>腿法、<SpName=mousetip_gongfa_6>暗器组成，本源于黄白之术，擅用奇毒秘药以助功力，乃至于脱胎换骨，无所不能。
 Vajrayana
 The Immaculate Vajrayana is a secret branch of the ancient Zhang Zhung kingdom. With a large popularity of powerful disciples,  it is still regarded as a hostile school in Wulin world,  for acting fiercely and sinisterly.
 True Scriptures without words
