@@ -1,5 +1,5 @@
 True Qi Scattered
-{0} losses <color=#brightblue>are decreased by 30%</color>, and gains <color=#brightblue>are increased by 60%</color>; The power of {0} <color=#pinkyellow>techniques</color> <color=#brightred>is decreased by 20%</color>; The backlash damage of {0} <color=#pinkyellow>techniques</color> <color=#brightblue>is decreased by 50%</color>, but the backlash chance <color=#brightred>is increased by 100%</color>.
+{0} losses <color=#brightblue>are decreased by 30%</color>, and gains <color=#brightblue>are increased by 60%</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightred>is decreased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightblue>is decreased by 50%</color>, but the backlash chance <color=#brightred>is increased by 100%</color>。
 True Qi Wasted
 {0} losses <color=#brightblue>are decreased by 15%</color>, and gains <color=#brightblue>are increased by 30%</color>; The power of {0} <color=#pinkyellow>techniques</color> <color=#brightred>is decreased by 20%</color>; The backlash damage of {0} <color=#pinkyellow>techniques</color> <color=#brightblue>is decreased by 25%</color>, but the backlash chance <color=#brightred>is increased by 50%</color>.
 True Qi Normal
