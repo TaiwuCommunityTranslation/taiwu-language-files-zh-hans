@@ -563,7 +563,7 @@
   "LK_Attack_Penetrate": "ATK",
   "LK_AtkAcupoint": "Acupoint",
   "LK_AtkAcupoint_Tips": "At 100% completion will cause a Sealed Acupoint",
-  "LK_AtkAcupoint_Dynamic_Tips": "When this technique reaches {0}0% completion, <color=#innerinjury>enemy will receive a Sealed Acupoint</color>",
+  "LK_AtkAcupoint_Dynamic_Tips": "At {0}0% completion <color=#innerinjury>will cause a Sealed Acupoint</color>",
   "LK_AtkFlaw_Dynamic_Tips": "When this technique reaches {0}0% completion, <color=#outterinjury>enemy will receive a Weak Point</color>",
   "LK_CombatSkill_Power_Count": "0%",
   "LK_CombatSkill_Cast_Effect_Title": "【Cast Effect】",
