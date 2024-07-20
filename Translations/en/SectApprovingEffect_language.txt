@@ -1,30 +1,30 @@
 Martial by Zen
 Shaolin School martial arts are based on <color=#pinkyellow> "Buddhism" </color>, so that when you practice or break through Shaolin School martial arts, you can use the qualifications and attainments of <color=#pinkyellow> "Buddhism" </color> to replace the qualifications or attainments required for other lower practices or breakthroughs.
 True Original
-The martial arts of Emei follow an authentic method. \n When studying the Orthodox version of Emei Martial Arts, <color=#brightblue>increase your efficiency by 50%</color>. When studying the Unorthodox version of Emei Martial Arts, <color=#brightred>decrease your efficiency by 50%</color>.
+峨眉派武学遵循正传真法，\n峨眉派秘籍正练篇章的研读效率<color=#brightblue>提高50%</color>；逆练篇章的研读效率<color=#brightred>降低50%</color>。
 Martial with Medical
  <color=#pinkyellow> </color> When you practice or break through the Hundred Flowers Valley Martial Arts, you can use the qualifications and attainments of <color=#pinkyellow> "Medicine" </color> to replace the qualifications or attainments required for other lesser practices or breakthroughs.
 Natural Law
 The Wudang School martial arts are based on <color=#pinkyellow> "Taoism" </color>. When you practice or break through the Wudang School martial arts, you can use the qualifications and attainments of <color=#pinkyellow> "Daoism" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
 Justice and Bright
-The martial arts of Yuanshan Sect are fair and aboveboard. \n If the practitioner's attitude towards life is <color=#behaviortype_just>Just</color> or <color=#behaviortype_kind>Kind</color>, the efficiency of studying the secret scripts of Yuanshan Sect will <color=#brightblue>increase by 50%</color>; If the practitioner's attitude towards life is <color=#behaviortype_rebel>Rebel or <color=#behaviortype_egoistic>Egoist</color>, the study efficiency of Yuanshan Sect's secret scripts will be <color=#brightred>reduced by 50%</color>.
+元山派武学正大光明，\n若修习者的处世立场为<color=#behaviortype_just>刚正</color>或<color=#behaviortype_kind>仁善</color>，元山派秘籍的研读效率<color=#brightblue>提高50%</color>；若修习者的处世立场为<color=#behaviortype_rebel>叛逆</color>或<color=#behaviortype_egoistic>唯我</color>，元山派秘籍的研读效率<color=#brightred>降低50%</color>。
 Peremptory Practice
-The martial arts of the Lion-Face Clan are not good at written records, \nThe study efficiency of the Lion-Face Clan secret manuals is <color=#brightred>reduced by 50%</color>. When comprehending Lion-Face Clan's martial art in combat, study efficiency is <color=#brightblue>increased by 200%</color>.
+狮相门武学不擅文字记录，\n狮相门秘籍的研读效率<color=#brightred>降低50%</color>；以实战的方式领悟狮相门秘籍时<color=#brightblue>提高200%</color>研读效率。
 Mystery Obscure
-There are many formulas and incantations of Ranshan Sect of martial arts, \nThe study efficiency of the Ranshan Sect secret manuals is <color=#brightblue> increased by 100%</color>. When comprehending Ranshan Sect's martial art in combat, study efficiency is <color=#brightred>reduced by 80%</color>.
+然山派武学口诀咒令繁多，\n然山派秘籍的研读效率<color=#brightblue>提高100%</color>；以实战的方式领悟然山派秘籍时<color=#brightred>降低80%</color>研读效率。
 Goddess Beauty
-Xuannyu Sect is respected by <color=#famale>women</color>. \n For <color=#famale>women</color>, the study efficiency of the Xuannyu Sect secret manuals is <color=#brightblue> increased by 50%</color>. When comprehending Xuannyu Sect's martial art in combat, study efficiency is <color=#brightblue>increased by 200%</color>. \n For <color=#male>men</color>, the study efficiency of the Xuannyu Sect secret manuals is <color=#brightred> decreased by 50%</color>. When comprehending Xuannyu Sect's martial art in combat, study efficiency is <color=#brightred>decreased by 80%</color>.
+璇女派以<color=#famale>女子</color>为尊，\n<color=#famale>女子</color>研读璇女派秘籍的效率<color=#brightblue>提高50%</color>；以实战的方式领悟璇女派秘籍时<color=#brightblue>提高200%</color>研读效率。<color=#male>男子</color>研读璇女派秘籍的效率<color=#brightred>降低50%</color>；以实战的方式领悟璇女派秘籍时<color=#brightred>降低80%</color>研读效率。
 Great Miracle
 When you practice or break through the martial arts of Sword Manor, you can use the qualifications and attainments of <color=#pinkyellow> "Smithing" </color> or <color=#pinkyellow> "Carpentry" </color> or <color=#pinkyellow> "Gemcutting" </color> or <color=#pinkyellow> "Weaving" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
 From Hard to Easy
 The martial arts of the KongSang Sect are easy before they are difficult. Early chapters will be <color=#brightblue>more efficient</color>. Later chapters will be <color=#brightred>less efficient</color>.
 Vidya-Raja's Spell
-Vajrayana is respected by <color=#male>men</color>. \n For <color=#male>men</color>, the study efficiency of the Vajrayana secret manuals is <color=#brightblue> increased by 50%</color>. When comprehending Vajrayana's martial art in combat, study efficiency is <color=#brightblue>is increased by 200%</color>. \n For <color=#famale>women</color>, the study efficiency of the Vajrayana secret manuals is <color=#brightred> decreased by 50%</color>. When comprehending Vajrayana's martial art in combat, study efficiency is <color=#brightred>decreased by 80%</color>.
+金刚宗以<color=#male>男子</color>为尊，\n<color=#male>男子</color>研读金刚宗秘籍的效率<color=#brightblue>提高50%</color>；以实战的方式领悟金刚宗秘籍时<color=#brightblue>提高200%</color>研读效率。<color=#famale>女子</color>研读金刚宗秘籍的效率<color=#brightred>降低50%</color>；以实战的方式领悟金刚宗秘籍时<color=#brightred>降低80%</color>研读效率。
 Poisonous Soul
 The Five Immortals martial arts are based on <color=#pinkyellow> "Toxicology" </color>. When you practice or break through the Five Immortals martial arts, you can use the qualification and attainment of <color=#pinkyellow> "Toxicology" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
 Whimsy Path
-The martial arts of JieQing Gate are an unusual and innovative . \n When studying the Unorthodox version of JieQing Gate Martial Arts, <color=#brightblue>increase your efficiency by 50%</color>. When studying the Orthodox version of  JieQing Gate Martial Arts, <color=#brightred>decrease your efficiency by 50%</color>.
+界青门武学讲究另辟蹊径，\n界青门秘籍逆练篇章的研读效率<color=#brightblue>提高50%</color>；正练篇章的研读效率<color=#brightred>降低50%</color>。
 From Easy to Hard
 The martial arts of the Fulong Altar are easy before they are difficult. Early chapters will be <color=#brightred>less efficient</color>. Later chapters will be <color=#brightblue>more efficient</color>.
 Evil and Vicious
-The martial arts of Blood Cult are underhanded and wicked. \n If the practitioner's attitude towards life is <color=#behaviortype_rebel>Rebel</color> or <color=#behaviortype_egoistic>Egoist</color>, the efficiency of studying the secret scripts of Blood Cult will <color=#brightblue>increase by 50%</color>; If the practitioner's attitude towards life is <color=#behaviortype_just>Just</color> or <color=#behaviortype_kind>Kind</color>, the study efficiency of Blood Cult's secret scripts will be <color=#brightred>reduced by 50%</color>.
+血犼教武学邪诡恶毒，\n若修习者的处世立场为<color=#behaviortype_rebel>叛逆</color>或<color=#behaviortype_egoistic>唯我</color>，血犼教秘籍的研读效率<color=#brightblue>提高50%</color>；若修习者的处世立场为<color=#behaviortype_just>刚正</color>或<color=#behaviortype_kind>仁善</color>，血犼教秘籍的研读效率<color=#brightred>降低50%</color>。
