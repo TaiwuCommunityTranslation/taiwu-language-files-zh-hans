@@ -1,0 +1,38 @@
+
+
+
+
+Empty Body
+<color=#pinkyellow>Internal Energy gained from Cultivation <color=#brightblue>+100%</color></color>
+
+
+Cleanse Impurities
+<color=#pinkyellow>Direct External, Internal, Daze, and Poison damage received from those who haven't reached <color=#ffffff>Cleanse Impurities</color> <color=#brightblue>reduced by 33%</color>\nDirect External, Internal, Daze, and Poison damage dealt to those who haven't reached <color=#ffffff>Cleanse Impurities</color> <color=#brightblue>increased by 33%</color>\nCharacter's Daze HP <color=#brightblue>+10%</color>\nCharacter's Fatal Wound HP <color=#brightblue>+10%</color></color>
+
+
+Regulate Qi
+<color=#pinkyellow>Experience gained <color=#brightblue>+100%</color></color>
+
+
+Breathe Qi
+<color=#pinkyellow>Success rate during breakthroughs <color=#brightblue>+25%</color></color>
+
+
+Divine Step
+<color=#pinkyellow>Direct External, Internal, Daze, and Poison damage received from those who haven't reached <color=#1abac8>Divine Step</color> <color=#brightblue>reduced by 33%</color>\nDirect External, Internal, Daze, and Poison damage dealt to those who haven't reached <color=#1abac8>Divine Step</color> <color=#brightblue>increased by 33%</color>\nCharacter's Daze HP <color=#brightblue>+15%</color>\nCharacter's Fatal Wound HP <color=#brightblue>+15%</color></color>
+
+
+Primary Breath
+<color=#pinkyellow>True Qi gained from Cultivation <color=#brightblue>+100%</color></color>
+
+
+Entranced
+<color=#pinkyellow>Talent limit in breakthroughs <color=#brightblue>+6</color></color>
+
+
+Naturalization
+<color=#pinkyellow>Direct External, Internal, Daze, and Poison damage received from those who haven't reached <color=#c16927>Naturalization</color> <color=#brightblue>reduced by 33%</color>\nDirect External, Internal, Daze, and Poison damage dealt to those who haven't reached <color=#c16927>Naturalization</color> <color=#brightblue>increased by 33%</color>\nCharacter's Daze HP <color=#brightblue>+20%</color>\nCharacter's Fatal Wound HP <color=#brightblue>+20%</color></color>
+
+
+Return To Start
+<color=#pinkyellow>Character's Daze HP <color=#brightblue>+25%</color>\nCharacter's Fatal Wound HP <color=#brightblue>+25%</color></color>
