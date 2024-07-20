@@ -1661,7 +1661,7 @@
   "LK_Taiwu_Legacy_Title": "Taiwu Inheritance ——The {0} generation Taiwu",
   "LK_Taiwu_Legacy_Point_Title": "{0}'s legacy points",
   "LK_Available_Legacy_Point": "Available Legacy Points：<color=#lightblue>{0}</color>",
-  "LK_Total_Legacy_Point": "Overall Legacy Points:：{0}",
+  "LK_Total_Legacy_Point": "Overall Legacy Points: {0}",
   "LK_Available_Legacy": "Available Legacy",
   "LK_ResetWorldSettings_Available": "World details can be reset...",
   "LK_AdjustWorldSettings_Available": "World details can be adjusted...",
