@@ -28,17 +28,22 @@ Tricky Mystery - I
 Recently, in Taiwu Village, there have been frequent occurrences of strange things, strange noises in the middle of the night, eerie and frightening, what is the truth, or should we find out...
 What is Orthodox
 The Emei Sect's "authentic martial arts dispute" is intensifying, and fights among disciples are a common sight...\nCurrently, the life and death of the White Ape is uncertain, and Shi Houjiu is covering the sky with one hand. If the descendants of Taiwu don't make a decision soon, they may regret it for the rest of their lives...
+青琅一梦
+氤氲然山，扑朔迷离，三宗比武，青琅仙阁，一切自有分晓……
 Negotiation with the Three Devils
 Placeholder
 Three Ancestor's Competition
-No
+时隔多年，三宗比武于然山再次举办……\n一众弟子斋沐盥漱，严整衣冠，静候门中前辈到场。
 Ultimate Art of Lion Face
 The Lion-Face Clan is holding a "Secret Ultimate Art" competition. The outside of the venue is heavily guarded, and it is difficult for ordinary people to enter...
 Five Saints Heart Poison
 The bloodstains of the Five Immortals Sect were spreading, and for some reason the smell was fishy...
 Sudden Change in Five Immortals
 For some unknown reason, the bloodstains of the Five Immortals Sect spread, the metallic smell hit your nostrils, and the corpses of the Miao people laying everywhere, causing a ghastly sight...
+乡村怪病
+本为怡然乡野，如今村舍紧闭，传有诡奇疫病肆虐此地，染病之人药石无医，一时之间，村中人人自危……
 Striving to Live
+No
 A Bright Fairyland 2
 On the top of Xuannyu Peak, next to Jade Mirror. I saw the mountains and rivers in the mirror transformed into a landscape, and the smoke and clouds changed into shapes, as if there was a scene of great emptiness, which was ethereal and moving. If I look into the mirror again, I wonder if I can find out the truth behind the former senior sister's drowning...
 A Bright Fairyland 3
@@ -63,7 +68,13 @@ Worn Out in Body and Soul
 Support the Three Devils
 Rise from the Dead
 
+黑白踪影
+占位
+奇人疑踪
 Evil Spirit Shows Up
+决战奇人
+Resurrected Person
+那位“复生之人”果然还是回到了太吾村，却只是遥望村中，既不移，也不动，似乎只是在等待“太吾”来此。
 Home Tea Party
 Preparing for a home-cooked tea party with the help of local scribes...
 Home Banquet
@@ -276,41 +287,41 @@ Swordtomb “Infernal Acerjail”
 Seven swordtombs appears nearby after the immortal's leaving.The word “Infernal Acerjail” is engraved on the tomb, there seems to be something going to break out! 
 Swordtomb “Anchorite”
 Seven swordtombs appears nearby after the immortal's leaving.The word “Anchorite” is engraved on the tomb, there seems to be something going to break out! 
-Extermination - "Glacial Vassal"
+Extinguishing Chapter - "Glacial Vassal"
 Jiuchan was at a loss for words, lost in thought... and seemed to be in great pain...
-Extermination - "Spirit Smelting"
+Extinguishing Chapter - "Spirit Smelting"
 Yi Yihou was at a loss for words, lost in thought... and seemed to be in great pain...
-Extermination - "Phoenix Cocoon"
+Extinguishing Chapter - "Phoenix Cocoon"
 Jin Huoer hands and feet, lost in thought... seems to be in great pain...
-Extermination - "Vanquish Evil"
+Extinguishing Chapter - "Vanquish Evil"
 Dayue Yao is often at a loss for words, lost in thought... seems to be in great pain...
-Extermination - "Wonderglow"
+Extinguishing Chapter - "Wonderglow"
 The art party is at a loss for words, lost in thought... seems to be in great pain...
-Extermination - "Draconic Anima"
+Extinguishing Chapter - "Draconic Anima"
 Weiqi hands and feet, lost in thought... seems to be in great pain...
-Extermination - "Weaving of Mo Nyu"
+Extinguishing Chapter - "Weaving of Mo Nyu"
 Mo Nyu hands and feet, lost in thought... seems to be in great pain...
-Extermination - "Infernal Acerjail"
+Extinguishing Chapter - "Infernal Acerjail"
 Xue Feng hands and feet, lost in thought... seems to be in great pain...
-Extermination - "Anchorite"
+Extinguishing Chapter - "Anchorite"
 to the hands and feet, lost in thought... seems to be in great pain...
-The chapter of the edge - "Great Genin"
+Fate Chapter - "Glacial Vassal"
 Nine cold brow locked, is out of mind... do not know what to think of...
-The edge of the chapter - "burning God refining"
+Fate Chapter - "Spirit Smelting"
 Yi Yi Hou frowning, is out of mind... do not know what... remember
-Margin - "Phoenix Cocoon"
+Fate Chapter - "Phoenix Cocoon"
 Golden Phoenixer frowned and was lost in thought... I don't know what... came to mind
-The edge of the chapter - "voodoo iron"
+Fate Chapter - "Vanquish Evil"
 Dayue Yao Chang frowned tightly and was lost in thought... I don't know what I remembered...
-The edge of the chapter - "Ghost God Xia"
+Fate Chapter - "Wonderglow"
 Art Fang frowned and was out of his mind... don't know what he remembered...
-The edge of the chapter - "solve the dragon spirit"
+Fate Chapter - "Draconic Anima"
 Wei Qi frowned tightly, is out of mind... do not know what... remember
-The edge of the chapter - "Weaving of Mo Nyu"
+Fate Chapter - "Weaving of Mo Nyu"
 Mo Nyu frowning, is out of mind... do not know what... remember
-Fate of the chapter - "prisoner of the devil wood"
+Fate Chapter - "Infernal Acerjail"
 Xue Feng brow locked, is out of mind... do not know what... remember
-The chapter of the edge - "dissolving dust hidden"
+Fate Chapter - "Anchorite"
 to frown, is out of mind... do not know what... remember
 Demon Sealing Light - Glacial Vassal
 Where the Divine Light is
@@ -323,32 +334,32 @@ Demon Sealing Light - Draconic Anima
 Demon Sealing Light - Mo Nyu
 Demon Sealing Light - Infernal Acerjail
 Demon Sealing Light - Anchorite
-《Omnidirectional Kick》
-The unearthly treasure - "Eight Theatre Supreme Treasure Sutra" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure scripture?
-《Storm Swiftness》
-The unearthly treasure - "The White Cloth Book of Transformation" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Myriads》
-The unearthly treasure - "The Great Book of Thousand Laws" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Shadow Sneak》
-The unearthly treasure - "The Book of Miraculous Shadows" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Return to Innocence》
-The unearthly treasure - the "Hun Xin Wu Zi" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Dragon Treasure》
-The unearthly treasure - "The Nine Seasons of the True Collection" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Ragnarok》
-The unearthly treasure - "The Absolute Voice of the Goddess" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Murderous Mara》
-The unearthly treasure - "The Record of Ten Killing Demons" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Heavenly Divine》
-The unearthly treasure - "The Divine Art of the Heavenly Passage" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Nameless Sword》
-The unearthly treasure - the "Nameless Sword Code" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Unprecedented One》
-The Book of Immortal Treasures - The Book of Immortal Genesis - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Dragon-like Carving》
-The unearthly treasure - "The Picture of the Elephant and the Dragon" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Finger of Hades》
-The unearthly treasure - the "Heart View Remains" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
-《Symbol of Sky》
-The unearthly treasure - "A Painting to Open the Heavens" - has been discovered! The masters of all schools of martial arts are gathering here, and a great battle is inevitable! Who will be able to win the treasure book?
+《Eight Boundaries Precious Scripture》
+An otherworldly peerless manual - 《Eight Boundaries Precious Scripture》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Light-Robed Travel Manual》
+An otherworldly peerless manual - 《Light-Robed Travel Manual》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《All-Encompassing Law》
+An otherworldly peerless manual - 《All-Encompassing Law》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Shadow Sneak Book》
+An otherworldly peerless manual - 《Shadow Sneak Book》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Pure Heart Formula》
+An otherworldly peerless manual - 《Pure Heart Formula》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Nine Imitations True Manuscript》
+An otherworldly peerless manual - 《Nine Imitations True Manuscript》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Goddess's Absolute Voice》
+An otherworldly peerless manual - 《Goddess's Absolute Voice》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Ten Demons Slaying Record》
+An otherworldly peerless manual - 《Ten Demons Slaying Record》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Heavenly Communication Divine Technique》
+An otherworldly peerless manual - 《Heavenly Communication Divine Technique》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Nameless Sword Canon》
+An otherworldly peerless manual - 《Nameless Sword Canon》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Primordial Origin Tome》
+An otherworldly peerless manual - 《Primordial Origin Tome》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Dragon Imitating Painting》
+An otherworldly peerless manual - 《Dragon Imitating Painting》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Mind's Eye Tattered Scroll》
+An otherworldly peerless manual - 《Mind's Eye Tattered Scroll》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
+《Single Stroke Splits Heavens》
+An otherworldly peerless manual - 《Single Stroke Splits Heavens》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
