@@ -577,7 +577,7 @@
   "LK_CombatSkill_FightBack_Desc": "When Resolving weapon attack with {0}, Counter it with <color=#F8E0CAFF>{1}%</color> power",
   "LK_CombatSkill_RecoverBlock_Desc": "(Restores <color=#pinkyellow>{0}%</color> of Deflect over its duration)",
   "LK_CombatSkill_Equip_Effect_Title": "【Equip Effect】",
-  "LK_CombatSkill_Equip_Effect_NeiliAllocation": "Gains extra from True Qi: ",
+  "LK_CombatSkill_Equip_Effect_NeiliAllocation": "Bonus from Extra True Qi:",
   "LK_CombatSkill_Direct_Effect_Title": "【Orthodox Way】",
   "LK_CombatSkill_Reverse_Effect_Title": "【Heterodox Way】",
   "LK_CombatSkill_Requirement_Title": "【Requirements】",
