@@ -4022,7 +4022,7 @@
   "UI_Reset_World_Config_Desc": "<color=#orange>After the world details are changed, they will take effect immediately.</color>\nAre you sure you want to modify the world details?",
   "LK_Building_Manage_DependBuidings": "Dependency",
   "LK_Building_Manage_ExpandBuildings": "Expansions",
-  "LK_Legacy": "Legacy",
+  "LK_Legacy": " Legacy",
   "LK_Max_Bonus": "Max.",
   "LK_CombatSkill_Equip_PlanAppend": "Adds a blank <color=#pinkyellow>「Skill Preset」</color>...",
   "LK_CombatSkill_Equip_PlanCopy": "Duplicates current <color=#pinkyellow>「Skill Preset」</color> into a new <color=#pinkyellow>「Skill Preset」</color>...",
