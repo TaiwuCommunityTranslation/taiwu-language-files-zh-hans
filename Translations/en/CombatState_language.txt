@@ -539,8 +539,7 @@ Controlling Fuxi: <color=#brightblue>User's Accuracy and Resolve stats get incre
 Controlling Chiwen
 Because of controlling a Chiwen, whenever the user actively consumes 1 available Style, all True Qi of the user that was below its initial value gets increased by 2 points; Whenever the enemy actively consumes 1 available Style, all True Qi of the enemy that was above its initial value gets reduced by 2 points.
 Controlling Chiwen: <color=#brightblue>Whenever the user actively consumes 1 available Style, all True Qi of the user that was below its initial value gets increased by 2 points; Whenever the enemy actively consumes 1 available Style, all True Qi of the enemy that was above its initial value gets reduced by 2 points</color>.
-Blade of
-6 Directions
+Blade of\n6 Directions
 
 
 
@@ -570,8 +569,7 @@ Hade Finger
 
 
 
-The Great
-Flower Finger of Mandala
+The Great\nFlower Finger of Mandala
 
 
 
