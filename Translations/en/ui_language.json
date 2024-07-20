@@ -4558,7 +4558,7 @@
   "LK_LoopingProgressStatus_Tips_Desc": "Efficiency of Cultivation using Meditation will decrease with the number of completed Cultivations this month...",
   "LK_LoopingProgressStatus_Tips_Item1": "Current Efficiency: {0}",
   "LK_ReadingProgressStatus_Tips_Title": "Studying State",
-  "LK_ReadingProgressStatus_Tips_Desc": "The efficiency of Studying through Concentration will decrease with the number of completed Studies this month...",
+  "LK_ReadingProgressStatus_Tips_Desc": "Efficiency of Studying using Concentration will decrease with the number of completed Studies this month...",
   "LK_ItemDisplayData_ThreeCorpseKeepingLegendaryBook": "Kept",
   "LK_LoopingInformation_Tips_NeiliAllocation_Title": "Circulation True Qi",
   "LK_LoopingInformation_Tips_NeiliAllocation_Desc": "You can obtain up to 50 points each of Break, Quick, Aegis, and Nadis True Qi through Cultivation...\nWhenever you complete a Cultivation cycle, you will gain Circulation True Qi experience according to the Inner Arts you're Cultivating...\nAs Circulation True Qi increases, the amount of experience required to obtain Circulation True Qi will also increase...",
