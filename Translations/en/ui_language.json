@@ -4555,7 +4555,7 @@
   "LK_ActiveRead_Tip_Desc5": "<color=#yellow>Press and hold Left Click to continue Concentrating...</color>",
   "LK_ActiveRead_Tip_Desc6": "Concentrating cannot trigger Sudden Insight...",
   "LK_LoopingProgressStatus_Tips_Title": "Circulation State",
-  "LK_LoopingProgressStatus_Tips_Desc": "The efficiency of Cultivating through Meditation will decrease with the number of completed Cultivations this month...",
+  "LK_LoopingProgressStatus_Tips_Desc": "Efficiency of Cultivation using Meditation will decrease with the number of completed Cultivations this month...",
   "LK_LoopingProgressStatus_Tips_Item1": "Current Efficiency: {0}",
   "LK_ReadingProgressStatus_Tips_Title": "Studying State",
   "LK_ReadingProgressStatus_Tips_Desc": "The efficiency of Studying through Concentration will decrease with the number of completed Studies this month...",
