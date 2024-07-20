@@ -4407,7 +4407,7 @@
   "LK_ActiveRead_Tip_Desc1": "Consume Comprehension and time in order to increase Study progress. Every 10 Concentrations will complete one study of a book...",
   "LK_ActiveRead_Tip_CostTitle": "【Concentration Cost】",
   "LK_ActiveRead_Tip_Desc2": "Leftover progress will carry over to the next month...",
-  "LK_ActiveRead_Tip_Desc3": "The durability of books and references can also be worn out by intensive studying...",
+  "LK_ActiveRead_Tip_Desc3": "Intensive studying can wore out durability of books...",
   "LK_ActiveRead_Tip_NotEnough1": "<color=#brightred>Remaining Comprehension is insufficient...</color>",
   "LK_ActiveRead_Tip_NotEnough2": "<color=#brightred>Not enough time...</color>",
   "LK_ActiveRead_Tip_Cost": "<SpName=mousetip_zhuyao_5>Comprehension: {0}/{1}",
