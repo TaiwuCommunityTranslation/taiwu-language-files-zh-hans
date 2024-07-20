@@ -3029,7 +3029,7 @@
   "LK_Block_Tip_Resource_Title": "【Location Resources】",
   "LK_Block_Tip_Dispatch_Desc": "Dispatched <color=#pinkyellow> {0} </color> to this location <color=#pinkyellow> {1} </color> ",
   "LK_Block_Tip_SubTitle": "【{0}: {1}】",
-  "LK_SwordTomb": "Sword Tomb",
+  "LK_SwordTomb": "Tomb",
   "LK_NormalInformationSwordTombTypeA": "Sword Tomb·False",
   "LK_NormalInformationSwordTombTypeB": "Sword Tomb·True",
   "LK_Adventure": "Adventure",
