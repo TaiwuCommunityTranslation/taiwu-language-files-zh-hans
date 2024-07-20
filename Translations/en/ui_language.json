@@ -4551,7 +4551,7 @@
   "LK_ActiveLoop_Tip_NotEnough3": "<color=#brightred>Not cultivating any Inner Arts...</color>",
   "LK_ActiveRead_Tip_NotEnough3": "<color=#brightred>Not studying any books...</color>",
   "LK_Looping_CannotReference": "Can't Auxiliary",
-  "LK_ActiveRead_Tip_Desc4": "By Concentrating on studying books, you can also trigger the poison on the books...",
+  "LK_ActiveRead_Tip_Desc4": "Concentration can also trigger poison on books...",
   "LK_ActiveRead_Tip_Desc5": "<color=#yellow>Press and hold Left Click to continue Concentrating...</color>",
   "LK_ActiveRead_Tip_Desc6": "Concentrating cannot trigger Sudden Insight...",
   "LK_LoopingProgressStatus_Tips_Title": "Circulation State",
