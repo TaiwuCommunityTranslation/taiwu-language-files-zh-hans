@@ -407,17 +407,17 @@ Bloodhound Search
 The disciples of the Bloodhound Cult seem to be looking for people in all directions, doing more evil, and they are searching for {0}'s traces...
 Uninvited Guests
 Suddenly there are uninvited guests from the Bloodhound Cult, raging, I think the visitors are not good...
-华居来访
+Visit from Huaju
 {0}于{1}结识了一名然山派玉符宗弟子……
-玄质来访
+Visit from Xuanzhi
 {0}于{1}结识了一名然山派神剑宗弟子……
-迎娇来访
+Visit from Yingjiao
 {0}于{1}结识了一名然山派阴阳宗弟子……
 Worship Three Ancestors
 Temporary text three corpses to worship the teacher
-Chinese gift ceremony
+Gift from Huaju
 Temporary Text Hakuju Gift
-XuanQi Banquet
+Feast with Xuanzhi
 Temporary Text XuanQi Banquet
 Welcome to Piao Invitation
 Temporary text to welcome the cunning invitation
