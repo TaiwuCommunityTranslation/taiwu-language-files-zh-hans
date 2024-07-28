@@ -1670,7 +1670,7 @@ Iron Hoof
 The animal's hoof.
 Fangs
 The animal's teeth.
-poisonous tooth
+Venomous Fangs
 Hooked beak
 The beak of the animal's mouth.
 Iron Tail
