@@ -1668,7 +1668,7 @@ Sharp claws
 The sharp claws of the animal.
 Iron Hoof
 The animal's hoof.
-Tine
+Fangs
 The animal's teeth.
 poisonous tooth
 Hooked beak
