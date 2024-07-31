@@ -932,7 +932,7 @@ Because {0} won the The World Martial Arts Tournament, as {1}, I received the co
 After {0} heard the insights told by {1}, they thought about it and began to feel dissatisfied with {2}, and their ideal sect changed...
 Ji Xi to the Rescue
 In {0}, they were healed by Ji Xi's secret method and recovered their health...
-Three Ancestor's Competition
+Three Clans' Competition
 Temporary Text: Three Tournaments at {0}
 Tournament Victory
 Temporary text: Participated in three contests at {1} and defeated {0}
