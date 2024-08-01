@@ -24,7 +24,7 @@ Aspiration's Seniority is high enough to use aspiration's skill
 Aspiration's Seniority has to reach {0}'s identity to use this skill
 {0} doesn't Despise Taiwu
 Taiwu has the resources needed to use aspiration's skill and it's not on cooldown
-{0} needs to be Enthralled by XiangShu
+{0} needs to be Enthralled by Xiangshu
 Taiwu needs to have {0}
 {0} Qi Disorder needs to be lower than {1}
 Taiwu's Qi Disorder needs to be lower than {0}
