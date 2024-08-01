@@ -118,7 +118,7 @@ Decrease in enchantment value
 {0}The level of enchantment <color=#lightblue>Decreased</color>...
 {0}Feeling firm in the path, the level of enchantment <color=#lightblue>Decreased</color>...
 Becoming Enthralled
-{0} is being <color=#red>Possessed</color>!
+{0} is being <color=#red>Enthralled</color>!
 {0} <color=#brightred> into the evil </color> up!
 Becoming Possessed
 {0} is being <color=#red>Possessed</color>!
