@@ -122,7 +122,7 @@ Becoming Possessed
 {0} <color=#brightred> into the evil </color> up!
 Becoming Possessed
 {0} is being <color=#red>Possessed</color>!
-{0} <color=#brightred> into the magic </color> up!
+{0} <color=#brightred>Possessed</color>!
 Stats Recovered
 {0}'s {1} <color=#lightblue>Recovered</color>...
 {0}'s {1} <color=#lightblue>Recovered</color> by {2} points...
