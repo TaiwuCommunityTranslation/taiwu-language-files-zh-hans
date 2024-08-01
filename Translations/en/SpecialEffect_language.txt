@@ -1012,7 +1012,7 @@ Bless of\nThe Stars
 Reducing the health of the enemy
 Change Marker Type
 Increase Sealing Duration
-When this spell reaches $0$0% completion, if the enemy is Enthralled or Possessed, enemy's Health will be greatly reduced; After this spell reaches $0$0% completion, user gains 9 layers of this effect: The Daze markers caused by any spell cast by the user will change into Fatal Wound markers, and if user's spell reaches $1$0% completion, it will greatly increase the duration of Sealing on enemy's techniques
+When this spell reaches $0$0% completion, if the enemy is Enthralled or Possessed by Xiangshu, enemy's Health will be greatly reduced; After this spell reaches $0$0% completion, user gains 9 layers of this effect: The Daze markers caused by any spell cast by the user will change into Fatal Wound markers, and if user's spell reaches $1$0% completion, it will greatly increase the duration of Sealing on enemy's techniques
 Almighty Spell
 Prevent Sealing
 Refresh Sealing Duration
