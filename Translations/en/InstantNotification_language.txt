@@ -120,7 +120,7 @@ Decrease in enchantment value
 Becoming Possessed
 {0} is being <color=#red>Possessed</color>!
 {0} <color=#brightred> into the evil </color> up!
-Becoming Enthralled
+Becoming Possessed
 {0} is being <color=#red>Enthralled</color>!
 {0} <color=#brightred> into the magic </color> up!
 Stats Recovered
