@@ -1052,10 +1052,10 @@ Mature Red-eyed Gu causes host's weapon attacks to have a greatly decreased chan
 Premature Chi Demon Gu
 This body is implanted with a tamed Premature Chi Demon Gu.\nThe Chi Demon Gu, nourished by various flowers and then smoked with dozens of fragrant woods, has a pale purple body color, with a faint glow.
 Premature Chi Demon Gu will add 1 Daze marker to the enemy when host's Poison activates;\nThe Premature Chi Demon Gu needs to consume 4 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
-Premature Chi Demon Gu will add 1 Daze marker to the enemy when host's Poison activates;\nIf the host becomes Enthralled or Possessed, the Premature Chi Demon Gu will turn into a Mature Chi Demon Gu.
+Premature Chi Demon Gu will add 1 Daze marker to the enemy when host's Poison activates;\nIf the host becomes Enthralled or Possessed by Xiangshu, the Premature Chi Demon Gu will turn into a Mature Chi Demon Gu.
 This body is implanted with an untamed Premature Chi Demon Gu.\nThe Chi Demon Gu, nourished by various flowers and then smoked with dozens of fragrant woods, has a pale purple body color, with a faint glow.
 Premature Chi Demon Gu will add 1 Daze marker to the host when host's Poison activates;\nThe Premature Chi Demon Gu needs to consume 4 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
-Premature Chi Demon Gu will add 1 Daze marker to the host when host's Poison activates;\nIf the host becomes Enthralled or Possessed, the Premature Chi Demon Gu will turn into a Mature Chi Demon Gu.
+Premature Chi Demon Gu will add 1 Daze marker to the host when host's Poison activates;\nIf the host becomes Enthralled or Possessed by Xiangshu, the Premature Chi Demon Gu will turn into a Mature Chi Demon Gu.
 Mature Chi Demon Gu
 This body is implanted with a Mature Chi Demon Gu.\nThe Chi Demon Gu, nourished by various flowers and then smoked with dozens of fragrant woods, has a pale purple body color, with a faint glow.
 Mature Chi Demon Gu will add 1 Daze marker to the host when host's Poison activates;\nMature Chi Demon Gu will also cause host to act strangely, causing host's Favor with 3 random nearby characters to greatly decrease every month.
