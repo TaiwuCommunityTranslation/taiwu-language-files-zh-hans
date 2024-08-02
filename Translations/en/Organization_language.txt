@@ -28,7 +28,7 @@ Both Civil and Valiant
 Martial arts of Lion-Face Clan encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_8>Blade, and <SpName=mousetip_gongfa_9>Polearm (Spear) techniques. They are characterized by their tremendous force and overwhelming power, displaying a robust and domineering style. It resembles the strength to move mountains and carry the cauldron, exhibiting an unstoppable force that no one can withstand.
 Ranshan Sect
 The Ranshan School specializes in learning and preaching while traveling. They gain huge amount of  knowledges around the world,  act like well-informed debaters with clear logic. Thay pay much attention on self-cultivation and daily healty habits,  that they can live long with less possibility of have serious health risks.
-Clear Brilliant Immortal Pavilion
+Qinglang Immortal Pavilion
 Martial arts of Ranshan Sect encompass <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_7>Sword, and <SpName=mousetip_gongfa_10>Exotic Weapon (Talismans) techniques. Mostly derived from Taoist secret arts, they are mysterious and unfathomable, capable of summoning winds and thunder, controlling gods and spirits. Ordinary people find it difficult to comprehend their techniques.
 Xuannyu Sect
 XuanNyu Peak,  or also known as the Jade Maiden Peak,  is where “The Black Ice” is located. It is said that there was a celestial daughter who fell on the peak and left a heavenly art on it. If a woman practices it, she could become elegant, pure, and eventually immortal.
@@ -41,7 +41,7 @@ Martial arts of Sword Manor encompass <SpName=mousetip_gongfa_7>Sword, <SpName=m
 Kongsang Sect
 The KongSang Sect school is also known as school of the medicine kings. Although the KongSang Sect mountain is a snow-capped mountain,  there are all kinds of exotic grasses among the hills. TheKongSang Sect disciples are specialized in both poison and medicine. Their medicine can bring the dead back to life,  while their poison can kill people without being noticed.
 Strange Poison Remedy
-空桑派武学由<SpName=mousetip_gongfa_3>拳掌、<SpName=mousetip_gongfa_4>指法、<SpName=mousetip_gongfa_5>腿法、<SpName=mousetip_gongfa_6>暗器组成，本源于黄白之术，擅用奇毒秘药以助功力，乃至于脱胎换骨，无所不能。
+Martial arts of Kongsang Sect encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_5>Kick, and <SpName=mousetip_gongfa_6>Hidden Weapon (Medicinal Cream) techniques. Rooted in the arts of poisons and toxins, they excel in using strange poisons and secret medicines to enhance their skills, even to the point of undergoing profound transformations, making them capable of almost anything.
 Vajrayana
 The Immaculate Vajrayana is a secret branch of the ancient Zhang Zhung kingdom. With a large popularity of powerful disciples,  it is still regarded as a hostile school in Wulin world,  for acting fiercely and sinisterly.
 True Scriptures without words
