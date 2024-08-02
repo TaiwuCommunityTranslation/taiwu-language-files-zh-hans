@@ -41,5 +41,5 @@ Item Duplicated
 An attempt to add a non-stackable item {0} to container {1} was detected when the item already existed in another container {2}.
 The item is not held 
 While trying to remove non-stackable item {0} from container {1}, it was detected that the item had no previously recorded holder.
-事件系统异常
-事件已产生过变化，但并未实际进入，继续游戏可能会产生坏档。\n如出现本日志，请前往官网提交日志以协助排查问题。\nGuid: {0}=>{1}
+Event System Exception
+The event has changed, but it has not actually entered. Continuing the game may cause a corrupted file.\nIf this log appears, please go to the official website to submit the log to assist in troubleshooting.\nGuid: {0}=>{1}
