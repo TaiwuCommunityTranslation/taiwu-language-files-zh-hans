@@ -11,7 +11,7 @@ Determines complexity of combat AI. Affects the level of strength and strategy o
 <color=#FFE78FFF>Very Hard</color>
 <color=#FF5331FF>Deadly</color>
 Study Speed
-书籍的基础研读效率。\n<color=#yellow>（研读效率越高，月份更替时、主动研读时、实战领悟时所选择研读的书籍研读进度增加得越多。）</color>
+The basic efficiency of studying books.\n<color=#yellow>(The higher the study efficiency, the more study progress books will receive every month, during active study, and from Combat Insight.)</color>
 <color=#pinkyellow>Fast</color>
 <color=#9FE0DCFF>Normal</color>
 <color=#FFE78FFF>Slow</color>
@@ -23,7 +23,7 @@ Determines the success rate of connecting cells during skill breakthroughs.\n<co
 <color=#FFE78FFF>Difficult</color>
 <color=#FF5331FF>Lost</color>
 Cultivation
-周天运转的基础效率。\n<color=#yellow>（周天运转效率越高，月份更替时、主动周天时从内功中获取的内力与真气数量越多。）</color>
+The basic efficiency of Cultivation.\n<color=#yellow>(The higher the Cultivation efficiency, the more Internal Energy and True Qi will be received every month, and during active cultivation.)</color>
 <color=#pinkyellow>Fast</color>
 <color=#FF5331FF>Hard Work</color>
 Outlaws
