@@ -873,7 +873,7 @@ Spear of\nUniverse
 While performing this technique, user can advance up to 3 distance, and the consumption of Stamina and Footwork will be halved. The further the user advances, the more the power of this technique will increase. For every 0.2 distance the user advances, user will gain 3 points of "Break" and "Aegis" True Qi
 Spear of\nMountain-Shaking Beasts
 Switch E·Weapon
-When you start performing this technique, if the enemy does not use the "Aegis" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons can not be used temporarily.
+When you start performing this technique, if the enemy isn't using an "Aegis" technique, the enemy will immediately drop the weapon in their hands if they can, and switch to Bare Hands. Afterwards, all of the enemy's weapons will become temporarily unusable
 Lion Spear of\nMadness Dragon
 Transfer Reflect Damage
 When this technique's damage gets Reflected, user transfers all of the Reflect damage back to the enemy; After this technique reaches $0$0% completion, user gains 4 layers of this effect: When user isn't using a Footwork, the user can quickly accumulate power to advance 2 distance at once without consumption
@@ -2629,7 +2629,7 @@ When you start performing this technique, the more Constitution the user has con
 Reverse - Spear of\nUniverse
 While performing this technique, user can retreat up to 3 distance, and the consumption of Stamina and Footwork will be halved. The further the user retreats, the more the power of this technique will increase. For every 0.2 distance the user retreats, user will gain 3 points of "Break" and "Aegis" True Qi
 Reverse - Spear of\nMountain-Shaking Beasts
-When you start performing this technique, if the enemy does not use the "Quick" technique, the enemy will immediately drop the weapon in his hand and switch to empty hand, and all the enemy's weapons will be temporarily unusable.
+When you start performing this technique, if the enemy isn't using an "Quick" technique, the enemy will immediately drop the weapon in their hands if they can, and switch to Bare Hands. Afterwards, all of the enemy's weapons will become temporarily unusable
 Reverse - Lion Spear of\nMadness Dragon
 When this technique's damage gets Reflected, user transfers all of the Reflect damage back to the enemy; After this technique reaches $0$0% completion, user gains 4 layers of this effect: When user isn't using a Footwork, the user can quickly accumulate power to retreat 2 distance at once without consumption
 Reverse - Overlord Spear\nof Dragon
@@ -3786,8 +3786,8 @@ Heavenly Demon Breaks All
 When attacking an enemy with this power: If the enemy is performing a Heterodox training technique, the power of this power is greatly increased; if the enemy is not performing the "Break" technique, the power of this power is greatly increased; if the enemy is not within the range of this power, the enemy randomly appears 6 weaknesses
 Plastic Snow
 Stop enemy action
-When this divine power reaches $0$0% completion, Jiu Han gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
-When this divine power reaches $0$0% completion, user gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
+When this divine power reaches $0$0% completion, Jiu Han gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. The enemy will immediately drop the weapon in their hands if they can, and switch to Bare Hands. While this effect exists, enemy will not be able to switch to other weapons except for Bare Hands, Branch, and Stone.
+When this divine power reaches $0$0% completion, user gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. The enemy will immediately drop the weapon in their hands if they can, and switch to Bare Hands. While this effect exists, enemy will not be able to switch to other weapons except for Bare Hands, Branch, and Stone.
 Aoshin Yodai
 Continuously causes sealing of acupuncture points
 At the end of this divine power, Jiu Han gains 9 levels of this effect: 1 sealed point appears continuously on the enemy; for every sealed point on the enemy due to this effect, the number of levels of this effect is reduced by 1
@@ -3795,8 +3795,8 @@ Prayer for Sorrow
 Stop enemy attacks
 When attacking enemy with this divine power, enemy loses all of their "attack tokens", and cannot regain them for a short period of time
 Gel Hong
-When this divine power reaches $0$0% completion, Jiu Han gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
-When this divine power reaches $0$0% completion, user gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy cannot switch to other weapons except for Bare Hands, Branch, and Stone.
+When this divine power reaches $0$0% completion, Jiu Han gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. The enemy will immediately drop the weapon in their hands if they can, and switch to Bare Hands. While this effect exists, enemy will not be able to switch to other weapons except for Bare Hands, Branch, and Stone.
+When this divine power reaches $0$0% completion, user gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. The enemy will immediately drop the weapon in their hands if they can, and switch to Bare Hands. While this effect exists, enemy will not be able to switch to other weapons except for Bare Hands, Branch, and Stone.
 Dance of the Green God
 At the end of this divine power, Jiu Han gains 9 levels of this effect: 2 sealed points appear continuously on the enemy; for every sealed point on the enemy due to this effect, the number of levels of this effect is reduced by 1
 v. Death Song
@@ -4010,7 +4010,7 @@ Poison Seals Footwork
 If the character is simultaneously affected by Acritoxin, Necrotoxin, and Oneirotoxin markers, when Acritoxin is activated, the character's Footwork will be removed, and then, based on the number of Necrotoxin and Oneirotoxin markers, 1 random Quick skill of the character will be sealed for a long time. The more Acritoxin, Necrotoxin, and Oneirotoxin markers there is, the more times this toxin effect can be activated in battle.
 Mangled Tendon
 Poison Drops Weapon
-If the character is simultaneously affected by Acritoxin, Umbritoxin, and Necrotoxin markers, when Acritoxin and Umbritoxin activates, based on the number of Necrotoxin markers affecting the character, they have a chance to immediately drop their weapon and switch to bare hands, and they will be unable to use their weapon for a while. The more Acritoxin, Umbritoxin, and Necrotoxin markers there is, the more times this toxin effect can be activated in battle.
+If the character is simultaneously affected by Acritoxin, Umbritoxin, and Necrotoxin markers, when Acritoxin and Umbritoxin activates, based on the number of Necrotoxin markers affecting the character, they have a chance to immediately drop the weapon in their hands and switch to Bare Hands, and all of their weapons will become temporarily unusable. The more Acritoxin, Umbritoxin, and Necrotoxin markers there is, the more times this toxin effect can be activated in battle.
 Ruptured Organs
 Improve Pyrotoxin Strength
 If the character is simultaneously affected by Acritoxin, Necrotoxin, and Cryotoxin markers, when Acritoxin and Cryotoxin activates, based on the number of Necrotoxin markers, generate extra Pyrotoxin, and accelerate it's activation. The more Acritoxin, Necrotoxin, and Cryotoxin markers there is, the more times this toxin effect can be activated in battle.
