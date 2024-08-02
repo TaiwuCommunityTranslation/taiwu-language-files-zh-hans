@@ -1699,7 +1699,7 @@ Dragon Imitating Painting
 
 The ancient people, blood into a painting, the elephant dragon on it, to show the gods...
 
-<color=#brightblue>When using a Glove weapon to break enemy's Deflect, the enemy will immediately drop their weapon and switch to Bare Hands; The closer the user is to the enemy, the higher the damage dealt by the user's Fist techniques will be.</color>
+<color=#brightblue>When using a Glove weapon to break enemy's Deflect, the enemy will immediately drop their weapon if they can, and switch to Bare Hands; The closer the user is to the enemy, the higher the damage dealt by the user's Fist techniques will be.</color>
 Mind's Eye Tattered Scroll
 
 What is revealed: near, far, square, round, is the essence of gain and loss; what is seen by the heart: qi, pulse, essence, spirit, is the basis of life and death...
