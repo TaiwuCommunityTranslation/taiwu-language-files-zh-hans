@@ -47,7 +47,7 @@ Protection
 
 
 Shake
-<color=#brightblue>When a weapon placed in here breaks enemy's Deflect, they will immediately drop their weapon and switch to Bare Hands.</color>
+<color=#brightblue>When a weapon placed in here breaks enemy's Deflect, they will immediately drop their weapon if they can, and switch to Bare Hands.</color>
 Burst
 <color=#brightblue>The damage of actively cast Fist skills placed in here will be increased the closer you are to the enemy,</color> <color=#brightred>however those skills will be blocked until the end of a battle after 1 use</color>
 Counter
