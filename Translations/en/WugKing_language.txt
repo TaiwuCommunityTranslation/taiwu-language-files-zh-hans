@@ -22,8 +22,8 @@ Sealing chance of the host's techniques and weapons will be additionally increas
 Sealing chance of the host's techniques and weapons will be additionally decreased.
 The host's Internal Energy will not be restored every month, and will instead be greatly depleted.
 It certainly will be born when <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color> consumption reaches 40%
-宿主由洗浊、神足、入化赋予的精纯境界效果中的精纯压制效果降低。
-宿主由洗浊、神足、入化赋予的精纯境界效果中的精纯压制效果提高。
+The pure essence suppression effects of the host's Cleanse Impurities, Divine Step, and Naturalization pure essence realms will be reduced.
+The pure essence suppression effects of the host's Cleanse Impurities, Divine Step, and Naturalization pure essence realms will be increased.
 The Golden Silkworm Gu King will devour 1 random Mature Gu in the host's body every month to apply a large amount of Poisons to the host
 It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color> consumption reaches 40%
 The positive effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's positive "Traits" will temporarily change to negative effects.
