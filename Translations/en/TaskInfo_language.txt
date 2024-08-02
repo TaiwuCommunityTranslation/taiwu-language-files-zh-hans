@@ -346,8 +346,8 @@ Wait for <color=#orange>「Zi Wuxiao」</color>
 Now that Wuxiao girl has returned to the present world, where is she now...
 
 Servants Resurrected
-Think carefully about the <color=#orange>Countermeasures</color> you can take
-Think of a method to deal with <color=#orange>「XiangShu Servants」</color>.
+Think about how to deal with it in the <color=#orange>Taiwu Village</color>
+Stay in the <color=#orange>Taiwu Village</color> and carefully think about how to deal with "Servants of Xiangshu".
 Now that the Servants of XiangShu have appeared...the world is in chaos...I'm afraid something strange will happen...
 
 Exterminate the Servants
@@ -1066,7 +1066,7 @@ I've obtained the Buddhist scriptures as told by the Old Monk, i wonder what tea
 
 Reading Scriptures
 <color=#orange>Study</color> Buddhist Classics
-研读书籍，将<color=#orange>{0}</color>研读<color=#orange>至少三篇</color>；若已研读完毕，则可<color=#orange>静待</color>老僧梦中机缘。
+To finish studying <color=#orange>{0}</color>, you have to study <color=#orange>at least 3 pages of it</color>; If you've already done so, just <color=#orange>wait</color> to meet the Old Monk in your dreams.
 The Dharma is vast and boundless, I should follow the Old Monk's instructions and fully concentrate on studying it...
 
 Shaolin's Pagodas
@@ -1365,177 +1365,177 @@ Go to the <color=#orange>vicinity of the Five Immortals Cult</color> to examine
 Go to the <color=#orange>vicinity of the Five Immortals Cult</color> to examine.
 This girl is deeply knowledgeable about Gu techniques, but she seems to have no malicious intentions. I wonder what her intentions are...
 
-去往然山
-前往<color=#orange>然山派</color>
-前往<color=#orange>然山派</color>，探明‘人之龙门’与‘三宗比武’之事。
-然山既负‘有问必答，有求必应’之名，或能解答个中疑问……
+Visit Ranshan
+Visit <color=#orange>Ranshan Sect</color>
+Visit <color=#orange>Ranshan Sect</color> to verify the rumors about the "Dragon Gate of Humans" and the "Three Clans' Competition".
+Since Ranshan has the reputation of "answering every question, and fulfilling every request", they might be able to answer my questions...
 
-青琅一梦
-前往奇遇<color=#orange>「青琅一梦」</color>
-前往奇遇<color=#orange>「青琅一梦」</color>。
-不知此番青琅主来信相邀，是何因由……
+Dream of Qinglang
+Enter the <color=#orange>「Dream of Qinglang」</color> adventure
+Enter the <color=#orange>「Dream of Qinglang」</color> adventure.
+I don't know why Lord Qinglang sent me this invitation...
 
 Reflect and Ruminate
-<color=#orange>留在然山派</color>理清雾中所见
-<color=#orange>留在然山派</color>理清雾中所见之事。
-青琅阁之事当真是玄之又玄，且容我思细细考量……
+<color=#orange>Stay in the Ranshan Sect</color> to make sense of what you see in the fog
+<color=#orange>Stay in the Ranshan Sect</color> to make sense of what you see in the fog.
+The matters concerning Qinglang Pavilion are truly like a mystery within a mystery, I really should ponder about it carefully...
 
-红尘炼心
-静待<color=#orange>{0}个月</color>后返回然山
-不妨先行离开然山，继续游历，静待<color=#orange>{0}个月</color>后再作答复……
-再作思量已是无益，不妨暂且搁置然山之事……
+Worldly Affairs Refine Mind
+Wait for <color=#orange>{0} months</color> before returning to Ranshan
+I might as well leave Ranshan, travel around, and wait for <color=#orange>{0} months</color> before replying...
+It is useless to keep thinking about it, i might as well put the matters concerning Ranshan aside for a while...
 
-前往奇遇<color=#orange>「三宗比武」</color>
-前往奇遇<color=#orange>「三宗比武」</color>，若到期未能参加奇遇，然山机缘将会消逝无存……
-然山三宗比武已经举办，不妨前去一探……
+Enter the <color=#orange>「Three Clans' Competition」</color> adventure
+Enter the <color=#orange>「Three Clans' Competition」</color> adventure. If you fail to participate in the adventure, Ranshan's opportunity will be gone...
+The martial arts competition among the three clans of Ranshan has already started, why not go check it out...
 
-无问仙踪
-<color=#orange>静待</color>然山之事了结
-然山诸事尘埃落定，<color=#orange>静待</color>其了结。
-然山已然了结，无须再作他想……
+No Questions about Immortal Traces
+<color=#orange>Wait</color> for the matters concerning Ranshan to settle
+Matters concerning Ranshan has been sorted out, just <color=#orange>wait</color> for them to settle.
+The matters concerning Ranshan have been settled, there's no need for me to think about them anymore...
 
-Clear Brilliant Immortal Pavilion
-<color=#orange>进入青琅阁</color>探查弟子入魔缘由
-<color=#orange>进入青琅阁</color>，查清三宗比武弟子入魔缘由。
-青琅阁，我来了……
+Qinglang Immortal Pavilion
+<color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples got possessed
+<color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples that participated in the Three Clans' Competition got possessed.
+Qinglang Pavilion, here I come...
 
-仙途渺渺
-三宗比武结束，然山之事自此了结
+Road to Immortality is Indistinct
+The Three Clans' Competition is over, the matter concerning Ranshan has been settled
 
-探查疯病
-前往<color=#orange>百花谷</color>了解怪病
-欲探怪病之事，须得入<color=#orange>百花谷</color>一叙。
-此事甚奇，还是先去百花谷中了解情况……
+Examine the Madness Disease
+Visit <color=#orange>Hundred Flowers Valley</color> to understand the strange disease
+If you want to find out about the strange disease, you must go to the <color=#orange>Hundred Flowers Valley</color> for a chat.
+This matter is very strange, I should go to the Hundred Flowers Valley to understand the situation...
 
-乡村怪病
-前往奇遇<color=#orange>「乡村怪病」</color>
-前往奇遇<color=#orange>「乡村怪病」</color>。
-也不知此村之中，潜藏何等凶险……
+Village's Strange Disease
+Enter the <color=#orange>「Village's Strange Disease」</color> adventure
+Enter the <color=#orange>「Village's Strange Disease」</color> adventure.
+I don't know what kind of dangers are hidden within this village...
 
-寻医问诊
-前往<color=#orange>百花谷</color>询问诊治之事
-前往<color=#orange>百花谷</color>询问诊治之事。
-百花谷乃医家翘楚，定能帮我治愈此症……
+Seeking Medical Advice
+Visit <color=#orange>Hundred Flowers Valley</color> to inquire about diagnosing and treating
+Visit <color=#orange>Hundred Flowers Valley</color> to inquire about diagnosing and treating.
+Hundred Flowers Valley is full of outstanding doctors and physicians, they will definitely be able to help me with curing this disease...
 
-百花祖师
-<color=#orange>静待</color>二位祖师归来
-百花谷二位祖师云游四方，不在谷中，<color=#orange>静待</color>二人归来。
-也不知二位祖师何时才能归来……
+Hundred Flowers Founders
+<color=#orange>Wait</color> for two founders to return
+The two founders of Hundred Flowers Valley are traveling around and are not in the valley. <color=#orange>Wait</color> for their return.
+I don't know when the two founders will be able to return...
 
-静待无忧
-<color=#orange>静待</color>玄无忧归来
-<color=#orange>静待</color>玄无忧归来。
-如今只得静心等待玄无忧前辈归来……
+Wait for Wuyou
+<color=#orange>Wait</color> for Xuan Wuyou's return
+<color=#orange>Wait</color> for Xuan Wuyou's return.
+Now I can only patiently wait for Senior Xuan Wuyou to return...
 
-跟随祖师
-前往<color=#orange>{0}</color>，寻找白无恙与玄无忧两位前辈。
-此村中究竟潜藏何事，不如速速前往寻找玄白二位前辈……
+Follow Founders
+Go to <color=#orange>{0}</color> to find Seniors Bai Wuyang and Xuan Wuyou.
+What exactly is hidden in this village? It's better to go and find Senior Xuan and Senior Bai as soon as possible...
 
-等待消息
-<color=#orange>等待</color>百花祖师消息
-<color=#orange>等待</color>白无恙与玄无忧两位前辈的消息。
-二位前辈执念难消，此刻究竟身在何方……
+Wait for News
+<color=#orange>Wait</color> for news about founders of Hundred Flowers
+<color=#orange>Wait</color> for news from Seniors Bai Wuyang and Xuan Wuyou.
+The two Seniors are obsessed with eliminating this disaster, but where are they right now...
 
-杀人夺心
+Heart Ripping
 
-前往<color=#orange>{0}</color>查问当地居民及前来协助的百花弟子<color=#orange>杀人夺心</color>之事。
-
-
-设伏元凶
-
-携带一位内力属性为<color=#orange>{0}</color>的成年同道，并在<color=#orange>{1}</color>停留过月，等待杀人夺心元凶现身。仍需携带{2}位…
-
-已携带一位内力属性为<color=#orange>{0}</color>的成年同道，可在<color=#orange>{1}</color>停留过月，等待杀人夺心元凶现身。
-毁人神智
-
-前往<color=#orange>{0}</color>查问当地居民及前来协助的百花弟子<color=#orange>毁人神智</color>之事。
+Go to <color=#orange>{0}</color> to inquire local residents and disciples of Hundred Flowers Valley who came to provide assistance about the <color=#orange>Heart Ripping</color> incident.
 
 
+Ambushing Culprit
 
-携带一位内力属性为<color=#orange>{0}</color>的成年同道，并在<color=#orange>{1}</color>停留过月，等待毁人神智元凶现身。仍需携带{2}位…
+Bring an adult teammate with a <color=#orange>{0}</color> internal element, and stay in <color=#orange>{1}</color> for a month, waiting for the Heart Ripping culprit to show up. You still have to bring {2}...
 
-已携带一位内力属性为<color=#orange>{0}</color>的成年同道，可在<color=#orange>{1}</color>停留过月，等待毁人神智元凶现身。
-玄白回村
-携白鹿玄鸮<color=#orange>返回太吾村</color>
-二位前辈既不愿回百花谷，只得与两位前辈先回村中……
+I have brought an adult teammate with a <color=#orange>{0}</color> internal element. I can stay in <color=#orange>{1}</color> for a month, waiting for the Heart Ripping culprit to show up.
+Mind Destroying
 
-阴阳调和
-<color=#orange>化解</color>两位祖师间的矛盾
-白无恙与玄无忧两位前辈之间仍有嫌隙，或可在太吾村<color=#orange>停留</color>，寻得契机<color=#orange>化解</color>其矛盾，至阴阳调和。
-“阴平阳秘，精神乃治；阴阳离决，精气乃绝……”
-
-阳性药材
-
-与<color=#orange>白鹿</color>交谈，找寻其喜爱的食物。
+Go to <color=#orange>{0}</color> to inquire local residents and disciples of Hundred Flowers Valley who came to provide assistance about the <color=#orange>Mind Destroying</color> incident.
 
 
-亲近白鹿
 
-使用<color=#orange>阳性药材</color>喂养白鹿，与其好感达到亲密后，<color=#orange>等待契机</color>化解矛盾，调和阴阳。
+Bring an adult teammate with a <color=#orange>{0}</color> internal element, and stay in <color=#orange>{1}</color> for a month, waiting for the Mind Destroying culprit to show up. You still have to bring {2}...
 
+I have brought an adult teammate with a <color=#orange>{0}</color> internal element. I can stay in <color=#orange>{1}</color> for a month, waiting for the Mind Destroying culprit to show up.
+Return Bai and Xuan to Village
+Bring White Deer and Black Owl <color=#orange>back to the Taiwu Village</color>
+Since the two seniors do not wish to return to the Hundred Flowers Valley, I have no choice but to bring them back to the village first...
 
-巨鹰袭击
+Yin Yang Harmonious
+<color=#orange>Resolve</color> conflict between two founders
+Senior Bai Wuyang and Senior Xuan Wuyou still have some unresolved issues. Perhaps they could <color=#orange>stay</color> in the Taiwu Village, seeking an opportunity to <color=#orange>resolve</color> their conflicts and achieve harmony between yin and yang.
+"When yin and yang are balanced, the essence and spirit will be in a good condition; When yin and yang are separated, the essence and breath will be exhausted..."
 
-近日巨鹰频繁袭击，玄鸮深受其扰，然白鹿或可相助，在太吾村<color=#orange>等待契机</color>化解其矛盾。
+Yang Herbs
 
-
-阴性药材
-
-与<color=#orange>玄鸮</color>交谈，找寻其喜爱的食物。
-
-
-亲近玄鸮
-
-使用<color=#orange>阳性药材</color>喂养玄鸮，与其好感达到亲密后，<color=#orange>等待契机</color>化解矛盾，调和阴阳。
+Talk to the <color=#orange>White Deer</color> and find out its favorite food.
 
 
-野兽嚎叫
+Get Close to the White Deer
 
-近日野兽夜夜嚎叫，白鹿深受其扰，然玄鸮或可相助，在太吾村<color=#orange>等待契机</color>化解其矛盾。
-
-
-教导华居
-
-<color=#orange>华居</color>为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往此人所在之处，对其指点一二……
+Use <color=#orange>Yang Herbs</color> to feed the White Deer. After reaching "Intimate" Favor with it, <color=#orange>wait for an opportunity</color> to resolve the conflict and reconcile yin and yang.
 
 
-教导玄质
+Giant Eagles Attack
 
-<color=#orange>玄质</color>为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往此人所在之处，对其指点一二……
+Lately, giant eagles have been frequently attacking, causing distress to the Black Owl. However, White Deer might be able to help resolve this issue. <color=#orange>Wait for an opportunity</color> in the Taiwu Village to resolve their conflict...
 
 
-教导迎娇
+Yin Herbs
 
-<color=#orange>迎娇</color>为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往此人所在之处，对其指点一二……
+Talk to the <color=#orange>Black Owl</color> and find out its favorite food.
+
+
+Get Close to the Black Owl
+
+Use <color=#orange>Yin Herbs</color> to feed the Black Owl. After reaching "Intimate" Favor with it, <color=#orange>wait for an opportunity</color> to resolve the conflict and reconcile yin and yang.
+
+
+Beasts Howling
+
+Lately, wild beasts have been howling during the night, causing distress to the White Deer. However, Black Owl might be able to help resolve this issue. <color=#orange>Wait for an opportunity</color> in the Taiwu Village to resolve their conflict...
+
+
+Guidance to Huaju
+
+<color=#orange>Huaju</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
+
+
+Guidance to Xuanzhi
+
+<color=#orange>Xuanzhi</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
+
+
+Guidance to Yingjiao
+
+<color=#orange>Yingjiao</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
 
 
 Return to Ranshan
-返回<color=#orange>「然山派」</color>答复三宗比武之事
-三宗比武即将开始，返回<color=#orange>「然山派」</color>给青琅主一个答复。
-距离上次然山来信相邀，已是好些时日，应当返回然山给青琅主一个答复……
+Return to <color=#orange>「Ranshan Sect」</color> to give a reply about Three Clan's Competition
+The Three Clans' Competition is about to begin. Return to the <color=#orange>「Ranshan Sect」</color> to give Lord Qinglang a reply.
+It has been quite a while since the last invitation from Ranshan; it's time to return to Ranshan and give an answer to Lord Qinglang…
 
-等待比武
-于然山派<color=#orange>静待</color>三宗比武
-于然山派<color=#orange>静待</color>三宗比武开始。
-种种疑问，或可于三宗比武上得到解答……
+Wait for Competition
+Go to Ranshan Sect and <color=#orange>wait</color> for the Three Clans' Competition
+Go to Ranshan Sect and <color=#orange>wait</color> for Three Clans' Competition to begin.
+I have many questions, maybe during Three Clans' Competition I'll be able to get some answers...
 
-留守太吾
-<color=#orange>静待</color>复生之人前来
-复生之人虽不知踪迹，但终将返回太吾村，需得准备万全，<color=#orange>静待</color>其前来。
-黑气弥漫，百花弟子已前仆后继往各处治疗……
+Protect Taiwu Village
+<color=#orange>Wait</color> for Resurrected Person's arrival
+The Resurrected Person, though their whereabouts are unknown, will eventually return to Taiwu Village. Prepare everything thoroughly and <color=#orange>wait</color> for them to arrive.
+Black mist envelops the area; The Hundred Flowers Valley disciples have already been moving from place to place, treating those affected…
 
-谨慎留守
-<color=#orange>静待</color>复生之人归来
-黑气弥漫，想来复生之人已在附近，准备万全，在太吾村<color=#orange>静待</color>其归来。
-黑气弥漫，想来复生之人已在附近……
+Careful Protection
+<color=#orange>Wait</color> for Resurrected Person's return
+The black mist is spreading. It seems that the Resurrected Person is nearby. Prepare everything thoroughly and <color=#orange>wait</color> in the Taiwu Village for their return.
+Black mist fills the air, suggesting that the Resurrected Person is indeed close by…
 
 Resurrected Person
-前往奇遇<color=#orange>复生之人</color>
-前往奇遇<color=#orange>复生之人</color>。
-复生之人已现身，需得小心……
+Enter <color=#orange>Resurrected Person</color> adventure
+Enter <color=#orange>Resurrected Person</color> adventure.
+The Resurrected Person has appeared, i should be careful...
 
-莫问前后
-<color=#orange>静待</color>百花之事了结
-<color=#orange>静待</color>百花之事了结。
-复生之人此事已了，此心一如从前……
+Don't Ask Around
+<color=#orange>Wait</color> for the matters concerning Hundred Flowers Valley to settle
+<color=#orange>Wait</color> for the matters concerning Hundred Flowers Valley to settle.
+The Resurrected Person has concluded their matter here, and their heart remains as it was before…
 
