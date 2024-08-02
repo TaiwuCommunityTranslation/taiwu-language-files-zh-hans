@@ -1,6 +1,6 @@
 根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，人物受到一定数量的<color=#fataldamage>重创</color>标记。
 人物的<color=#agile>身法</color>将被消除，且根据人物所中的<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记数量，人物的1个随机<color=#agile>轻灵</color>身法将长时间被封禁。
-根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，人物有一定几率立即抛下手中的兵器切换至空手，且敌人所有的兵器均暂时无法使用。
+根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，若人物可以抛下兵器，人物有一定几率立即抛下手中的兵器切换至空手，且敌人所有的兵器均暂时无法使用。
 根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，额外衍生多次<color=#redpoison>赤毒</color>，且加快人物下一次<color=#redpoison>赤毒</color>的发作速度。
 根据人物所中的<color=#rottenpoison>腐毒</color>、<color=#illusorypoison>幻毒</color>标记数量，人物的1个随机<color=#attack>摧破</color>功法将长时间被封禁。
 根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，额外衍生多次<color=#hotpoison>烈毒</color>，且加快人物下一次<color=#hotpoison>烈毒</color>的发作速度。
