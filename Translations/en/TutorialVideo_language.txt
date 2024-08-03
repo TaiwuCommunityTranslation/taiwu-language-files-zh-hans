@@ -96,33 +96,33 @@ Cultivation
 Opening the Cultivation menu
 Selecting Inner Arts
 Activating Cultivation
-点击<color=#orange>周天运转</color>按钮进入周天运转界面
+Click on the <color=#orange>Cultivation</color> button to enter the Cultivation menu
 Click on the Inner Art that you want to Cultivate
-<color=#orange>周天运转</color>中激活的内功功法将会在月份更替时自动运转
+The Inner Arts put into <color=#orange>Cultivation</color> will be automatically Cultivated every month
 Taiwu Practice - Part 5
 Cultivation Progress
 Dantian 
-通过尚未到达内力增长上限的内功激活周天运转，月份更替后人物内力会得到一定程度的增长
+By selecting an Inner Art that hasn't been fully Cultivated yet, your Internal Energy will be increased by a certain amount every month.
 Viewing internal energy
 Activating Study
 Going to the Study menu
 Select Books
-点击<color=#orange>研读书籍</color>按钮进入研读书籍界面
-点选需要研读的书籍，书籍每1篇都有单独的研读进度，当该篇研读进度达到100%时，此书篇研读完毕
+Click on the <color=#orange>Study</color> button to enter the Study menu
+Click on a book you want to Study. Each page of a book has a separate study progress. When the study progress of a page reaches 100%, the study of that page will be completed.
 Book that's been selected in the <color=#orange>Study</color> menu will be automatically read on the start of every month.
 Taiwu Practice - Part 6
 Study books
 Sudden Insight
 Sudden Insight pop-up
 Accessing Sudden Insight menu
-<color=#orange>月份更替</color>后，有几率触发<color=#orange>灵光一闪</color>，这种情况会在<color=#orange>事件回顾</color>中进行提示
-点击<color=#orange>研读书籍</color>按钮，然后点击<color=#orange>灵光一闪</color>按钮进入灵光一闪界面
+<color=#orange>Every month</color> you have a chance to trigger <color=#orange>Sudden Insight</color>. You will be notified about it in the <color=#orange>Event Review</color> menu.
+Click on the <color=#orange>Study</color> button, and press the <color=#orange>Sudden Insight</color> button to enter the Sudden Insight menu.
 Study Strategies
 Using Sudden Insight
 Exiting Sudden Insight
 There are <color=#orange>Study Strategies</color> on the top right of the Sudden Insight menu. By using <color=#orange>Study Strategies</color> you can greatly improve the speed of reading books. Using <color=#orange>Study Strategies</color> requires consuming a certain amount of <color=#orange>Comprehension Stat</color> 
-使用<color=#orange>研读策略</color>后，书篇研读进度会即时发生变化，主动选择其他书页或一页中填满研读策略后，可进入下一书篇
-当最后一篇选择策略完毕后，关闭灵光一闪界面即视为结束灵光一闪
+After using <color=#orange>Study Strategies</color>, the progress of the book page will change immediately. After actively selecting another page or filling all Study Strategies on a page, you will go to the next page.
+After completing selecting Study Strategies on the last page of the book, closing the Sudden Insight menu will end the Sudden Insight.
 Advance Sudden Insight
 Practicing skills
 Entering Practice menu
@@ -132,9 +132,9 @@ Click on (or hold) <color=#orange>Practice</color>, to increase your practice pe
 Advance skill practice
 Combat Skill Breakthrough
 Breakthrough Preparation
-选择突破字诀
-突破盘中可选心法字诀对应着书籍中的6个书篇：<color=#white>白色（总纲字诀）</color>对应总纲，<color=#red>红色（逆练字诀）</color>对应逆练书篇，<color=#darkcyan>青色（正练字诀）</color>对应正练书篇
-当书籍中的书篇研读达到100%，突破准备时即可选择对应的心法字诀，每1组只能选择1项心法字诀，选择完6个心法字诀方可进行突破
+Selecting Breakthrough Pages
+A breakthrough requires you to have 6 pages read: 1 <color=#white>White</color> page that is a general outline, and 5 pages of any combination of <color=#red>Red</color> (Heterodox) or <color=#darkcyan>Blue</color> (Orthodox) pages
+When page's study progress reaches 100% in a book, you will be able to select that page before the breakthrough of that technique. You have to choose 1 general outline page (White), and 5 Orthodox/Heterodox pages (Blue/Red) for a total of 6 pages before being able to breakthrough.
 Advance skill breakthrough
 Breakthrough Rules
 Breakthrough Success
