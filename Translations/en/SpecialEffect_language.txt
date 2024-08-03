@@ -873,7 +873,7 @@ Spear of\nUniverse
 While performing this technique, user can advance up to 3 distance, and the consumption of Stamina and Footwork will be halved. The further the user advances, the more the power of this technique will increase. For every 0.2 distance the user advances, user will gain 3 points of "Break" and "Aegis" True Qi
 Spear of\nMountain-Shaking Beasts
 Switch E·Weapon
-When you start performing this technique, if the enemy isn't using an "Aegis" technique, the enemy will immediately drop the weapon in their hands if they can, and switch to Bare Hands. Afterwards, all of the enemy's weapons will become temporarily unusable
+When you start performing this technique, if the enemy isn't using an "Aegis" technique, the enemy will immediately drop their currently held Weapon if they can, and switch to Bare Hands. Afterwards, they will temporarily be unable to switch their weapons
 Lion Spear of\nMadness Dragon
 Transfer Reflect Damage
 When this technique's damage gets Reflected, user transfers all of the Reflect damage back to the enemy; After this technique reaches $0$0% completion, user gains 4 layers of this effect: When user isn't using a Footwork, the user can quickly accumulate power to advance 2 distance at once without consumption
