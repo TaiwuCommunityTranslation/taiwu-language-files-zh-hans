@@ -2629,7 +2629,7 @@ When you start performing this technique, the more Constitution the user has con
 Reverse - Spear of\nUniverse
 While performing this technique, user can retreat up to 3 distance, and the consumption of Stamina and Footwork will be halved. The further the user retreats, the more the power of this technique will increase. For every 0.2 distance the user retreats, user will gain 3 points of "Break" and "Aegis" True Qi
 Reverse - Spear of\nMountain-Shaking Beasts
-When you start performing this technique, if the enemy isn't using an "Quick" technique, the enemy will immediately drop the weapon in their hands if they can, and switch to Bare Hands. Afterwards, all of the enemy's weapons will become temporarily unusable
+When you start performing this technique, if the enemy isn't using an "Quick" technique, the enemy will immediately drop their currently held Weapon if they can, and switch to Bare Hands. Afterwards, they will temporarily be unable to switch their weapons
 Reverse - Lion Spear of\nMadness Dragon
 When this technique's damage gets Reflected, user transfers all of the Reflect damage back to the enemy; After this technique reaches $0$0% completion, user gains 4 layers of this effect: When user isn't using a Footwork, the user can quickly accumulate power to retreat 2 distance at once without consumption
 Reverse - Overlord Spear\nof Dragon
