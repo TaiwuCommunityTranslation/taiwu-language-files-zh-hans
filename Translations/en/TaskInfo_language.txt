@@ -1367,7 +1367,7 @@ This girl is deeply knowledgeable about Gu techniques, but she seems to have no 
 
 Visit Ranshan
 Visit <color=#orange>Ranshan Sect</color>
-Visit <color=#orange>Ranshan Sect</color> to verify the rumors about the "Dragon Gate of Humans" and the "Three Clans' Competition".
+Visit <color=#orange>Ranshan Sect</color> to verify the rumors about the "Dragon Gate of Humans" and the "Three Sects Competition".
 Since Ranshan has the reputation of "answering every question, and fulfilling every request", they might be able to answer my questions...
 
 Dream of Qinglang
@@ -1385,8 +1385,8 @@ Wait for <color=#orange>{0} months</color> before returning to Ranshan
 I might as well leave Ranshan, travel around, and wait for <color=#orange>{0} months</color> before replying...
 It is useless to keep thinking about it, i might as well put the matters concerning Ranshan aside for a while...
 
-Enter the <color=#orange>「Three Clans' Competition」</color> adventure
-Enter the <color=#orange>「Three Clans' Competition」</color> adventure. If you fail to participate in the adventure, Ranshan's opportunity will be gone...
+Enter the <color=#orange>「Three Sects Competition」</color> adventure
+Enter the <color=#orange>「Three Sects Competition」</color> adventure. If you fail to participate in the adventure, Ranshan's opportunity will be gone...
 The martial arts competition among the three clans of Ranshan has already started, why not go check it out...
 
 No Questions about Immortal Traces
@@ -1396,11 +1396,11 @@ The matters concerning Ranshan have been settled, there's no need for me to thin
 
 Qinglang Immortal Pavilion
 <color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples got possessed
-<color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples that participated in the Three Clans' Competition got possessed.
+<color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples that participated in the Three Sects Competition got possessed.
 Qinglang Pavilion, here I come...
 
 Road to Immortality is Indistinct
-The Three Clans' Competition is over, the matter concerning Ranshan has been settled
+The Three Sects Competition is over, the matter concerning Ranshan has been settled
 
 Examine the Madness Disease
 Visit <color=#orange>Hundred Flowers Valley</color> to understand the strange disease
@@ -1511,13 +1511,13 @@ Guidance to Yingjiao
 
 Return to Ranshan
 Return to <color=#orange>「Ranshan Sect」</color> to give a reply about Three Clan's Competition
-The Three Clans' Competition is about to begin. Return to the <color=#orange>「Ranshan Sect」</color> to give Lord Qinglang a reply.
+The Three Sects Competition is about to begin. Return to the <color=#orange>「Ranshan Sect」</color> to give Lord Qinglang a reply.
 It has been quite a while since the last invitation from Ranshan; it's time to return to Ranshan and give an answer to Lord Qinglang…
 
 Wait for Competition
-Go to Ranshan Sect and <color=#orange>wait</color> for the Three Clans' Competition
-Go to Ranshan Sect and <color=#orange>wait</color> for Three Clans' Competition to begin.
-I have many questions, maybe during Three Clans' Competition I'll be able to get some answers...
+Go to Ranshan Sect and <color=#orange>wait</color> for the Three Sects Competition
+Go to Ranshan Sect and <color=#orange>wait</color> for Three Sects Competition to begin.
+I have many questions, maybe during Three Sects Competition I'll be able to get some answers...
 
 Protect Taiwu Village
 <color=#orange>Wait</color> for Resurrected Person's arrival
