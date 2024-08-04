@@ -1,30 +1,30 @@
 Martial by Zen
-Shaolin School martial arts are based on <color=#pinkyellow> "Buddhism" </color>, so that when you practice or break through Shaolin School martial arts, you can use the qualifications and attainments of <color=#pinkyellow> "Buddhism" </color> to replace the qualifications or attainments required for other lower practices or breakthroughs.
-True Original
-峨眉派武学遵循正传真法，\n峨眉派秘籍正练篇章的研读效率<color=#brightblue>提高50%</color>；逆练篇章的研读效率<color=#brightred>降低50%</color>。
-Martial with Medical
- <color=#pinkyellow> </color> When you practice or break through the Hundred Flowers Valley Martial Arts, you can use the qualifications and attainments of <color=#pinkyellow> "Medicine" </color> to replace the qualifications or attainments required for other lesser practices or breakthroughs.
-Natural Law
-The Wudang School martial arts are based on <color=#pinkyellow> "Taoism" </color>. When you practice or break through the Wudang School martial arts, you can use the qualifications and attainments of <color=#pinkyellow> "Daoism" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
-Justice and Bright
-元山派武学正大光明，\n若修习者的处世立场为<color=#behaviortype_just>刚正</color>或<color=#behaviortype_kind>仁善</color>，元山派秘籍的研读效率<color=#brightblue>提高50%</color>；若修习者的处世立场为<color=#behaviortype_rebel>叛逆</color>或<color=#behaviortype_egoistic>唯我</color>，元山派秘籍的研读效率<color=#brightred>降低50%</color>。
-Peremptory Practice
-狮相门武学不擅文字记录，\n狮相门秘籍的研读效率<color=#brightred>降低50%</color>；以实战的方式领悟狮相门秘籍时<color=#brightblue>提高200%</color>研读效率。
-Mystery Obscure
-然山派武学口诀咒令繁多，\n然山派秘籍的研读效率<color=#brightblue>提高100%</color>；以实战的方式领悟然山派秘籍时<color=#brightred>降低80%</color>研读效率。
-Goddess Beauty
-璇女派以<color=#famale>女子</color>为尊，\n<color=#famale>女子</color>研读璇女派秘籍的效率<color=#brightblue>提高50%</color>；以实战的方式领悟璇女派秘籍时<color=#brightblue>提高200%</color>研读效率。<color=#male>男子</color>研读璇女派秘籍的效率<color=#brightred>降低50%</color>；以实战的方式领悟璇女派秘籍时<color=#brightred>降低80%</color>研读效率。
-Great Miracle
-When you practice or break through the martial arts of Sword Manor, you can use the qualifications and attainments of <color=#pinkyellow> "Smithing" </color> or <color=#pinkyellow> "Carpentry" </color> or <color=#pinkyellow> "Gemcutting" </color> or <color=#pinkyellow> "Weaving" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
-From Hard to Easy
-The martial arts of the KongSang Sect are easy before they are difficult. Early chapters will be <color=#brightblue>more efficient</color>. Later chapters will be <color=#brightred>less efficient</color>.
-Vidya-Raja's Spell
-金刚宗以<color=#male>男子</color>为尊，\n<color=#male>男子</color>研读金刚宗秘籍的效率<color=#brightblue>提高50%</color>；以实战的方式领悟金刚宗秘籍时<color=#brightblue>提高200%</color>研读效率。<color=#famale>女子</color>研读金刚宗秘籍的效率<color=#brightred>降低50%</color>；以实战的方式领悟金刚宗秘籍时<color=#brightred>降低80%</color>研读效率。
-Poisonous Soul
-The Five Immortals martial arts are based on <color=#pinkyellow> "Toxicology" </color>. When you practice or break through the Five Immortals martial arts, you can use the qualification and attainment of <color=#pinkyellow> "Toxicology" </color> to replace other lower qualifications or attainments required for practice or breakthrough.
-Whimsy Path
-界青门武学讲究另辟蹊径，\n界青门秘籍逆练篇章的研读效率<color=#brightblue>提高50%</color>；正练篇章的研读效率<color=#brightred>降低50%</color>。
-From Easy to Hard
-The martial arts of the Fulong Altar are easy before they are difficult. Early chapters will be <color=#brightred>less efficient</color>. Later chapters will be <color=#brightblue>more efficient</color>.
+Shaolin's martial arts are based on <color=#pinkyellow>「Buddhism」</color>.\nDuring Practice and Breakthrough of Shaolin martial arts, you can use <color=#pinkyellow>「Buddhism」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+Following Traditions
+Emei's martial arts follow orthodox teachings.\nThe Study Efficiency of Orthodox pages is <color=#brightblue>increased by 50%</color>；The Study Efficiency of Heterodox pages is <color=#brightred>decreased by 50%</color>.
+Common Origin
+Hundred Flowers Valley's martial arts are based on <color=#pinkyellow>「Medicine」</color>.\nDuring Practice and Breakthrough of Hundred Flowers Valley's martial arts, you can use <color=#pinkyellow>「Medicine」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+Dao of Nature
+Wudang Sect's martial arts are based on <color=#pinkyellow>「Taoism」</color>.\nDuring Practice and Breakthrough of Wudang Sect's martial arts, you can use <color=#pinkyellow>「Taoism」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+Just and Honorable
+Yuanshan Sect's martial arts are just and honorable.\nIf practitioner's Standpoint is <color=#behaviortype_just>Just</color> or <color=#behaviortype_kind>Kind</color>, the Study Efficiency of Yuanshan Sect's books will be <color=#brightblue>increased by 50%</color>；If practitioner's Standpoint is <color=#behaviortype_rebel>Rebel</color> or <color=#behaviortype_egoistic>Egoist</color>, the Study Efficiency of Yuanshan Sect's books will be <color=#brightred>decreased by 50%</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
+Learning Through Practice
+Lion-Face Clan's martial arts are hard to learn through written records.\nThe Study Efficiency of Lion-Face Clan's books is <color=#brightred>decreased by 50%</color>；Learning Lion-Face Clan's books through actual combat is <color=#brightblue>200% more efficient</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
+Words of Mystery
+Ranshan Sect's martial arts are full of mnemonic chants, formulas, and incantations.\nThe Study Efficiency of Ranshan Sect's books is <color=#brightblue>increased by 100%</color>；Learning Ranshan Sect's books through actual combat is <color=#brightred>80% less efficient</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
+Heavenly Beauty
+Xuannyu Sect's martial arts are best suited for <color=#famale>Women</color>.\nIf practitioner is a <color=#famale>Woman</color>, the Study Efficiency of Xuannyu Sect's books will be <color=#brightblue>increased by 50%</color>, and learning Xuannyu Sect's books through actual combat will be <color=#brightblue>200% more efficient</color>.\nIf practitioner is a <color=#male>Man</color>, the Study Efficiency of Xuannyu Sect's books will be <color=#brightred>decreased by 50%</color>, and learning Xuannyu Sect's books through actual combat will be <color=#brightred>80% less efficient</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
+Skillful Craft
+Sword Manor's martial arts are based on merits and drawbacks of weapons.\nDuring Practice and Breakthrough of Sword Manor's martial arts, you can use <color=#pinkyellow>「Smithing」</color>, <color=#pinkyellow>「Carpentry」</color>,<color=#pinkyellow>「Gemcutting」</color>, or <color=#pinkyellow>「Weaving」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+Accumulating Knowledge
+Kongsang Sect's martial arts are difficult at first, but get easier as you go on.\nThe earlier the Kongsang Sect's book page is, the <color=#brightred>lower</color> the Study Efficiency；The later the Kongsang Sect's book page is, the <color=#brightblue>higher</color> the Study Efficiency.\n<color=#brightred>This effect does not apply to general outline pages...</color>
+Wisdom King's Mantra
+Vajrayana's martial arts are best suited for <color=#male>Men</color>.\nIf practitioner is a <color=#male>Man</color>, the Study Efficiency of Vajrayana's books will be <color=#brightblue>increased by 50%</color>, and learning Vajrayana's books through actual combat will be <color=#brightblue>200% more efficient</color>.\nIf practitioner is a <color=#famale>Woman</color>, the Study Efficiency of Vajrayana's books will be <color=#brightred>decreased by 50%</color>, and learning Vajrayana's books through actual combat will be <color=#brightred>80% less efficient</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
+Poisonous Gu Soul
+Five Immortals Cult's martial arts are based on <color=#pinkyellow>「Toxicology」</color>.\nDuring Practice and Breakthrough of Five Immortals Cult's martial arts, you can use <color=#pinkyellow>「Toxicology」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+Alternate Route
+Jieqing Gate's martial arts pay attention to being innovative and taking a different approach.\nThe Study Efficiency of Heterodox pages is <color=#brightblue>increased by 50%</color>；The Study Efficiency of Orthodox pages is <color=#brightred>decreased by 50%</color>.
+Easy to Learn, Hard to Master
+Fulong Altar's martial arts are easy at first, but get more difficult as you go on.\nThe earlier the Fulong Altar's book page is, the <color=#brightblue>higher</color> the Study Efficiency；The later the Fulong Altar's book page is, the <color=#brightred>lower</color> the Study Efficiency.\n<color=#brightred>This effect does not apply to general outline pages...</color>
 Evil and Vicious
-血犼教武学邪诡恶毒，\n若修习者的处世立场为<color=#behaviortype_rebel>叛逆</color>或<color=#behaviortype_egoistic>唯我</color>，血犼教秘籍的研读效率<color=#brightblue>提高50%</color>；若修习者的处世立场为<color=#behaviortype_just>刚正</color>或<color=#behaviortype_kind>仁善</color>，血犼教秘籍的研读效率<color=#brightred>降低50%</color>。
+Bloodhound Cult's martial arts are vicious and underhanded.\nIf practitioner's Standpoint is <color=#behaviortype_rebel>Rebel</color> or <color=#behaviortype_egoistic>Egoist</color>, the Study Efficiency of Bloodhound Cult's books will be <color=#brightblue>increased by 50%</color>；If practitioner's Standpoint is <color=#behaviortype_just>Just</color> or <color=#behaviortype_kind>Kind</color>, the Study Efficiency of Bloodhound Cult's books will be <color=#brightred>decreased by 50%</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
