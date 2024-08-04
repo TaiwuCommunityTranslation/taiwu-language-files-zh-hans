@@ -1,87 +1,87 @@
 Swap
 Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve stats and swap with the main fighter for a short period of time.
-我已准备周全，让我代你出手！
+I'm fully prepared, let me take your place!
 Haste
 Can use「Haste」order to increase cast progress of the main fighter's skill.
-让我以功力助你施展！
+Let me lend you my power to perform it!
 Push
 Can use「Push」order to bring main fighter closer to the opponent.
-身随心动，迅猛突进！
+Follow you heart, and quickly advance!
 Pull
 Can use「Pull」order to bring main fighter away from the opponent.
-敌近则危，切勿轻敌！
+The closer the enemy, the more dangerous it is!
 Attack
 Can use「Attack」order to attack the enemy.
-我有一招可攻敌不备！
+I have a move that will catch the enemy off guard!
 Defend
 Can use「Defend」order to protect main fighter using "Aegis" technique with increased power against enemy's attacks.
-让我为你抵挡此招！
+Let me block it for you!
 Heal
 Can use「Heal」order to use Healing on the main fighter.
-伤势紧急，让我速为你疗治！
+Your injuries are urgent, let me treat you quickly!
 Detox
 Can use「Detox」order to use Detox on the main fighter.
-毒气攻心，让我速为你驱毒！
+The poison is affecting you, let me detox you quickly!
 Mend
 Can use「Mend」order to remove Weak Points from the main fighter.
-有我照拂，可解破绽！
+With my care, your Weak Points will be solved!
 Release
 Can use「Release」order to remove Sealed Acupoints from the main fighter.
-引我真气，为你解穴！
+Draw my qi to unblock your Sealed Acupoints!
 Guide
-能够使用「掠阵」指令在短时间内增加主战者的力道、精妙、迅疾、动心。
-由我从旁掠阵，你且尽力出招！
+Can use「Guide」order to increase main fighter's Might, Finesse, Swiftness, and Breath for a short amount of time.
+Let me guard the side, and you just do your best to attack! 
 Warn
-能够使用「警示」指令在短时间内增加主战者的卸力、拆招、闪避、守心。
-由我从旁戒备，让敌无隙可承！
+Can use「Warn」order to increase main fighter's Diversion, Parry, Evasion, and Focus for a short amount of time.
+I will be on guard from the side, leaving the enemy no chance to attack!
 True Qi
 Can use「True Qi」order to transfer their own True Qi to the main fighter.
-我以真气渡于你身，助你御敌！
+I will transfer my True Qi into your body to help you fight the enemy!
 Sacrifice
 Can use「Sacrifice」order to share Injuries and Fatal Wounds of the main fighter.
 
 Restrain
 Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time.
-待我牵制其左右，不令你分心！
+Let me hold them back so that you won’t be distracted!
 Break
 Can use「Break」order to attack enemy with a "Break" technique with increased power.
-运功已毕，且看我这招！
+I've prepared my technique, now watch this move!
 Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve stats and swap with the main fighter for a short period of time. <color=#brightblue>When boosted by Lion War Drum, the ATK, Defense, Accuracy, and Resolve stat increases will be higher.</color>
 Can use「Haste」order to increase cast progress of the main fighter's skill. <color=#brightblue>When boosted by Lion War Drum, the increase in cast progress will be higher.</color>
 Can use「Push」order to bring main fighter closer to the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color></color> <color=#brightred>but its cooldown will be increased.</color>
 Can use「Pull」order to bring main fighter away from the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color> <color=#brightred>but its cooldown will be increased.</color>
-能够使用「攻击」指令攻击敌人。<color=#brightblue>在狮子战鼓的鼓舞下，「攻击」指令能够额外损害敌人的招架值。</color>
+Can use「Attack」order to attack the enemy. <color=#brightblue>When boosted by Lion War Drum, will deal extra damage to enemy's Deflect.</color>
 Can use「Defend」order to protect main fighter using "Aegis" technique with increased power against enemy's attacks. <color=#brightblue>When boosted by Lion War Drum, the power increase of the Aegis technique will be higher.</color>
 Can use「Heal」order to use Healing on the main fighter. <color=#brightblue>When boosted by Lion War Drum, this order will be finished much faster.</color>
 Can use「Detox」order to use Detox on the main fighter. <color=#brightblue>When boosted by Lion War Drum, this order will be finished much faster.</color>
 Can use「Mend」order to remove Weak Points from the main fighter. <color=#brightblue>When boosted by Lion War Drum, it will remove more Weak Points,</color> <color=#brightred>but its cooldown will be longer.</color>
 Can use「Release」order to remove Sealed Acupoints from the main fighter. <color=#brightblue>When boosted by Lion War Drum, it will remove more Sealed Acupoints,</color> <color=#brightred>but its cooldown will be longer.</color>
-能够使用「掠阵」指令在短时间内增加主战者的力道、精妙、迅疾、动心。<color=#brightblue>在狮子战鼓的鼓舞下，「掠阵」指令的效果更强，</color><color=#brightred>但持续时间更短。</color>
-能够使用「警示」指令在短时间内增加主战者的卸力、拆招、闪避、守心。<color=#brightblue>在狮子战鼓的鼓舞下，「警示」指令的效果更强，</color><color=#brightred>但持续时间更短。</color>
+Can use「Guide」order to increase main fighter's Might, Finesse, Swiftness, and Breath for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its duration will be shorter.</color>
+Can use「Warn」order to increase main fighter's Diversion, Parry, Evasion, and Focus for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its duration will be shorter.</color>
 Can use「True Qi」order to transfer their own True Qi to the main fighter. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its cooldown will be longer.</color>
 Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its duration will be greatly increased.</color>
 Can use「Break」order to attack enemy with a "Break" technique with increased power. <color=#brightblue>When boosted by Lion War Drum, the power increase of the Break technique will be higher.</color>
-打断
-因心生嫌隙，可能在主战者施展功法时，伺机将主战者的施展打断。
-这便让你断法破功！
-陷害
-因心生嫌隙，可能在主战者不在敌人的攻击范围内时，伺机将主战者向敌人的攻击范围内推拉。
-让我令你陷入险境！
-偷袭
-因心生嫌隙，可能伺机偷袭主战者，对主战者进行兵器攻击，并造成破绽、封穴。
-你既不防，休怪我趁隙偷袭！
-散功
-因心生嫌隙，可能在主战者运功行气时伺机消除主战者运起的护体、身法。
-看护体与身法的罩门，尽在此处！
-暗害
-因心生嫌隙，可能伺机以医术、毒术对主战者造成损害、中毒。
-你我仇深，莫怪我辣手无情！
-纠缠
-因心生嫌隙，可能伺机在一段时间内，降低主战者的力道、精妙、迅疾、动心、卸力、拆招、闪避、守心。
-待我令你分神，不战自败！
-扰乱
-因心生嫌隙，可能在主战者进行使用物品、疗伤驱毒、驭使野兽、逃离战斗等动作时，伺机将动作打断。
-待我令你阵脚大乱！
-散气
-因心生嫌隙，可能伺机消散主战者的真气。
-散你真气，看你如何御敌！
+Interrupt
+Because of a grudge, they might wait for an opportunity to interrupt main fighter's technique.
+This will cause your technique to fail!
+Set Up
+Because of a grudge, they might wait for an opportunity to push or pull the main fighter into the enemy's attack range when the main fighter is no longer within the enemy's attack range.
+Let me put you in danger!
+Sneak Attack
+Because of a grudge, they might wait for an opportunity to launch a surprise attack on the main fighter using their weapons, causing Weak Points and Sealed Acupoints.
+Since you are not on guard, don't blame me for taking advantage of the opportunity to attack you!
+Scattering Qi
+Because of a grudge, they might wait for an opportunity to scatter main fighter's qi to remove their Aegis or Footwork technique.
+Here are all your weaknesses!
+Insidious Harm
+Because of a grudge, they might wait for an opportunity to use Medicine or Toxicology to cause damage or poison the main fighter.
+You and I have a deep hatred, so don't blame me for being ruthless!
+Distraction
+Because of a grudge, they might wait for an opportunity to reduce main fighter's Might, Finesse, Swiftness, Breath, Diversion, Parry, Evasion, and Focus for a period of time.
+Let me distract you and you will be defeated without even fighting!
+Disturb
+Because of a grudge, they might wait for an opportunity to interrupt the main fighter while they're using items, Healing, Detoxing, doing Mount Attack, or Escaping.
+Wait till I throw you into disarray!
+Dispersing Qi
+Because of a grudge, they might wait for an opportunity to disperse True Qi of the main fighter.
+Disperse your True Qi and see how you can resist the enemy! 
