@@ -1,56 +1,56 @@
 Ponder with Recital
-增加此书篇的研读进度。
+Increases Study Progress of this page.
 “Focus on one thing, recite it with your mouth and heart”\nWhat you say with your mouth and what you think in your heart, you will never forget...
 Lost in meditation
-提高此书篇的研读效率。
+Increases Study Efficiency of this page.
 Is this what the chapter means？Well...Or like this？Umm...\nHuh？How come I am standing here？
 Unique Insights
-随机增加此书篇的研读进度。
+Randomly increases Study Progress of this page.
 The chapter does give some brilliant ideas, but from my point of view it may not be that flawless...
 Wonderful ideas
-随机提高此书篇的研读效率。
+Randomly increases Study Efficiency of this page.
 “A fishing boat with two children, sitting in the boat with their boats closed。\nStrange life without rain are open umbrella, not to cover the head is to make the wind.”
 Pretend to understand
-使此书篇已有的增加研读进度的研读策略都再次生效。
+Re-activates already placed Study Strategies on this page that increase Study Progress.
 This article has a deep meaning and is quite difficult to understand. \nBut if you follow the previous articles for interpretation, nothing can go wrong...
 Follow the instructions
-使此书篇已有的提高研读效率的研读策略都效果加倍。
+Doubles the effect of already placed Study Strategies on this page that increase Study Efficiency.
 Well... according to the book, is this what this sentence means?\nThat's really good...
 Take notes
-额外损耗此书的耐久，大幅增加此书篇的研读进度。
+Lose additional book durability to greatly increase the Study Progress of this page.
 “The magic of a man's pen, every word is a gem”...\nThis should be the finishing touch...
 Savor fine writing
-额外损耗此书的耐久，大幅提高此书篇的研读效率。
+Lose additional book durability to greatly increase the Study Efficiency of this page.
 This article is the essence of the whole text，you have to savor it carefully...
 Review the Old
-对已研读完成的书篇使用，可增加后续未研读完成的非亡佚书篇的研读进度。
+When used on a completed page, it increases the Study Progress of the next page that isn't completed or Lost.
 “Study and learn at the same time, review the old and know the new”...
 Comprehensive Study
-此书篇在研读完成后，能够提高后续书篇的研读效率。
+When used on a completed page, it increases the Study Efficiency of the next page that isn't completed or Lost.
 If this article can be compared with the other articles, I'm sure it'll be clearer.
-Be dilligent
-大幅增加此书篇的研读进度。
+Be diligent
+Greatly increases Study Progress of this page.
 “Excellence in work is only possible with diligence, not with playfulness.”...\nDon't be half-hearted...
 Focus on reading
-大幅提高此书篇的研读效率。
+Greatly increases Study Efficiency of this page.
 “Three hundred words at a glance，my eyes are still clear"...
 Recitation
-对此书篇使用研读策略时的悟性消耗减少10点，但此书篇无法获得历练。
+The Comprehension cost of Study Strategies on this page is decreased by 10 points, but this page won't give Experience.
 “Teach according to the material，Adapt to the time of year”...\nAnd you can get twice the result with half the effort...
 Extrapolation
-对此书篇使用研读策略时的悟性消耗减少10点。
+The Comprehension cost of Study Strategies on this page is decreased by 10 points.
 So... that's how it is...\nWith this as a solution，despite taking one step forward and one step back, i can achieve speedy enlightenment...
 Breaking down
-消除此书篇所使用过的所有研读策略，并根据消除的研读策略恢复一定的悟性。
+Removes all Study Strategies used on this page, and restores a certain amount of Comprehension based on the removed Study Strategies.
 The words on this page... Are food for my brain!\nLet me break down what's written in this article, word by word...
 Reflect and Ruminate
-消除此书篇所使用过的所有研读策略。
+Removes all Study Strategies used on this page.
 After reading a book a hundred times, its meaning becomes clear to you...
 Gulp Down
-此书篇不会被研读，但降低后续书篇的研读效率。
+This page won't be studied, but the Study Efficiency of the next page will be reduced.
 I’ll just put it aside for the moment and move on to the next one...
 Wisdom of Ignorance
-此书篇不会被研读。
+This page won't be studied.
 This chapter seems paradoxical, hard to interpret in a moment\nBetter to memorize the essentials first, as it helps with literacy at least, if not with comprehension...
 Adoptive Father's Notes
 Increase the study progress of《The Impact》taught by my Adoptive Father.
