@@ -300,7 +300,7 @@ There are rumors of a terrible natural disaster in {0} <color=#red> {1} </color>
 Last Farewell
 {0} vaguely in a dream, I saw the late {1} pointing in the direction of {2}, as if he had many words to tell {0}, but the yin and yang are separated, life and death are different, the voice can not communicate, after a long time, {1} only towards the direction pointed to drift away.
 Power Dissipation
-{0}The accumulated power of the Martial Arts skill has completely dissipated...
+The accumulated power of {0} technique has completely dissipated...
 Devastation
 {0} in {1} collapsed into ruins, and a huge demon emerged from the ruins of Taiwu Village!
 Mysterious bamboo
