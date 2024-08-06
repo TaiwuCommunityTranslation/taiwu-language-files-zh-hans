@@ -114,7 +114,7 @@ Protection
 {0} decided to go to protect {1} from {2}...
 Protecting friends and family
 {0} will fight against {2} on behalf of {1}...
-New appointments in the sect
+New Sect Position
 {0} became a {2} of {1}
 New Town Official
 New Faction Official
