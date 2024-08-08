@@ -117,7 +117,7 @@ Protecting friends and family
 New Sect Position
 {0} became a {2} of {1}
 New Town Official
-New Faction Official
+New Faction Leader
 {0} became the {1} faction leader.
 Stolen Resources
 {0} tried to steal {3} from {2} at {1}, but was unsuccessful.
