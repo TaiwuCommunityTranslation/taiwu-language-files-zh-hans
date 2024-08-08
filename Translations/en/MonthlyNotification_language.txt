@@ -120,7 +120,7 @@ New Town Official
 New Faction Leader
 {0} became the {1} faction leader.
 Stolen Resources
-{0} tried to steal {3} from {2} at {1}, but was unsuccessful.
+In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
 {0} steals a portion of {3} from {2} at {1}.
 Scamming Resources
 {0} at {1} tried to trick {2} out of {3}, but was unsuccessful.
