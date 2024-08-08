@@ -138,7 +138,7 @@ Stole Life Skill
 In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
 In {1}, {0} stealthily learned {3} from {2}.
 Swindling Life Skills
-{0} tried to swindle {2} in {1} to acquire {3}, but was unsuccessful.
+In {1}, {0} tried scamming {3} from {2}, but was unsuccessful.
 Steal Martial Arts
 Swindling Martial Arts
 A Token of Goodwill
