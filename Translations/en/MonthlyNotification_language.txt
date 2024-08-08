@@ -176,7 +176,7 @@ Heavenly Miracle
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their Health.
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their External Injuries.
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their Internal Injuries.
-{0} in {1} dreamed of the magical white deer, and the {2} in his body was relieved.
+In {1}, {0} dreamed about a mystical white deer, and {2} in their body was reduced.
 {0} in {1} dreamed of the magical white deer and was able to calm his internal breath.
 Mischance
 {0} lost the very rare {2} by accident at {1}.
