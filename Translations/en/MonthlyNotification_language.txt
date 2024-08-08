@@ -166,7 +166,7 @@ Buddhist Enlightenment
 {0} spoke to {2} in {1} about the subtleties of Buddhism, which led to {2}'s enlightenment and enhanced {3}'s talent.
 Divination
 {0} divined in {1} a certain secret story possessed by {2}.
-Heavenly Treasures
+Lucky Valuables
 In {1}, {0} obtained a very rare {2} by chance.
 In {1}, {0} obtained {2} {3} by chance.
 Matchless Adventure
