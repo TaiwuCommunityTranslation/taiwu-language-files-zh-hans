@@ -187,7 +187,7 @@ In {1}, {0} lost a {2} fine art book by chance.
 Punishment: Heaven Sent Disaster
 In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their Health.
 In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their External Injuries.
-{0} in {1} dreamed of fierce and evil spirits and received {2} points of internal injuries.
+In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their Internal Injuries.
 {0} in {1} dreamed of fierce and evil spirits, and the {2} in the body increased.
 {0} in {1} dreams of fierce and evil spirits, and the internal breath becomes more disturbed.
 Resource Growth
