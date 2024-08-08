@@ -129,7 +129,7 @@ In {1}, {0} tried robbing {3} from {2}, but was unsuccessful.
 Grave Robbing
 {0} stole {3} from the grave of {2} in {1}.
 Stealing Items
-{0} in {1} has stolen the {2} from {3}。
+In {1}, {0} successfully stole {3} from {2}.
 Scamming items
 Robbing Items
 Grave Robbing Items
