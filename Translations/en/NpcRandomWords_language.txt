@@ -713,529 +713,529 @@ Temporary text: Ransan main line random dialogue 3
 "Rumors say that the heart of Taiwu Bodhisattva has saved the helpless people of this land.\nThe nearby villagers are deeply grateful, eagerly anticipating the chance to see Taiwu with their own eyes again..."
 "Before the Three Lives Stone, I turn back to look,\nAs winter ends, still lingering for the spring flowers..."
 "Believing in foxes and rats for a single moment,\nThree feet of water wash away the faithless!"
-“昔日达摩祖师不避乱世，传武弘法，所为正是普度众生的誓愿……”
-“诸恶莫作，众善奉行……若无此慈悲心，又如何证得菩提……”
-“诸法因缘生，诸法因缘灭……了悟无常之理，方可通达无碍……”
-“禅门论法常以机锋交错、雨棒雷喝，那些榆木脑袋可应付不来……”
-“众生闻听佛法，仍不能参悟者，便由我手中棍棒来度化他们！”
-“论禅较武皆是修行，不可怠慢，自当尽力施为！”
-“参禅无论胜负，旨在明心见性，悟得其中真意便好……”
-“诸法本空相，施主又何必执于一时胜负……”
-“每日打坐总觉乏味，正好活动活动筋骨……”
-“施主是想见识见识我派‘七十二绝技’的厉害之处么？”
-“‘一念之正，百邪隐退；一念之差，万劫俱来’，\n施主须当谨记……”
-“佛法在世间，不离世间觉，还望施主莫要走了歧路……”
-“禅机妙理，非关文字……施主需得用心体悟才是……”
-“若是只学得和尚们打坐念经，可参悟不透佛法……”
-“我少林功法以禅入武，施主若无慧根，恐怕难证菩提……”
-“想当年，祖师一呼百应，与蜀中群侠共诛奸邪。\n如今相枢乱世，我派中人追昔抚今，更当砥砺自省……”
-“昔年蜀中盗匪横行，乃至妖魔乱世……\n幸有祖师降魔，重还蜀中之地一片清净……”
-“天下之大，人才辈出。\n各路群侠献艺我派，积年累月，终成我派今日之武学……”
-“峨眉一派，兼收天下武学，故而派系林立，门规松散……\n我倒也乐得逍遥！”
-“想我峨眉祖师，名彻武林、一呼百应，何等威风！”
-“我峨眉一派，可称正道翘楚，\n你我这番切磋，正大光明，必对彼此有益……”
-“我峨眉弟子，虽乐于与人切磋，但毕竟拳脚无眼，还是小心些好……”
-“我峨眉武学讲究兼收并蓄，这一场切磋，还请多多指教……”
-“我派功法花样百出，这番切磋，且叫我看看你将如何应对……”
-“我既承自峨眉，各路武学自是了然于胸，\n你若想见识见识我的手段，这便出招一试罢！”
-“天下武功出峨眉，\n若是勤加修习，通晓二三法门，便能掌握不少迎敌之法……”
-“峨眉武功五花八叶，无所不含。\n我若能助你修行，或能帮你寻得救世之法……”
-“我派功法千汇万状，而各人天赋亦有不同，\n你欲修习，我自当因材施教，才能事半功倍……”
-“我峨眉功法之繁多，不可胜举，\n你今日修习这一门，明日修习那一法，想来也能颇有趣味……”
-“峨眉武学包罗万象，博大精深，\n你若能将其一一学尽，从此遨游天下，便是百无禁忌……”
-“敝谷常邀各路医家，共研医道。”
-“敝谷时常设坛论医，只求救护更多世人……”
-“设杏坛以论悬壶，临橘井而授青囊，乃是我派之所愿……”
-“敝谷常邀各地医家长谈，但我却坐不住，\n不如到林间赏玩来得自在！”
-“医家之中，无人不晓我百花之名，常有各地医家前来讨教。”
-“文比论医，武较试针，此乃我百花济世之本！”
-“拳脚无眼，若伤及彼此，反倒不美。\n你我不若较艺文比，如何？”
-“医武之道，便在辩证之间，\n你既有此意，我又有何拒绝之理？”
-“敝谷飞针之术，可穿金碎石，若飞针扎疼了你，可别怨我！”
-“习我百花武学，便可手掌生死……”
-“百花功法皆传自白鹿、玄鸮所授医理，\n故而修习之时，你需谨记心存善念，以医入武之道。”
-“若世人皆如你这般，愿习医理活人之术，这江湖又怎会如此凶险……”
-“江湖之路，多有艰险。\n你若修习我派功法，便有了自保之力，无需畏惧……”
-“人言我百花谷不善比斗，然则这医人之术，却未必不可杀人……”
-“学得我百花要义，手中同掌杀人术与活人术，\n岂不是要人生便生，要人死便死？”
-“我派秉承真人教诲，以武传道，以道修心……”
-“‘圣人无常心，以百姓心为心。’\n修道修心，自应常怀苍生之念……”
-“凡事变则通，通则久，世间万事，无出于此道……”
-“武当之道修之于天下，不似俗道只知闭门打坐，无趣得紧……”
-“此山乃真武坐镇，\n武林诸派闻我武当大名，无不畏敬三分！”
-“天道损有余而补不足，我辈自应时时切磋，彼此补益……”
-“为道者须常怀仁心，不可存争胜之念……”
-“切磋论道，法乎自然，点到为止便可……”
-“修道久了也闷得慌……如何，同我耍两招？”
-“要与我一较高下？不妨先掂量掂量自己道行深浅……”
-“修道并非一蹴可就，须当日日勤习，不可懈怠……”
-“我派以武佐道，武术虽有短长，而道不分高下……”
-“武当之法要在炼气，切忌心躁，气至自然力达……”
-“道本不拘常法，若能通晓此理，便离得道不远了……”
-“道由心生，既一心修道，便休要为外物所碍……”
-“元山派自初便是为除魔而立，历数百载而矢志未改……”
-“我派师祖见世人饱受相枢之苦，故发悲愿，舍身救世……”
-“元山有诸多禁令门规，切记不可逾矩……”
-“常在派中清修苦行，时日久了，倒也别生一番趣味……”
-“凭我这身本事，妖魔若敢挡道，便是见一个杀一个！”
-“既是修行，本该无惧磨炼，受些皮肉之苦又何妨！”
-“你我皆以除魔为志，理应相帮相扶，多加砥砺……”
-“元山世守苦修之道，同门皆是如此，我自然不可懈怠……”
-“虽是切磋，你亦要全力相待，\n不然可体会不了这苦修之乐……”
-“出手不必留情，来日若是对上妖魔，可顾不了什么情面！”
-“比起修炼更为紧要的，乃是常秉一身正气……”
-“时时心怀慈悲，方可善用我元山之法……”
-“凡我元山所传功法，皆为降妖伏魔，毋作他用……”
-“妖魔诡诈无常，你我既是除魔之人，使些手段亦无妨……”
-“世间一切以除魔为上，若敢挡道者除之便可！”
-“狮相门中不乏有情义、敢担当的豪杰，\n大有可为，大有可为！”
-“狮相门人多尚江湖意气，\n平日里虽各据堂口，临敌便如铁板一块……”
-“自从祖上‘神通大将’创立狮相门以来，\n至今已不知多少年过去……”
-“狮相门把守海路要道，常与船商往来，\n无意间也听得许多海外趣闻……”
-“来日于狮王擂上大展身手之人，非我莫属！”
-“我狮相门不缺的便是胆量！你且放马过来！”
-“门中弟子切磋，常有下手不知轻重的时候，\n你可千万留神……”
-“门中常言‘不打不相识’，\n你我这番比试，当能更添几分交情……”
-“时常操练操练，也算对得起这副筋骨……”
-“常有不晓事的人来门中摆擂台，我看你倒与他们不同……”
-“骨子里需有几分血性，方能领会我狮相功法之真义！”
-“不练就一身硬功夫，怎能护得周遭百姓安全……”
-“狮相门靠的便是一手横练外功，\n只看你这身板够不够扎实……”
-“门中弟子不乏毛发茂密如雄狮之人，莫非与习练狮相功法有关……”
-“你若在我门中修习几日，外头那些花拳绣腿自然不是对手！”
-“日诵早晚功课，吐清纳浊，\n如此循环往复，乃是成仙必由之径……”
-“然山有求必应，凡人所愿皆成，故而视此地为仙山……”
-“三宗各司其事，彼此调和，方使我然山历千年而不衰……”
-“然山弟子游历四海，探幽寻胜，修的便是那自在仙……”
-“红尘诸事，扰人心神，误我修行，当真无益……”
-“门中弟子比武论辩，不问胜败，但全力以赴便可……”
-“门中弟子多喜幽静，你我比试之时，可勿要喧哗……”
-“然山派本不喜争斗，平日论辩，\n所为不过‘解仇斗郄’而已……”
-“若无人切磋比试，就是神仙日子，也难免单调……”
-“我辈不问俗事，专务修行，\n不论修文习武，均非凡俗之人可比……”
-“然山功法字字玄玄，\n倘或错记一二，便是谬以千里，切记切记！”
-“然山口诀虽然难以记诵，\n一旦修成，却是口出心至，全无滞碍……”
-“天道有常，不可干而逆之；吾辈修行，亦复如是……”
-“既修神仙道，\n倘若拘泥于这些繁复玄奥的咒文，便是落了下乘……”
-“若欲登临青琅阁，求得神仙道，便须比旁人多学些本事！”
-“神女峰顶，云海漫漫，我派中人时常观此自省……”
-“我派虽远离凡尘，但也与荆楚百姓互有照拂……”
-“我派深居巫山，出逸凡尘，鲜少与外人来往……”
-“巫山之中可观云雾、赏千仞，如此绝景何处可见？”
-“我派坐落于神女峰顶，自上而下，可俯瞰万物众生……”
-“我虽深居山中，修行自是不辍，又何惧你一试高下！”
-“未能参透‘一明珏’秘法，\n我本无心比试，且为你奏一首我新学的曲子……”
-“我派功法最是奇巧华丽，切磋之间，你可别花了眼……”
-“竟日抚琴，终是曲高和寡，倒是不如与你切磋更为快意！”
-“我璇女一门绝艺出尘，只怕不出几式，便能令你神魂颠倒……”
-“我璇女功法，意在灵动奇巧，神在意切情真……”
-“我试着参悟‘一明珏’时，幻见神女凄凄之色，似为苍生垂泪，\n不知你又能见何种景象……”
-“我璇女一切要义，皆传自‘一明珏’中神女，\n不知你可有此福缘，能得见神女……”
-“想要修习璇女功法，\n自然要有点神女的样子，待我先为你修整一下发型……”
-“你也想参透‘一明珏’的奥妙？”
-“精雕细刻，始得良器；千锤百炼，方成佳兵……”
-“剑身、剑格、剑脊、剑柄，每一处均是匠人的心血……”
-“淬炼最看火候，不可有毫厘之差，过与不及，皆是劣品……”
-“寻常粗人只知庄中所铸神兵利器，却不知我铸剑机关之精巧……”
-“我铸剑山庄所求唯神兵神器而已，其余凡铁俗器皆入不得眼！”
-“铁历百炼乃成钢，人历百炼方成才！”
-“我铸剑山庄虽善铸兵甲，却绝非好勇斗狠之徒……”
-“‘他山之石，可以攻玉’，\n我铸剑一门皆习手艺，自然明白这切磋之理……”
-“比试自是不急，且亮出你手中兵刃，\n让我瞧瞧是何等成色……”
-“可是你要与我比试？我正愁无人试剑！”
-“若要学我铸剑山庄的手艺，须有千百日与这铁炉较劲的觉悟……”
-“锤锻铸冶，雕凿镂刻，\n习我铸剑之艺，不仅须有一手硬功夫，亦需一腔赤诚之心……”
-“我铸剑山庄之武学、手艺，乃是相辅相成，不可偏废……”
-“学好我铸剑这一手钳锤锚锥，\n岂不比什么琴棋书画、花拳绣腿更胜百倍？”
-“铸剑之艺乃是欧冶祖师亲传，寻常工匠便是钻研百年，亦难望项背！”
-“炼丹时须全神贯注，若有片刻分心，便可能丹毁人亡……”
-“待到长生之药炼成，世人便再无生老病死之苦……”
-“山外晴雪如洗，唯我空桑山内四季如春……”
-“我派隐于辽东，山外纵有腥风血雨，与我等又有何干……”
-“人言空桑先祖乃是避祸至辽东，\n燕雀之辈，安知我派千年长生之计……”
-“丹道武技皆是关乎性命之学，虽是比试，亦不可轻忽大意！”
-“我等修行只为长生，若是伤及彼此，反倒事与愿违了……”
-“炼丹之道，非凭空口论长短，须待丹成之后，方见高下……”
-“鸩鸟毛，乌喙药，我用这药霜却是不分轻重，\n不知……你怕是不怕？”
-“丹有成色之分，人有强弱之别，\n你若想一较高低，那便出手罢！”
-“君臣佐使、七情配伍，\n习我空桑功法，药理规矩必先了然于心……”
-“我空桑一脉最重长生丹道，\n为待丹成，自然也有些延寿之法……”
-“我空桑一脉武学承自先秦，\n欲习我派功法，需得精通方技……”
-“学得我派药毒之术，若将旁人都毒成短命鬼，便也可称‘长生’了……”
-“你欲学医理？毒术？\n皆不过为我空桑长生之道，铺路垫脚罢了……”
-“待我等修成正果之时，便可涤尽世间污秽……”
-“荒蛮不毛之地，唯有上尊无量佛法，可遍照人心……”
-“边陲愚民无知，\n我等每日向佛爷上贡，自也少不了他们的福荫……”
-“外人只道佛门戒律森严，殊不知戒律之外，自是极乐……”
-“我等奉密宗佛爷之名，秉无上真法，生杀予夺，谁敢妄议！”
-“佛法之下，众生平等，休怪我不留情面……”
-“我本非斗狠之徒，既是你要比试，便只好得罪了……”
-“阿弥陀佛……既是无利可图，又何必计较胜负……”
-“较量切磋，也难免有意外之事，你便只当是佛爷旨意……”
-“何妨于佛前走一遭，便知你有几斤几两！”
-“佛门真言须三密相应，休要以凡俗之心妄加揣度……”
-“凡人若修得我教神威，亦可破开尘世枷锁，得证菩提……”
-“诸天神佛在上，须得拿出诚心，方可得赐真言……”
-“佛法真言唯体悟可得，莫学俗人循规蹈矩，做那些无用功……”
-“得我无量佛法，便是身与天齐，视世人皆同蝼蚁！”
-“外族皆是虚伪狡诈之徒，我可不愿有半点瓜葛……”
-“五仙毒蛊无奇不有，\n若是初来此地，可要小心着了道儿……”
-“教中自有法度，外人小心遵循便是，免生事端……”
-“外人来此，免不了领教一番蛊虫的滋味，\n那可真是一出好戏……”
-“外人若是胆敢来犯，便教他毒蛊钻心，求死不能！”
-“我有蛊虫相傍，五圣相护，岂会败给外人！”
-“五仙蛊术非寻常之法可医，你可要留心了……”
-“江湖知我五仙毒蛊之名，轻易不敢与我等比试……\n你可是准备万全了？”
-“待我瞧瞧，今日要种上哪只蛊儿呢……”
-“来得正好，你可要尝尝我新炼的蛊？”
-“苗疆秘术代代相传，\n若非‘太吾’，绝无轻易授予外人之理……”
-“在我五仙修行，一草一木，一虫一兽，皆须照护……”
-“外人见五圣之毒，皆避之唯恐不及，\n然若是深谙其理，其实亦无足畏惧……”
-“修我五仙秘法，光凭一身力气可不够，\n先得问问虫儿们的意思……”
-“若是百毒不识，还实在要学我教秘法，便只好自求多福……”
-“世人有贵贱之分，我皆一视同仁，\n入了界青名册，便唯有一死……”
-“我辈行事无关冤仇，只是生死本不由己，\n惟愿生者尽欢，死者安息……”
-“身居界青，早已看惯生死，\n功名富贵能几何，终作一抔陇头土……”
-“人将死之时，其情状可谓千姿百态，真叫我大饱眼福……”
-“不论武林高士，亦或权贵豪强，\n这世上绝无我界青门摆不平的人！”
-“杀机不过一瞬，几招之内，足见胜负，出招罢！”
-“既是切磋，我自不会下死手，不过你也该留心才是……”
-“界青所学皆为杀招，些微不慎便有性命之虞……”
-“你有什么本事，可都藏严实了？别叫我看出破绽……”
-“既要在我界青门前动刀子，便休怪刀剑无眼！”
-“凡事皆有代价，若要修我界青功法，便须依我门中规矩……”
-“界青功法讲求干净利落，\n使必死之人免受苦楚，又何尝不是慈悲……”
-“杀人之法固然简易，\n如何做到刀过竹解、不留痕迹，却是难处……”
-“胜负之机本在转瞬，若如名宗正派那般死板，\n我界青门又将如何攻敌不备，出奇制胜？”
-“江湖之上，本是一物降一物，\n我界青奇门遁甲，飞针投石之术，\n皆是为武林诸派准备的杀招……”
-“世间唯有真龙可称真神，天日昭然，岂容置疑！”
-“只要一片诚心相献，定能求得真龙庇佑……”
-“你若常来奉纳金银，或许也可沾些龙恩……”
-“世间多是凡夫俗子，岂能识得真龙之貌？”
-“若有谁敢阻拦真龙大驾，顷刻教他化作齑粉！”
-“真龙座下无孬种，不必多言，便让我瞧瞧你的本事！”
-“既要比试，且饮此杯，亦不失我伏龙坛待客之道……”
-“酒气所至，若是伤了你，可休要怪我……”
-“有什么绝活尽管使出来，正好助我酒兴！”
-“待这一壶酒下肚，到时动起手来，可就顾不得许多了！”
-“伏龙之法恰如烈火，可否炼得出真金，\n便看你的本事了！”
-“纯阳离火至纯至烈，\n修行者若是乱了法度，必将引火焚身……”
-“欲要修炼我派功法，却不知你酒量如何？\n若是喝不得几杯，纵然学得盖世神功，也难见威力……”
-“整日练功习武，若无美酒佳肴相伴，还有什么趣味？”
-“若是习得这身武艺，什么金银财宝，还不是应有尽有！”
-“天道不公，世间公理早已颠倒错乱，\n我派不过另寻偏门，说不定便能寻得除恶之法……”
-“乱世当前，有天无日。\n人人苦不堪言，我却不知何处方才有生路……”
-“我血犼一门素有恶名，向来不为世人所容，\n岂知举世混浊，不过是天下老鸦一般黑……”
-“离经叛道自有离经叛道的好，\n我血犼教内并无那等条条框框，只管逍遥自在便是！”
-“若有掀天揭地之能，我必取而用之。\n哪管是不是杀人害命的邪魔歪道……”
-“你有如此胆识，我自当奉陪迎战！”
-“你既坦荡相邀，应当知晓我血犼中人，出手不拘手段……”
-“以我血犼教行事之风，\n我使些手段，你亦使些计谋，\n有来有往，倒也无妨……”
-“这拳脚之争颇是无趣，\n你何不寻些游戏，再来与我论高低？”
-“我若出手，便无余地，你可莫要怪我！”
-“门中功法，无不骇人，\n今日教习于你，只盼你能寻得些许中正妥善之法……”
-“我只为求得生路，修此阴邪功法亦是不得已而为之……\n你又是为何？”
-“血犼功法，可称歪门奇技，\n既然得以流传，自有其道理所在……”
-“比之所谓的正道，\n血犼功法绝非循规蹈矩之流，修习之时更是有趣得多……”
-“心有大志，何妨所修之道？\n为图大业，无论何种邪功皆可一用……”
-“京城乃百戏群集之地，\n看完走大索、手技、飞剑与跳丸，还能看戏马、斗鸡、旱船和山车，\n当真是琳琅满目，应接不暇！”
-“如今京城虽是繁华，却也比不得从前……\n也不知书中所载‘雕车竞驻于天街，宝马争驰于御路’，究竟是一番怎样的光景……”
-“京畿一带，僧寺众多，常办斋会。\n布施之外，又兼奇珍古董交易，热闹非凡……”
-“京畿一带冬月地寒，难产蔬茶。\n听闻上至权贵，下及百姓，都需提前收藏冬菜，以充一冬食用……”
-“蜀中武侯祠有碑一座，\n乃唐时裴度撰文，柳公绰书，名匠鲁建所刻，人所谓‘三绝’。”
-“成都乃膏腴之地，气候宜人、物产丰饶，古来便是繁华似锦！”
-“巴蜀方言颇为有趣，你若未曾得闻，我便讲与你听……”
-“你可曾闻‘峨眉天下秀，青城天下幽’？\n我正有意前去赏玩……”
-“常言道：‘桂林山水甲天下’，你既来此，自当好好赏玩一番……”
-“广南此地瓜果甚繁，\n你既来桂州，自得品鉴一番，不致遗憾而归。”
-“广南村落有各族杂居，民风习俗皆有不同。”
-“广南民喜歌擅舞，\n婚嫁之时，双方需以山歌相和，方能结为连理。”
-“襄阳乃九州通衢，商旅皆聚于此，\n无论是采买货物，还是打探传闻，都是绝佳的去处……”
-“襄阳城外有古战场，\n传言途经此处，仍能听到兵戈不绝……”
-“荆楚自古多高俊，各地皆不乏有识之士……”
-“荆襄一带两江千湖，泛舟其上，可尽览楚地风光……”
-“太原自古英杰辈出，唐朝龙兴之地便是此城……”
-“城中喜食黍麦，面点种类之丰，可谓应有尽有……”
-“山西百姓重义轻利，居贫不折，颇有古侠士之风……”
-“三晋之地山河表里，举目望去，便觉胸襟开阔几分……”
-“广州多有奇人异士，听闻这些奇人聚集之地，被称作‘蕃坊’……”
-“起初，广州商贾多将丝绸售予海外，\n后来海外之人学会了养蚕抽丝，便改作售卖瓷器……”
-“广东一带，素有‘舞草龙’之习俗……\n草龙由山上剑草捆札而成，需于海边举行‘化龙’仪式。”
-“听闻当年岭南道分为东、西两道，\n此地由东道所治，方才得名‘广东’……”
-“青州面山负海，深得鱼盐之利。\n过箩、调配、储卤、结晶、铲出五步产盐，缺一不可。”
-“听闻青州这一带建‘范公亭’，敬仰文正公者络绎不绝；\n又有‘龙兴寺’香客如云，可往一观。”
-“传闻始皇东游，便是在这齐地之山川四野礼敬天地……”
-“东海现矗一阁，可往而观之，听览之间，恍然如在神仙之境……”
-“江陵乃中原门户，\n自古便是兵家必争之地，登高凭栏，可见古时城墙。”
-“江陵地处泽国，水域交错，旧俗最尚五月五日竞渡戏船。”
-“楚人善悲歌，常借之以抒怀，其声凄凄，闻之令人涕下。”
-“巫山云雨、洞庭烟波，\n荆楚之地多奇景，故迁客骚人多有留墨。”
-“福州多植榕树，绿荫满城，岁莫不凋。”
-“传闻当年那三佛齐国来朝，便是乘船由这福州港登岸而至……”
-“听闻那闽菜乃是由福州、闽南、闽西三种地方才汇集而成，\n清爽鲜嫩、注重调汤，令人赞不绝口。”
-“常言道‘八山一水一分田’，\n说的便是福建这群山环绕，梯田入云的景象……”
-“辽地虽苦寒，但这银雕飞栋，万树梨花之景，又岂是中原得见？”
-“天寒地冻，还好城中有人搭柴生火，设汤池以供人沐浴取暖……”
-“辽东塞北之地，鲜慕王化，各村之中，尚循旧习。”
-“既访北疆，这塞外飞雪，千里冰封之景非中原内地所能见，\n何不前去一观？”
-“街头胡商不仅模样奇特，所售货物亦是千奇百怪……”
-“城中尽是异邦来客，走在街头，常有许多听不懂的话……”
-“此处一应日用，多仗山顶的雪水，有水便有人居……”
-“大漠荒无人烟，若不备足粮水，可不敢随便出行……”
-“城中冬无严寒，夏无酷暑，闲时便可漫步观花……”
-“听闻大理国巫医神通广大，法术无不灵验，\n也不知是真是假……”
-“苗寨风情比中原不同，没有那些繁文缛节，便自在许多……”
-“这南疆虽然风景秀美，\n却也多毒虫瘴疠，出门在外可得小心……”
-“淮南王神仙术是否灵验未曾可知，豆腐之术却实在高明！”
-“据传淮南王好神仙术，\n养方士八公，能炼金化丹，此山也以‘八公’为名。”
-“听闻这淮南曾有一座窑镇，其釉多青黄，世所罕见……”
-“此地多产布匹，各类丝、絁、棉、麻，不一而足。”
-“夜晚听着这钱塘潮音，心绪便可平静下来……”
-“西子湖畔，曾出过多少才子佳人的传说……”
-“江南乃是鱼米之乡，即便是镇里乡间，也得富足……”
-“江南地虽不广，洞天仙府，禅林梵宫，却也比比皆是……”
-“扬州自古繁华地，三步一舫，五步一阁。”
-“古语有云：‘上有苏杭，下有淮扬’，\n可这扬州十景，未必不如那杭州西湖……”
-“江北各地风俗差异甚大，可谓十里不同音，不可一概而论之。”
-“江北地处平原，沃壤千里，又临海控湖，\n乃是南北水路交通要地。”
-“太吾村虽在人境，却无浊世纷扰，好一方清净天地……”
-“听这南北口音便可知晓，太吾村居民乃是自四海而来……”
-“此地玄石林立，鬼影绰绰，非常人可久待之地，\n继续逗留，恐遭不测，你也速速离去罢……”
-“听闻太吾氏先祖以大我为名，舍身救世，如此胸襟，令人感佩……”
-“听闻太吾氏相传数百年之久，历来便是仁人志士效仿的榜样……”
-“听闻太吾氏仅凭除魔一念，代代相传至今不绝，确是不易……”
-“我虽不曾有‘太吾’那般济世之心，\n不过自幼听得些太吾一氏的故事，倒也可称离奇……”
-“听闻太吾氏先祖与各派立誓，习得百家之长，\n何时教我几招，也好让我威风威风……”
-“如今妖魔频现，人人自危，\n我更应如太吾传人那般，坚守正道本心……”
-“如今妖魔频现，人人自危，\n幸有太吾传人奋身在前，方才稍定人心……”
-“世道越发荒乱，但愿太吾传人早日平定那相枢妖魔，\n这苦日子也可早些到头……”
-“唯有太吾传人那般的人物，\n方能于这乱世中来去自如，可真令人羡慕……”
-“如今世道混乱不堪，\n我若能有太吾传人那般的本事，哪个还敢在我面前撒野……”
-“自古邪不压正，太吾传人定能击败相枢，解救世人于倒悬之危！”
-“妖魔降世，日月无光……\n若非太吾传人救世，苍生已难免于浩劫……”
-“如今相枢之祸临头，我等是死是活，只有指望太吾传人了……”
-“今朝有酒今朝醉……\n若非太吾传人，我现在哪里有饮酒的命，嗝……”
-“那相枢竟如此可怖……\n世间强者为尊，如今便只有仰赖太吾传人了……”
-“如今太吾传人复出，力破相枢化身，匡扶世道，\n我亦不能落后！”
-“如今太吾传人复现于世，平息相枢化身之害，当是苍生之福……”
-“听闻太吾一氏沉匿已过百年，如今竟复现于世，\n可谓天无绝人之路……”
-“听闻太吾传人有独门除魔之法，好生了得，可不要夺了我的风头……”
-“太吾传人若真如传言那般，身怀对抗相枢之法，确可为我等除魔之助力……”
-“世道虽然艰险，如今有太吾传人相助，\n我等必当荡涤浊秽，不容妖魔再起祸乱！”
-“如此乱世，怎可让太吾传人独自奔波，\n我等亦将竭尽全力，扶危济困……”
-“如今世道危难，太吾传人挺身而出，\n我等身为武林正道，岂有坐视之理……”
-“太吾传人果真不同凡响，来日与相枢对敌，那景象必是精彩绝伦！”
-“太吾传人凭一己之力攻破数座剑冢，威震武林，实令我等叹服！”
-“大义所在，虽死无悔。\n吾辈虽不及太吾传人，亦当戮力同心，共诛妖邪！”
-“我等虽无匹敌相枢之神威，\n亦会尽力协助太吾传人，救苍生于水火……”
-“眼见太吾传人为抗相枢，出生入死，我等武林正道实在汗颜……”
-“此番仰仗太吾之力，我等若能战胜妖邪，\n定要与太吾传人把盏邀月，不醉不归！”
-“如今虽然唯有太吾堪与那魔头匹敌，我等亦不可失了正道的颜面！”
-“听闻太吾氏复出，凭此契机，倒也可以一正江湖风气……”
-“相枢之患由来已久，\n如今太吾氏复出，但愿世间也可太平一些……”
-“听闻太吾传人身怀绝艺，日后若与我等多相往来，彼此也得助益……”
-“听闻太吾氏沉寂已久，\n如今复出，世皆瞩目，江湖从此可要热闹许多了……”
-“我若能如太吾传人一般，修得百家之术，亦可偿心中所愿……”
-“世道虽乱，倘若人人皆如太吾传人这般坚守自心，\n何尝不能拨乱反正？”
-“世道混乱不堪，太吾传人既有救世之志，万事更当小心为上……”
-“如今太吾传人一举一动，皆关乎天下命运，\n却不知太吾意在何为……”
-“如今天下风云变幻，全系太吾一人，太吾传人可要好好表现一番了……”
-“当此乱世，太吾传人承天下之所望，自应知晓乱世须用重典的道理！”
-“相枢当前，已是避无可避，我等唯有效法太吾传人，拼死一战！”
-“太吾传人解民于倒悬，世人皆看在眼中，我等自当倾力相助……”
-“以太吾传人之力，或许真能挽狂澜于既倒，扶大厦于将倾……”
-“太吾传人有此胆魄，当真要行改命逆天之举，\n便让我助你一臂之力！”
-“世人见相枢之威，无不震怖，更无一人有太吾那般胆识！”
-“太吾氏先祖曾与我派立誓，不过相枢早已平定，我等自当以大业为先……”
-“太吾传人所为之事亦是我所欲行，然而人各有道，我等相安无事便可……”
-“太吾之事，我亦闻知一二，\n如今太吾传人复出，江湖之中又添了不少变数……”
-“听闻太吾氏相传数百年，来头不小，我倒要看看能掀起何等风浪……”
-“太吾传人似是身手不凡，若能与我等联手，共谋大业，岂非如虎添翼……”
-“我本非唯利是图之辈，太吾既怀大我之义，我又岂会计较门户之见……”
-“太吾传人虽与我等道不同，这片仁义心肠，亦是令人动容……”
-“如今世事难料，我等行事可否如愿，亦须看太吾传人动向如何……”
-“如今世道黑白颠倒，太吾传人身负救世之任，可要考虑清楚了……”
-“自古乱世出英雄，太吾传人若与我等合力，\n如今世道，岂不正是扬名立万的时机么！”
-“承蒙太吾传人高义，既不相弃，我等亦愿共抗相枢，效犬马之劳！”
-“世人本是休戚与共，无论正邪，我等自当与太吾传人同舟共济……”
-“大敌当前，我等别无选择，\n唯有与太吾传人同心合力，以求一线生机……”
-“太吾传人当真旷世无双，若能与这般人物携手对敌，亦是平生快意……”
-“太吾传人荡除邪魔，所向披靡，\n若有这等力量相助，便是相枢又有何惧！”
-“我哪晓得什么天下大事，\n今日讨得口饭，便只管混过今日再说……”
-“如今世道，这饭是越来越难讨喽……”
-“求佛祖，告观音，可怜世间漫妖魔……\n散金银，离骨肉，一夜尽作黄粱梦……”
-“江湖上的事儿听听便罢，也不是我们这些小民能管的……”
-“世道再乱，日子总还是得一天天过的……”
-“我方才瞧见一人，\n原先也是一方权贵，如今倒穿得跟我一样破烂……”
-“年成不好，外头又不太平，\n唉，这日子是一天比一天难过……”
-“世道纷乱，连安心种个庄稼都难……”
-“虽说庄稼是我等的命根子，\n可这世道，也不知有没有命活到下一茬庄稼成熟……”
-“天下事谁能说得准，有门手艺傍身，便不愁没饭吃……”
-“如此乱世，我这一身手艺，怕是要失传喽……”
-“相枢当前，与其拿辛苦猎来的兽肉、毛皮换那银钱，\n倒不如留给自己享用一番……”
-“求医问药的人愈发多了，只怕非是福，而是祸……”
-“世道渐乱，越来越多的百姓亟需医治……”
-“近来，四处可见流离失所而伤病缠身之人，\n无数大夫云游行医，积劳成疾，也不知我又能撑到何时……”
-“近些日子路上不太平，但愿不会碍了我的买卖……”
-“相枢作乱、盗匪横行，生意是一天不如一天……”
-“来人啊！快……快些去把那相枢除去！赏、赏金应有尽有！”
-“读书人以清静为要，何必理会那些江湖琐事……”
-“‘长太息以掩泣兮，哀民生之多艰’，\n偌大神州，竟容不下一张安静的书案！”
-“白骨露於野，千里无鸡鸣。生民百遗一，念之断人肠……”
-“无论是治是乱，最要紧是能认清局势，抓住良机……”
-“乱世既起，\n所谓‘匹夫无罪，怀璧其罪’，这万贯家财，恐成我坟冢之土……”
-“如今相枢祸世，人人自危，\n那帮外来的流民，竟还想闯我家门，夺我储粮！”
-“散布流言、聚众闹事，如今这不安分的人是愈发多了……”
-“再大的权势，在这相枢之灾面前，又算得了什么……”
-“相枢当前，我纵是权势遮天，亦是无处可逃了！”
-“我等绿林占山为王，世道乱些，倒也未必是件坏事……”
-“如今乱世，寨中也不免有好事之徒，须用重典以震宵小。”
-“相枢当头，寨子内外都不太平，\n大当家却说那相枢不过是冢中枯骨，不愧是大当家！”
-“近来城外乱了不少，须得多派些人手巡逻……”
-“妖魔乱世，我为一城之主，自要护得治下一方百姓……”
-“即便相枢临头，我身为一城之主，亦不可弃城而走……”
-“村里不务本业的人日渐多了，这地难道任它荒了不成？”
-“村中生活本就不易，却又碰上相枢之劫，唉……”
-“村中人家都想跑去城里避难，我却是舍不得这村子……”
-“镇子虽小，也是杂务繁忙，哪有工夫理会江湖纷扰……”
-“小镇不比大城，面对妖魔浩劫，难免力不从心……”
-“相枢祸世，我亦不可慌乱，当务之急乃是安定人心……”
-“近来传言妖魔出世，\n任他什么来路，我可不放在眼里！”
-“营山设寨，本就是为避刀兵之祸，\n可这相枢妖魔，却是避无可避……”
-“相枢将临，寨中鸡犬不宁，我也只能撑撑场面罢了……”
-“昔时太吾先祖舍生取义，换取世间百年安康，\n如此作为，确有菩萨心肠……”
-“相枢乱世之惨象，我自不忍细想，更遑论于佛前谈说……”
-“我曾听方丈谈起当年相枢祸世之事……阿弥陀佛，众生皆苦……”
-“少林本为佛门，虽与俗世无争，亦不忍见相枢降世，众生离乱……”
-“众生饱受相枢之苦，我等自当以菩提渡世之心，勉力施为……”
-“我听闻相枢乃‘万相之相’……\n可经中又说‘若见诸相非相，即见如来’，究竟何意？”
-“少林虽不入红尘，然则如今众生危难，我等自不能作壁上观！”
-“那相枢竟有如此神通，\n便是把归隐前辈尽数请来，亦未必能降住那魔头……”
-“阿弥陀佛……若那相枢临世，只怕这人世将沦为阿鼻地狱……”
-“近来蜀中颇不太平，莫非那相枢妖魔竟真有卷土重来之相……”
-“日下渐有宵小之辈，假借数百年前相枢之名为非作歹，使人哭笑不得……”
-“世道乱象频生，我欲下山济苦救人，可师父却说我还得再等上几年……”
-“相枢作乱已深，我等虽不至堕于邪道，却也担忧苍生遭劫……”
-“相枢祸患再现，我派乃蜀中名门，自应以救世为己任，尽力降妖除魔……”
-“相枢之灾迫近，我等更需勤加苦练，\n以便来日能行更多善，救更多人……”
-“劫难已至，峨眉身为正道表率，自应支撑到最后一刻……”
-“相枢虽是三头六臂，我峨眉亦有五花八叶应之，不可输了气势……”
-“我等平日礼佛修道，练武习艺，便是为了此时……”
-“近来异事频发，伤患日增，\n又风闻相枢之论，只怕这天下又要生乱……”
-“清点药材，整理引子，\n如今伤患增多，可不能在这时候出了岔子……”
-“近来病患增多，故而师父常无闲暇，难为我等授业解惑……”
-“相枢之势日盛，敝谷也当早做准备，以防重蹈三百年前覆辙……”
-“妖魔作乱，生灵皆受其害，我派自是秉承医者本心，悬壶济世……”
-“如此乱世，医者责任重大，不知我何日才能学成出师，救死扶伤……”
-“相枢真要再临，也不知我派能否如三百年前一般，侥幸得全……”
-“白骨曝野，生灵涂炭，只求以我之手多救一人，亦不负师门所托……”
-“不想我尚在学艺，便要医治如此重症，\n莫要紧张……且牢记师父所言……”
-“如今天下纷扰，武当更应顺时而动，不可妄为……”
-“江湖纷乱，百姓难安，如今正是下山证道之时……”
-“我等虽是修道之人，然见百姓离乱，又岂能坐视不理……”
-“天下临危，武当正应号召诸派，共襄义事……”
-“阴阳二气渐呈失衡，世间怕是再难清静了……”
-“平日里练功打坐，为的便是来日斩妖除魔……”
-“福祸相依相生，绝境之中，未必不见光明……”
-“逢此浩劫，更需泰然处之，不可自乱心气……”
-“在下功力虽不比各位师长，亦当尽力而为……”
-“我等每日戒备，一旦相枢有所异动，也可及时应对……”
-“近日风闻相枢现世，各地邪魔外道也开始蠢蠢欲动……”
-“我等连日警戒妖魔作乱，不过至今还没见过妖魔的踪影……”
-“与相枢大战在即，元山立派数百年，为的就是今朝……”
-“相枢将至，我元山派若不挺身而出，更待何时！”
-“妖魔现世，强敌当前，更不可一刻放松了修行……”
-“生为百夫雄，死为壮士规……\n逢此危难之际，正当由我先行赴义！”
-“如今唯有勠力同心，与相枢决一死战，方有一线生机！”
-“我等早有死战之志，只待师尊一声令下……”
-“狮相门世代镇守广东，若是真有邪魔胆敢祸乱海疆，我决不轻饶！”
-“狮相门弟子只需勤加修习，上下一心，何惧什么妖邪？”
-“我狮相门刀掌双绝！管他什么妖魔鬼怪，统统砍翻便是！”
-“妖魔乱世，我等虽无所畏惧，周遭百姓亦不免恐慌，须得遣人镇抚……”
-“听说已有同门被那些相枢爪牙所伤！哼，迟早得帮兄弟们讨回这个公道！”
-“我近来新学得一手妙招，那相枢本领再大，定然也不会这一式！”
-“祖上为国捐躯，我等怎敢愧对列祖列宗？\n待那相枢出世之日，便是我狮相门报效之时！”
-“只要我狮相门一息尚存，那相枢就休想踏入疆土半步！”
-“任那相枢本领通天，门主必将带领我等大破敌寇，我等只需谨遵号令便可！”
-“自历代太吾除魔以来，相枢销声匿迹已久，难道方今之世，又应劫数……”
-“妖魔作乱亦不过百年，于仙人眼中，只若弹指一挥间……”
-“相枢长埋地下，我等求道登仙未果，何以过问地底之事？”
-“相枢之患，须得尽早除之，否则恐将有碍我等登仙之梯……”
-“近日云游四方，屡见妖魔伤人，莫非那相枢真要降世？”
-“若待我等成仙之后，再来平定这相枢之祸，想必易如反掌……”
-“相枢之劫终是来临，然山亦难独全，唯有以仙家法术应对……”
-“只恨我未能求得仙道，虽是有心伏魔，却不知可有余力……”
-“如今相枢当前，恐怕唯有仙人下凡，方可救世……”
-“相枢确实非同小可，但钻研‘一明珏’之事，同样不能放下……”
-“我等久居神女峰中，鲜少挂心凡尘俗务，\n至于除魔去邪，亦非我璇女派之道……”
-“我资历尚浅，璇女峰外，纷扰世事，我实不应该过于好奇……”
-“‘一明珏’中神女时隐时现，踪迹难寻……\n莫非是不欲看见世间妖魔，令我等除之？”
-“我等虽久居璇女峰不出，亦有闻如今妖魔作乱，相枢将现之兆……”
-“这些时日，我总觉心有戚戚，难道是这相枢作乱，扰我心念？”
-“巫山隐没，神女泣血……\n只要相枢不除，我等便再难参悟‘一明珏’中真义……”
-“血海翻波，生灵尽丧，此等浩劫，我璇女一派岂能无动于衷……”
-“虽说我派不问峰外之事，可如今这世道，又叫人如何袖手旁观……”
-“工欲善其事，必先利其器……\n无论那相枢是否重现，我铸剑山庄之道不曾易改……”
-“不知当年太吾传人降那相枢之时，用的可是庄中打制的兵器？”
-“相枢之事，我只从老宗匠那儿听得些许，却也不知其中究竟……”
-“看来相枢之祸，不日将至……\n我等须加紧打磨兵器，以备不虞……”
-“好几位同门的兵刃，都被那相枢爪牙打折了……不想相枢竟如此棘手！”
-“近日来到山庄购置兵刃的人是愈发多了……世道竟已如此不太平……”
-“相枢封于地下数百载，我铸剑山庄手艺已是大有精进，此战未必没有胜算……”
-“都说那相枢刀枪不入，那我等便打上千把刀，万条枪，又当如何？”
-“相枢当前，我的锻造手艺却是毫无长进！也只怪自己平日没在炉边下足功夫……”
-“相枢？不过旧日传说罢了。我派长生之道，才是重中之重！”
-“江湖动乱，那又如何？我派隐于雪山之中，那中原祸乱岂能波及我等？”
-“师尊有言：炼丹之道，贵在静心。那些江湖琐事，我从不关心……”
-“炼丹长生乃我派夙愿，但如今妖魔横行，只怕前路越发困难重重……”
-“相枢之乱，如今竟已波及我空桑山！我派恐已无法独善其身……”
-“不知这失心之人可还畏毒？莫要多想，专心炼丹便是……”
-“长生丹虽未练成，然以我派药毒之术，也未必不能与那妖魔一较高下……”
-“相枢之灾蔓延九州，若世间尽数沦丧，我空桑一脉又能去往何处……”
-“长生未得，相枢先至，难道我这条性命便要断送于此……”
-“好，好！正是佛爷庇佑，\n中原这一乱，于我等而言何尝不是光复良机……”
-“江湖动荡，便有流民来求庇护，自然要多为佛爷呈上些贡品……”
-“近来人心不安，我等只好日日催纳贡品，\n可不能让小民们怠慢了佛爷……”
-“相枢闹到这般地步，我等复国大计也只好缓一缓了……”
-“何必畏惧什么相枢，\n有法王在此护教，小民们只管朝拜便是！”
-“如今乱成这样，正应多敛些财物，孝敬佛爷表表诚心……”
-“可笑！我金刚宗数百年基业，岂能亡于相枢之手？”
-“我等追随法王，自有密宗无量神力加持，也未必怕了那相枢！”
-“佛爷保佑，若能躲过这相枢之祸，定当加倍纳贡烧香……”
-“听闻中原纷乱，我等上下皆须提防，\n可不能卷入外人的争斗中……”
-“外族人自让他们斗去，\n可谁要敢对我们苗疆不利，我定不饶他！”
-“自进门起，师父便教我专心修炼，休要理会外族那些纷乱……”
-“相枢祸乱若是危及天下，五仙亦难独善其身，须得尽早应对……”
-“哼，若非如今相枢势大，可真不想同那些外族人扯上关系……”
-“妖魔作乱又如何？我们五仙教凭自己也可抵御，何必倚仗外人！”
-“我族世代守护五仙，便是身死此地，也不可失了这片净土！”
-“相枢虽然厉害，可真要胆敢来犯，我们五仙的蛊术也不是好惹的！”
-“鸟兽也跑了，花木也枯了，我的虫儿们都……呜……”
-“界青门眼观六路，耳听八方，\n近来相枢现世之事，我自然早已知晓……”
-“近来江湖动荡不安，\n我等在外执行委托之时，亦曾风闻相枢之事……”
-“界青门向来只接杀人的委托，\n至于除魔之事，却是一概不知……”
-“妖魔祸世，杀伐四起，当今世道，倒是收取委托的好时机……”
-“除魔卫道虽非界青所求，但我等亦不能容妖魔在自家的地盘上撒野……”
-“押送失心人的差事当真吃力不讨好，不如去接些寻常委托……”
-“相枢已是举世皆敌，我界青门少不得接下此单，也同那相枢过几招！”
-“我辈既入界青门，便知生死全凭各人本事，乱世之中尤为如此……”
-“我自知学艺未精，却也不甘心就这样倒在妖魔脚下……”
-“相枢乃是数百年前之妖魔，比起真龙之威，更是不值一提……”
-“世人风闻邪魔之名，便惊惶不已，皆是信仰真龙之心不够虔诚……”
-“近来江湖流言纷起，与其担忧什么相枢，不如一心一意供奉真龙……”
-“伏龙坛虽受真龙庇护，那相枢亦非等闲之辈，不可不早做防备……”
-“伏龙坛有真龙护佑，自是所向无敌，即便相枢降临，又有何惧！”
-“若是真有天下大乱之日，真龙定会现身救世！”
-“眼下真龙降世恐已无望，\n如今之势，唯有凭借手中兵刃，拼出一条血路！”
-“如今别无他法，唯有拼死一战……\n但愿往日赤诚，能换得真龙护佑……”
-“真龙究竟何时降临……\n我身微力薄，不知还能否得见那一天……”
-“近来江湖传言多是关乎相枢，此正是我教兴盛之机……”
-“近来江湖多有风波，一切皆是相枢大神之神威所及……”
-“我等诚心祭祷，也不知相枢大神何日才能驾临……”
-“我教虽是颂扬相枢大神之威，难道相枢大神竟真有降临之势……”
-“如今四处皆是相枢大神座下门徒，尽早加入我教，方可得享庇护！”
-“相枢大神日渐强盛，我等小辈也好跟着吃香喝辣！”
-“相枢出世，我亦自知难逃此劫，如今只好放手一搏了……”
-“教中已有不少人死于相枢之手……\n休要欺我血犼无人，我等岂会坐以待毙！”
-“听闻相枢降临，教中已是天翻地覆，我等自是不肯再受蒙蔽了……”
-“自我奉命严守库房，同门无不鼎力支持，\n我等已于库房内外做足守备，列下阵来，众人功力合于一处，可御强敌，自是万无一失……\n你且莫要与我攀谈，以免误了我的重任……”
+"In the past, the Dharma Masters did not avoid the chaotic world and passed on the martial arts to promote the Dharma, and what they did was precisely the vow to universalize all sentient beings ......"
+"Don't do all evil, do all good ...... Without this compassion, how can one attain Bodhi ......"
+"All dharmas are born and all dharmas are extinguished due to karma ...... By realizing the principle of impermanence, one can realize that there are no obstacles ......"
+"The Zen doctrine is often characterized by the interplay of wit, rain, stick and thunder, those elm brains can't handle it ......"
+"All beings who have heard the Dharma and still cannot realize it will be dispensed with by the stick in my hand!"
+"Discussing Zen and comparing martial arts is all cultivation, so we must not be negligent, and we should do our best!"
+"Whether one wins or loses in Zen, the aim is to understand the mind and realize the true meaning of it. ......"
+"All dharmas are empty, so why should the monk be obsessed with a momentary victory or defeat ......"
+"Daily meditation is always boring, just the right time to move your muscles ......"
+"Does the monk want to see the power of our sect's '72 Stunts'?"
+"'One thought of righteousness, a hundred evils recede; one wrong thought, ten thousand calamities come',\n施主 must bear in mind ......"
+"Dharma is in the world, not separate from worldly consciousness, I hope the monk will not go astray ......"
+"The Zen machine's wonderful theory is not about words ...... the 施主 need to realize it by heart ......"
+"If you only learn from monks who meditate and recite scriptures, you can't penetrate the Dharma ......"
+"My Shaolin Kung Fu is based on Zen into martial arts, I'm afraid it's difficult for you to realize Bodhi if you don't have the wisdom root ......"
+"Think of the year, the ancestor of a call, with the Shu Zhong group of warriors to kill the treacherous and evil. \n Now phase pivot chaotic world, my faction in the past to caress the present, more should be sharpened self-reflection ......"
+"In the past years, bandits were rampant in Shu, and even the demonic chaos ......\n Fortunately, there is an ancestor to subdue the demons, and to restore a clean land in Shu ......"
+"The world is so big that there are many talented people. \n Various groups of warriors to dedicate our school, accumulated years and years, and finally became our school today's martial arts ......"
+"Emei a school, both the world's martial arts, so the factions, loose door rules ......\n I'm happy to get away with it!"
+"To think that my Emei Ancestor, famous throughout the martial arts world and at the drop of a hat, is so majestic!"
+"My Emei school, can be called the leading of the righteous way,\n you and I this sparring, open and aboveboard, will be beneficial to each other ......"
+"My Emei disciples, although happy to spar with others, but after all, fists and feet have no eyes, it is better to be careful ......"
+"My Emei martial arts emphasize eclecticism, this sparring match, please teach me more ......"
+"My school's gong methods are full of tricks, this sparring session, and let me see how you will respond ......"
+"Since I inherited from Emei, I know all kinds of martial arts, \n you want to see my methods, this is a move to try!"
+"The world's martial arts out of Emei, \n if you diligently practice, know two or three methods, you can master a lot of ways to meet the enemy ......"
+"Emei martial arts contain all five flowers and eight leaves. \n If I can help you cultivate, I may be able to help you find a way to save the world ......"
+"My school of kung fu a thousand convergence of ten thousand shapes, and each person's talent is also different,\n you want to practice, I should teach according to the material, in order to get twice the result with half the effort ......"
+"The variety of my Emei techniques is too great to mention,\n you practice this one today and that one tomorrow, I think it can be quite interesting ......"
+"Emei martial arts all-encompassing, profound, \n you if you can learn all of them, from now on to travel the world, is a hundred no taboo ......"
+"My valley often invites healers from all walks of life to study the way of healing."
+"My valley time standing altar on medicine, just want to save more world ......"
+"To set up an apricot altar to discuss hanging pots, and to visit an orange well to teach a green bag, is the wish of our sect ......"
+"My valley often invites medical doctors from all over the world to have long talks, but I can't sit still,\n rather than enjoying myself in the forest!"
+"Among healers, no one is unaware of my Hundred Flowers name, and often healers from all over the world come to ask for advice."
+"Literature is more than medicine, martial arts is more than testing needles, this is the basis of my Hundred Flowers to help the world!"
+"Fist and feet have no eyes, if you hurt each other, it is not beautiful. \n You and I do not want to compare art and literature than, how?"
+"The way of medicine and martial arts is between dialectic, \n you have this intention, how can I refuse?"
+"The art of flying needles in my valley can pierce through gold and break rocks, if the flying needles hurt you, don't blame me!"
+"If you learn my Hundred Flowers martial arts, you can have your hands on life and death ......"
+"The Hundred Flowers Kung Fu are all passed on from the White Deer, Xuan Owl taught medical science,\n so when practicing, you need to keep in mind that the heart is good, and medicine into the way of martial arts."
+"If the world is like you, willing to learn the art of healing and living, how could this Jianghu be so dangerous ......"
+"The road of the jianghu is full of hardships and dangers. \n If you practice our school's techniques, you will have the power of self-preservation, no need to be afraid ......"
+"People say that my Hundred Flowers Valley is not good at fighting, but this art of healing people may not be incapable of killing people ......"
+"Having learned my Hundred Flowers Essentials, with both the art of killing and the art of living in your hands, wouldn't \n be able to live when you want to live and die when you want to die?"
+"Our sect adheres to the teachings of the True Man, preaching the Way through martial arts and cultivating the heart through the Way ......"
+"'A sage has no constant mind, but takes the people's mind as his heart.' \n Cultivation and cultivation of the heart, should always think of the people's heart. ......"
+"All things change for the better, and the better for the longer, and nothing in the world comes out of this ......"
+"The Wudang Way is cultivated in the world, unlike the common way that only knows how to meditate behind closed doors, which is boring as hell ......"
+"This mountain is Zhenwu sitting in the town,\n the martial arts sects heard my Wudang great name, all fear and respect three times!"
+"The Way of Heaven loses more than it can make up for, so our generation should cut up and make up for each other from time to time ......"
+"He who is a Taoist must always be kind, and must not strive for victory ......"
+"Cutting and discussing the Tao, the law is natural, just point to the point ......"
+"Cultivation for a long time is also boring ...... How about playing two tricks with me?"
+"You want to compete with me? Why don't you weigh the depth of your own Dao first ......"
+"Cultivation is not a quick fix, it must be practiced diligently day in and day out without slacking off ......"
+"Our school uses martial arts to support the Dao, and although martial arts have their shortcomings, the Dao is not divided into high and low ......"
+"Wudang's method should be in refining qi, do not be impatient, qi to the natural force up to ......"
+"The Tao is not bound by common law, if you can understand this, you are not far from attaining the Tao ......"
+"The Way is born of the heart, and since one is bent on cultivating the Way, one should not be hindered by external objects ......"
+"The Yuanshan Sect was founded in the beginning to get rid of demons, and it has remained unchanged for hundreds of years ......"
+"Seeing that the world was suffering from the pain of the Sangha, the master of our school made a sad wish to give up his life to save the world ......"
+"Yuan Shan has many prohibitions and door rules, remember not to overstep the rules ......"
+"Often in the faction of purification and austerity, time and time again, but also a different kind of fun ......"
+"With my skills, if a demon dares to get in the way, I'll kill every one I see!"
+"Since we are practicing cultivation, we should have no fear of trials and tribulations, so what's the harm in suffering some skin and flesh!"
+"You and I both aspire to get rid of demons, we should help each other and build up more ......"
+"Yuan Shan Shi keeps the path of austerity, all of my fellow disciples are like this, so naturally I must not slack off ......"
+"Although it is a sparring match, you should also treat each other with all your strength,\notherwise, you can not experience the joy of this bitter cultivation ......"
+"There's no need to be merciful in your strikes, in the coming days, if you're up against a demon, you won't be able to care about any mercy!"
+"What is more important than cultivation is to always be righteous ......"
+"Be compassionate at all times so that you can make good use of my Yuan Shan method ......"
+"All the gong methods passed down from my Yuan Mountain are for the purpose of subduing demons and subduing devils, and are not to be used for any other purpose ......"
+"Demons are deceitful and unpredictable, since you and I are people who eliminate demons, there is no harm in using some means ......"
+"Everything in this world is based on getting rid of demons, if you dare to get in the way, just get rid of them!"
+"There is no lack of sentimental and courageous heroes in the Lion Phase Sect, \n promising, promising!"
+"The lion phase of the door of the people of the jianghu mood, \n weekdays, although each according to the hall, the enemy will be like an iron plate ......"
+"Since my ancestor, the 'Avatar General', founded the Lion Phase Sect,\n so far I don't know how many years have passed ......"
+"The Lion Phase Sect guards the major sea lanes, often with the ship merchants, \n unintentionally also heard a lot of overseas anecdotes ......"
+"The person who will show his skills in the Lion King's Ring in the coming day is none other than me!"
+"What my Lion Phase Sect doesn't lack is guts! Come here!"
+"Disciples in the door to cut, often have the hands do not know the time, \n you must pay attention to ......"
+"It is often said in the door that 'no fight, no acquaintance',\n you and I this match, when it can add a few more points of friendship ......"
+"Drill drill drill from time to time, it's worth it for the sinews ......"
+"There are often uninformed people who come to the gate to set up a ring, I see that you are different from them ......"
+"There needs to be a bit of bloodiness in your bones in order to comprehend the true meaning of my Lion Phase Technique!"
+"How can you keep the people around you safe without practicing hard skills ......"
+"The Lion Phase Sect relies on a hand of horizontal external strength,\n just to see if this body plate of yours is solid enough ......."
+"There is no lack of disciples in the sect with hair as dense as a lion's, could it be related to practicing the Lion Phase Technique ......"
+"If you practiced in my sect for a few days, those fancy fists and tricks outside would naturally be no match!"
+"Daily recitation of morning and evening homework, spitting out the clear, \n such a cycle is the path to immortality ......"
+"Ran Mountain responds to all requests and grants all wishes of mortals, so this place is regarded as an immortal mountain ......"
+"Each of the three sects does its own thing and harmonizes with each other, so that my Ran Mountain has survived for thousands of years without decline ......"
+"Ranshan disciples travel the four seas, exploring the secluded and seeking victory, cultivating that self-contained immortality ......."
+"All the things of the red dust, disturbing the mind, misleading my cultivation, when it is really not beneficial ......"
+"Disciples of the sect compete in martial arts arguments, not asking whether they win or lose, but giving it their all will do ......"
+"The disciples in the door mostly like seclusion, when you and I compete, do not clamor ......"
+"The Ranshan School does not like to fight, weekday arguments,\n what they do is just 'to solve the hatred and fight Qieqie' only ......"
+"If no one cuts and competes, it is the days of the gods that are inevitably monotonous ......"
+"My generation does not ask about mundane matters, specializing in cultivation,\n regardless of the cultivation of literature and practice of martial arts, are not ordinary people can be compared to ......"
+"Ranshan Kung Fu is a mysterious word, \n if one or two wrongly memorized, it is a thousand miles, remember remember remember!"
+"Although it is difficult to memorize Ranshan's oral recitation,\n once it is completed, it is out of the mouth to the heart, without any stagnation ......"
+"The way of heaven is constant, and cannot be dried up and reversed; the same is true for our cultivation ......"
+"As we practice the Way of the Immortals,\nIf we stick to these complicated and arcane incantations, we will fall short ......."
+"If you wish to ascend to the Green Lang Pavilion and seek the Dao of the Immortals, you must learn more than the others!"
+"At the top of the Goddess Peak, the sea of clouds is so long that the people in my sect watch this from time to time for self-reflection ......"
+"Although our sect is far from the mortal world, we also take care of each other with the people of Jingchu ......"
+"Our sect lives deep in Wushan Mountain, out of the mortal world, and rarely interacts with outsiders ......"
+"In the midst of the Witch Mountain, one can view the clouds and mist, and enjoy the thousand refuges, so where can one see such a superb view?"
+"Our school is situated at the top of the Goddess Peak, and from the top, we can look down on all things and beings ......"
+"Although I live deep in the mountains, my cultivation has been unceasing, so why should I be afraid of you to try my hand at it!"
+"Failed to penetrate the ' Jade Mirror' secret method,\n I had no intention of competing, and for you to play a piece of my newly learned tune ......"
+"My school's gong methods are the most strange and magnificent, between cuts, you don't want to spend your eyes ......"
+"After all these days of playing the zither, it's not as good as the music, so it's better to spar with you!"
+"I Xuan female a great art out of the dust, I'm afraid that in less than a few strokes, will be able to make you spellbound ......."
+"My Xuan Nü Kung Fu is meant to be spiritual and strange, and the God is meant to be sincere and true ......"
+"When I tried to comprehend ' Jade Mirror', I hallucinated the goddess's mournful color, which seemed to shed tears for the living beings,\n I don't know what kind of scene you can see ......"
+"I Xuan female all the essentials, are transmitted from ' Jade Mirror' in the Goddess, \n do not know whether you can have the blessing, can see the Goddess ...... "
+"If you want to practice the Xuan female gong method,\naturally, you have to have a bit of the appearance of a goddess, wait for me to fix your hairstyle first ......"
+"You want to penetrate the wonders of ' Jade Mirror' too?"
+"Fine carving is the only way to get a good weapon; a thousand hammers make a good soldier ......"
+"The body, the lattice, the spine, the hilt, each is the work of a craftsman ......"
+"Hardening the most depends on the fire, there must not be a millimeter difference, too much or too little, are inferior ......"
+"The ordinary rough people only know that the casting of sacred weapons in the village, but do not know that I cast the sword organ of the exquisite ......"
+"The only thing I want from the Sword Casting Villa is a divine weapon, the rest of the mortal iron and mundane equipment is not acceptable!"
+"Iron becomes steel after a hundred refinements, and a man becomes a genius after a hundred refinements!"
+"Although I am good at casting weapons and armor, my Sword Casting Villa is by no means a good and brave person ......"
+"'The stone of other mountains can attack jade',\n I cast swords a door are practicing craft, naturally understand the reasoning of this cutting ......"
+"Competition is not in a hurry, and show your hand blade,\n let me see what kind of color ......."
+"But you want to compete with me? I was worried that there was no one to test my sword!"
+"If you want to learn the craftsmanship of my Sword Casting Villa, you must have the awareness of fighting against this iron furnace for a thousand days ......"
+"Hammering and forging, casting and metallurgy, carving and sculpting, \n the art of casting my sword, not only must have a handful of hard skills, but also need a heart of sincerity ......"
+"The martial arts and craftsmanship of my Sword Casting Villa are complementary and cannot be neglected ......"
+"Learn my sword casting this hand clamp hammer anchor cone,\n wouldn't it be a hundred times better than what zither, chess, calligraphy, painting, and flowery fists?"
+"The art of sword casting was passed down by Master Ouye himself, and even if ordinary craftsmen had studied it for a hundred years, they would not be able to match it!"
+"The alchemy must be fully concentrated, if there is a moment of distraction, the Dan may be destroyed and killed ......"
+"When the medicine of immortality is refined, the world will no longer suffer from old age, sickness and death ......"
+"The clear snow outside the mountain is like a wash, but only I have four seasons of spring inside the Khongsan Mountain ......"
+"Our sect is hidden in Liaodong, even if there is a bloody storm outside the mountain, what does it have to do with us ......"
+"People say that the ancestor of the Air Sang was a generation that avoided disaster to Liaodong,\n swallow sparrow, An know my faction's plan for a thousand years of longevity ......"
+"Dandao martial arts are all about life, even though it's a competition, you can't be careless!"
+"We cultivate only for longevity, if we hurt each other, it will go against our wishes ......"
+"The way of alchemy, not based on the empty mouth to discuss the length, must wait until the dan is completed, only to see the high and low ......"
+"Hemlock bird hair, crow's beak medicine, I use this medicinal cream but do not distinguish between light and heavy,\n don't know ...... whether you are afraid or not?"
+"There is a difference in the color of the dan, and there is a difference in the strength of the people, \n if you want to compete, then go ahead and make a move!"
+"The king, the minister and the seven emotions are paired together, \n learning my Air Sang Kung Fu, the rules of pharmacology must first be clear in the mind ......"
+"My Air Sang lineage emphasizes the longevity dan Dao the most,\n for waiting for the dan to be completed, naturally there are also some methods to prolong life ......"
+"My Air Sang lineage of martial arts was inherited from the pre-Qin Dynasty,\n want to learn our school's techniques, you need to be proficient in the square technique ......"
+"Having learned the art of medicine and poison of our school, if you poison all the others into short-lived ghosts, then you can also be called 'long-lived' ......"
+"You want to learn medical science? Toxicology? \n all just for my empty mulberry way of life, paving the way for the foot ......"
+"When we have cultivated ourselves, we will cleanse the world of its filth ......"
+"A barbaric and barren land, only the infinite Dharma of the Supreme Being can illuminate the hearts of the people ......"
+"The borderland fools are ignorant,\n we pay tribute to the Buddha every day, since there is no shortage of their blessings ......"
+"Outsiders only say that the Buddhist precepts are strict, but they don't know that outside the precepts, there is ultimate happiness ......"
+"In the name of the Tantric Buddha, we uphold the supreme and true law of life and death, who dares to argue!"
+"All beings are equal under the Dharma, so don't blame me for showing no mercy ......"
+"I am not a person who fights viciously, since you want to compete, then I have to offend ......"
+"Amitabha Buddha ...... Since there is no profit to be made, why should we care about winning or losing ......"
+"Competition cuts, and it is inevitable that there will be unexpected things, you can just take it as the Buddha's will ......"
+"Why don't you walk in front of the Buddha and find out how much weight you have!"
+"The true words of the Buddha must be in accordance with the three secrets, do not speculate with a mundane mind ......"
+"If mortals cultivate the divine power of our religion, they can also break the shackles of the earthly world and attain Bodhi ......"
+"The Gods and Buddhas of the heavens are above, and one must show sincerity to be given the true words ......"
+"The true words of the Buddha's teachings can only be realized through physical realization; don't follow the rules of the laymen and do those useless things ......"
+"If you have attained my Infinite Buddha Dharma, your body will be on a par with the heavens, and you will regard all people in the world as ants!"
+"The foreigners are all hypocrites and cunning, I don't want to be half involved ......"
+"Five Immortals poisonous parasites are all sorts of strange, \n if you are new to this place, be careful to get caught in the way ......"
+"The sect has its own laws, and outsiders should be careful to follow them so as not to cause trouble ......"
+"When outsiders come here, they can't help but get a taste of the compulsion,\n that's a real show ......"
+"If an outsider dares to commit an offense, he will be poisoned to the core and be unable to die!"
+"With the Companions beside me and the Five Saints protecting me, would I lose to an outsider!"
+"The Five Immortals' Compulsion is not an ordinary method of healing, so you should be careful ......"
+"Jianghu know my five immortals poisonous compulsion name, easily dare not compete with us ......\n you are ready for everything?"
+"Let's see, which compulsion will be planted today ......"
+"Just in time, would you like to try my newly refined compulsion?"
+"Miaojiang secret arts have been passed down from generation to generation,\n if not ' Taiwu', never easily granted to outsiders of the reason ......"
+"In my Five Immortals practice, every blade of grass, every tree, every insect and every beast must be cared for ......"
+"Outsiders see the poison of the Five Saints, are avoided, \n 然如果是深谙其理，其实也無足畏惧......"
+"Repair my five immortals secret method, just with a body of strength can not be enough,\n first have to ask the worms mean ......"
+"If you can't recognize a hundred poisons and still really want to learn the secret methods of our religion, you'll have to fend for yourself ......"
+"The world is divided into nobility and inferiority, and I treat them all the same, \n into the realm of green roster, there is only one death ......"
+"Our generation act has nothing to do with enmity, just life and death is not by oneself,\n only wish the living to enjoy, the dead rest in peace ......"
+"Living in the world of green, have long been accustomed to seeing life and death, \n fame and wealth can be geometrical, and finally a shovelful of Longtou soil ......"
+"When a person is about to die, his or her situation can be so varied that it really makes my day ......"
+"Regardless of the martial arts masters, or the powerful, there is no one in the world that I can't deal with!"
+"The killing opportunity is but a moment, within a few moves, it's enough to see victory or defeat, make your move!"
+"Since it's a sparring match, I won't lay my hands on you, but you should keep an eye out ......"
+"All that Boundary Qing has learned are killing moves, and the slightest carelessness will put one's life at risk. ......"
+"What have you got, but it's all hidden tight? Don't let me see the cracks ......"
+"If you want to make a move in front of my Boundary Green Gate, you should not blame the sword for being blind!"
+"Everything has a price, if you want to cultivate my Realm Green Kung Fu, you must follow the rules of my sect ......"
+"The Boundary Green Kung Fu is about cleanliness,\n so that those who are bound to die are spared from suffering, and how is it not compassionate ......"
+"The method of killing is certainly easy, \n how to do the knife through the bamboo solution, leaving no trace, is difficult ......"
+"The opportunity to win or lose is in the twinkling of an eye, if you are as rigid as the famous sects, \n how will my sector of the Qing Sect attack the enemy's unpreparedness and win by surprise?"
+"Above the rivers and lakes, this is a thing of the world, \n my world Qing Qimen Dunjia, flying needles and stone throwing techniques, \n all for the martial arts factions to prepare for the killing moves ......"
+"The only true dragon in the world can be called a true god, the heavens and the sun are clear, there is no room for doubt!"
+"If you offer a sincere heart, you will surely seek the blessing of the true dragon ......"
+"If you come often to offer gold and silver, perhaps you can also dip some of the dragon's grace ......"
+"The world is full of mortals, how can they recognize the appearance of a true dragon?"
+"If anyone dares to block the True Dragon's ride, he will be reduced to pieces in an instant!"
+"There are no cowards under the seat of the True Dragon, no need for words, let me see what you can do!"
+"Since we are going to have a competition, and drink this cup, it will not be out of line with the way of hospitality of my Voltron Altar ......"
+"The wine is so strong that if it hurts you, don't blame me ......"
+"Feel free to do any stunts you have, just to help me with my drinking!"
+"When this pot of wine goes down, when the time comes to move, you won't be able to care about much!"
+"The method of ambrosia is exactly like a blazing fire, whether it can refine real gold or not, \n depends on your ability!"
+"Pure Yang Li Fire to pure and strong,\n practitioners who mess with the law, will certainly lead to fire and burn their bodies ......"
+"Want to cultivate our school's gongfu, but I don't know how much you can drink? \n If you can't drink a few cups, even if you learn the Gai Shi Shen Gong, it's hard to see the power ......"
+"What fun is there in practicing kung fu and martial arts all day long if you don't have wine and food to go with it?"
+"If you acquire this martial art, what gold, silver, and treasure will you not have!"
+"Heaven is unfair, the world justice has long been upside down and misplaced,\n our school but another look for a side door, maybe we can find a way to get rid of the evil ......"
+"The world is in turmoil, and there is no day. \n Everyone is suffering terribly, but I don't know where there is a way to live ......"
+"I blood hag a door has a bad reputation, always not for the world, \n do not know that the world is muddy, but the world's old crows are generally black ......"
+"There is a good thing about deviation, \n there are no such rules and regulations in my Blood Harvest Sect, just get away with it!"
+"If I have the power to lift the sky and uncover the earth, I will take it. \nWhich cares if it is an evil demon that kills and harms people ......"
+"If you have such boldness, I shall be obliged to meet you in battle!"
+"Since you are frankly invited, you should know that I am a member of the Blood Harvest, and I do not use any means to strike ......"
+"With my blood horde religion acting style, \n I make some means, you also make some schemes, \n have to come and go, there is no harm ......"
+"This fist fight is quite boring, \n why don't you find some games and then come back to argue with me?"
+"If I strike, there will be no room for error, so don't blame me!"
+"The door in the gong method, all appalling, \n today teaching and learning to you, only hope that you can find some neutral proper method ......"
+"I only seek a way to survive, and practicing this sinister technique is also a matter of necessity ......\nWhy are you doing it?"
+"Blood Harvest Kung Fu, can be called a crooked door strange skills,\n since it was able to circulate, has its own reasoning ......"
+"Compared to the so-called righteous path,\n Blood Harvest Kung Fu is by no means a stream of conformity, and it is much more interesting to practice ......"
+"If the heart has great aspirations, what harm is there in the way practiced? \n For the sake of the great cause, no matter what kind of evil work can be used ......"
+"The capital is the place where all kinds of theater gather, \n after watching the big rope walk, hand skills, flying swords and jumping pills, you can also watch the theater horses, cockfighting, dry boats and mountain carriages, \n it's really a dazzling array of things to see!"
+"Nowadays, although the capital city is prosperous, but not as good as before ......\nI don't know what kind of scene is contained in the book, 'carving cars competing in the heavenly street, BMWs competing in the imperial road'... ..."
+"In the area of Jinggi, there are many monasteries and temples, and they often organize fasts. \n addition to giving alms, but also exotic antiques trading, lively and extraordinary ......"
+"The winter months around the capital city are cold, making it difficult to produce vegetables and tea. \n heard that from the top to the powerful nobles, down to the people, all need to collect winter vegetables in advance, in order to fulfill the winter consumption ......"
+"Wuhou Shrine in Shuzhong has a monument,\n is the Tang Dynasty Pei Du writing, Liu Gongchuo book, the famous artisan Lu Jian engraved, people called 'three best'."
+"Chengdu is a fertile land with a favorable climate and abundant produce, and it has been prosperous since ancient times!"
+"The Ba Shu dialect is quite interesting, if you have not heard it, I will tell you ......"
+"Have you ever heard that 'Emei is the world's most beautiful and Qingcheng is the world's most beautiful'? \n I am interested in going to enjoy ......"
+"It is often said that 'the landscape of Guilin is superior to the rest of the world', since you are here, you should enjoy yourself ......"
+"Guangnan this place fruits and melons are very prosperous, \n you have come to Gui Zhou, since you have to taste some, not regret and return."
+"The villages of Quang Nam have a mixed population of various ethnic groups, with different folkways and customs."
+"The people of Guangnan are fond of songs and good at dancing, \n the time of marriage, both sides need to harmonize with mountain songs before they can tie the knot."
+"Xiangyang is the thoroughfare of the nine states, and merchants and travelers gather here,\n whether they are buying goods or poking around for rumors, it's the perfect place to go ......"
+"There are ancient battlefields outside of Xiangyang, \n rumor passes through here, can still hear the incessant fighting ......"
+"Jing Chu has been full of tall and handsome people since ancient times, and there is no lack of insightful people everywhere ......"
+"There are two rivers and a thousand lakes around Jingxiang, and you can see the scenery of the Chu land by rafting on them ......"
+"Taiyuan has been full of heroes since ancient times, and the place where the Tang dynasty's dragon flourished is this city ......"
+"The city is fond of corn and wheat, and the variety of pasta is so abundant that it can be described as everything ......"
+"The people of Shanxi emphasize righteousness rather than profit, live in poverty and do not discount it, quite like the style of ancient chivalry ......"
+"The mountains and rivers of the land of the three jin, raise your eyes and you will feel a few points of broadening of the chest ......"
+"Guangzhou is full of strange men and women, and I have heard that the place where these strange men gather is called 'Fanfang' ......"
+"At first, Guangzhou merchants mostly sold silk overseas,\n later, people overseas learned to raise silkworms to draw silk, and switched to selling porcelain ......"
+"Around Guangdong, there has been the custom of 'Dancing Grass Dragon' ......\n Grass dragon is made from bundles of swords and grasses on the mountains, and needs to be 'transformed into a dragon' ceremony on the seashore. "
+"I heard that the Lingnan Road was divided into East and West back then,\n this place was ruled by the East Road, which gave it the name 'Guangdong' ......"
+"Qingzhou faces the mountains and the sea, and is deeply favored by fish and salt. \n over the wicker, blending, storage of brine, crystallization, shoveling out the five steps to produce salt, the lack of one."
+"I heard that this area of Qingzhou to build 'Fan Gong Pavilion', the worship of Lord Wenzheng endless; \n and 'Longxing Temple' incense such as clouds, you can go to see."
+"Rumor has it that when the First Emperor traveled east, he paid homage to heaven and earth in the mountains and rivers and fields of this Qi land ......"
+"The East China Sea now stands a pavilion, you can go and watch, listen to the view, as if in the realm of the immortals ......"
+"Jiangling is the gateway to the Central Plains, \n since ancient times is the place where soldiers must fight, climb high on the fence, see the ancient city walls."
+"Jiangling is located in the zephyr country, the waters are intertwined, the old custom of the most popular May 5 ferry racing theater boat."
+"The people of Chu are good at sad songs, and they often use them to express their feelings, and their voice is so mournful that it makes people cry when they hear it."
+"Wushan clouds and rain, Dongting smoke and waves, \n the land of Jingchu more wondrous scenery, so the migratory guests and scholars have left a lot of ink."
+"Fuzhou is planted with many banyan trees, which fill the city with green shade and do not wither in years."
+"Rumor has it that back then, when that Three Buddha Qi came to the court, it boarded a ship from the port of Fuzhou and arrived ......"
+"I heard that that Min cuisine is a collection of three local talents from Fuzhou, Minnan, and Minxi, \n refreshing and tender, focusing on seasoning the soup, it is amazing."
+"It is often said that 'eight mountains and one water, one field',\n that is the scenery of Fujian which is surrounded by mountains and terraced fields into the clouds ......"
+"Although the Liao land is bitterly cold, but this silver sculpture flying building, ten thousand trees pear blossom scene, and is not the Central Plains to see?"
+"It's freezing cold, so it's a good thing there are people in the city who build wood for fires and set up soup kitchens for people to bathe in to keep warm ......"
+"In the northern part of Liaodong and Sebei, there is little admiration for the king, and in the villages, the old customs are still followed."
+"Both visit the northern border, this snow outside the plug, thousands of miles of frozen scenery can not be seen in the mainland of the Central Plains, \n why not go to see?"
+"Street hucksters not only look strange, they also sell strange goods ......"
+"The city is full of visitors from foreign countries, and there are often many unintelligible words when you walk on the streets ......"
+"All the daily necessities here depend on the snow water from the top of the mountain, and where there is water, there is human habitation ......"
+"The desert is deserted and uninhabited, if you don't have enough food and water, you can't dare to travel casually ......"
+"There is no cold in winter and no heat in summer in the city, so you can stroll around and watch the flowers in your spare time ......"
+"I have heard that the witch doctors of the Dali Kingdom have great powers, and their spells are invariably effective,\n I don't know if it's true or not......"
+"The Miao village style is different than the Central Plains, without all the red tape, it is much more comfortable ......"
+"Although this southern border has beautiful scenery,\n but also more poisonous insects and miasma, out of the house can be careful ......"
+"Whether or not King Huainan's divine magic works is unknown, but the art of tofu is really brilliant!"
+"It is rumored that the King of Huainan was good at the art of the immortals, \n raising the Founder Bakong, who could refine gold and turn it into elixir, and this mountain was also named after 'Bakong'."
+"I heard that there was once a kiln town in this Huainan, whose glaze was mostly green and yellow, rare in the world ......"
+"This place produces a lot of cloth, all kinds of silk, indelicate, cotton and hemp."
+"Listening to the sound of this Qiantang tide at night calms the mind ......"
+"How many legends of talented men and women have come out of Xizi Lake ......"
+"Jiangnan is the land of fish and rice, even if it is the township countryside, it has to be rich ......"
+"Although the land in Jiangnan is not extensive, cave heaven immortal mansions, Zen forests and Brahma palaces, but also abound ......"
+"Yangzhou has been a prosperous place since ancient times, with a boat at three steps and a pavilion at five."
+"As the old saying goes, 'Up there is Suzhou and Hangzhou, down there is Huaiyang',\n can this Yangzhou ten scenes, may not be as good as that Hangzhou West Lake ......"
+"The customs of the northern part of the river vary greatly, it can be said that ten miles have different sounds, and it is not possible to generalize."
+"Jiangbei is located in the plains, fertile soil thousands of miles, and near the sea to control the lake,\n is the key transportation place of the north and south waterways."
+"Although Taiwu Village is in the human realm, it is free of the turbulent world's disturbances, a good side of pure heaven and earth ......"
+"Listening to this north-south accent, you can tell that the residents of Taiwu Village came from the four seas ......"
+"This place arcane stone forests, ghosts and shadows, very people can stay for a long time, \n continue to stay, I am afraid of being unpredictable, you also quickly leave the strike ......"
+"I heard that the ancestor of the Taiwu Clan sacrificed his life to save the world in the name of the Great Self, such a broad-mindedness is admirable ......"
+"I have heard that the Taiwu clan has been passed down for hundreds of years, and has always been an example for benevolent people to follow ......"
+"I heard that the Taiwu Clan only rely on the idea of eliminating demons, generations have been passed down to this day, it is indeed not easy ......"
+"Although I have not had ' Taiwu'that kind of heart to help the world,\nbspbut since childhood to hear some of the story of Taiwu I, but also can be called bizarre ......"
+"I heard that the ancestors of the Taiwu Clan made an oath with the various factions to learn the strengths of a hundred schools of thought,\n when to teach me a few moves, or let me be awesome ......"
+"Nowadays, demons appear frequently and everyone is in danger,\n I should be more like the Taiwu heir, and stick to the heart of the righteous path ......"
+"Nowadays, demons appear frequently, and everyone is in danger,\n fortunately, there are Taiwu heirs to rise to the front, so as to stabilize people's hearts a little ......"
+"The world is becoming more and more desolate, but I hope that the Taiwu heir will pacify that Xiangshu demon as soon as possible,\n this bitter day can also come to an end earlier ......"
+"Only the Taiwu heir that kind of character,\n party can come and go freely in this chaotic world, can be really enviable ......"
+"Nowadays, the world is in chaos and confusion,\n if I can have the same skills as the Taiwu heir, which one still dares to be wild in front of me ......"
+"Since ancient times, evil does not suppress good, Taiwu's heir will surely be able to defeat Xiangshu and save the world from the danger of being hanged upside down!"
+"Demons descended on the world, the sun and the moon have no light ......\nIf it were not for the Taiwu heir to save the world, it would have been difficult for the people to be spared from the catastrophe ......"
+"Now that the scourge of the Phase Hub is upon us, whether we die or live, we can only count on the Taiwu Successor ......"
+"Today there is wine and drunkenness ......\n If it were not for Taiwu's heir, where would I have the life to drink wine now, hiccup ......"
+"That phase center is so horrible ......\n the world's strongest is honored, now it is only rely on the Taiwu heir ......"
+"Now that the Taiwu Successor has come back, breaking the Phase Hub incarnation by force and helping the world, \n I can't lag behind!"
+"Now that the Taiwu Successor has resurfaced in the world to quell the harm of the Sangshu Incarnation, it is a blessing for all living beings ......"
+"I heard that the Taiwu clan has been in hiding for more than a hundred years, but now it has resurfaced in the world,\n can be said that the sky is not the limit ......"
+"I heard that the Taiwu heir has a unique method of removing demons, so good, but don't take the limelight away from me ......"
+"If the Taiwu Successor is really as rumored, bearing the method of fighting against the phase pivot, it can indeed be an aid for us to get rid of the demons ......"
+"Although the world is difficult and dangerous, now we have the help of Taigu's heir,\nWe shall cleanse the turbid filth and not allow the demons to cause trouble again!"
+"In such a chaotic world, how can we let the Taiwu heir run around alone,\n we will also do our best to help those in danger ......"
+"Now that the world is in danger, the Taiwu Successor has stepped forward,\n we, as the righteousness of the martial arts world, have no reason to sit back and watch ......"
+"The Taiwu Successor is truly extraordinary, when he goes up against Xiangshu in the coming day, the sight will be wonderful!"
+"The Taiwu Successor has broken through several sword mounds with his own strength, shaking the martial arts world with his might, it really makes us marvel!"
+"The great righteousness, although death has no regrets. \n Although our generation is not as good as Taiwu's heirs, we should also work together to kill the demons and evils!"
+"Although we do not rival the divine power of the phase center,\n will also do our best to assist the Taiwu heir to save the people from fire and water ......"
+"Seeing that the Taiwu heir has been born to die in order to resist the Sangshu, I and other martial arts righteousness are really ashamed ......"
+"This time we rely on the power of Taigu, if we can defeat the demonic evil,\n will definitely have to invite the moon with Taigu's heir and not get drunk!"
+"Although Taiwu is the only one who can compete with that devil, we must not lose the face of the righteous path!"
+"I heard that Taiwu's comeback, with this opportunity, but also can be a correct Jianghu wind ......"
+"The trouble of the Sangshu has been a long time coming,\n now that the Taiwu Clan is back, I hope that the world can also be a little more peaceful ......"
+"I have heard that the Taiwu heir is armed with a great skill, in the future, if we interact with our polyphase, we will be able to help each other ......"
+"I heard that the Taiwu clan has been silent for a long time,\n now comeback, the world all attention, the Jianghu from now on can be much more lively ......"
+"If I can be like the Taiwu heir, cultivate a hundred arts, I can also fulfill my heart's desire ......"
+"Although the world is in chaos, if everyone is as steadfast in their own hearts as the Taigu heirs, how can \n not set things right?"
+"The world is chaotic and unbearable, Taiwu heir has the will to save the world, everything should be more careful for the top ......"
+"Nowadays, every move of Taiwu's heir is related to the fate of the world,\n but I don't know what Taiwu intends to do ......"
+"Now that the world is changing, it all depends on Taiwu, Taiwu's heir will have to perform well ......"
+"In this chaotic world, Taiwu's heirs, bearing the hopes of the world, should know that the chaotic world requires the use of heavy punishment!"
+"The phase pivot is currently unavoidable, we can only follow the example of the Taiwu Successor and fight to the death!"
+"Taiwu heir relieves the people from hanging upside down, the world is looking at it in the eyes, we should do our best to help ......"
+"The power of the Etheric Heir may really be able to save the tide from falling and help the building from tipping over ......"
+"Taiwu heir has such courage, really want to change the fate of the heavenly act,\n then let me help you a hand!"
+"When the world saw the power of the Sangha, they were all horrified, not to mention that none of them had the boldness of Taiwu!"
+"The ancestors of the Taiwu Clan had sworn an oath with our sect, but the Sagittarius has long since been pacified, so we should put the great cause first ......"
+"What the Taiwu heirs do is also what I want to do, yet each person has his own way, and we can be at peace with each other ......"
+"Taiwu thing, I also heard a couple of, \n now Taiwu heir resurfaced, the jianghu has added a lot of variables ......"
+"I heard that the Taiwu Clan has been passed down for hundreds of years, and it's not small, I'd like to see what kind of winds and waves can be set off ......"
+"The Taiwu Successor seems to have extraordinary skills, if he can join hands with us and work together for a great cause, wouldn't it be like adding wings to a tiger ......"
+"I am not a person who is only interested in profit, and since Taiwu is harboring the righteousness of the greater self, I will not be concerned about the gateway ......"
+"Although the Taiwu heir is different from us, this piece of benevolence and righteousness is also touching ......"
+"Nowadays, the world is unpredictable, whether we can act as we wish or not, we also have to see how the Taiwu heir moves ......"
+"Now that the world is upside down in black and white, the Taiwu Successor is charged with the responsibility of saving the world, so think carefully ......"
+"Since ancient times, heroes come out of chaos, if the Taiwu heir joins forces with us,\n today's world, isn't it the right time to make a name for himself!"
+"Thanks to the high righteousness of Taiwu's heir, since we do not abandon each other, we are also willing to fight against the Sangshu together and serve as dogs and horses!"
+"The world is meant to be in solidarity, regardless of good or evil, we should be in the same boat with the Taiwu heirs ......"
+"Before the great enemy, we have no choice,\n only to work together with the Taigu heir to seek a ray of hope ......"
+"Taiwu heir is truly unparalleled, if I can work hand in hand with such a character against the enemy, it is also the pleasure of a lifetime ......"
+"Taiwu Successor is invincible in the fight against evil, \n if you have this kind of power to help you, what is there to be afraid of, even if it's the Sangshu!"
+"I do not know what the world affairs, \n today to get a meal, then just muddle through today to say ......"
+"In today's world, it's getting harder and harder to make a living ......"
+"Pray to the Buddha, tell the Goddess of Mercy, have pity on the world's roaming demons ......\n scattering gold and silver, leaving flesh and bone, a night is all a dream of yellow sorghum ......"
+"The matters of the rivers and lakes are heard, and it is not for us, the little people, to care about ......"
+"No matter how chaotic the world is, the day has to go on day by day ......"
+"I just saw a person, \n was also a party of power and wealth, but now dressed in the same rags as me ......"
+"The year's harvest is not good, and there is no peace outside,\n alas, this day is getting more and more difficult every day ......"
+"The world is in turmoil and it's hard to even plant a crop in peace ......"
+"Although the crops are our lifeblood,\nbspbut this world, I do not know whether there is life to live until the next crop is ripe ......"
+"Who can say what's going on in the world? If you have a trade, you won't have to worry about not eating ......"
+"Such a chaotic world, I'm afraid that my craft will be lost. ......"
+"Phase pivot current, instead of taking the hard-hunted beast meat, fur for that silver money,\n it is better to leave yourself to enjoy some ......"
+"More and more people are seeking medical help, I'm afraid it's not a blessing, but a curse ......"
+"The world is getting chaotic and more and more people are in dire need of healing ......"
+"Recently, everywhere visible displaced and injured and sick people,\n countless doctors traveling in the clouds to practice medicine, the accumulation of disease, and I do not know how long I can hold out ......"
+"The roads have been rough in recent days, but I hope it won't get in the way of my trade ......"
+"With the Sangha in turmoil and banditry, business is getting worse by the day ......"
+"Come on people! Quickly ...... go and remove that phase center! Rewards and bounties are available!"
+"Readers take quietness for granted, so why bother with those jianghu trivialities ......"
+"'Long too much breath to cover up the tears, mourning the many difficulties of the people's livelihood', \n such a large state of God, but can not accommodate a quiet bookcase!"
+"White bones are exposed in the wild, and there are no chickens crowing for thousands of miles. A hundred of the living people are left behind, and the thought of it breaks one's heart ......"
+"Whether it's rule or chaos, the most important thing is to be able to recognize the situation and seize the good opportunities ......"
+"Chaos has arisen,\n the so-called 'piffle no crime, harboring a crime', this ten thousand slams of family wealth, I'm afraid to become the soil of my grave mound ......"
+"Now that the Sangshu is in trouble, everyone is in danger,\n that gang of foreign vagabonds, even tried to break into my house and take away my grain storage!"
+"Spreading rumors and mobbing, this restlessness is increasing nowadays ......"
+"What is even greater power in the face of this disaster of the phase pivot ......"
+"At the moment of the Sangha, even if I have power over the heavens, I have nowhere to run!"
+"It may not be a bad thing for us greens to occupy the mountains and the world to be more chaotic ......"
+"Nowadays, in the chaotic world, the walled city is not immune to good deeds, we must use heavy punishment to shock the curfew."
+"When the Xiangshu is in charge, there is no peace inside or outside the fortress,\n Big Boss said that the Xiangshu is nothing but a dry bone in the mound, worthy of being Big Boss!"
+"There's been a lot of chaos outside the city lately, we need to send more people to patrol ......"
+"Demon chaos, I am the lord of a city, since I have to protect a side of the people under my rule ......"
+"Even if the phase pivot is approaching, as the lord of a city, I must not abandon the city and leave ......"
+"There are more and more people in the village who don't do their jobs, so can't we just let this land go to waste?"
+"Life in the village is already not easy, but then we run into the Sagittarius robbery, alas ......"
+"People in the village want to run to the city for refuge, but I can't let go of this village ......"
+"Although the town is small, it is also busy with chores, which has the time to pay attention to the strife of the rivers and lakes ......"
+"A small town is not like a big city, and it is inevitable that it will not be able to cope in the face of demonic havoc ......"
+"Xiangshu scourge the world, I also must not panic, the most urgent thing is to stabilize the people ......"
+"Recently, there have been rumors of a demon coming out,\n whatever he comes from, I don't put it in my eyes!"
+"Camp mountain set up fortress, this is to avoid the scourge of the sword,\nbspbut this phase center demon, but it is unavoidable ......"
+"The Sangshu will be approaching, the fortress is restless, I can only support the scene ......"
+"In the past, Taiwu ancestors sacrificed their lives for the well-being of the world for a hundred years,\n so acted, there is indeed a Bodhisattva's heart ......"
+"I can't bear to think about the tragedy of the Sangha's chaotic world, let alone talk about it in front of the Buddha ......"
+"I once heard the Abbot talk about the time when the Sangha wreaked havoc on the world ...... Amitabha Buddha, all beings suffer ......"
+"Shaolin is originally a Buddhist sect, and although it has no quarrel with the secular world, it can't bear to see the Sangshu descending into the world and all the living beings leaving the world in turmoil ......"
+"All living beings suffer from the pain of the Sangha, so we should make an effort to do so with the heart of Bodhi to cross the world ......"
+"I have heard that the Sangha is 'the phase of all phases' ......\nbut the sutra also says that 'if one sees all phases that are not phases, one sees the Buddha', what does that mean? "
+"Although Shaolin does not enter the world of the red, but now that all beings are in danger, we cannot stand on the sidelines and watch!"
+"That phase center actually has such magical powers,\n is to return to the hidden seniors all invited, may not be able to subdue that devil ......"
+"Amitabha Buddha ......If that Sangha is near the world, I'm afraid that this human world will be reduced to an abi hell ......"
+"Recently Shu is quite not peaceful, could it be that the phase pivot demon actually really have a comeback phase ......"
+"Day by day there are gradually small people, under the name of the phase center hundreds of years ago for wrongdoing, make people laugh and cry ......"
+"The world is in constant chaos, and I want to go down to the mountains to help the suffering and save people, but my master says I have to wait a few more years ......"
+"The Sangshu has been in deep turmoil, and although we do not fall into the evil way, we are worried that the people will be robbed ......"
+"Xiangshu scourge reappeared, our sect is a famous sect in Shu, we should take the responsibility of saving the world, and try our best to subdue the demons and remove the devils ......"
+"The disaster of the phase pivot is imminent, we need to practice harder and harder,\n order to be able to do more good and save more people in the coming days ......"
+"The calamity has arrived, Emei, as an example of the righteous path, should support itself until the last moment ......"
+"Although the phase center is three heads and six arms, I Emei also have five flowers and eight leaves to respond to it, not to lose the momentum ......"
+"We usually salute Buddhism and practice martial arts, just for this time ......"
+"Recently, there have been frequent occurrences of strange events, the number of injuries is increasing,\nbspand the rumor of the phase pivot, I'm afraid that the world is going to be in turmoil again ......"
+"Inventory of herbs, organize the primer,\n nowadays the number of injuries has increased, can not go wrong at this time ......"
+"Recently there has been an increase in the number of patients, so the Master often has no time to spare and finds it difficult to teach us ......"
+"The power of the Sagittarius is growing, and my valley should also make early preparations to prevent a repeat of the mistakes made three hundred years ago ......"
+"Demons and devils are in turmoil, and all living beings are victimized by them, so our school has been adhering to the heart of the healers and hanging pots to help the world ......"
+"In such a chaotic world, healers have a great responsibility, I don't know when I will be able to learn and leave the profession to save lives ......"
+"Xiangshu really want to come again, also do not know whether my faction can be as three hundred years ago, lucky to get all ......"
+"White bones are exposed to the wild, and people are suffering, I just want to save one more person with my hands, and I will not fulfill the trust of my master ......"
+"I don't want me to heal such a serious disease when I'm still learning the art, \n don't be nervous ...... and keep in mind what the master said ......"
+"Now that the world is in turmoil, Wudang should all the more move with the times and not act rashly ......"
+"The jianghu is in turmoil and the people are not at peace, so now is the time to go down to the mountain to prove the way ......"
+"Although we are monastic people, but see the people in turmoil, and how can we sit back and do nothing ......"
+"The world is in danger, Wudang should call upon all sects to join in the righteous cause ......"
+"The yin and yang are gradually becoming unbalanced, and the world is afraid that it will be difficult to be quiet anymore ......"
+"Practicing and meditating on weekdays for the coming day to cut down the demons and remove the devils ......"
+"Fortunes and misfortunes are mutually dependent, and in the midst of desperation, one may not necessarily not see the light ......"
+"When this catastrophe occurs, it is all the more necessary to be calm and not to disorganize oneself ......"
+"Although my power is not as good as that of the masters, I should do my best ......."
+"We will be on daily alert, so that we can also respond in a timely manner should there be any movement in the phase center ......"
+"Recently, it has been rumored that the Sangha has appeared in the world, and evil devils and foreigners from all over the world have begun to move ......"
+"We've been on guard against demonic rebellion for days, but so far we haven't seen any sign of demons ......"
+"The great war with the phase center is imminent, Yuan Shan has established a sect for hundreds of years, for this day ......"
+"The phase pivot is coming, if I, the Yuan Shan Sect, don't step forward, what better time to wait!"
+"Demons are now in the world, and strong enemies are present, so it is even more important not to relax your cultivation for a moment ......"
+"Born as a hundred heroes, die as a strong man regulation ......\n At this time of crisis, it is right for me to be the first to go to righteousness!"
+"Now the only way to have a chance of survival is to join forces and fight to the death with the Sangshu!"
+"We have long had the will to fight to the death, just waiting for an order from Master ......"
+"The Lion Phase Sect has been guarding Guangdong for generations, if any evil demon really dares to plague the sea borders, I will not spare it!"
+"The Lion Phase Sect disciples only need to practice diligently and be united as one, so why should they be afraid of any demons?"
+"My Lion Sphere Sect has two great swords and palms! I don't care what kind of demons and monsters they are, I'll cut them all down!"
+"Demon chaos, although we have nothing to fear, the surrounding people are also not free from panic, must be sent to pacify ......"
+"I've heard that a fellow disciple has already been injured by those Sangha minions! Hmph, sooner or later I'll have to help my brothers get justice!"
+"I've recently learned a new and wonderful move, that Xiangshu, no matter how great his skill is, will definitely not be able to do this style!"
+"Our ancestors sacrificed their lives for the country, how dare we be ashamed of our ancestors? \nThe day that Xiangshu comes out will be the day that I, the Lion Sphere Sect, will serve!"
+"As long as I, the Lion Phase Sect, have a single breath of life left, then the Sangshu will never think of taking half a step into the frontier!"
+"Let that Xiangshu's skill be heavenly, the Sect Master will surely lead us to break the enemy invaders, we only need to follow the orders!"
+"Since successive generations of Taiwu in addition to the devil, the phase pivot has been hidden for a long time, is the world of the party, and should be robbed ......"
+"Demons are only a hundred years old, and in the eyes of an immortal, it's just a snap of the fingers. ......"
+"The Sagittarius has been buried underground for a long time, and we have not yet succeeded in our quest to ascend to immortality, so why should we ask about the affairs of the underground?"
+"The danger of the phase pivot must be removed as soon as possible, otherwise I fear that it will hinder our ladder to immortality ......"
+"Recently, when I traveled around in the clouds, I repeatedly saw demons hurting people, could it be that the phase center is really descending into the world?"
+"If we wait until we become immortals, then we will come back to pacify this scourge of the phase center, I think it will be as easy as a palm ......"
+"The calamity of the phase pivot is finally approaching, but the mountain is also difficult to be complete alone, the only way to deal with it is to use immortal spells ......"
+"I only hate that I have failed to seek the immortal way, although I have the intention to subdue the devil, I don't know if I can have the strength to spare ......"
+"Now that the phase pivot is current, I'm afraid the only way to save the world is for an immortal to come down to earth ......"
+"The phase pivot is indeed non-trivial, but the matter of drilling ' Jade Mirror' should likewise not be put down ......"
+"We have been living in the Goddess Peak for a long time, seldom worry about the mundane affairs of the mortal world,\n As for getting rid of the devil to remove the evil, it is also not the way of my Xuan Women's Sect ...... "
+"My seniority is still shallow, and outside of Xuan Nu Peak, with all the tumultuous world affairs, I really shouldn't be too curious ......"
+"' Jade Mirror'In the goddess of God sometimes hidden and sometimes appear, the trace is difficult to find ......\n Could it be that they do not want to see the world's demons, so that we get rid of them?"
+"Although we have been living in the Xuan female peak for a long time, we have also heard that nowadays the demons are in turmoil, and the phase pivot will appear as an omen ......"
+"These days, I always feel that my heart is in a state of solidarity, could it be that this phase center is in turmoil, disturbing my mind?"
+"The Witch Mountain is hidden, the Goddess weeps blood ......\n As long as the phase center is not removed, it will be difficult for us to realize the true meaning of ' Jade Mirror' in ...... "
+"The sea of blood is turning over, all living beings are lost, such a catastrophe, how can I, the Xuan Nu School, be indifferent ......"
+"Although our faction does not ask about matters outside the peak, but nowadays this world, and how to tell people to stand by and watch ......"
+"If you want to do a good job, you must first sharpen your tools ......\nWhether that phase pivot reappears or not, the way of my Sword Casting Villa will not be changed ......"
+"I wonder if the weapons used by Taiwu's heir when he descended on that Xiangshu were those made in the Zhuang?"
+"The matter of the phase pivot, I only heard something from the old patriarchal craftsman, but I don't know what is actually in it ......"
+"It seems that the scourge of the Sangshu will arrive soon ......\n we must step up our efforts to polish our weapons in case of a disaster ......"
+"Several fellow disciples' blades were broken by that phase pivot's minions ...... I don't want the phase pivot to be so tricky!"
+"Recently the people who come to the mountain villa to buy blades are more and more ...... the world has been so unpeaceful ......"
+"Sangshu sealed in the ground for hundreds of years, my sword casting mountain village craft has been greatly improved, this battle may not be no chance of victory ......"
+"It is said that that Xiangshu is invulnerable to swords and spears, so what if we fight with a thousand swords and ten thousand spears?"
+"When the phase pivot is current, my forging craftsmanship is unimproved! I only blame myself for not putting in enough effort at the fireside on weekdays ......"
+" XiangShu? It's just an old legend. The Way of Eternal Life of our sect is the top priority!"
+"So what if the jianghu is in turmoil? Our sect is hidden in the snowy mountains, so how can the turmoil in the Central Plains affect us?"
+"Master has said that the way of alchemy is valued in meditation. Those Jianghu trivialities, I never cared about ......"
+"Alchemy and longevity is the long-cherished wish of our sect, but nowadays demons are rampant, and I'm afraid that the road ahead will become more and more difficult ......"
+"The chaos of the Sagittarius has now even spread to my Empyrean Mountain! I'm afraid that our sect can no longer stand alone ......"
+"I don't know if this person who has lost his mind is still afraid of poison? Don't think too much, just concentrate on refining pills ......"
+"Although the Longevity Dan has not been practiced, but with my school's art of medicine and poison, it may not be impossible to compete with that demon ......"
+"The plague of the phase pivot is spreading throughout the nine states, if the world falls as far as it can go, where can I go with my Khongsang lineage ......"
+"Eternal life has not yet been attained, but the phase pivot has arrived first, is this life of mine to be cut short here ......"
+"Good, good! It is the Buddha blessing,\n this chaos in the Central Plains, in our case is not a good opportunity to recover ......"
+"When the rivers and lakes are in turmoil, there are stragglers who come to seek refuge, so it is natural to present more tribute to the Buddha ......"
+"Recently, people's hearts are restless, we have to press for tribute day after day,\n can't let the little people slow down the Buddha ......"
+"The Sangshu has made such a mess, so we will have to slow down our plan to restore the country ......"
+"Why be afraid of any Sangshu, \n there is a Dharma King here to protect the religion, the little people just worship!"
+"Now that the chaos is like this, it is time to collect more wealth and honor the Buddha to show your sincerity ......"
+"Ridiculous! My Vajra Sect's foundation of hundreds of years, how can it perish at the hands of the Sangha?"
+"We follow His Holiness and have our own tantric immeasurable divine power to add, and we may not be afraid of that Sangha!"
+"Buddha blessing, if I can escape the disaster of this phase pivot, I will surely double the tribute and burn incense ......"
+"I heard that the Central Plains are in turmoil, and we must be on our guard up and down the line,\n can't get involved in outsiders' fights ......"
+"Foreigners since let them fight, \n but whoever dares to be unfavorable to our Miaojiang, I will not spare him!"
+"Since I entered the gate, my master has taught me to concentrate on cultivation and to ignore the chaos of the foreign clans ......"
+"If the Xiangshu scourge jeopardizes the world, the Five Immortals will not be able to stand alone, and must be dealt with as soon as possible ......"
+"Hmph, if not for the fact that nowadays the Sangshu is powerful, can really do not want to get involved with those foreigners ......"
+"So what if the demons are in turmoil? We, the Five Immortals Sect, can defend ourselves with ourselves, so why rely on outsiders!"
+"My clan has been guarding the Five Immortals for generations, and even if we die here, we must not lose this pure land!"
+"Although the Sangshu is powerful, if it really dares to come and commit a crime, the compulsion of our Five Immortals is not something to be messed with!"
+"And the birds and the beasts have fled, and the flowers and the trees are withered, and my worms are ...... ooo......"
+"Boundary green door eyes to watch the six roads, ears to listen to the winds,\n recent phase pivot present thing, I naturally have long known ......"
+"Recently, the jianghu is in turmoil,\n we are outside the execution of the commission, but also heard about the matter of the phase pivot ......"
+"The Boundary Green Sect has always only taken on commissions to kill people,\n as for the matter of removing demons, it is all unknown ......"
+"Demon scourge, killing in all directions, today's world is a good time to collect commissions ......"
+"Although getting rid of demons and defending the way is not what Boundary Qing seeks, we also cannot allow demons to spread their wildness on our own territory ......"
+"The errand of escorting the lost hearted person is really laborious and unappealing, why don't you go and take some ordinary commissions ......"
+"The Xiangshu is already the enemy of the world, so I, the Realm Green Sect, have no choice but to take this order and have a few moves with that Xiangshu as well!"
+"Since my generation has entered the Boundary Green Sect, we know that life and death depend on each person's ability, and this is especially true in a chaotic world ......"
+"I know that I have not yet mastered the art of learning, but I am not willing to fall at the feet of the demons like this ......"
+"The phase pivot is a demon from hundreds of years ago, and is even more worthless than the power of a true dragon ......"
+"When the world hears the name of evil, they are terrified, all because their faith in the true dragon is not pious enough ......"
+"Recently the rivers and lakes have been rumored, instead of worrying about what phase pivot, it is better to single-mindedly make offerings to the True Dragon ......."
+"Although the Voltron altar is sheltered by the true dragon, that phase pivot is also not an idle person, it is not possible not to make precautions early ......"
+"The Voltron Altar is blessed by a true dragon, so it is invincible, even if the Phase Hub descends, what is there to fear!"
+"If there really is a day of great chaos in the world, the True Dragon will surely show up to save the day!"
+"Right now the true dragon descends to the world is afraid that there is no hope, \n the situation today, the only way to rely on the hands of the blade, to fight out a bloody road!"
+"Now there is no other way but to fight to the death ......\n but I hope that the bare sincerity of the past will be exchanged for the blessing of the true dragon ......"
+"When exactly will the true dragon descend ......\n I'm so weak that I don't know if I'll be able to see that day ......"
+"Recently, the rumors in the jianghu are mostly about the phase center, this is exactly the opportunity for our religion to prosper ......"
+"There has been much turmoil in the jianghu lately, all because of the divine power of the Sangshu Great God ......"
+"We sincerely offer prayers, and we don't know when the Great God of the Sangha will be able to come ......"
+"Although our religion celebrates the might of the Sangha Great God, could it be that the Sangha Great God actually has the power to descend ......"
+"Nowadays, there are disciples under the Sangshu Great God everywhere, so join our sect as soon as possible in order to enjoy shelter!"
+"As the Sagittarius Great Spirit grows stronger by the day, it's good for us juniors to follow suit!"
+"The phase pivot is out of the world, I also know that it is difficult to escape this calamity, now I have to let go of the fight ......"
+"Many people in the sect have already died at the hands of the Phase Hub ......\nDon't bully me Blood Harvest has no one, we will not sit and wait for death!"
+"Hearing that the Sangha has descended and that the Sect has been turned upside down, we have refused to be hoodwinked again ......"
+"I have been ordered to guard the treasury, and all my fellow disciples have given me their full support,\n we have already made sufficient preparations inside and outside the treasury, and have set up a formation, where all our powers are combined in one place, so that we can defend ourselves against the strongest enemies, and it's a sure thing.......\nYou don't want to talk to me, so as not to miss the important task I have to perform... ..."
