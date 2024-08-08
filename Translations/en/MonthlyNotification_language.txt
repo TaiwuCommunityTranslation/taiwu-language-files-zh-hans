@@ -123,7 +123,7 @@ Stolen Resources
 In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
 In {1}, {0} successfully stole some {3} from {2}.
 Scamming Resources
-{0} at {1} tried to trick {2} out of {3}, but was unsuccessful.
+In {1}, {0} tried scamming {3} from {2}, but was unsuccessful.
 Swindled Resources
 {0} tried to trick {2} of {3} at {1}, but was unsuccessful.
 Grave Robbing
