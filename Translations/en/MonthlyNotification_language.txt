@@ -177,7 +177,7 @@ In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their 
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their External Injuries.
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their Internal Injuries.
 In {1}, {0} dreamed about a mystical white deer, and {2} in their body was reduced.
-{0} in {1} dreamed of the magical white deer and was able to calm his internal breath.
+In {1}, {0} dreamed about a mystical white deer, and their Inner Breath was calmed down.
 Mischance
 {0} lost the very rare {2} by accident at {1}.
 {0} accidentally lost {2} {3} at {1}
