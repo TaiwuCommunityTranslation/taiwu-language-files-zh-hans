@@ -184,7 +184,7 @@ In {1}, {0} lost {2} {3} by chance.
 Lost Book
 In {1}, {0} lost a {2} martial art book by chance.
 In {1}, {0} lost a {2} fine art book by chance.
-Punishment: Heaven Sent Disaster
+Heavenly Punishment
 In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their Health.
 In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their External Injuries.
 In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their Internal Injuries.
