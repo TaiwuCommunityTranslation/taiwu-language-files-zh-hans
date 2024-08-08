@@ -167,7 +167,7 @@ Buddhist Enlightenment
 Divination
 {0} divined in {1} a certain secret story possessed by {2}.
 Heavenly Treasures
-{0} accidentally obtained the very rare {2} at {1}.
+In {1}, {0} obtained a very rare {2} by chance.
 In {1}, {0} accidentally obtained {2}{3}.
 Matchless Adventure
 {0} accidentally obtained a {2} secret martial arts manual at {1}
