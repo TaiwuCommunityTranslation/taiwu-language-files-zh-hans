@@ -137,7 +137,7 @@ Grave Robbing Items
 Stole Life Skill
 In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
 In {1}, {0} stealthily learned {3} from {2}.
-Swindling Life Skills
+Scamming Life Skills
 In {1}, {0} tried scamming {3} from {2}, but was unsuccessful.
 Steal Martial Arts
 Swindling Martial Arts
