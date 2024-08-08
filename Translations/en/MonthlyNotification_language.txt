@@ -170,8 +170,8 @@ Lucky Valuables
 In {1}, {0} obtained a very rare {2} by chance.
 In {1}, {0} obtained {2} {3} by chance.
 Fortuitous Encounter
-In {1}, {0} obtained a {2} secret martial art book by chance.
-In {1}, {0} obtained a {2} secret fine art book by chance.
+In {1}, {0} obtained a {2} martial art book by chance.
+In {1}, {0} obtained a {2} fine art book by chance.
 Heavenly Miracle
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their Health.
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their External Injuries.
