@@ -125,7 +125,7 @@ In {1}, {0} successfully stole some {3} from {2}.
 Scamming Resources
 In {1}, {0} tried scamming {3} from {2}, but was unsuccessful.
 Robbed Resources
-{0} tried to trick {2} of {3} at {1}, but was unsuccessful.
+In {1}, {0} tried robbing {3} from {2}, but was unsuccessful.
 Grave Robbing
 {0} stole {3} from the grave of {2} in {1}.
 Stealing Items
