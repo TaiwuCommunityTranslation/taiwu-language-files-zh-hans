@@ -171,7 +171,7 @@ In {1}, {0} obtained a very rare {2} by chance.
 In {1}, {0} obtained {2} {3} by chance.
 Fortuitous Encounter
 In {1}, {0} obtained a {2} secret martial art book by chance.
-{0} has accidentally acquired a {2} secret copy of the life skill manual at {1}
+In {1}, {0} obtained a {2} secret fine art book by chance.
 Divine Favor
 {0} in {1} dreamed of the magical white deer and recovered {2} points of health.
 {0} in {1} dreamed of the magical white deer and recovered from {2} point trauma.
