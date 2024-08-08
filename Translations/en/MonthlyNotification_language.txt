@@ -180,7 +180,7 @@ In {1}, {0} dreamed about a mystical white deer, and {2} in their body was reduc
 In {1}, {0} dreamed about a mystical white deer, and their Inner Breath was calmed down.
 Great Misfortune
 In {1}, {0} lost a very rare {2} by chance.
-{0} accidentally lost {2} {3} at {1}
+In {1}, {0} lost {2} {3} by chance.
 The Secret of Heavenly Loss
 {0} lost a {2} martial arts secret book by accident in {1}
 {0} accidentally lost a {2} secret copy of the craft at {1}
