@@ -169,7 +169,7 @@ Divination
 Lucky Valuables
 In {1}, {0} obtained a very rare {2} by chance.
 In {1}, {0} obtained {2} {3} by chance.
-Matchless Adventure
+Fortuitous Encounter
 {0} accidentally obtained a {2} secret martial arts manual at {1}
 {0} has accidentally acquired a {2} secret copy of the life skill manual at {1}
 Divine Favor
