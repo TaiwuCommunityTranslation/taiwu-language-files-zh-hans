@@ -135,7 +135,7 @@ Robbing Items
 Grave Robbing Items
 {0} stole {3} from the grave of {2} in {1}
 Stole Life Skill
-At {1}, {0} tried to steal {3} from {2}, but did not get any results.
+In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
 {0} stole {3} from {2} at {1}
 Swindling Life Skills
 {0} tried to swindle {2} in {1} to acquire {3}, but was unsuccessful.
