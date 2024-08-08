@@ -172,7 +172,7 @@ In {1}, {0} obtained {2} {3} by chance.
 Fortuitous Encounter
 In {1}, {0} obtained a {2} secret martial art book by chance.
 In {1}, {0} obtained a {2} secret fine art book by chance.
-Divine Favor
+Heavenly Miracle
 {0} in {1} dreamed of the magical white deer and recovered {2} points of health.
 {0} in {1} dreamed of the magical white deer and recovered from {2} point trauma.
 {0} in {1} dreamed of the magical white deer and recovered {2} points of internal injuries.
