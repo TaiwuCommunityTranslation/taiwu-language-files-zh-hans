@@ -2721,7 +2721,7 @@
   "LK_Combat_Result_NormalLegacy_Content": "General Legacy 【{0}】",
   "LK_Combat_Result_SwordTombLegacy_Content": "Sword Tomb Legacy 【{0}】",
   "LK_Combat_ConsummateLevelTitle": "Pure Essence Gap",
-  "LK_Combat_ConsummateLevelTips1": "<color=#brightred>Danger! The enemy's pure essence is higher than ours!</color>",
+  "LK_Combat_ConsummateLevelTips1": "<color=#brightred>Your Pure Essence is lower!</color>",
   "LK_Combat_ConsummateLevelTips2": "Direct <color=#outterinjury>External</color>, <color=#innerinjury>Internal</color>, <color=#pinkyellow>Daze</color>, and <color=#poisoned>Poison</color> damage dealt to the enemy will be <color=#brightred>reduced by {0}%</color>",
   "LK_Combat_ConsummateLevelTips3": "Direct <color=#outterinjury>External</color>, <color=#innerinjury>Internal</color>, <color=#pinkyellow>Daze</color>, and <color=#poisoned>Poison</color> damage dealt by the enemy will be <color=#brightred>increased by {0}%</color>",
   "UI_SelectInformation_NormalInformationList": "{0}'s rumor",
