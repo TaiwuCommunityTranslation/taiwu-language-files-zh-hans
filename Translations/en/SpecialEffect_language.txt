@@ -127,7 +127,7 @@ Greatly increases the upper limit of all major attributes of the user (by 20). D
 Chap. Forge
 Increases the power limit of "Sword Manor" techniques by 30%
 Chap. Weave
-Increases the maximum performance of the "protective equipment" equipped by the user
+Increases maximum power of user's "Armor"
 Chap. 5 Metals
 When the user's internal element is "Fire", direct damage and backlash damage dealt to the user by the "Metal" techniques will be reduced.
 Chap. Refining
