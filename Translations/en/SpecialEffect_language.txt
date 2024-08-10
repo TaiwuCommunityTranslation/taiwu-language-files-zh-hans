@@ -2553,7 +2553,7 @@ Reverse - Barefoot
 During this Footwork: The user will not be moved forward for any reason, and the enemy will have to consume more Footwork to move forward
 Reverse - Drunk 8 Immortals
 Deplete Attack Tokens
-During this Footwork, whenever the enemy moves 0.5 distance withing the user's Attack Range, the enemy will have a chance to deplete either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
+During this Footwork, whenever the enemy moves 0.5 distance within the user's Attack Range, the enemy will have a chance to deplete either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
 Reverse - Dragon Tail
 Reduce the level of Weak Points
 During this Footwork, it reduces the level of Weak Points caused by the enemy to the user.
