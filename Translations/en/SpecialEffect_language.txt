@@ -133,7 +133,7 @@ When the user's internal element is "Fire", direct damage and backlash damage de
 Chap. Refining
 The more times the user's current "Weapon" is Refined, the less damage enemy will deal to the user
 Chap. Sacrifice
-Increases the upper limit of the "weapon" equipped by the user
+Increases maximum power of user's "Weapons"
 Summary of\nChihuang
 Increases the power limit of "Kongsang Sect" techniques by 30%
 Shennong\nMateria Medica
