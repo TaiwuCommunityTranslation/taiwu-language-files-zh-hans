@@ -785,7 +785,7 @@ Barefoot
 During this Footwork: The user will not be moved backwards for any reason, and the enemy will have to consume more Footwork to move backwards
 Drunk 8 Immortals
 Recover Inhale
-During this Footwork, whenever the user moves 0.5 distance withing the enemy's Attack Range, the user will have a chance to recover either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
+During this Footwork, whenever the user moves 0.5 distance within the enemy's Attack Range, the user will have a chance to recover either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
 Dragon Tail
 Increase the Weak Points level
 During this Footwork, the level of Weak Points caused by the user to the enemy is increased.
