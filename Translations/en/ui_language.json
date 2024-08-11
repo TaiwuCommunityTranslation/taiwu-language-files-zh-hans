@@ -530,7 +530,7 @@
   "LK_CombatSkill_Sect_Type": "From",
   "LK_CombatSkill_Practice_Level": "Practice",
   "LK_CombatSkill_Cost_Title": "【Cost】",
-  "LK_CombatSkill_Cost_Mobility": "Mobility Cost",
+  "LK_CombatSkill_Cost_Mobility": "Stamina",
   "LK_CombatSkill_Cost_Beetle": "Gu Cost",
   "LK_CombatSkill_Cost_Weapon_Durability": "Weapon Durability",
   "LK_CombatSkill_Cost_Trick": "Style",
