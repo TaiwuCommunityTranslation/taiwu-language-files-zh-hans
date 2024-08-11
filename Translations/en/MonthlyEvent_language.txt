@@ -181,7 +181,7 @@ Stealing skills to escape
 {0} in {1} stole {2} of {3} the first {4} piece after the whole body...
 Encountered Scamming Fine Arts
 In {1}, {0} intends to scam page {4} of {3} from {2}...
-Caught stealing martial arts
+Caught Stealing Martial Arts
 Stealing martial arts to escape
 Encounter scamming martial arts
 Pushing for Kindness and Justice
