@@ -7,7 +7,7 @@ If the enemy uses a blade, attacks with this weapon or performs a Break skill, t
 Anti-Poison
 If the enemy uses poisonous frost or poisonous sand,  attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
 Anti-Polearm
-If the enemy uses a polearm, attacks with this weaponor performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+If the enemy uses a polearm, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
 Anti-Soft·Wp
 If the enemy uses a Whisk, attacks or uses a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
 Anti-Hidden·Wp
