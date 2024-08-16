@@ -2265,7 +2265,7 @@ Whenever Poison activates on the user, user gains "Nadis" True Qi equal to 2 tim
 Reverse - Young Dragon's\nBone Regrowth Art
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All Internal Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 Reverse - 9-Colored\nJade Cicada Art
-When the total number of defeat markers sustained by the user reaches the defeat condition, user will immediately consume 9 points of "Nadis" True Qi to remove all Injury, Impairment, and Fatal Wound markers; Every time this effect activates, it's cost goes up by 9 points, up to a maximum of 99 points.
+When the total number of defeat markers sustained by the user reaches the defeat condition, user will immediately consume 9 points of "Nadis" True Qi to remove all Injury, Impairment, and Fatal Wound markers; Every time this effect activates, its cost goes up by 9 points, up to a maximum of 99 points.
 Reverse - Go With The Flow
 Whenever the enemy inflicts an Injury or Fatal Wound marker on the user with direct damage, the user gains 5 points of a random True Qi, or loses 3 points of a random True Qi, as well as 1 unusable Style. If the user loses True Qi from this technique, the next time it works, the user will be guaranteed to gain True Qi from it.
 Reverse - Take The Pulse
