@@ -613,7 +613,7 @@ Increase Sealed Acupoint Level
 During this Footwork, the level of Sealed Acupoints inflicted by the user will be increased
 Wick of Lamp
 Worsen E·Injuries
-During this Footwork, whenever the user attacks the enemyr, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the enemy's body will be worsened by 1. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
+During this Footwork, whenever the user attacks the enemy, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the enemy's body will be worsened by 1. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
 Jade Step
 When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Flower Listen Rain
