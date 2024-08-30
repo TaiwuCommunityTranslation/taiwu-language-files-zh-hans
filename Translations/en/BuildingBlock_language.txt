@@ -210,7 +210,7 @@ Contraptions Room is a quiet and tidy workshop. The room is equipped with all ki
 An extension building built next to the "Training Hall". \n reduces the "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Ranged Weapons".
 Empty Valley
 The Empty Valley is artificially opened up, surrounded by hills, and is completely silent. There are piano platforms and small buildings in the valley. Whenever an instrument is played, the sound echoes in all directions, just like the resonance of a hundred people playing together, and even the slightest flaw in the music cannot escape the ears.
-An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town and sect to which they belong to practice and break through "Melody".
+An extension building built next to the "Training Hall".\nReduces the amount of "Experience" cost of practice and breakthrough of "Melody" techniques for characters in the influence range of the power it is built in.
 Isolated Tower
 The Isolated tower havs 9 levels,  symbolizing the 9 steps into immortality. There is only very spartan provisions inside the tower which help force practitioners concentrate.
 This is an extension building built next to the "Training Hall" using the "Noise Blocking Stone" as the core material. \nIt can increase the success rate of "Inner Arts" for characters within the influence of the town and sect to which they belong.
