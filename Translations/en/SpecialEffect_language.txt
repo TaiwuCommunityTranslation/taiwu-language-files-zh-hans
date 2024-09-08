@@ -1227,7 +1227,7 @@ Extra Accuracy Reduction
 At the start of the battle, the user gains 3 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Red-eyed Gu; The Premature Red-eyed Gu will greatly reduce host's chance of hitting the enemy; Premature Red-eyed Gu needs to consume 1 Gu Charge from the host or the enemy after every trigger, otherwise it will die.
 Chi Demon\nGu Descent
 Receive Extra Daze
-At the start of the battle, the user gains 4 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Chi Demon Gu; The Premature Chi Demon Gu will add 1 Daze marker to the host when the Poison suffered by the host activates; Premature Chi Demon Gu needs to consume 4 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
+At the start of the battle, the user gains 4 Gu Charges; When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Chi Demon Gu; The Premature Chi Demon Gu will add 1 Daze marker to the host when host's Poison activates; Premature Chi Demon Gu needs to consume 4 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
 Sinister Blood\nGu Descent
 Reduced treatment effect
 Upgrade Impairment
