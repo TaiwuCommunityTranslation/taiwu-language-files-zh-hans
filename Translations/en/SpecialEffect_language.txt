@@ -488,7 +488,7 @@ When defending with this technique: the user will not be implanted with a Gu by 
 Blood Dolls
 E·ExtPen DN
 Transfer of injuries sustained
-When defending with this technique, whenever the user successfully Counters an attack, the enemy receives a special "Blood Dolls" debuff, which reduces enemy's External Penetration and causes the next External Injury the user receives to be received by the enemy instead
+When defending with this technique, whenever the user successfully Counters an attack, the enemy receives a special "Blood Dolls" debuff, which reduces enemy's External Penetration and causes the next External Damage the user receives to be received by the enemy instead
 Ghost Breath
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of "Level 2" Necrotoxin to the enemy.
 Silkworm Insanity
@@ -2297,7 +2297,7 @@ Transfer Enemy Gu
 When defending with this technique: the user will not be implanted with a Gu by the enemy; Whenever the user successfully Counters an enemy's weapon attack, a random Gu that has just been implanted to the enemy will be implanted to the user, changing into a tamed Gu. If the user cannot be implanted or has already been implanted with that premature Gu, the Gu will die.
 Reverse - Blood Dolls
 E·Int.Pen. DN
-When defending with this technique, whenever the user successfully Counters an attack, the enemy receives a special "Blood Dolls" debuff, which reduces enemy's Internal Penetration and causes the next Internal Injury the user receives to be received by the enemy instead
+When defending with this technique, whenever the user successfully Counters an attack, the enemy receives a special "Blood Dolls" debuff, which reduces enemy's Internal Penetration and causes the next Internal Damage the user receives to be received by the enemy instead
 Reverse - Ghost Breath
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of "Level 2" Oneirotoxin to the enemy.
 Reverse - Silkworm Insanity
