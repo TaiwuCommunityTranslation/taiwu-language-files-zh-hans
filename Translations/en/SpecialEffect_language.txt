@@ -2052,7 +2052,7 @@ User's "Fire" techniques will deal more direct damage and backlash damage to cha
 Reverse -  Small Yu Yang Shen Gong
 Whenever enemy's Break technique causes a critical hit, 1 Weak Point, 1 Sealed Acupoint, and 1 Daze marker on the user get removed
 Reverse -  Wild Dragon Swallowing Elephant technique
-Converts user's "Metal" internal element into "Fire" internal element. The higher the conversion ratio, the more the power of user's "Fire" techniques will be increased; If user's "Metal" internal element is at 0%, user will not receive critical hits from "Metal" or "Fire" techniques
+Fully changes user's "Metal" internal element into "Fire" internal element. The more percent of internal element this technique changes, the more the power of user's "Fire" techniques will be increased; If before this effect user's "Metal" internal element was already at 0%, user will not receive critical hits from "Metal" and "Fire" techniques
 Reverse -  Nine Dragons to One technique
 Damage Reduction Ignore
 User's "Hunyuan" techniques will also be considered to be "Fire" techniques; When using "Fire" Break techniques, user can click to randomly consume from 5 to 15 points of "Break" True Qi to make direct damage dealt by a technique not be reduced for any reason.
