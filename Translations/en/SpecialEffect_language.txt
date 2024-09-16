@@ -116,7 +116,7 @@ Greatly increases "Vitality" limit. Internal Defense given by "Vitality" will be
 Xihua\nScripture
 The higher the user's "Water" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Holy Princess
-Converts user's "Wood" element into "Water" element. The higher the conversion ratio, the more the power of user's "Water" techniques will be increased; If user's "Wood" internal element is at 0%, user will not receive critical hits from "Wood" or "Water" techniques
+Fully changes user's "Wood" internal element into "Water" internal element. The more percent of internal element this technique changes, the more the power of user's "Water" techniques will be increased; If before this effect user's "Wood" internal element was already at 0%, user will not receive critical hits from "Wood" and "Water" techniques
 Nimbus Shower
 Greatly increases the power of user's "Water" techniques; While performing any "Water" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Water" technique by 50%, up to a maximum of 75%.
 Supreme\nGoddess Cultivation
