@@ -157,7 +157,7 @@ The more types of True Qi the user has that exceed their initial value in combat
 Vajra-Inherited\nMeditation
 The higher the user's "Metal" internal element, the more the user's Diversion, Parry, Evasion, and Focus will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 The Great Sun\nScripture
-Converts user's "Earth" element into "Metal" element. The higher the conversion ratio, the more the power of user's "Metal" techniques will be increased; If user's "Earth" internal element is at 0%, user will not receive critical hits from "Earth" or "Metal" techniques
+Fully changes user's "Earth" internal element into "Metal" internal element. The more percent of internal element this technique changes, the more the power of user's "Metal" techniques will be increased; If before this effect user's "Earth" internal element was already at 0%, user will not receive critical hits from "Earth" and "Metal" techniques
 The Great Vajra\nScripture
 Greatly increases the power of user's "Metal" techniques; While performing any "Metal" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Aegis" True Qi to increase the cast progress of the "Metal" technique by 50%, up to a maximum of 75%.
 Mahakala\nGuardian's Cultivation
