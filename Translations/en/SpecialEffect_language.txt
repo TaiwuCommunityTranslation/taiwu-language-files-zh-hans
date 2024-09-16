@@ -174,7 +174,7 @@ Increases the power of user's "Wood" techniques by 10%
 Black\nImmortals Cultivation
 Significantly increases the amount of toxins that can be dispelled when the user performs "Detoxing" in battle
 Azure\nImmortals Cultivation
-Converts user's "Water" element into "Wood" element. The higher the conversion ratio, the more the power of user's "Wood" techniques will be increased; If user's "Water" internal element is at 0%, user will not receive critical hits from "Water" or "Wood" techniques
+Fully changes user's "Water" internal element into "Wood" internal element. The more percent of internal element this technique changes, the more the power of user's "Wood" techniques will be increased; If before this effect user's "Water" internal element was already at 0%, user will not receive critical hits from "Water" and "Wood" techniques
 Soul Out\nMeditation
 When the user removes toxins with "Detox" in battle, the user will be given a buff which enhances the user's Diversion, Parry, Evasion, and Focus. The more toxins removed, the stronger the effect.
 The Great Evil\nBody
