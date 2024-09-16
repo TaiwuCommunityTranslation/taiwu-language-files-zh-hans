@@ -189,7 +189,7 @@ Step Sky
 Greatly increases "Agility" limit
 Mysterious\nScripture
 Converts user's "Metal" internal element into "Water" internal element. The higher the conversion ratio, the more the power of user's "Water" techniques will be increased
-Posthumous Ginseng
+Lost Yisi Constellation
 Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Heterodox" to "Orthodox"
 Galaxy Map
 When the user's internal element is "Water", user's techniques will be more resistant to being "Sealed" or "Interrupted"
@@ -2039,7 +2039,7 @@ Reverse -  Bu Tian Ge
 Greatly reduces "Agility" consumption
 Reverse -  Xuan Hei Zhen Jing
 Converts user's "Earth" internal element into "Water" internal element. The higher the conversion ratio, the more the power of user's "Water" techniques will be increased
-Reverse -  Esi Legacy
+Reverse - Lost Yisi Constellation
 Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Orthodox" to "Heterodox"
 Reverse -  Armillary Chart
 When the user's internal element is "Water", user will be able to perform techniques even if a required body part is broken, but the power of the techniques performed this way will be reduced
