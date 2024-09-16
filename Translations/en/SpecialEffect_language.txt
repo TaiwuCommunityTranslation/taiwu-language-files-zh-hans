@@ -203,7 +203,7 @@ Divine Jade\nYang
 Eliminate your mark
 Whenever user's Break technique causes a critical hit, 1 Weak Point, 1 Sealed Acupoint, and 1 Daze marker on the user get removed
 Dragon Engulf\nElephant
-Converts user's "Earth" internal element into "Fire" internal element. The higher the conversion ratio, the more the power of user's "Fire" techniques will be increased; If user's "Earth" internal element is at 0%, user will not receive critical hits from "Earth" or "Fire" techniques
+Fully changes user's "Earth" internal element into "Fire" internal element. The more percent of internal element this technique changes, the more the power of user's "Fire" techniques will be increased; If before this effect user's "Earth" internal element was already at 0%, user will not receive critical hits from "Earth" and "Fire" techniques
 9 Dragons\nIn One
 User's "Hunyuan" techniques will also be considered to be "Fire" techniques; When using "Fire" Break techniques, user can click to randomly consume from 5 to 15 points of "Break" True Qi to increase the attack range of any "Fire" Break technique.
 Demonization
