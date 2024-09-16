@@ -2038,7 +2038,7 @@ When the user's internal element is "Water", direct damage and backlash damage d
 Reverse -  Bu Tian Ge
 Greatly reduces "Agility" consumption
 Reverse -  Xuan Hei Zhen Jing
-Converts user's "Earth" internal element into "Water" internal element. The higher the conversion ratio, the more the power of user's "Water" techniques will be increased
+Fully changes user's "Earth" internal element into "Water" internal element. The more percent of internal element this technique changes, the more the power of user's "Water" techniques will be increased
 Reverse - Lost Yisi Constellation
 Changes the effect of all "Water" techniques of the user other than "Inner Art" techniques from "Orthodox" to "Heterodox"
 Reverse -  Armillary Chart
