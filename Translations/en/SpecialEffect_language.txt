@@ -8,7 +8,7 @@ Formless Zen
 Greatly increases "Willpower" limit. Focus given by "Willpower" will be greatly increased based on user's purity.
 Bodhi\nMeditation
 Ignore Critical Hits
-Converts user's "Water" internal element into "Metal" internal element. The higher the conversion ratio, the more the power of user's "Metal" techniques will be increased; If user's "Water" internal element is at 0%, user will not receive critical hits from "Water" or "Metal" techniques
+Fully changes user's "Water" internal element into "Metal" internal element. The more percent of internal element this technique changes, the more the power of user's "Metal" techniques will be increased; If before this effect user's "Water" internal element was already at 0%, user will not receive critical hits from "Water" and "Metal" techniques
 Za-A-Han\nScripture
 Range Up
 User's "Hunyuan" techniques will also be considered to be "Metal" techniques; When using "Metal" Break techniques, user can click to randomly consume from 5 to 15 points of "Aegis" True Qi to increase the attack range of any "Metal" Break technique.
