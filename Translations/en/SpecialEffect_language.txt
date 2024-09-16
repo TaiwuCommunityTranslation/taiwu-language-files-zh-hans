@@ -1967,7 +1967,7 @@ Greatly increases "Vitality" limit. Internal Penetration given by "Vitality" wil
 Reverse - Xihua Scripture
 The higher the user's "Water" internal element, the more the user's Might, Finesse, Swiftness, and Breath will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
 Reverse - Holy Princess
-Converts user's "Fire" internal element into "Water" internal element. The higher the conversion ratio, the more the power of user's "Water" techniques will be increased; If user's "Fire" internal element is at 0%, user will not receive critical hits from "Fire" or "Water" techniques
+Fully changes user's "Fire" internal element into "Water" internal element. The more percent of internal element this technique changes, the more the power of user's "Water" techniques will be increased; If before this effect user's "Fire" internal element was already at 0%, user will not receive critical hits from "Fire" and "Water" techniques
 Reverse - Nimbus Shower
 Greatly reduces the Inhale and Stance cost of user's "Water" techniques; While performing any "Water" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to greatly increase the power of the performed "Water" technique.
 Reverse - Supreme Goddess Cultivation
