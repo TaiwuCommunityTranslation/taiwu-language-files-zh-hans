@@ -2282,7 +2282,7 @@ When defending with this technique: All direct damage taken by the user is reduc
 Reverse - Vidya-Raja Fire
 When defending with this technique, whenever the user blocks an enemy attack with Diversion, the user applies a large amount of "Level 2" Umbritoxin to the enemy.
 Reverse - The Great Handprint
-As long as the enemy has more True Qi in total than the user does, the enemy cannot have more than 4 usable Styles; If the enemy already had more than 4 usable Styles, all usable Styles above 4 will be eliminated, and the enemy will gain 5 points of a random True Qi for each Style eliminated this way.
+As long as the enemy has more True Qi in total than the user does, the enemy cannot have more than 4 usable Styles; If the enemy already had more than 4 usable Styles, all usable Styles above 4 will be eliminated, and the user will gain 5 points of a random True Qi for each Style eliminated this way.
 Reverse - Buddha Body
 When defending with this technique: As long as the user isn't attacked by a critical hit, the user will be immune to Fatal Wound damage; For every 3 points of "Aegis" True Qi the user can remove 1 Impairment marker from themselves, but the Internal Breath of the user will be increased as a result.
 Reverse - Lost Worm Incense
