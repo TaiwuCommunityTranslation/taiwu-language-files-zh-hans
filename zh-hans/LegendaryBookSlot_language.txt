@@ -23,9 +23,9 @@
 风身
 <color=#brightblue>运起放置其中的功法时，功法会在战斗开始时无消耗且无需施展准备地自动生效。</color>
 云涌
-<color=#brightblue>放置其中的功法在移动时消耗的身法值降低50%，</color><color=#brightred>但静止时消耗的身法值提高100%。</color>
+<color=#brightblue>放置其中的功法在移动时消耗的脚力降低25%。</color>
 静水
-<color=#brightblue>放置其中的功法在静止时消耗的身法值降低50%，</color><color=#brightred>但移动时消耗的身法值提高100%。</color>
+<color=#brightblue>放置其中的功法在静止时消耗的脚力降低25%。</color>
 
 
 
