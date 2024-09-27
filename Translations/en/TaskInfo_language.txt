@@ -1486,7 +1486,7 @@ Talk to the <color=#orange>Black Owl</color> and find out its favorite food.
 
 Get Close to the Black Owl
 
-Use <color=#orange>Yin Herbs</color> to feed the Black Owl. After reaching "Intimate" Favor with it, <color=#orange>wait for an opportunity</color> to resolve the conflict and reconcile yin and yang.
+使用<color=#orange>阴性药材</color>喂养玄鸮，与其好感达到亲密后，<color=#orange>等待契机</color>化解矛盾，调和阴阳。
 
 
 Beasts Howling
@@ -1538,4 +1538,94 @@ Don't Ask Around
 <color=#orange>Wait</color> for the matters concerning Hundred Flowers Valley to settle
 <color=#orange>Wait</color> for the matters concerning Hundred Flowers Valley to settle.
 The Resurrected Person has concluded their matter here, and their heart remains as it was before…
+
+伏龙天灾
+前往<color=#orange>赤明岛</color>探查天灾
+前往<color=#orange>赤明岛</color>探查天灾之事。
+伏龙坛近日天灾频发，多地遭毁，可探查一番……
+
+祭龙盛典
+{0}月内前往奇遇<color=#orange>「祭龙盛典」</color>
+{0}月内前往奇遇<color=#orange>「祭龙盛典」</color>。
+伏龙坛视天灾为祥瑞，不妨前往一观……
+
+星陨坠火
+前往奇遇<color=#orange>「星陨坠火」</color>
+前往奇遇<color=#orange>「星陨坠火」</color>。
+天火寂灭，只存星陨坠地，不如前往一观……
+
+探访伏龙
+返回<color=#orange>伏龙坛</color>
+返回<color=#orange>伏龙坛</color>。
+星陨真身甚异，不如前往伏龙坛中再行探访……
+
+伏龙异状
+<color=#orange>在伏龙坛停留</color>观察异状
+<color=#orange>在伏龙坛停留</color>以观察异状。自迎“真龙”返归，伏龙坛上下喜不自胜，派遣使者前往<color=#orange>寿春、扬州、福州与太吾村</color>传扬真龙之力；更有狂徒为靖龙威，不惜夺取银钱资源，骚扰居民，以至百姓苦不堪言。
+“真龙”返归，伏龙上下实在狂热，不如停留在此探查一番……
+
+细问怪事
+<color=#orange>细问</color>琉璃遭遇
+<color=#orange>细问</color>琉璃究竟遇到何种怪事；此事蹊跷，其他人或曾有所听闻，<color=#orange>第七十七</color>亦在附近，或可前去查问一番。
+琉璃近日遭遇实在蹊跷，我当细细查问……
+
+查问琉璃
+与<color=#orange>琉璃</color>对话
+琉璃遭遇有异，再次与<color=#orange>琉璃</color>对话。
+琉璃虽是无恙，但此地仍是危机四伏……
+
+人间百景
+携带琉璃<color=#orange>游历人间</color>
+携带琉璃在人间游历一番，前往<color=#orange>寿春、扬州或福州</color>其中一处，与这三处地区中的任意<color=#orange>市镇、关寨、村庄</color>，带琉璃见识人间繁华百景。
+琉璃既愿往人间，这便带他往各处看看……
+
+再返伏龙
+携带琉璃<color=#orange>返回伏龙坛</color>
+携带琉璃<color=#orange>返回伏龙坛</color>。
+此时唯有带琉璃回到伏龙坛，才能平息狂徒之乱……
+
+寻元鸡羽
+前往各处寻元鸡羽，仍需{0}根
+前往各处寻找元鸡羽毛，<color=#orange>仍需{0}支</color>以缝制羽衣。\n来到豢养元鸡的城镇村寨后，在其产业界面可以看到元鸡，尚未被拔毛的元鸡其形貌与已被拔毛的元鸡有别，点击<color=#orange>在地图中自由行走且羽毛丰满的「鸡」</color>，与其互动，获得羽毛。
+元鸡羽本是珍品，需仔细收集，小心保管……
+
+缝制羽衣
+<color=#orange>缝制</color>羽衣后回到<color=#orange>伏龙坛</color>
+在「绣楼」中使用材料<color=#orange>「百鸟彩羽」</color>及织物「制造」羽衣，制成后回到伏龙坛与琉璃相见。琉璃如今在伏龙坛的处境不妙，想必回返伏龙后情势将极为紧急，<color=#orange>如需时日整备精进一番，或仅有此刻。</color>
+这便速速缝制羽衣，整备一番，返回伏龙坛……
+
+敌潜伏龙
+{0}月内速往<color=#orange>「敌潜伏龙」</color>
+情势紧急，{0}月内速往奇遇<color=#orange>「敌潜伏龙」</color>。
+伏龙坛形势危急，速速前往，万勿迁延！
+
+琉璃唤归
+与<color=#orange>琉璃</color>相见
+伏龙坛事情已了结，前往与<color=#orange>琉璃</color>相见。
+伏龙此事已了，不知琉璃何去何从……
+
+神鸡寻羽
+在<color=#orange>{0}</color>寻找元鸡
+此地区的元鸡位于<color=#orange>{0}</color>，可前往对应的城镇村寨寻找元鸡。进行长途旅行，进入下一个地区后，再次使用神鸡图“寻羽”，可以看到该地区其他元鸡的位置。
+“神鸡图”既已指明元鸡所在，可前往找寻……
+
+扑灭天火
+<color=#orange>避开</color>龙火蒺藜并<color=#orange>扑灭</color>天火
+每一片天火区域中均埋藏了6颗龙火蒺藜。\n当位于火区中的任意地格上时，地格上方将出现数字标记，提示当前所处地格与周边上、下、左、右共五个地格中，埋藏了龙火蒺藜的地格数目。\n需根据数字标记，排除包含龙火蒺藜的地格，并消耗1天，扑灭安全地格的火焰，直至整个火区的火焰全部熄灭。如不慎选择了埋藏龙火蒺藜的地格进行灭火，则全队伍将受到数层伤势，伤势过重将无法继续灭火。\n火区地格中的资源每月均会受到大火焚毁，直至完全消失；队伍停留于未探明的火区进行过月时，也将受到数层灼烧伤害。\n天火持续5月将自行熄灭，若协助灭火，当地百姓感激不尽，自将以礼相待。
+扑灭天火需得小心谨慎，躲避龙火蒺藜所在……
+
+陪伴琉璃
+与琉璃<color=#orange>在太吾村停留</color>
+将琉璃好感提升至不渝，并与其谈论<color=#orange>寻找神花</color>之事，方能<color=#orange>得知琉璃的身世</color>；同时<color=#orange>留在太吾村陪伴琉璃</color>。
+琉璃既已回村，便同琉璃在村中小住些时日……
+
+琉璃回村
+携带琉璃返回<color=#orange>太吾村</color>
+携带琉璃返回<color=#orange>太吾村</color>。
+不如带琉璃回太吾村小住几时……
+
+天火连绵
+前往<color=#orange>天火连绵</color>处探查
+前往<color=#orange>天火连绵</color>处探查。
+天火连绵，颇为殊异，先谨慎探查一番……
 
