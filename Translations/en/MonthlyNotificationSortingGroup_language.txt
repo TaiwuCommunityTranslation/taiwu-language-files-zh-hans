@@ -283,7 +283,7 @@ A building in the Taiwu Village finished constructing.
 Expansion Complete
 A building in the Taiwu Village finished expanding.
 Removal Complete
-A building in the Taiwu Village was successfully removed.
+太吾村中的某座建筑拆除完毕了。
 Building Harvest
 A building in the Taiwu Village has a new harvest.
 Dispatch Arrived
@@ -380,3 +380,11 @@ Lost Book
 Someone lost a book by chance.
 Heavenly Punishment
 Someone dreamed about horrible demons and evil spirits, receiving all kinds of damage.
+资源采集
+太吾村中的某座资源点采集完毕了。
+关注之人
+关注的某人遇到了一些危机…
+牢狱之灾
+监牢之中的特殊之事…
+Fu Long turns into a Feather
+伏龙坛特殊之人、特殊之事…
