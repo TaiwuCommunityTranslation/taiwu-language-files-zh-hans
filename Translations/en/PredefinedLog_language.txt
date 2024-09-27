@@ -43,3 +43,5 @@ The item is not held
 While trying to remove non-stackable item {0} from container {1}, it was detected that the item had no previously recorded holder.
 Event System Exception
 The event has changed, but it has not actually entered. Continuing the game may cause a corrupted file.\nIf this log appears, please go to the official website to submit the log to assist in troubleshooting.\nGuid: {0}=>{1}
+战斗 Ai 加载异常
+尝试从路径 {0} 加载 Ai 数据时出现异常，请检查游戏完整性，或尝试向客服寻求支持。\n异常信息：{1}
