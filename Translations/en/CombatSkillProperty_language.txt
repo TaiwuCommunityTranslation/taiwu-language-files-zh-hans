@@ -1,6 +1,6 @@
 Current Power
 Power Cap
-Cast Speed
+施展时间
 Stance/Inhale Cost
 Ext/Int Ratio
 Inner Conversation Rate
@@ -67,7 +67,7 @@ Requires Ware Style
 Requires Drug Style
 Requires Toxic Style
 Requires Sweep Style
-Jump Speed
+蓄力进度
 Sealing Chance
 Sealing Duration
 Increase ATK
