@@ -1,603 +1,1014 @@
 Early February
 The bucket handle returned to Yin. Metal and Jade resources in some locations in \n have recovered to some extent.
+
 Early March
 In the month of Jian Mao, Yang and Bu Qi. The resources of 'food', 'wood' and 'medicinal herbs' in \n some locations have recovered to some extent.
+
 Early April
 In the month of Jianchen, the bucket handle points east. \nSome locations have some degree of recovery of "food", "wood" and "medicinal herbs" resources.
+
 Early May
 In the month of Jian Si, the grass and trees are in full bloom. \nFood", "wood" and "medicinal herbs" resources in some locations have recovered to some extent.
+
 Early June
 In the month of Jianwu, the rice seedlings are firstly gathered. \nFood", "wood" and "fabric" resources in some places have recovered to some extent.
+
 Early July
 In the month of Jianwei, the bucket handle points south. \nSome locations have some degree of recovery of "food," "wood," and "fabric" resources.
+
 Early August
 In the month of Jian Shen, the cicadas are shrill. \nResources of "food", "wood" and "fabric" in some locations have recovered to some extent.
+
 Early September
 In the month of Jian You, the star of Shang flows westward. \n Some locations have recovered their "food", "wood", "fabric" and "medicinal" resources to some extent.
+
 Early October
 In the month of Jianxu, the bucket handle points west. The resources of "food", "wood", "fabric" and "medicinal herbs" in \n some locations have recovered to some extent.
+
 Early November
 In the month of Jianhai, the willow declines and the valley shows. \nThe resources of "gold and stone" and "fabric" in some locations have recovered to some extent.
+
 Early December
 In the month of Kenshi, all things are collected. \n Some locations have a certain degree of recovery of "gold stone" resources.
+
 Early January
 In the month of Jian Chou, the bucket handle points north. \n Some locations have a certain degree of recovery of "gold stone" resources.
+
 Grave Withered
 The grave of {0} was completely damaged and disappeared because it had not been taken care of for a long time.
+
 Outlaw Offering
 {0} received the offerings of {3} at {1} on behalf of {2}...
+
 Storage Overweight
 The {0} in the warehouse was lost due to exceeding the storage limit.
+
 Assassination
 {0} has been assassinated in {1} by JieQing Gate...
+
 No Shadow to Kill
 {0} died in {1} after being assassinated by the Jieqing Gate for holding the Shadow Erasing Order...
+
 The Great Divide
 {0} departed from this life in {1}
+
 XS·Enthralled
 {0} in {1} has been disturbed by XiangShu's evil thoughts and cannot be themselves.
+
 Possessed by XiangShu
 {0} in {1} has succumbed to the corruption of XiangShu and has become possessed.
-Imprisonment Hatred
+
+Imprisonment Enmity
 {0} in {1} started resenting {2} because of being imprisoned by {2}...
+
 Prison Escape
 {0} in {1} broke away from {2}'s imprisonment and escaped...
+
 Cricket Died
 {0} has died of old age...
+
 Resource Overfilled
 Resources are over-capacity, causing the loss of {0} in {1}
+
 Inventory Overweight
 Resources are over-capacity, causing the loss of {0} in {1}
+
 Enmity Bred
 {0} has become enemies with {2} in {1}
+
 Rancor Melted
 {0} dissolved their hatred for {2} in {1} and are no longer enemies.
+
 Adore Confession
 In {1}, {0} confessed to {2} and finally impressed each other, the two have mutual love and affection.
+
 Couple Broken Up
 In {1}, {0} and {2} broke up with each other...
+
 Couple Married
 In {1}, {0} and {2} promised to each other for life and were married.
+
 Budding Friendship
 {0} and {2} had a good conversation in {1}, and both felt very close to each other, so they decided to become close friends.
+
 Estrangement
 The {0} and {2} are separated in {1}. The two drifted apart and are no longer close friends.
+
 New Sworn-Siblings
 In {1}, {0} and {2} became sworn-siblings, not seeking the same year and the same month and the same day, but seeking the same year and the same month and the same day to die.
+
 Fraternal Rupture
 {0} in {1} and {2} cut off the righteousness of the robe, and then no longer friendship, as the saying goes: less than the yellow spring, no see each other also.
+
 Adopting as Son
 In {1}, {0} adopted {2} as their Adopted Son
+
 Adopting a Daughter
 In {1}, {0} adopted {2} as their Adopted Daughter
+
 Acknowledge Adoptive Father
 {0} has accepted {2} as his Adoptive Father in {1}.
+
 Acknowledge Adoptive Mother
 {0} has accepted {2} as his Adoptive Mother in {1}.
+
 Blessed Night
 {0} spent the night with {2} in {1}. The two love each other endlessly, and their love is infinite.
+
 Craving No-Holds-Barred
 At {1}, {0} and with an overwhelming desire, attempted to rape {2}, but was seen through by {2} and failed
+
 Blessed with a Son
 {0} gave birth to a son in {1}
+
 Blessed with a Daughter
 {0} gave birth to a daughter in {1}
+
 {0}'s son is born!
+
 {0}'s daughter is born!
+
 Abnormal Neonatus
 {0}'s child was finally born after three years and six months of pregnancy...
+
 A Mother’s Bereavement
 In {1}, {0} felt unwell and miscarried the fetus.
+
 Learning from a Master
 {0} went to {1} to learn martial arts.
+
 Joined A Sect
 {0} has joined {1} as a disciple.
+
 Going to an appointment
 {0} is heading to {1} for an appointment...
+
 Expecting
 {0} is {1} waiting {2} for an appointment...
+
 Appointment Broken
 In {1}, {0} waited for {2} for a long time, {2} but never came to the appointment...
+
 Appointment Cancelled
 {0} cancelled the appointment in {1} with {2}...
+
 To the rescue
 {0} learns that {1} is being held prisoner by {2} and decides to go to the rescue...
+
 Captives Rescued
 {0} freed {1} from the imprisonment of {2}
+
 Release
 {0} has released {2} at {1}.
+
 Missing Persons
 Last see in {1}, {0} is nowhere to be found...
+
 Revenge
 {0} decided to seek revenge on {1}...
+
 Protection
-{0} decided to go to protect {1} from {2}...
+{0}决定去保护{1}免受袭击…
+
 Protecting friends and family
 {0} will fight against {2} on behalf of {1}...
+
 New Sect Position
 {0} became a {2} of {1}
+
 New Town Official
+
 New Faction Leader
 {0} became a leader of a faction in {1}
+
 Stolen Resources
 In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
+
 In {1}, {0} successfully stole some {3} from {2}.
+
 Scamming Resources
 In {1}, {0} tried scamming {3} from {2}, but was unsuccessful.
+
 Robbed Resources
 In {1}, {0} tried robbing {3} from {2}, but was unsuccessful.
+
 Grave Robbing
 {0} stole {3} from the grave of {2} in {1}.
+
 Stealing Items
+
 In {1}, {0} successfully stole {3} from {2}.
+
 Scamming items
+
 Robbing Items
+
 Grave Robbing Items
 {0} stole {3} from the grave of {2} in {1}
+
 Stole Life Skill
 In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
+
 In {1}, {0} stealthily learned {3} from {2}.
+
 Scamming Life Skills
 In {1}, {0} tried scamming {3} from {2}, but was unsuccessful.
+
 Steal Martial Arts
+
+
 Swindling Martial Arts
+
 A Token of Goodwill
 In {1}, {0} presented {2} as a gift to {3}.
+
 Trifling Gift, Genuine Friendship
+
 Tutoring Life Skills
 In {1}, {0} has tutored {2} in {3} studies.
+
 In {1}, {0} tried tutored {2} in {3} studies, but didn't get any results.
+
 Tutoring Martial Arts
 In {1}, {0} has tutored {2} in {3} studies.
+
 In {1}, {0} tried tutored {2} in {3} studies, but didn't get any results.
+
 Music Performance
 {0} listened to the music played by {2} at {1}.
+
 Game Of Chess
 {0} played a game of Chess against {2} in {1}.
+
 Poetry Reading
 {0} read the poems written by {2} at {1}
+
 Painting Showcase
 {0} viewed the paintings painted by {2} at {1}
+
 Crafted Treasures
 {0} has created the fabled {2} in {1} and the fame has spread all over the world.
+
 Taoist Enlightenment
 {0} told {2} about the mysteries of the Tao in {1}, which enlightened {2} and enhanced {3}'s talent.
+
 Buddhist Enlightenment
 {0} spoke to {2} in {1} about the subtleties of Buddhism, which led to {2}'s enlightenment and enhanced {3}'s talent.
+
 Divination
 {0} divined in {1} a certain secret story possessed by {2}.
+
 Lucky Valuables
 In {1}, {0} obtained a very rare {2} by chance.
+
 In {1}, {0} obtained {2} {3} by chance.
+
 Fortuitous Encounter
 In {1}, {0} obtained a {2} martial art book by chance.
+
 In {1}, {0} obtained a {2} fine art book by chance.
+
 Heavenly Miracle
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their Health.
+
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their External Injuries.
+
 In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their Internal Injuries.
+
 In {1}, {0} dreamed about a mystical white deer, and {2} in their body was reduced.
+
 In {1}, {0} dreamed about a mystical white deer, and their Inner Breath was calmed down.
+
 Great Misfortune
 In {1}, {0} lost a very rare {2} by chance.
+
 In {1}, {0} lost {2} {3} by chance.
+
 Lost Book
 In {1}, {0} lost a {2} martial art book by chance.
+
 In {1}, {0} lost a {2} fine art book by chance.
+
 Heavenly Punishment
 In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their Health.
+
 In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their External Injuries.
+
 In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their Internal Injuries.
+
 In {1}, {0} dreamed about horrible demons and evil spirits, and {2} in their body was increased.
+
 In {1}, {0} dreamed about horrible demons and evil spirits, and their Inner Breath became disordered.
+
 Resource Growth
 {1} in {0} has grown bigger.
+{0}的{1}规模等级上升了{2}次。
 Resource Expansion
 {0} of {1} has expanded to the surrounding area.
+{0}的{1}向周边地区扩张了{2}次。
 Construction Damage
 {0} in {1} is being compromised and the scale level is decreasing.
+
 Construction Collapse
 {1}’s {0} crumbled into debris.
+
 Construction Complete
 {1} has been constructed in {0}
+{0}的诸多建筑建造完毕了。
 Expansion Complete
 {1} has been upgraded in {0}
+{0}的诸多建筑扩建完毕了。
 Removal Complete
 {1} have been removed from {0}
+{0}的诸多建筑拆除完毕了。
 Building Harvest
 {0}'s {1} had completed a harvest.
+
 Dispatch Arrived
 The {1} dispatched to {0} has arrived at {0}.
+
 Nest of Beggars
 Heard that {0} there is a gathering of evil beggars...
+
 Camp of Thieves
 I heard that {0} there are thieves camping and causing harm...
+
 Fortress of Robbers
 I heard that {0} there are bandits out there, stopping the road to rob...
+
 Traitor Gang
-Heard that a group of renegades from {0} gathered at {1}...
+听闻一伙叛徒在{0}聚集…
+
 Villain Valley
 I heard that many evil people in the jianghu are hiding in {0}...
+
 Aroma Array
 Heard {0} from time to time, the sound of decadence, there are several men missing in the...
+
 Mass Grave
 I heard that {0} near the eerie, chaotic graves...
+
 Talents Residence
 Heard about a group of eccentric foreigners gathered at {0}...
+
 Otherworldly Cults
 Heard {0} in {1} scouting for foreign frontier cults, but then lost track of them...
+
 Asura Trial
 Heard {0} in {1} scouting for weird bloodstains, but then lost track of them...
+
 The Gathering of Demons
 I heard that several people who had fallen into the demonic path of the Xiangshu suddenly gathered at {0}, and then they were nowhere to be found...
+
 Sect Betrayal
 Heard that {0} suddenly disobeyed and betrayed their sect and appeared in {1}...
+
 Spring Fair
 Ringing the New Year in and the old year out, merchants from every quarter are running a bustling fair, with the folks coming for it filling every corner
+
 Town Tournament
 The summer is scorching hot, and summer practice is in the doldrums. {0} is holding a {1} event. The three religions and nine streams gather together, and the high-level martial arts competition is full of enthusiasm.
+
 Cricket Vibrancy
 Attending the golden season, the chirping of crickets pervades hither and thither, as goes the poem“Under the window and among the tussock, into the yearning hearts and the sorrowful ears”
+
 World Cricket Congress
 The World Cricket Congress is holding at {0}! 
+
 Art Conference
 The snow is cold, the wind is cold, and for the people to live and breathe, {0} is hosting a {1} more artistic conference.
+
 Small Sect Competition
 Rumor has it that {0} is holding a small sect competition where low ranking disciples gather...
+
 Rumor has it that {0} is holding a small sect competition where high ranking disciples gather...
+
 Large Sect Competition
 Rumor has it that {0} is holding a large sect competition, and all the senior members of the sect are participating in it...
+
 Matchmaking Contest
 A declining noble is holding a grand Matchmaking Contest to find a spouse for their daughter in {0}...
+
 Wedding Ceremony
 {0} and {1}'s wedding ceremony is being held in {2}...
+
 Break Out from Sword Tomb
 A powerful enemy calling themselves "Xiangshu Incarnation" came out of the "{0}" Sword Tomb near the Taiwu Village! They are coming straight to the Taiwu Village!
+
 Mo Nyu Brings Disaster
 Because of Mo Nyu passing nearby, {1} people near the {0} are affected by her disaster, causing them to suffer injuries and poison!
+
 Yaochang Brings Disaster
 Because of Dayue Yaochang passing nearby, {1} people near the {0} are affected by her disaster, causing them to die!
+
 Jiu Han Brings Disaster
 Because of Jiu Han passing nearby, lands near the {0} have been damaged!
+
 Huang'er Brings Disaster
 Because of Jin Huang'er passing nearby, {1} people near the {0} suffered an unexpected calamity!
+
 Yihou Brings Disaster
 Because of Yi Yihou passing nearby, people's mind near the {0} was filled with grief and sorrow.
+
 Wei Qi Brings Disaster
 Wei Qi transferred all his injuries to {1} near the {0}!
+
 Yi Xiang Brings Disaster
 Because of Yi Xiang passing nearby, standpoint of people near the {0} has changed!
+
 Xue Feng Brings Disaster
 Because of Xue Feng passing nearby, more Xiangshu Minions appeared near the {0}!
+
 Shu Fang Brings Disaster
 Because of Shu Fang passing nearby, {1} people near the {0} has aged!
+
 Mo Nyu Saves the Suffering
 {0} was treated by a mysterious person who called herself Mo Nyu at {1}.
+
 Yaochang Saves the Suffering
 {0} who fell into the demonic path of the Xiangshu was captured in the {1} by a mysterious man who called himself Dayue Yaochang and was finally put to death...
+
 Jiu Han Saves the Suffering
 Lands near the {0} was under the care of a mysterious man who called himself Jiu Han, restoring all the nearby resources.
+
 Huang'er Saves the Suffering
 {0} saw the golden phoenix at the {1} and received good fortune.
+
 Yihou Saves the Suffering
 People near the {0} are more likely to fall in love with others after meeting a mysterious person who calls himself Yi Yihou.
+
 Wei Qi Saves the Suffering
 {0} was rescued by a mysterious man who called himself Wei Qi in the {1} and transferred the injuries to {2}.
+
 Yi Xiang Saves the Suffering
 People near the {0} have their standpoint temporarily be changed to Kind by a mysterious man who calls himself Yi Xiang.
+
 Xue Feng Saves the Suffering
 {0} was attacked by a mysterious man calling himself Xue Feng at {1}.
+
 Shu Fang Saves the Suffering
 {0} stumbled upon a mysterious man in the {1} who called himself Shu Fang, and then seemed to get younger!
+
 Civilian Disappearance
 {0} was lost at {1} and was later confirmed dead.
+
 Caravan Departure
-The {0} caravan located at {1} departed.
+位于{0}的<color=#ffea8d>{1}</color>商队出发了。
+位于{0}的<color=#ffea8d>{1}</color>商队出发了，共有{2}支。
 Heart Broken and Desperate
 {0} is feeling heart-broken leaving Taiwu Village...
+
 Ruthless Natural Disaster
 There are rumors of a terrible natural disaster in {0} <color=#red> {1} </color> people died and <color=#red> {2} </color> locations were destroyed by the disaster!
+
 Last Farewell
 {0} vaguely in a dream, I saw the late {1} pointing in the direction of {2}, as if he had many words to tell {0}, but the yin and yang are separated, life and death are different, the voice can not communicate, after a long time, {1} only towards the direction pointed to drift away.
+
 Power Dissipation
 The accumulated power of {0} technique has completely dissipated...
+
 Devastation
 {0} in {1} collapsed into ruins, and a huge demon emerged from the ruins of Taiwu Village!
+
 Mysterious bamboo
 A purple bamboo appeared near Taiwu Village, growing on a black stone. No one knows where the black stone came from, and no one knows where the purple bamboo came from either...
+
 Precious classic appeared
 {0} at {1} to obtain the long-lost {2} treasure trove.
+
 Alliance Failure
 Due to the fact that the key figures of various sects could not gather together, The World Martial Arts Tournament was not successfully held in the end...
+
 Preparing for the Alliance
 All people unite with common goal of assisting Taiwu! Sects in jianghu are actively preparing for The World Martial Arts Tournament...
+
 The World Martial Arts Tournament
 The World Martial Arts Tournament is being held in {0} with great fanfare, and important figures from various sects are gathering together to participate in the grand event...
+
 Aikikawa Takes Life
 In {0} there are {1} people who died fighting against the demons and chaos...
+
 Obtained News
 Heard New News: {0}
+
 Obtained Secrets
 Heard New Secret: {0}
+
 Secret will expire soon
 Secret will expire in: {0}...
+
 Secret Expired
 Secret Expired: {0}...
+
 Strange Person Appeared
 Calling Taiwu: Strange person appeared in the world, everyone is calling {0} to return to the Taiwu Village...
+
 Returning with a Festival
 Time has no regrets, after thirty years of trials and tribulations, the tea and horse gang has surprisingly returned to Taiwu Village...
+
 Hazy News
 For some reason, the Tea Caravans lost contact with Taiwu Village...
+
 Return from the West
 The tea and horse gang returned to Taiwu Village without incident...
+
 Gain prestige
 As the secret news from {0} got spread, {0} gained {1} prestige...
+
 You are in {0} preparing for a prestigious match that has gathered guests!
+
 Sect Competition
 Rumor has it that {0} is holding a disciples gathering for a sect competition...
+
 Go far away
 I heard that {0} there is a sect dispute, and the dispute seems to be related to "Taiwu"...
+
 Treasure From Nature
 After hearing about a natural disaster, {0} a foreign treasure descends...
+
 The Warriors Defend the Way
 Hearing that {0} there are people with lost hearts who have fallen into the demonic path of the XiangShu, many righteous people in the jianghu are trying to get rid of this scourge!
+
 The group of beggars to see and hear
 {0} in {1} on behalf of {2} recorded {3} poking around to get the insights...
+
 Camp revenue
 {0} collected {3} recent {4} silver money income in {1} behalf of {2}...
+
 Mountain Halt
 In {2}, {0} received {4} provided by {3} on behalf of {1}...
+
 The Evil One Raises the Bully
 {0} oversees {3} to proclaim prestige in {1}, so that {2} gains {4} prestige...
+
 Gathering of righteousness to eliminate evil
 {0} assisted {3} in {1} disposing of the villains, so that {2} gained {4} experience...
+
 Helping those in need
 {0} assisted {3} in {1} dealing with the jungle strife, so that {2} gained {4}% regional favor...
+
 Staffing Vacancies
 {0} unfortunately died while managing {2} of {1} and is no longer able to continue working for {3}...
+
 Stone House Rescue
 I heard that {1} who had fallen into the devil's way had been sent to {0} to be imprisoned in the Stone House...
+听闻众多堕入魔道者已被送往{0}的石屋中关押…
 The caravan is lost
 Tea Caravan has departed from Taiwu Village but got lost, leading to a decrease in Reputation...
+
 Mirage
 Tea Caravan has departed from Taiwu Village and witnessed a mirage, leading to an increase in Reputation...
+
 Discover Savage
 Tea Caravan has departed from Taiwu Village and discovered a savage, leading to an increase in Reputation...
+
 Discover Plants
 Tea Caravan has departed from Taiwu Village and discovered a rare plant, leading to an increase in Reputation...
+
 Discover Animals
 Tea Caravan has departed from Taiwu Village and discovered a rare animal, leading to an increase in Reputation...
+
 Report Back
 Tea Caravan has departed from Taiwu Village and reported back about their experiences, leading to an increase in Reputation...
+
 Discover a settlement
 Tea Caravan has departed from Taiwu Village and discovered a settlement, leading to an increase in Reputation...
+
 Read the weather
 Tea Caravan has departed from Taiwu Village and ran into a rarely seen weather, leading to an increase in Reputation...
+
 Caravan Wreckage
 The tea and horse gang from Taiwu Village found the remains of the caravan and obtained some goods...
+
 Assist some travelers
 The tea and horse gangs from Taiwu Village aided the roadies, resulting in reduced supplies...
+
 Get Assistance
 The tea and horse gangs from Taiwu Village received assistance and increased supplies...
+
 Occasional Wild Game
 The tea and horse gangs from Taiwu Village found game and increased supplies...
+
 Discover forest fruit
 The tea and horse gang from Taiwu Village found the fruit forest and could search for supplies...
+
 Discover a village
 The tea and horse gang from Taiwu village found the village and could exchange supplies...
+
 Meet a caravan
 The tea and horse gangs from Taiwu Village meet merchants on the road and can exchange supplies...
+
 Meet the thieves
 The tea and horse gang from Taiwu Village encountered thieves and lost some of their goods...
+
 Hit a pothole
 The tea horse gang from Taiwu Village had a bumpy road and lost a small amount of goods...
+
 Bad weather
 The tea and horse gangs from Taiwu Village were underwater, resulting in reduced supplies...
+
 Lack of resupply
 News came from afar that the tea and horse gang from Taiwu Village no longer had enough supplies to complete the trip and the group was dying out...
+
 At the end of lifespan
 {0} is getting thinner and thinner, and seems to be running out of life...
+
 Lair demise
 {0}'s {1} went extinct...
+
 Secret News Public
 Deprecated
+
 Sudden Insight
 While reading {0}, unexpectedly experienced Sudden Insight...
+
 Lair strong
 A Legendary Manual has appeared, leading people to become obsessed by it. The {0} outlaw's lair seems to have expanded greatly due to the significant change in the mind of Legendary Manual's possessor, as they search for insights into the mysteries of the book, revealing some of its secrets…
+
 Strong enemies grow
 A Legendary Manual has appeared, leading people to become obsessed by it. The outlaws and righteous warriors of {0} seem to have significantly increased their strength due to the profound change in the mind of Legendary Manual's possessor as they search for insights into the mysteries of the book, revealing some of its secrets…
+
 Strong enemy decay
 The traces of the Legendary Manual have shifted over time. Since it has changed hands, the outlaws and righteous warriors of {0} no longer seem to be affected by the manual, their strength returning to normal
+
 phase pivot raging
 Obsessed with the Legendary Manual, one eventually falls into evil. Due to the person completely losing their mind, not only did they lose the manual, but they also fell into the realm of Black Stone, leaving the secrets of the manual entirely exposed to Xiangshu...
+
 LM·Enthralled
 {0} was intoxicated by the {2} Legendary Manual, it only took one wrong thought to become Enthralled in {1}...
+
 Possessed by a Book
 {0} was intoxicated by the {2} Legendary Manual, a deity swayed their heart and spirit towards evil, and they became Possessed in {1}...
+
 Fallen Ones
 {0} was deeply intoxicated by the {2} Legendary Manual, unable to return from their obsession. They became crazed and ultimately devoured by Xiangshu in {1}, transforming into a demon that wreaks havoc on humanity…
+
 Curious Book Flow
 {2}'s holder {0} has lost {2} in {1}, causing Legendary Manual to get lost in the world, its whereabouts unknown...
+
 Legendary Manual appears
 {1}'s traces have appeared, causing numerous experts from both the righteous and evil factions to gather around in {0}, all for the purpose of seizing the Legendary Manual that has fallen into the world...
+
 Abandoned by {0}, {2}'s traces resurfaced, causing numerous experts from both the righteous and evil factions to gather around in {1}, all for the purpose of seizing the Legendary Manual that became ownerless...
+
 Because of {0}'s death, {2}'s traces resurfaced, causing numerous experts from both the righteous and evil factions to gather around in {1}, all for the purpose of seizing the Legendary Manual that became ownerless...
+
 Because {0} got Possessed, {2}'s traces resurfaced, causing numerous experts from both the righteous and evil factions to gather around in {1}, all for the purpose of seizing the Legendary Manual that became ownerless...
+
 The Legendary Manual has appeared, but its whereabouts are hard to trace. It's rumored that {0} in {1} obtained a long-lost {2} Legendary Manual and is about to explore its mysteries…
+
 Odd Book Challenge
 {0} challenged {2} to win {3} in its hand at {1}.
+
 Capture the Curious Book
 {0} took {3} from {2} in {1}
+
 leave without saying goodbye
 {0} left a letter with only 16 words on it "Legendary Manual has its own will, my heart is difficult to calm, I'll leave for now..." before leaving...
+
 Celebrating Birthdays
 {0} has arrived, which coincides with the birth month of {1}, perhaps it's time to celebrate…
+
 Poison Discard
 {0} is suffering from Mangled Tendon, the poison invaded the body, and the pain is unbearable. At {1}, {2} in the bag was discarded...
+
 Ferocious Poison Harms People
 {0} is suffering from Corrupted Blood, and the Necrotoxin in it spreads to others around {1}...
+
 Poison Disfiguration
 {0} is suffering from Bone Ulcers, their appearance has been devastated, and now they are disfigured...
+
 Ferocious Poison Confuses People
 {0} is suffering from Bitter Suffering, and the Oneirotoxin in it spreads to others around {1}...
+
 Poison Mad
 {0} is suffering from Burning Heart, losing their mind, wrecking havoc in {1}, and even attacking {2}...
+
 {0} is suffering from Burning Heart, losing their mind, wrecking havoc in {1}, and even poisoning {2}...
+
 {0} is suffering from Burning Heart, losing their mind, wrecking havoc in {1}, and even secretly harming {2}...
+
 {0} is suffering from Burning Heart, losing their mind, wrecking havoc in {1}, and even humiliated {2}...
+
 {0} is suffering from Burning Heart, lost their mind, wrecked havoc in {1}, and even tried attacking {2}, but failed...
+
 {0} is suffering from Burning Heart, lost their mind, wrecked havoc in {1}, and even tried poisoning {2}, but failed...
+
 {0} is suffering from Burning Heart, lost their mind, wrecked havoc in {1}, and even tried to secretly hurt {2}, but failed...
+
 {0} is suffering from Burning Heart, lost their mind, wrecked havoc in {1}, and even tried humiliating {2}, but failed...
+
 Ji Xi Hurts People
 Ji Xi wandered to {0} and drank human blood due to hunger, resulting in death of {1} people...
+
 Absorbing Demonic Nature
+
 Ultimate Art of Lion Face
 I've heard rumors that Lion-Face Clan seems to be holding a "Secret Ultimate Art" competition...
+
 Ji Xi's Farewell
 The living are passers-by, and the dead are returnees. Ji Xi seems to know about the passing of the deceased, and she has no worries about her body, and she doesn't know where she has gone...
+
 World Tournament's Winner
 {0} is the winner of this year's World Martial Arts Tournament!
+
 Fellow clansmen killing each other
 I heard that Emei Sect's {0} for some reason got into a big fight with a fellow sect member at {1}...
+
 Return of the White Ape
 The white ape who is waiting to explore martial arts seems to have returned to his old place. You can go to the foot of the Emei Sect to explore...
+
 After waking up from the dream at the end of the night, things are right and people are no longer, and since the soul of the old man has changed, Ji Xi seems to have sensed it, but she doesn't know where he has gone...
+
 Ji Xi to the Rescue
 {0} is weak. Ji Xi finally couldn't bear to see him, so she rescued him and restored his Health, and turned into a child again...
+
 Ji Xi is missing
 Before that, Ji Ling was nowhere to be found, and she has not yet returned. {0} can't find her everywhere, so I know she has left without saying goodbye, and I don't know where she went...
+
 Ancient Cauldron Treats People
 Liao Family's Ancient Cauldron went to {0} according to the order, and healed Internal and External Injuries of all characters in that area...
+
 Liao Family's Ancient Cauldron went to {0} according to the order, and detoxed Poisons of all characters in that area...
+
 Liao Family's Ancient Cauldron went to {0} according to the order, and eliminated Qi Disorder of all characters in that area...
+
 Liao Family's Ancient Cauldron went to {0} according to the order, and restored Health of all characters in that area...
+
+
 Villagers Injured
 During the week of the Divine Tree, the ghosts are ferocious, and Taiwu villagers defended Divine Tree with their lives. {0} villagers were injured while defending Divine Tree this month!
+
 Villagers Died
 During the week of the Divine Tree, the ghosts are ferocious, and Taiwu villagers defended Divine Tree with their lives. {0} villagers in {1} died while defending Divine Tree!
+
 Sweep Monsters
 {0} at {1} defeated {2}, getting rid of evil in jianghu...
+
 Monster attacks People
 {0} at {1} received a surprise attack from {2}, receiving heavy wounds in process... 
+
 Defeated Righteous
 {0} at {1} defeated {2}, getting the blood of the righteous on their hands...
+
 Righteous Punishment
 {0} at {1} was punished by {2}, receiving heavy wounds in process... 
+
 Overpower an Animal
 {0} at {1} overpowered a {2}, and banished it back to the wilderness...
+
 Animal Attack
 {0} at {1} was attacked by {2}, almost meeting early death...
+
 Death in a Lair
 Heard that {0} in {1} was captured by {2}, and eventually died there...
+
+
 Temporary Text Temporary Icon: I heard that the Three Devils have absorbed the demonization of {0} and have been strengthened
+
+
 Re-entering Reincarnation
 Because {0} lost their flesh and blood in {1}, {2}, who was originally going to be reincarnated here, had nowhere to go and had to find someone else to reincarnate again...
+
 Because {0} had an accident during {1}'s childbirth, {2}, who was originally going to be reincarnated here, had nowhere to go and had to find someone else to reincarnate again...
+
 Because {0} died in {1}, {2}, who was originally going to be reincarnated here, had nowhere to go and had to find someone else to reincarnate again...
+
 Little Rock Promise
 Shi Houjiu seems to have returned to his old place. You can go to the foot of the Emei Sect to explore...
+
 Seizing Emei
 The Emei Sect's "authentic martial arts dispute" has reached a critical moment. If ignored, they might be doomed...
+
 Escaped from Lair
 Heard that {0} was trapped by {2} in {1}, and finally managed to come back from death's door, saved from disaster...
+
 Heard that {0} was trapped by {2} in {1}. Fortunately, he was rescued by {3} and was finally out of danger...
+
 Destitution
 {0}'s local Culture has been reduced, it's industries impoverished, and it is no longer able to provide {1} with {2} resource assistance...
+
 Divine Dragon's First Appearance
 In {0}, there is a {1} phenomenon manifesting in the mortal realm, clouds rising and mist spreading, divine power extending, causing changes in the surrounding terrain...
+
 Jiao Pond Impoverished
 In {0}, received news from Jiao Pond: Due to the lack of resources in the Jiao Pond, {1} is no longer growing...
+
 Growing Jiao Resists
 In {0}, received news from Jiao Pond: A Jiao is not meant to be confined to a pond. Today, {1} has finally resisted domestication, escaping from the Jiao Pond and lurking near the Taiwu Village...
+
 Growing Jiao Breaks Shell
 In {0}, received news from Jiao Pond: After months of careful nurturing, {1} has finally hatched from its shell, roaring into the clouds and dancing with the waves, displaying an adorable demeanor...
+
 Growing Jiao Matures
 In {0}, received news from Jiao Pond: After months of diligent care, {1} has finally grown into its own, roaring into the clouds and dancing with the waves, displaying a majestic and heroic posture...
+
 Qiuniu's Music
 {2} composed a song for {0} in {1}, playing it with deep emotions. Passersby stopped in their tracks to listen...
+
 Yazi's Revenge
 {2} in {1} attacked {0}...
+
 Chaofeng's Secret Report
 Learned {1}'s secret from {0}...
+
 Pulao's Huge Sound
 Obtained {1} from {0}'s mouth...
+
 Suanni's Amusement
 {1} in {0} blew gentle smoke, and deciphered {2}'s {3} chapter...
+
 Baxia's Treasure Hunt
 {2} discovers a treasure in {1} and returns with it, having excavated it for {0}...
+
 Bian's Heavy Gaze
 Because of {1}'s gaze, {0} confessed something they had done before...
+
 Fuxi's Dance
 {1} in {0} had a flash of inspiration, and deciphered {2}'s {3} chapter...
+
 Chiwen's Internal Support
 Because of playing freely with {1} in {0}, internal energy has been restored...
+
 Jiao Egg Laid
 In {0}, received news from Jiao Pond: As the sun and moon revolve, all things flourish. On this day, {1} and {2} have laid a Jiao Egg in the Jiao Pond...
+
 Jiao's Concealed Thought
 In {0}, received news from Jiao Pond: {1} doesn't want to train, and even shows signs of trying to escape the Jiao Pond. Perhaps it would be a good idea to try appeasing it in a bit...
+
 Died of old age
 {0}'s lifespan has come to an end, peacefully passing away in {1}...
+
 Lifespan cut short
 {0} exhausted their Health and departed from this world in {1}...
+
 Violent Death
 {0} had their life taken by {2} in {1}...
+
 Evil Spirit Wrapping Body
 {0} is free from illness, yet feels drowsy every day, with weakness in limbs and shoulders as heavy as a thousand pounds...
+
 Ghost Shadow Follows
 {0} is free from illness, yet feels drowsy every day, with weakness in limbs. It seems that the soul of the eminent monk accompanies them, casting a shadow that refuses to dissipate...
+
 Demonic Vajrayana
 The Vajrayana Sect is ruthlessly hunting down and plundering monks from the Western Regions. Anyone who harbors monks or conceals their whereabouts is captured and killed. The Western Regions are engulfed in chaos, and fear grips the hearts of the people...
+
 Worshiping Buddha
 As rumors spread among the people, the reputation of the Western Regions' eminent monks has become widely known and admiration for them is increasing day by day...
+
 Eminent Monk Propagates Buddhism
 The eminent monks of the Western Regions, being grateful for {0}'s kindness, have set up a preaching altar at {1}, spreading the teachings and promoting {0}'s virtuous deeds...
+
 Host Died
 Because {0}'s host has died in the {1}, it escaped from the {2}'s body and fell asleep in the grave. Perhaps you could dig it up...
+
 Gu King Died
 The {1} in {0}'s body reached the end of its lifespan and died, causing its remains to be digested by the five internal organs, damaging host's traits...
+
 The {1} in {0}'s body reached the end of its lifespan and died...
+
 Dull Monk Becomes Famous
 An unknown monk misinterpreted the scriptures and set out to preach everywhere, unexpectedly gaining a large following. Not only did his reputation soar, but he also collected a considerable amount of offerings and donations...
+
 Divine Soul
 A monk wearing borrowed robes appeared in Taiwu Village, wandering back and forth near the reincarnation platform, and has since taken up residence in the village...
+
 Five Saints Heart Poison
 {0} practiced the Five Saints Heart Poison, harboring deep sorrow within, ultimately leading to the infiltration of toxicity into the body...
+
 Common People Flee
 The villagers suffering in Kunlun Mountain, unable to bear the oppression of the Vajrayana Sect, have fled one after another, all deeply grateful for {0}'s kindness in relieving their suffering...
+
 Three Sects Competition
 After many years, the Three Sects Competition is finally held again in the Ranshan...
+
 Gave up Legendary Manual
 {0} and Huaju discussed past and present, talking idly about various matters and setting great ambitions. They made a grand decision to abandon {1} in {2}, no longer obsessing over it. As a result, the Legendary Manual once again fell into the world, its whereabouts unknown...
+
 {0} followed Xuanzhi galloping across the mountains and rivers, indulging in poetry, wine, and the world of heroes. Immediately after, they abandoned {1} in {2}, no longer obsessing over it. As a result, the Legendary Manual once again fell into the world, its whereabouts unknown...
+
 {0}'s heart was completely infatuated, and devoted solely to Yingjiao, risking life and limb for her. By chance, they abandoned {1} in {2}, no longer obsessing over it. As a result, the Legendary Manual once again fell into the world, its whereabouts unknown...
+
 {0} spent several days with Huaju, but wouldn't let go of {1}. Huaju had to return empty-handed before long…
+
 {0} spent several days with Xuanzhi, but wouldn't let go of {1}. Xuanzhi had to return empty-handed before long…
+
 {0} spent several days with Yingjiao, but wouldn't let go of {1}. Yingjiao had to return empty-handed before long…
+
 Huaju noticed that {0} wasn't obsessed with {1} anymore, and after a little chat, returned back...
+
 Xuanzhi noticed that {0} wasn't obsessed with {1} anymore, and after a little chat, returned back...
+
 Yingjiao noticed that {0} wasn't obsessed with {1} anymore, and after a little chat, returned back...
+
 Huaju noticed that {0}'s whereabouts were unknown, so he had no choice but to return...
+
 Xuanzhi noticed that {0}'s whereabouts were unknown, so he had no choice but to return...
+
 Yingjiao noticed that {0}'s whereabouts were unknown, so she had no choice but to return...
+
 Eight Lives and Eight Deaths
 Due to the effect of the Eight Lives and Eight Deaths technique, {0}'s Health was restored...
+
 Due to the effect of the Eight Lives and Eight Deaths technique, {0}'s Health was damaged...
+
 Heart Ripping
 It's rumored that violent crimes are occurring frequently across various regions. The culprit is said to be active in {0}, targeting victims and attempting to kill them while stealing their hearts, causing everyone to be living in fear...
+
 Mind Destroying
 It's rumored that strange occurrences are happening across various regions. No one knows what evil monster is causing these incidents, as they have been destroying people's minds in {0}, causing everyone to be living in fear...
+
 Large Eagle Attack
 Recently, the skies near Taiwu Village have been filled with soaring eagles. It seems there are fierce birds repeatedly circling and causing trouble for the Black Owl, who have suffered injuries…
+
 Beasts Howling
 Recently, near Taiwu Village, one can often hear eerie howling and ghostly screams. It appears there are fierce beasts wandering about, causing the White Deer to be frightened, leading them to live in constant fear…
+
 Disease in All Places
 Suddenly, a weird black gas appeared in {0}. It is said that anyone who makes contact with the black gas soon will suffer from a mysterious madness disease. Hundred Flowers Valley learned about this, and have already sent their disciples to investigate it and provide medical treatment...
+
 Death Qi Invasion
 Suddenly, a deep and heavy black gas appeared in {0}. It is said that anyone who makes contact with the black gas soon will suffer from a mysterious madness disease. Hundred Flowers Valley learned about this, and have already sent their disciples to investigate it and provide medical treatment...
+
 Heavenly Harmony
 While operating {0}, unexpectedly experienced sudden connection between heaven and man...
+
 Five Element Life Qi
 The transformations of the five elements' life essence that result from the Eight Lives and Eight Deaths technique have already taken place. This has led to changes in the traits of those involved…
+
+资源采集
+{0}的{1}采集完毕了。
+
+伏龙祭祀
+赤明岛近日频发奇异天灾，伏龙坛上下皆道是天降祥瑞，为请真龙降世，已开始筹备祭龙盛典……
+
+鸡毛零落
+{0}因失去一缕最为美丽的羽毛，正在暗自神伤……
+
+筹备春日集市
+旧岁已尽，佳节将至，{0}个月后便是新春集会，各地商贾正为此四处张罗…
+
+筹备比武大会
+日修夜短，阳气渐盛，各路武林豪杰云集于{0}，{1}个月后将于此召开{2}…
+
+筹备促织大会
+虫鸣声中，光阴荏苒，三年一度的促织大会即将于{1}个月后在{0}召开！
+
+筹备较艺大会
+暑往寒来，万物生息，各地艺林翘楚汇集于{0}，{1}个月后将于此召开{2}…
+
+筹备门派较武
+传闻{0}将于{1}个月后举行门派较武，一试门中弟子平日所学…
+
+筹备比武招亲
+听闻{0}有一位没落的权贵正觅求佳婿，{1}个月后将于城中举行比武招亲…
+
+人物濒死
+关注的{0}濒临死亡…
+
+人物伤重
+关注的{0}状态不佳…
+
+人物受困
+关注的{0}受困于某地等待拯救…
+
+消灭狂徒
+{0}在{1}遭遇伏龙狂徒拦路勒索供奉，反手将其消灭……
+
+遭遇抢劫
+{0}在{1}遭遇伏龙狂徒拦路勒索供奉，反抗不成，遭到抢劫……
+
+
+{0}在{1}遭遇伏龙狂徒拦路抢劫，束手就擒交出了供奉……
+
+
+骨肉分离
+{0}于{1}监牢诞下婴孩，但因无力抚养，只得将其托付至亲{2}，正是：骨肉离分，泪眼断肠…
+
+{0}于{1}监牢诞下婴孩，但因无力抚养，只得将其交由{2}养育，正是：骨肉离分，泪眼断肠…
+
+离开人世
+{0}于{1}监牢关押期间，离开了人世…
+
+{0}在{1}监牢服刑期间，因手持无影令遭到了界青门的刺杀，离开了人世…
+
+{0}在{1}监牢服刑期间，因遭到界青门的暗杀，离开了人世…
+
+因{0}身陷囹圄，无力抚养{1}，只得将其托付至亲{2}，正是：骨肉离分，泪眼断肠…
+
+因{0}身陷囹圄，无力抚养{1}，只得将其交由{2}养育，正是：骨肉离分，泪眼断肠…
+
+资源迁移
+{0}于{1}叩石垦壤，终于顺利完成迁移，带着{2}返回了太吾村…
+
+{0}所携的元鸡传回了消息：在{1}与众人闲谈时，偶然获悉了{2}知晓的一则秘闻…
+
+{0}看守{1}时，潜心查探，终于获知了{2}的情况…
+
+天火寂灭
+赤明岛上连绵天火，如今终于灭止……
+
+伏龙搜刮
+因求得真龙降世，伏龙坛派出使者宣扬真龙神威，威逼百姓献出珍宝，供奉真龙……
+
