@@ -519,8 +519,8 @@ Controlling Yazi
 Because of controlling a Yazi, a portion of any direct damage dealt by the enemy to the user will be added to the user's next attack.
 Controlling Yazi: <color=#brightblue>A portion of any direct damage dealt by the enemy to the user will be added to the user's next attack</color>.
 Controlling Chaofeng
-Because of controlling a Chaofeng: User's Movement Speed will not decrease due to low Stamina; The less Stamina user has, the less Stamina user's Footwork techniques will require to be used.
-Controlling Chaofeng: <color=#brightblue>User's Movement Speed will not decrease due to low Stamina; The less Stamina user has, the less Stamina user's Footwork techniques will require to be used</color>.
+因驭使嘲风：运用者的移动速度因脚力减少而下降的效果减半；运用者剩余的脚力越少，运用者施展身法需要消耗的脚力也越少
+驭使嘲风：<color=#brightblue>运用者的移动速度因脚力减少而下降的效果减半；运用者剩余的脚力越少，运用者施展身法需要消耗的脚力也越少</color>
 Controlling Pulao
 Because of controlling a Pulao, the more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal.
 Controlling Pulao: <color=#brightblue>The more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal</color>.
@@ -629,4 +629,9 @@ The power of Fulong techniques increased; The power of Resurrected Person's Fulo
 
 Bloodhound loses power
 The power of Bloodhound techniques increased; The power of Resurrected Person's Bloodhound techniques decreased...
+
+落魂钟
+遭落魂钟所摄，所有次要属性减半，若能重伤其主，此战或有生机…
+
+遭落魂钟反噬，所有次要属性减半，心神涣散，无力御敌…
 
