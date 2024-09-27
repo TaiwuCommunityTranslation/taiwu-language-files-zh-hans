@@ -95,44 +95,91 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Cattle Caravans
+
 
 
 WenShan Bookstore
 
 
+
 Penta-Lake Commerce
+
 
 
 Champion Shop
 
 
+
 Rejuvenation Hall
+
 
 
 Master Square
 
 
+
 House of Odd
+
 
 
 Mo Nyu
 Shao Nu
+
 Dayue 
 Yaochang
 Shao Nian
 
+
 Jiu Han
+
 Jin 
 Huang'er
+
 Yi 
 Yihou
+
 Wei 
 Qi
 
+
 Yi Xiang
 
+
 Xue Feng
+
 
 Shu Fang
 
@@ -388,394 +435,687 @@ Shu Fang
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Monkey
+
 
 
 Eagle
 
 
+
 Boar
+
 
 
 Brown Bear
 
 
+
 Buffalo
+
 
 
 Huge Snake
 
 
+
 Leopard
+
 
 
 Lion
 
 
+
 Tiger
+
 
 
 Spiritual Monkey
 
 
+
 Golden Roc
+
 
 
 Black Hog
 
 
+
 White Bear
+
 
 
 Wild Ox
 
 
+
 Python
+
 
 
 Black Panther
 
 
+
 Golden Lion
+
 
 
 White Tiger
 
 
+
 Sick Beggar
+
 
 
 Evil Beggar
 
 
+
 Furious Beggar
+
 
 
 Snake Charmer
 
 
+
 Beggar Leader
+
 
 
 Small Thief
 
 
+
 Habitual Thief
+
 
 
 Pervert
 
 
+
 Cat Burglar
+
 
 
 Great Thief
 
 
+
 Ruffian
+
 
 
 Mountain Bandit
 
 
+
 Thug
+
 
 
 Bandit
 
 
+
 Mountain King
+
 
 
 Shaolin Outcast
 
 
+
 Emei Outcast
+
 
 
 Flowers Valley Outcast
 
 
+
 Wudang Outcast
+
 
 
 Yuanshan Outcast
 
 
+
 Lion-Face Outcast
+
 
 
 Ranshan Outcast
 
 
+
 Xuannyu Outcast
+
 
 
 Sword Manor Outcast
 
 
+
 Kongsang Outcast
+
 
 
 Vajrayana Outcast
 
 
+
 Five Immortals Outcast
+
 
 
 Jieqing Outcast
 
 
+
 Fulong Outcast
+
 
 
 Blood Hou Outcast
 
 
+
 Fugitive
+
 
 
 Rapist Monk
 
 
+
 Demonic practitioner
+
 
 
 Man-eating ghost
 
 
+
 Culprit
+
 
 
 Charming Fox
 
 
+
 Witch
+
 
 
 Black Widow
 
 
+
 Acacia Fairy
+
 
 
 Jade-Faced Empress
 
 
+
 Ghost Servant
+
 
 
 Corpse Refiner
 
 
+
 Clawing Corpse
+
 
 
 Demon Doctor
 
 
+
 Living Dead
+
 
 
 Demonic Musician
 
 
+
 Yin-Yang Creature
+
 
 
 Scarlet Scribe
 
 
+
 Evil Painter
+
 
 
 Futureless
 
 
+
 Exotic Freak
+
 
 
 Poisoner
 
 
+
 Demonic Scholar
+
 
 
 Childlike old monster
 
 
+
 Demonic Path Master
+
 
 
 Fallen Warrior
 
 
+
 Fiend
+
 
 
 Lost Soul
 
 
+
 Blood-clad Ghost
+
 
 
 Heart Refiner
 
 
+
 Mad Demon
+
 
 
 Flame Demon
 
 
+
 Frozen Demon
+
 
 
 Hellbringer
 
 
+
 Venerable Gautama
+
 
 
 Desperate person
 
 
+
 Non-human
+
 
 
 Faceless Monk
 
 
+
 Nameless Monk
+
 
 
 Passed away Elder
 
 
+
 Corrupted
 Nameless Monster
 
+
 Demoniac
+
 
 
 Cultist
 
 
+
 Demonic Heart
+
 
 
 Evil Incarnate
 
 
+
 Hellish Demon
+
 
 
 The Allbeing
 
 
+
 Fallen God
+
 
 
 Hell Master
 
 
+
 Righteous
+
 
 
 Patrolling Warrior
 
 
+
 Young Hero
+
 
 
 Bodyguard
 
 
+
 Famous Escort
+
 
 
 Eccentric Vagrant
 
 
+
 Nameless Hero
+
 
 
 Famous Hero
 
 
+
 Famous Hermit
+
 
 
 Retired Shaolin senior
 
 
+
 Abbot
+
 
 
 18·Arhats
 
 
+
 Preceptor
+
 
 
 BodhiHall
 
 
+
 Prajna·H
+
 
 
 ArhatHall
 
 
+
 Bhikkhu
+
 
 
 Retired Emei senior
 
 
+
 Head·D
+
 
 
 Direct·D
 
 
+
 Lineal·D
+
 
 
 Formal·N
 
 
+
 Novice
+
 
 
 Formal·A
 
 
+
 Audience
+
 
 
 Retired Flower Valley senior
 
 
+
 DeerEnvoy
+
 
 
 GoodHand
 
 
+
 RedCase·D
+
 
 
 Jade·CD
 
 
+
 Gold·CD
+
 
 
 Flower·CD
 
 
+
 Deerherd
+
 
 
 Retired Wudang senior
@@ -785,106 +1125,143 @@ Retired Wudang senior
 
 
 
+
+
+
 ZhenWu·D
+
 
 
 Cloud·D
 
 
+
 TaiHe·D
+
 
 
 Guide·P
 
 
+
 Amateur
+
 
 
 Retired YuanShan senior
 
 
+
 Exorciser
+
 
 
 Preacher
 
 
+
 Friar
+
 
 
 Vanguard
 
 
+
 Guard
+
 
 
 Novice
 
 
+
 Follower
+
 
 
 Retired LionFace senior
 
 
+
 Raging Ace
+
 
 
 Proud Ace
 
 
+
 Slumbering Ace
+
 
 
 RageLion
 
 
+
 ProudLion
+
 
 
 Slumber·L
 
 
+
 Cub
+
 
 
 Retired RanShan senior
 
 
+
 Guardian
+
 
 
 Successor
 
 
+
 T·Ranger
+
 
 
 DS·Ranger
 
 
+
 YY·Ranger
+
 
 
 SwordBearer
 
 
+
 Wanderer
+
 
 
 Retired XuanNyu senior
 
 
+
 Feather·E
+
 
 
 SilkEnvoy
 
 
+
 JadeGuard
 
 
+
 SkyMelody
+
 
 
 Disciple
@@ -892,31 +1269,42 @@ Disciple
 
 
 
+
+
 Servant
+
 
 
 Retired Sword Manor senior
 
 
+
 Sky·Smith
+
 
 
 Mystic·S
 
 
+
 Treasure·S
+
 
 
 Season·S
 
 
+
 Bamboo·S
+
 
 
 Novice
 
 
+
 Stoker
+
 
 
 Retired KongSong senior
@@ -924,106 +1312,142 @@ Retired KongSong senior
 
 
 
+
+
 Dragonor
 
 
+
 Head·D
+
 
 
 Furnance·H
 
 
+
 DragonHall
+
 
 
 ProbeHall
 
 
+
 Apprentice
+
 
 
 Retired Vajrayana senior
 
 
+
 Elder
+
 
 
 Gardian
 
 
+
 Fighter
+
 
 
 SilentHall
 
 
+
 VajraHall
+
 
 
 Rakshasa·H
 
 
+
 Labor
+
 
 
 Retired 5-Immotals senior
 
 
+
 Counsellor
+
 
 
 Patriach
 
 
+
 Brooder
+
 
 
 VenomEnvoy
 
 
+
 BrooderCrew
+
 
 
 VenomCrew
 
 
+
 Cultist
+
 
 
 Retired JieQing senior
 
 
+
 SevenStar
+
 
 
 ArchCulprit
 
 
+
 DeathSworn
+
 
 
 Killer
 
 
+
 Gatekeeper
+
 
 
 Guide
 
 
+
 OuterGate
+
 
 
 Retired FuLong senior
 
 
+
 DragonElder
+
 
 
 Head·D
 
 
+
 Seawatcher
+
 
 
 Titled·D
@@ -1031,10 +1455,14 @@ Titled·D
 
 
 
+
+
 Outer·D
 
 
+
 Islander
+
 
 
 Retired Blood Hou senior
@@ -1042,13 +1470,18 @@ Retired Blood Hou senior
 
 
 
+
+
 Messenger
+
 
 
 Protector
 
 
+
 BloodChild
+
 
 
 Elite
@@ -1056,10 +1489,14 @@ Elite
 
 
 
+
+
 Servant
 
 
+
 Young Monk
+
 
 
 XiangShu
@@ -1067,16 +1504,23 @@ XiangShu
 
 
 
+
+
 Giant Shadow
+
 
 
 Black Shadow
 
 
+
 Ran Chenzi
 Weirdo
 
+
 The White Swordsman
+
+
 
 
 
@@ -1084,39 +1528,55 @@ Huan Xin
 Lass
 
 
+
+
 Long
  Yufu
 Lady in Red
+
 Zi
 Wuxiao
+
 
 Xu
 Xiangong
 A wooden puppet that can talk
 
+
+
 Woman
+
 Necromancer
+
 
 Shi Shufu
 Elder Monk
 
+
 “Adoptive Father”
 A nameless elder
 
+
 “Elderly”
+
 
 
 Dated Wooden Puppet
 
 
+
 Bamboo Hands
 Wooden Puppet
 
+
 Bamboo Stick
+
 
 Bamboo Darts
 
+
 Kua-E Bronze Puppet
+
 
 
 Monkey
@@ -1124,45 +1584,63 @@ Monkey
 
 
 
+
+
 King of Monkeys
+
 
 Guo
 Yan
 Middle-aged person
+
 Xiaomao
 Young Urchin
+
 A
 Niu
 Young Man
+
 Situ
 Huanyue
+
 Elder
 Taoist
+
 
 Chui Xing
 Graves
 
+
 Nameless
 Nameless mother and child
 
+
 Unknown parent
 
+
 Coachman
+
 
 Feng
 Granny
 Old lady
 
+
 Old lady
+
 
 
 King
 
 
+
 Hu Ji
 
 
+
+
 Cui E
+
 
 
 The Man in Black
@@ -1181,10 +1659,31 @@ The Man in Black
 
 
 
+
+
+
+
+
+
+
+
+
+
 Person from Wanqu
 
 
+
 Heart Curtain Sky Curtain
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1231,6 +1730,21 @@ Kongsang Traitor
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Liao
 Wuming
 
@@ -1238,9 +1752,32 @@ Wuming
 
 
 
+
+
+
+
+
 Somber Monk
+
+
 Hong Yi
 Elder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1260,9 +1797,11 @@ Elder
 Ji
 Xi
 Girl
+遗祖
 
 Old Monk
 
+祖师
 
 
 
@@ -1282,7 +1821,13 @@ Quicksilver Fire Snake
 
 
 
+
+
+
 Warp Beetle
+
+
+
 
 
 
@@ -1296,7 +1841,13 @@ Slayer of Evil
 
 
 
+
+
+
 Sun Soul Zhu Jing
+
+
+
 
 
 
@@ -1310,7 +1861,13 @@ Zhu Yan
 
 
 
+
+
+
 Xuanzhou Golden Snake
+
+
+
 
 
 
@@ -1324,7 +1881,13 @@ Tian Zhu
 
 
 
+
+
+
 Nine-spotted Snake
+
+
+
 
 
 
@@ -1338,7 +1901,13 @@ Razor Snake
 
 
 
+
+
+
 Wind Snake
+
+
+
 
 
 
@@ -1349,26 +1918,41 @@ Yun'er
 Person in the Mirror
 
 
+
+
+
 West
 Wu Fen
 Man
+
 Shi
 Weizhi
+
 He
 Youyuan
 
+
 Mirrored Illusion
 
+
 Heavenly Demon
+
 
 
 Earth Demon
 
 
+
 Human Demon
 
 
+
 Heavenly Demons
+
+
+
+
+
 
 
 
@@ -1390,7 +1974,17 @@ Earth Demons
 
 
 
+
+
+
+
+
 Human Demons
+
+
+
+
+
 
 
 
@@ -1403,6 +1997,7 @@ Human Demons
 Lei
 Kun
 Hall Master
+飞狮堂堂主
 
 Disciples of Flying Lion Hall
 
@@ -1426,7 +2021,17 @@ Foreign Master
 
 
 
+
+
+
+
+
 Vajrayana Treasure-searching Disciple
+
+
+
+
+
 
 
 
@@ -1440,13 +2045,21 @@ Vajrayana Treasure-searching Disciple
 Western Monk
 
 
+
 GuiGu Zi
+
 
 Zhang
 Ling
 
 
+
 Tomb Remains
+
+
+
+
+
 
 
 
@@ -1464,45 +2077,75 @@ Xindu
 
 
 
+
+
+
+
+
 White Ape
+
 
 Houjiu
 Mysterious Person
+隐居长老
 Bai
 Ao Tian
 Young Gentleman
+
+
+
+
+
 Wan
 Kind Father
 Evil Old Man
+
+
+
+
+
 Evil Father
 Kind Old Man
 
+
+
+
+
+
 Xuan Huangzi
 Glowering Elderly
+玉符宗祖师
 
 Kun Wuzi
 Languid Elderly
+神剑宗祖师
 
 You Mingzi
 Grim Elderly
+阴阳宗祖师
 
 Huaju
+
 
 
 Xuanzhi
 
 
+
 Yingjiao
 Nameless Woman
 
+
 Candle Immortal
 
+The Three Ancestors
 
 
 
 
 
 Dark River Serpent
+
 
 
 Liao Family's Ancient Cauldron
@@ -1514,10 +2157,21 @@ Liao Family's Ancient Cauldron
 
 
 
+
+
+
+
+
 Little Black Snake
 
 
+
 Divine Tree
+
+
+
+
+
 
 
 
@@ -1541,166 +2195,230 @@ Angry Emei Disciple
 
 
 
+
+
+
+
+
+
 FuYu Hilt
+
 
 
 Taiwu Shadow
 
 
+
 White Dragon
+
 
 
 Black Dragon
 
 
+
 Green Dragon
+
 
 
 Red Dragon
 
 
+
 Yellow Dragon
+
 
 
 Small White Dragon
 
 
+
 Small Black Dragon
+
 
 
 Small Green Dragon
 
 
+
 Small Red Dragon
+
 
 
 Small Yellow Dragon
 
 
+
 White Jiao
+
 
 
 Black Jiao
 
 
+
 Green Jiao
+
 
 
 Red Jiao
 
 
+
 Yellow Jiao
+
 
 
 Yin-Yang Jiao
 
 
+
 Flying Lightning Jiao
+
 
 
 Thunder Fire Jiao
 
 
+
 Golden Eye Jiao
+
 
 
 Green Pool Jiao
 
 
+
 Burnt Cloud Jiao
+
 
 
 Clay Pool Jiao
 
 
+
 Flame Horn Jiao
+
 
 
 Leaning Mountain Jiao
 
 
+
 Refined Bone Jiao
+
 
 
 Disturbed Ocean Jiao
 
 
+
 Draped Clouds Jiao
+
 
 
 Deep Depth Jiao
 
 
+
 Heaven Thunder Jiao
+
 
 
 Desolate Road Jiao
 
 
+
 Qilin Jiao
+
 
 
 Ghost Prison Jiao
 
 
+
 Immortal Mountain Jiao
+
 
 
 Flaming Pond Jiao
 
 
+
 Burning Hill Jiao
+
 
 
 Four Changes Jiao
 
 
+
 Hundred Jewels Jiao
+
 
 
 Calm Sea Jiao
 
 
+
 Heaven-swallowing Jiao
+
 
 
 Mixed Scale Jiao
 
 
+
 Rainbow Jiao
+
 
 
 Qiuniu
 
 
+
 Yazi
+
 
 
 Chaofeng
 
 
+
 Pulao
+
 
 
 Suanni
 
 
+
 Baxia
+
 
 
 Bian
 
 
+
 Fuxi
+
 
 
 Chiwen
 
 
+
 Huanlong Clan
 
 
+
 Sacred Nun
+
+
+
+
+
 
 
 
@@ -1722,48 +2440,72 @@ Skeleton Monk
 
 
 
+
+
+
+
+
 "Clothes" Borrowing Monk
 Mysterious Monk
+
 Eminent Monk
 Hun Ling
+
 
 
 Dai Fawang
 
 
+
 Suspicious Monk
+
 
 
 Hesitant Monk
 
 
+
 Disturbed Monk
+
 
 
 Bewildered Monk
 
 
+
 Courteous Monk
+
 
 
 Boorish Monk
 
 
+
 Fanatical Monk
+
 
 
 Obstinate Monk
 
 
+
 Apathetic Monk
+
 
 
 Calm Monk
 
 
+
 Zhuo Ma
 
+
 Foreign Bandit
+
+
+
+
+
 
 
 
@@ -1779,7 +2521,10 @@ Elder·A
 
 
 
+
+
 CaseHolder
+
 
 
 V·Leader
@@ -1787,34 +2532,46 @@ V·Leader
 
 
 
+
+
 GreatBeta
+
 
 
 Celestial
 
 
+
 G·Mistress
+
 
 
 M·Smith
 
 
+
 HerbKing
+
 
 
 WisdomKing
 
 
+
 Saint
+
 
 
 Shadowless
 
 
+
 ViceLord
 
 
+
 V·Hierarch
+
 
 Wuyang
 Girl in White Clothes
@@ -1823,6 +2580,8 @@ Wuyou
 Youngster in Black Clothes
 
 Resurrected Person
+
+
 
 
 
@@ -1838,19 +2597,34 @@ Night Watchman
 
 
 
+
+
+
+
+
+
+
 Vice Valley Lord
+
 
 Lu
 Chijing
 
+
 Li
 Shidao
+
 
 Yan
 Feiran
 
+
 Tian
 Buhui
+
+
+
+
 
 
 
@@ -1863,4 +2637,67 @@ White Deer
 
 
 Black Owl
+
+
+琉璃
+神秘少年
+
+
+
+
+
+
+
+
+第七十七
+伏龙使者
+
+
+
+未知门人
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+伏龙狂徒
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
