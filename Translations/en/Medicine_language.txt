@@ -1071,14 +1071,14 @@ This body is implanted with a Mature Sinister Blood Gu.\nThe Sinister Blood Gu i
 Mature Sinister Blood Gu will greatly reduce the effects of host's "Healing", "Detox", and "Use Medicine" in battle;\nThe Mature Sinister Blood Gu will also cause the host's Injuries to be unable to be healed, and to not naturally decrease every month.
 Premature Internal Demon Gu
 This body is implanted with a tamed Premature Internal Demon Gu.\nThe Internal Demon Gu is a secret insect used by the Five Immortals Cult to punish traitors. It is extremely difficult to refine, and its form is also rarely known to people.
-Premature Internal Demon Gu will increase host's random True Qi by 1 point whenever host's True Qi gets increased, and will cause the user to obtain Gu Charges based on the original True Qi increase, up to a maximum of 90 Gu Charges.
-Premature Internal Demon Gu will increase host's random True Qi by 1 point whenever host's True Qi gets increased, and will cause the user to obtain Gu Charges based on the original True Qi increase, up to a maximum of 90 Gu Charges;\nThe host's Mood will change every month. If the host's Mood reaches extreme happiness or sadness, the Premature Internal Demon Gu will turn into a Mature Internal Demon Gu.
+心魔若蛊会在宿主的真气增加时，使宿主随机类型的真气再增加2点，并根据宿主原本增加的真气数量使宿主获得蛊引，最多获得90只蛊引。
+心魔若蛊会在宿主的真气增加时，使宿主随机类型的真气再增加2点，并根据宿主原本增加的真气数量使宿主获得蛊引，最多获得90只蛊引；\n宿主的心情会在月份更替时产生变化，当宿主的心情达到乐极或悲极时，心魔若蛊就会化为心魔成蛊。
 This body is implanted with an untamed Premature Internal Demon Gu.\nThe Internal Demon Gu is a secret insect used by the Five Immortals Cult to punish traitors. It is extremely difficult to refine, and its form is also rarely known to people.
-Premature Internal Demon Gu will decrease host's random True Qi by 1 point whenever host's True Qi gets decreased, and will cause the user to obtain Gu Charges based on the original True Qi decrease, up to a maximum of 90 Gu Charges.
-Premature Internal Demon Gu will decrease host's random True Qi by 1 point whenever host's True Qi gets decreased, and will cause the user to obtain Gu Charges based on the original True Qi decrease, up to a maximum of 90 Gu Charges;\nThe host's Mood will change every month. If the host's Mood reaches extreme happiness or sadness, the Premature Internal Demon Gu will turn into a Mature Internal Demon Gu.
+心魔若蛊会在宿主的真气减少时，使宿主随机类型的真气再减少2点，并根据宿主原本减少的真气数量使对手获得蛊引，最多获得90只蛊引。
+心魔若蛊会在宿主的真气减少时，使宿主随机类型的真气再减少2点，并根据宿主原本减少的真气数量使对手获得蛊引，最多获得90只蛊引；\n宿主的心情会在月份更替时产生变化，当宿主的心情达到乐极或悲极时，心魔若蛊就会化为心魔成蛊。
 Mature Internal Demon Gu
 This body is implanted with a Mature Internal Demon Gu.\nThe Internal Demon Gu is a secret insect used by the Five Immortals Cult to punish traitors. It is extremely difficult to refine, and its form is also rarely known to people.
-Mature Internal Demon Gu will decrease host's random True Qi by 1 point whenever host's True Qi gets decreased, and will cause the user to obtain Gu Charges based on the original True Qi decrease, up to a maximum of 90 Gu Charges.\nThe Mature Internal Demon Gu will also increase host's Enthrallment and Possession by Xiangshu every month.
+心魔蛊会在宿主的真气减少时，使宿主随机类型的真气再减少2点，并根据宿主原本减少的真气数量使对手获得蛊引，最多获得90只蛊引；\n心魔蛊还会使宿主恶念丛生，在月份更替时额外加深宿主相枢入邪、入魔程度。
 Premature Chi Corpse Gu
 This body is implanted with a tamed Premature Chi Corpse Gu.\nBy using corpses that died in the extremely yin places and possessed purely yin fates to nurture Gu insects, the '9 Yin Chi Corpse Gu' is created. Once the 9 Yin Chi Corpse Gu enters the body of a living person, it rapidly grows and, after gorging on flesh and blood, bursts out of the body, resembling a large chi.
 Premature Chi Corpse Gu will greatly reduce direct damage taken by the host from "Break" techniques;\nThe Premature Chi Corpse Gu needs to consume 12 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
@@ -1241,7 +1241,7 @@ The Sinister Blood Gu is entirely jet black, emitting a weird, foul stench. It i
 Sinister Blood Gu King will greatly reduce the effects of host's "Healing", "Detox", and "Use Medicine" in battle;\nThe Sinister Blood Gu King will also cause the host's Injuries to be unable to be healed, and to not naturally decrease every month.
 Internal Demon Gu King
 The Internal Demon Gu is a secret insect used by the Five Immortals Cult to punish traitors. It is extremely difficult to refine, and its form is also rarely known to people.\nThe Internal Demon Gu King is born from bathing in myriad poisons within the Myriad Gu Altar, its toxicity far surpassing the ordinary ones.
-Internal Demon Gu King will decrease host's random True Qi by 1 point whenever host's True Qi gets decreased;\nThe Internal Demon Gu King will also increase host's Enthrallment and Possession by Xiangshu every month.
+心魔王蛊会在宿主的真气减少时，使宿主随机类型的真气再减少2点；\n心魔王蛊还会使宿主恶念丛生，在月份更替时额外加深宿主相枢入邪、入魔程度。
 Chi Corpse Gu King
 By using corpses that died in the extremely yin places and possessed purely yin fates to nurture Gu insects, the '9 Yin Chi Corpse Gu' is created. Once the 9 Yin Chi Corpse Gu enters the body of a living person, it rapidly grows and, after gorging on flesh and blood, bursts out of the body, resembling a large chi.\nThe Chi Corpse Gu King is born from bathing in myriad poisons within the Myriad Gu Altar, its toxicity far surpassing the ordinary ones.
 Chi Corpse Gu King will greatly increase direct damage taken by the host from "Break" techniques;\nThe Chi Corpse Gu King will also reduce host's Health every month.
