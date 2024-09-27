@@ -1005,14 +1005,14 @@ Blessed people are immune to natural disasters...
 
 Unpolished Jade
 
-Unpolished jade awaits to be polished into a precious stone...\nYour efficiency in studying Fine Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Fine Art books (by 30%).
+璞玉韬光，只待解磨……
 
-
+<color=#brightblue>研读技艺书籍时的效率远高于常人。</color>
 Restrained Sharp Edge
 
-The sharp edge is restrained, the hidden dragon awaits to break free...\nYour efficiency in studying Martial Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Martial Art books (by 30%).
+神锋敛彩，匣里龙吟……
 
-
+<color=#brightblue>研读功法秘籍时的效率远高于常人。</color>
 Narcissus in Dream
 
 For a dreamland visitor, appearance is not important...\nYou have a unique charm. It seems like everyone has seen you in their dreams, causing your appearance to no longer be important.
@@ -2573,7 +2573,7 @@ Using the method of eight deaths, they interconnected their life with the spent 
 <color=#brightred>Not only decreases lifespan, but also decreases the power of <color=#68eb6b>Earth</color> techniques...</color>\n「Spent」: <color=#brightred>When being attacked by the enemy's <color=#68eb6b>Earth</color> or <color=#c682ff>Wood</color> techniques that reach full completion, they will have a 25% chance to deal critical hits and cause backlash damage from the technique...</color>
 Little Caution
 
-Tasked with the solemn duty of safeguarding the treasury, not for a single moment has there been any lapse in vigilance. Within the grounds, meticulous preparations have been made, garnering substantial support from all present. Fearless in times of peril, every strategic advantage has been seized. It is accurate to describe this individual as steadfastly holding the pass, against which even thousands cannot prevail...
+奉命严守此地的各类府库、监牢等，未曾有片刻松懈，于场地之中设有十足准备，与众人之间获得十足助益，临危不惧，占尽先机，可谓一夫当关，万夫莫开……
 
 <color=#brightblue>Guarding the treasury is an important matter, causing each and every guard to be united both in attacking and defending, allowing them to receive bonuses from their companions to Accuracy, Resolve, Attack, and Defense stats, as well as the power of techniques; They also can very often use teammate orders during battle.</color>
 Prepared for Action
@@ -2663,5 +2663,25 @@ Friend from the Valley
 Wooden Body
 
 An unknown artisan crafted this wooden figure, which harbors a universe within. It appears to mimic specific formidable foes, providing Taiwu with the means to hone and refine martial skills...
+
+
+天外残形
+
+自天外而来的神秘少年，因受天火焚烧，失却了化为真形的羽衣……
+
+
+朱鸟残形
+
+自天外而来的朱鸟所化身的少年，虽重得以元鸡之羽织得的羽衣，但受“金丝”所缚，不得化为真形……
+
+
+朱鸟化身
+
+自天外而来的朱鸟，因身披以元鸡之羽织得的羽衣，故而重获神力，可化作朱鸟真形……
+
+
+上仙金丹
+
+由上仙所炼之金丹，据说服之可助飞升成仙。此人因服食上仙金丹而功力暴涨，但仙人丹药，于凡人却只有一时之功。仙力澎湃之际，亦是索命之时。也不知赐予此人金丹的“仙人”是何用意，莫非只是为了防止此人有僭越仙凡之举……
 
 
