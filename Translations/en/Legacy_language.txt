@@ -1,832 +1,834 @@
 Goddess Returns the Sword
-With the help of Weaving of Mo Nyu's divine power, your heir will become <color=#lightblue>unafraid of poisons!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「莫女衣」</color>的神力，使你的传人<color=#lightblue>不惧毒害！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Suppressing Evil
-With the help of Vanquish Evil's divine power, your heir's <color=#lightblue>Willpower will be greatly increased!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「伏邪铁」</color>的神力，使你的传人<color=#lightblue>定力大增！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Chilling Qi
-With the help of Glacial Vassal's divine power, your heir's <color=#lightblue>Vitality will be greatly increased!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「大玄凝」</color>的神力，使你的传人<color=#lightblue>根骨大增！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Seven Wenceslas
-With the help of Phoenix Cocoon's divine power, your heir's <color=#lightblue>Comprehension will be greatly increased!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「凤凰茧」</color>的神力，使你的传人<color=#lightblue>悟性大增！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Matchless Beauty
-With the help of Spirit Smelting's divine power, your heir's <color=#lightblue>Charm will be greatly increased!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「焚神炼」</color>的神力，使你的传人<color=#lightblue>魅力大增！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Dragonborn
-With the help of Draconic Anima's divine power, your heir's <color=#lightblue>Constitution will be greatly increased!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「解龙魄」</color>的神力，使你的传人<color=#lightblue>体质大增！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Animator of Jade
-With the help of Anchorite's divine power, your heir's <color=#lightblue>Agility will be greatly increased!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「溶尘隐」</color>的神力，使你的传人<color=#lightblue>灵敏大增！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Eight-armed
-With the help of Infernal Acerjail's divine power, your heir's <color=#lightblue>Strength will be greatly increased!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「囚魔木」</color>的神力，使你的传人<color=#lightblue>膂力大增！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Celestial Edict
-With the help of Wonderglow's divine power, your heir's <color=#lightblue>Lifespan will be greatly increased!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+借助<color=#orange>「鬼神霞」</color>的神力，使你的传人<color=#lightblue>寿命大增！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Inner Arts Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>内功资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Footwork Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>身法资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Stunt Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绝技资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Fist Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>拳掌资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Finger Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>指法资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Kick Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>腿法资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Hidden Weapons Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>暗器资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Sword Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>剑法资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Blade Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>刀法资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Polearm Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>长兵资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Exotic Weapons Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>奇门资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Soft Weapons Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>软兵资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Ranged Weapons Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>御射资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Melody Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>乐器资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Music Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>音律资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Chess Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>弈棋资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Literature Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>诗书资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Painting Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绘画资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Astrology Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>术数资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Appreciation Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>品鉴资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Smithing Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>锻造资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Carpentry Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>制木资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Medicine Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>医术资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Toxicology Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>毒术资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Weaving Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>织锦资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Gemcutting Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>巧匠资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Taoism Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>道法资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Buddhism Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>佛学资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Culinary Arts Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>厨艺资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Lore Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>杂学资质增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>内功资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>身法资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绝技资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>拳掌资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>指法资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>腿法资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>暗器资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>剑法资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>刀法资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>长兵资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>奇门资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>软兵资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>御射资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>乐器资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>音律资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>弈棋资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>诗书资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绘画资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>术数资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>品鉴资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>锻造资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>制木资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>医术资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>毒术资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>织锦资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>巧匠资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>道法资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>佛学资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>厨艺资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>杂学资质增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>内功资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>身法资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绝技资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>拳掌资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>指法资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>腿法资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>暗器资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>剑法资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>刀法资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>长兵资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>奇门资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>软兵资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>御射资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>乐器资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>音律资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>弈棋资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>诗书资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绘画资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>术数资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>品鉴资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>锻造资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>制木资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>医术资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>毒术资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>织锦资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>巧匠资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>道法资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>佛学资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>厨艺资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>杂学资质增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>内功资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>身法资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绝技资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>拳掌资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>指法资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>腿法资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>暗器资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>剑法资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>刀法资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>长兵资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>奇门资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>软兵资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>御射资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>乐器资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>音律资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>弈棋资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>诗书资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绘画资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>术数资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>品鉴资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>锻造资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>制木资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>医术资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>毒术资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>织锦资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>巧匠资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>道法资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>佛学资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>厨艺资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>杂学资质增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>内功资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>身法资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绝技资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>拳掌资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>指法资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>腿法资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>暗器资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>剑法资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>刀法资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>长兵资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>奇门资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>软兵资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>御射资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>乐器资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>音律资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>弈棋资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>诗书资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>绘画资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>术数资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>品鉴资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>锻造资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>制木资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>医术资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>毒术资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>织锦资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>巧匠资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>道法资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>佛学资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>厨艺资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>杂学资质增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Inner Arts
-Decrease your heir's <color=#brightred>Inner Arts talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点内功资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Footwork
-Decrease your heir's <color=#brightred>Footwork talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点身法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Stunt
-Decrease your heir's <color=#brightred>Stunt talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点绝技资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Fist
-Decrease your heir's <color=#brightred>Fist talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点拳掌资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Finger
-Decrease your heir's <color=#brightred>Finger talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点指法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Kick
-Decrease your heir's <color=#brightred>Kick talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点腿法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Hidden Weapons
-Decrease your heir's <color=#brightred>Hidden Weapons talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点暗器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Sword
-Decrease your heir's <color=#brightred>Sword talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点剑法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Blade
-Decrease your heir's <color=#brightred>Blade talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点刀法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Polearm
-Decrease your heir's <color=#brightred>Polearm talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点长兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Exotic Weapons
-Decrease your heir's <color=#brightred>Exotic Weapons talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点奇门资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Soft Weapons
-Decrease your heir's <color=#brightred>Soft Weapons talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点软兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Ranged Weapons
-Decrease your heir's <color=#brightred>Ranged Weapons talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点御射资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Melody
-Decrease your heir's <color=#brightred>Melody talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点乐器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Music
-Decrease your heir's <color=#brightred>Music talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点音律资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Chess
-Decrease your heir's <color=#brightred>Chess talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点弈棋资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Literature
-Decrease your heir's <color=#brightred>Literature talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点诗书资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Painting
-Decrease your heir's <color=#brightred>Painting talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点绘画资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Astrology
-Decrease your heir's <color=#brightred>Astrology talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点术数资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Appreciation
-Decrease your heir's <color=#brightred>Appreciation talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点品鉴资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Smithing
-Decrease your heir's <color=#brightred>Smithing talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点锻造资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Carpentry
-Decrease your heir's <color=#brightred>Carpentry talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点制木资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Medicine
-Decrease your heir's <color=#brightred>Medicine talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点医术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Toxicology
-Decrease your heir's <color=#brightred>Toxicology talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点毒术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Weaving
-Decrease your heir's <color=#brightred>Weaving talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点织锦资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Gemcutting
-Decrease your heir's <color=#brightred>Gemcutting talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点巧匠资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Taoism
-Decrease your heir's <color=#brightred>Taoism talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点道法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Buddhism
-Decrease your heir's <color=#brightred>Buddhism talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点佛学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Culinary Arts
-Decrease your heir's <color=#brightred>Culinary Arts talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点厨艺资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Lore
-Decrease your heir's <color=#brightred>Lore talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Inner Arts talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Footwork talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Stunt talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Fist talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Finger talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Kick talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Hidden Weapons talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Sword talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Blade talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Polearm talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Exotic Weapons talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Soft Weapons talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Ranged Weapons talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Melody talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Music talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Chess talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Literature talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Painting talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Astrology talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Appreciation talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Smithing talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Carpentry talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Medicine talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Toxicology talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Weaving talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Gemcutting talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Taoism talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Buddhism talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Culinary Arts talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lore talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Inner Arts talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Footwork talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Stunt talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Fist talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Finger talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Kick talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Hidden Weapons talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Sword talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Blade talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Polearm talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Exotic Weapons talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Soft Weapons talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Ranged Weapons talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Melody talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Music talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Chess talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Literature talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Painting talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Astrology talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Appreciation talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Smithing talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Carpentry talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Medicine talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Toxicology talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Weaving talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Gemcutting talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Taoism talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Buddhism talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Culinary Arts talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lore talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Inner Arts talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Footwork talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Stunt talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Fist talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Finger talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Kick talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Hidden Weapons talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Sword talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Blade talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Polearm talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Exotic Weapons talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Soft Weapons talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Ranged Weapons talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Melody talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Music talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Chess talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Literature talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Painting talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Astrology talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Appreciation talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Smithing talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Carpentry talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Medicine talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Toxicology talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Weaving talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Gemcutting talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Taoism talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Buddhism talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Culinary Arts talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lore talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Inner Arts talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Footwork talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Stunt talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Fist talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Finger talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Kick talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Hidden Weapons talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Sword talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Blade talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Polearm talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Exotic Weapons talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Soft Weapons talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Ranged Weapons talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Melody talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Music talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Chess talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Literature talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Painting talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Astrology talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Appreciation talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Smithing talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Carpentry talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Medicine talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Toxicology talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Weaving talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Gemcutting talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Taoism talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Buddhism talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Culinary Arts talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lore talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点杂学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点内功资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点身法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点绝技资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点拳掌资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点指法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点腿法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点暗器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点剑法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点刀法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点长兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点奇门资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点软兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点御射资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点乐器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点音律资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点弈棋资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点诗书资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点绘画资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点术数资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点品鉴资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点锻造资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点制木资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点医术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点毒术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点织锦资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点巧匠资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点道法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点佛学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点厨艺资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点杂学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点内功资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点身法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点绝技资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点拳掌资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点指法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点腿法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点暗器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点剑法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点刀法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点长兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点奇门资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点软兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点御射资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点乐器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点音律资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点弈棋资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点诗书资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点绘画资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点术数资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点品鉴资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点锻造资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点制木资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点医术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点毒术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点织锦资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点巧匠资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点道法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点佛学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点厨艺资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点杂学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点内功资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点身法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点绝技资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点拳掌资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点指法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点腿法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点暗器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点剑法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点刀法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点长兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点奇门资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点软兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点御射资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点乐器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点音律资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点弈棋资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点诗书资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点绘画资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点术数资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点品鉴资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点锻造资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点制木资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点医术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点毒术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点织锦资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点巧匠资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点道法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点佛学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点厨艺资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点杂学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点内功资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点身法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点绝技资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点拳掌资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点指法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点腿法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点暗器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点剑法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点刀法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点长兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点奇门资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点软兵资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点御射资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点乐器资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点音律资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点弈棋资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点诗书资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点绘画资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点术数资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点品鉴资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点锻造资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点制木资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点医术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点毒术资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点织锦资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点巧匠资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点道法资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点佛学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点厨艺资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点杂学资质</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Strength Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Strength by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>膂力能力增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Agility Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Agility by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>灵敏能力增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Constitution Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Constitution by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>体质能力增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Vitality Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Vitality by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>根骨能力增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Comprehension Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Comprehension by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>悟性能力增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Willpower Stimulation
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Willpower by 1!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Strength by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Agility by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Constitution by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Vitality by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Comprehension by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Willpower by 2!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Strength by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Agility by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Constitution by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Vitality by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Comprehension by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Willpower by 3!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Strength by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Agility by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Constitution by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Vitality by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Comprehension by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Willpower by 4!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Strength by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Agility by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Constitution by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Vitality by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Comprehension by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Willpower by 5!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>定力能力增加1！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>膂力能力增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>灵敏能力增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>体质能力增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>根骨能力增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>悟性能力增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>定力能力增加2！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>膂力能力增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>灵敏能力增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>体质能力增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>根骨能力增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>悟性能力增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>定力能力增加3！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>膂力能力增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>灵敏能力增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>体质能力增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>根骨能力增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>悟性能力增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>定力能力增加4！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>膂力能力增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>灵敏能力增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>体质能力增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>根骨能力增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>悟性能力增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人<color=#lightblue>定力能力增加5！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Strength
-Decrease your heir's <color=#brightred>maximum Strength by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点膂力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Agility
-Decrease your heir's <color=#brightred>maximum Agility by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点灵敏能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Constitution
-Decrease your heir's <color=#brightred>maximum Constitution by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点体质能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Vitality
-Decrease your heir's <color=#brightred>maximum Vitality by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点根骨能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Comprehension
-Decrease your heir's <color=#brightred>maximum Comprehension by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点悟性能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Willpower
-Decrease your heir's <color=#brightred>maximum Willpower by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Strength by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Agility by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Constitution by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Vitality by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Comprehension by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Willpower by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Strength by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Agility by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Constitution by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Vitality by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Comprehension by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Willpower by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Strength by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Agility by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Constitution by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Vitality by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Comprehension by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Willpower by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Strength by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Agility by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Constitution by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Vitality by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Comprehension by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>maximum Willpower by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2点定力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点膂力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点灵敏能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点体质能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点根骨能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点悟性能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4点定力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点膂力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点灵敏能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点体质能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点根骨能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点悟性能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6点定力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点膂力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点灵敏能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点体质能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点根骨能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点悟性能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8点定力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点膂力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点灵敏能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点体质能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点根骨能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点悟性能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10点定力能力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Charm Stimulation
-Spend your Legacy to improve your heir's complexion, and <color=#lightblue>increase their Charm by 2%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，使你的传人容光焕发，<color=#lightblue>魅力增加2%！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Lifespan Stimulation
-Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 2%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's complexion, and <color=#lightblue>increase their Charm by 3%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 3%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's complexion, and <color=#lightblue>increase their Charm by 4%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 4%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to make your heir's complexion be full of vigor, and <color=#lightblue>increase their Charm by 6%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 6%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to make your heir's complexion be full of vigor, and <color=#lightblue>increase their Charm by 8%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 8%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to make your heir's complexion be full of vigor, and <color=#lightblue>increase their Charm by 10%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 10%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to completely change your heir's appearance, and <color=#lightblue>increase their Charm by 12%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 12%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to completely change your heir's appearance, and <color=#lightblue>increase their Charm by 15%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 15%!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，为你的传人延年益寿，<color=#lightblue>增加2%寿命！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，使你的传人容光焕发，<color=#lightblue>魅力增加3%！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，为你的传人延年益寿，<color=#lightblue>增加3%寿命！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，使你的传人容光焕发，<color=#lightblue>魅力增加4%！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，为你的传人延年益寿，<color=#lightblue>增加4%寿命！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，使你的传人神采飞扬，<color=#lightblue>魅力增加6%！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，为你的传人延年益寿，<color=#lightblue>增加6%寿命！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，使你的传人神采飞扬，<color=#lightblue>魅力增加8%！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，为你的传人延年益寿，<color=#lightblue>增加8%年寿命！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，使你的传人神采飞扬，<color=#lightblue>魅力增加10%！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，为你的传人延年益寿，<color=#lightblue>增加10%寿命！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，使你的传人面目一新，<color=#lightblue>魅力增加12%！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，为你的传人延年益寿，<color=#lightblue>增加12%寿命！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，使你的传人面目一新，<color=#lightblue>魅力增加15%！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，为你的传人延年益寿，<color=#lightblue>增加15%寿命！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Charm
-Decrease your heir's <color=#brightred>Charm by 2%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2%魅力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Abandon Lifespan
-Decrease your heir's <color=#brightred>Lifespan by 2%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Charm by 3%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lifespan by 3%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Charm by 4%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lifespan by 4%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Charm by 6%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lifespan by 6%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Charm by 8%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lifespan by 8%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Charm by 10%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lifespan by 10%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Charm by 12%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lifespan by 12%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Charm by 15%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Decrease your heir's <color=#brightred>Lifespan by 15%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+舍弃你的传人的<color=#brightred>2%寿命</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>3%魅力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>3%寿命</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4%魅力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>4%寿命</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6%魅力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>6%寿命</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8%魅力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>8%寿命</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10%魅力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>10%寿命</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>12%魅力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>12%寿命</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>15%魅力</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+舍弃你的传人的<color=#brightred>15%寿命</color>，获得更多的<color=#lightblue>生平遗惠！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
 Open Meridians
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 50!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 100!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 150!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 200!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 250!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 300!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 350!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
-Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 400!</color>\n<color=#orange>This Legacy is able to affect Fuyu Hilt...</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人的<color=#lightblue>最大内力增加50！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人的<color=#lightblue>最大内力增加100！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人的<color=#lightblue>最大内力增加150！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人的<color=#lightblue>最大内力增加200！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人的<color=#lightblue>最大内力增加250！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人的<color=#lightblue>最大内力增加300！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人的<color=#lightblue>最大内力增加350！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+花费生平遗惠，激发你的传人的潜力，使你的传人的<color=#lightblue>最大内力增加400！</color>\n<color=#yellow>此遗惠可影响伏虞剑柄…</color>
+Muscular
+花费生平遗惠，使你的传人获得<color=#lightblue>「孔武有力」特性！</color>
 Robust as a beast
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Robust as a beast" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「牛虎怪力」特性！</color>
 Mountainous Strength
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Mountainous Strength" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「拔山扛鼎」特性！</color>
 Weak and Feeble
-Make your heir obtain the <color=#brightred>"Weak and Feeble" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「文弱无力」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Extremely Feeble
-Make your heir obtain the <color=#brightred>"Extremely Feeble" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「无力缚鸡」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Feeble as an Ant
-Make your heir obtain the <color=#brightred>"Feeble as an Ant" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「力若蚍蜉」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Physically Healthy
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Physically Healthy" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「身强体健」特性！</color>
 Vigorous as a Horse
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Vigorous as a Horse" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「龙神马壮」特性！</color>
 Godlike Constitution
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Godlike Constitution" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「天人骨血」特性！</color>
 Thin as a willow
-Make your heir obtain the <color=#brightred>"Thin as a willow" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「身如薄柳」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Extremely Frail
-Make your heir obtain the <color=#brightred>"Extremely Frail" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「弱不禁风」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Fated Early Death
-Make your heir obtain the <color=#brightred>"Fated Early Death" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「羸弱早夭」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Excellent Senses
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Excellent Senses" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「耳聪目明」特性！</color>
 As Swift as Running Water
-Spend your Legacy to make your heir obtain the <color=#lightblue>"As Swift as Running Water" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「剖决如流」特性！</color>
 Traceless
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Traceless" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「诡变无踪」特性！</color>
 Awkward Limbs
-Make your heir obtain the <color=#brightred>"Awkward Limbs" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「蛮手蛮脚」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Clumsy and Inarticular
-Make your heir obtain the <color=#brightred>"Clumsy and Inarticular" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「手拙口夯」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Dull as a Doll
-Make your heir obtain the <color=#brightred>"Dull as a Doll" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「钝似泥偶」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Miraculous Skeletal Structure
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Miraculous Skeletal Structure" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「骨骼清奇」特性！</color>
 Spiritual Pure Essence
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Spiritual Pure Essence" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「形正神明」特性！</color>
 Immortal Vitality
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Immortal Vitality" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「仙胎仙骨」特性！</color>
 Weak Qi Flow
-Make your heir obtain the <color=#brightred>"Weak Qi Flow" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「气不入骨」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Obstruction of Seven Orifices
-Make your heir obtain the <color=#brightred>"Obstruction of Seven Orifices" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「七窍晦杂」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Qi Turbid as a Dog
-Make your heir obtain the <color=#brightred>"Qi Turbid as a Dog" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「浊尘刍狗」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Shrewd
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Shrewd" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「才思敏捷」特性！</color>
 Sagacious
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Sagacious" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「灵心慧性」特性！</color>
 Unrivalled Wisdom
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Unrivaled Wisdom" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「智绝无双」特性！</color>
 Silly Mind
-Make your heir obtain the <color=#brightred>"Silly Mind" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「傻头傻脑」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Dumb as a Chicken
-Make your heir obtain the <color=#brightred>"Dumb as a Chicken" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「呆若木鸡」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Stupid as a Pig
-Make your heir obtain the <color=#brightred>"Stupid as a Pig" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「蠢笨如猪」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Indomitable Will
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Indomitable Will" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「刚毅隐忍」特性！</color>
 Serene Mind
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Serene Mind" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「心清意明」特性！</color>
 Exquisite Jade of Autumn Frost
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Exquisite Jade of Autumn Forest" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「琨玉秋霜」特性！</color>
 Loose-minded
-Make your heir obtain the <color=#brightred>"Loose-minded" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「心猿意马」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Irresolute
-Make your heir obtain the <color=#brightred>"Irresolute" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「柔懦寡断」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Destined Loneliness
-Make your heir obtain the <color=#brightred>"Destined Loneliness" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「桃花七煞」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Talented
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Talented" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「良才美玉」特性！</color>
 Unparalleled Talent
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Unparalleled Talent" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「不世奇才」特性！</color>
 Heavenly Qi
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Heavenly Qi" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「天元一气」特性！</color>
 Impure Root
-Make your heir obtain the <color=#brightred>"Impure Root" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「杂芥根性」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Misshapen limbs
-Make your heir obtain the <color=#brightred>"Misshapen limbs" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「四体畸拙」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Heavenly Disability
-Make your heir obtain the <color=#brightred>"Heavenly Disability" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「天残地缺」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Understanding
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Understanding" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「善解人意」特性！</color>
 Smooth and Slick
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Smooth and Slick" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「八面玲珑」特性！</color>
 Transcendental
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Transcendental" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「超凡脱俗」特性！</color>
 Fickle and Inconstant
-Make your heir obtain the <color=#brightred>"Fickle and Inconstant" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「喜怒无常」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Sarcastic and Annoying
-Make your heir obtain the <color=#brightred>"Sarcastic and Annoying" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「尖酸刻薄」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Arrogant and Cruel
-Make your heir obtain the <color=#brightred>"Arrogant and Cruel" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「狂妄乖戾」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Blessed by a Lucky Star
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Blessed by a Lucky Star" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「福星高照」特性！</color>
 Lucky as a Horse
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Lucky as a Horse" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「禄马同乡」特性！</color>
 Heavenly Bestowed Fortune
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Heavenly Bestowed Fortune" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「如天至福」特性！</color>
 Jinx
-Make your heir obtain the <color=#brightred>"Jinx" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「破禄之运」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Cursed Divination
-Make your heir obtain the <color=#brightred>"Cursed Divination" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「背禄逐马」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Disastrous Destiny
-Make your heir obtain the <color=#brightred>"Disastrous Destiny" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「丧门灾星」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Tough Bones and Skin
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Tough Bones and Skin" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「皮坚骨硬」特性！</color>
 Steel Muscles and Bones
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Steel Muscles and Bones" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「钢筋铁骨」特性！</color>
 Unbreakable
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Unbreakable" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「金刚不坏」特性！</color>
 Lustreless Face
-Make your heir obtain the <color=#brightred>"Lustreless Face" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「面色无华」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Refractory Wound
-Make your heir obtain the <color=#brightred>"Refractory Wound" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「久伤不愈」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Tenuous Hold on Life
-Make your heir obtain the <color=#brightred>"Tenuous Hold on Life" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「纤柔玉体」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Harmony of Six Meridians
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Harmony of Six Meridians" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「六脉调和」特性！</color>
 Everlasting Circulation of Qi
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Everlasting Circulation of Qi" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「周天不息」特性！</color>
 Heaven and Man as One
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Heaven and Man as One" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「天人合一」特性！</color>
 Blockage of Meridians
-Make your heir obtain the <color=#brightred>"Blockage of Meridians" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「经络阻断」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Yin Deficiency and Qi Shortage
-Make your heir obtain the <color=#brightred>"Yin Deficiency and Qi Shortage" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「阴虚气短」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Dead Pulse
-Make your heir obtain the <color=#brightred>"Dead Pulse" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「死脉之体」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Lustrous Complexion
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Lustrous Complexion" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「容光焕发」特性！</color>
 Lively as a Tiger
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Lively as a Tiger" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「生龙活虎」特性！</color>
 Immune to Diseases
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Immune to Diseases" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「百病不侵」特性！</color>
 Sickly
-Make your heir obtain the <color=#brightred>"Sickly" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「体弱多病」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Seven Injuries of Entrails
-Make your heir obtain the <color=#brightred>"Seven Injuries of Entrails" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「五劳七伤」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Haunted by Hundreds of Diseases
-Make your heir obtain the <color=#brightred>"Haunted by Hundreds of Diseases" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「百病缠身」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Self-possessed
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Self-possessed" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「克己慎行」特性！</color>
 Calm and Decisive
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Calm and Decisive" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「沉稳果决」特性！</color>
 Stable as a Mountain
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Stable as a Mountain" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「稳如磐石」特性！</color>
 Impulsive and Emotional
-Make your heir obtain the <color=#brightred>"Impulsive and Emotional" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「意气用事」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Rampageous
-Make your heir obtain the <color=#brightred>"Rampageous" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「横冲直闯」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Presumptuous
-Make your heir obtain the <color=#brightred>"Presumptuous" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「恣意忘我」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Confluence of Triple Sources
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Confluence of Triple Sources" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「三元汇聚」特性！</color>
 Innate Qi
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Innate Qi" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「先天气体」特性！</color>
 Shone by Marvelous Light
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Shone by Marvelous Light" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「身披华光」特性！</color>
 Disharmony of Fire and Water
-Make your heir obtain the <color=#brightred>"Disharmony of Fire and Water" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「水火不济」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Mutual Restraint of Five Qi
-Make your heir obtain the <color=#brightred>"Mutual Restraint of Five Qi" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「五气冲克」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Crumbling Source
-Make your heir obtain the <color=#brightred>"Crumbling Source" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「真元溃散」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Peaceful Mind
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Peaceful Mind" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「意定神闲」特性！</color>
 Unity of Qi and Mind
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Unity of Qi and Mind" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「神融气泰」特性！</color>
 Unobstructed Eight Meridians
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Unobstructed Eight Meridians" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「八脉天通」特性！</color>
 Irritable
-Make your heir obtain the <color=#brightred>"Irritable" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「心浮气躁」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Anxious and Depressed
-Make your heir obtain the <color=#brightred>"Anxious and Depressed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「忧思郁结」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Rebellious San Jiao
-Make your heir obtain the <color=#brightred>"Rebellious San Jiao" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「三焦逆乱」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Calm and Silent
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Calm and Silent" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「沉静寡言」特性！</color>
 Unaffected by Dilemma
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Unaffected by Dilemma" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「处变不惊」特性！</color>
 Carefree and Graceful
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Carefree and Graceful" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「优游自若」特性！</color>
 Stressed
-Make your heir obtain the <color=#brightred>"Stressed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「紧张不安」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Indiscreet
-Make your heir obtain the <color=#brightred>"Indiscreet" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「妄言轻动」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Hyperactive
-Make your heir obtain the <color=#brightred>"Hyperactive" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「札手舞脚」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Meticulous
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Meticulous" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「思虑入微」特性！</color>
 Insightful
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Insightful" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「洞若观火」特性！</color>
 Piercing Eyes
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Piercing Eyes" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「火眼金睛」特性！</color>
 Hesitant
-Make your heir obtain the <color=#brightred>"Hesitant" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「迟疑寡决」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Paranoid
-Make your heir obtain the <color=#brightred>"Paranoid" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「一步一鬼」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Upside Down Dressed
-Make your heir obtain the <color=#brightred>"Upside Down Dressed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「颠倒衣裳」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Quick eyes and hands
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Quick eyes and hands" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「眼疾手快」特性！</color>
 Whisper from Wind
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Whisper from Wind" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「听风辨位」特性！</color>
 Elusive as Shadow
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Elusive as Shadow" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「蹑影藏形」特性！</color>
 Slow Reaction Time
-Make your heir obtain the <color=#brightred>"Slow Reaction Time" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「反应迟钝」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Confuses Left with Right
-Make your heir obtain the <color=#brightred>"Confuses Left with Right" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「左右不分」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Discord of Mind and Body
-Make your heir obtain the <color=#brightred>"Discord of Mind and Body" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「身心不一」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Adventurous
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Adventurous" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「胆大于身」特性！</color>
 Dauntless
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Dauntless" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「无所畏惧」特性！</color>
 Risking Life Unhesitatingly
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Risking Life Unhesitatingly" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「舍生忘死」特性！</color>
 Weak-willed
-Make your heir obtain the <color=#brightred>"Weak-willed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「性情荏弱」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Discouraged and Depressed
-Make your heir obtain the <color=#brightred>"Discouraged and Depressed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「萎靡不振」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Cowardly as a Rat
-Make your heir obtain the <color=#brightred>"Cowardly as a Rat" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「胆小如鼠」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Man of Means
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Man of Means" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「临机应变」特性！</color>
 Observing before Acting
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Observing before Acting" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「沉机观变」特性！</color>
 Master of Strategy
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Master of Strategy" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「穷极要妙」特性！</color>
 Frank but Dull
-Make your heir obtain the <color=#brightred>"Frank but Dull" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「木讷鲁直」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Incautious and Impetuous
-Make your heir obtain the <color=#brightred>"Incautious and Impetuous" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「鲁莽妄动」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Reckless as a Tiger
-Make your heir obtain the <color=#brightred>"Reckless as a Tiger" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「冯河暴虎」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Quick as a Rabbit
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Quick as a Rabbit" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「动如脱兔」特性！</color>
 Swift as Lightning
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Swift as Lightning" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「电光石火」特性！</color>
 Swift as an Immortal
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Swift as an Immortal" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「奔逸绝尘」特性！</color>
 Lazy and Sluggish
-Make your heir obtain the <color=#brightred>"Lazy and Sluggish" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「慵懒迟钝」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Worships Laziness
-Make your heir obtain the <color=#brightred>"Worships Laziness" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「怠惰因循」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Heavy Spirit and Body
-Make your heir obtain the <color=#brightred>"Heavy Spirit and Body" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「身重神昏」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Filled with Murderous Qi
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Filled with Murderous Qi" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「杀气腾腾」特性！</color>
 Merciless
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Merciless" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「心无恻隐」特性！</color>
 Fierce as a Raksha
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Fierce as a Raksha" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「恶鬼罗刹」特性！</color>
 Tenderhearted
-Make your heir obtain the <color=#brightred>"Tenderhearted" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「心柔面软」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Merciful to Enemies
-Make your heir obtain the <color=#brightred>"Merciful to Enemies" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「宋襄之仁」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Sympathetic to Flowers
-Make your heir obtain the <color=#brightred>"Sympathetic to Flowers" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「悲花悯草」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Strong Pulse
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Strong Pulse" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「脉象殷实」特性！</color>
 Full Sea of Qi
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Full Sea of Qi" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「气海充盈」特性！</color>
 Pure True Qi
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Pure True Qi" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「真气精纯」特性！</color>
 Floating Pulse
-Make your heir obtain the <color=#brightred>"Floating Pulse" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「脉象虚浮」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Empty Sea of Qi
-Make your heir obtain the <color=#brightred>"Empty Sea of Qi" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「气海空虚」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Impure True Qi
-Make your heir obtain the <color=#brightred>"Impure True Qi" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「真气驳杂」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Complete Five Elements
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Complete Five Elements" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「五行俱全」特性！</color>
 Supreme Harmony of Qi
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Supreme Harmony of Qi" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「太和灵气」特性！</color>
 Unity of Nadis
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Unity of Nadis" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「混元奇窍」特性！</color>
 Disorder of Spirit
-Make your heir obtain the <color=#brightred>"Disorder of Spirit" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「心神散漫」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Obstruction of Life Gate
-Make your heir obtain the <color=#brightred>"Obstruction of Life Gate" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「命门不开」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Iron Embryo
-Make your heir obtain the <color=#brightred>"Iron Embryo" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「顽石铁胎」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Flying Pace
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Flying Pace" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「健步如飞」特性！</color>
 Mighty Stride
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Mighty Stride" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「高视阔步」特性！</color>
 Leap as a Dragon
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Leap as a Dragon" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「夭矫如龙」特性！</color>
 Tottering
-Make your heir obtain the <color=#brightred>"Tottering" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「步履蹒跚」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Teetering
-Make your heir obtain the <color=#brightred>"Teetering" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「东倒西歪」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Slow as a Snail
-Make your heir obtain the <color=#brightred>"Slow as a Snail" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「蜗行牛步」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Distinctive Constitution
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Distinctive Constitution" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「体质特异」特性！</color>
 Jade Bone and Clear Heart
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Jade Bone and Clear Heart" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「冰心玉骨」特性！</color>
 Immune to Toxins
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Immune to Toxins" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「百毒不侵」特性！</color>
 Invaded by Evil Qi
-Make your heir obtain the <color=#brightred>"Invaded by Evil Qi" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「邪质入体」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Chaos of Qi and Blood
-Make your heir obtain the <color=#brightred>"Chaos of Qi and Blood" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「气血涣散」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Congenital Diseases
-Make your heir obtain the <color=#brightred>"Congenital Diseases" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「先天隐疾」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Long-limbed
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Long-limbed" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「手长脚长」特性！</color>
 Very Long-limbed
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Very Long-limbed" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「亭亭鹤立」特性！</color>
 Extremely Long-limbed
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Extremely Long-limbed" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「蜂腰猿背」特性！</color>
 Top-heavy
-Make your heir obtain the <color=#brightred>"Top-heavy" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「头重脚轻」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Odd-looking
-Make your heir obtain the <color=#brightred>"Odd-looking" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「怪模怪样」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Deformed
-Make your heir obtain the <color=#brightred>"Deformed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「诡状异形」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Faithful
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Faithful" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「情有独钟」特性！</color>
 Extremely Faithful
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Extremely Faithful" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「从一而终」特性！</color>
 Completely Faithful
-Spend your Legacy to make your heir obtain the <color=#lightblue>"Completely Faithful" trait!</color>
+花费生平遗惠，使你的传人获得<color=#lightblue>「忠贞不渝」特性！</color>
 Faithless
-Make your heir obtain the <color=#brightred>"Faithless" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「三心二意」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Extremely Faithless
-Make your heir obtain the <color=#brightred>"Extremely Faithless" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「见异思迁」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Completely Faithless
-Make your heir obtain the <color=#brightred>"Completely Faithless" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+塞翁失马，焉知非福？使你的传人获得<color=#brightred>「朝三暮四」特性</color>，同时获得更多的<color=#lightblue>生平遗惠！</color>
 Upright and Plainspoken
 Spend your Legacy to make your heir's standpoint change to <color=#ffe78f>Just</color>!
 Kind and Helpful
@@ -850,198 +852,198 @@ Spend your Legacy to change your heir's internal element to <color=#68eb6b>Earth
 Celestial Harmony
 Spend your Legacy to change your heir's internal element to <color=#e3edff>Hunyuan</color>!
 Jingji Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Jingji region!</color>
+花费生平遗惠，使<color=#orange>「京畿」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Bashu Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Bashu region!</color>
+花费生平遗惠，使<color=#orange>「巴蜀」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Guangnan Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Guangnan region!</color>
+花费生平遗惠，使<color=#orange>「广南」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Jingbei Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Jingbei region!</color>
+花费生平遗惠，使<color=#orange>「荆北」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Shanxi Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Shanxi region!</color>
+花费生平遗惠，使<color=#orange>「山西」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Guangdong Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Guangdong region!</color>
+花费生平遗惠，使<color=#orange>「广东」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Shandong Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Shandong region!</color>
+花费生平遗惠，使<color=#orange>「山东」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Jingnan Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Jingnan region!</color>
+花费生平遗惠，使<color=#orange>「荆南」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Fujian Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Fujian region!</color>
+花费生平遗惠，使<color=#orange>「福建」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Liaodong Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Liaodong region!</color>
+花费生平遗惠，使<color=#orange>「辽东」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 West Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around West region!</color>
+花费生平遗惠，使<color=#orange>「西域」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Yunnan Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Yunnan region!</color>
+花费生平遗惠，使<color=#orange>「云南」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Huainan Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Huainan region!</color>
+花费生平遗惠，使<color=#orange>「淮南」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Jiangnan Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Jiangnan region!</color>
+花费生平遗惠，使<color=#orange>「江南」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Jiangbei Geniuses
-Spend your Legacy to cause a number of geniuses to <color=#lightblue>appear around Jiangbei region!</color>
+花费生平遗惠，使<color=#orange>「江北」</color>地区随后陆续<color=#lightblue>出现数名奇才！</color>
 Jingji's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Jingji region!</color>
+花费生平遗惠，立即使<color=#orange>「京畿」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Bashu's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Bashu region!</color>
+花费生平遗惠，立即使<color=#orange>「巴蜀」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Guangnan's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Guangnan region!</color>
+花费生平遗惠，立即使<color=#orange>「广南」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Jingbei's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Jingbei region!</color>
+花费生平遗惠，立即使<color=#orange>「荆北」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Shanxi's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Shanxi region!</color>
+花费生平遗惠，立即使<color=#orange>「山西」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Guangdong's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Guangdong region!</color>
+花费生平遗惠，立即使<color=#orange>「广东」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Shandong's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Shandong region!</color>
+花费生平遗惠，立即使<color=#orange>「山东」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Jingnan's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Jingnan region!</color>
+花费生平遗惠，立即使<color=#orange>「荆南」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Fujian's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Fujian region!</color>
+花费生平遗惠，立即使<color=#orange>「福建」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Liaodong's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Liaodong region!</color>
+花费生平遗惠，立即使<color=#orange>「辽东」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 West's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in West region!</color>
+花费生平遗惠，立即使<color=#orange>「西域」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Yunnan's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Yunnan region!</color>
+花费生平遗惠，立即使<color=#orange>「云南」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Huainan's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Huainan region!</color>
+花费生平遗惠，立即使<color=#orange>「淮南」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Jiangnan's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Jiangnan region!</color>
+花费生平遗惠，立即使<color=#orange>「江南」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
 Jiangbei's Favor
-Spend your Legacy to immediately gain <color=#lightblue>30% Regional Favor in Jiangbei region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Jingji region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Bashu region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Guangnan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Jingbei region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Shanxi region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Guangdong region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Shandong region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Jingnan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Fujian region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Liaodong region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in West region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Yunnan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Huainan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Jiangnan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>60% Regional Favor in Jiangbei region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Jingji region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Bashu region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Guangnan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Jingbei region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Shanxi region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Guangdong region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Shandong region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Jingnan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Fujian region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Liaodong region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in West region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Yunnan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Huainan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Jiangnan region!</color>
-Spend your Legacy to immediately gain <color=#lightblue>90% Regional Favor in Jiangbei region!</color>
+花费生平遗惠，立即使<color=#orange>「江北」</color>地区的<color=#lightblue>地区恩义增加30%！</color>
+花费生平遗惠，立即使<color=#orange>「京畿」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「巴蜀」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「广南」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「荆北」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「山西」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「广东」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「山东」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「荆南」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「福建」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「辽东」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「西域」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「云南」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「淮南」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「江南」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「江北」</color>地区的<color=#lightblue>地区恩义增加60%！</color>
+花费生平遗惠，立即使<color=#orange>「京畿」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「巴蜀」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「广南」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「荆北」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「山西」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「广东」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「山东」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「荆南」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「福建」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「辽东」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「西域」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「云南」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「淮南」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「江南」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
+花费生平遗惠，立即使<color=#orange>「江北」</color>地区的<color=#lightblue>地区恩义增加90%！</color>
 Shaolin Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Shaolin</color>!
+花费生平遗惠，立即获得<color=#orange>「少林派」</color>部分<color=#lightblue><color=#lightblue>低阶弟子的门派支持！</color></color>
 Emei Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Emei Sect</color>!
+花费生平遗惠，立即获得<color=#orange>「峨眉派」</color>部分<color=#lightblue><color=#lightblue>低阶弟子的门派支持！</color>
 Hundred Flowers Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Hundred Flowers Valley</color>!
+花费生平遗惠，立即获得<color=#orange>「百花谷」</color>部分<color=#lightblue><color=#lightblue>低阶弟子的门派支持！</color>
 Wudang Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Wudang Sect</color>!
+花费生平遗惠，立即获得<color=#orange>「武当派」</color>部分<color=#lightblue><color=#lightblue>低阶弟子的门派支持！</color>
 Yuanshan Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Yuanshan Sect</color>!
+花费生平遗惠，立即获得<color=#orange>「元山派」</color>部分<color=#lightblue><color=#lightblue>低阶弟子的门派支持！</color>
 Lion Face Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Lion-Face Clan</color>!
+花费生平遗惠，立即获得<color=#orange>「狮相门」/color>部分<color=#lightblue><color=#lightblue>低阶弟子的门派支持！</color>
 Ranshan Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Ranshan Sect</color>!
+花费生平遗惠，立即获得<color=#orange>「然山派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Xuannyu Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Xuannyu Sect</color>!
+花费生平遗惠，立即获得<color=#orange>「璇女派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Sword Manor Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Sword Manor</color>!
+花费生平遗惠，立即获得<color=#orange>「铸剑山庄」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Kongsang Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Kongsang Sect</color>!
+花费生平遗惠，立即获得<color=#orange>「空桑派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Vajrayana Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Vajrayana</color>!
+花费生平遗惠，立即获得<color=#orange>「无量金刚宗」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Five Immortals' Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Five Immortals Cult</color>!
+花费生平遗惠，立即获得<color=#orange>「五仙教」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Jieqing Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Jieqing Gate</color>!
+花费生平遗惠，立即获得<color=#orange>「界青门」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Fulong Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Fulong Altar</color>!
+花费生平遗惠，立即获得<color=#orange>「伏龙坛」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Bloodhound Order
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from lower-ranked disciples</color></color> in <color=#orange>Bloodhound Cult</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Shaolin</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Emei Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Hundred Flowers Valley</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Wudang Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Yuanshan Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Lion-Face Clan</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Ranshan Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Xuannyu Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Sword Manor</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Kongsang Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Vajrayana</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Five Immortals Cult</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Jieqing Gate</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Fulong Altar</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from middle-ranked disciples</color></color> in <color=#orange>Bloodhound Cult</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Shaolin</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Emei Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Hundred Flowers Valley</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Wudang Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Yuanshan Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Lion-Face Clan</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Ranshan Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Xuannyu Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Sword Manor</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Kongsang Sect</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Vajrayana</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Five Immortals Cult</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Jieqing Gate</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Fulong Altar</color>!
-Spend your Legacy to immediately gain <color=#lightblue><color=#lightblue>Support from high-ranked members</color></color> in <color=#orange>Bloodhound Cult</color>!
+花费生平遗惠，立即获得<color=#orange>「血犼教」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「少林派」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「峨眉派」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「百花谷」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「武当派」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「元山派」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「狮相门」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「然山派」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「璇女派」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「铸剑山庄」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「空桑派」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「无量金刚宗」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「五仙教」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「界青门」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「伏龙坛」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「血犼教」</color>部分<color=#lightblue>中阶弟子的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「少林派」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「峨眉派」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「百花谷」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「武当派」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「元山派」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「狮相门」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「然山派」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「璇女派」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「铸剑山庄」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「空桑派」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「无量金刚宗」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「五仙教」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「界青门」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「伏龙坛」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
+花费生平遗惠，立即获得<color=#orange>「血犼教」</color>部分<color=#lightblue>高阶人物的门派支持！</color>
 Discover Weeds
-Spend your Legacy to immediately discover Weeds in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place them...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「杂草堆」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Stones
-Spend your Legacy to immediately discover Stones in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place them...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「乱石堆」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Ruins
-Spend your Legacy to immediately discover Ruins in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place them...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「废墟」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Reservoir
-Spend your Legacy to immediately discover a Reservoir in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即获得<color=#orange>「水域」</color>所需的心材！
 Discover Stone Hills
-Spend your Legacy to immediately discover Stone Hills in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place them...</color>
+花费生平遗惠，立即获得<color=#orange>「石山」</color>所需的心材！
 Discover Woodlands
-Spend your Legacy to immediately discover Woodlands in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place them...</color>
+花费生平遗惠，立即获得<color=#orange>「树林」</color>所需的心材！
 Discover Skyward Mountain
-Spend your Legacy to immediately discover a Skyward Mountain in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即获得<color=#orange>「孤峰」</color>所需的心材！
 Discover Herb Paradise
-Spend your Legacy to immediately discover a Herb Paradise in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即获得<color=#orange>「草药」</color>所需的心材！
 Discover Poison Swamp
-Spend your Legacy to immediately discover a Poison Swamp in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即获得<color=#orange>「毒沼」</color>所需的心材！
 Discover Flower Valley
-Spend your Legacy to immediately discover a Flower Valley in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即获得<color=#orange>「花谷」</color>所需的心材！
 Discover Gem Deposit
-Spend your Legacy to immediately discover a Gem Deposit in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即获得<color=#orange>「宝石」</color>所需的心材！
 Discover Fertile Plain
-Spend your Legacy to immediately discover a Fertile Plain in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即获得<color=#orange>「沃野」</color>所需的心材！
 Discover Wild Habitat
-Spend your Legacy to immediately discover a Wild Habitat in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即获得<color=#orange>「兽群」</color>所需的心材！
 Discover Lava Pond
-Spend your Legacy to immediately discover Lava Pond in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「火池」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Meteor Crater
-Spend your Legacy to immediately discover a Meteor Crater in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「陨铁坑」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Primeval Jungle
-Spend your Legacy to immediately discover a Primeval Jungle in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「密林」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Taishi Forest
-Spend your Legacy to immediately discover a Taishi Forest in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「太始林」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Everspring Ravine
-Spend your Legacy to immediately discover an Everspring Ravine in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「长春涧」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Snake Pit
-Spend your Legacy to immediately discover a Snake Pit in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「玄蛇窟」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Fragrance Land
-Spend your Legacy to immediately discover a Fragrance Land in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「奇香原」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Dragon Vein
-Spend your Legacy to immediately discover a Dragon Vein in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「风水龙穴」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Ley Line
-Spend your Legacy to immediately discover a Ley Line in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「灵脉」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
 Discover Eternal Ice
-Spend your Legacy to immediately discover an Eternal Ice in the Taiwu Village!\n<color=#orange>You will be able to select when and where to place it...</color>
+花费生平遗惠，立即在太吾村中发现一处<color=#orange>「玄冰」</color>！\n<color=#yellow>需在建设空间中自行建造…</color>
