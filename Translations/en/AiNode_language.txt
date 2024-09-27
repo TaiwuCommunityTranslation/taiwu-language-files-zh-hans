@@ -1,0 +1,6 @@
+Sequence
+Execute all child nodes sequentially until the action node
+Branch
+Determine the next node to be executed based on the condition
+Action
+Perform a specific action
