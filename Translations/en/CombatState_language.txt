@@ -519,8 +519,8 @@ Controlling Yazi
 Because of controlling a Yazi, a portion of any direct damage dealt by the enemy to the user will be added to the user's next attack.
 Controlling Yazi: <color=#brightblue>A portion of any direct damage dealt by the enemy to the user will be added to the user's next attack</color>.
 Controlling Chaofeng
-因驭使嘲风：运用者的移动速度因脚力减少而下降的效果减半；运用者剩余的脚力越少，运用者施展身法需要消耗的脚力也越少
-驭使嘲风：<color=#brightblue>运用者的移动速度因脚力减少而下降的效果减半；运用者剩余的脚力越少，运用者施展身法需要消耗的脚力也越少</color>
+因驭使嘲风：运用者的脚力恢复速度提高
+驭使嘲风：<color=#brightblue>运用者的脚力恢复速度提高</color>
 Controlling Pulao
 Because of controlling a Pulao, the more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal.
 Controlling Pulao: <color=#brightblue>The more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal</color>.
