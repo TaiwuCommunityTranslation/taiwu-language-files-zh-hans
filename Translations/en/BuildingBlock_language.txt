@@ -97,7 +97,7 @@ Ruins do not grow naturally, nor will they expand.
 Well
 It is made of mud and sand, covered with vegetation and stacked with stones. It is used for water storage and flood control facilities.
 Must be built next to the "Reservoir". Increases its yearly growth chance. You will need to send villagers to operate it. Food materials for "Cooking" can be harvested, as well as the food resource every month.
-可提供「太吾村农户」席位扩充。
+Will provide Spot points for the 「Farmer」 role.
 Mineshaft
 The mineshaft reaches several dozen feet into the ground, cut to explore a vein of ore.
 Must be built next to the "Stone Hills". Increases its yearly growth chance. You will need to send villagers to operate it. Ore materials for "Smithing" can be harvested, as well as the ore resource every month.
@@ -162,7 +162,7 @@ You can display Crickets in here to provide fun for people.\nThe bigger the Taiw
 Ancestral Hall
 Incense and offerings burn inside its halls at all times, with people seen entering and exiting often to worship Taiwu's ancestors. It acts as a meeting place for the elders of the Taiwu family to discuss and educate their future generations.
 You can spend "Prestige" to instruct fellow members of the clan on martial and art techniques to improve their "Talent" by using the "Taiwu Clan Genealogy" as the heart material to build. The larger the Ancestral Hall, the more "Prestige" you will receive each month.
-可提供「太吾村村长」席位扩充。
+Will provide Spot points for the 「Village Head」 role.
 Dormitory
 A cozy home for the villagers to live in. Inside it is set up with many through-rooms for the villagers accommodation, and a large living area where they eat their daily meals.
 If a villager is homeless, their mood and reputation with you will start to decline. The larger the Dormitory, the more villagers that will be able to live inside.
@@ -190,7 +190,7 @@ Constructed using the 'Western Region Map' as the core material. By sending merc
 Training Hall
 The training hall is a place to practice martial arts. The building is spacious and airy, and the atmosphere of the room can be arranged to suit the mood of the practitioner. There are various props for training in the room.
 Increases the study efficiency of martial arts books for characters within the influence area of the sect/town that this building belongs to.\nThe larger the Training Hall, the more it increases the study efficiency.\nEffect of multiple Training Halls won't stack.
-可提供「太吾村护冢」席位扩充。
+Will provide Spot points for the 「Tomb Guard」 role.
 Escort Agency
 The escort agency deals in the protection of important people or objects. To be successful one has to be connected with both good and bad forces in the martial world.
 This extension building must be built next to the "Training Hall" building. Needs to be operated by up to 3 villagers to earn "Money". The larger the Escort Agency, the more "Money" you earn.
@@ -290,7 +290,7 @@ This is an extension building built next to the "Training Hall" using "Seven Col
 Music Room
 The qin house is clean and elegant, surrounded by a green mantle, built in a place with a winding path. Although it is called the Qin House, the house has all the instruments, bells, drums, pipes and flutes, because the Qin is the first of the "four arts of the literati", so it is called the Qin House.
 It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying "Music" books. \nThe larger the size of the house, the greater the increase in efficiency, but the effects of multiple houses do not stack.
-可提供「太吾村文人」席位扩充。
+Will provide Spot points for the 「Academic」 role.
 Concert Hall
 A leisure place where musicians gather. They play quite ceremonial music,  perform mostly elegant and refined dances and songs,  deeply loved by the literati.
 This is an extension building built next to the "Music Room" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by playing music.
@@ -375,7 +375,7 @@ An extension building built next to the "Art Room" using the "Jade Mirror Flower
 Observatory
 A huge platform for observing the shadows of daylight and the stars of the night. In addition to observing the sun,  moon,  and stars,  it is also used to identify “the four periods and six qi” so as to predict the fortune.
 It can increase the efficiency of characters within the influence of the town or sect to which they belong when studying books on "arts and mathematics". \nThe larger the size of the observatory, the greater the increase in efficiency, but the effects of multiple observatories do not stack.
-可提供「太吾村文人」「太吾村护冢」席位扩充。
+Will provide Spot points for the 「Academic」 and 「Tomb Guard」roles.
 Divination Room
 A venue for divination. There are many forms of fortune telling,  such as bone reading,  face reading,  kau cim,  bazi,  plum flower coculation,  etc..
 This is an extension building built next to the "Observatory" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by divination.
@@ -397,7 +397,7 @@ This is an extension building built next to the "Observatory" using the "Two Sta
 Clarifier
 A small hall built in the deep well where the spring was excavated. In the Clarifier,  facilities for water purification are installed to optimize water quality.
 It increases the efficiency of characters within the area of influence of the town or sect to which they belong when studying "Appreciation" books. \nThe larger the size of the Clarifier, the greater the increase in efficiency, but the effects of multiple Clarifiers do not stack.
-可提供「太吾村商人」「太吾村文人」席位扩充。
+Will provide Spot points for the 「Merchant」 and 「Academic」roles.
 Teahouse
 In addition to the area where ordinary people drink tea,  the teahouse also has elegant seats and a valuable tea sets for the riches.
 This is an extension building built next to the "Clarifier" and needs to be operated by the villagers. \nThe main purpose of the building is to sell tea to earn money.
@@ -425,7 +425,7 @@ An extension building is built next to the "Clarifier" with "Gold Jade Dew Plate
 Forging Room
 Equipped with furnaces,  bellows and anvils.
 You can make, repair, and refine metal tools. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Smithing" books. \nThe larger the size of the Forging Room, the more efficiency is increased, but the effects of multiple forging rooms do not stack.
-可提供「太吾村匠人」席位扩充。
+Will provide Spot points for the 「Craftsmen」 role.
 Blacksmith
 To create and sell a variety of metal appliances to make a living. Small as nail tools,  large as swords and armor,  can be bought in the blacksmith shop.
 This is an extension building built next to the "Forging Room" and needs to be operated by the villagers. \nThe main purpose of the building is to sell metal tools to earn "silver money".
@@ -486,7 +486,7 @@ The extension building is built next to the "Carpentry Room" with "Godwood Roots
 Herbal Room
 Various medicinal materials are prepared by rolling,  frying,  concentrating,  etc.,  and are made into healing cream,  potions and pills.
 Can make elixirs. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying books on "medical arts". \nThe larger the size of the dispensary, the more the efficiency is increased, but the effects of multiple dispensaries do not stack.
-可提供「太吾村大夫」席位扩充。
+Will provide Spot points for the 「Doctor」 role.
 Pharmacy
 Shops that prepare and sell medicine depending on prescriptions. In addition,  there are doctors in the old drugstores who can conduct on-site medical treatment,  massage,  needle application,  etc. It is a comprehensive medical house.
 This is an extension building built next to the "Herbal Room" and needs to be operated by the villagers. \nThe main purpose of the building is to earn "silver money" by selling potions.
@@ -607,7 +607,7 @@ This is an extension building built next to the "Gemcutting Room" with "Millenni
 Cloud Room
 The Cloud Room is quiet and tidy,  with the fragrance of sandalwood lingering inside. It is the room where the monks live. The furnishings in the room are very simple,  the bookshelf desk,  the simple bed and the old incense burner are all we have here.
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Daoist" books. The larger the size of the \n cloud room, the more the efficiency will be increased, but the effect of multiple cloud rooms will not stack.
-可提供「太吾村大夫」「太吾村护冢」席位扩充。
+Will provide Spot points for the 「Doctor」 and 「Tomb Guard」roles.
 Taoist Rites
 There are two areas of “yang” and “yin” in the place where Taoism prays for blessings. The Yang area is used for dispelling disasters,  exorcising evil spirits and praying for the world peace；  while the Yin area is used for exceeding the soul of the dead,  unraveling hatred between people and offering sacrifices to the ancestors.
 The extension building built next to the "Cloud Room" is to be operated by dispatching villagers. \nThe main purpose of the building is to receive offerings for the blessing puja.
@@ -629,7 +629,7 @@ The "Purple Gold Alchemy Furnace" is used as the core material to build an exten
 Zen Room
 A living room for meditation practicing. The Zen Room is built between the grass and the trees. Quite small in size.
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Buddhist Studies" books. \nThe larger the size of the Zen Room, the greater the increase in efficiency, but the effects of multiple Zen Rooms do not stack.
-可提供「太吾村农户」「太吾村护冢」席位扩充。
+Will provide Spot points for the 「Farmer」 and 「Tomb Guard」roles.
 Monastery
 The temple accepts the donation of the believers and will also help the needy. The giving of the monks to the world is not limited to property. For example,  depending on the myth,  Sakyamuni cut his own flesh to feed the eagle,  which was starving and chacing after a pigeon,  to prevent them both from death. The “giving” is the most important way of Buddhist cultivation.
 The extension building built next to the "Zen room" is to be operated by dispatching villagers. \nThe main purpose of the building is to receive alms by praying for blessings and pujas.
@@ -651,7 +651,7 @@ An extension building built next to the "Zen Room" using the "Thirty-Five True S
 Kitchen
 The upper floor of the Kitchen is for cooking while the lower floor is for temporary storage of ingredients.
 You can make dishes. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "cookery" books. \nThe larger the size of the Kitchen, the more the efficiency is increased, but the effect of multiple Kitchens do not stack.
-可提供「太吾村农户」「太吾村匠人」席位扩充。
+Will provide Spot points for the 「Farmer」 and 「Craftsmen」roles.
 Restaurant
 The restaurant has two floors and a gorgeous gatehouse.  The first floor is occupied with scattered seats while the second floor provides a few chic small compartments.
 This is an extension building built next to the "Kitchen" and needs to be operated by the villagers. \nThe main purpose of the building is to sell food to earn money.
@@ -682,7 +682,7 @@ This is an extension building built next to the "Kitchen" using "Crystal Ice Til
 Long Street
 Wide street full of shops. Long Street is located in the main road of transportation,  bringing together a large number of people from all walks of life.
 It increases the efficiency of characters within the influence of the town or sect to which they belong when studying "Lore" books. The larger the \n scale of the long street, the more the efficiency will be increased, but the effect of multiple long streets will not stack.
-可提供「太吾村商人」席位扩充。
+Will provide Spot points for the 「Merchant」 role.
 Fair
 The Fair is a place where merchants and sellers gather and sell all kinds of goods. In certain seasons,  special markets will be set up to sell seasonal goods.
 The extension building is built next to the "Long Street" and needs to be operated by the villagers. \nThe main purpose of the building is to sell groceries to earn "silver money".
@@ -1007,49 +1007,49 @@ True Dragon Treasury
 King Hou Treasury
 "The King Hou guards the gate, demons and ghosts protect the vault, the living present treasures, the dead lead the way".\nThis place is a treasury used to store supplies. Food, silver, gold, stone, jade, as well as precious objects, toys, ancient swords and famous musical instruments, all kinds of things are kept here, and someone is assigned to guard it strictly. It can be said that it is as secure as a city protected by a wall of metal and a moat of boiling water.
 
-五蕴禅院
-“五蕴皆空，六尘不染。渡诸苦厄，信受奉行”。\n刑必当罪，赏必当功。此处乃是少林寺用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
-关押本州域罪犯的监牢。\n当人物的罪行被揭露，本门派将会通缉此人，并且发布悬赏名录，江湖人士可据此抓捕罪犯归案，换取悬赏。\n太吾可以通过本门派的支持，将同道或俘虏送入监牢。\n如将入魔人关入监牢会得到势力中人的喜爱与支持。\n非本势力中人擅闯监牢、劫掠囚犯会遭到守卫的严惩，并引起本势力中人的厌恶…
+Skhandas Hall
+"Realize your skhandas, and your six dusts shall become pure. To overcome all sufferings, believe, accept, and practice."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Shaolin, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
+The prison where criminals of the prefecture are held.\nWhen a character's crime gets exposed, the sect will issue a wanted notice to the bounty list. People of jianghu can use the list to capture the criminal and bring them to justice in exchange for the bounty.\nTaiwu can send teammates or captives to the prison using sect support.\nIf a Possessed character gets sent to the prison, you will receive favor and support of people in the faction.\nPeople who are not members of the faction will be severely punished by guards if they break into the prison or try to rob prisoners, and will receive disgust of people in the faction...
 
-明德府
-“峨眉释道传，明德镇西南”。\n刑必当罪，赏必当功。此处乃是峨嵋派用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Illustrious Virtue Palace
+"Emei spreads Buddhism and Taoism, protecting Bashu with illustrious virtue."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Emei Sect, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-治恶牢
-“悬壶济世，飞针惩恶”。\n刑必当罪，赏必当功。此处乃是百花谷用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Evil-Treating Prison
+"Use medicine to help the people, use flying needles to punish the evil."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Hundred Flowers Valley, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-闻道观
-“人若不为形所累，眼前便是大罗天”。\n刑必当罪，赏必当功。此处乃是武当派用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Dao Hearing Temple
+"If people aren't burdened by their physical body, the highest heaven will be right in front of their eyes."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Wudang Sect, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-思过牢
-“纵使天地无情道，斩妖诛邪灭群魔”。\n刑必当罪，赏必当功。此处乃是元山派用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Reflection Prison
+"Even if the world is heartless, we shall slay the demons and extinguish all monsters."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Yuanshan Sect, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-狮笼
-“金狮显雄姿，宵小裂心胆”。\n刑必当罪，赏必当功。此处乃是狮相门用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Lion Cage
+"When the golden lion shows its majesty, the villains shall tremble."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Lion-Face Clan, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-杳杳玄冥狱
-“玄冥何处寻，青琅杳杳处”。\n刑必当罪，赏必当功。此处乃是然山派用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Profound Xuanming Prison
+"Where can we find the Xuanming? It is so far away in the Qinglang."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Ranshan Sect, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-清音别院
-“仙子调玉琴，一弦清一心”。\n刑必当罪，赏必当功。此处乃是璇女派用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Mind-Changing Courtyard
+"When an immortal fairy plays a guqin, a single string cleanses one's mind and soul."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Xuannyu Sect, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-百炼监牢
-“百炼千锤，玄铁冶铸，神佛难入，妖魔难出”。\n刑必当罪，赏必当功。此处乃是铸剑山庄用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Hundred Refinements Jail
+"After a hundred refinements and thousand strikes with hammer, the black iron becomes smelted. Even Gods and Buddhas find it difficult to enter, and demons can't escape."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Sword Manor, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-不死谷
-“谷外人求生，谷中人求死”。\n刑必当罪，赏必当功。此处乃是空桑派用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Valley of Undying
+"People outside the valley seek life, people inside the valley seek death."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Kongsang Sect, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-十方佛狱
-“种种造恶，堕十方狱，千万亿劫，求出无期”。\n刑必当罪，赏必当功。此处乃是无量金刚宗用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Countless Buddhas Prison
+"If one commits all kinds of evil, one shall become the prisoner of the universe, and suffer for thousands of trillions of kalpas, with no hope of escape."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Vajrayana, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-万蛊窟
-“苗疆神鬼百座堂，凡有不敬，千虫取命，万蛊夺心”。\n刑必当罪，赏必当功。此处乃是五仙教用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Myriad Gu Cave
+"There are hundreds of temples for gods and ghosts in Miaojiang. Anyone who disrespects them will be killed by thousands of insects, and their heart shall be taken away by countless Gu."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Five Immortals Cult, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-死牢
-“生无归心处，死无葬身地”。\n刑必当罪，赏必当功。此处乃是界青门用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+Death Prison
+"No place to return to when alive, and no place to be buried when dead."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Jieqing Gate, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-真龙火海
-“将身献火海，掷金唤真龙”。\n刑必当罪，赏必当功。此处乃是伏龙坛用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+True Dragon's Fire Ocean
+"Offer your body to the ocean of fire, sacrifice gold to call forth the true dragon."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Fulong Altar, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
-犼王血狱
-“举目黄泉不见，血海炼狱此间”。\n刑必当罪，赏必当功。此处乃是血犼教用于关押门中犯戒弟子、州域匪盗凶徒，甚至门派仇敌的监牢，又命专人严加看管，壁垒森严，秋毫难犯。
+King Hou's Blood Prison
+"Raising one's eyes, Yellow Springs can't be seen. A purgatory of ruthless blood sea."\nPunishment must fit the crime, rewards must match the merit. This is the prison of the Bloodhound Cult, where they confine disciples who have violated their precepts, criminals from all over the prefecture, and even enemies of the sect, under strict supervision. It's closely guarded, making sure that not even a fine hair would be able to get inside unnoticed.
 
