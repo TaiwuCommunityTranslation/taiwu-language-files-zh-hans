@@ -1797,11 +1797,11 @@ Elder
 Ji
 Xi
 Girl
-遗祖
+Lost Ancestor
 
 Old Monk
 
-祖师
+Founder
 
 
 
@@ -1997,7 +1997,7 @@ Human Demons
 Lei
 Kun
 Hall Master
-飞狮堂堂主
+Hall Master of Flying Lion Hall
 
 Disciples of Flying Lion Hall
 
@@ -2087,7 +2087,7 @@ White Ape
 
 Houjiu
 Mysterious Person
-隐居长老
+Elder in Seclusion
 Bai
 Ao Tian
 Young Gentleman
@@ -2114,15 +2114,15 @@ Kind Old Man
 
 Xuan Huangzi
 Glowering Elderly
-玉符宗祖师
+Founder of Jade Talisman Sect
 
 Kun Wuzi
 Languid Elderly
-神剑宗祖师
+Founder of Divine Sword Sect
 
 You Mingzi
 Grim Elderly
-阴阳宗祖师
+Founder of Yin-Yang Sect
 
 Huaju
 
@@ -2639,8 +2639,8 @@ White Deer
 Black Owl
 
 
-琉璃
-神秘少年
+Liu Li
+Mysterious Youth
 
 
 
@@ -2649,21 +2649,12 @@ Black Owl
 
 
 
-第七十七
-伏龙使者
+Seventy-seventh
+Envoy of Fulong
 
 
 
-未知门人
-
-
-
-
-
-
-
-
-
+Unknown Disciple
 
 
 
@@ -2681,7 +2672,16 @@ Black Owl
 
 
 
-伏龙狂徒
+
+
+
+
+
+
+
+
+
+Mad Disciple of Fulong
 
 
 
