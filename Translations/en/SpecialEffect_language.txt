@@ -22,9 +22,9 @@ Fatal Wnd. Decrease
 Greatly increases the upper limit of all major attributes of the user (by 20). Direct External Fatal Wound damage taken by user will be reduced by 50%; If the user is a virgin male, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Abdominal\nBreathing
 Increases the power limit of "Emei Sect" techniques by 30%
-Emei Pillar\nHolding
+Twelve Postures\nof Emei
 The higher the user's "Wood" internal element, the more the user's External and Internal Defense will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
-Original Pure\nForce
+Innate Origin Qi\nTechnique
 User's "Wood" techniques will deal more direct damage and backlash damage to characters whose internal element is "Earth"
 Spirituality\nComprehension
 Increase Technique Power
@@ -248,9 +248,9 @@ When defending with this technique: All direct damage taken by the user will be 
 Small Arhat\nRod Formation
 User's teammates will more frequently be able to perform "Defend" order to protect the user with an Aegis technique from enemy attacks.
 Buddhism\nLion Roar
-消除敌之身法
-降敌移动能力
-每当运用者主动开始施展「摧破」类功法，如果敌人在运用者的攻击范围之内，消除敌人运起的身法，且运用者施展功法的过程中，敌人施展身法所需消耗的脚力加倍，敌人的移动速度、攻击速度、施展速度也会变化为最低
+Remove Enemy's Footwork
+Hinder Enemy's Ability to Move
+Whenever the user starts performing a "Break" technique, if the enemy is within the user's Attack Range, enemy's Footwork will be removed, and while the user is performing the technique, Stamina cost of enemy's Footworks will be doubled, and their Movement Speed, Attack Speed, and Cast Speed will be lowered to minimum
 Hunyuan\nBreathing
 Changing Int. Def. to Ext. Def.
 Avoid direct internal injuries
@@ -332,7 +332,7 @@ When defending with this technique: As long as the enemy attack isn't a critical
 If all True Qi of the user isn't lower than its initial value, the power of this technique will continuously increase, up to 2 times higher than the original power of this technique. If not, the power of this technique will be halved and its power won't increase; When power of this technique isn't lower than 100%, the power of all techniques performed by the user will be increased by a portion of this technique's power.
 9 Rollings
 Restoring your own Stamina
-以此功法进行防御时，每当运用者成功对敌人的兵器攻击进行反击，运用者的脚力就会得到恢复
+When defending with this technique, whenever the user successfully Counters an enemy weapon attack, user's Stamina will be restored
 Sword Or Blade
 Increase the power limit
 When the user performs a "Sword Technique" using a "Blade" weapon, the power limit of the "Sword Technique" will increase; When the user performs a "Blade Technique" using a "Sword" weapon, the power limit of the "Blade Technique" will increase
@@ -364,7 +364,7 @@ Increase Direct Dmg
 The heavier the weight of the weapon, the more direct damage the user can inflict on the enemy.
 Lion Roar
 Remove Enemy Stamina
-当战斗开始及运用者的战败标记总数超过战败条件的一半时，消除敌人所有的脚力
+At the start of a battle and whenever the user's Defeat Markers exceed half of the Defeat Condition, enemy's Stamina will be depleted
 Overlord's Armor Absorb
 E·Force Dn
 When defending with this technique, whenever an enemy inflicts an injury or a Fatal Wound with direct damage on the user, both the enemy's and the user's "Aegis" True Qi will be lowered according to the number of injuries inflicted by the enemy, and the user's lost "Aegis" True Qi will be changed into "Break" True Qi
@@ -389,7 +389,7 @@ Transfer Your Damage
 When defending with this technique: All direct damage taken by the user is reduced by 45%; Whenever the user Reflects an enemy attack, 1 debuff is transferred from the user to the enemy
 Myriad Changes\nRewind
 Resolve E·atk
-以此功法进行防御时，除非运用者被敌人命中要害，否则敌人的兵器攻击、摧破攻击均会被运用者化解，且运用者成功对敌人的兵器攻击进行反击时，恢复运用者1项低于初始值的真气；此功法防御结束时，将不可避免地被极长时间「封禁」
+When defending with this technique, all Weapon attacks and Break techniques of the enemy will be Resolved by the user unless they land a critical hit. If the user successfully Counters an enemy attack, the user will recover 1 point of True Qi that is below its initial value; At the end of this technique, it will always get "Sealed" for a long period of time
 Pure Virgin
 The higher the user's Charm, the more the user's Breath will increase.
 Reclamation\nStance
@@ -494,7 +494,7 @@ When defending with this technique, whenever the user successfully Counters an a
 Ghost Breath
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of "Level 2" Necrotoxin to the enemy.
 Silkworm Insanity
-敌人身上每被施种一种蛊虫，敌人随机类型的真气就会持续减少3点
+For each type of Gu applied to the enemy, enemy's random True Qi will be continuously reduced by 3 points
 Ghost Included
 Cause Weak Point
 When defending with this technique, All direct damage taken by the user other than critical hits is reduced by 60%; Whenever the user Resolves an enemy attack that isn't a follow-up attack, for every 2 "None" styles the enemy has, 1 serious Weak Point will appear on a random body part of the enemy. If the enemy doesn't have any "None" styles, the user applies 2 "None" styles to the enemy.
@@ -648,10 +648,10 @@ Step Alone a\nThousand Li
 Whenever you advance 1 distance with this Footwork, it restores your Stamina.
 Profound Bell\nStance
 Can't Interrupt
-此身法持续期间：敌人无法消除运用者的身法、脚力；运用者施展腿法需要消耗的脚力减半；运用者施展的腿法无法被打断
+During this Footwork: Enemy cannot remove user's Stamina; User can perform Kick Techniques without consuming Stamina; User's Kick Techniques cannot be Interrupted
 Shake Mountain
 Improve Stamina depletion
-此身法持续期间，提高运用者对敌人造成的脚力损耗
+During this Footwork, all Stamina loss caused by the user to the enemy will be increased
 Iron Bridge
 E·WP Accuracy Dn
 During this Footwork, when the distance between the user and the enemy is more than 5, the further the distance between the two, the lower the chance of the enemy hitting the user
@@ -674,7 +674,7 @@ Fairy Footsteps
 Move Closer
 During this Footwork, whenever the enemy attacks the user, the distance between the enemy and the user will immediately reduce by 2. The reduced distance will be restored after the attack ends
 Divine Swift
-此身法持续期间：敌人无法消除运用者的身法、脚力；运用者与敌人的距离不小于5时，运用者移动时不消耗脚力
+During this Footwork: Enemy cannot remove user's Stamina; When the distance between the user and the enemy is not less than 5, the user doesn't consume Stamina when moving
 Above The Sky
 Enhanced Finesse gain
 Cause Critical Hit
@@ -706,7 +706,7 @@ Cause Weak Point and Sealed Acupoint
 When advancing with this Footwork, the user needs to prepare to jump, up to 4 distance at once. If the user prepares to jump inside of the enemy's attack range, the farther the user advances, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Wooden Track
 Reduced movement loss
-此身法持续期间，降低敌人对运用者造成的脚力损耗
+During this Footwork, all Stamina loss caused by the enemy to the user will be reduced
 Car Driving Chapter
 During this Footwork, whenever the user hits an enemy with a "Mech. Bird" weapon, user's Stamina will be restored.
 All Directions
@@ -718,7 +718,7 @@ Increase DES
 During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the DES of the user's weapon will be greatly increased
 Dragon Riding
 Stamina instead of Stance
-此身法持续期间：敌人无法消除运用者的身法、脚力；运用者的脚力可代替运用者的架势消耗，且由脚力代为消耗的部分消耗量降低50%
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; User's Stamina will be used to replace Stance costs, and when replacing Stance, Stamina consumption will be reduced by 50%
 Tiankai Flowing Meteor Style
 Enhanced Might gain
 During this Footwork: the Might of the user will not be reduced by any effect; all Might-raising techniques and buff effects that the user receives are greatly increased
@@ -731,10 +731,10 @@ Water Floating\nSteps
 Improve Finesse of Kick Techniques
 The Finesse of Kick Techniques performed with this Footwork will be greatly increased
 Mount Chai's\nSkyline
-运用者以此身法主动施展腿法的过程中，敌人对运用者造成的直接外伤降低60%
+While actively performing a Kick Technique using this Footwork, user will receive 60% less direct External Damage from the enemy
 Flood Dragon\nStirs Ocean
 Extra Kick
-只要运用者以此身法主动施展的腿法发挥$0$成威力，运用者就能够无消耗施展其它品阶稍低的不同腿法继续攻击敌人
+When actively performing a Kick Technique using this Footwork, as long as it reaches $0$0% completion, the user will be able to continuously attack the enemy with other Kick Techniques of a lower tier without any cost
 Stone Sink
 Use Might to Resolve
 During this Footwork, as long as the enemy doesn't have effects that change the way they Resolve attacks, all weapon attacks of the user will use the Might accuracy value.
@@ -750,7 +750,7 @@ Breakthrough Swamp
 The movement speed of the user will not be reduced for any reason during this Footwork
 Toad Leap
 Reduced Footwork consumption
-以此身法前进时，运用者需积蓄力量一次性移动1距离，如果运用者下次积蓄力量前，未进行过攻击，运用者以此身法前进时消耗的脚力累积降低
+When advancing with this Footwork, the user needs to prepare to jump 1 distance at once. If the user hasn't attacked before the next preparation, the amount of Stamina consumed to advance will be continuously reduced
 Flying Head
 Heal Weak Points and Sealed Acupoints
 During this Footwork, when the distance between the user and the enemy is not less than 5, the user won't receive any Weak Points or Sealed Acupoints
@@ -773,7 +773,7 @@ Sky River Walk
 During this Footwork, whenever the user advances 1 distance, user absorbs 1 point of "Break" True Qi from the enemy
 Riding Five\nCarriages
 Accelerated mobile storage
-以此身法前进时，运用者积蓄力量一次性移动2距离，随后下一次以此身法积蓄力量移动时，积蓄力量所需时间大幅降低 
+When advancing with this Footwork, the user needs to prepare to jump 2 distance at once. After each jump, the preparation time before each jump will be greatly reduced
 Divine Rope
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; Whenever the user attacks the enemy, the distance between the enemy and the user will immediately reduce by 4. The reduced distance will be restored after the attack ends
 Seven-Star Spin
@@ -785,7 +785,7 @@ Moving Star
 Change DIstance
 When this Footwork is used, the distance between the user and the enemy changes to 9; During this Footwork, the enemy cannot actively move closer to the user
 Barefoot
-此身法持续期间：运用者不会因为任何原因而被动向后移动，敌人向后移动消耗的脚力额外提高
+During this Footwork: The user will not be moved backwards for any reason, and the enemy will have to consume more Stamina to move backwards
 Drunk 8 Immortals
 Recover Inhale
 During this Footwork, whenever the user moves 0.5 distance within the enemy's Attack Range, the user will have a chance to recover either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
@@ -811,10 +811,10 @@ Direct External Damage to the enemy caused by the user's Kick Techniques perform
 Flying Zombies
 External injuries cannot be reduced
 Restore Your Footwork
-运用者以此身法对敌人施展腿法造成的直接外伤无法被任何效果降低，且腿法发挥十成威力时，恢复运用者的脚力
+When performing a Kick Technique using this Footwork, the direct External Damage caused by the user's Kick Technique will not be reduced by any effect, and if a Kick Technique reaches 100% completion, user's Stamina will be restored
 Little Leap
 0 skill cost
-以此身法移动时，有较高的几率不消耗脚力
+When moving with this Footwork, there's a high chance of not consuming Stamina
 Mountain\nPushing Palm
 Increase your Might
 After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more user's Might will be increased when attacking the enemy
@@ -872,7 +872,7 @@ Based on completion percentage of this technique, increases the strength of 1 bu
 General's\n16 Spear
 When you start performing this technique, the more Constitution the user has not consumed, the more the power of this technique will increase
 Spear of\nUniverse
-施展此功法的过程中，运用者可以前进最多3距离，且脚力消耗减半，运用者前进的距离越远，此功法的威力就增加越多，运用者每前进0.2距离就能够获得3点「摧破」真气、3点「护体」真气
+While performing this technique, user can advance up to 3 distance, and the consumption of Stamina will be halved. The further the user advances, the more the power of this technique will increase. For every 0.2 distance the user advances, user will gain 3 points of "Break" and "Aegis" True Qi
 Spear of\nMountain-Shaking Beasts
 Switch E·Weapon
 When you start performing this technique, if the enemy isn't using an "Aegis" technique, the enemy will immediately drop their currently held Weapon if they can, and switch to Bare Hands. Afterwards, they will temporarily be unable to switch their weapons
@@ -990,7 +990,7 @@ Cast E·Skill
 Interrupting the performance of gongfu
 As long as the user can use the styles required to perform this technique, this technique can be performed using enemy's styles; After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever the enemy uses a "Break" technique that requires "Hack", "Stab", or "Slash" styles, if the user can use these styles, the user will immediately perform the same technique using the power of this technique without any consumption. If the user hits the enemy with the same technique before the enemy, it will "Interrupt" enemy's technique, and cumulatively increase the power of this technique until the end of the battle
 Tripping Spell
-此符咒发挥$0$成威力时，大幅损耗敌人的脚力
+When this spell reaches $0$0% completion, enemy's Stamina will be greatly depleted
 Disable
 Blocking the Break of the enemy
 When this spell reaches $0$0% completion, 1 "Break" technique of the enemy that isn't permanently Sealed will be "Sealed" for a very short period of time; The damage of the "Sealed" technique will be reduced, lasting until the enemy uses it; After casting this spell, the power of this spell will increase until the technique Sealed by this spell gets unsealed
@@ -1062,7 +1062,7 @@ Small 8 Moves\nof Gold Clank
 Lowering the enemy's External Defense
 This technique cannot be Reflected; When attacking enemy with this technique, if the enemy's External Defense is higher than the user's External Penetration, after this technique is performed, a buff that increases the External Penetration will be applied to the user, and a debuff that decreases the External Defense will be applied to the enemy
 Flood Dragon's\nWagging Tail
-战斗开始时，运用者获得3层此效果：每当运用者的战败标记总数产生变化且超过战败条件的一半时，如果敌人在此功法的攻击范围内，运用者从施展进度75%开始无消耗施展此功法攻击敌人，且根据运用者的外伤标记数量提高对敌人造成的直接外伤
+At the start of the battle, user gains 3 layers of this effect: Whenever the total number of user's Defeat Markers exceeds half of the Defeat Condition, if the enemy is within the attack range of this technique, user will start performing this technique without consumption from 75% of it's progress, and its direct damage will be increased by the amount of External Injuries the user has
 Flood Dragon's\nRolling Kick
 Remove Your Impairments
 Reduce Weak Points and Sealed Acupoints
@@ -1155,8 +1155,8 @@ Dragon-Defeated\nStaff
 If the weapon held by user is specifically "Polearm·Dragon Vanquisher", when this technique reaches $0$0% completion it will reduce enemy's "attack tokens" and "Polearm·Dragon Vanquisher" will become Unleashed, allowing all "Polearm Techniques" to reduce enemy's "attack tokens" when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's "attack tokens" when they reach $0$0% completion
 Staff of\nSweep Cloud
-如果运用者使用的兵器为“扫霞棍”，此功法发挥$0$成威力时，损耗敌人的脚力，且“扫霞棍”得以解封，此长兵能够使所有「长兵」功法在发挥$0$成威力时，损耗敌人的脚力，持续直到其它兵器解封或战斗结束
-已解封：此长兵能够使所有「长兵」功法在发挥$0$成威力时，损耗敌人的脚力
+If the weapon held by user is specifically "Polearm·Rainbow Whisk", when this technique reaches $0$0% completion it will reduce enemy's Stamina, and "Polearm·Rainbow Whisk" will become Unleashed, allowing all "Polearm Techniques" to reduce enemy's Stamina when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
+Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's Stamina when they reach $0$0% completion
 Staff of\n10 Directions
 If the weapon held by user is specifically "Polearm·Mountain Shaken", when this technique reaches $0$0% completion it will "Interrupt" enemy's Healing, Detox, or Escape, and "Polearm·Mountain Shaken" will become Unleashed, allowing all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
 Unleashed: This Polearm enables all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$0% completion
@@ -1237,7 +1237,7 @@ At the start of the battle, the user gains 6 Gu Charges; When this technique rea
 Internal Demon\nDescent
 Deplete Random True Qi
 Additional loss of true qi
-此功法发挥$0$成威力时，为敌人种下未识主的心魔若蛊；心魔若蛊会在宿主的真气减少时，使宿主随机类型的真气再减少2点，并根据宿主原本减少的真气数量使对手获得蛊引，最多获得90只蛊引
+When this technique reaches $0$0% completion, it implants the enemy with an untamed Premature Internal Demon Gu; The Premature Internal Demon Gu will decrease host's random True Qi by 2 points whenever host's True Qi gets decreased, and will cause the user to obtain Gu Charges based on the original True Qi decrease, up to a maximum of 90 Gu Charges.
 9 Yin Chi Corpse Gu
 Increase Damage Taken
 Increase Fatal Wound Damage Taken
@@ -1265,7 +1265,7 @@ Transferring the power of techniques
 When this technique hits the enemy, but fails to reach $0$0% completion, portion of power of 2 random "Break" techniques of the user will be transferred to this technique. This effect lasts until this technique reaches $0$0% completion, and then the transferred power will be restored and multiplied, lasting until the end of the battle.
 Soul Chasing\nSwordsmanship
 Free Movement
-施展此功法的过程中，运用者可以不消耗脚力地前进最多3距离，运用者前进的距离越远，此功法的威力就增加越多
+While performing this technique, the user can advance up to 3 distance without consuming Stamina, and the farther the user advances, the more the power of this technique will increase
 Holy Ruler\nSwordsmanship
 When this technique reaches $0$0% completion, 3 "Earth", 2 "Water", and 1 "Wood" technique of the enemy will be "Sealed" for a short period of time.
 Swordsmanship\nof Azure Spider
@@ -1282,7 +1282,7 @@ Hetero to Ortho
 After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Whip" technique performed by the user will transform from Heterodox to Orthodox version, and power of the transformed "Whip" technique will be greatly increased.
 Bone-Breaking\nWhip
 Dreadlord's\nMetallic Whip
-以此功法攻击敌人时：运用者的破甲大幅增加；此功法发挥$0$成威力时，消除敌人所有的脚力，并将敌人击退6距离
+When attacking the enemy with this technique: User's DES will be greatly increased; When this technique reaches $0$0% completion, all of the enemy's Stamina will get removed, and the enemy will get knocked back by 6 distance
 Jade Breaking
 User's Stamina can replace Stance when user's Stance isn't enough to perform this technique. When performed this way, the user will be able to move and attack while performing this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
 Spider Silk\nWhip
@@ -1314,8 +1314,8 @@ Great Jade Yang\nFist
 When you start performing this technique, the more the number of levels of the duration effect of all the "Break" techniques of the user approaches the maximum number of levels, the more the power of this technique increases.
 Dragon Palm
 Change skills
-此功法发挥$0$成威力后，运用者获得3层此效果：运用者施展的所有正练「拳掌」功法变化为此功法，被变化的功法的威力根据此功法的威力大幅增加，持续直到战斗结束；变化而来的此功法的正练效果暂时变化为：“此功法发挥$0$成威力时，消除敌人运起的「护体」功法及所有的脚力”
-此功法发挥$0$成威力时，消除敌人运起的「护体」功法及所有的脚力
+After this technique reaches $0$0% completion, user gains 3 layers of this effect: All Orthodox "Fist Techniques" performed by the user will change into this technique, and based on power of this technique, their power will be greatly increased, lasting until the end of the battle; Orthodox Way of these techniques temporarily shifts to: "When this technique reaches $0$0% completion, enemy's "Aegis" technique and Stamina will be removed."
+When this technique reaches $0$0% completion, enemy's "Aegis" technique and Stamina will be removed
 Flying Sand
 When this technique reaches $0$0% completion, for every 3 "Throw" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
 Thunder Fire
@@ -1334,7 +1334,7 @@ Drunk Blade
 When you start performing this technique, you can eliminate up to 2 unusable forms of the user, and if the user is drunk, you can eliminate up to 3 unusable forms of the user, and the more you eliminate, the more the power of this technique will increase.
 4 Slashes of\nDragontooth
 Force E·skill
-开始施展此功法时，如果敌人有任何可施展的「护体」功法，敌人会立即开始施展；施展此功法的过程中，敌人的「护体」功法的正练、逆练特殊效果无法生效；以此功法攻击敌人时，敌人运起的「护体」功法的品阶越高，此功法造成的直接外伤就提高越多
+When you start performing this technique, if the enemy has an "Aegis" technique that can be performed, the enemy will start to perform it immediately; While performing this technique, the Orthodox/Heterodox effects of the enemy's "Aegis" techniques won't work; The higher the tier of the performed "Aegis" technique, the more the direct External Damage of this technique will increase
 Blade of\nMindsets And Thoughts
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: all "Break" techniques performed by user will be affected by the lasting power increase effect of another "Break" technique of the user with the highest lasting power increase effect; If user is drunk, this effect will be greatly increased.
 81 Slashes of\nMadness Dragon
@@ -1374,7 +1374,7 @@ At the start of the battle, the user gains 0 layers of this effect: Every time t
 Blade of\nVajra Fall
 When this technique reaches $0$0% completion, if the enemy's "Aegis" True Qi isn't lower than its initial value, the enemy will lose 30 points of "Aegis" True Qi. Otherwise, the enemy will lose 10 points
 Vajra Prajna\nBlade
-此功法发挥$0$成威力时，使敌人的3个「紫霞」功法、2个「归元」功法、1个「金刚」功法被短时间「封禁」
+When this technique reaches $0$0% completion, 3 "Wood", 2 "Earth", and 1 "Metal" technique of the enemy will be "Sealed" for a short period of time.
 Ruyibaolun\nBlade
 Steal Buff
 After this technique reaches $0$0% completion, user gains 2 layers of this effect: Whenever an enemy gains a buff not from this skill, its strength gets doubled, and then it gets transferred to the user, making the enemy receive an opposing debuff in the process
@@ -1448,7 +1448,7 @@ When this technique reaches $0$0% completion, if the user has any effects that w
 Throw\nTweet-Dragon
 When you start performing this technique, the more "Kill" styles the user has arranged together, the more the power of this technique will increase; When attacking the enemy with this technique, consume all "Kill" styles of the user that are arranged together to greatly increase the direct damage of this technique
 Divine Needle\nof Shadow-Stopped
-此功法发挥$0$成威力后，运用者获得3层此效果：每当运用者获得「杀」式，损耗敌人所有的脚力
+After this technique reaches $0$0% completion, the user gains 3 layers of this effect: Whenever the user gains a "Kill" style, enemy's Stamina will be completely depleted
 Divine\nNone-Thought
 Concealed weapons gain spirituality
 Hidden Weapons auto attack
@@ -1469,7 +1469,7 @@ When attacking the enemy with this technique, all "Kill" styles of the user that
 Swordsmanship\nof Netherworld
 When this technique reaches $0$0% completion, 3 "Fire" techniques of the enemy will be "Sealed" for a long time.
 Seven-Severing\nPerfect Sword
-此功法发挥$0$成威力后，运用者获得7层此效果：每当运用者的「杀」式发生变化且被排列在一起，如果此功法未被封禁，运用者从施展进度100%开始立即无消耗施展六阶「剑法」攻击敌人，运用者每多1个排列在一起的「杀」式，运用者可施展的「剑法」品阶也会提升，最高施展四阶的「剑法」；此效果生效时，将极短时间不可避免地封禁此功法
+After this technique reaches $0$0% completion, user gains 7 layers of this effect: Whenever the user's "Kill" styles get arranged together, if this technique is not Sealed, user will immediately perform a T6 "Sword Technique" from 100% of its progress without any consumption. For every additional "Kill" style aligned together, the level of "Sword Technique" that can be performed by this skill increases by one, up to a maximum of T4; When this effect activates, this technique will always become "Sealed" for a very short amount of time
 Mysterious\nSword Intent
 When attacking the enemy with this technique, the deeper the enemy is poisoned with Cryotoxin, the more direct damage this technique will deal; If this technique attacks a body part that already has an Injury marker on it, its direct damage will not be reduced for any reason
 Crazy Dog Fist
@@ -1478,7 +1478,7 @@ When you start performing this technique, user gains 6 layers of this effect: Al
 Heartbreak Palm
 72 Hellbound\nFist
 Leg Injured
-开始施展此功法时，敌人“伤坏”的部位越多，此功法的威力就增加越多；此功法发挥$0$成威力时，使敌人有外伤的腿足“膝踵伤坏”；“膝踵伤坏”者的最大脚力值减半，且受创者腿足的外伤标记达到4个即视为腿足残毁，直到受创者治愈了所有腿足的外伤，此创伤才会消失
+When you start performing this technique, the more body parts of the enemy have "Injured" status, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will cause enemy's Leg to be "Injured" if it has an Ext. Injury on it; The person who has "Leg Injured" status will only get half of the Stamina bar. In addition, if there are 4 Ext. Injuries on the victim's Leg, it will be considered as a Broken Leg, which won't disappear until the victim heals all Ext. Injuries on their Leg
 Zombie\nPoison Palm
 Skill Can't be Blocked
 After this technique reaches $0$0% completion, user gains 10 layers of this effect: Necrotoxin applied by the user's "Break" techniques on the enemy will be raised from "Level 1" to "Level 2" and from "Level 2" to "Level 3". User's "Break" techniques the have Necrotoxin on them will also be immune to being Deflected, Sealed, or Interrupted.
@@ -1533,7 +1533,7 @@ When hitting the enemy with this technique, the more innate five elements within
 Blood Shadow\nKick
 Dn Cast Cost
 Consume Break True Qi
-如果运用者的「摧破」真气高于初始值且高于敌人的「摧破」真气，此功法需要消耗的提气、架势、脚力降低75%，且此功法的威力大幅增加，且此功法施展结束时，运用者失去12点「摧破」真气
+If the user's "Break" True Qi is higher than its initial value, and higher than the enemy's "Break" True Qi, the amount of Inhale, Stance, and Stamina required to perform this technique will be reduced by 75%, and when used under this effect the power of this technique will be greatly increased, but the user will lose 12 points of "Break" True Qi at the end of the technique
 Ghost Poison\nSand
 Change styles
 When this technique reaches $0$0% completion, it will change up to 2 unusable styles of the user into "Toxic" styles
@@ -1610,7 +1610,7 @@ While performing this technique, the user can perform any "Aegis" technique with
 36 Close Hands
 Cancel Unusable Style
 After this technique reaches $0$0% completion, the user gains 18 layers of this effect: Whenever the enemy tries to add an unusable style to the user, the same number of layers of this effect will be consumed to cancel it out
-Rejuvenation\nFinger
+Duck Imitating Fist
 Reduce Enemy Crisis
 When you start performing this technique, the lower the enemy's sense of crisis is, the more the power of this technique will increase; When this technique fails to reach $0$0% completion, enemy's sense of crisis will be reduced
 12 Hands of\nSilk Fist
@@ -1653,7 +1653,7 @@ Improve your Swiftness
 After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more user's Swiftness will be increased when attacking the enemy
 Swordsmanship\nof Hidden Swordmaster
 After this technique reaches $0$0% completion, user gains 4 layers of this effect: all "Hack" and "Slash" styles that user gains will be changed to "Stab" styles
-Swordsmanship\nof White Eyebrow
+Way of the\nBaimei Sword
 Swordsmanship\nof Lotus
 When this technique inflicts at least 1 direct External Injury or Fatal Wound to the enemy, it inflicts 1 additional higher leveled Sealed Acupoint on the enemy's attacked body part.
 Swordsmanship\nof Yue Maiden
@@ -1767,7 +1767,7 @@ At the start of the battle, or when this technique changes from Heterodox practi
 Wudang\nSwordsmanship
 Based on completion percentage of this technique, the power of all "Nadis" techniques of the user will be increased by 20% until the end of the battle.
 Wudang\nSwordsmanship of Unfettered
-施展此功法的过程中，运用者可以不消耗脚力的前进最多2距离
+While performing this technique, the user can advance up to 2 distance without consuming Stamina
 Plain Rainbow\nSword
 Extra Move
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy retreats 1 distance, user will immediately advance 1 distance. When layers of this effect get exhausted, if the enemy is within the user's attack range, user will immediately perform this technique from 75% of its progress without any consumption. When performed this way, this technique won't give layers of effect.
@@ -1777,7 +1777,7 @@ Pure Yang\nSword Intent
 When you start performing this technique, if the user is a virgin, the power of this technique will be increased based on the user's Int Ratio Bonus
 Swordsmanship\nof Roving Dragon
 Backing up while operating
-战斗开始时，运用者获得0层此效果：每当运用者在非施展功法的过程中累积前进1距离，此效果增加1层，最多增加4层；运用者可以在施展任何「摧破」功法的过程中后退相当于此效果层数的距离，且脚力消耗减半，此次施展摧破期间，运用者每累积后退2距离，此效果减少1层
+At the start of the battle, user gains 0 layers of this effect: Whenever the user advances 1 distance while not casting any technique, this effect increases by 1 layer, up to 4 layers; Under this effect, user can retreat a distance equal to the number of layers of this effect during the cast of any "Break" technique with halved Stamina consumption. This effect decreases by 1 layer for every 2 distance retreated during the cast of "Break" techniques
 Swordsmanship\nof Taichi
 Reduce enemy attack
 After this technique reaches $0$0% completion, user gains 5 layers of this effect: When enemy attacks the user with a weapon, the chances of non-Breath attacks hitting the user are greatly reduced, and whenever the user Resolves enemy's attack that isn't a follow-up or Breath attack, enemy will receive a debuff that reduces External and Internal Penetration
@@ -1806,7 +1806,7 @@ When this technique reaches $0$0% completion, it completely eliminates power deb
 Yuanshan\nJump Kick
 Whenever the user chases an enemy at least 2 times with "Blade", if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Orthodox to Heterodox practice
 Mandarin Duck\nCombo Kick
-此功法发挥$0$成威力后，施展此功法需要消耗的架势、脚力降低，最多降低75%，持续直到战斗结束
+After this technique reaches $0$0% completion, the Stance and Stamina required to perform this technique will be reduced by up to 75%, lasting until the end of the battle
 Tiger Tail
 At the start of the battle, user gains 3 layers of this effect: When enemy attacks the user from a distance greater than the user's maximum attack range, the attack range of this technique becomes greatly increased, and user immediately performs this technique from 50% of its progress without any consumption; When active performance of this skill reaches $0$0% completion, this effect regains 1 layer
 8 Steps of\nSquared Up
@@ -1840,7 +1840,7 @@ Swordsmanship\nof Supreme Bodhi
 Reversal is less powerful
 This technique cannot be reflected; After this technique reaches $0$0% completion, user gains 2 layers of this effect: When user performs a "Break" technique, any power debuff affecting that technique will be temporarily doubled and changed into a power buff
 Swordsmanship\nof Dharma
-根据此功法发挥的威力成数与运用者施展此功法消耗的非摧破效果提供的架势值，运用者获得最多200层此效果：运用者施展「摧破」功法时，会先以此效果层数替代提气消耗，消耗的越多，运用者的破体、破气就提高越多
+Based on completion percentage of this technique, and the amount of Stance it consumes, the user will get up to 200 layers of this effect: Whenever the user performs a "Break" technique, the layers of this effect will replace its Inhale consumption, and the more layers get consumed, the more the user's External and Internal Penetration will be increased
 Blade of\nTrigrams And Elements
 After this technique reaches $0$0% completion, switch cooldown of user's weapons will be reduced by 50%. If the weapon held by the user is a "Blade" and can be switched to a "Sword", the user immediately switched to a "Sword" and gains 1 "attack token"
 Blade of\n6 Directions
@@ -1855,7 +1855,7 @@ When this technique fails to reach $0$0% completion, user retreats 2 distances a
 Heavenly Spirit\nBlade
 When you attack enemy with this technique, if enemy's dominant internal element is "Water" or "Fire", it will eliminate enemy's "Aegis" and "Quick" techniques, and reduce the continuous effect of 3 "Break" techniques of the enemy to 0 layers
 Divine Blade\nof Mysterious
-根据此功法发挥的威力成数与运用者施展此功法消耗的非摧破效果提供的提气值，运用者获得最多200层此效果：运用者施展「摧破」功法时，会先以此效果层数替代架势消耗，消耗的越多，运用者的破体、破气就提高越多
+Based on completion percentage of this technique, and the amount of Inhale it consumes, the user will get up to 200 layers of this effect: Whenever the user performs a "Break" technique, the layers of this effect will replace its Stance consumption, and the more layers get consumed, the more the user's External and Internal Penetration will be increased
 Reverse -  Zen Meditation
 Reduces the usage requirements of "Shaolin" techniques by 20%
 Reverse -  Arhat Meditation
@@ -1879,9 +1879,9 @@ Increase All True Qi
 At the start of the battle, all True Qi of the user will increase to 2 times of their initial value. All Fatal Wound damage except for External taken by the user will be doubled; If the user is a virgin male, the power of all of the user's techniques will be increased, and user will always have a youthful appearance.
 Reverse -  Dantian Opening and Closing Gong
 Reduces the usage requirements of "Emei Sect" techniques by 20%
-Reverse -  Emei Twelve Piles
+Reverse - Twelve Postures\nof Emei
 The higher the user's "Wood" internal element, the more the user's External and Internal Penetration will be increased, by up to 20%. (Bonus = 0.2 * [elemental value])
-Reverse -  Innate One Element Qigong
+Reverse - Innate Origin Qi\nTechnique
 User's "Wood" techniques will deal more direct damage and backlash damage to characters whose internal element is "Metal"
 Reverse -  Spiritual Enlightenment
 Reduce Technique Power
@@ -2098,8 +2098,8 @@ When defending with this technique: All direct damage taken by the user will be 
 Reverse - Small Arhat\nRod Formation
 When using "Defend" order, it will greatly increase the power of teammate's "Aegis" technique
 Reverse - Buddhism\nLion Roar
-降敌护体能力
-每当运用者主动开始施展「摧破」类功法，如果敌人在运用者的攻击范围之内，消除敌人运起的护体，且运用者施展功法的过程中，敌人施展护体所需消耗的气势加倍，敌人的武具发挥、步伐稳定、引气冲关也会变化为最低
+Hinder Enemy's Ability to Defend
+Whenever the user starts performing a "Break" technique, if the enemy is within the user's Attack Range, enemy's "Aegis" technique will be removed, and while the user is performing the technique, Stance and Inhale cost of enemy's "Aegis" techniques will be doubled, and their Equipment Efficiency, Ext. Recovery, and Int. Recovery will be lowered to minimum
 Reverse - Hunyuan\nBreathing
 Increase internal injury reflect
 When defending with this technique, as long as the attacked body part of the user doesn't have Sealed Acupoints, the Internal Reflect of this technique will be greatly increased
@@ -2170,7 +2170,7 @@ When defending with this technique: As long as the enemy attack isn't a critical
 Reverse - 3 Flower On Top
 If all True Qi of the user isn't lower than its initial value, the power of this technique will continuously increase, up to 2 times higher than the original power of this technique. If not, the power of this technique will be halved and its power won't increase; When power of this technique isn't lower than 100%, the power of all techniques performed by the enemy will be reduced by a portion of this technique's power.
 Reverse - 9 Rollings
-以此功法进行防御时，每当运用者成功对敌人的兵器攻击进行反击，敌人的脚力就会受到损耗
+When defending with this technique, whenever the user successfully Counters an enemy weapon attack, enemy's Stamina will be depleted
 Reverse - Sword Or Blade
 Gain Style Change Progress
 Whenever the user switches to a different weapon type, the more "attack tokens" the switched weapon requires to attack, the more user's Style Change charge progress will increase
@@ -2195,7 +2195,7 @@ When defending with this technique, if the enemy's attack includes both External
 Reverse - Overlord's\nTripod Lifting
 The heavier the weapon of the user, the more direct damage the enemy inflicts on the user will be reduced.
 Reverse - Lion Roar
-When the battle starts and also when the total number of defeat marks of the user exceeds half of the defeat condition, all of the enemy's Inhale and Stance are removed
+At the start of a battle and whenever the user's Defeat Markers exceed half of the Defeat Condition, enemy's Inhale and Stance will be depleted
 Reverse - Overlord's Armor Absorb
 When defending with this technique, whenever an enemy inflicts an injury or a Fatal Wound with direct damage on the user, both the enemy's and the user's "Break" True Qi will be lowered according to the number of injuries inflicted by the enemy, and the user's lost "Break" True Qi will be changed into "Aegis" True Qi
 Reverse - 5 Ghosts Handling
@@ -2215,7 +2215,7 @@ Reverse - Elephant Imitation
 Diverting enemy gain
 When defending with this technique: All direct damage taken by the user is reduced by 45%; Whenever the user Reflects an enemy attack, 1 buff is transferred from the enemy to the user
 Reverse - Myriad Changes\nRewind
-以此功法进行防御时，除非运用者被敌人命中要害，否则敌人的兵器攻击、摧破攻击均会被运用者化解，且运用者成功对敌人的兵器攻击进行反击时，损耗敌人1项高于初始值的真气；此功法防御结束时，将不可避免地被极长时间「封禁」
+When defending with this technique, all Weapon attacks and Break techniques of the enemy will be Resolved by the user unless they land a critical hit. If the user successfully Counters an enemy attack, the enemy will lose 1 point of True Qi that is above its initial value; At the end of this technique, it will always get "Sealed" for a long period of time
 Reverse - Pure Virgin
 The higher the user's Charm, the more the user's Focus will increase.
 Reverse - Reclamation\nStance
@@ -2303,7 +2303,7 @@ When defending with this technique, whenever the user successfully Counters an a
 Reverse - Ghost Breath
 When defending with this technique, whenever the user successfully counters an enemy's weapon attack, the user applies a large amount of "Level 2" Oneirotoxin to the enemy.
 Reverse - Silkworm Insanity
-运用者身上每被施种一种蛊虫，运用者随机类型的真气就会持续增加3点
+For each type of Gu applied to the user, user's random True Qi will be continuously increased by 3 points
 Reverse - Ghost Included
 When defending with this technique, All direct damage taken by the user other than critical hits is reduced by 60%; Whenever the user Resolves an enemy attack that isn't a follow-up attack, for every 2 Daze markers the enemy has, 1 serious Sealed Acupoint will appear on a random body part of the enemy. If the enemy doesn't have any Daze markers, the user applies 2 Daze markers to the enemy.
 Reverse - Sky Snake Bone Exchange
@@ -2436,7 +2436,7 @@ Whenever you retreat 1 distance with this Footwork, your Stamina gets restored.
 Reverse - Profound BellStance
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; Inhale and Stance cost of user's Kick Techniques is halved; User's Kick Techniques cannot be Interrupted
 Reverse - Shake Mountain
-此身法持续期间，每当运用者以直接伤害对敌人造成伤势或重创标记，损耗敌人的脚力
+During this Footwork, whenever the user inflicts an Injury or a Fatal Wound marker on the enemy with direct damage, enemy's Stamina gets depleted
 Reverse - Iron Bridge
 During this Footwork, when the distance between the user and the enemy is less than 7, the closer the distance between the two, the lower the chance of the enemy hitting the user.
 Reverse - Chain of River-Block
@@ -2481,7 +2481,7 @@ During this Footwork, whenever the user retreats 2 distance: User's Inhale and S
 Reverse - Feather Stance
 When retreating with this Footwork, the user needs to prepare to jump, up to 4 distance at once. If the user prepares to jump inside of the enemy's attack range, the farther the user retreats, the more random body parts of the enemy will receive Weak Points and Sealed Acupoints.
 Reverse - Wooden Track
-此身法持续期间，每当敌人以直接伤害对运用者造成伤势或重创标记，恢复运用者的脚力
+During this Footwork, whenever the enemy inflicts an Injury or a Fatal Wound marker on the user with direct damage, user's Stamina gets restored
 Reverse - Car Driving Chapter
 During this Footwork, whenever the user hits an enemy with a "Mech. Bird" weapon, enemy's Stamina will be depleted.
 Reverse - All Directions
@@ -2493,7 +2493,7 @@ Increase weapon toughness
 During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the Hardness of the user's weapon will be greatly increased
 Reverse - Dragon Riding
 Stamina instead of Inhale
-此身法持续期间：敌人无法消除运用者的身法、脚力；运用者的脚力可代替运用者的提气消耗，且由脚力代为消耗的部分消耗量降低50%
+During this Footwork: Enemy cannot remove user's Footwork or Stamina; User's Stamina will be used to replace Inhale costs, and when replacing Inhale, Stamina consumption will be reduced by 50%
 Reverse -  Tenkai Flow Meteor Style
 Increase Diversion Debuffs
 During this Footwork: the enemy's Diversion will not be increased by any effect; all techniques and debuffs that reduce the enemy's Diversion will be greatly increased
@@ -2504,9 +2504,9 @@ During this Footwork, whenever the user hits an enemy with a "Poison Pouch" weap
 Reverse - Water Floating\nSteps
 When using Kick Techniques with this Footwork, your Accuracies will be shifted towards Finesse
 Reverse - Mount Chai's\nSkyline
-运用者以此身法主动施展腿法的过程中，敌人对运用者造成的直接内伤降低60%
+While actively performing a Kick Technique using this Footwork, user will receive 60% less direct Internal Damage from the enemy
 Reverse - Flood Dragon\nStirs Ocean
-只要运用者以此身法主动施展的腿法能够发挥$0$成威力，运用者就能够无消耗施展其它品阶稍高的不同腿法继续攻击敌人
+When actively performing a Kick Technique using this Footwork, as long as it reaches $0$0% completion, the user will be able to continuously attack the enemy with other Kick Techniques of a higher tier without any cost
 Reverse - Stone Sink
 Use Diversion to Resolve
 During this Footwork, as long as the enemy doesn't have effects that change the way they attack, all weapon attacks of the enemy will be Resolved by the user's Diversion value.
@@ -2522,7 +2522,7 @@ Reverse - Breakthrough Swamp
 Prohibit moving gain
 During this Footwork, the enemy's movement speed cannot be increased for any reason
 Reverse - Toad Leap
-以此身法后退时，运用者需积蓄力量一次性移动1距离，如果运用者下次积蓄力量前，未进行过攻击，运用者以此身法后退时消耗的脚力累积降低
+When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. If the user hasn't attacked before the next preparation, the amount of Stamina consumed to retreat will be continuously reduced
 Reverse - Flying Head
 During this Footwork, when the distance between the enemy and me is not greater than 7, the user won't receive new Weak Points or Sealed Acupoints
 Reverse - Rope Overhang
@@ -2542,7 +2542,7 @@ During this Footwork, whenever the user hits an enemy with a "Hidden Weapons" we
 Reverse - Sky River Walk
 During this Footwork, whenever the user retreats 1 distance, user absorbs 1 point of "Aegis" True Qi from the enemy
 Reverse - Riding Five\nCarriages
-以此身法后退时，运用者积蓄力量一次性移动2距离，随后下一次以此身法积蓄力量移动时，积蓄力量所需时间大幅降低
+When retreating with this Footwork, the user needs to prepare to jump 2 distance at once. After each jump, the preparation time before each jump will be greatly reduced
 Reverse - Divine Rope
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; Whenever the user attacks the enemy, the distance between the enemy and the user will immediately increase by 4. The reduced distance will be restored after the attack ends
 Reverse - Seven-Star Spin
@@ -2552,7 +2552,7 @@ When retreating with this Footwork, the user needs to prepare to jump, up to 5 d
 Reverse - Moving Star
 When this Footwork is used, the distance between the user and the enemy changes to 5; During this Footwork, the enemy cannot actively move away from the user
 Reverse - Barefoot
-此身法持续期间：运用者不会因为任何原因而被动向前移动，敌人向前移动消耗的脚力额外提高
+During this Footwork: The user will not be moved forward for any reason, and the enemy will have to consume more Stamina to move forward
 Reverse - Drunk 8 Immortals
 Deplete Attack Tokens
 During this Footwork, whenever the enemy moves 0.5 distance within the user's Attack Range, the enemy will have a chance to deplete either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
@@ -2610,7 +2610,7 @@ When this technique reaches $0$0% completion, for every 1 "Hack" style the user 
 Reverse - Tremendous\nEffort Blade
 When you start performing this technique, the more Strength the user has consumed, the more the power of this technique will increase
 Reverse - Ao Slaying\nBlade
-此功法对敌人腿脚造成的直接伤害提高45%；此功法发挥$0$成威力时，损耗敌人所有的脚力
+When hitting enemy's Leg, direct damage of this technique increases by 45%; When this technique reaches $0$0% completion, it fully depletes enemy's Stamina
 Reverse - Overlord Blade
 After this technique reaches $0$0% completion, user gains 8 layers of this effect: Whenever enemy receives an Injury marker, layers of this effect get reduced by 1. While this effect is active, enemy cannot advance as long as the user is in the enemy's attack range.
 Reverse - Gold Lion Blade
@@ -2629,7 +2629,7 @@ Based on completion percentage of this technique, reduces the strength of 1 debu
 Reverse - General's\n16 Spear
 When you start performing this technique, the more Constitution the user has consumed, the more the power of this technique will increase
 Reverse - Spear of\nUniverse
-施展此功法的过程中，运用者可以后退最多3距离，且脚力消耗减半，运用者后退的距离越远，此功法的威力就增加越多，运用者每后退0.2距离就能够获得3点「摧破」真气、3点「护体」真气
+While performing this technique, user can retreat up to 3 distance, and the consumption of Stamina will be halved. The further the user retreats, the more the power of this technique will increase. For every 0.2 distance the user retreats, user will gain 3 points of "Break" and "Aegis" True Qi
 Reverse - Spear of\nMountain-Shaking Beasts
 When you start performing this technique, if the enemy isn't using an "Quick" technique, the enemy will immediately drop their currently held Weapon if they can, and switch to Bare Hands. Afterwards, they will temporarily be unable to switch their weapons
 Reverse - Lion Spear of\nMadness Dragon
@@ -2730,7 +2730,7 @@ Reverse - Ever-Changing\n14 Swordmanship
 Ignore Style Type
 As long as the user can use the styles required to perform this technique, this technique can be performed using any unusable styles of the user; After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever the enemy uses a "Break" technique that requires "Hack", "Stab", or "Slash" styles, if the user can use these styles, the user will immediately perform the same technique using the power of this technique without any consumption. If the user hits the enemy with the same technique before the enemy, it will "Interrupt" enemy's technique, and cumulatively increase the power of this technique until the end of the battle
 Reverse - Tripping Spell
-此符咒发挥$0$成威力时，大幅恢复运用者的脚力
+When this spell reaches $0$0% completion, user's Stamina will be greatly restored
 Reverse - Disable
 When this spell reaches $0$0% completion, 2 "Break" techniques of the enemy that aren't permanently Sealed will be "Sealed" for a short period of time; The damage of the "Sealed" techniques will be reduced, lasting until the enemy uses it; After casting this spell, it will always be "Sealed" for a long period of time.
 Reverse - Shocking Spell
@@ -2793,7 +2793,7 @@ Reverse - Small 8 Moves\nof Gold Clank
 E·Int.Def. Dn
 This technique cannot be Reflected; When attacking enemy with this technique, if the enemy's Internal Defense is higher than the user's Internal Penetration, after this technique is performed, a buff that increases the Internal Penetration will be applied to the user, and a debuff that decreases the Internal Defense will be applied to the enemy
 Reverse - Flood Dragon's\nWagging Tail
-战斗开始时，运用者获得3层此效果：每当运用者的战败标记总数产生变化且超过战败条件的一半时，如果敌人在此功法的攻击范围内，运用者从施展进度75%开始无消耗施展此功法攻击敌人，且根据运用者的内伤标记数量提高对敌人造成的直接内伤
+At the start of the battle, user gains 3 layers of this effect: Whenever the total number of user's Defeat Markers exceeds half of the Defeat Condition, if the enemy is within the attack range of this technique, user will start performing this technique without consumption from 75% of it's progress, and its direct damage will be increased by the amount of Internal Injuries the user has
 Reverse - Flood Dragon's\nRolling Kick
 While performing this technique, user can retreat up to 3 distance, and for every 0.2 distance the user retreats, 1 Injury marker and 1 debuff inflicted while performing this technique will be removed from the user; While performing this technique, user's Weak Points and Sealed Acupoints will recover at a faster rate
 Reverse - Great 8 Moves\nof Sea-Blocking
@@ -2857,7 +2857,7 @@ When you start performing this technique, if the weapon held by the enemy is a "
 Reverse - Dragon-Defeated\nStaff
 If user's Strength isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's "attack tokens", and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's "attack tokens" when reaching $0$0% completion.
 Reverse - Staff of\nSweep Cloud
-如果运用者的灵敏不低于70，此功法发挥$0$成威力时，损耗敌人的脚力，且运用者获得2层此效果：运用者施展的所有「长兵」功法在发挥$0$成威力时，损耗敌人的脚力
+If user's Agility isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's Stamina, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's Stamina when reaching $0$0% completion.
 Reverse - Staff of\n10 Directions
 If user's Constitution isn't less than 70, when this technique reaches $0$0% completion, it will "Interrupt" enemy's Healing, Detox, and Escape, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will "Interrupt" enemy's Healing, Detox, and Escape when reaching $0$0% completion.
 Reverse - Staff of\nGhost Head
@@ -2925,7 +2925,7 @@ At the start of the battle, the user gains 6 Gu Charges; When this technique rea
 Reverse - Internal Demon\nDescent
 Increase Random True Qi
 Additional increase of true qi
-此功法发挥$0$成威力时，为运用者种下已识主的心魔若蛊；心魔若蛊会在宿主的真气增加时，使宿主随机类型的真气再增加2点，并根据宿主原本增加的真气数量使宿主获得蛊引，最多获得90只蛊引
+When this technique reaches $0$0% completion, it implants the user with a tamed Premature Internal Demon Gu; The Premature Internal Demon Gu will increase host's random True Qi by 2 points whenever host's True Qi gets increased, and will cause the user to obtain Gu Charges based on the original True Qi increase, up to a maximum of 90 Gu Charges.
 Reverse - 9 Yin Chi Corpse Gu
 Reduce Break Damage
 At the start of the battle, the user gains 12 Gu Charges; When this technique reaches $0$0% completion, it implants the user with a tamed Premature Chi Corpse Gu; The Premature Chi Corpse Gu will greatly reduce direct damage taken by the host from "Break" techniques; The Premature Chi Corpse Gu needs to consume 12 Gu Charges from the host or the enemy after every trigger, otherwise it will die.
@@ -2948,7 +2948,7 @@ When this technique reaches $0$0% completion, for every 2 "Stab" styles on the u
 Reverse - Holy Wood\nSwordsmanship
 When this technique reaches $0$0% completion, part of its power will be transferred to 2 random "Break" techniques of the user. This effect lasts until this technique fails to reach $0$0% completion, then the transferred power will be restored and multiplied, lasting until the end of battle.
 Reverse - Soul Chasing\nSwordsmanship
-施展此功法的过程中，运用者可以不消耗脚力地后退最多3距离，运用者后退的距离越远，此功法的威力就增加越多
+While performing this technique, the user can retreat up to 3 distance without consuming Stamina, and the farther the user retreats, the more the power of this technique will increase
 Reverse - Holy Ruler\nSwordsmanship
 When this technique reaches $0$0% completion, the power of 3 "Earth", 2 "Water", and 1 "Wood" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Swordsmanship\nof Azure Spider
@@ -2965,7 +2965,7 @@ Reverse - Bone-Breaking\nWhip
 Extend Weak Point Duration
 When hitting enemy's Leg, direct damage of this technique increases by 45%; When this technique reaches $0$0% completion, duration of all Weak Points on the enemy gets increased to the maximum
 Reverse - Dreadlord's\nMetallic Whip
-以此功法攻击敌人时：运用者的破甲大幅增加；此功法发挥$0$成威力时，消除敌人所有的脚力，并将敌人拉近6距离
+When attacking the enemy with this technique: User's DES will be greatly increased; When this technique reaches $0$0% completion, all of the enemy's Stamina will get removed, and the enemy will get pulled closer by 6 distance
 Reverse - Jade Breaking
 User's Stamina can replace Inhale when user's Inhale isn't enough to perform this technique. When performed this way, the user will be able to move and attack while performing this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
 Reverse - Spider Silk\nWhip
@@ -2992,7 +2992,7 @@ When this technique reaches $0$0% completion, if enemy's dominant element is "Me
 Reverse - Great Jade Yang\nFist
 When you start performing this technique, the more the number of levels of the enemy's "Break" technique's lasting effect is close to its lower limit, the more the power of this technique increases.
 Reverse - Dragon Palm
-此功法发挥$0$成威力后，运用者获得3层此效果：运用者施展的所有逆练「拳掌」功法变化为此功法，被变化的功法的威力根据此功法的威力大幅增加，持续直到战斗结束；变化而来的此功法的逆练效果暂时变化为：“此功法发挥$0$成威力时，消除敌人运起的「护体」功法及所有的脚力”
+After this technique reaches $0$0% completion, user gains 3 layers of this effect: All Heterodox "Fist Techniques" performed by the user will change into this technique, and based on power of this technique, their power will be greatly increased, lasting until the end of the battle; Heterodox Way of these techniques temporarily shifts to: "When this technique reaches $0$0% completion, enemy's "Aegis" technique and Stamina will be removed."
 Reverse - Flying Sand
 Deal Extra Fatal Wound Damage
 When this technique reaches $0$0% completion, for every 1 "Throw" style the user has, user will inflict additional 10% of the direct damage caused by this technique to the enemy's attacked body part as Fatal Wound damage.
@@ -3011,7 +3011,7 @@ Based on completion percentage of this technique, the power of all "Break" techn
 Reverse - Drunk Blade
 When you start performing this technique, you can eliminate up to 2 usable forms of the enemy, and if the user is drunk, you can eliminate up to 3 usable forms of the enemy, and the more you eliminate, the more the power of this technique will increase.
 Reverse - 4 Slashes of\nDragontooth
-开始施展此功法时，如果敌人有任何可施展的「护体」功法，敌人会立即开始施展；施展此功法的过程中，敌人的「护体」功法的正练、逆练特殊效果无法生效；以此功法攻击敌人时，敌人运起的「护体」功法的品阶越高，此功法造成的直接内伤就提高越多
+When you start performing this technique, if the enemy has an "Aegis" technique that can be performed, the enemy will start to perform it immediately; While performing this technique, the Orthodox/Heterodox effects of the enemy's "Aegis" techniques won't work; The higher the tier of the performed "Aegis" technique, the more the direct Internal Damage of this technique will increase
 Reverse - Blade of\nMindsets And Thoughts
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: all "Break" techniques performed by enemy will be affected by the lasting power decrease effect of another "Break" technique of the user with the highest lasting power decrease effect; If user is drunk, this effect will be greatly increased.
 Reverse - 81 Slashes of\nMadness Dragon
@@ -3051,7 +3051,7 @@ At the start of the battle, the user gains 0 layers of this effect: Every time t
 Reverse - Blade of\nVajra Fall
 When this technique reaches $0$0% completion, if the enemy's "Aegis" True Qi isn't lower than its initial value, the user will steal 15 points of "Aegis" True Qi from the enemy. Otherwise, the user will steal 5 points
 Reverse - Vajra Prajna\nBlade
-此功法发挥$0$成威力时，使敌人的3个「紫霞」功法、2个「归元」功法、1个「金刚」功法威力减少，持续直到战斗结束
+When this technique reaches $0$0% completion, the power of 3 "Wood", 2 "Earth", and 1 "Metal" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Ruyibaolun\nBlade
 Transfer Debuff
 After this technique reaches $0$0% completion, user gains 2 layers of this effect: Whenever the user gains a debuff not from this skill, its strength gets doubled, and then it gets transferred to the enemy, making the user receive an opposing buff in the process
@@ -3115,7 +3115,7 @@ When this technique reaches $0$0% completion, if the user has any effects that w
 Reverse - Throw\nTweet-Dragon
 When you start performing this technique, the more "Kill" styles the enemy has arranged together, the more the power of this technique will increase; When attacking the enemy with this technique, consume all "Kill" styles of the enemy that are arranged together to greatly increase the direct damage of this technique
 Reverse - Divine Needle\nof Shadow-Stopped
-此功法发挥$0$成威力后，运用者获得3层此效果：每当敌人获得「杀」式，损耗敌人所有的脚力
+After this technique reaches $0$0% completion, the user gains 3 layers of this effect: Whenever the enemy gains a "Kill" style, enemy's Stamina will be completely depleted
 Reverse - Divine\nNone-Thought
 When you start performing this technique, If the weapon held by user has "Spirituality", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, the "Hidden Weapon" used to perform this technique will gain "Spirituality" for this battle. When this "Hidden Weapon" is not being held in hand by the user, when enemy obtains a "Kill" style, it will immediately attack the enemy regardless of the distance, without being affected by Counterattack or Reflect, and will always hit the enemy, but the user will not get any Stance or Styles from it.
 Spirituality: When this "Hidden Weapons" is not being held in hand by the user, when the user obtains the "Kill" style, it will immediately attack the enemy on its own, regardless of distance, without being affected by counterattack or reflect, and will always hit,, but the user will not get any Stance or Styles from it.
@@ -3132,7 +3132,7 @@ When attacking the enemy with this technique, all "Kill" styles of the enemy tha
 Reverse - Swordsmanship\nof Netherworld
 When this technique reaches $0$0% completion, it will reduce power of 3 "Fire" techniques of the enemy until the end of the battle
 Reverse - Seven-Severing\nPerfect Sword
-此功法发挥$0$成威力后，运用者获得7层此效果：每当敌人的「杀」式发生变化且被排列在一起，如果此功法未被封禁，运用者从施展进度100%开始立即无消耗施展六阶「剑法」攻击敌人，敌人每多1个排列在一起的「杀」式，运用者可施展的「剑法」品阶也会提升，最高施展四阶的「剑法」；此效果生效时，将极短时间不可避免地封禁此功法
+After this technique reaches $0$0% completion, user gains 7 layers of this effect: Whenever the enemy's "Kill" styles get arranged together, if this technique is not Sealed, user will immediately perform a T6 "Sword Technique" from 100% of its progress without any consumption. For every additional "Kill" style aligned together, the level of "Sword Technique" that can be performed by this skill increases by one, up to a maximum of T4; When this effect activates, this technique will always become "Sealed" for a very short amount of time
 Reverse - Mysterious\nSword Intent
 When attacking the enemy with this technique, the deeper the user is poisoned with Cryotoxin, the more direct damage this technique will deal; If this technique attacks a body part that already has an Injury marker on it, its direct damage will not be reduced for any reason
 Reverse - Crazy Dog Fist
@@ -3141,7 +3141,7 @@ Reverse - Heartbreak Palm
 When hitting enemy's Chest, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, it depletes enemy's Inhale
 Reverse - 72 Hellbound\nFist
 Heel paid
-开始施展此功法时，敌人“剧痛”的部位越多，此功法的威力就增加越多；此功法发挥$0$成威力时，使敌人有内伤的腿足“膝踵剧痛”；“膝踵剧痛”者的最大脚力值减半，且受创者腿足的内伤标记达到4个即视为腿足残毁，直到受创者治愈了所有腿足的内伤，此创伤才会消失
+When you start performing this technique, the more body parts of the enemy have "Agony" status, the more the power of this technique will increase; When this technique reaches $0$0% completion, it will cause enemy's Leg to be in "Agony" if it has an Int. Injury on it; The person who has "Leg Agony" status will only get half of the Stamina bar. In addition, if there are 4 Int. Injuries on the victim's Leg, it will be considered as a Broken Leg, which won't disappear until the victim heals all Int. Injuries on their Leg
 Reverse - Zombie\nPoison Palm
 When this technique reaches $0$0% completion, user gains 10 layers of this effect: Necrotoxin applied by the enemy's "Break" techniques on the user will be lowered from "Level 3" to "Level 2" and from "Level 2" to "Level 1". User will be able to Deflect enemy's "Break" techniques that have Necrotoxin on them, and if enemy's technique fails to break user's Deflect, enemy will suffer backlash damage from this technique
 Reverse - Blood Evil Palm
@@ -3189,7 +3189,7 @@ When this technique reaches $0$0% completion, the more Umbritoxin markers user h
 Reverse - Yama Ghost Kick
 When hitting the enemy with this technique, the more innate five elements that can restrain the enemy's internal five elements are buried within the field of vision of the user, the more the power of this technique will increase
 Reverse - Blood Shadow\nKick
-如果运用者的「摧破」真气低于初始值且低于敌人的「摧破」真气，此功法需要消耗的提气、架势、脚力降低75%，且此功法的威力大幅增加，且此功法施展结束时，运用者获得12点「摧破」真气
+If the user's "Break" True Qi is lower than its initial value, and lower than the enemy's "Break" True Qi, the amount of Inhale, Stance, and Stamina required to perform this technique will be reduced by 75%, and when used under this effect the power of this technique will be greatly increased, and the user will gain 12 points of "Break" True Qi at the end of the technique
 Reverse - Ghost Poison\nSand
 Change E·style
 When this technique reaches $0$0% completion, it will change up to 2 unusable styles of the enemy into "Toxic" styles
@@ -3260,13 +3260,13 @@ While performing this technique, the user can perform any "Aegis" technique with
 Reverse - 36 Close Hands
 Cancel Style Loss
 After this technique reaches $0$0% completion, the user gains 18 layers of this effect: Whenever the enemy tries to remove a usable style from the user, the same number of layers of this effect will be consumed to cancel it out
-Reverse - Duck Shape Fist
+Reverse - Duck Imitating Fist
 Increase Enemy Crisis
 When you start performing this technique, the higher the enemy's sense of crisis is, the more the power of this technique will increase; When this technique fails to reach $0$0% completion, enemy's sense of crisis will be increased
 Reverse - 12 Hands of\nSilk Fist
 As long as this technique isn't Resolved with Evasion by the enemy, the direct Internal Damage dealt by this technique will be greatly increased and won't be reduced for any reason.
 Reverse - White Ape's\nLong-Arm Fist
-根据此功法发挥的成数，大幅损耗敌人的脚力
+Based on completion percentage of this technique, enemy's Stamina will be depleted
 Reverse - Transfer Flower\nPicker
 Int. Def. to Ext. Def.
 When attacking the enemy with this technique, if the user's Agility is higher than the enemy's Agility, a portion of enemy's Internal Defense will be transferred to External Defense; When this technique reaches $0$0% completion, 10 points of user's Agility will be consumed to inflict enemy with a buff that increases External Defense, and a debuff that decreases Internal Defense
@@ -3298,7 +3298,7 @@ Reduce Enemy's Swiftness
 After this technique reaches at least $0$0% completion, user gains 10 layers of this effect: The less layers of this effect remain, the more enemy's Swiftness will be reduced when attacking the user
 Reverse - Swordsmanship\nof Hidden Swordmaster
 When this technique reaches $0$0% completion, user will gain 2 "Stab" styles
-Reverse - Swordsmanship\nof White Eyebrow
+Reverse - Way of the\nBaimei Sword
 Decrease Power of Enemy's Quick
 When hitting enemy's Head, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, it reduces power of 1 random "Quick" technique of the enemy until the end of the battle.
 Reverse - Swordsmanship\nof Lotus
@@ -3409,7 +3409,7 @@ At the start of the battle, or when this technique changes from Orthodox practic
 Reverse - Wudang\nSwordsmanship
 Based on completion percentage of this technique, the power of all "Nadis" techniques of the enemy will be reduced until the end of the battle.
 Reverse - Wudang\nSwordsmanship of Unfettered
-施展此功法的过程中，运用者可以不消耗脚力的后退最多2距离
+While performing this technique, the user can retreat up to 2 distance without consuming Stamina
 Reverse - Plain Rainbow\nSword
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: Whenever enemy advances 1 distance, user will immediately retreat 1 distance. When layers of this effect get exhausted, if the enemy is within the user's attack range, user will immediately perform this technique from 75% of its progress without any consumption. When performed this way, this technique won't give layers of effect.
 Reverse - Swordsmanship\nof The Ultra One Mysterious
@@ -3418,7 +3418,7 @@ Reverse - Pure Yang\nSword Intent
 When you start performing this technique, if the user is not a virgin, the power of this technique will be increased based on the user's Int Ratio Bonus
 Reverse - Swordsmanship\nof Roving Dragon
 Advancement while operating
-战斗开始时，运用者获得0层此效果：每当运用者在非施展功法的过程中累积后退1距离，此效果增加1层，最多增加4层；运用者可以在施展任何「摧破」功法的过程中前进相当于此效果层数的距离，且脚力消耗减半，此次施展摧破期间，运用者每累积前进2距离，此效果减少1层
+At the start of the battle, user gains 0 layers of this effect: Whenever the user retreats 1 distance while not casting any technique, this effect increases by 1 layer, up to 4 layers; Under this effect, user can advance a distance equal to the number of layers of this effect during the cast of any "Break" technique with halved Stamina consumption. This effect decreases by 1 layer for every 2 distance advanced during the cast of "Break" techniques
 Reverse - Swordsmanship\nof Taichi
 Reduction of enemy's defense
 After this technique reaches $0$0% completion, user gains 5 layers of this effect: When enemy attacks the user with a weapon, the chances of non-Breath attacks hitting the user are greatly reduced, and whenever the user Resolves enemy's attack that isn't a follow-up or Breath attack, enemy will receive a debuff that reduces External and Internal Defense
@@ -3446,7 +3446,7 @@ When this technique reaches $0$0% completion, it completely eliminates power buf
 Reverse - Yuanshan\nJump Kick
 Whenever the user uses "Sword" to chase the enemy at least 2 times, if the enemy is within the attack range of this technique, the user will immediately perform this technique to attack the enemy without consumption starting from 50% of the performance progress; after the performance of this technique is finished, it will change from Heterodox training to Orthodox training
 Reverse - Mandarin Duck\nCombo Kick
-此功法发挥$0$成威力后，施展此功法需要消耗的提气、脚力降低，最多降低75%，持续直到战斗结束
+After this technique reaches $0$0% completion, the Inhale and Stamina required to perform this technique will be reduced by up to 75%, lasting until the end of the battle
 Reverse - Tiger Tail
 At the start of the battle, user gains 3 layers of this effect: When enemy attacks the user from a distance lower than the user's minimum attack range, the attack range of this technique becomes greatly increased, and user immediately performs this technique from 50% of its progress without any consumption; When active performance of this skill reaches $0$0% completion, this effect regains 1 layer
 Reverse - 8 Steps of\nSquared Up
@@ -3469,7 +3469,7 @@ When defeating an enemy in a deadly fight with this technique, if the enemy is a
 Reverse - Swordsmanship\nof Seventy Two Rages
 Whenever the weapon used by the user switches from a non-sword to a sword, the power of this technique increases dramatically and continues until the user performs this technique.
 Reverse - Great Mercy Sword
-此功法对敌人手臂造成的直接伤害提高45%；此功法发挥$0$成威力时，损耗敌人所有的脚力
+When hitting enemy's Arm, direct damage of this technique increases by 45%; When this technique reaches $0$0% completion, it fully depletes enemy's Stamina
 Reverse - Manjushri's Great\nWisdom Sword
 Prohibition of enemy gain
 When attacking an enemy with this technique, if the user uses a weapon other than a "sword", the special effects of the enemy's "Aegis" and "Quick" techniques will not be effective.
@@ -3480,7 +3480,7 @@ Reverse power enhancement
 This technique cannot be reflected; After this technique reaches $0$0% completion, user gains 2 layers of this effect: When enemy performs a "Break" technique, any power buff affecting that technique will be temporarily doubled and changed into a power debuff
 Reverse - Swordsmanship\nof Dharma
 E·PhD·QiD Dn
-根据此功法发挥的威力成数与运用者施展此功法消耗的非摧破效果提供的架势值，运用者获得最多200层此效果：运用者施展「摧破」功法时，会先以此效果层数替代提气消耗，消耗的越多，敌人的御体、御气就降低越多
+Based on completion percentage of this technique, and the amount of Stance it consumes, the user will get up to 200 layers of this effect: Whenever the user performs a "Break" technique, the layers of this effect will replace its Inhale consumption, and the more layers get consumed, the more the enemy's External and Internal Defense will be reduced
 Reverse - Blade of\nTrigrams And Elements
 After this technique reaches $0$0% completion, switch cooldown of 1 enemy weapon will be increased by 50%. If the weapon held by the user is a "Sword", user will gain 2 "attack tokens"
 Reverse - Blade of\n6 Directions
@@ -3497,7 +3497,7 @@ At the start of the battle, user gains 4 layers of this effect: Whenever the use
 Reverse - Heavenly Spirit\nBlade
 When this technique reaches $0$0% completion, if enemy's dominant element is "Water" or "Fire", direct damage dealt by this technique will be increased by 90%
 Reverse - Divine Blade\nof Mysterious
-根据此功法发挥的威力成数与运用者施展此功法消耗的非摧破效果提供的提气值，运用者获得最多200层此效果：运用者施展「摧破」功法时，会先以此效果层数替代架势消耗，消耗的越多，敌人的御体、御气就降低越多
+Based on completion percentage of this technique, and the amount of Inhale it consumes, the user will get up to 200 layers of this effect: Whenever the user performs a "Break" technique, the layers of this effect will replace its Stance consumption, and the more layers get consumed, the more the enemy's External and Internal Defense will be reduced
 DIV
 Diversion
 Enemy lost part of skill power
@@ -3606,13 +3606,13 @@ Vanquish Evil！
 The first time Danyue Yaochang is defeated, he will enter a new stage of combat: every weapon attack of Danyue Yaochang can "interrupt" the enemy's ongoing techniques
 Glacial Aura
 Glacial Vassal！
-九寒首次被击败时，将进入新的战斗阶段：只要敌人在九寒的攻击范围之内，敌人的提气、架势恢复速度大幅降低
+When Jiu Han gets defeated for the first time, he enters a new phase: As long as the enemy is within Jiu Han's Attack Range, enemy's Inhale Recovery and Stance Recovery will be greatly reduced
 Seven Wenceslas
 Phoenix Cocoon！
 When Jin Huo'er is defeated for the first time, it will enter a new combat phase: all types of Jin Huo'er's True Qi will be continuously increased by 1 point at the same time; once all of Jin Huo'er's True Qi is 2 times or more than the enemy's corresponding type of True Qi, Jin Huo'er will be protected from all direct damage caused by the enemy
 Matchless Beauty
 Spirit Smelting！
-衣以侯首次被击败时，将进入新的战斗阶段：只要衣以侯可用的式多于敌人可用的式，衣以侯所施展的神力对敌人造成的直接伤害就会变为3倍，且无法被反震
+When Yi Yihou gets defeated for the first time, he enters a new phase: As long as Yi Yihou has more available Styles than the enemy, the direct damage dealt by Yi Yihou's divine powers will increase by 3 times, and will not be Reflected
 Dragonborn
 Draconic Anima！
 When Wei Qi is defeated for the first time, he will enter a new phase of the battle: Wei Qi's external and internal injuries will quickly remove themselves with time
@@ -3643,17 +3643,17 @@ When you move with this divine power, Mo Nyu needs to accumulate power, the more
 Evil and Rebellion
 When moving with this divine power, Dayue Yaochang needs to accumulate power to move 3 distances at once, and then completely eliminate the 3 effects of the enemy's continuous enhancement of the power of techniques received in this battle
 Chapters on Ice
-此神力持续期间，只要敌人在九寒的攻击范围之内，敌人的移动速度、攻击速度与施展速度大幅降低
+During this divine power, as long as the enemy moves within the Jiu Han's Attack Range, the enemy's Stamina consumption will be greatly increased
 Six Elephants
 Freedom from effects
 During the duration of this power, Jin Huo'er is protected from "Pushed", "Pulled", "Block", "Interrupt", "Weak Point", and "Sealed Acupoint".
 Memories of Flying Smoke
 When moving with this divine power, Yi Yi Hou needs to accumulate power, the more power accumulated, the farther Yi Yi Hou moves, up to 4 distance, and the farther Yi Yi Hou moves, the more the enemy will lose the style
 Defeated Dragon Submerged Abyss
-以此神力移动时，卫起的战败标记数量越多，脚力消耗就降低越多
+When moving with this divine power, the more Defeat Markers Wei Qi has, the less Stamina he will consume
 Mirror image
 Injuries from changes
-此神力持续期间：以向的脚力持续恢复；以向受到的所有直接伤害均会变化为脚力的损耗
+During this divine power: Yi Xiang's Stamina will be continuously restored; All direct damage taken by Yi Xiang will change into the Stamina loss
 bleeding and sculling
 Increase the power of the gods
 The power of this divine power will increase dramatically with the number of injuries of Xue Feng
@@ -3663,7 +3663,7 @@ Magic I am free
 Distance cannot be changed
 When performing this divine power, the Xiangshu will appear at the required distance. During the duration of this divine power, the distance between the user and the enemy cannot be changed by any means, and the attack range of the Xiangshu will be changed to the maximum
 Dust Dye
-此神力持续期间，每当染尘子击中敌人，使敌人的1个未被永久封禁的功法被极短时间「封禁」
+During this divine power, whenever the Ran Chenzi hits an enemy, 1 of their techniques that isn't permanently blocked will get "Sealed" for a very short period of time
 Transformation of the sword
 Increase of your own divine style
 During the duration of this divine power, Hwanshin will gain 1 "God" style for every cumulative distance he moves.
@@ -3680,7 +3680,7 @@ Frost and Ice
 When defending with this divine power, whenever the enemy hits Jiu Han, the enemy's Inhale and Stance will be reduced
 Nine Pods
 Random assignment of injuries
-此神力防御结束时，金凰儿身上残毁的部位的伤势减少3层，随后，金凰儿全身的伤势会被随机平均分配
+At the end of this divine defense, all Injuries on Broken body parts of Jin Huang'er will be reduced by 3 layers. Afterwards, the Injuries on Jin Huang'er's body will be randomly evenly distributed
 Heart flower and start a dream
 Change of defeat markers
 When defending with this divine power, Yi Yihou is protected from "Weak Points" and "Sealed Acupoints", and all defeat marks received will turn into Daze markers.
@@ -3693,7 +3693,7 @@ Changes in injuries sustained
 When defending with this divine power: Whenever Xue Feng receives direct damage, it will first change the existing newly inflicted Injuries on Xue Feng to Old Injuries. Only when all of Xue Feng's Injuries are Old will he receive new ones again
 Three Elements and Nine Transportations
 Transfer of defeat markers
-以此神力进行防御时，术方持续将自身的随机战败标记转换为架势与提气
+When defending with this divine power, Shu Fang will continuously convert her random Defeat Markers into Stance and Inhale
 Xuan Jie Jie God
 Induced position damage
 When defending with this divine power, the Sagashiki will continue to cause external injuries to the righteous enemy, internal injuries to the benevolent enemy, poisoning to the neutral enemy, blocking to the rebellious enemy, and breaking to the egoistic enemy, depending on the enemy's position in the world.
@@ -3727,9 +3727,9 @@ Distracted God Realm
 The direct damage dealt by Shu Fang to characters with lower Finesse or Parry than his own is significantly increased; the direct damage dealt to Shu Fang by characters with higher Finesse or Parry than Shu Fang is significantly increased
 Out-of-bounds Heart Swallowing
 The more direct damage an armature deals to a character with a higher enchantment value, the more direct damage a character with a lower enchantment value deals to an armature.
-hidden dust
+Hidden Dust
 Dissolve the dust and hide back to God!
-“隐尘”无法被封禁；染尘子唤出神剑“溶尘隐”后，染尘子的移动仅做为敌我距离的变化，不会引发各类移动效果，且染尘子移动时不会消耗脚力，持续直到染尘子唤用其它神剑
+"Hidden Dust" cannot be Sealed; After Ran Chenzi summons the divine sword "Anchorite", Ran Chenzi's movement will only cause the distance between him and the enemy to change, without triggering any movement effects. Ran Chenzi will not consume Stamina when moving, and this effect will last until Ran Chenzi summons another divine sword
 Transfiguration Lotus
 Weaving of Mo Nyu Return to God!
 The "Transfiguration Lotus" can't be blocked; after the Ran Chenzi calls out the divine sword "Weaving of Mo Nyu", he is protected from all direct poisoning, and he can't receive more than 3 direct injury marks at one time
@@ -3753,8 +3753,8 @@ lit. wear blood and hang flames
 Dragon whispering Por will not be sealed points, and the direct internal injuries suffered by a significant reduction, suffered by the direct external injuries increased significantly; Dragon whispering Por the more external injury markings on its body, the more the power of all its divine power will increase
 An inch into a dream
 Attrition of enemy action
-此神力发挥$0$成威力后，莫女获得3层此效果：每当敌人累积移动2距离，敌人失去所有的脚力、提气、架势
-此神力发挥$0$成威力后，运用者获得3层此效果：每当敌人累积移动2距离，敌人失去所有的脚力、提气、架势
+After this divine power reaches $0$0% completion, Mo Nyu gains 3 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Inhale, and Stance
+After this divine power reaches $0$0% completion, the user gains 3 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Inhale, and Stance
 The Seven Waters of the Pond
 Continuing to cause poisoning
 If the enemy is within range of Mo Nyu's attack while this power is being applied: Mo Nyu causes the enemy to be continuously poisoned with 3 random types of poison
@@ -3763,7 +3763,7 @@ Five-color warbler
 When she starts to use this power, Mo Nyu gains 6 levels of this effect: Whenever an enemy attacks Mo Nyu with a weapon, Mo Nyu immediately makes 2 weapon attacks on the enemy; when she attacks an enemy with this power, Mo Nyu consumes all the remaining levels of this effect to increase the power of this power
 broken hearted dream
 After this divine power reaches $0$0% completion, Mo Nyu gains 6 layers of this effect: Whenever enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Footwork, Inhale, and Stance
-此神力发挥$0$成威力后，运用者获得6层此效果：每当敌人累积移动2距离，敌人失去所有的脚力、提气、架势
+After this divine power reaches $0$0% completion, the user gains 6 layers of this effect: Whenever the enemy accumulates a movement of 2 distances, enemy loses all of their Stamina, Inhale, and Stance
 Xuan Tan Ghost Poison
 If the enemy is within the range of Mo Nyu attack while this divine power is being applied: Mo Nyu causes the enemy to suffer 6 different types of poison continuously
 If the enemy is within the attack range of the wielder during the application of this power: the wielder causes the enemy to suffer 6 different types of poison continuously
@@ -3771,8 +3771,8 @@ Chaotic colored warbler
 When she starts to use this power, Mo Nyu gains 6 levels of this effect: Whenever an enemy attacks Mo Nyu with a weapon, Mo Nyu immediately makes 4 weapon attacks on the enemy; when she attacks an enemy with this power, Mo Nyu consumes all the remaining levels of this effect to significantly increase the power of this power
 Break the demonic filth
 Continuously causing wear and tear
-施展此神力的过程中，如果敌人在大岳瑶常的攻击范围之内，不断损耗敌人的脚力、提气、架势
-施展此神力的过程中，如果敌人在运用者的攻击范围之内，不断损耗敌人的脚力、提气、架势
+While performing this divine power: If the enemy is within the Dayue Yaochang's Attack Range, enemy's Stamina, Inhale, and Stance will be continuously depleted
+While performing this divine power: If the enemy is within the user's Attack Range, enemy's Stamina, Inhale, and Stance will be continuously depleted
 Exterminate the three cuts
 Automatic application of divine power
 At the end of this power, the power of this power increases cumulatively and lasts until the end of the battle, and Da Yue Yao Chang can repeat this power 2 times and attack the enemy with 40% power from 50% of the progress of the power without consumption
@@ -3787,23 +3787,23 @@ Heavenly Demon Breaks All
 When attacking an enemy with this power: If the enemy is performing a Heterodox training technique, the power of this power is greatly increased; if the enemy is not performing the "Break" technique, the power of this power is greatly increased; if the enemy is not within the range of this power, the enemy randomly appears 6 weaknesses
 Plastic Snow
 Stop enemy action
-此神力发挥$0$成威力时，九寒获得30层此效果：以每0.1距离消耗1层此效果为代价，抵消敌人移动的距离，此效果存在时，降低敌人的脚力恢复速度
-此神力发挥$0$成威力时，运用者获得30层此效果：以每0.1距离消耗1层此效果为代价，抵消敌人移动的距离，此效果存在时，降低敌人的脚力恢复速度
+When this divine power reaches $0$0% completion, Jiu Han gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy's Stamina recovery speed is decreased
+When this divine power reaches $0$0% completion, the user gains 30 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy's Stamina recovery speed is decreased
 Aoshin Yodai
 Continuously causes sealing of acupuncture points
 At the end of this divine power, Jiu Han gains 9 levels of this effect: 1 sealed point appears continuously on the enemy; for every sealed point on the enemy due to this effect, the number of levels of this effect is reduced by 1
 Prayer for Sorrow
 Stop enemy attacks
-以此神力攻击敌人时，九寒获得12层此效果：敌人兵器攻击需要的准备时间大幅上升，且命中率大幅下降，此效果层数会随时间自动减少
-以此神力攻击敌人时，运用者获得12层此效果：敌人兵器攻击需要的准备时间大幅上升，且命中率大幅下降，此效果层数会随时间自动减少
+When attacking with this divine power, Jiu Han gains 12 layers of this effect: The preparation time for enemy's weapon attacks will be greatly increased, and Accuracy greatly decreased. Layers of this effect will decrease automatically over time
+When attacking with this divine power, the user gains 12 layers of this effect: The preparation time for enemy's weapon attacks will be greatly increased, and Accuracy greatly decreased. Layers of this effect will decrease automatically over time
 Gel Hong
-此神力发挥$0$成威力时，九寒获得60层此效果：以每0.1距离消耗1层此效果为代价，抵消敌人移动的距离，此效果存在时，降低敌人的脚力恢复速度
-此神力发挥$0$成威力时，运用者获得60层此效果：以每0.1距离消耗1层此效果为代价，抵消敌人移动的距离，此效果存在时，降低敌人的脚力恢复速度
+When this divine power reaches $0$0% completion, Jiu Han gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy's Stamina recovery speed is decreased
+When this divine power reaches $0$0% completion, the user gains 60 layers of this effect: Every 1 layer of this effect cancels out 0.1 distance moved by the enemy. While this effect exists, enemy's Stamina recovery speed is decreased
 Dance of the Green God
 At the end of this divine power, Jiu Han gains 9 levels of this effect: 2 sealed points appear continuously on the enemy; for every sealed point on the enemy due to this effect, the number of levels of this effect is reduced by 1
 v. Death Song
-以此神力攻击敌人时，九寒获得24层此效果：敌人兵器攻击需要的准备时间大幅上升，且命中率大幅下降，此效果层数会随时间自动减少
-以此神力攻击敌人时，运用者获得24层此效果：敌人兵器攻击需要的准备时间大幅上升，且命中率大幅下降，此效果层数会随时间自动减少
+When attacking with this divine power, Jiu Han gains 24 layers of this effect: The preparation time for enemy's weapon attacks will be greatly increased, and Accuracy greatly decreased. Layers of this effect will decrease automatically over time
+When attacking with this divine power, the user gains 24 layers of this effect: The preparation time for enemy's weapon attacks will be greatly increased, and Accuracy greatly decreased. Layers of this effect will decrease automatically over time
 Returning to the hippies to help
 Repeatedly attack the enemy
 At the end of this divine power, Golden Phoenix gains 6 levels of this effect: Golden Phoenix's weapon attacks will repeat 2 times
@@ -3813,16 +3813,16 @@ Continuously causing breakdowns
 At the end of this divine power, Jin Huo'er gains 18 levels of this effect: the enemy continues to have 1 break; for every break in the enemy due to this effect, the number of levels of this effect is reduced by 1
 Red Feather Breaks the Sky
 Repel and damage the enemy
-此神力发挥$0$成威力时，金凰儿将敌人击退6距离，如果敌人与敌我最大距离之间的距离小于6，损耗敌人所有的脚力，并对敌人造成3个随机部位的更难恢复的旧时伤势
-此神力发挥$0$成威力时，运用者将敌人击退6距离，如果敌人与敌我最大距离之间的距离小于6，损耗敌人所有的脚力，并对敌人造成3层随机部位的更难恢复的旧伤
+When this divine power reaches $0$0% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Stamina will get completely depleted, and enemy will receive 3 Old Injuries at random body parts
+When this divine power reaches $0$0% completion, the user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Stamina will get completely depleted, and enemy will receive 3 Old Injuries at random body parts
 Goodness HeShi
 At the end of this divine power, Golden Phoenix gains 6 levels of this effect: Golden Phoenix's weapon attacks will repeat 4 times
 At the end of this power, the user gains 6 levels of this effect: the user's weapon attack will be repeated 4 times.
 The phoenix leads the nine daughters
 At the end of this power, Jin Huo'er gains 18 levels of this effect: the enemy will continue to have 2 weaknesses; every time the enemy has a weakness due to this effect, the number of levels of this effect is reduced by 1
 Golden Plume Breaks the Sky
-此神力发挥$0$成威力时，金凰儿将敌人击退6距离，如果敌人与敌我最大距离之间的距离小于6，损耗敌人所有的脚力，并对敌人造成6个随机部位的更难恢复的旧时伤势
-此神力发挥$0$成威力时，运用者将敌人击退6距离，如果敌人与敌我最大距离之间的距离小于6，损耗敌人所有的脚力，并对敌人造成6层随机部位的更难恢复的旧伤
+When this divine power reaches $0$0% completion, Jin Huang'er knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Stamina will get completely depleted, and enemy will receive 6 Old Injuries at random body parts
+When this divine power reaches $0$0% completion, the user knocks back the enemy by 6 distances, and if the enemy’s distance from the max possible range between characters is less than 6, enemy's Stamina will get completely depleted, and enemy will receive 6 Old Injuries at random body parts
 fox hunting
 While performing this divine power, Yi Yihou can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, Yi Yihou adds 3 "None" styles to the enemy; When this divine power reaches $0$0% completion, Yi Yihou adds 3 "None" styles to the enemy.
 While performing this divine power, user can move; When starting to perform this divine power, if the enemy has a mutual "Adore" or "Enemies" relationship with another character, user adds 3 "None" styles to the enemy; When this divine power reaches $0$0% completion, user adds 3 "None" styles to the enemy.
@@ -3860,8 +3860,8 @@ No heart, no mind
 During the application of this power, the enemy's chance of hitting Yi Xiang is halved, and whenever the enemy fails to hit Yi Xiang, the enemy randomly receives 2 sealed acupoints
 During the application of this power, the chance of the enemy hitting the user is halved, and whenever the enemy fails to hit the user, the enemy randomly appears 2 sealed points
 Swordless Sword
-此神力发挥$0$成威力时，以向恢复所有的脚力；以此神力攻击敌人时，以向剩余的脚力越多，此神力的威力就增加越多
-此神力发挥$0$成威力时，运用者恢复所有的脚力；以此神力攻击敌人时，运用者剩余的脚力越多，此神力的威力就增加越多
+When this divine power reaches $0$0% completion, Yi Xiang fully restores Stamina; When attacking the enemy with this divine power, the more Stamina Yi Xiang has left, the more the power of this divine power will be increased
+When this divine power reaches $0$0% completion, the user fully restores Stamina; When attacking the enemy with this divine power, the more Stamina the user has left, the more the power of this divine power will be increased
 soulless soul
 Promote hair protection Quick
 When using this divine power, Yi Xiang can use the "Aegis" and "Quick" skills immediately without any consumption, and the power of these skills will be greatly increased until the end of this divine power.
@@ -3982,7 +3982,7 @@ Three Swords - Voodoo Iron
 Attrition of the enemy
 Dayue Yao Chang - Solution
 Dayue Yao Chang - robbery
-此神力发挥$0$成威力时，损耗敌人所有的攻势、脚力、提气、架势
+When this divine power reaches $0$0% completion, it fully depletes enemy's Attack Tokens, Stamina, Inhale, and Stance
 If Dayue Yaochang's Fate Chapter has been completed, when Ran Chenzi performs this divine power, all Weak Points will be removed from the enemy
 If Dayue Yaochang's Extinguishing Chapter has been completed, when Ran Chenzi performs this divine power, the enemy will receive 1 level 4 Weak Point
 Four-Five Swords
@@ -4087,7 +4087,7 @@ This innate skill cannot be Sealed; The direct Injury markers inflicted by the H
 Civet Pursues Shadow
 This innate skill cannot be Sealed; After being attacked by an enemy, if the enemy is within attack range of Leopard/Black Panther, regardless of whether the Leopard/Black Panther Resolves the enemy attack, it will Counter the enemy. The higher the Purity of the Leopard/Black Panther is, the more power the Counter will have
 I am the Only One
-此天赋无法被封禁；每当敌人进入或离开狮子、金狮的攻击范围时，根据狮子、金狮的精纯，损耗敌人的脚力、提气、架势
+This innate skill cannot be Sealed; Whenever the enemy enters or leaves the attack range of Lion/Golden Lion, it depletes enemy's Stamina, Inhale, and Stance based on the Purity of the Lion/Golden Lion
 Myriad Beasts King
 Continuously Attack Enemy
 This innate skill cannot be Sealed; Whenever Tiger/White Tiger inflicts a direct Injury marker on the enemy, it will immediately perform another attack on the enemy with decreased Accuracy. The higher the Purity of the Tiger/White Tiger is, the higher the damage will increase with each attack, lasting until continuous attacks stop
@@ -4200,6 +4200,6 @@ Injured by the backlash from the Eight Lives Qi
 Eight Deaths Qi
 Injured by the backlash from the Eight Deaths Qi
 Unable to use...
-落魂钟
-其主受到反噬
-持落魂钟者此刻身受重伤，现遭此钟反噬，心神涣散，无力御敌……
+Soul-Falling Bell
+Its owner receives Backlash
+The person holding the Soul-Falling Bell has been seriously injured, and have received backlash from the bell. Their mind has been disorganized, causing them to be unable to defend against the enemy...
