@@ -174,13 +174,14 @@ F·Weever
 F·Abalone
 F·Dragonfish
 Acritoxin Drug
-Medicine
+Poison
 Umbritoxin Drug
 Cryotoxin Drug
 Pyrotoxin Drug
 Necrotoxin Drug
 Oneirotoxin Drug
 H·Sambucus
+Medicine
 H·Purple grass
 H·Millennium green
 H·Tiger bone
