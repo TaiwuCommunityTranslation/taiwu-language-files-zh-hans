@@ -157,16 +157,16 @@ Tavern Shopkeeper
 Scholar
 Man
 Unknown Person
-使者
-神秘女子
+Envoy
+Mysterious Woman
 Liu Li
 Reed Chicken
 Sesame Chicken
-雉鸡
+Pheasant
 Bamboo Partridge
 Black Chicken
 Quail Tail
-Rooster
+Eared Pheasant
 Redfoot Chicken
 Window Bird
 Yuanbao Chicken
@@ -176,51 +176,51 @@ Zhu Zhu Chicken
 Long-tailed Chicken
 Silver Pheasant
 Golden Pheasant
-琅琊鸡
+Langya Chicken
 Jade Rooster
 Plum Forest Chicken
 Sunzhi Chicken
 Duke of Kuaiji
 Wuhei Chicken
-桃源鸡
-胡须鸡
+Taoyuan Chicken
+Bearded Chicken
 Luyuan Chicken
-峨眉黑鸡
-烛夜
-怀乡鸡
-五灰鸡
-茶花鸡
-固始鸡
-Silkie
-约瓦鸡
-静宁鸡
-黑凤鸡
+Emei Black Chicken
+Candle Night
+Huixiang Chicken
+Wahui Chicken
+Camellia Chicken
+Gushi Chicken
+Silkie Chicken
+Yaowa Chicken
+Jingning Chicken
+Black Phoenix Chicken
 Long-singing Commander
-略阳鸡
-安南鸡
-花尾
-文昌鸡
-雪鸡
-白头黑鸡
-六指鸡
-五色鸡
-七彩雉
-封川鸡
-海陵鸡
-上谷鸡
-宁都鸡
-青州鸡
-黔香鸡
-招财鸡
-越王鸡
-金羽银耳
-建宁鸡
-云松鸡
-突厥雀
-九真鸡
-长安鸡
-昆仑鸡
-金足鸡
-鹖鸡
-鶤鸡
-太吾村民
+Lueyang Chicken
+Annan Chicken
+Hazel Hen
+Wenchang Chicken
+Snow Chicken
+White-headed Black Chicken
+Six-fingered Chicken
+Five-colored Chicken
+Seven-colored Pheasant
+Fengchuan Chicken
+Hailing Chicken
+Shanggu Chicken
+Ningdu Chicken
+Qingzhou Chicken
+Fragrant Qian Chicken
+Wealth Chicken
+Yuewang Chicken
+Jinyu Yiner Chicken
+Jianning Chicken
+Cloud Grouse
+Turkic Sparrow
+Jiuzhen Chicken
+Chang'an Chicken
+Kunlun Chicken
+Golden-footed Chicken
+Brown Eared Pheasant
+Kun Chicken
+Taiwu Villager
