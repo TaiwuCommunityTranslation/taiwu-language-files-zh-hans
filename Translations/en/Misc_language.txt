@@ -652,25 +652,25 @@ Chicken Feather
 This feather is thin, soft, and fluffy, shimmering with light. It resembles a cloud of flame in the palm, being the most beautiful feather from a Chicken…
 Colorful Feathered Dress
 Misty and ethereal, resembling rippling clouds. The Colorful Feathered Dress is as delicate as cicada's wing, with feathers creating a hazy appearance, making the beautiful silk fabric and jade pearl ornaments look even more beautiful. When the Vermilion Bird transformed into a human form, it was wearing this dress...
-神鸡图
-琉璃亲自绘制的神鸡图，借助此图指引，便能知晓天下元鸡所在之处……
-水精
-于五湖四海寻得的水之精气，团团似月，晶莹剔透，其中还可见小鱼小虾游弋。\n以此为心材，可建造食材资源丰富的「水域」。
-活石
-顽石百炼，始成精金。自山中采集的石料，千形万状，质地各异，尚且未经冶炼。\n以此为心材，可建造金铁资源丰富的「石山」。
-青青苗木
-各类果木、乔木的树苗，枝叶茂荣，生机勃勃。\n以此为心材，可建造木材资源丰富的「树林」。
-古岩
-自深山中开采出的岩石，石色苍润，石骨奥巧，其上还附着些许苔藓。\n以此为心材，可建造产出金铁、玉石资源的「孤峰」。
-百草药籽
-一些常见药材的种子，存放完好，随意播种亦能成活。\n以此为心材，可建造药材资源丰富的「草药」。
-腐泥
-沼泽里的淤泥，因其中常有腐尸、恶草等秽物，故具毒性，易生瘴气。\n以此为心材，可建造毒物资源丰富的「毒沼」。
-野卉花籽
-自山野园圃间采收的多色花籽，育成后香气各异，闻之令人心醉。\n以此为心材，可建造织物资源丰富的「花谷」。
-璞玉
-攻山采玉所得原石，光华内敛，经耐心琢磨方可制成宝石美玉。\n以此为心材，可建造玉石资源丰富的「宝石」。
-沃土
-此土膏腴肥沃，若撒籽耕植，遇和风润雨，则草木竞生。\n以此为心材，可建造产出食材、木材资源的「沃野」。
-幼兽
-寻常野兽所诞幼崽，聪颖灵慧，观之乖巧可爱。\n以此为心材，可建造产出食材、织物资源的「兽群」。
+Picture of the Divine Fowl
+Liu Li personally drew the Picture of the Divine Fowl. With the help of this picture, one can know where the Chickens are in the world...
+Water Essence
+The essence of water found in all corners of the world is like a moon, crystal clear, and you can see small fish and shrimps swimming in it.\nIt can be used as the Core Material to build the "Reservoir" natural resource that is rich in Food.
+Living Stone
+Only after hundreds of times of smelting can the hard stone become pure gold. The stones collected from the mountains are in various shapes and textures, and they have not yet been smelted.\nIt can be used as the Core Material to build the "Stone Hills" natural resource that is rich in Ore.
+Green Sprouts
+The saplings of various trees and fruit trees are lush and full of vitality.\nIt can be used as the Core Material to build the "Woodlands" natural resource that is rich in Wood.
+Ancient Rock
+The rocks mined from the deep mountains are dark green, with a subtle texture and a bit of moss attached to them.\nIt can be used as the Core Material to build the "Skyward Mountain" natural resource that will produce Ore and Jade.
+Medicinal Herb Seeds
+The seeds of some common medicinal herbs are well stored and can survive even if sown at random.\nIt can be used as the Core Material to build the "Herb Paradise" natural resource that is rich in medicinal Herbs.
+Rotten Mud
+The mud in the swamp is toxic and prone to miasma because it often contains rotten corpses, weeds and other filth.\nIt can be used as the Core Material to build the "Poison Swamp" natural resource that is rich in poisonous Herbs.
+Flower Seeds
+The multi-colored flower seeds collected from the mountain gardens have different fragrances after cultivation, which are intoxicating.\nIt can be used as the Core Material to build the "Flower Valley" natural resource that is rich in plant Fabric.
+Unpolished Jade
+The raw jade obtained from mining the mountains is of restrained brilliance and can only be made into gemstones through patient polishing.\nIt can be used as the Core Material to build the "Gem Deposit" natural resource that is rich in Jade.
+Fertile Soil
+The soil is rich and fertile. If you sow seeds and cultivate it, and it rains gently, grass and trees will grow.\nIt can be used as the Core Material to build the "Fertile Plain" natural resource that will produce Food and Wood.
+Animal Cubs
+The cubs born from ordinary wild animals are smart and clever, and look cute.\nIt can be used as the Core Material to build the "Wild Habitat" natural resource that will produce Food and Fabric.
