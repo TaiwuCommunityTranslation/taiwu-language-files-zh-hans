@@ -1,6 +1,6 @@
 Current Power
 Power Cap
-施展时间
+Cast Time
 Stance/Inhale Cost
 Ext/Int Ratio
 Inner Conversation Rate
@@ -14,7 +14,7 @@ Increase Might
 Increase Finesse
 Increase Swiftness
 Increase BRE
-Weaken Footwork
+Footwork Consumption
 Footwork Cost
 Increase Ext. Def.
 Increase Int. Def.
@@ -67,7 +67,7 @@ Requires Ware Style
 Requires Drug Style
 Requires Toxic Style
 Requires Sweep Style
-蓄力进度
+Accumulation Speed
 Sealing Chance
 Sealing Duration
 Increase ATK
