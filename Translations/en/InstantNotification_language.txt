@@ -385,5 +385,5 @@ Because {0} died and Life Link was destroyed, the qi of founder Bai and founder 
 Bai and Xuan turn into humans
 Founders Bai and Xuan changed into human forms...
 Founder Bai and founder Xuan cultivated and nourished their bodies and qi, regaining their strength, allowing them to change back into human forms...
-引爆机关
-因灭火时不慎引爆地下机关，队伍中的所有同道均受到了<color=#darkred>大量损伤</color>！
+Triggered Mechanisms
+Due to accidentally triggering underground mechanisms while extinguishing fires, all teammates in the group suffered <color=#darkred>significant damage!</color>
