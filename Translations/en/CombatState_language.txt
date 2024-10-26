@@ -519,8 +519,8 @@ Controlling Yazi
 Because of controlling a Yazi, a portion of any direct damage dealt by the enemy to the user will be added to the user's next attack.
 Controlling Yazi: <color=#brightblue>A portion of any direct damage dealt by the enemy to the user will be added to the user's next attack</color>.
 Controlling Chaofeng
-因驭使嘲风：运用者的脚力恢复速度提高
-驭使嘲风：<color=#brightblue>运用者的脚力恢复速度提高</color>
+Because of controlling a Chaofeng: User's Stamina restoration rate will be increased
+Controlling Chaofeng: <color=#brightblue>User's Stamina restoration rate will be increased</color>.
 Controlling Pulao
 Because of controlling a Pulao, the more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal.
 Controlling Pulao: <color=#brightblue>The more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal</color>.
@@ -631,7 +631,7 @@ Bloodhound loses power
 The power of Bloodhound techniques increased; The power of Resurrected Person's Bloodhound techniques decreased...
 
 Soul-Falling Bell
-遭落魂钟所摄，所有次要属性减半，若能重伤其主，此战或有生机…
+Being captured by the Soul-Falling Bell, all Secondary Attributes are reduced by half. If the master can be seriously injured, there may be a chance of survival in this battle...
 
-遭落魂钟反噬，所有次要属性减半，心神涣散，无力御敌…
+Being attacked by the Soul-Falling Bell, all secondary attributes were reduced by half, the mind was scattered, and there was no way to resist the enemy...
 
