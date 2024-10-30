@@ -23,9 +23,9 @@ Store
 Prepare
 <color=#brightblue>Skill placed in here will automatically be used at the start of a battle without consumption.</color>
 Swift
-<color=#brightblue>放置其中的功法在移动时消耗的脚力降低25%。</color>
+<color=#brightblue>Skill placed in here will consume 25% less Stamina when moving.</color>
 Slow
-<color=#brightblue>放置其中的功法在静止时消耗的脚力降低25%。</color>
+<color=#brightblue>Skill placed in here will consume 25% less Stamina when standing still.</color>
 
 
 
