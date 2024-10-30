@@ -251,7 +251,7 @@ Hearing that Traitor Gang appeared somewhere...
 Villain Valley
 Hearing that Villain Valley appeared somewhere...
 Aroma Array
-听闻某地出现了迷香阵…
+Hearing that Aroma Array appeared somewhere...
 Mass Grave
 Hearing that Mass Grave appeared somewhere...
 Talents Residence
@@ -283,7 +283,7 @@ A building in the Taiwu Village finished constructing.
 Expansion Complete
 A building in the Taiwu Village finished expanding.
 Removal Complete
-太吾村中的某座建筑拆除完毕了。
+A building in the Taiwu Village was successfully removed.
 Building Harvest
 A building in the Taiwu Village has a new harvest.
 Dispatch Arrived
@@ -308,8 +308,8 @@ Town Tournament
 During the hottest time of the year, a martial arts competition is being held somewhere, gathering all kinds of people.
 Cricket Vibrancy
 At the beginning of Autumn, the chirping of crickets can be heard everywhere.
-World Cricket Congress
-The triennial World Cricket Congress is being held somewhere!
+Cricket Conference
+The triennial Cricket Conference is being held somewhere!
 Art Conference
 When the snow and wind is cold, for people's livelihood an Art Conference is held somewhere.
 Music Performance
@@ -380,11 +380,11 @@ Lost Book
 Someone lost a book by chance.
 Heavenly Punishment
 Someone dreamed about horrible demons and evil spirits, receiving all kinds of damage.
-资源采集
-太吾村中的某座资源点采集完毕了。
-关注之人
-关注的某人遇到了一些危机…
-牢狱之灾
-监牢之中的特殊之事…
+Resource Gathering
+A natural resource in the Taiwu Village was successfully gathered from.
+Following
+Someone you're following facing a crisis...
+Imprisonment
+Something special happening in the prison...
 Fu Long turns into a Feather
-伏龙坛特殊之人、特殊之事…
+Special events and characters of Fulong Altar...
