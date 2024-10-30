@@ -10,8 +10,8 @@ Level of Weak Points and Sealed Acupoints received by the host will increase by 
 Level of Weak Points and Sealed Acupoints received by the host will reduced by 1 level
 The host's Inner Breath will become disordered based on the level of Injuries they have
 It certainly will be born when <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 40%
-宿主的真气减少时，使宿主随机类型的真气再减少2点。
-宿主的真气增加时，使宿主随机类型的真气再增加2点。
+Whenever the host's True Qi gets decreased, a random type of the host's True Qi will be decreased by 2 point.
+Whenever the host's True Qi gets increased, a random type of the host's True Qi will be increased by 2 point.
 Every month, the host's demonization value will be increased by 10 times.
 It certainly will be born if all types of poison consumption are within 10% of each other
 If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally increased, and whenever the host's Fatal Wound damage taken gets increased, the host's Health will also be reduced.
