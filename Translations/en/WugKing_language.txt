@@ -3,7 +3,7 @@ The host's weapon attacks will have an additionally increased chance of hitting 
 The host will lose a part of their items every month.
 It certainly will be born when <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color> consumption reaches 40%
 The host will receive 1 Daze Marker whenever host's Poison activates.
-The host will receive 1 Daze Marker whenever enemy's Poison activates.
+The enemy will receive 1 Daze Marker whenever host's Poison activates.
 Every month, the host might start Hating the characters whose Favor has dropped significantly, and will more easily seek revenge on their enemies.
 It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color> consumption reaches 40%
 Level of Weak Points and Sealed Acupoints received by the host will increase by 1 level
