@@ -1,312 +1,312 @@
-其它
-强制送监
+Other
+Forced Imprisonment
 
-Killing a person with a reputation
-戕害无辜
-公开杀害名誉为默默无闻或亦正亦邪的人物
-Killing people of ill repute
-杀害奸邪
-公开杀害名誉低于默默无闻的人物
-Killing people of high reputation
-戕害贤良
-公开杀害名誉高于默默无闻的人物
-Imprisonment of notorious people
-关押无辜
-公开关押名誉为默默无闻或亦正亦邪的人物
-Imprisonment of persons of ill repute
-关押奸邪
-公开关押名誉低于默默无闻的人物
-Guarding people of high reputation
-关押贤良
-公开关押名誉高于默默无闻的人物
-Killing fellow disciples
+Killing a fameless person
+Injuring innocent
+Publicly killing a person with an Unknown Fame
+Killing a notorious person
+Killing a villain
+Publicly killing a person with a negative Fame
+Killing a respectable person
+Killing a virtuous person
+Publicly killing a person with a positive Fame
+Imprisoning a fameless person
+Imprisoning innocent
+Publicly imprisoning a person with an Unknown Fame
+Imprisoning a notorious person
+Imprisoning a villain
+Publicly imprisoning a person with a negative Fame
+Imprisoning a respectable person
+imprisoning a virtuous person
+Publicly imprisoning a person with a positive Fame
+Killing members of your sect
 
-Locking up fellow disciples
+Imprisoning members of your sect
 
-Love affair
+Male-female love affair
 
 Grave robbing
-从坟墓中盗取道具或资源
-Theft of property
-窃取他人的道具或资源
-Scamming others
-唬骗他人的道具或资源
-Robbery of property
-夺取他人的道具或资源
-Poisoning others
-对他人施以毒害
-Assassination of others
-暗中损伤他人
-Poisoning fellow disciples
-对同门派的人物施以毒害
-Injuring fellow disciples
-暗中损伤同门派的人物
-Skill theft
+Robbing a grave to steal items or resources
+Stealing property
+Stealing another person's items or resources
+Scamming people
+Scamming another person's items or resources
+Robbing property
+Robbing another person's items or resources
+Poisoning people
+Poisoning other people
+Secretly injuring people
+Secretly injuring people
+Poisoning members of your sect
+Poisoning members of your sect
+Secretly injuring members of your sect
+Secretly injuring members of your sect
+Stealing skills
 
-Hardening of items
-淬毒物品
-对物品进行淬毒
-Breaking the diet
+Envenoming items
+Envenoming items
+Envenoming items
+Violating the diet
 
-Involved by spouse
-受人牵连
+Being implicated by a spouse
+Being implicated by others
 
-Secret killing of others
-秘密杀害
-Secret detention of others
-秘密关押
-Befriending Shaolin disciples
-与敌结交
-与少林派人物结为好友
-Befriending Emei School disciples
-与峨眉派人物结为好友
-Befriend with the disciples of Hundred Flowers Valley
-与百花谷人物结为好友
-Befriending the disciples of the Wudang Sect
-与武当派人物结为好友
-Befriending a disciple of the Yuanshan Sect
-与元山派人物结为好友
-Befriending a disciple of the Lion-Face Clan
-与狮相门人物结为好友
-Befriending the disciples of Ranshan Sect
-与然山派人物结为好友
-Befriending the disciples of XuanNyu Sect
-与璇女派人物结为好友
-Befriend the disciples of Sword Manor
-与铸剑山庄人物结为好友
-Befriending a disciple of the KongSang Sect
-与空桑派人物结为好友
-Befriending the disciples of Vajrayana
-与金刚宗人物结为好友
-Befriending the disciples of the Five Immortals Cult
-与五仙教人物结为好友
-Befriending the disciples of JieQing Gate
-与界青门人物结为好友
-Befriending the disciples of Fulong Altar
-与伏龙坛人物结为好友
-Befriending a disciple of the Bloodhound Cult
-与血犼教人物结为好友
-Forced to skip turn during Debates
-Forced to skip turn
-在较艺中对他人采用“迫使不语”
+Secretly killing people
+Secretly killing
+Secretly imprisoning people
+Secretly imprisoning
+Befriending a disciple of Shaolin
+Becoming friends with enemy
+Befriending a member of Shaolin
+Befriending a disciple of Emei Sect
+Befriending a member of Emei Sect
+Befriending a disciple of Hundred Flowers Valley
+Befriending a member of Hundred Flowers Valley
+Befriending a disciple of Wudang Sect
+Befriending a member of Wudang Sect
+Befriending a disciple of Yuanshan Sect
+Befriending a member of Yuanshan Sect
+Befriending a disciple of Lion-Face Clan
+Befriending a member of Lion-Face Clan
+Befriending a disciple of Ranshan Sect
+Befriending a member of Ranshan Sect
+Befriending a disciple of Xuannyu Sect
+Befriending a member of Xuannyu Sect
+Befriending a disciple of Sword Manor
+Befriending a member of Sword Manor
+Befriending a disciple of Kongsang Sect
+Befriending a member of Kongsang Sect
+Befriending a disciple of Vajrayana
+Befriending a member of Vajrayana
+Befriending a disciple of Five Immortals Cult
+Befriending a member of Five Immortals Cult
+Befriending a disciple of Jieqing Gate
+Befriending a member of Jieqing Gate
+Befriending a disciple of Fulong Altar
+Befriending a member of Fulong Altar
+Befriending a disciple of Bloodhound Cult
+Befriending a member of Bloodhound Cult
+Forcing to skip turn during Debates
+Forcing to skip turn
+Using "Force to skip turn" during Debates
 XS·Possessed
-拥有特性“相枢化魔”
-关押期间逃离监狱
-逃离监牢
-在关押期间逃离监牢
-敌对门派人物
-敌对人物
-从属于敌对门派势力
-势力内人物仇敌
-仇敌人物
-与本门派人物结下仇怨
-违反门规生下孩子
-与他人生育子女
-身为出家弟子，与他人生育子女
-身为显要人物，与他人生育子女
-违反门规两情相悦
-与他人两情相悦
-身为出家弟子，与他人两情相悦
-身为显要人物，与他人两情相悦
-违反门规共结连理
-与他人共结连理
-身为出家弟子，与他人共结连理
-身为显要人物，与他人共结连理
-违反门规非法春宵
-与他人私度春宵
-身为出家弟子，与他人私度春宵
-身为显要人物，与他人私度春宵
-违反门规情难自禁
-由于情难自禁，以卑劣手段欺辱他人
-身为出家弟子，情难自禁，以卑劣手段欺辱他人
-身为显要人物，情难自禁，以卑劣手段欺辱他人
-违反门规与人约会
-与他人邀约聚会
-身为出家弟子，与他人邀约聚会
-身为显要人物，与他人邀约聚会
-非法春宵
-情难自禁
-与少林派弟子结为伴侣
-与少林派人物两情相悦
-与峨眉派弟子结为伴侣
-与峨眉派人物两情相悦
-与百花谷弟子结为伴侣
-与百花谷人物两情相悦
-与武当派弟子结为伴侣
-与武当派人物两情相悦
-与元山派弟子结为伴侣
-与元山派人物两情相悦
-与狮相门弟子结为伴侣
-与狮相门人物两情相悦
-与然山派弟子结为伴侣
-与然山派人物两情相悦
-与璇女派弟子结为伴侣
-与璇女派人物两情相悦
-与铸剑山庄弟子结为伴侣
-与铸剑山庄人物两情相悦
-与空桑派弟子结为伴侣
-与空桑派人物两情相悦
-与金刚宗弟子结为伴侣
-与金刚宗人物两情相悦
-与五仙教弟子结为伴侣
-与五仙教人物两情相悦
-与界青门弟子结为伴侣
-与界青门人物两情相悦
-与伏龙坛弟子结为伴侣
-与伏龙坛人物两情相悦
-与血犼教弟子结为伴侣
-与血犼教人物两情相悦
-与少林派弟子结义
-与少林派人物义结金兰
-与峨眉派弟子结义
-与峨眉派人物义结金兰
-与百花谷弟子结义
-与百花谷人物义结金兰
-与武当派弟子结义
-与武当派人物义结金兰
-与元山派弟子结义
-与元山派人物义结金兰
-与狮相门弟子结义
-与狮相门人物义结金兰
-与然山派弟子结义
-与然山派人物义结金兰
-与璇女派弟子结义
-与璇女派人物义结金兰
-与铸剑山庄弟子结义
-与铸剑山庄人物义结金兰
-与空桑派弟子结义
-与空桑派人物义结金兰
-与金刚宗弟子结义
-与金刚宗人物义结金兰
-与五仙教弟子结义
-与五仙教人物义结金兰
-与界青门弟子结义
-与界青门人物义结金兰
-与伏龙坛弟子结义
-与伏龙坛人物义结金兰
-与血犼教弟子结义
-与血犼教人物义结金兰
-与少林派弟子结为义亲
-拜认少林派人物为义父母
-与峨眉派弟子结为义亲
-拜认峨眉派人物为义父母
-与百花谷弟子结为义亲
-拜认百花谷人物为义父母
-与武当派弟子结为义亲
-拜认武当派人物为义父母
-与元山派弟子结为义亲
-拜认元山派人物为义父母
-与狮相门弟子结为义亲
-拜认狮相门人物为义父母
-与然山派弟子结为义亲
-拜认然山派人物为义父母
-与璇女派弟子结为义亲
-拜认璇女派人物为义父母
-与铸剑山庄弟子结为义亲
-拜认铸剑山庄人物为义父母
-与空桑派弟子结为义亲
-拜认空桑派人物为义父母
-与金刚宗弟子结为义亲
-拜认金刚宗人物为义父母
-与五仙教弟子结为义亲
-拜认五仙教人物为义父母
-与界青门弟子结为义亲
-拜认界青门人物为义父母
-与伏龙坛弟子结为义亲
-拜认伏龙坛人物为义父母
-与血犼教弟子结为义亲
-拜认血犼教人物为义父母
-收养少林派人物为义子女
-收养峨眉派人物为义子女
-收养百花谷人物为义子女
-收养武当派人物为义子女
-收养元山派人物为义子女
-收养狮相门人物为义子女
-收养然山派人物为义子女
-收养璇女派人物为义子女
-收养铸剑山庄人物为义子女
-收养空桑派人物为义子女
-收养金刚宗人物为义子女
-收养五仙教人物为义子女
-收养界青门人物为义子女
-收养伏龙坛人物为义子女
-收养血犼教人物为义子女
-与少林派弟子约会
-与少林派人物邀约聚会
-与峨眉派弟子约会
-与峨眉派人物邀约聚会
-与百花谷弟子约会
-与百花谷人物邀约聚会
-与武当派弟子约会
-与武当派人物邀约聚会
-与元山派弟子约会
-与元山派人物邀约聚会
-与狮相门弟子约会
-与狮相门人物邀约聚会
-与然山派弟子约会
-与然山派人物邀约聚会
-与璇女派弟子约会
-与璇女派人物邀约聚会
-与铸剑山庄弟子约会
-与铸剑山庄人物邀约聚会
-与空桑派弟子约会
-与空桑派人物邀约聚会
-与金刚宗弟子约会
-与金刚宗人物邀约聚会
-与五仙教弟子约会
-与五仙教人物邀约聚会
-与界青门弟子约会
-与界青门人物邀约聚会
-与伏龙坛弟子约会
-与伏龙坛人物邀约聚会
-与血犼教弟子约会
-与血犼教人物邀约聚会
-寻回从属少林派的子女
-寻回从属于少林派的子女
-寻回从属峨眉派的子女
-寻回从属于峨眉派的子女
-寻回从属百花谷的子女
-寻回从属于百花谷的子女
-寻回从属武当派的子女
-寻回从属于武当派的子女
-寻回从属元山派的子女
-寻回从属于元山派的子女
-寻回从属狮相门的子女
-寻回从属于狮相门的子女
-寻回从属然山派的子女
-寻回从属于然山派的子女
-寻回从属璇女派的子女
-寻回从属于璇女派的子女
-寻回从属铸剑山庄的子女
-寻回从属于铸剑山庄的子女
-寻回从属空桑派的子女
-寻回从属于空桑派的子女
-寻回从属金刚宗的子女
-寻回从属于金刚宗的子女
-寻回从属五仙教的子女
-寻回从属于五仙教的子女
-寻回从属界青门的子女
-寻回从属于界青门的子女
-寻回从属伏龙坛的子女
-寻回从属于伏龙坛的子女
-寻回从属血犼教的子女
-寻回从属于血犼教的子女
-公开杀害同门
-公开杀害同门派的人物
-公开关押同门
-公开关押同门派的人物
-秘密杀害同门
-秘密杀害同门派的人物
-秘密关押同门
-秘密关押同门派的人物
-窃取技艺
-窃取他人的技艺
-Scamming Life Skills
-骗取他人的技艺
-Steal Martial Art
-窃取他人的武学
-Scam Martial Art
-骗取他人的武学
-食用荤食
-食用酒食
-作为出家人，食用酒食或者荤食
+Having a "XS·Possessed" trait
+Escaping prison while serving time
+Escaping prison
+Escaping prison while serving time
+Person of hostile sect
+Hostile person
+Be a subordinate of an opposing sect
+Becoming enemies with sect members
+Hostile members
+Becoming enemies with members of this sect
+Violating sect rule to not have children
+Having children with someone
+As a monastic disciple, having children with others
+As a prominent member of the sect, having children with others
+Violating sect rule to not be in love
+Being in love with someone
+As a monastic disciple, being in love with someone
+As a prominent member of the sect, being in love with someone
+Violating sect rule to not be married
+Getting married with someone
+As a monastic disciple, getting married with someone
+As a prominent member of the sect, getting married with someone
+Violating sect rule to not have sex
+Having sex with someone
+As a monastic disciple, having sex with someone
+As a prominent member of the sect, having sex with someone
+Violating sect rule to not rape
+Raping someone
+As a monastic disciple, raping someone
+As a prominent member of the sect, raping someone
+Violating sect rule to not arrange meetings
+Inviting others somewhere
+As a monastic disciple, inviting others somewhere
+As a prominent member of the sect, inviting others somewhere
+Sex
+Rape
+Being in love with a disciple of Shaolin
+Being in love with a member of Shaolin
+Being in love with a disciple of Emei Sect
+Being in love with a member of Emei Sect
+Being in love with a disciple of Hundred Flowers Valley
+Being in love with a member of Hundred Flowers Valley
+Being in love with a disciple of Wudang Sect
+Being in love with a member of Wudang Sect
+Being in love with a disciple of Yuanshan Sect
+Being in love with a member of Yuanshan Sect
+Being in love with a disciple of Lion-Face Clan
+Being in love with a member of Lion-Face Clan
+Being in love with a disciple of Ranshan Sect
+Being in love with a member of Ranshan Sect
+Being in love with a disciple of Xuannyu Sect
+Being in love with a member of Xuannyu Sect
+Being in love with a disciple of Sword Manor
+Being in love with a member of Sword Manor
+Being in love with a disciple of Kongsang Sect
+Being in love with a member of Kongsang Sect
+Being in love with a disciple of Vajrayana
+Being in love with a member of Vajrayana
+Being in love with a disciple of Five Immortals Cult
+Being in love with a member of Five Immortals Cult
+Being in love with a disciple of Jieqing Gate
+Being in love with a member of Jieqing Gate
+Being in love with a disciple of Fulong Altar
+Being in love with a member of Fulong Altar
+Being in love with a disciple of Bloodhound Cult
+Being in love with a member of Bloodhound Cult
+Becoming sworn siblings with a disciple of Shaolin
+Becoming sworn siblings with a member of Shaolin
+Becoming sworn siblings with a disciple of Emei Sect
+Becoming sworn siblings with a member of Emei Sect
+Becoming sworn siblings with a disciple of Hundred Flowers Valley
+Becoming sworn siblings with a member of Hundred Flowers Valley
+Becoming sworn siblings with a disciple of Wudang Sect
+Becoming sworn siblings with a member of Wudang Sect
+Becoming sworn siblings with a disciple of Yuanshan Sect
+Becoming sworn siblings with a member of Yuanshan Sect
+Becoming sworn siblings with a disciple of Lion-Face Clan
+Becoming sworn siblings with a member of Lion-Face Clan
+Becoming sworn siblings with a disciple of Ranshan Sect
+Becoming sworn siblings with a member of Ranshan Sect
+Becoming sworn siblings with a disciple of Xuannyu Sect
+Becoming sworn siblings with a member of Xuannyu Sect
+Becoming sworn siblings with a disciple of Sword Manor
+Becoming sworn siblings with a member of Sword Manor
+Becoming sworn siblings with a disciple of Kongsang Sect
+Becoming sworn siblings with a member of Kongsang Sect
+Becoming sworn siblings with a disciple of Vajrayana
+Becoming sworn siblings with a member of Vajrayana
+Becoming sworn siblings with a disciple of Five Immortals Cult
+Becoming sworn siblings with a member of Five Immortals Cult
+Becoming sworn siblings with a disciple of Jieqing Gate
+Becoming sworn siblings with a member of Jieqing Gate
+Becoming sworn siblings with a disciple of Fulong Altar
+Becoming sworn siblings with a member of Fulong Altar
+Becoming sworn siblings with a disciple of Bloodhound Cult
+Becoming sworn siblings with a member of Bloodhound Cult
+Adopting a disciple of Shaolin
+Adopting a member of Shaolin
+Adopting a disciple of Emei Sect
+Adopting a member of Emei Sect
+Adopting a disciple of Hundred Flowers Valley
+Adopting a member of Hundred Flowers Valley
+Adopting a disciple of Wudang Sect
+Adopting a member of Wudang Sect
+Adopting a disciple of Yuanshan Sect
+Adopting a member of Yuanshan Sect
+Adopting a disciple of Lion-Face Clan
+Adopting a member of Lion-Face Clan
+Adopting a disciple of Ranshan Sect
+Adopting a member of Ranshan Sect
+Adopting a disciple of Xuannyu Sect
+Adopting a member of Xuannyu Sect
+Adopting a disciple of Sword Manor
+Adopting a member of Sword Manor
+Adopting a disciple of Kongsang Sect
+Adopting a member of Kongsang Sect
+Adopting a disciple of Vajrayana
+Adopting a member of Vajrayana
+Adopting a disciple of Five Immortals Cult
+Adopting a member of Five Immortals Cult
+Adopting a disciple of Jieqing Gate
+Adopting a member of Jieqing Gate
+Adopting a disciple of Fulong Altar
+Adopting a member of Fulong Altar
+Adopting a disciple of Bloodhound Cult
+Adopting a member of Bloodhound Cult
+Being adopted by a member of Shaolin
+Being adopted by a member of Emei Sect
+Being adopted by a member of Hundred Flowers Valley
+Being adopted by a member of Wudang Sect
+Being adopted by a member of Yuanshan Sect
+Being adopted by a member of Lion-Face Clan
+Being adopted by a member of Ranshan Sect
+Being adopted by a member of Xuannyu Sect
+Being adopted by a member of Sword Manor
+Being adopted by a member of Kongsang Sect
+Being adopted by a member of Vajrayana
+Being adopted by a member of Five Immortals Cult
+Being adopted by a member of Jieqing Gate
+Being adopted by a member of Fulong Altar
+Being adopted by a member of Bloodhound Cult
+Inviting a disciple of Shaolin somewhere
+Inviting a member of Shaolin somewhere
+Inviting a disciple of Emei Sect somewhere
+Inviting a member of Emei Sect somewhere
+Inviting a disciple of Hundred Flowers Valley somewhere
+Inviting a member of Hundred Flowers Valley somewhere
+Inviting a disciple of Wudang Sect somewhere
+Inviting a member of Wudang Sect somewhere
+Inviting a disciple of Yuanshan Sect somewhere
+Inviting a member of Yuanshan Sect somewhere
+Inviting a disciple of Lion-Face Clan somewhere
+Inviting a member of Lion-Face Clan somewhere
+Inviting a disciple of Ranshan Sect somewhere
+Inviting a member of Ranshan Sect somewhere
+Inviting a disciple of Xuannyu Sect somewhere
+Inviting a member of Xuannyu Sect somewhere
+Inviting a disciple of Sword Manor somewhere
+Inviting a member of Sword Manor somewhere
+Inviting a disciple of Kongsang Sect somewhere
+Inviting a member of Kongsang Sect somewhere
+Inviting a disciple of Vajrayana somewhere
+Inviting a member of Vajrayana somewhere
+Inviting a disciple of Five Immortals Cult somewhere
+Inviting a member of Five Immortals Cult somewhere
+Inviting a disciple of Jieqing Gate somewhere
+Inviting a member of Jieqing Gate somewhere
+Inviting a disciple of Fulong Altar somewhere
+Inviting a member of Fulong Altar somewhere
+Inviting a disciple of Bloodhound Cult somewhere
+Inviting a member of Bloodhound Cult somewhere
+Returning children belonging to Shaolin
+Returning children belonging to Shaolin
+Returning children belonging to Emei Sect
+Returning children belonging to Emei Sect
+Returning children belonging to Hundred Flowers Valley
+Returning children belonging to Hundred Flowers Valley
+Returning children belonging to Wudang Sect
+Returning children belonging to Wudang Sect
+Returning children belonging to Yuanshan Sect
+Returning children belonging to Yuanshan Sect
+Returning children belonging to Lion-Face Clan
+Returning children belonging to Lion-Face Clan
+Returning children belonging to Ranshan Sect
+Returning children belonging to Ranshan Sect
+Returning children belonging to Xuannyu Sect
+Returning children belonging to Xuannyu Sect
+Returning children belonging to Sword Manor
+Returning children belonging to Sword Manor
+Returning children belonging to Kongsang Sect
+Returning children belonging to Kongsang Sect
+Returning children belonging to Vajrayana
+Returning children belonging to Vajrayana
+Returning children belonging to Five Immortals Cult
+Returning children belonging to Five Immortals Cult
+Returning children belonging to Jieqing Gate
+Returning children belonging to Jieqing Gate
+Returning children belonging to Fulong Altar
+Returning children belonging to Fulong Altar
+Returning children belonging to Bloodhound Cult
+Returning children belonging to Bloodhound Cult
+Publicly killing members of your sect
+Publicly killing members of your sect
+Publicly imprisoning members of your sect
+Publicly imprisoning members of your sect
+Secretly killing members of your sect
+Secretly killing members of your sect
+Secretly imprisoning members of your sect
+Secretly imprisoning members of your sect
+Stealing Fine Arts
+Stealing another person's Fine Arts
+Scamming Fine Arts
+Scamming another person's Fine Arts
+Steal Martial Arts
+Stealing another person's Martial Arts
+Scamming Martial Arts
+Scamming another person's Martial Arts
+Non-vegetarian Food
+Drinking Alcohol
+As a monastic person, eating non-vegetarian food or drinking alcohol
