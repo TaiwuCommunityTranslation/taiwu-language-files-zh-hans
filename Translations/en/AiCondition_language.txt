@@ -1,195 +1,195 @@
 Delay
-每 {0} 返回一次真值
-判定概率
-当判定 {0}% 概率通过时返回真值
-首次
-每场战斗首次执行到该条件时返回真值
-功法已装配
-当 {0} 运功栏含有 {1} 时返回真值
-功法已突破
-当 {0} 已突破 {1} {2} 时返回真值
-功法已习得
-当 {0} 已习得 {1} 时返回真值
-处于攻击范围
-当前距离 +{1} 处于 {0} 的普攻或施展中摧破攻击范围时返回真值
-处于功法范围
-当前距离 +{1} 处于 {0} 的功法 {2} 施展范围时返回真值
-存在攻击范围边缘
-当 {0} 存在有效的攻击范围边缘时返回真值
-记忆为文本
-当记忆中 {0} 对应值与 {1} 相同时返回真值
-记忆为布尔
-记忆为整数
-记忆不为文本
-当记忆中 {0} 无对应值或与 {1} 不相同时返回真值
-记忆不为布尔
-记忆不为整数
-记忆大于
-当记忆中 {0} 对应值大于 {1} 时返回真值
-记忆小于
-当记忆中 {0} 对应值小于 {1} 时返回真值
-战斗难度
-当角色为太吾或战斗难度不低于 {0} 时返回真值
-目标距离偏向
-目标距离偏向 {0}
-目标距离不为
-目标距离不为 {0}
-目标距离不为最远
-目标距离不为最远距离
-正在施展
-{0} 正在施展 {1}
-正在施展功法
-{0} 正在施展功法 {1}
-功法施展进度达
-{1} 功法施展进度不低于 {0}% 时返回真值
-功法施展进度未达
-{1} 功法施展进度低于 {0}% 时返回真值
-剩余招架低于
-当 {1} 剩余招架值低于 {0}% 时返回真值
-战败标记过半
-当 {0} 战败标记过半时返回真值
-判定禁用逃跑
-当己方不可逃跑或判定禁用逃跑通过时返回真值
-满足逃跑条件
-当己方满足逃跑条件时返回真值
-处于危险中
-当己方处于危险中时返回真值
-可以进行普攻
-可以进行变招
-可以变招破绽
-可以变招封穴
-可以变招封穴 {0}
-可以变招改内力属性
-可以切换兵器
-当索引 {0} - {1} 之间存在可切换且处于攻击范围的武器时返回真值
-可以进行逃脱移动
-可以进行行为
-可以进行行为 {0}
-存在可用的同道指令
-存在可用的 {0} 指令
-存在可用的功法
-存在可用的 {0} 功法
-存在可用的施展增幅
-存在恢复招架护体
-存在增益身法
-存在可用的疗伤药
-存在可用的驱毒药
-存在可用的内息药
-存在可用的增益药
-存在可用的毒药
-存在可用的血露
-存在可用的酒
-存在可修理的兵器
-存在可修理的防具
-战斗类型
-当战斗类型为 {0} 时返回真值
-已运起身法
-当 {0} 已运起身法时返回真值
-已运起特定身法
-当 {0} 已运起身法 {1} {2} 时返回真值
-已运起护体
-当 {0} 已运起护体时返回真值
-已运起特定护体
-当 {0} 已运起护体 {1} {2} 时返回真值
+Returns the truth value once per {0} 
+probability of judgment
+Returns true when the {0}% probability of passing is determined.
+inaugural
+Returns true the first time this condition is executed for each battle
+Kung Fu has been assembled.
+Returns true when the {0} operation field contains {1} 
+The kung fu has been broken through
+Returns true when {0} has broken through {1} {2} 
+You've learned the Kung Fu.
+Returns true when {0} has learned {1} 
+be in the area of an attack
+Current Distance + {1} Returns true if you are in range of {0} 's Punch or Mid-Destruct attack.
+It's in the range of the kung fu.
+Current Distance + {1} Returns true if {0} is within the range of {2}.
+Presence of attack range edge
+Returns true when a valid attack range edge exists for {0} 
+Memory as Text
+Returns true if the value corresponding to {0} is the same as {1} in memory.
+Memory as Boolean
+Memorize as an integer
+Memory is not a text
+Returns true if {0} has no value in memory or is not the same as {1}.
+Memory is not Boolean.
+Memory is not an integer
+memory is greater than
+Returns true when the value corresponding to {0} in memory is greater than {1}.
+Memory less than
+Returns true if the value corresponding to {0} in memory is less than {1}.
+Fight Difficulty
+Returns true when the character is Taigo or when the combat difficulty is not lower than {0} 
+Target distance bias
+Target distance bias {0}
+The target distance is not
+The target distance is not {0}
+The target distance is not the furthest
+Target distance is not the farthest distance
+It's working.
+{0} It's working. {1}
+I'm performing a technique.
+{0} I'm performing a technique. {1}
+The progress of the technique is up to
+{1} Returns true if the progress of the technique does not fall below {0}%.
+The progress of the technique has not been reached.
+{1} Returns true if the progress of the technique is less than {0}%.
+Residual stances below
+Returns true when {1} 's remaining move value is less than {0}%.
+Over half of the defeat markers
+Returns true when {0} is halfway through the defeat marker
+Decision to disable escape
+Returns true when your side is not allowed to escape or when a judgment disabling escape passes.
+Satisfying the conditions for escape
+Returns true when your side meets the escape condition
+At risk.
+Returns true when your side is in danger.
+Can perform a Punch Attack
+It's possible to make changes.
+You can change your moves and break them.
+You can change your stance and seal your points.
+You can change your stance and seal your points. {0}
+You can change your moves to change your internal attributes.
+You can switch weapons.
+Returns true if there is a switchable weapon in range between {0} - {1}.
+Escape movement is possible
+Behavior can be performed
+Behavior can be performed {0}
+Existence of available cohort commands
+The available {0} command exists
+Existence of usable feats
+Exists available at {0} skill
+Existence of a usable increase in the number of performances
+Presence Recovery Stroke Bodyguard
+Presence Gain Stance
+Existence of available healing medicines
+Existence of available repellents
+Presence of available endostatin
+Presence of available gain medicine
+Existence of usable poisons
+Presence of usable blood drops
+Existence of available wine
+Existence of repairable weapons
+Existence of repairable defense equipment
+Combat Type
+Returns true when the fight type is {0} 
+activate one's stance
+Returns true when {0} has been activated.
+I've activated a specific stance.
+Returns true when {0} has activated the body method {1} {2} 
+I've activated my shield.
+Returns true when {0} has activated the bodyguard.
+Specific body armor has been activated.
+Returns true when {0} has activated the shield {1} {2} 
 Taiwu
-仅自身为太吾时返回真值
-伤势标记
-当 {0} {2} {3} 伤标记不低于 {1} 个时返回真值
-破绽标记
-当 {0} {2} 破绽标记不低于 {1} 个时返回真值
-封穴标记
-当 {0} {2} 封穴标记不低于 {1} 个时返回真值
-毒素标记
-当 {0} {2} 标记不低于 {1} 个时返回真值
-失神标记
-当 {0} 失神标记不低于 {1} 个时返回真值
-重创标记
-当 {0} 重创标记不低于 {1} 个时返回真值
-必死标记
-当 {0} 必死标记不低于 {1} 个时返回真值
-内息标记
-当 {0} 内息标记不低于 {1} 个时返回真值
-状态标记
-当 {0} 状态标记不低于 {1} 个时返回真值
-健康标记
-当 {0} 健康标记不低于 {1} 个时返回真值
-若蛊标记
-当 {0} 有 {1} 且 {2} 的 {3} 蛊时返回真值
-成蛊标记
-当 {0} 有 {1} 成蛊时返回真值
-王蛊标记
-当 {0} 有 {1} 王蛊时返回真值
-真气标记
-当 {0} {1} 真气不低于 {2}% 时返回真值
-功法效果
-当 {0} 功法 {1} {2} 有 {3} 层效果时返回真值
-脚力值
-当 {1} 脚力值不低于 {0}% 时返回真值
-疲怠中
-弃用条件，当前会始终返回假值
-精纯
-当角色为太吾或 {0} 精纯值不低于 {1} 时返回真值
-阶段
-当战斗阶段不低于 {0} 时返回真值（首个阶段为零）
-式槽
-当 {0} 式槽中 {1} 式数量不低于 {2} 个时返回真值
-可切换至索引兵器
-当索引为 {0} 的兵器可被切换时返回真值
-可切换至特定兵器
-当存在可切换的兵器 {0} 时返回真值
-可切换至兵器类型
-当存在可切换的 {0} 类兵器时返回真值
-当前兵器
-当 {0} 兵器为 {1} 时返回真值
-当前兵器类型
-当 {0} 兵器类型为 {1} 时返回真值
+Returns true only if itself is Taiko
+Injuries
+Returns true when {0} {2} {3} has no fewer than {1} injury markers
+mistake or gap in a speech or theory
+Returns true when {0} {2} has no fewer than {1} breakage markers.
+mark a cave with a seal
+Returns true if {0} {2} has no fewer than {1} sealing markers.
+toxin labeling
+Returns true when {0} {2} markers are not less than {1} ones
+disorientation
+Returns true when {0} has no less than {1} disorientation markers.
+Fatal Wound
+Returns true when {0} has no fewer than {1} re-injury markers
+Mark of certain death
+Returns true if {0} has no fewer than {1} must-die tokens.
+internal breath marker (e.g. in Chinese medicine)
+Returns true when {0} has no less than {1} resting marks.
+status mark
+Returns true if the {0} status marker is not less than {1}.
+health marker
+Returns true when {0} health markers are no less than {1} 
+If the compulsion mark
+Returns true when {0} has {1} and {2} has a {3} comp.
+mark a person as a parasite
+Returns true when {0} compares to {1}.
+mark of a king's compulsion
+Returns true when {0} has a {1} king comp.
+mark of true qi
+Returns true when {0} {1} true qi is not less than {2}%.
+Effect of Technique
+Returns true when {0} skill {1} {2} has {3} layer effect
+foot power value
+Returns true when {1} footage value is not less than {0}%
+Weary.
+Discard condition, currently will always return false value
+pure
+Returns true if the character is Taigo or if {0} has a purity value no lower than {1}.
+point
+Returns true when the combat phase is not lower than {0} (first phase is zero)
+groove
+Returns true when the number of {1} equations in the {0} equation slot is not less than {2} equations.
+Switchable to indexed weapons
+Returns true when the weapon indexed at {0} can be toggled
+Switchable to specific weapons
+Returns true when a switchable weapon exists {0} 
+Switchable to weapon type
+Returns true when a switchable {0} class weapon exists
+Current weapons
+Returns true when {0} weapon is {1} 
+Current weapon type
+Returns true when {0} weapon type is {1} 
 Internal energy type
-当 {0} 内力属性五行为 {1} 时返回真值
-所有标记
-当 {0} 所有标记不低于 {1} 个时返回真值
-所有内外标记
-当 {0} 所有部位 {2} 伤标记不低于 {1} 个时返回真值
-所有伤势标记
-当 {0} 所有部位伤势标记不低于 {1} 个时返回真值
-所有破绽标记
-当 {0} 所有部位破绽标记不低于 {1} 个时返回真值
-所有封穴标记
-当 {0} 所有部位封穴标记不低于 {1} 个时返回真值
-记忆内大于
-当记忆中 {0} 对应值大于 {1} 对应值时返回真值
-记忆内小于
-当记忆中 {0} 对应值小于 {1} 对应值时返回真值
-记忆等于施展
-当记忆中 {0} 对应值与 {1} 正在施展的功法相同时返回真值
-攻击范围边缘大于
-当 {0} 攻击范围 {1} 边缘大于另一方攻击范围相同边缘时返回真值
-攻击范围边缘小于
-当 {0} 攻击范围 {1} 边缘小于另一方攻击范围相同边缘时返回真值
-上次普攻被化解
-上次普攻为当前武器，且首次攻击或追击被化解时返回真值
-当前兵器索引
-当 {0} 兵器索引为 {1} 时返回真值
-正在施展正逆功法
-{0} 正在施展功法 {1} {2}
-可施展特定功法
-自身可施展功法 {0} 时返回真值
-可施展正逆功法
-自身可施展功法 {0} 且该功法为 {1} 时返回真值
-增益状态强度
-当 {1} 存在名称为 {0} 的增益状态且总强度不低于 {2} 时返回真值
-损害状态强度
-当 {1} 存在名称为 {0} 的损害状态且总强度不低于 {2} 时返回真值
-特殊状态强度
-当 {1} 存在名称为 {0} 的特殊状态且总强度不低于 {2} 时返回真值
-处于记忆功法范围
-当前距离 +{2} 处于 {1} 记忆中 {0} 对应值施展范围时返回真值
-可施展记忆功法
-自身可施展记忆中 {0} 时返回真值
-当前距离等于
-当前距离等于 {0} 时返回真值
-当前距离大于
-当前距离大于 {0} 时返回真值
-当前距离小于
-当前距离小于 {0} 时返回真值
-上次普攻落空
-上次落空的普攻为当前武器，且未进行攻击时返回真值
+Returns true when {0} internal strength attribute five rows is {1} 
+All marks
+Returns true when all tokens of {0} are not less than {1} 
+All internal and external markings
+Returns true when {0} all parts of {2} have no fewer than {1} injury markers.
+All injury markers
+Returns true when {0} has no fewer than {1} injury markers for all sites
+All breakage markers
+Returns true when {0} has no fewer than {1} all part breakage markers.
+All sealing point markers
+Returns true if {0} has no fewer than {1} sealing markers for all sites.
+(math.) memory is larger than
+Returns true when the value corresponding to {0} in memory is greater than the value corresponding to {1}.
+(math.) less than
+Returns true if the value corresponding to {0} in memory is less than the value corresponding to {1}.
+Memorization equals performance.
+Returns true when the value corresponding to {0} in memory is the same as the technique being performed by {1}.
+Attack range edge greater than
+Returns true when the {0} attack range {1} edge is greater than the same edge of the other side's attack range
+The edge of the attack range is less than
+Returns true when the {0} attack range {1} edge is smaller than the same edge of the other side's attack range.
+The last attack was neutralized.
+Returns true when the last pummel is the current weapon and the first attack or pursuit is defused
+Current Weapon Index
+Returns true when {0} weapon index is {1} 
+I'm performing the "Right and Wrong" technique.
+{0} Performing Kung Fu {1} {2}
+Can perform specific feats
+Self-executable feats {0} return true when
+Can perform positive and negative techniques
+Returns true if you can perform the technique {0} and the technique is {1}.
+Gain State Intensity
+Returns true when a gain state with the name {0} exists at {1} and the total strength is not lower than {2} 
+damage state intensity
+Returns true when {1} has a damage state with the name {0} and the total intensity is not less than {2} 
+special condition strength
+Returns true when {1} has a special state named {0} and the total strength is not less than {2} 
+It's in the range of memorized feats.
+Current distance + {2} Returns true if the value corresponding to {0} in {1} 's memory is within the range of application.
+Can perform memorization techniques
+Self-executing memories {0} return true when
+The current distance is equal to
+Returns true if the current distance is equal to {0} 
+The current distance is greater than
+Returns true if the current distance is greater than {0} 
+The current distance is less than
+Returns true if the current distance is less than {0} 
+The last attack fell short.
+Returns true if the last missed poke was the current weapon and no attack was made
