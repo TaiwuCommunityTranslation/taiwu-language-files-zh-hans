@@ -1,103 +1,103 @@
 Attack
-执行一次普攻
+Do weapon attack once
 Style Change
-执行变招攻击，使用记忆功法 {0} 部位与蓄式
-变招破绽
-执行变招破绽，使用记忆功法 {0} 部位与蓄式
-变招封穴
-执行变招封穴 {1}，使用记忆功法 {0} 蓄式
-变招改属性
-执行变招改内力属性，使用记忆功法 {0} 蓄式
+Do a Style Change attack using the memorized technique {0}'s position and stored styles
+Style Change Weak Point
+Do a Style Change attack that will cause a Weak Point using the memorized technique {0}'s position and stored styles
+Style Change Sealed Acupoint
+Do a Style Change attack that will cause a Sealed Acupoint {1} using the memorized technique {0}'s position and stored styles
+Style Change Element
+Do a Style Change attack that will change opponents internal element using the memorized technique {0}'s position and stored styles
 Skills
-施展特定功法 {0}
-最佳摧破
-施展最佳摧破功法
-最佳护体
-施展最佳护体功法
-护体招架
-施展恢复招架的护体
-身法增益
-施展增益类身法
-身法提速
-施展速度最快的身法
-施展增幅
-执行施展增幅
-移动至攻击范围
-设置目标距离为攻击范围正中 + {0}
-移动逃离攻击范围
-设置目标距离为对方攻击范围边缘
-移动至指定位置
-设置目标距离为 {0}
-移动至最远距离
-设置目标距离为战场最远距离
-记忆文本
-设置记忆中 {0} 为 {1}
-记忆布尔
-记忆整数
-同道指令
-执行 {0} 指令
-切换兵器
-从索引 {0} - {1} 中切换到当前距离兵器
-预约行为
-预约行为 {0}
-使用疗伤药
-使用驱毒药
-使用内息药
-使用增益药
-使用毒药
-使用血露
-使用酒
-修理兵器
-修理防具
-切换索引兵器
-切换至索引为 {0} 的兵器
-切换特定兵器
-切换至兵器 {0}
-切换兵器类型
-切换至 {0} 类兵器
-记忆加
-记忆中 {0} 对应值加上 {1}，如记忆中不存在该值则取值为零进行叠加
-中断施展
-中断正在施展的功法，对太吾无效
-中断护体
-中断当前运起的护体，对太吾无效
-记忆内赋值文本
-设置记忆中 {0} 对应文本为 {1} 对应文本
-记忆内赋值布尔
-设置记忆中 {0} 对应布尔为 {1} 对应布尔
-记忆内赋值整数
-设置记忆中 {0} 对应值为 {1} 对应值
-记忆所有标记数
-设置记忆中 {0} 为 {1} 所有标记个数
-记忆伤势标记数
-设置记忆中 {0} 为 {1} 所有部位伤势标记个数
-记忆破绽标记数
-设置记忆中 {0} 为 {1} 所有部位破绽标记个数
-记忆封穴标记数
-设置记忆中 {0} 为 {1} 所有部位封穴标记个数
-记忆毒素标记数
-设置记忆中 {0} 为 {1} 所有毒素标记个数
-记忆失神标记数
-设置记忆中 {0} 为 {1} 失神标记个数
-记忆重创标记数
-设置记忆中 {0} 为 {1} 重创标记个数
-记忆可变招破绽次数
-设置记忆中 {0} 为 {1} 当前可变招破绽次数（斩杀用）
-记忆特定功法
-设置记忆中 {0} 为功法 {1}
-移动至攻击范围边缘
-设置目标距离为攻击范围 {0} 边缘 + {1}
-记忆已施展功法
-设置记忆中 {0} 为 {1} 当前或上次施展的功法，缺省设置为 -1
-设置高优先级
-设置记忆中 {0} 对应功法为高优先级
-设置低优先级
-设置记忆中 {0} 对应功法为低优先级
-重置优先级
-重置记忆中 {0} 对应功法已设置的优先级
-记忆最佳摧破
-设置记忆中 {0} 为当前可施展的最佳摧破功法，缺省设置为 -1
-施展记忆功法
-施展记忆中功法 {0}
-中断身法
-中断当前运起的身法，对太吾无效
+Use specified technique {0}
+Optimal Break
+Use an optimal Break technique
+Optimal Aegis
+Use an optimal Aegis technique
+Aegis Deflect
+Use a Deflect-restoring Aegis technique
+Buff Footwork
+Use a buffing Footwork technique
+Speed Footwork
+Use a speed Footwork technique
+Cast Increase
+Do cast increase
+Move into Attack Range
+Sets the target distance to the center of the Attack Range + {0}
+Move out of Attack Range
+Sets the target distance to the edge of the opponent's Attack Range
+Set Target Distance
+Sets target distance to {0}
+Furthest Target Distance
+Sets furthest target distance in combat
+Recall Script
+Sets {0} in memory as {1}
+Recall Boolean
+Recall Integer
+Teammate Order
+Implement {0} order
+Switch Weapon
+Switch to the current range weapon from index {0} - {1}
+Reserve Action
+Reserve action {0}
+Use Healing Drug
+Use Detox Drug
+Use Inner Breath Drug
+Use Buff Drug
+Use Poison Drug
+Use Blood Dew
+Use Wine
+Repair Weapon
+Repair Armor
+Switch Index Weapon
+Switch to weapon with index {0}
+Switch Special Weapon
+Switch to weapon {0}
+Switch Weapon Type
+Switch to {0} type of weapon
+Recall Addition
+The corresponding value of {0} in memory plus {1}. If the value does not exist in memory, the value is zero
+Interrupt Use
+Interrupts the current technique. Ineffective against Taiwu
+Interrupt Aegis
+Interrupts the current Aegis technique. Ineffective against Taiwu
+Assign Text to Memory
+Set the text corresponding to {0} in memory to the text corresponding to {1}
+Assign Boolean to Memory
+Set the boolean value of {0} in memory to the boolean value of {1}
+Assign Integer to Memory
+Set the integer corresponding to {0} in memory to the integer corresponding to {1}
+Assign Markers to Memory
+Set the number of all markers in memory {0} to {1}
+Assign Injury Markers to Memory
+Set the number of injury markers in memory {0} to {1}
+Assign Weak Points to Memory
+Set the number of Weak Points in memory {0} to {1}
+Assign Sealed Acupoints to Memory
+Set the number of Sealed Acupoints in memory {0} to {1}
+Assign Poison Markers to Memory
+Set the number of poison markers in memory {0} to {1}
+Assign Daze Markers to Memory
+Set the number of daze markers in memory {0} to {1}
+Assign Fatal Wound Markers to Memory
+Set the number of Fatal Wound markers in memory {0} to {1}
+Assign Style Change Weak Point Count
+Set the current Style Change Weak Point count in memory from {0} to {1} (for killing)
+Assign Special Technique
+Set {0} in memory as technique {1}
+Move into Attack Range's Edge
+Set target distance to attack range {0} edge + {1}
+Assign Already Used Techniques
+Set {0} in memory to {1} the current or last performed technique. The default setting is -1
+Set Top Priority
+Set the corresponding skill of {0} in memory to high priority
+Set Low Priority
+Set the corresponding skill of {0} in memory to low priority
+Reset Priority Level
+Reset the priority of the corresponding skill {0} in memory 
+Assign Optimal Break
+Set {0} in memory to the best Break technique that can be performed currently. The default setting is -1
+Use Assigned Skill
+Use assigned technique {0}
+Interrupt Footwork
+Interrupts the current Footwork. Ineffective against Taiwu
