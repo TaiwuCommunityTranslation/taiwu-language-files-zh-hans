@@ -1,7 +1,7 @@
 
 
 专解
-<color=#brightblue>放置其中的功法的发挥度上限增加50%，</color><color=#brightred>但功法的使用需求增加25%。</color>
+<color=#brightblue>放置其中的功法的威力上限增加50%，</color><color=#brightred>但功法的发挥需求增加25%。</color>
 用极
 <color=#pinkyellow>运起放置其中的功法时，根据五行相同、相生、相克的不同，</color><color=#brightblue>增加</color><color=#pinkyellow>或</color><color=#brightred>减少</color><color=#pinkyellow>其它功法的威力。</color>
 大盈
@@ -11,7 +11,7 @@
 绝旨
 <color=#brightblue>放置其中的功法在战斗开始时，威力会发生变化：运用者的该功法的威力增加40%；敌人的该功法的威力减少40%。</color>
 收置
-<color=#brightblue>放置其中的功法只占用1格功法栏，</color><color=#brightred>但功法的使用需求增加50%。</color>
+<color=#brightblue>放置其中的功法只占用1格功法栏，</color><color=#brightred>但功法的发挥需求增加50%。</color>
 
 
 

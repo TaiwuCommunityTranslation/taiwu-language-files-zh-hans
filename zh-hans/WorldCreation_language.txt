@@ -13,13 +13,12 @@
 研读的速度
 书籍的基础研读效率。\n<color=#yellow>（研读效率越高，月份更替时、主动研读时、实战领悟时所选择研读的书籍研读进度增加得越多。）</color>
 <color=#pinkyellow>极快</color>
-<color=#9FE0DCFF>正常</color>
+<color=#9FE0DCFF>普通</color>
 <color=#FFE78FFF>缓慢</color>
 <color=#FF5331FF>天书</color>
 突破的难度
 突破功法连接突破格时成功率。\n<color=#yellow>（突破成功率越高，可以越简单地挑选突破时连接的路线。）</color>
 <color=#pinkyellow>轻松</color>
-<color=#9FE0DCFF>普通</color>
 <color=#FFE78FFF>困难</color>
 <color=#FF5331FF>失传</color>
 周天的速度
@@ -44,10 +43,11 @@
 世界的人数
 人口数量决定了游戏内活跃npc的数量上限，npc数量越多，太吾世界越精彩。\n<color=#E3C66DFF>（世界的人口数量越多需要的电脑性能越好。）</color>\n<color=#E4504DFF>（此选项无法在游戏开始后变更！）</color>
 较少
+普通
 较多
 极多
 立场的限制
-立场的限制将限制不同的处世立场在游戏中可选择的事件选项，以体验更为真实的太吾世界
+立场的限制将限制不同的处世立场在游戏中可选择的事件选项，以体验更为真实的太吾世界。
 开启
 关闭
 随机继承人
@@ -60,3 +60,6 @@
 人情的变化
 人与人之间好感度变化的难度。\n<color=#E3C66DFF>（变化难度越大，他人对你的好感累积就越困难。）</color>
 <color=#FF5331FF>刻薄</color>
+志向的成长
+志向资历的成长速度。\n<color=#E3C66DFF>（成长难度越大，志向资历的获取速度也会越慢。）</color>
+<color=#FF5331FF>艰难</color>
