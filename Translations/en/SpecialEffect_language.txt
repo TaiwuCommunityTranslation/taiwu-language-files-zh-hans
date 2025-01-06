@@ -37,7 +37,7 @@ Sitting-in-Oblivion
 Increase the casting progress
 Greatly increases the power of user's "Wood" techniques; While performing any "Wood" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to increase the cast progress of the "Wood" technique by 50%, up to a maximum of 75%.
 Great Nirvana
-The higher the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a positive trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
+运用者所有前世的「名誉」越高，运用者所有功法的威力就增加越多；如果运用者拥有九世轮回善果，额外增加运用者所有功法的威力
 Diagram of\nAcupunture Points
 Increases the power limit of "Hundred Flowers Valley" techniques by 30%
 Nine Needles and\nTwelve Source Points
@@ -127,13 +127,13 @@ Greatly increases the upper limit of all major attributes of the user (by 20). D
 Chap. Forge
 Increases the power limit of "Sword Manor" techniques by 30%
 Chap. Weave
-Increases maximum power of user's "Armor"
+增加运用者所装备的「护具」的威力上限
 Chap. 5 Metals
 When the user's internal element is "Fire", direct damage and backlash damage dealt to the user by the "Metal" techniques will be reduced.
 Chap. Refining
 The more times the user's current "Weapon" is Refined, the less damage enemy will deal to the user
 Chap. Sacrifice
-Increases maximum power of user's "Weapons"
+增加运用者所装备的「兵器」的威力上限
 Summary of\nChihuang
 Increases the power limit of "Kongsang Sect" techniques by 30%
 Shennong\nMateria Medica
@@ -249,7 +249,8 @@ Small Arhat\nRod Formation
 User's teammates will more frequently be able to perform "Defend" order to protect the user with an Aegis technique from enemy attacks.
 Buddhism\nLion Roar
 Remove Enemy's Footwork
-Hinder Enemy's Ability to Move
+压制敌之属性
+增敌身法消耗
 Whenever the user starts performing a "Break" technique, if the enemy is within the user's Attack Range, enemy's Footwork will be removed, and while the user is performing the technique, Stamina cost of enemy's Footworks will be doubled, and their Movement Speed, Attack Speed, and Cast Speed will be lowered to minimum
 Hunyuan\nBreathing
 Changing Int. Def. to Ext. Def.
@@ -301,7 +302,7 @@ Remove Sealed Acupoints
 Increase Unsealing Speed
 When defending with this technique, Sealed Acupoints on the user will be unsealed faster. Whenever the enemy inflicts a Sealed Acupoint on the user, it will instead remove a Sealed Acupoint on the user
 Eight Gates of\nLife and Death
-Whenever the user receives an Injury marker from the enemy, the Injury markers on 1 other random body part of the user with fewer Injury markers will be reduced by 2
+每当运用者受到敌人的直接伤势标记，随机消除运用者其它伤势标记最多的1个部位的1个伤势
 Blood Sea\nFreezing Art
 Toxins received by countershock
 Change your own toxins
@@ -329,7 +330,7 @@ User's teammates will more frequently be able to perform "True Qi" order to tran
 Endless Power
 When defending with this technique: As long as the enemy attack isn't a critical hit, even if the user fails to Resolve enemy's weapon attack, user will still be able to Counter; Whenever the user successfully Resolves and Counters enemy's weapon attack, enemy's Stance gets fully depleted, and the more Stance gets depleted, the more the damage of user's Counter will increase.
 3 Flower On Top
-If all True Qi of the user isn't lower than its initial value, the power of this technique will continuously increase, up to 2 times higher than the original power of this technique. If not, the power of this technique will be halved and its power won't increase; When power of this technique isn't lower than 100%, the power of all techniques performed by the user will be increased by a portion of this technique's power.
+运用者的真气均不低于初始值时，此功法的威力持续累积增加，最多增加至此功法原本威力的2倍，否则此功法的威力会减半并停止增加；当此功法的威力不低于100%时，运用者所有功法的威力都会根据此功法的部分威力增加
 9 Rollings
 Restoring your own Stamina
 When defending with this technique, whenever the user successfully Counters an enemy weapon attack, user's Stamina will be restored
@@ -409,19 +410,20 @@ Skillful Hands
 When the user is equipped with 3 different types of weapons, the user's casting speed increases
 Wooden Armor
 Increase the toughness of armor
-When defending with this technique: all direct damage taken by the user is reduced by 15%; If enemy weapon's grade isn't higher than the user's armor's grade, the Hardness of user's armor will be greatly increased.
+以此功法进行防御时：运用者受到的所有直接伤害降低15%；如果敌人的精纯境界不高于运用者，或敌人所用兵器的品级不高于运用者受攻击的部位的护具的品级至少2个品级，运用者所有护具的坚韧大幅提高
 14 Methods of Real Steel
 Significantly increase the Hardness and DES of the user's weapon
 Mechanical Formation
 User's teammates will more frequently be able to perform "Guide" and "Warn" orders to increase user's Accuracy and Resolve stats for a short period of time.
 Heavenly Armor
-When defending with this technique, If enemy weapon's grade isn't higher than the user's armor's grade, all External damage caused by the enemy to the user will be reduced by 60%
+以此功法进行防御时，如果敌人的精纯境界不高于运用者，或敌人所用兵器的品级不高于运用者受攻击的部位的护具的品级至少2个品级，敌人对运用者造成的所有直接外伤降低60%
 Exquisite 9
-Treasure Transformation True Qi
-When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability, and the user's true qi will be increased according to the grade of the treasure: metal treasures will increase "Break" true qi; jade treasures will increase "Aegis" true qi; wooden treasures will increase "Quick" true qi; and textile treasures will increase "Nadis" true qi.
+增加解封进度
+修复己之装备
+以此功法进行防御时，每当运用者将敌人非追击的兵器攻击化解，运用者驱动所装备的随机宝物损耗1点耐久修复运用者的一件非宝物的装备3点耐久，且根据该宝物的品级增加运用者随机1件兵器的解封进度
 Forge Mysterious Iron
-Arms become divine weapons
-When the total number of defeat marks of the user exceeds half of the defeat condition, the weapon currently used by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" cannot be damaged unless it is damaged by attacking "Divine Armor"; direct damage caused by attacking with "Divine Armor" cannot be reduced by any effect unless the enemy is protected by "Divine Armor"
+兵器变为玄兵
+运用者的锻造、制木、巧匠、织锦造诣越高，运用者兵器的发挥威力就额外增加越多；此功法额外增加的发挥威力不低于50%时，运用者装备的兵器将在战斗中变化为「玄兵」：「玄兵」无法被卸除；「玄兵」不会因进行兵器攻击而损坏；以「玄兵」攻击造成的直接伤害无法被任何效果降低，除非敌人受到「玄甲」的保护
 4 Finger Azure Cream
 When user's "Nadis" True Qi is higher than the enemy's "Nadis" True Qi, all direct damage dealt by the enemy will be reduced by 15%
 3 Parts 9 Pulses
@@ -442,7 +444,7 @@ Increases the amount of poison inflicted by the user on the enemy in combat
 White Water\nLongevity Art
 Gain Nadis Force
 Reduce New Qi Disorder
-Whenever Poison activates on the enemy, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's newly inflicted Qi Disorder
+每当敌人毒性发作，运用者获得相当于发作毒素的标记数量3倍的「奇窍」真气，且降低运用者的新增紊乱
 Young Dragon's\nBone Regrowth Art
 Automatic healing of injuries
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All External Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
@@ -470,7 +472,7 @@ Application of large amounts of toxins
 When defending with this technique, whenever the user blocks enemy's attack with Diversion, the user applies a large amount of "Level 2" Acritoxin to the enemy.
 The Great Handprint
 Steal Random True Qi
-As long as the user has more True Qi in total than the enemy does, the enemy cannot have more than 4 usable Styles; If the enemy already had more than 4 usable Styles, all usable Styles above 4 will be eliminated, and the enemy will gain 5 points of a random True Qi for each Style eliminated this way.
+只要敌人所有类型的真气数量的总和低于运用者所有类型的真气数量的总和，敌人拥有的可以使用的蓄式数量就无法超过5个；敌人因此而被提前消除的蓄式，会变化为5点敌人随机类型的真气
 Buddha Body
 True qi offset marker
 When defending with this technique: As long as the user isn't attacked by a critical hit, the user will be immune to Fatal Wound damage; For every 3 points of "Aegis" True Qi the user can remove 1 Injury marker from themselves, but the Internal Breath of the user will be increased as a result.
@@ -559,11 +561,11 @@ Whenever the total number of defeat marks of the user's teammate exceeds half of
 The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of External Injuries and Fatal Wounds of the user in battle.
 Sky Demon
 Worsening enemy external injury
-When defending with this technique: all direct External Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Pyrotoxin to the enemy, and at the same time worsens the External Injuries on all body parts of the enemy
+以此功法进行防御时：运用者受到的所有直接外伤降低60%；每当运用者反震敌人的攻击，运用者向敌人施加大量的赤性「剧毒」，小幅恶化敌人所有的外伤
 Undead Body of Blood Child
 Increase Old Qi Disorder
 Exchange Damage
-When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Old Qi Disorder will start to increase continuously until it reaches "Shattered". Until then, the user cannot be defeated, the direct External damage dealt by the user, and direct Internal damage received by the user will be increased by 40%, and Stance required to use techniques will be reduced by 50%
+当运用者的战败标记总数达到战败条件时，如果运用者的内息紊乱未达到“绝断”，运用者就会开始持续增加更难恢复的旧时紊乱，在运用者的内息紊乱达到“绝断”之前，运用者无法被击败，且运用者造成的直接外伤与受到的直接内伤提高80%，且施展功法所需消耗的架势降低50%
 Lift-Up Jumping
 Move Spd Up
 During this Footwork, user's Movement Speed will be increased if the user uses an "Aegis" technique
@@ -615,7 +617,7 @@ Increase Sealed Acupoint Level
 During this Footwork, the level of Sealed Acupoints inflicted by the user will be increased
 Wick of Lamp
 Worsen E·Injuries
-During this Footwork, whenever the user attacks the enemy, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the enemy's body will be worsened by 1. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
+此身法持续期间，运用者在对敌人进行攻击时，会对敌人先进行一次随着作用次数逐渐减弱的精妙命中，如果敌人未能将此精妙化解，随机大幅恶化敌人的1个伤势
 Jade Step
 When advancing with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Flower Listen Rain
@@ -710,18 +712,19 @@ During this Footwork, all Stamina loss caused by the enemy to the user will be r
 Car Driving Chapter
 During this Footwork, whenever the user hits an enemy with a "Mech. Bird" weapon, user's Stamina will be restored.
 All Directions
-For every 0.3 distance you advance with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
+此身法持续期间，运用者的主动兵器攻击在击中敌人时，立即再次无消耗对敌人进行1次兵器攻击，但命中敌人的几率降低
 Tiger Hill Test Sword
 During this Footwork, whenever the user hits an enemy with a "Sword" weapon, user's Stamina will be restored.
 Stardust Avoiding Anger
 Increase DES
-During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the DES of the user's weapon will be greatly increased
+此身法持续期间，运用者攻击敌人时，如果敌人的精纯境界不高于运用者，或敌人被攻击的部位的护具的品级不高于运用者使用的兵器的品级至少2个品级，运用者武器的破甲就会大幅提高
 Dragon Riding
 Stamina instead of Stance
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; User's Stamina will be used to replace Stance costs, and when replacing Stance, Stamina consumption will be reduced by 50%
 Tiankai Flowing Meteor Style
 Enhanced Might gain
-During this Footwork: the Might of the user will not be reduced by any effect; all Might-raising techniques and buff effects that the user receives are greatly increased
+增加装备威力
+此身法持续期间：运用者的力道不会被任何效果降低；运用者受到的所有提高力道的功法、状态效果大幅提高；运用者施展的含有力道的摧破功法会累积增加运用者所有兵器、护具的威力，持续直到战斗结束
 Flying on Grass
 Move Dist Up
 When advancing with this Footwork, the user needs to prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
@@ -1091,95 +1094,100 @@ When this technique reaches $0$0% completion, the more Acritoxin markers the ene
 Nippy Fragrant\nof Hundreds Evil
 This skill will change enemy's Umbritoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Umbritoxin, Umbritoxin will activate
 Flood Dragon's\nBlood
-Decrease Armor Durability
+Damage Enemy Equipment
 When attacking enemy with this technique, the deeper the enemy is poisoned with Necrotoxin, the more direct damage this technique will deal; If the attacked body part doesn't have Armor or if its Armor's durability is completely depleted, the direct damage dealt by this technique will not be reduced for any reason; After this technique reaches $0$0% completion, the deeper the enemy is poisoned with Necrotoxin, the more all of the enemy's Armor will be damaged.
 Ghost Bone\nBlood Sea Otter
 Add a must-death marker
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: Enemy's Poison Resistance is greatly reduced; Whenever the enemy performs a "Break" technique with a Poison marker on their body, 1 Certain Death marker will be added to their body. The more Certain Death markers the enemy has, the more the power of their techniques will increase. Once the enemy has 6 Certain Death markers, they will be defeated, and their Health will be reduced to 0.
 12 Ways of\nAssassination
-Unleash your weapon
-If the weapon held by user is specifically "Sword·YuChang", user can perform this technique from 50% of its progress. After this technique reaches $0$0% completion, "Sword·YuChang" will become Unleashed, allowing you to perform all "Sword Techniques" from 50% of their progress. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Sword enables all "Sword Techniques" to be performed starting from 50% of their progress.
+持续增加运用者所有剑的解封进度；如果运用者使用的兵器为“鱼肠剑”，运用者能够从施展进度80%开始施展此功法，且根据此功法发挥的成数，额外增加“鱼肠剑”的解封进度；释放“鱼肠剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得12层此效果：运用者能够从施展进度40%开始施展摧破功法
+释放“鱼肠剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得12层此效果：运用者能够从施展进度40%开始施展摧破功法
 Gongbu\nThe Unique Sword
-If the weapon held by user is specifically "Sword·GongBu", direct damage dealt by this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·GongBu" will become Unleashed, increasing direct damage of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Sword enables all "Sword Techniques" to deal increased direct damage.
+持续增加运用者所有剑的解封进度；如果运用者使用的兵器为“工布剑”，此功法对敌人造成的直接伤害大幅提高，且根据此功法发挥的成数，额外增加“工布剑”的解封进度；释放“工布剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得8层此效果：运用者的摧破功法对敌人造成的直接伤害大幅提高
+释放“工布剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得8层此效果：运用者的摧破功法对敌人造成的直接伤害大幅提高
 Broken\nHoly Sword
 Skill accuracy up
-If the weapon held by user is specifically "Sword·ShengXie", the chances of hitting enemy with this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·ShengXie" will become Unleashed, increasing hit chance of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Sword enables all "Sword Techniques" to have increased chance of hitting enemies.
+持续增加运用者所有剑的解封进度；如果运用者使用的兵器为“胜邪剑”，此功法击中敌人的几率大幅提高，且根据此功法发挥的成数，额外增加“胜邪剑”的解封进度；释放“胜邪剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得9层此效果：运用者的摧破功法击中敌人的几率大幅提高
+释放“胜邪剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得9层此效果：运用者的摧破功法击中敌人的几率大幅提高
 Heavy Sword of\nGreatTower
-If the weapon held by user is specifically "Sword·JuQue", user's External Penetration will be greatly increased. After this technique reaches $0$0% completion, "Sword·JuQue" will become Unleashed, increasing External Penetration of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Sword enables all "Sword Techniques" to have increased External Penetration.
+额外造成重创
+持续增加运用者所有剑的解封进度；如果运用者使用的兵器为“巨阙剑”，运用者以此功法攻击敌人时，敌人每有1个破绽，就额外造成一定的重创伤害，且根据此功法发挥的成数，额外增加“巨阙剑”的解封进度；释放“巨阙剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得7层此效果：运用者以摧破功法攻击敌人时，敌人每有1个破绽，就额外造成一定的重创伤害
+释放“巨阙剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得7层此效果：运用者以摧破功法攻击敌人时，敌人每有1个破绽，就额外造成一定的重创伤害
 7 Star\nSwordsmanship of DragonPool
 Reducing the consumption of techniques
-If the weapon held by user is specifically "Sword·LongYuan", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Sword·LongYuan" will become Unleashed, decreasing Stance and Inhale consumption of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Sword enables all "Sword Techniques" to have reduced Stance and Inhale cost.
+持续增加运用者所有剑的解封进度；如果运用者使用的兵器为“七星龙渊剑”，运用者施展此功法的提气、架势消耗降低60%，且根据此功法发挥的成数，额外增加“七星龙渊剑”的解封进度；释放“七星龙渊剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得7层此效果：运用者施展摧破功法时的提气、架势消耗降低30%
+释放“七星龙渊剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得7层此效果：运用者施展摧破功法时的提气、架势消耗降低30%
 Taier\nImmeasurable Sword
-If the weapon held by user is specifically "Sword·TaiE", the attack range of this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·TaiE" will become Unleashed, increasing attack range of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Sword enables all "Sword Techniques" to have an increased attack range.
+持续增加运用者所有剑的解封进度；如果运用者使用的兵器为“泰阿剑”，此功法的攻击范围增加4，且根据此功法发挥的成数，额外增加“泰阿剑”的解封进度；释放“泰阿剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得6层此效果：运用者施展的摧破功法的攻击范围增加2
+释放“泰阿剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得6层此效果：运用者施展的摧破功法的攻击范围增加2
 HU·Sword Intent\nof Pure Soul
-Int. Pen. UP
-If the weapon held by user is specifically "Sword·ChunJun", user's Internal Penetration will be greatly increased. After this technique reaches $0$0% completion, "Sword·ChunJun" will become Unleashed, increasing Internal Penetration of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Sword enables all "Sword Techniques" to have increased Internal Penetration.
+持续增加运用者所有剑的解封进度；如果运用者使用的兵器为“纯钧剑”，运用者以此功法攻击敌人时，敌人每有1个封穴，就额外造成一定的重创伤害，且根据此功法发挥的成数，额外增加“纯钧剑”的解封进度；释放“纯钧剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得7层此效果：运用者以摧破功法攻击敌人时，敌人每有1个封穴，就额外造成一定的重创伤害
+释放“纯钧剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得7层此效果：运用者以摧破功法攻击敌人时，敌人每有1个封穴，就额外造成一定的重创伤害
 Swordsmanship\nof SuperbCore
-If the weapon held by user is specifically "Sword·ZhanLu", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Sword·ZhanLu" will become Unleashed, increasing power of all "Sword Techniques". This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Sword enables all "Sword Techniques" to have increased power.
+转移解封进度
+变为解封攻击
+持续增加运用者所有剑的解封进度；如果运用者使用的兵器为“湛卢剑”，根据此功法发挥的成数，“湛卢剑”会将自身的部分解封进度加倍给予另1个兵器，且额外增加“湛卢剑”的解封进度；释放“湛卢剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得3层此效果：运用者的兵器攻击变化为解封攻击，但不会引发因解封带来的功法效果
+释放“湛卢剑”的解封时，牺牲兵器的耐久或2个「机」式，使运用者获得3层此效果：运用者的兵器攻击变化为解封攻击
 Blade of General
 Power of descending enemy protection
-If the weapon held by user is specifically "Blade of General", this technique will reduce power of enemy's current "Aegis" technique. After this technique reaches $0$0% completion, "Blade of General" will become Unleashed, allowing all "Blade Techniques" to reduce power of enemy's current "Aegis" technique. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Blade enables all "Blade Techniques" to reduce power of enemy's "Aegis" technique.
+克制敌之护体
+持续增加运用者所有刀的解封进度；如果运用者使用的兵器为“新亭侯刀”，以此功法攻击敌人时，大幅降低敌人运起的「护体」功法的威力，且根据此功法发挥的成数，额外增加“新亭侯刀”的解封进度；释放“新亭侯刀”的解封时，牺牲兵器的耐久或2个「机」式，消除敌人当前运起的护体，使敌人受到该护体的反噬伤害，并将该护体长时间封禁
+释放“新亭侯刀”的解封时，牺牲兵器的耐久或2个「机」式，消除敌人当前运起的护体，使敌人受到该护体的反噬伤害，并将该护体长时间封禁
 Blade of\nMaster Ruan
-Countering weapon attacks
-If the weapon held by user is specifically "Blade·RuanShi", then while performing this technique, user can Counter all Resolved weapon attacks. After this technique reaches $0$0% completion, "Blade·RuanShi" will become Unleashed, allowing all "Blade Techniques" to Counter all Resolved weapon attacks. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Blade enables all "Blade Techniques" to Counter all Resolved weapon attacks.
+获得兵器蓄式
+持续增加运用者所有刀的解封进度；如果运用者使用的兵器为“阮师刀”，此功法发挥$0$成威力时，运用者随机夺取敌人的2个运用者可用的式，且根据此功法发挥的成数，额外增加“阮师刀”的解封进度；释放“阮师刀”的解封时，牺牲兵器的耐久或2个「机」式，运用者立即获得“阮师刀”具有的所有式
+释放“阮师刀”的解封时，牺牲兵器的耐久或2个「机」式，运用者立即获得“阮师刀”具有的所有式
 Battle Blade\nof Dragon Sparrow
-Anti-shock direct damage
-If the weapon held by user is specifically "Blade·DaXiaLongQue", then while performing this technique, user will Reflect direct damage. After this technique reaches $0$0% completion, "Blade·DaXiaLongQue" will become Unleashed, allowing all "Blade Techniques" to Reflect direct damage. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Blade enables all "Blade Techniques" to Reflect direct damage.
+反制敌人攻击
+持续增加运用者所有刀的解封进度；如果运用者使用的兵器为“大夏龙雀刀”，运用者能够在施展此功法的过程中反击、反震敌人，且根据此功法发挥的成数，额外增加“大夏龙雀刀”的解封进度；释放“大夏龙雀刀”的解封时，牺牲解封兵器的耐久或2个「机」式，将敌人击退或拉近最多6距离，至多使敌人处于运用者攻击范围的中心，击退或拉近的距离越多，就为敌人施加越多破绽
+释放“大夏龙雀刀”的解封时，牺牲解封兵器的耐久或2个「机」式，将敌人击退或拉近最多6距离，至多使敌人处于运用者攻击范围的中心，击退或拉近的距离越多，就为敌人施加越多破绽
 Blade of\nJade Carving
-If the weapon held by user is specifically "Blade·KunWu", user can perform this technique from 50% of its progress. After this technique reaches $0$0% completion, "Blade·KunWu" will become Unleashed, allowing all "Blade Techniques" to be performed from 50% of their progress. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Blade enables all "Blade Techniques" to be performed starting from 50% of their progress
+损敌装备耐久
+持续增加运用者所有刀的解封进度；如果运用者使用的兵器为“昆吾刀”，运用者能够从施展进度80%开始施展此功法，且根据此功法发挥的成数，额外增加“昆吾刀”的解封进度；释放“昆吾刀”的解封时，牺牲兵器的耐久或2个「机」式，随机大幅损坏敌人的3件护具或兵器的耐久
+释放“昆吾刀”的解封时，牺牲兵器的耐久或2个「机」式，随机大幅损坏敌人的3件护具或兵器的耐久
 Blade of\nGhost Chef
-If the weapon held by user is specifically "Ghost Butcher", this technique's damage will be increased based on the amount of Poison markers on the user. After this technique reaches $0$0% completion, "Ghost Butcher" will become Unleashed, allowing all "Blade Techniques" to deal more damage based on the amount of Poison markers on the user. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Blade enables all "Blade Techniques" to deal increased damage based on the amount of Poison markers on the user.
+转移己之妨害
+持续增加运用者所有刀的解封进度；如果运用者使用的兵器为“鬼庖丁”，此功法对敌人造成的直接伤害根据运用者的战败标记提高，且根据此功法发挥的成数，额外增加“鬼庖丁”的解封进度；释放“鬼庖丁”的解封时，牺牲兵器的耐久或2个「机」式，运用者将自身的5个随机妨害标记转移给敌人
+释放“鬼庖丁”的解封时，牺牲兵器的耐久或2个「机」式，运用者将自身的5个随机妨害标记转移给敌人
 Red Blade of\n7 End
-If the weapon held by user is specifically "Blade·Ruby", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Blade·Ruby" will become Unleashed, allowing all "Blade Techniques" to have reduced Stance and Inhale cost. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Blade enables all "Blade Techniques" to have reduced Stance and Inhale cost.
+吸取敌之气势
+持续增加运用者所有刀的解封进度；如果运用者使用的兵器为“赤刀”，运用者施展此功法的提气、架势消耗降低50%，且根据此功法发挥的成数，额外增加“赤刀”的解封进度；释放“赤刀”的解封时，牺牲兵器的耐久或2个「机」式，吸取敌人的提气、架势
+释放“赤刀”的解封时，牺牲兵器的耐久或2个「机」式，吸取敌人的提气、架势
 Incomplete\nBlade
-If the weapon held by user is specifically "Blade·Deform", the attack range of this technique will be greatly increased. After this technique reaches $0$0% completion, "Blade·Deform" will become Unleashed, allowing all "Blade Techniques" to have increased attack range. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Blade enables all "Blade Techniques" to have an increased attack range.
+克制敌之身法
+持续增加运用者所有刀的解封进度；如果运用者使用的兵器为“残刀”，此功法的攻击范围增加4，且根据此功法发挥的成数，额外增加“残刀”的解封进度；释放“残刀”的解封时，牺牲兵器的耐久或2个「机」式，消除敌人当前运起的身法，使敌人受到该身法的反噬伤害，并将该身法长时间封禁
+释放“残刀”的解封时，牺牲兵器的耐久或2个「机」式，消除敌人当前运起的身法，使敌人受到该身法的反噬伤害，并将该身法长时间封禁
 The Last Blade\nof Minghong
-If the weapon held by user is specifically "Blade·MingHong", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Blade·MingHong" will become Unleashed, allowing all "Blade Techniques" to have increased power. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Blade enables all "Blade Techniques" to have increased power.
+夺取解封进度
+持续增加运用者所有刀的解封进度；如果运用者使用的兵器为“鸣鸿刀”，根据此功法发挥的成数，“鸣鸿刀”会夺取其它兵器的部分解封进度，且额外增加“鸣鸿刀”的解封进度；释放“鸣鸿刀”的解封时，牺牲兵器的耐久或2个「机」式，“鸣鸿刀”的解封攻击造成的直接伤害提高3倍
+释放“鸣鸿刀”的解封时，牺牲兵器的耐久或2个「机」式，“鸣鸿刀”的解封攻击造成的直接伤害提高3倍
 Dragon-Defeated\nStaff
-If the weapon held by user is specifically "Polearm·Dragon Vanquisher", when this technique reaches $0$0% completion it will reduce enemy's "attack tokens" and "Polearm·Dragon Vanquisher" will become Unleashed, allowing all "Polearm Techniques" to reduce enemy's "attack tokens" when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's "attack tokens" when they reach $0$0% completion
+持续增加运用者所有长兵的解封进度；如果运用者使用的兵器为“降龙棍”，根据此功法发挥的成数，为运用者所有的兵器增加额外的解封进度，且额外增加“降龙棍”的解封进度；释放“降龙棍”的解封时，牺牲兵器的耐久或2个「机」式，为运用者所有的兵器增加额外的解封进度
+释放“降龙棍”的解封时，牺牲兵器的耐久或2个「机」式，为运用者所有的兵器增加额外的解封进度
 Staff of\nSweep Cloud
-If the weapon held by user is specifically "Polearm·Rainbow Whisk", when this technique reaches $0$0% completion it will reduce enemy's Stamina, and "Polearm·Rainbow Whisk" will become Unleashed, allowing all "Polearm Techniques" to reduce enemy's Stamina when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to reduce enemy's Stamina when they reach $0$0% completion
+持续增加运用者所有长兵的解封进度；如果运用者使用的兵器为“扫霞棍”，根据此功法发挥的成数，损耗敌人的脚力，且额外增加“扫霞棍”的解封进度；释放“扫霞棍”的解封时，将一件运用者所装备的「护具」临时生铸为带有“烟霞神铸”特性的其它同材质、同类型的「护具」，若生铸的护具品级高于原护具，则需要牺牲3个精制物品，持续直到战斗结束或生铸的护具耐久耗尽
+释放“扫霞棍”的解封时，将一件运用者所装备的「护具」临时生铸为带有“烟霞神铸”特性的其它同材质、同类型的「护具」，若生铸的护具品级高于原护具，则需要牺牲3个精制物品，持续直到战斗结束或生铸的护具耐久耗尽
 Staff of\n10 Directions
-If the weapon held by user is specifically "Polearm·Mountain Shaken", when this technique reaches $0$0% completion it will "Interrupt" enemy's Healing, Detox, or Escape, and "Polearm·Mountain Shaken" will become Unleashed, allowing all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to "Interrupt" enemy's Healing, Detox, or Escape when they reach $0$0% completion
+持续增加运用者所有长兵的解封进度；如果运用者使用的兵器为“震岳山河杖”，此功法的攻击范围增加4，且根据此功法发挥的成数，额外增加“震岳山河杖”的解封进度；释放“震岳山河杖”的解封时，将一件运用者所装备的「长兵」临时生铸为带有“山河神解”特性的其它同材质、同类型的「长兵」，若生铸的兵器品级高于原兵器，则需要牺牲3个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
+释放“震岳山河杖”的解封时，将一件运用者所装备的「长兵」临时生铸为带有“山河神解”特性的其它同材质、同类型的「长兵」，若生铸的兵器品级高于原兵器，则需要牺牲3个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
 Staff of\nGhost Head
-Reduce the number of effect layers
-If the weapon held by user is specifically "Polearm·Cyan Ghost", when this technique reaches $0$0% completion it will randomly reduce 1 layer of enemy's "Break" technique's effect, and "Polearm·Cyan Ghost" will become Unleashed, allowing all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to reduce 1 layer of enemy's "Break" technique's effect when they reach $0$0% completion
+持续增加运用者所有长兵的解封进度；如果运用者使用的兵器为“青眼鬼头棒”，根据此功法发挥的成数，为运用者所有的兵器增加额外的解封进度，且额外增加“青眼鬼头棒”的解封进度；释放“青眼鬼头棒”的解封时，将一件运用者所装备的「宝物」临时生铸为带有“鬼眼灵琢”特性的其它同材质、同类型的「宝物」，若生铸的宝物品级高于原宝物，则需要牺牲3个精制物品，持续直到战斗结束或生铸的宝物耐久耗尽
+释放“青眼鬼头棒”的解封时，将一件运用者所装备的「宝物」临时生铸为带有“鬼眼灵琢”特性的其它同材质、同类型的「宝物」，若生铸的宝物品级高于原宝物，则需要牺牲3个精制物品，持续直到战斗结束或生铸的宝物耐久耗尽
 Staff of\nGold Eyes Tiger
-Eliminate helper commands
-If the weapon held by user is specifically "Polearm·Golden-eyed Tiger", when this technique reaches $0$0% completion it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and "Polearm·Golden-eyed Tiger" will become Unleashed, allowing all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown when they reach $0$0% completion. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm enables all "Polearm Techniques" to put 1 order of a random enemy's teammate on a 5x longer cooldown when they reach $0$0% completion
+持续增加运用者所有长兵的解封进度；如果运用者使用的兵器为“金睛玄虎棒”，此功法击中敌人的几率大幅提高，且根据此功法发挥的成数，额外增加“金晴玄虎棒”的解封进度；释放“金睛玄虎棒”的解封时，将一件运用者所装备的「刀」临时生铸为带有“玄虎神解”特性的其它同材质、同类型的「刀」，若生铸的兵器品级高于原兵器，则需要牺牲3个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
+释放“金睛玄虎棒”的解封时，将一件运用者所装备的「刀」临时生铸为带有“玄虎神解”特性的其它同材质、同类型的「刀」，若生铸的兵器品级高于原兵器，则需要牺牲3个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
 Staff of\nMystical Island
-If the weapon held by user is specifically "Polearm·PengLai", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, "Polearm·PengLai" will become Unleashed, allowing all "Polearm Techniques" to have reduced Stance and Inhale cost. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm can reduce the Inhale and Stance consumption of all "Polearm" techniques
+持续增加运用者所有长兵的解封进度；如果运用者使用的兵器为“蓬莱尺”，运用者施展此功法的提气、架势消耗降低50%，且根据此功法发挥的成数，额外增加“蓬莱尺”的解封进度；释放“蓬莱尺”的解封时，将一件运用者所装备的「剑」临时生铸为带有“仙元神解”特性的其它同材质、同类型的「剑」，若生铸的兵器品级高于原兵器，则需要牺牲3个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
+释放“蓬莱尺”的解封时，将一件运用者所装备的「剑」临时生铸为带有“仙元神解”特性的其它同材质、同类型的「剑」，若生铸的兵器品级高于原兵器，则需要牺牲3个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
 Divine Staff of\nOcean Carry
-technique is more difficult to interrupt
-If the weapon held by user is specifically "Divine Staff of Ocean Carry", this technique cannot be "Interrupted". After this technique reaches $0$0% completion, "Divine Staff of Ocean Carry" will become Unleashed, allowing all "Polearm Techniques" to be more difficult to "Interrupt". This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm can make all "Polearm" techniques harder to "interrupt"
+持续增加运用者所有长兵的解封进度；如果运用者使用的兵器为“架海神杖”，根据此功法发挥的成数，为运用者所有的兵器增加额外的解封进度，且额外增加“架海神杖”的解封进度；释放“架海神杖”的解封时，修复运用者在本次战斗中所有装备损失的的部分耐久，且随机为敌人的1个兵器或护具施加临时的“架海残铸”特性
+释放“架海神杖”的解封时，修复运用者在本次战斗中所有装备损失的的部分耐久，且随机为敌人的1个兵器或护具施加临时的“架海残铸”特性
 Iron Staff of\nMixed Element
-If the weapon held by user is specifically "Polearm·Mysterious Iron", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, "Polearm·Mysterious Iron" will become Unleashed, allowing all "Polearm Techniques" to have increased power. This effect will last until the battle is over, or until you Unleash another weapon.
-Unleashed: This Polearm can increase the power of all "Polearm" techniques
+Deal Extra Fatal Wound Damage
+持续增加运用者所有长兵的解封进度；如果运用者使用的兵器为“浑元玄铁棒”，根据此功法发挥的成数，对敌人造成额外的重创伤害，且额外增加“浑元玄铁棒”的解封进度；释放“浑元玄铁棒”的解封时，将一件运用者所装备的「护具」临时生铸为带有“浑元神铸”特性的其它同材质、同类型的「护具」，若生铸的护具品级高于原护具，则需要牺牲3个精制物品，持续直到战斗结束或生铸的护具耐久耗尽
+释放“浑元玄铁棒”的解封时，将一件运用者所装备的「护具」临时生铸为带有“浑元神铸”特性的其它同材质、同类型的「护具」，若生铸的护具品级高于原护具，则需要牺牲3个精制物品，持续直到战斗结束或生铸的护具耐久耗尽
 Mechanic\nSwallow
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: When user gains "Ware" style, there is a high chance of gaining 1 more "Ware" style.
+此功法至少发挥$0$成威力后，运用者获得6层此效果：运用者获得「机」式时，多获得1个「机」式
 Mechanic Hook
 After this technique reaches $0$0% completion, if user can consume 1 additional "Ware" style, enemy's Stance will be greatly reduced
 Chain
@@ -1191,12 +1199,13 @@ Web
 Forbid the enemy to advance
 After this technique reaches $0$0% completion, user gains 30 layers of this effect: Whenever enemy advances, user consumes 1 layer of this effect per 0.1 distance to offset the distance enemy moved
 Mt.Tai Lock
-When this technique reaches $0$0% completion, it immediately causes a number of Sealed Acupoints on enemy's Legs equal to the number of "Ware" styles user has, consuming all "Ware" styles user has in the process; Sealed Acupoints caused by this technique cannot be enhanced by any effect, and they take less time to wear off.
+此功法发挥$0$成威力时：立即封闭敌人双腿上相当于运用者拥有的「机」式数量的穴道，并消耗运用者所有的「机」式；由此功法造成的封穴，无法被任何效果提升
 Mechanic Hawk
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user inflicts an External Injury on the enemy using direct damage, user can consume an additional "Ware" style to inflict 1 indirect External Injury to a random body part of the enemy, which will immediately change into an Old Injury that is harder to recover from.
+此功法发挥$0$成威力后，运用者获得6层此效果：每当运用者以直接外伤对敌人造成外伤标记，如果运用者额外消耗1个「机」式，就会对敌人造成2层非直接的随机部位的外伤，且此外伤将立即变化为更难恢复的旧伤
 The Impulse
-Transfer Injuries
-After this technique reaches $0$0% completion, user gains 1 layer of this effect: When the total number of defeat markers sustained by the user reaches the defeat condition, all of removable Injury and Fatal Wound markers of the user get removed, and a portion of the removed Injury markers is transferred to the enemy, after which this technique will be always be "Sealed" until the end of the battle.
+Transferring your mark
+标记变为蓄式
+此功法发挥$0$成威力后，运用者获得1层此效果：当运用者的战败标记总数达到战败条件时，消除运用者所有可消除的伤势标记和重创标记，并将消除的伤势标记和重创标记的一半转移给敌人，一半变化为运用者的「机」式，随后此功法将不可避免地被「封禁」，持续直到战斗结束
 Ancestor's\nLong Fist
 Extra Prestige
 When an enemy is defeated with this technique, the prestige gained by the user at the end of the battle is greatly increased
@@ -1284,7 +1293,7 @@ Bone-Breaking\nWhip
 Dreadlord's\nMetallic Whip
 When attacking the enemy with this technique: User's DES will be greatly increased; When this technique reaches $0$0% completion, all of the enemy's Stamina will get removed, and the enemy will get knocked back by 6 distance
 Jade Breaking
-User's Stamina can replace Stance when user's Stance isn't enough to perform this technique. When performed this way, the user will be able to move and attack while performing this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
+运用者的脚力可以在施展此功法时替代架势消耗，且由脚力代为消耗的部分消耗量降低50%，由此施展此功法的过程中，运用者可以进行移动，也可以进行兵器攻击，且运用者以兵器攻击击中敌人的次数越多，此功法的威力就增加越多
 Spider Silk\nWhip
 Blocking the enemy's weapon
 When this technique reaches $0$0% completion, 1 of the enemy's "Weapons" that is not currently being used will be "Sealed" for a very short period of time; After using this technique, the power of this technique will increase until the weapons Sealed by this technique stop being Sealed.
@@ -1511,6 +1520,7 @@ Hade Finger
 Reduce Enemy's Necrotoxin Resistance
 When you start performing this technique, the more the enemy is poisoned by Necrotoxin, the more the power of this technique will increase; Based on completion percentage of this technique, the enemy will receive a debuff that reduces Necrotoxin resistance.
 Blood Pool\nGhost Claw
+Transfer Injuries
 When this technique reaches $0$0% completion, user transfers 1 newly inflicted External Injury from each of their body parts to the "Injured" body part of the enemy
 Lower Body Kick
 At the beginning of the battle, the user gains 0 levels of this effect: Whenever the user hits enemy's Head, the power and starting cast progress of this skill increases, accumulating up to 2 levels; When using this skill on a Male, the power of this skill increases significantly
@@ -1546,7 +1556,7 @@ When user doesn't have enough Styles to perform this technique, user can perform
 Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's External Penetration, the more the enemy's External Defense is reduced
 Lady Poison
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user advances 1 distance, 1 "Toxic" style of the user will be consumed to make the enemy advance to the user for 1 distance. When enemy moves because of this effect, 1 Sealed Acupoint will appear on a random body part of the enemy.
+此功法发挥$0$成威力后，运用者获得6层此效果：运用者拥有「毒」式时，每当运用者累积前进1距离，消耗运用者的1个「毒」式，使敌人也靠近运用者1距离，且敌人因此而移动后，封闭敌人随机部位的1个穴道
 Bloodhound's\nSand
 En Pyrotoxin Attack
 This skill will change enemy's Pyrotoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, if the enemy is poisoned by Pyrotoxin, Pyrotoxin will activate
@@ -1630,6 +1640,7 @@ This technique cannot be interrupted; This technique will always reach $0$0% com
 Chilling Pinprick
 Based on completion percentage of this technique, the power of all "Quick" techniques of the user will be increased by 20% until the end of the battle.
 Emei Finger Zen
+Int. Pen. UP
 Based on completion percentage of this technique, user receives a buff that increases Internal Penetration
 Lame Fight\n80 Moves
 When this technique reaches $0$0% completion, for every 3 "Hold" styles the user has, user inflicts 1 additional Weak Point to the enemy's attacked body part.
@@ -1717,7 +1728,7 @@ When this technique reaches $0$0% completion, if the enemy's "Nadis" True Qi isn
 Deadly Pinprick
 Ext. Dmg. to Fatal Dmg.
 Worsening the enemy's internal wounds
-All External Damage dealt by this technique will turn into Fatal Wound Damage. For every 1 Fatal Wound marker this technique inflicts, a random Internal Injury on the enemy's body will worsen
+此功法造成的所有外伤均会变化为重创伤害，且每造成1个重创标记，随机恶化敌人的1个内伤
 9-Needle Strike
 This skill will change enemy's Oneirotoxin into an Old Poison that's difficult to get rid of; After this technique reaches $0$0% completion, it will immediately apply Umbritoxin, Cryotoxin, and Oneirotoxin to the enemy
 Meridian\nBreaking Pinprick
@@ -1796,7 +1807,8 @@ Laojun Swipe
 At the start of the battle, user gains 6 layers of this effect: Whenever the total number of user's defeat markers exceeds half of the defeat condition, these layers will be consumed to remove user's Injury markers; For every Injury marker removed, 1 layer of this effect will be consumed; When this technique reaches $0$0% completion, 1 layer of this effect will be restored, up to a maximum of 3 layers
 Yin-Yang Invert
 Restraint Orthodox practice Nadis
-The enemy will use Internal Defense to resist the direct External damage dealt by this technique; While performing this technique, all of the enemy's Orthodox "Nadis" techniques won't work
+封禁正练奇窍
+此功法造成的直接外伤改由敌人的御气抵挡；施展此功法的过程中，敌人所有的正练「奇窍」功法无法生效，此功法施展结束后，极短时间内封禁敌人所有的正练「奇窍」功法
 The Ultra One\nSwipe
 When this technique reaches $0$0% completion, the lower the Qi Disorder of the user, the higher the number and level of Sealed Acupoints caused by this technique will be.
 Heavy Swipe
@@ -1810,7 +1822,6 @@ After this technique reaches $0$0% completion, the Stance and Stamina required t
 Tiger Tail
 At the start of the battle, user gains 3 layers of this effect: When enemy attacks the user from a distance greater than the user's maximum attack range, the attack range of this technique becomes greatly increased, and user immediately performs this technique from 50% of its progress without any consumption; When active performance of this skill reaches $0$0% completion, this effect regains 1 layer
 8 Steps of\nSquared Up
-Transferring your mark
 While performing this technique, user can advance up to 3 distances. For every 0.2 distance the user advances, 1 Impairment marker received by the user while performing this technique will be transferred to the enemy
 The Great Vajra\nKick
 When attacking enemy with this technique: user's DES will be greatly increased; Based on power of this technique, enemy will be pushed back up to 5 distances, and if the enemy is pushed back farther than their maximum attack range, 3 high level Weak Points will be randomly added to the enemy
@@ -1893,7 +1904,7 @@ The higher the user's "Wood" internal element, the more the user's Might, Finess
 Reverse -  Sitting-in-Oblivion
 Greatly reduces the Inhale and Stance cost of user's "Wood" techniques; While performing any "Wood" technique, user can click to consume a min. of 5 and a max. of 15 points of the user's "Quick" True Qi to greatly increase the power of the performed "Wood" technique.
 Reversal of the Great Nirvana Law
-The lower the "Fame" of all the previous lives of the user, the more the power of all user's techniques will increase; If the user has a negative trait from the Wandering Monk aspiration, the effect of this technique will always be at its maximum.
+运用者所有前世的「名誉」越低，运用者所有功法的威力就增加越多；如果运用者拥有九世轮回恶果，额外增加运用者所有功法的威力
 Reverse -  Copper acupuncture point chart
 Reduces the usage requirements of "Hundred Flowers Valley" techniques by 20%
 Reverse - Nine Needles and Twelve Source Points
@@ -2098,7 +2109,7 @@ When defending with this technique: All direct damage taken by the user will be 
 Reverse - Small Arhat\nRod Formation
 When using "Defend" order, it will greatly increase the power of teammate's "Aegis" technique
 Reverse - Buddhism\nLion Roar
-Hinder Enemy's Ability to Defend
+增敌护体消耗
 Whenever the user starts performing a "Break" technique, if the enemy is within the user's Attack Range, enemy's "Aegis" technique will be removed, and while the user is performing the technique, Stance and Inhale cost of enemy's "Aegis" techniques will be doubled, and their Equipment Efficiency, Ext. Recovery, and Int. Recovery will be lowered to minimum
 Reverse - Hunyuan\nBreathing
 Increase internal injury reflect
@@ -2134,7 +2145,7 @@ Reduces the critical chance, Might, Finesse, Swiftness, and Breath of enemy's "S
 Reverse - Net Clothes
 Increases the number of actions required for Poison to activate on the user
 Reverse - Herb Moxibustion
-Whenever the user hits an enemy with a Style Change, there's a chance that Injury markers on 1 random body part of the enemy will worsen
+每当运用者以变招击中敌人时，一定几率随机恶化敌人的1个伤势
 Reverse - Mixed Needle
 Whenever the user inflicts a Sealed Acupoint to the enemy, 1 additional Sealed Acupoint will be created on another random body part of the enemy
 Reverse - Yinyang Reverse
@@ -2144,7 +2155,7 @@ Reverse - Twelve Meridians\nShift
 Shift Your Sealed Acupoints
 When defending with this technique, Sealed Acupoints on the user will be unsealed faster. Whenever the enemy inflicts a Sealed Acupoint on the user, it will inflict a Sealed Acupoint on the enemy instead
 Reverse - Eight Gates of\nLife and Death
-Whenever the enemy receives an Injury marker from the user, the Injury markers on 1 other random body part of the enemy with fewer Injury markers will worsen
+每当敌人受到运用者的直接伤势标记，随机恶化敌人其它伤势标记最多的1个部位的1个伤势
 Reverse - Blood Sea\nFreezing Art
 When defending with this technique: Umbritoxin, Cryotoxin and Oneirotoxin on the user won't activate; User can Reflect Umbritoxin, Cryotoxin and Oneirotoxin; At the end of defending with this technique, based on how much Umbritoxin, Cryotoxin and Oneirotoxin the user received during this technique, the user will receive a buff that increases Internal Defense, and remove all the Umbritoxin, Cryotoxin and Oneirotoxin received during this technique
 Reverse - Flawless Jade Art
@@ -2168,7 +2179,7 @@ When using "True Qi" order, it will transfer more True Qi to the user
 Reverse - Endless Power
 When defending with this technique: As long as the enemy attack isn't a critical hit, even if the user fails to Resolve enemy's weapon attack, user will still be able to Counter; Whenever the user successfully Resolves and Counters enemy's weapon attack, enemy's Inhale gets fully depleted, and the more Inhale gets depleted, the more the damage of user's Counter will increase.
 Reverse - 3 Flower On Top
-If all True Qi of the user isn't lower than its initial value, the power of this technique will continuously increase, up to 2 times higher than the original power of this technique. If not, the power of this technique will be halved and its power won't increase; When power of this technique isn't lower than 100%, the power of all techniques performed by the enemy will be reduced by a portion of this technique's power.
+运用者的真气均不低于初始值时，此功法的威力持续累积增加，最多增加至此功法原本威力的2倍，否则此功法的威力会减半并停止增加；当此功法的威力不低于100%时，敌人所有功法的威力都会根据此功法的部分威力减少
 Reverse - 9 Rollings
 When defending with this technique, whenever the user successfully Counters an enemy weapon attack, enemy's Stamina will be depleted
 Reverse - Sword Or Blade
@@ -2235,18 +2246,18 @@ Reverse - Skillful Hands
 When the user is equipped with 3 different types of weapons, the movement speed of the user is increased.
 Reverse - Wooden Armor
 Increase Armor TOU
-When defending with this technique: all direct damage taken by the user is reduced by 15%; If enemy weapon's grade isn't higher than the user's armor's grade, the TOU of user's armor will be greatly increased.
+以此功法进行防御时：运用者受到的所有直接伤害降低15%；如果敌人的精纯境界不高于运用者，或敌人所用兵器的品级不高于运用者受攻击的部位的护具的品级至少2个品级，运用者所有护具的破刃大幅提高
 Reverse - 14 Methods of Real Steel
 Significantly increase the Hardness and TOU of the user's armor
 Reverse - Mechanical Formation
 When using "Warn" or "Guide" orders, they will increase user's Accuracy and Resolve stats more
 Reverse - Heavenly Armor
-When defending with this technique, If enemy weapon's grade isn't higher than the user's armor's grade, all Internal damage caused by the enemy to the user will be reduced by 60%
+以此功法进行防御时，如果敌人的精纯境界不高于运用者，或敌人所用兵器的品级不高于运用者受攻击的部位的护具的品级至少2个品级，敌人对运用者造成的所有直接内伤降低60%
 Reverse - Exquisite 9
-When defending with this technique, whenever the user defuses a non-chasing attack from the enemy, one undamaged treasure on the user's body will be randomly driven to consume 1 point of durability and reduce the enemy's true qi according to the treasure's rank: gold and iron treasures reduce "Break" true qi; jade treasures reduce "Aegis" true qi; wooden treasures reduce "Quick" true qi; brocade treasures reduce "Nadis" true qi
+以此功法进行防御时，每当运用者将敌人非追击的兵器攻击化解，运用者驱动所装备的随机宝物损耗1点耐久损坏敌人的一件非宝物的装备3点耐久，且根据宝物的品级增加运用者随机1件兵器的解封进度
 Reverse - Forge Mysterious Iron
-Armor becomes divine armor
-When the total number of defeat marks of the user exceeds half of the defeat condition, the Armor currently worn by the user will be temporarily changed to "Divine Armor": "Divine Armor" cannot be removed; "Divine Armor" will not be damaged unless it is damaged by the attack of "Divine Armor"; all direct damage resisted by "Divine Armor" cannot be increased by any effect unless the enemy attacks or performs a technique with "Divine Armor".
+护具变为玄甲
+运用者的锻造、制木、巧匠、织锦造诣越高，运用者护具的发挥威力就额外增加越多；此功法额外增加的发挥威力不低于50%时，运用者装备的护具将在战斗中变化为「玄甲」：「玄甲」无法被卸除；「玄甲」不会因受到兵器攻击而损坏；以「玄甲」抵挡的所有直接伤害无法被任何效果提高，除非敌人以「玄兵」进行攻击
 Reverse - 4 Finger Azure Cream
 When user's "Nadis" True Qi is twice as high as the enemy's "Nadis" True Qi, all direct damage dealt by the user will be increased by 15%
 Reverse - 3 Parts 9 Pulses
@@ -2263,7 +2274,7 @@ Reverse - Blood Transfusion
 Reduce Poison Activation Requirements
 Reduces the number of actions required for Poison to activate on the enemy
 Reverse - White Water\nLongevity Art
-Whenever Poison activates on the user, user gains "Nadis" True Qi equal to 2 times the number of Poison markers that activated, and reduces user's newly inflicted Qi Disorder
+每当运用者毒性发作，运用者获得相当于发作毒素的标记数量3倍的「奇窍」真气，且降低运用者的新增紊乱
 Reverse - Young Dragon's\nBone Regrowth Art
 When defending with this technique: If the total number of defeat markers sustained by the user reaches the defeat condition, user will not be defeated; All Internal Injuries of the user will quickly heal by themselves over time; When this technique ends, it removes 6 Fatal Wounds from the user.
 Reverse - 9-Colored\nJade Cicada Art
@@ -2284,7 +2295,7 @@ When defending with this technique: All direct damage taken by the user is reduc
 Reverse - Vidya-Raja Fire
 When defending with this technique, whenever the user blocks an enemy attack with Diversion, the user applies a large amount of "Level 2" Umbritoxin to the enemy.
 Reverse - The Great Handprint
-As long as the enemy has more True Qi in total than the user does, the enemy cannot have more than 4 usable Styles; If the enemy already had more than 4 usable Styles, all usable Styles above 4 will be eliminated, and the user will gain 5 points of a random True Qi for each Style eliminated this way.
+只要敌人所有类型的真气数量的总和高于运用者所有类型的真气数量的总和，敌人拥有的可以使用的蓄式数量就无法超过5个；敌人因此而被提前消除的蓄式，会变化为5点运用者随机类型的真气
 Reverse - Buddha Body
 When defending with this technique: As long as the user isn't attacked by a critical hit, the user will be immune to Fatal Wound damage; For every 3 points of "Aegis" True Qi the user can remove 1 Impairment marker from themselves, but the Internal Breath of the user will be increased as a result.
 Reverse - Lost Worm Incense
@@ -2359,9 +2370,9 @@ Whenever the total number of defeat marks of the user's teammate exceeds half of
 Reverse - 12 Blood Child Formation
 The user's teammates will only be able to use the 「Sacrifice」command in battle, which let's them share a lot of Internal Injuries and Fatal Wounds of the user in battle.
 Reverse - Sky Demon
-When defending with this technique: all direct Internal Damage taken by the user is reduced by 60%; whenever the user Reflects an enemy attack, the user applies a large amount of "Level 2" Cryotoxin to the enemy, and at the same time worsens the Internal Injuries on all body parts of the enemy
+以此功法进行防御时：运用者受到的所有直接内伤降低60%；每当运用者反震敌人的攻击，运用者向敌人施加大量的寒性「剧毒」，小幅恶化敌人所有的内伤
 Reverse - Undead Body of Blood Child
-When the total number of defeat markers sustained by the user reaches the defeat condition, if the user's Inner Breath hasn't reached "Shattered", the user's Old Qi Disorder will start to increase continuously until it reaches "Shattered". Until then, the user cannot be defeated, the direct Internal damage dealt by the user, and direct External damage received by the user will be increased by 40%, and Inhale required to use techniques will be reduced by 50%
+当运用者的战败标记总数达到战败条件时，如果运用者的内息紊乱未达到“绝断”，运用者就会开始持续增加更难恢复的旧时紊乱，在运用者的内息紊乱达到“绝断”之前，运用者无法被击败，且运用者造成的直接内伤与受到的直接外伤提高80%，且施展功法所需消耗的提气降低50%
 Reverse - Lift-Up Jumping
 Reduce enemy movement speed
 During this Footwork, enemy's Movement Speed will be reduced if the user uses an "Aegis" technique
@@ -2404,7 +2415,7 @@ Reverse - Snow Step
 Reduce Sealed Acupoint Level
 During this Footwork, the level of Sealed Acupoints inflicted by the enemy will be reduced
 Reverse - Wick of Lamp
-During this Footwork, whenever an enemy attacks the user, a separate Finesse check will happen, and if the enemy fails to Resolve it, a random Injury on the enemy's body will be worsened by 1. This Finesse check becomes progressively less accurate each time it activates within the duration of this technique.
+此身法持续期间，运用者在受到敌人的攻击时，会对敌人先进行一次随着作用次数逐渐减弱的精妙命中，如果敌人未能将此精妙化解，随机大幅恶化敌人的1个伤势
 Reverse - Jade Step
 When retreating with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Reverse - Flower Listen Rain
@@ -2456,7 +2467,7 @@ During this Footwork, the enemy's Reflect damage will be greatly reduced
 Reverse - Fairy Footsteps
 During this Footwork, whenever the enemy attacks the user, the distance between the enemy and the user will immediately increase by 2. The increased distance will be restored after the attack ends
 Reverse - Divine Swift
-During this Footwork: Enemy cannot remove user's Footwork or Stamina; When the distance between the user and the enemy is not greater than 7, the user doesn't consume Footwork when moving
+此身法持续期间：敌人无法消除运用者的身法、脚力；运用者与敌人的距离不大于7时，运用者移动时不消耗脚力
 Reverse - Above The Sky
 Increase Finesse Debuffs
 During this Footwork, enemy's Finesse will not be increased by any effect; Effect of all debuffs on the enemy that decrease Finesse will be greatly improved; Enemy's weapon attacks that use Finesse, as well as the Break techniques that have a Finesse part will lose critical hit chance equal to a percentage of enemy's Finesse
@@ -2485,18 +2496,19 @@ During this Footwork, whenever the enemy inflicts an Injury or a Fatal Wound mar
 Reverse - Car Driving Chapter
 During this Footwork, whenever the user hits an enemy with a "Mech. Bird" weapon, enemy's Stamina will be depleted.
 Reverse - All Directions
-For every 0.3 distance of accumulated retreat with this Footwork, the user immediately makes 1 weapon attack on the enemy without consumption.
+此身法持续期间，运用者的主动兵器攻击被敌人化解时，立即再次无消耗对敌人进行1次兵器攻击，且命中敌人的几率提高
 Reverse - Tiger Hill Test Sword
 During this Footwork, whenever the user hits an enemy with a "Sword" weapon, enemy's Stamina will be depleted.
 Reverse -  Stardust Fury Avoidance
 Increase weapon toughness
-During this Footwork, when the user attacks the enemy, if the enemy's armor grade isn't higher than the user's weapon grade, the Hardness of the user's weapon will be greatly increased
+此身法持续期间，运用者攻击敌人时，如果敌人的精纯境界不高于运用者，或敌人被攻击的部位的护具的品级不高于运用者使用的兵器的品级至少2个品级，运用者武器的坚韧就会大幅提高
 Reverse - Dragon Riding
 Stamina instead of Inhale
 During this Footwork: Enemy cannot remove user's Footwork or Stamina; User's Stamina will be used to replace Inhale costs, and when replacing Inhale, Stamina consumption will be reduced by 50%
 Reverse -  Tenkai Flow Meteor Style
-Increase Diversion Debuffs
-During this Footwork: the enemy's Diversion will not be increased by any effect; all techniques and debuffs that reduce the enemy's Diversion will be greatly increased
+增敌力道减益
+减敌装备威力
+此身法持续期间：敌人的力道不会被任何效果提高；敌人受到的所有降低力道的功法、状态效果大幅提高；运用者施展的含有力道的摧破功法会累积减少敌人所有兵器、护具的威力，持续直到战斗结束
 Reverse - Flying on Grass
 When retreating with this Footwork, the user needs to prepare to jump 1 distance at once. After each jump, the distance moved will be increased.
 Reverse - Perilous Cliff\nGathering
@@ -2662,7 +2674,7 @@ When this technique reaches $0$0% completion, user gains 2 layers of this effect
 Reverse - Jade Hand
 After this technique reaches $0$0% completion, user gains 2 layers of this effect: Direct damage caused by enemy's or user's "Break" techniques gets reduced by 30%.
 Reverse - Cold Yin Palm
-When hitting enemy's Waist, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, it worsens Internal Injuries on random body parts of the enemy.
+此功法对敌人腰腹造成的直接伤害提高30%；此功法发挥$0$成威力时，随机恶化敌人的1个内伤
 Reverse - 9 Moves of\n9 Heavens
 Reduces internal reflect
 After this technique reaches $0$0% completion, user gains 9 layers of this effect: If a "Break" technique performed by the user fails to reach $1$0% completion, user will receive significantly less Internal Reflect, and receive a portion of Inhale consumed after performing that technique.
@@ -2817,62 +2829,85 @@ When this technique reaches $0$0% completion, the more Acritoxin markers the use
 Reverse - Nippy Fragrant\nof Hundreds Evil
 The amount of Umbritoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Umbritoxin; Unless the enemy is Immune to Umbritoxin, the Umbritoxin applied by this technique will ignore half of the victim's Poison Resistance
 Reverse - Flood Dragon's\nBlood
-Reduce Armor Durability
 When attacking enemy with this technique, the deeper the user is poisoned with Necrotoxin, the more direct damage this technique will deal; If the attacked body part doesn't have Armor or if its Armor's durability is completely depleted, the direct damage dealt by this technique will not be reduced for any reason; After this technique reaches $0$0% completion, the deeper the user is poisoned with Necrotoxin, the more all of the enemy's Armor will be damaged.
 Reverse - Ghost Bone\nBlood Sea Otter
 Immune to Poison Damage
 After this technique reaches $0$0% completion, user gains 6 layers of this effect: User is immune to all Poison damage; Whenever the user performs a "Break" technique with a Poison marker on their body, 1 Certain Death marker will be added to user's body. The more Certain Death markers the user has, the more the power of user's techniques will increase. Once the user has 6 Certain Death markers, they will be defeated, and their Health will be reduced to 0.
 Reverse - 12 Ways of\nAssassination
-If user's Valour isn't less than 40, user can perform this technique from 50% of its progress. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Sword Technique" of the user can be performed from 50% of its progress
+持续增加运用者所有剑的解封进度；运用者能够从施展进度40%开始施展此功法，如果运用者的勇壮赋性不低于50，效果加倍，且可在解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得12层此效果：运用者能够从施展进度40%开始施展摧破功法
+解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得12层此效果：运用者能够从施展进度40%开始施展摧破功法
 Reverse - Gongbu\nThe Unique Sword
-If user's Composure isn't less than 40, the direct damage dealt by this technique will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Sword Technique" of the user will deal increased direct damage
+持续增加运用者所有剑的解封进度；此功法对敌人造成的直接伤害大幅提高，如果运用者的冷静赋性不低于50，效果加倍，且可在解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得8层此效果：运用者的摧破功法对敌人造成的直接伤害大幅提高
+解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得8层此效果：运用者的摧破功法对敌人造成的直接伤害大幅提高
 Reverse - Broken\nHoly Sword
-If user's Enthusiasm isn't less than 40, the chance of this technique hitting the enemy will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Sword Technique" of the user will have an increased chance of hitting the enemy
+持续增加运用者所有剑的解封进度；此功法击中敌人的几率大幅提高，如果运用者的热情赋性不低于50，效果加倍，且可在解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得9层此效果：运用者的摧破功法击中敌人的几率大幅提高
+解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得9层此效果：运用者的摧破功法击中敌人的几率大幅提高
 Reverse - Heavy Sword of\nGreatTower
-If user's Enthusiasm and Valour aren't less than 30, user's External Penetration will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: user's External Penetration will be increased when performing "Sword Techniques".
+持续增加运用者所有剑的解封进度；运用者以此功法攻击敌人时，敌人每有1个破绽，就额外造成一定的重创伤害，如果运用者的热情、勇壮赋性均不低于40，效果加倍，且可在解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得7层此效果：运用者以摧破功法攻击敌人时，敌人每有1个破绽，就额外造成一定的重创伤害
+解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得7层此效果：运用者以摧破功法攻击敌人时，敌人每有1个破绽，就额外造成一定的重创伤害
 Reverse - 7 Star\nSwordsmanship of DragonPool
-If user's Cleverness and Fortitude aren't less than 30, the Inhale and Stance cost of this technique will be greatly reduced. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Sword Technique" of the user will have reduced Stance and Inhale cost
+持续增加运用者所有剑的解封进度；运用者施展此功法的提气、架势消耗降低30%，如果运用者的聪颖赋性不低于50，效果加倍，且可在解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得7层此效果：运用者施展摧破功法时的提气、架势消耗降低30%
+解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得7层此效果：运用者施展摧破功法时的提气、架势消耗降低30%
 Reverse - Taier\nImmeasurable Sword
-If user's Fortitude and Perception aren't less than 30, the Attack Range of this technique will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Sword Technique" of the user will have increased Attack Range
+持续增加运用者所有剑的解封进度；此功法的攻击范围增加2，如果运用者的热情、勇壮、冷静、聪颖、坚毅赋性均不低于30，效果加倍，且可在解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得6层此效果：运用者施展的摧破功法的攻击范围增加2
+解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得6层此效果：运用者施展的摧破功法的攻击范围增加2
 Reverse - HU·Sword Intent\nof Pure Soul
-If user's Composure, Cleverness, and Perception aren't less than 20, user's Internal Penetration will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: User's Internal Penetration will be increased when performing "Sword Techniques".
+持续增加运用者所有剑的解封进度；运用者以此功法攻击敌人时，敌人每有1个封穴，就额外造成一定的重创伤害，如果运用者的冷静、聪颖赋性均不低于40，效果加倍，且可在解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得7层此效果：运用者以摧破功法攻击敌人时，敌人每有1个封穴，就额外造成一定的重创伤害
+解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得7层此效果：运用者以摧破功法攻击敌人时，敌人每有1个封穴，就额外造成一定的重创伤害
 Reverse - Swordsmanship\nof SuperbCore
-If user's Karma isn't less than 40, the power of this technique will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: the power of all "Sword Techniques" performed by the user will be increased.
+持续增加运用者所有剑的解封进度；根据此功法发挥的成数，运用者当前使用的兵器会将自身的部分解封进度加倍给予另1个兵器，如果运用者的坚毅赋性不低于50，效果加倍，且可在解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得3层此效果：运用者的兵器攻击变化为解封攻击，但不会引发因解封带来的功法效果
+解封任意剑时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使运用者获得3层此效果：运用者的兵器攻击变化为解封攻击
 Reverse - Blade of General
-When you start performing this technique, if the weapon held by the enemy is a "Polearm", the power of enemy's "Aegis" technique will be reduced. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Blade Technique" of the user will reduce the power of the enemy's "Aegis" technique.
+持续增加运用者所有刀的解封进度；以此功法攻击敌人时，大幅降低敌人运起的「护体」功法的威力，如果敌我双方有任何人装备有「长兵」，效果加倍，且可在解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，消除敌人当前运起的护体，使敌人受到此护体的反噬伤害，并将此护体长时间封禁
+解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，消除敌人当前运起的护体，使敌人受到此护体的反噬伤害，并将此护体长时间封禁
 Reverse - Blade of\nMaster Ruan
-When you start performing this technique, if the weapon held by the enemy is a "Whisk" or a "Whip", user can Counter Resolved weapon attacks while performing this technique. After this technique reaches $0$0% completion, user gains 2 layers of this effect: User can Counter Resolved weapon attacks while performing any "Blade Technique"
+持续增加运用者所有刀的解封进度；此功法发挥$0$成威力时，运用者随机夺取敌人的1个运用者可用的式，如果敌我双方有任何人装备有「拂尘」、「长鞭」，效果加倍，且可在解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，运用者立即获得解封的兵器具有的所有式
+解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，运用者立即获得解封的兵器具有的所有式
 Reverse - Battle Blade\nof Dragon Sparrow
-When you start performing this technique, if the weapon held by the enemy is a "Blade", user can Reflect direct damage taken while performing this technique. After this technique reaches $0$0% completion, user gains 2 layers of this effect: User can Reflect direct damage taken while performing any "Blade Technique"
+持续增加运用者所有刀的解封进度；运用者能够在施展此功法的过程中反击、反震敌人，如果敌我双方有任何人装备有「掌套」，效果加倍，且可在解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，将敌人击退或拉近最多6距离，至多使敌人处于运用者攻击范围的中心，击退或拉近的距离越多，就为敌人施加越多破绽
+解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，将敌人击退或拉近最多6距离，至多使敌人处于运用者攻击范围的中心，击退或拉近的距离越多，就为敌人施加越多破绽
 Reverse - Blade of\nJade Carving
-When you start performing this technique, if the weapon held by the enemy is a "Flute" or a "Zither", user can perform this technique from 50% of its progress. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Blade Technique" of the user can be performed from 50% of its progress
+持续增加运用者所有刀的解封进度；运用者能够从施展进度40%开始施展此功法，如果敌我双方有任何人装备有「箫笛」、「瑶琴」，效果加倍，且可在解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，随机大幅损坏敌人的3件护具或兵器的耐久
+解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，随机大幅损坏敌人的3件护具或兵器的耐久
 Reverse - Blade of\nGhost Chef
-When you start performing this technique, if the weapon held by the enemy is a "Poison Sand" or a "Poison Pouch", direct damage of this technique will increase based on the number of Poison markers on the user's body. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Blade Technique" of the user will deal increased direct damage based on the number of Poison markers on the user's body.
+持续增加运用者所有刀的解封进度；此功法对敌人造成的直接伤害根据运用者的战败标记提高，如果敌我双方有任何人装备有「毒砂」、「毒霜」，效果加倍，且可在解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，运用者将自身的5个随机妨害标记转移给敌人
+解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，运用者将自身的5个随机妨害标记转移给敌人
 Reverse - Red Blade of\n7 End
-When you start performing this technique, if the weapon held by the enemy is a "Dagger". "Talisman" or a "Pestle", the Stance and Inhale consumption of this technique will be greatly reduced. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Blade Technique" of the user will have a reduced Stance and Inhale cost
+持续增加运用者所有刀的解封进度；运用者施展此功法的提气、架势消耗降低25%，如果敌我双方有任何人装备有「对刺」、「令符」、「短杵」，效果加倍，且可在解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，吸取敌人的提气、架势
+解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，吸取敌人的提气、架势
 Reverse - Incomplete\nBlade
-When you start performing this technique, if the weapon held by the enemy is a "Hidden Weapon". "Mech. Bird" or a "Needle Box", the attack range of this technique greatly increases. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Blade Technique" of the user will have an increased attack range
+持续增加运用者所有刀的解封进度；此功法的攻击范围增加2，如果敌我双方有任何人装备有「暗器」、「机关」、「针匣」，效果加倍，且可在解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，消除敌人当前运起的身法，使敌人受到此身法的反噬伤害，并将此身法长时间封禁
+解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，消除敌人当前运起的身法，使敌人受到此身法的反噬伤害，并将此身法长时间封禁
 Reverse - The Last Blade\nof Minghong
-When you start performing this technique, if the weapon held by the enemy is a "Sword", the power of this technique will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Blade Technique" of the user will have increased power
+持续增加运用者所有刀的解封进度；根据此功法发挥的成数，运用者当前使用的兵器会夺取其它兵器的部分解封进度，如果敌我双方有任何人装备有「剑」，效果加倍，且可在解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使解封兵器此次解封攻击造成的直接伤害提高3倍
+解封任意刀时，大量牺牲解封兵器的耐久及3个任意可用的蓄式，使解封兵器此次解封攻击造成的直接伤害提高3倍
 Reverse - Dragon-Defeated\nStaff
-If user's Strength isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's "attack tokens", and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's "attack tokens" when reaching $0$0% completion.
+持续增加运用者所有长兵的解封进度；根据此功法发挥的成数，为运用者所有的兵器增加额外的解封进度，如果运用者的膂力不低于75，效果加倍，且可在解封任意长兵时，大量牺牲兵器的耐久及3个任意可用的蓄式，为运用者所有的兵器增加额外的解封进度
+解封任意长兵时，大量牺牲兵器的耐久及3个任意可用的蓄式，为运用者所有的兵器增加额外的解封进度
 Reverse - Staff of\nSweep Cloud
-If user's Agility isn't less than 70, when this technique reaches $0$0% completion, it will reduce enemy's Stamina, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will reduce enemy's Stamina when reaching $0$0% completion.
+持续增加运用者所有长兵的解封进度；根据此功法发挥的成数，损耗敌人的脚力，如果运用者的灵敏不低于75，效果加倍，且可在解封任意长兵时，将一件运用者所装备的「护具」临时生铸为带有“烟霞神铸”特性的其它同材质、同类型的「护具」，若生铸的护具品级高于原护具，则需要牺牲6个精制物品，持续直到战斗结束或生铸的护具耐久耗尽
+解封任意长兵时，将一件运用者所装备的「护具」临时生铸为带有“烟霞神铸”特性的其它同材质、同类型的「护具」，若生铸的护具品级高于原护具，则需要牺牲6个精制物品，持续直到战斗结束或生铸的护具耐久耗尽
 Reverse - Staff of\n10 Directions
-If user's Constitution isn't less than 70, when this technique reaches $0$0% completion, it will "Interrupt" enemy's Healing, Detox, and Escape, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will "Interrupt" enemy's Healing, Detox, and Escape when reaching $0$0% completion.
+持续增加运用者所有长兵的解封进度；此功法的攻击范围增加2，如果运用者的体质不低于75，效果加倍，且可在解封任意长兵时，将一件运用者所装备的「长兵」临时生铸为带有“山河神解”特性的其它同材质、同类型的「长兵」，若生铸的兵器品级高于原兵器，则需要牺牲6个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
+解封任意长兵时，将一件运用者所装备的「长兵」临时生铸为带有“山河神解”特性的其它同材质、同类型的「长兵」，若生铸的兵器品级高于原兵器，则需要牺牲6个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
 Reverse - Staff of\nGhost Head
-If user's Agility and Comprehension aren't less than 60, when this technique reaches $0$0% completion, it will randomly reduce 1 layer of enemy's "Break" technique's effect, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will randomly reduce 1 layer of enemy's "Break" technique's effect when reaching $0$0% completion.
+持续增加运用者所有长兵的解封进度；根据此功法发挥的成数，为运用者所有的兵器增加额外的解封进度，如果运用者的灵敏、悟性均不低于65，效果加倍，且可在解封任意长兵时，将一件运用者所装备的「宝物」临时生铸为带有“鬼眼灵琢”特性的其它同材质、同类型的「宝物」，若生铸的宝物品级高于原宝物，则需要牺牲6个精制物品，持续直到战斗结束或生铸的宝物耐久耗尽
+解封任意长兵时，将一件运用者所装备的「宝物」临时生铸为带有“鬼眼灵琢”特性的其它同材质、同类型的「宝物」，若生铸的宝物品级高于原宝物，则需要牺牲6个精制物品，持续直到战斗结束或生铸的宝物耐久耗尽
 Reverse - Staff of\nGold Eyes Tiger
-If user's Strength and Willpower aren't less than 60, when this technique reaches $0$0% completion, it will put 3 orders of a random enemy's teammate on a 5x longer cooldown, and also user will gain 2 layers of this effect: Any "Polearm Technique" of the user will put 1 order of a random enemy's teammate on a 5x longer cooldown when reaching $0$0% completion.
+持续增加运用者所有长兵的解封进度；此功法击中敌人的几率大幅提高，如果运用者的膂力、定力均不低于65，效果加倍，且可在解封任意长兵时，将一件运用者所装备的「刀」临时生铸为带有“玄虎神解”特性的其它同材质、同类型的「刀」，若生铸的兵器品级高于原兵器，则需要牺牲6个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
+解封任意长兵时，将一件运用者所装备的「刀」临时生铸为带有“玄虎神解”特性的其它同材质、同类型的「刀」，若生铸的兵器品级高于原兵器，则需要牺牲6个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
 Reverse - Staff of\nMystical Island
-If user's Vitality and Comprehension aren't less than 60, the Stance and Inhale cost of this technique will be greatly reduced. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Polearm Technique" of the user will have reduced Stance and Inhale cost.
+持续增加运用者所有长兵的解封进度；运用者施展此功法的提气、架势消耗降低25%，如果运用者的根骨、悟性均不低于65，效果加倍，且可在解封任意长兵时，将一件运用者所装备的「剑」临时生铸为带有“仙元神解”特性的其它同材质、同类型的「剑」，若生铸的兵器品级高于原兵器，则需要牺牲6个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
+解封任意长兵时，将一件运用者所装备的「剑」临时生铸为带有“仙元神解”特性的其它同材质、同类型的「剑」，若生铸的兵器品级高于原兵器，则需要牺牲6个精制物品，持续直到战斗结束或生铸的兵器耐久耗尽
 Reverse - Divine Staff of\nOcean Carry
-If user's Constitution, Vitality and Willpower aren't less than 50, this technique cannot be "Interrupted". After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Polearm Technique" of the user will be more difficult to "Interrupt"
+持续增加运用者所有长兵的解封进度；根据此功法发挥的成数，为运用者所有的兵器增加额外的解封进度，如果运用者的体质、根骨、定力均不低于55，效果加倍，且可在解封任意长兵时，修复运用者在本次战斗中所有装备损失的的部分耐久，且随机为敌人的1个兵器或护具施加临时的“架海残铸”特性
+解封任意长兵时，修复运用者在本次战斗中所有装备损失的的部分耐久，且随机为敌人的1个兵器或护具施加临时的“架海残铸”特性
 Reverse - Iron Staff of\nMixed Element
-If user's Strength, Agility, Constitution, Vitality, Willpower, and Comprehension aren't less than 40, the power of this technique will be greatly increased. After this technique reaches $0$0% completion, user gains 2 layers of this effect: Any "Polearm Technique" of the user will have increased power
+持续增加运用者所有长兵的解封进度；根据此功法发挥的成数，对敌人造成额外的重创伤害，如果运用者的膂力、灵敏、体质、根骨、定力、悟性均不低于45，效果加倍，且可在解封任意长兵时，将一件运用者所装备的「护具」临时生铸为带有“浑元神铸”特性的其它同材质、同类型的「护具」，若生铸的护具品级高于原护具，则需要牺牲6个精制物品，持续直到战斗结束或生铸的护具耐久耗尽
+解封任意长兵时，将一件运用者所装备的「护具」临时生铸为带有“浑元神铸”特性的其它同材质、同类型的「护具」，若生铸的护具品级高于原护具，则需要牺牲6个精制物品，持续直到战斗结束或生铸的护具耐久耗尽
 Reverse - Mechanic\nSwallow
 Reduction of storage type consumption
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: When user loses "Ware" style, there is a high chance of losing 1 less "Ware" style.
+此功法至少发挥$0$成威力后，运用者获得6层此效果：运用者失去「机」式时，少失去1个「机」式
 Reverse - Mechanic Hook
 After this technique reaches $0$0% completion, if user can consume 1 additional "Ware" style, enemy's Inhale will be greatly reduced
 Reverse - Chain
@@ -2882,11 +2917,11 @@ The maximum attack range of this technique is greatly increased; When this techn
 Reverse - Web
 After this technique reaches $0$0% completion, user gains 30 layers of this effect: Whenever enemy retreats, user consumes 1 layer of this effect per 0.1 distance to offset the distance enemy moved
 Reverse - Mt.Tai Lock
-When this technique reaches $0$0% completion, it immediately causes a number of Sealed Acupoints on enemy's Arms equal to the number of "Ware" styles user has, consuming all "Ware" styles user has in the process; Sealed Acupoints caused by this technique cannot be enhanced by any effect, and they take less time to wear off.
+此功法发挥$0$成威力时：立即封闭敌人双手上相当于运用者拥有的「机」式数量的穴道，并消耗运用者所有的「机」式；由此功法造成的封穴，无法被任何效果提升
 Reverse - Mechanic Hawk
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user inflicts an Internal Injury on the enemy using direct damage, user can consume an additional "Ware" style to inflict 1 indirect Internal Injury to a random body part of the enemy, which will immediately change into an Old Injury that is harder to recover from.
+此功法发挥$0$成威力后，运用者获得6层此效果：每当运用者以直接内伤对敌人造成内伤标记，如果运用者额外消耗1个「机」式，就会对敌人造成2层非直接的随机部位的内伤，且此内伤将立即变化为更难恢复的旧伤
 Reverse - The Impulse
-After this technique reaches $0$0% completion, user gains 1 layer of this effect: When the total number of defeat markers sustained by the user reaches the defeat condition, all of removable Impairment and Fatal Wound markers of the user get removed, and a portion of the removed Impairment markers is transferred to the enemy, after which this technique will be always be "Sealed" until the end of the battle.
+此功法发挥$0$成威力后，运用者获得1层此效果：当运用者的战败标记总数达到战败条件时，消除运用者所有可消除的妨害标记和重创标记，并将消除的妨害标记和重创标记的一半转移给敌人，一半变化为运用者的「机」式，随后此功法将不可避免地被「封禁」，持续直到战斗结束
 Reverse - Ancestor's\nLong Fist
 Reverse - Scorpion Hand
 Increase Your Umbritoxin Resistance
@@ -2967,7 +3002,7 @@ When hitting enemy's Leg, direct damage of this technique increases by 45%; When
 Reverse - Dreadlord's\nMetallic Whip
 When attacking the enemy with this technique: User's DES will be greatly increased; When this technique reaches $0$0% completion, all of the enemy's Stamina will get removed, and the enemy will get pulled closer by 6 distance
 Reverse - Jade Breaking
-User's Stamina can replace Inhale when user's Inhale isn't enough to perform this technique. When performed this way, the user will be able to move and attack while performing this technique, and the more times the user hits the enemy with weapon attacks, the more the power of this technique will increase.
+运用者的脚力可以在施展此功法时替代提气消耗，且由脚力代为消耗的部分消耗量降低50%，由此施展此功法的过程中，运用者可以进行移动，也可以进行兵器攻击，且运用者以兵器攻击击中敌人的次数越多，此功法的威力就增加越多
 Reverse - Spider Silk\nWhip
 When this technique reaches $0$0% completion, 2 of the enemy's "Weapons" that are not currently being used will be "Sealed" for a short period of time; After using this technique, it will unavoidably be Sealed for a long period of time.
 Reverse - Dragon Whip
@@ -2986,6 +3021,7 @@ When this technique reaches $0$0% completion, user has a low chance of performin
 Reverse - Great Colorful\nPalm
 When you start performing this technique, a portion of the power of 1 most powerful "Quick" technique of the user and the enemy is transferred to this technique, and it lasts until the end of the battle.
 Reverse - Divine Fist\nof Jade Yang
+Reduce the number of effect layers
 When this technique reaches $0$0% completion, user will consume 10 points of "Break" True Qi if possible, and change the number of effect layers of 1 random "Break" technique of the enemy to the minimum.
 Reverse - Fire Palm of\n6 Yang
 When this technique reaches $0$0% completion, if enemy's dominant element is "Metal" or "Wood", direct damage dealt by this technique will be increased by 90%
@@ -2994,7 +3030,6 @@ When you start performing this technique, the more the number of levels of the e
 Reverse - Dragon Palm
 After this technique reaches $0$0% completion, user gains 3 layers of this effect: All Heterodox "Fist Techniques" performed by the user will change into this technique, and based on power of this technique, their power will be greatly increased, lasting until the end of the battle; Heterodox Way of these techniques temporarily shifts to: "When this technique reaches $0$0% completion, enemy's "Aegis" technique and Stamina will be removed."
 Reverse - Flying Sand
-Deal Extra Fatal Wound Damage
 When this technique reaches $0$0% completion, for every 1 "Throw" style the user has, user will inflict additional 10% of the direct damage caused by this technique to the enemy's attacked body part as Fatal Wound damage.
 Reverse - Thunder Fire
 When this technique reaches $0$0% completion, user will gain 2 "Throw" styles
@@ -3043,7 +3078,7 @@ When you start performing this technique, the effect of all buffs on the enemy w
 Reverse - Vajra Blade
 When this technique reaches $0$0% completion, user gains 2 layers of this effect: Enemy cannot gain "Hack" styles
 Reverse - Rakkhasa Blade
-When hitting enemy's Chest, direct damage of this technique increases by 30%; When this technique reaches $0$0% completion, it worsens External Injuries on random body parts of the enemy.
+此功法对敌人胸背造成的直接伤害提高30%；此功法发挥$0$成威力时，随机恶化敌人的1个外伤
 Reverse - Blade of\nEvil Influence
 As long as this technique isn't Resolved with Diversion by the enemy, the direct Internal Damage dealt by this technique will be greatly increased and won't be reduced for any reason.
 Reverse - Blade of\nSoul Heat
@@ -3202,7 +3237,7 @@ When user doesn't have enough Styles to perform this technique, user can perform
 Reverse - Golden Toad\nVoodoo Sand
 When attacking the enemy with this technique, the higher the enemy's Internal Penetration, the more the enemy's Internal Defense will be reduced
 Reverse - Lady Poison
-After this technique reaches $0$0% completion, user gains 6 layers of this effect: Whenever user retreats 1 distance, 1 "Toxic" style of the user will be consumed to make the enemy retreat from the user for 1 distance. When enemy moves because of this effect, 1 Sealed Acupoint will appear on a random body part of the enemy.
+此功法发挥$0$成威力后，运用者获得6层此效果：运用者拥有「毒」式时，每当运用者累积后退1距离，消耗运用者的1个「毒」式，使敌人也远离运用者1距离，且敌人因此而移动后，封闭敌人随机部位的1个穴道
 Reverse - Bloodhound's\nSand
 The amount of Pyrotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Pyrotoxin; Unless the victim is Immune to Pyrotoxin, the Pyrotoxin applied by this technique will ignore half of the victim's poison resistance
 Reverse - Shaolin\nLong Fist
@@ -3361,7 +3396,7 @@ Reverse - Vitality\nLosing Pinprick
 When this technique reaches $0$0% completion, if the enemy's "Nadis" True Qi isn't lower than its initial value, the user will steal 15 points of "Nadis" True Qi from the enemy. Otherwise, the user will steal 5 points
 Reverse - Deadly Pinprick
 Int. Dmg. to Fatal Dmg.
-All Internal Damage dealt by this technique will turn into Fatal Wound Damage. For every 1 Fatal Wound marker this technique inflicts, a random External Injury on the enemy's body will worsen
+此功法造成的所有内伤均会变化为重创伤害，且每造成1个重创标记，随机恶化敌人的1个外伤
 Reverse - 9-Needle Strike
 Apply Oneirotoxin to Yourself
 The amount of Oneirotoxin this technique inflicts is greatly increased, but there is a low chance that the user will also get poisoned by a part of this Oneirotoxin; When this technique reaches $0$0% completion, up to 3 techniques of the enemy that have Internal Ratio of 60% or higher will be Sealed for a long period of time
@@ -3436,7 +3471,8 @@ Reverse - Laojun Swipe
 At the start of the battle, user gains 6 layers of this effect: Whenever the total number of user's defeat markers exceeds half of the defeat condition, these layers will be consumed to remove user's Impairment markers; For every Impairment marker removed, 1 layer of this effect will be consumed; When this technique reaches $0$0% completion, 1 layer of this effect will be restored, up to a maximum of 3 layers
 Reverse - Yin-Yang Invert
 Restraint against practicing strange tricks
-The enemy will use External Defense to resist the direct Internal damage dealt by this technique; While performing this technique, all of the enemy's Heterodox "Nadis" techniques won't work
+封禁逆练奇窍
+此功法造成的直接内伤改由敌人的御体抵挡；施展此功法的过程中，敌人所有的逆练「奇窍」功法无法生效，此功法施展结束后，极短时间内封禁敌人所有的正练「奇窍」功法
 Reverse - The Ultra One\nSwipe
 When this technique reaches $0$0% completion, the higher the Qi Disorder of the enemy, the higher the number and level of Sealed Acupoints caused by this technique will be.
 Reverse - Heavy Swipe
@@ -3541,10 +3577,10 @@ Int Poison Dmg
 It activates when you move 3 distance in battle, produces Cryotoxin, and causes Internal Injuries according to the amount of existing poison
 TA·Cryotoxin
 Worsen Int injuries
-It activates when a total of 100% of victims Inhale is consumed in battle, produces Oneirotoxin, and worsens existing Internal Injuries according to the amount of existing poison.
+消耗一定量的提气时发作，根据毒素量衍生幻毒，根据毒素量使1个内伤恶化
 TA·Pyrotoxin
 Worsen Ext injuries
-It activates when a total of 100% of victims Stance is consumed in battle, produces Necrotoxin, and worsens existing External Injuries according to the amount of existing poison.
+消耗一定量的架势时发作，根据毒素量衍生腐毒，根据毒素量使1个外伤恶化
 TA·Necrotoxin
 Lasting Reduction of Ext. Defense
 It continuously generates Acritoxin, during the battle, and reduces the External Defense according to the amount of existing poison.
@@ -3589,7 +3625,7 @@ EvilUprise
 The happier or more painful the enemy's "mood" is, the more the demon heart will show the External Pen. and Int. Pen..
 A·Sinster
 Random Heal
-Whenever an enemy performs the "Orthodox training" technique, it makes the random injuries on the enemy's body significantly worse; whenever an enemy performs the "Heterodox training" technique, it makes the random injuries on the hundred evils significantly less severe
+每当敌人施展「正练」的功法时，随机大幅恶化敌人的伤势；每当敌人施展「逆练」的功法时，随机大幅减轻百邪的伤势
 The·FN
 The Nine Tribes of the Fallen Heart continuously apply different types of "Levels 2" poisons to the enemy depending on the enemy's internal energy elemental values
 The·C
@@ -3896,7 +3932,7 @@ Celestial Eye Technique
 When you start to perform this divine power, the artist increases the power of 2 of his own techniques cumulatively until the end of the battle
 When this divine power starts, the user increases the power of 2 of his own techniques cumulatively until the end of the battle.
 Heaven and Earth Xuan Yi Order
-Weakening enemy attributes
+消除敌之功法
 When this divine power starts to be applied, the operator will eliminate the enemy's "Aegis" and "Quick" techniques, and the enemy's total 3 "Aegis", "Quick", and "Nadis" techniques will be "blocked" for a long time; until the end of this divine power, all the enemy's secondary attributes will be changed to the minimum.
 Kunlun Twelve Evil Immortal Order
 Injuries cannot be reduced
@@ -3949,7 +3985,7 @@ When attacking enemy with this divine power, Zi Wuxiao consumes all effect layer
 Wisdom Death - Seven Awareness Branches
 When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "77 Wisdoms" to greatly increase power of this divine power; When this divine power reaches $0$0% completion, if Zi Wuxiao has effect layers of "99 Destinies", Zi Wuxiao will immediately perform "Fate - Unbreakable Prison" without any consumption, and if not, then enemy will lose all of their available styles
 Fate - Unbreakable Prison
-When attacking enemy with this divine power, Zi Wuxiao consumes all effect layers of "99 Destinies" to greatly increase power of this divine power; When this divine power reaches $0$0% completion, if Zi Wuxiao has effect layers of "33 Spiritualizations", Zi Wuxiao will immediately perform "Spiritual Dispersion - Heaven, Earth and Human" without any consumption, and if not, then all Injuries of the enemy will be greatly worsened.
+以此神力攻击敌人时，紫无绡消耗所有“九九造命”的效果层数，大幅增加此神力的威力；此神力发挥$0$成威力时，如果紫无绡拥有“三三化灵”的效果层数，紫无绡立即无消耗施展“灵散·天地人”攻击敌人，否则大幅恶化敌人所有的伤势
 Phoenix's Peck
 Rapid application of divine power
 When starting to perform this divine power, Long Yufu will inflict 1 External injury to arms that have less than 4 injuries, and accordingly: increase the progress of this divine power; restore the Inhale and Stance consumed by this power
@@ -4085,6 +4121,7 @@ This innate skill cannot be Sealed; The higher the Purity of the Buffalo/Wild Ox
 Poison Waterfall Fierce Mist
 This innate skill cannot be Sealed; The direct Injury markers inflicted by the Huge Snake/Python will turn into Old Wounds that are more difficult to recover from; The direct Poison inflicted by the Huge Snake/Python will turn into Old Poison that is more difficult to detox
 Civet Pursues Shadow
+Countering weapon attacks
 This innate skill cannot be Sealed; After being attacked by an enemy, if the enemy is within attack range of Leopard/Black Panther, regardless of whether the Leopard/Black Panther Resolves the enemy attack, it will Counter the enemy. The higher the Purity of the Leopard/Black Panther is, the more power the Counter will have
 I am the Only One
 This innate skill cannot be Sealed; Whenever the enemy enters or leaves the attack range of Lion/Golden Lion, it depletes enemy's Stamina, Inhale, and Stance based on the Purity of the Lion/Golden Lion
@@ -4102,7 +4139,7 @@ Deep Green Sky Mist
 The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Green Dragon's Injury and Old Injury markers will gradually disappear. The more Injury and Old Injury markers the Green Dragon has, the more the enemy's Attack Range will be reduced, and the Green Dragon's Attack Range will be increased
 Flaming Divine Pearl
 Cannot be Resolved
-The Divine Dragon cannot be defeated by force; This innate talent cannot be Sealed; The Red Dragon's attacks will worsen both External and Internal Injuries on the attacked body parts. When the Injury level on a body part reaches 4, it will be considered Broken, and the enemy won't be able to Resolve attacks on that body part.
+神龙无法被武力击败；此天赋无法被封禁；赤龙击中敌人时会同时大幅恶化敌人被攻击部位的外伤、内伤，且敌人各部位的伤势程度达到4层，即视为残毁，敌人也无法化解赤龙对敌人残毁的部位进行的攻击
 Superior to Heavens
 Decrease Vigor Limit
 Decrease Stamina Limit
@@ -4115,7 +4152,7 @@ This innate talent cannot be Sealed; The Little Black Dragon will continuously a
 Green Sky's Swift Rain
 This innate talent cannot be Sealed; The Little Green Dragon's Injury and Old Injury markers will gradually disappear. The more Injury and Old Injury markers the Little Green Dragon has, the more the enemy's Attack Range will be reduced, and the Little Green Dragon's Attack Range will be increased
 Scarlet Fire Pearl
-This innate talent cannot be Sealed; The Red Dragon's attacks will worsen both External and Internal Injuries on the attacked body parts. When the Injury level on a body part reaches 4, it will be considered Broken.
+此天赋无法被封禁；小赤龙击中敌人时会同时大幅恶化敌人被攻击部位的外伤、内伤，且敌人各部位的伤势程度达到4层，即视为残毁
 Honored Within Heavens
 This innate talent cannot be Sealed; Whenever enemy's Break technique reaches at least $0$0% completion, the Little Yellow Dragon will make a random technique of the enemy Sealed. The Sealed technique's power will be decreased, lasting until the end of the battle.
 White Jiao's Slender Tail
@@ -4151,7 +4188,7 @@ Penetration Up
 Raise Int/Ext Def.
 This innate talent cannot be Sealed; When Bian attacks an enemy with negative Fame, Bian's Ext. and Int. Pen. will be greatly increased based on how negative the enemy's Fame is; When Bian gets attacked by an enemy with negative Fame, Bian's Ext. and Int. Def. will be greatly increased based on how negative the enemy's Fame is
 Refined and Outstanding
-This innate talent cannot be Sealed; The enemy's Accuracy and Resolve stats cannot exceed the sum of their Music, Chess, Literature, and Painting attainments; The enemy's ATK and Defense stats cannot exceed the sum of their Carpentry, Smithing, Weaving, and Gemcutting attainments
+此天赋无法被封禁；敌人攻击负屃或受到负屃攻击时的命中、化解无法超过敌人音律、弈棋、诗书、绘画造诣的总和；敌人攻击负屃或受到负屃攻击时的攻击、防御无法超过敌人制木、锻造、织锦、巧匠造诣的总和
 Fire Repelling Stream Surge
 This innate talent cannot be Sealed; Whenever Chiwen attacks an enemy, if any True Qi of the enemy is higher than its initial value, it will be greatly reduced. If any True Qi of the Chiwen is lower than its initial value, it will be greatly increased. The lower the enemy's True Qi than its initial value, and the higher the Chiwen's True Qi than its initial value, the more the direct damage of Chiwen's attacks will be.
 Continuously Raising True Qi
@@ -4203,3 +4240,58 @@ Unable to use...
 Soul-Falling Bell
 Its owner receives Backlash
 The person holding the Soul-Falling Bell has been seriously injured, and have received backlash from the bell. Their mind has been disorganized, causing them to be unable to defend against the enemy...
+解封·拳掌
+吸取敌人真气
+When Unleashed, based on this weapon's Power, next attack will deal a large amount of direct damage that will not be Resolved or blocked by Deflect, and will absorb enemy's True Qi several times
+解封·剑
+封禁随机功法
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且可多次随机地短时间封禁敌人的功法
+解封·刀
+造成旧伤伤势
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且对敌人造成的直接伤势标记变化为更难恢复的旧伤
+解封·长兵
+攻击范围最大
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且攻击范围最大
+解封·暗器
+优先造成破绽
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且可多次对敌人造成破绽
+解封·毒器
+附加大量毒素
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且可施加兵器十倍的毒素
+解封·御射
+优先造成封穴
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且可多次对敌人造成封穴
+解封·软兵
+消除敌人身法
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且可消除敌人当前运起的身法
+解封·奇门
+消除敌人护体
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且可消除敌人当前运起的护体
+解封·魔音
+增加敌人紊乱
+以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且可多次增加敌人的内息紊乱
+烟霞神铸
+生铸己之护具
+生铸护具的耐久会随时间持续减少；敌人对此护具保护的部位进行兵器攻击时，有50%的几率必然被化解，且敌人攻击此部位的可能性加倍；此特性仅能持续到此装备完全损坏或战斗结束
+山河神解
+生铸己之兵器
+生铸兵器的耐久会随时间持续减少；此兵器能够代替所有其它非山河神解的装备承受50%的耐久损失；此特性仅能持续到此装备完全损坏或战斗结束
+鬼眼灵琢
+生铸己之宝物
+生铸宝物的耐久会随时间持续减少；此宝物提供的主要属性、次要属性、攻击、防御、命中、化解加成提高100%，且会持续为使用者增加随机类型的真气；此特性仅能持续到此装备完全损坏或战斗结束
+玄虎神解
+生铸兵器的耐久会随时间持续减少；此兵器的兵器攻击造成的直接伤害提高50%；此特性仅能持续到此装备完全损坏或战斗结束
+仙元神解
+生铸兵器的耐久会随时间持续减少；以此兵器进行兵器攻击且命中敌人要害时，向敌人施加1个随机的破绽或封穴；此特性仅能持续到此装备完全损坏或战斗结束
+架海残铸
+生铸敌之装备
+此装备的重量提高100%、坚韧降低80%；此特性仅能持续到此装备完全损坏或战斗结束
+浑元神铸
+生铸护具的耐久会随时间持续减少；此护具的破刃和坚韧提高100%，提供的化解加成、防御加成提高50%，伤害减免提高25%；此特性仅能持续到此装备完全损坏或战斗结束
+神工如意塔
+替代蓄式消耗
+替代机略消耗
+增加神剑威力
+战斗开始时或此功法发挥$0$成威力后，运用者获得12层此效果：运用者主动施展「摧破」功法或释放兵器的解封时，运用者的「机」式将代替蓄式消耗；运用者使用物品时，此效果的层数将代替机略消耗；运用者使用神剑碎片时，会消耗所有此效果，神剑碎片的威力会根据消耗的效果层数大幅提高
+替代机式消耗
+战斗开始时或此功法发挥$0$成威力后，运用者获得12层此效果：运用者主动施展「摧破」功法或释放兵器的解封时，运用者的不可用的蓄式将代替「机」式消耗；运用者使用物品时，此效果的层数将代替机略消耗；运用者使用神剑碎片时，会消耗所有此效果，神剑碎片的威力会根据消耗的效果层数大幅提高
