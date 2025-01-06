@@ -19,7 +19,6 @@ The basic efficiency of studying books.\n<color=#yellow>(The higher the study ef
 Breakthrough
 Determines the success rate of connecting cells during skill breakthroughs.\n<color=#yellow>(The higher the breakthrough success rate, the easier it is to choose a route during breakthroughs.)</color>
 <color=#pinkyellow>Easy</color>
-<color=#9FE0DCFF>Normal</color>
 <color=#FFE78FFF>Difficult</color>
 <color=#FF5331FF>Lost</color>
 Cultivation
@@ -44,10 +43,11 @@ A prosperous world will be conducive to Taiwu's development.\nBut even the most 
 World Population
 Controls the maximum limit of concurrent NPCs in the game. The more NPCs there are, the more diverse the World of Taiwu will be.\n<color=#E3C66DFF>(Higher processing power is required for larger world population)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
 Less
+Normal
 High
 Extreme
 Standpoint
-Your choices in events will be restricted based on your standpoint, for a more realistic experience. (i.e. if you're Kind, you will be able to select Just, Kind, and Even choices in events.)
+立场的限制将限制不同的处世立场在游戏中可选择的事件选项，以体验更为真实的太吾世界。
 On
 Off
 Random Heir
@@ -60,3 +60,6 @@ Determines enemies' skill practice percentage, and how many chapters of a skill 
 Favor Change
 The difficulty of changing Favor between people. \n<color=#E3C66DFF>(The more difficult it is, the more difficult it is for others to accumulate Favor towards you.)</color>
 <color=#FF5331FF>Harsh</color>
+志向的成长
+志向资历的成长速度。\n<color=#E3C66DFF>（成长难度越大，志向资历的获取速度也会越慢。）</color>
+<color=#FF5331FF>艰难</color>
