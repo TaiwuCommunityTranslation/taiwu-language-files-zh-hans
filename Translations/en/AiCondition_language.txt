@@ -193,3 +193,15 @@ The current distance is less than
 Returns true if the current distance is less than {0} 
 The last attack fell short.
 Returns true if the last missed poke was the current weapon and no attack was made
+兵器可解封
+当存在可解封的兵器 {0} 时返回真值
+兵器类型可解封
+当存在可解封的兵器类型 {0} 时返回真值
+兵器解封进度
+当 {1} 有兵器 {2} 解封进度不低于 {0}% 时返回真值
+可以中断施展
+当角色正在施展功法且允许中断施展时返回真值
+可以中断护体
+当角色已运起护体且允许中断护体时返回真值
+可以中断身法
+当角色已运起身法且允许中断身法时返回真值
