@@ -1,15 +1,15 @@
 STR
-It represents strength and explosive power...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_0>Might and<SpName=mousetip_huajie_0>Diversion.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_0>Strength.\n·Increases maximum inventory weight.\n·Increases character's maximum equipment weight.\n·With age, Strength will become more difficult to recover</color>
+膂力代表人物的力量、爆发力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_mingzhong_1_0>力道、<SpName=mousetip_huajie_0>卸力\n·增加需要<SpName=mousetip_zhuyao_0>膂力的功法、兵器、护具的威力\n·增加人物的装备负重\n·随着年龄的增长，膂力将更难恢复</color>
 AGI
-It represents bodily agility and coordination...\n\n<color=#pinkyellow>·Increases character's <SpName=mousetip_mingzhong_1_2>Swiftness and<SpName=mousetip_huajie_2>Evasion.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_1>Agility.\n·With age, Agility will become more difficult to recover</color>
+灵敏代表人物的灵活度、协调力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_mingzhong_1_2>迅疾、<SpName=mousetip_huajie_2>闪避\n·增加需要<SpName=mousetip_zhuyao_1>灵敏的功法、兵器、护具的威力\n·随着年龄的增长，灵敏将更难恢复</color>
 WIL
-It represents willpower and judgment...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_3>Breath and<SpName=mousetip_huajie_3>Focus.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_2>Willpower.\n·With age, Willpower will become easier to recover</color>
+定力代表人物的意志力、判断力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_mingzhong_1_3>动心、<SpName=mousetip_huajie_3>守心\n·增加需要<SpName=mousetip_zhuyao_2>定力的功法、兵器、护具的威力\n·随着年龄的增长，定力将更易恢复</color>
 CON
-It represents sturdiness and endurance...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_0>Ext. Pen. and<SpName=mousetip_fangyu_0>Ext. Def.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_3>Constitution.\n·Increases the amount of consumables character can ingest.\n·With age, Constitution will become more difficult to recover</color>
+体质代表人物的强健度、忍耐力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_gongji_0>破体、<SpName=mousetip_fangyu_0>御体\n·增加需要<SpName=mousetip_zhuyao_3>体质的功法、兵器、护具的威力\n·增加人物每个月能够服食的道具的数量\n·随着年龄的增长，体质将更难恢复</color>
 VIT
-It represents the inner quality of flesh and blood...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_1>Int. Pen. and<SpName=mousetip_fangyu_1>Int. Def.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_4>Vitality.\n·With age, Vitality will become easier to recover</color>
+根骨代表人物的先天素质、骨血品质等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_gongji_1>破气、<SpName=mousetip_fangyu_1>御气\n·增加需要<SpName=mousetip_zhuyao_4>根骨的功法、兵器、护具的威力\n·随着年龄的增长，根骨将更易恢复</color>
 COM
-It represents the ability to comprehend and perception...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_1>Finesse and<SpName=mousetip_huajie_1>Parry.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_5>Comprehension.\n·Helps with studying books and martial arts breakthroughs.</color>
+悟性代表人物的理解能力、感知力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_mingzhong_1_1>精妙、<SpName=mousetip_huajie_1>拆招\n·增加需要<SpName=mousetip_zhuyao_5>悟性的功法、兵器、护具的威力\n·帮助更好的研读书籍、突破功法</color>
 MIG
 The ability to crush an enemy with great force and inflict damage on them...\n\n<color=#pinkyellow>·Force-based attacks such as Punch, Hack, Throw, Ware.</color>
 FIN
@@ -47,7 +47,7 @@ The higher the Cast Speed, the faster the character can cast skills in battle.
 Int. Recovery
 The higher the Internal Recovery, the faster character will recover from Sealed Acupoints suffered in battle
 Equip. Eff.
-The higher the Equipment Efficiency, the shorter the cooldown between switching weapons in battle, and the higher the upper limit of weapons and armor.
+武具运用越高，人物在战斗中切换兵器的间隔时间就越短，且兵器、护具的威力上限就越高
 Attack Speed
 The higher the Attack Speed, the faster the character will recover "attack tokens" that are used for weapon attacks in battle
 Int Ratio Bonus
@@ -247,4 +247,7 @@ Divine
 
 Demonic attainment
 Demonic
+
+Study Efficiency
+
 
