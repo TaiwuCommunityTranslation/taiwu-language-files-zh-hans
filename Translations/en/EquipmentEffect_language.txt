@@ -35,7 +35,7 @@ This weapon has 50% higher Hardness, but 50% lower DES.
 Venomous sting
 This weapon causes 20% more Poison damage to enemies.
 Spiritual Use
-This weapon's usage requirements are lowered by 20%
+此兵器的发挥需求减少20%
 Blood Kills
 When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct External Damage.
 Qi killing
@@ -79,7 +79,7 @@ This equipment has 50% higher TOU, but 50% lower Hardness.
 Tenacious
 This equipment has 50% higher Hardness, but 50% lower TOU.
 This equipment causes 20% more poison damage to enemies.
-This armor's usage requirements are lowered by 20%
+此护具的发挥需求减少20%
 Physical Protection
 When using this armor to resist the enemy's attack or Break skill if this armor is damaged, the direct External Damage inflicted by the enemy is reduced by 30%.
 Qi·Protection
@@ -107,4 +107,18 @@ The popularity of this equipment is increased by 75%, and its value is reduced b
 Made by Adoptive Father
 The Might, Finesse, and Swiftness of this weapon are increased by 20%; The durability of this weapon in increased by 100%.
 Trial
-This weapon's durability is reduced by 50%, and its usage requirements are increased by 100%
+此兵器的耐久降低50%，发挥需求增加100%。
+烟霞神铸
+生铸护具的耐久会随时间持续减少；敌人对此护具保护的部位进行兵器攻击时，有50%的几率必然被化解，且敌人攻击此部位的可能性加倍；此特性仅能持续到此装备完全损坏或战斗结束
+山河神解
+生铸兵器的耐久会随时间持续减少；此兵器能够代替所有其它非山河神解的装备承受50%的耐久损失；此特性仅能持续到此装备完全损坏或战斗结束
+鬼眼灵琢
+生铸宝物的耐久会随时间持续减少；此宝物提供的主要属性、次要属性、攻击、防御、命中、化解加成提高100%，且会持续为使用者增加随机类型的真气；此特性仅能持续到此装备完全损坏或战斗结束
+玄虎神解
+生铸兵器的耐久会随时间持续减少；此兵器的兵器攻击造成的直接伤害提高50%；此特性仅能持续到此装备完全损坏或战斗结束
+仙元神解
+生铸兵器的耐久会随时间持续减少；以此兵器进行兵器攻击且命中敌人要害时，向敌人施加1个随机的破绽或封穴；此特性仅能持续到此装备完全损坏或战斗结束
+架海残铸
+此装备的重量提高100%、坚韧降低80%；此特性仅能持续到此装备完全损坏或战斗结束
+浑元神铸
+生铸护具的耐久会随时间持续减少；此护具的破刃和坚韧提高100%，提供的化解加成、防御加成提高50%，伤害减免提高25%；此特性仅能持续到此装备完全损坏或战斗结束
