@@ -942,17 +942,17 @@ Spend your Legacy to immediately cause <color=#orange>「Huainan」</color> regi
 Spend your Legacy to immediately cause <color=#orange>「Jiangnan」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
 Spend your Legacy to immediately cause <color=#orange>「Jiangbei」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
 Shaolin Order
-Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Shaolin」</color>!
+花费生平遗惠，立即获得<color=#orange>「少林派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color></color>
 Emei Order
-Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Emei Sect」</color>!
+花费生平遗惠，立即获得<color=#orange>「峨眉派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Hundred Flowers Order
-Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Hundred Flowers Valley」</color>!
+花费生平遗惠，立即获得<color=#orange>「百花谷」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Wudang Order
-Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Wudang Sect」</color>!
+花费生平遗惠，立即获得<color=#orange>「武当派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Yuanshan Order
-Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Yuanshan Sect」</color>!
+花费生平遗惠，立即获得<color=#orange>「元山派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Lion Face Order
-Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Lion-Face Clan」</color>!
+花费生平遗惠，立即获得<color=#orange>「狮相门」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
 Ranshan Order
 Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Ranshan Sect」</color>!
 Xuannyu Order
