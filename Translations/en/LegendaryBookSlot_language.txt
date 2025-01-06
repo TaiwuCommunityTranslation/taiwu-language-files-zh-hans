@@ -1,7 +1,7 @@
 
 
 Expert
-<color=#brightblue>The power limit of techniques placed in here are increased by 50%,</color> <color=#brightred>but the use requirements are increased by 25%.</color>
+<color=#brightblue>放置其中的功法的威力上限增加50%，</color><color=#brightred>但功法的发挥需求增加25%。</color>
 Extreme
 <color=#pinkyellow>When a skill is placed in here, depending on the difference between your main element and your mutual and restraining elements, the power of other skills may</color> <color=#brightblue>Increase</color> <color=#pinkyellow>or</color> <color=#brightred>Decrease</color>
 Expand
@@ -11,7 +11,7 @@ Shrink
 Snipe
 <color=#brightblue>The power of skills placed in here changes at the start of the battle: For user power increases by 40%; For opponent power decreases by 40%.</color>
 Store
-<color=#brightblue>The technique placed in here only takes up 1 slot,</color> <color=#brightred>but its requirements are increased by 50%.</color>
+<color=#brightblue>放置其中的功法只占用1格功法栏，</color><color=#brightred>但功法的发挥需求增加50%。</color>
 
 
 
