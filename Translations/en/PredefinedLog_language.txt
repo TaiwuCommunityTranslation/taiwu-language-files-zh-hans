@@ -45,3 +45,5 @@ Event System Exception
 The event has changed, but it has not actually entered. Continuing the game may cause a corrupted file.\nIf this log appears, please go to the official website to submit the log to assist in troubleshooting.\nGuid: {0}=>{1}
 Combat Ai loading exception
 An exception occurred while trying to load Ai data from path {0}. Please check the game integrity or try to seek support from customer service.\nException information: {1}
+Mod 新增配置丢失异常
+检测到通过 Mod 添加的模板ID为{0}的配置在当前游戏{1}配置数据中不存在，已通过试图将其关联数据删除进行兼容，如想保留请启用相关Mod后重新读档。
