@@ -1,0 +1,41 @@
+Request Spar
+“我近日修习功法颇有心得，\n愿与你比试一番，以明长短……”\n\n这一日，<Character key=CharacterId str=Name />抱拳相迎，希望能与<Character key=RoleTaiwu str=Name />切磋一番！
+“你我茜纱窗下共语，也应演武场上同修……”\n\n这一日，<Character key=CharacterId str=Name />笑迎而上，希望能与<Character key=RoleTaiwu str=Name />切磋一番！
+“孩儿近日学武颇有所悟，想请您赐教一二……”\n\n这一日，<Character key=CharacterId str=Name />拱手相迎，希望能与<Character key=RoleTaiwu str=Name />切磋一番！
+“孩儿，世人皆盼太吾救世，我却忧你康健与否，\n平日要多活动筋骨才好……”\n\n这一日，<Character key=CharacterId str=Name />抬手致意，希望能与<Character key=RoleTaiwu str=Name />切磋一番！
+“为师见你近日修习颇有进展，且实战一番才算领悟……”\n\n这一日，<Character key=CharacterId str=Name />抬手致意，希望能与<Character key=RoleTaiwu str=Name />切磋一番！
+“与你交手，方知武道天深，落败于你，我心悦诚服……”
+“经此较量，更显你我心意相通，落败于你，我心服口服……”
+“孩儿功力不济，此番实乃受益匪浅……”
+“我虽败了，但甚感欣慰，还望此番切磋能助你精进才好……”
+“切磋本以相互勉励为主，切莫失意……”
+“多亏您的教导，孩儿方能有此小成……”
+“切磋本以实战领悟为主，切莫失意……”
+<Character key=RoleTaiwu str=Name />婉言拒绝了<Character key=CharacterId str=Name />的请求，\n<Character key=CharacterId str=Name />颇感失望，轻叹一声便转身离去……
+挑战请求
+“莫要借你我的情谊避战，今日须以拳脚相会不可……”\n\n这一日，<Character key=CharacterId str=Name />蓦地拦住了<Character key=RoleTaiwu str=Name />的去路，抱拳挑战道……
+“一场对决亦可令你我知情识趣，来一较高下罢！”\n\n这一日，<Character key=CharacterId str=Name />蓦地拦住了<Character key=RoleTaiwu str=Name />的去路，抱拳挑战道……
+“不登高山，不知天之高也，孩儿失礼了……”\n\n这一日，<Character key=CharacterId str=Name />蓦地拦住<Character key=RoleTaiwu str=Name />的去路，抱拳挑战道……
+“孩儿，今日我特来与你一战，\n无须拘束，使出全力罢……”\n\n这一日，<Character key=CharacterId str=Name />拦住了<Character key=RoleTaiwu str=Name />的去路，抱拳挑战道……
+“徒儿，此战你须聚神应对，\n以证所学非虚，方才不辱师门……”这一日，<Character key=CharacterId str=Name />拦住了<Character key=RoleTaiwu str=Name />的去路，抱拳挑战道……
+“落败于你，我无异议，你确胜我一筹……”
+“落败于你，我心服口服……”
+“孩儿功力不济，今日确有所领教……”
+“此番你已胜我，但修习万不可止步于此……”
+“胜负乃是常事，勿颓然失志……”
+“孩儿承让了……”
+较艺请求
+“技艺总须较量方能通达，\n愿与你一争高下，或能顿悟关窍……”\n\n这一日，<Character key=CharacterId str=Name />拱手前来，希望能与<Character key=RoleTaiwu str=Name />进行「较艺」！
+“孩儿愿以所学技艺与您一较高下，\n以求指点，得以精进……”\n\n这一日，<Character key=CharacterId str=Name />拱手前来，希望能与<Character key=RoleTaiwu str=Name />进行「较艺」！
+“孩儿，须知技艺之精进，非较量无以尽展，\n愿比试一番以观所长……”\n\n这一日，<Character key=CharacterId str=Name />抬手致意，希望能与<Character key=RoleTaiwu str=Name />进行「较艺」！
+“徒儿，技艺非闭门造车所能成，多经较量才好……”\n\n这一日，<Character key=CharacterId str=Name />抬手致意，希望能与<Character key=RoleTaiwu str=Name />进行「较艺」！
+“可谓生公说法，令顽石点头，我心服口服……”
+“孩儿技艺未臻，此番实乃受益匪浅……”
+“是我败了，还望此番较量能助你精进技艺才好……”
+“术有胜负，道无高低，你我求同存异便好……”
+促织决斗请求
+“何不遣你我的虫儿们斗上一斗，以博今日之欢，共享此间之乐……”\n<Character key=CharacterId str=Name />笑迎而来，希望能与<Character key=RoleTaiwu str=Name />以促织决斗！\n\n<color=#lightgrey>（促织决斗，一诺千金！）\n（注意！如果拿不出与对方押注等值的押注，便只能弃权投降……）\n（在促织决斗中弃权将会失去威望值……）</color>
+“促织本性刚烈勇猛，若不使之相争，何以显其勇，不如今日一斗勿使其湮没……”\n<Character key=CharacterId str=Name />笑迎而来，希望能与<Character key=RoleTaiwu str=Name />以促织决斗！\n\n<color=#lightgrey>（促织决斗，一诺千金！）\n（注意！如果拿不出与对方押注等值的押注，便只能弃权投降……）\n（在促织决斗中弃权将会失去威望值……）</color>
+“我的虫儿虽败，然‘决斗’之乐仍在其中……”
+“我的败绩无妨，‘决斗’精彩便足矣……”
+“败绩无妨，‘决斗’精彩便足矣，此间确实乐趣无穷……”
