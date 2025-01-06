@@ -99,7 +99,7 @@ Insidious Harm
 Because of a grudge, they might wait for an opportunity to use Medicine or Toxicology to cause damage or poison the main fighter.
 You and I have a deep hatred, so don't blame me for being ruthless!
 Distraction
-Because of a grudge, they might wait for an opportunity to reduce main fighter's Might, Finesse, Swiftness, Breath, Diversion, Parry, Evasion, and Focus for a period of time.
+因心生嫌隙，可能伺机在短时间内，降低主战者的力道、精妙、迅疾、动心、卸力、拆招、闪避、守心。
 Let me distract you and you will be defeated without even fighting!
 Disturb
 Because of a grudge, they might wait for an opportunity to interrupt the main fighter while they're using items, Healing, Detoxing, doing Mount Attack, or Escaping.
@@ -107,3 +107,65 @@ Wait till I throw you into disarray!
 Dispersing Qi
 Because of a grudge, they might wait for an opportunity to disperse True Qi of the main fighter.
 Disperse your True Qi and see how you can resist the enemy! 
+能够使用「出战」指令在短时间内提高攻击、防御、命中、化解代替主战者进行战斗。持续时间与冷却时间均减少一半。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+驭使
+能够使用「驭使」指令使运用者功法威力的增加效果提高，功法威力的减少效果降低
+
+能够使用「驭使」指令使运用者距离敌人越远，运用者命中敌人要害的几率就越高
+
+能够使用「驭使」指令使运用者距离敌人越近，运用者命中敌人要害的几率就越高
+
+能够使用「驭使」指令使运用者对敌人造成的直接重创伤害提高；敌人对运用者造成的直接重创伤害降低
+
+能够使用「驭使」指令使运用者的反震威力提高
+
+能够使用「驭使」指令使运用者的疗伤、驱毒效果提高；敌人的疗伤、驱毒效果降低
+
+能够使用「驭使」指令使运用者的反击威力提高
+
+能够使用「驭使」指令使运用者损耗敌人身法、脚力、提气、架势的效果提高，运用者被敌人损耗身法、脚力、提气、架势的效果降低
+
+能够使用「驭使」指令使运用者对敌人造成的追击伤害累积提高，持续直到追击结束
+
+甲阵
+能够使用「甲阵」指令在短时间内持续攻击敌人。
+
+乙阵
+能够使用「乙阵」指令使一段时间内机关人于敌人使用摧破攻击主战者时，施展护体功法为主战者抵挡敌人的催破攻击。
+
+丙阵
+能够使用「丙阵」指令限制敌人使用铜生已运功的奇窍功法。
+
+Unblock
+能够使用「解封」指令为主战者当前兵器增加解封进度。
+
+替身
+能够使用「替身」指令为主战者分担伤势、中毒与内息紊乱。
+
+Repair
+能够使用「修理」指令为主战者修复在战斗中使用过的装备的耐久。
+
