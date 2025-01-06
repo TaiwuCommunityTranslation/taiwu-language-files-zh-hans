@@ -67,10 +67,9 @@ Defeating an opponent when one's realm of purity is 3 or more below that of the 
 Lion Roar
 Defeating an opponent while having six pieces of gear equipped.
 
-It's all in your hands.
+Repel Evil Spirits
 Restore one's mind from XiangShu's Posession. 
 Restore the mind of those who have fallen into evil.
-Repel Evil Spirits
 Restoring the minds of those who have fallen into the demonic path of the Sangha and who are no less pure than oneself.
 Restore the mind of those who have fallen into the evil path and whose purity is no less than your own.
 Be Chivalrous and uphold justice
@@ -129,3 +128,11 @@ Having gained insight during actual combat, the Internal Energy and True Qi acqu
 Practice Complete
 Since it is just a casual practice, you cannot gain Experience and Prestige, nor will you receive any combat evaluation...
 
+屈膝束手
+在战斗中主动认输，受到了严重损伤……
+
+除灭爪牙
+消灭相枢爪牙。
+消灭魔道爪牙。
+消灭精纯不低于自己的相枢爪牙。
+消灭精纯不低于自己的魔道爪牙。
