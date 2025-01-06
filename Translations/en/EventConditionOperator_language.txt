@@ -1,0 +1,6 @@
+Equal
+Unequal
+More than
+Less than
+Not less than
+Not more than
