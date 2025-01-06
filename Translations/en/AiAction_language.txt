@@ -58,9 +58,9 @@ Switch to {0} type of weapon
 Recall Addition
 The corresponding value of {0} in memory plus {1}. If the value does not exist in memory, the value is zero
 Interrupt Use
-Interrupts the current technique. Ineffective against Taiwu
+中断正在施展的功法
 Interrupt Aegis
-Interrupts the current Aegis technique. Ineffective against Taiwu
+中断当前运起的护体
 Assign Text to Memory
 Set the text corresponding to {0} in memory to the text corresponding to {1}
 Assign Boolean to Memory
@@ -100,4 +100,8 @@ Set {0} in memory to the best Break technique that can be performed currently. T
 Use Assigned Skill
 Use assigned technique {0}
 Interrupt Footwork
-Interrupts the current Footwork. Ineffective against Taiwu
+中断当前运起的身法
+解封兵器
+使用兵器 {0} 执行一次解封
+解封兵器类型
+使用兵器类型 {0} 执行一次解封
