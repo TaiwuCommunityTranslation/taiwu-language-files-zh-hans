@@ -315,38 +315,38 @@ Goddess's Absolute Voice
 Because of the mystery of the strange book, in battle, when hitting the enemy with Melody, it will damage the enemy's True Qi, and the more Sound Styles one has, the higher the damage of one's own Melody Techniques
 
 King of the Hill
-Attack token recovery speed increased by 50%
-<color=#lightgrey>When located on<color=#brightblue> Mountain or Mountain Range</color> tile, the attack token recovery speed is greatly increased</color> 
+攻势恢复速度提高20%
+<color=#lightgrey>位于<color=#lightblue>山岳、山脉</color>地形时，攻势恢复速度提高</color>
 A line of sky
-Skill Cast Speed increased by 50%
-<color=#lightgrey>When located on <color=#brightblue>Canyon or Natural Hazards</color> tile, the Cast Speed of skills is greatly increased</color>
+功法施展速度提高20%
+<color=#lightgrey>位于<color=#lightblue>峡谷、天险</color>地形时，功法施展速度提高</color>
 Nine-fold Path
-Enemy's Accuracy is reduced by 25%
-<color=#lightgrey>When located on <color=#brightblue>Hills, Highlands</color> tiles, the enemy's Accuracy is reduced</color>
+敌人的命中几率降低20%
+<color=#lightgrey>位于<color=#lightblue>丘陵、高地</color>地形时，敌人的命中几率降低</color>
 Pale and Wild
-Your Accuracy is increased by 25%
-<color=#lightgrey>When located on <color=#brightblue>Fields or Plains</color> tiles, your Accuracy increases</color>
+我方的命中几率提高20%
+<color=#lightgrey>位于<color=#lightblue>原野、平原</color>地形时，我方的命中几率提高</color>
 One with the Forest
-Inhale and Stance Recoveries are increased by 50%
-<color=#lightgrey>When located in <color=#brightblue>Woodland or Forest</color> tiles, the Inhale and Stance Recoveries are greatly improved</color>
+提气、架势恢复提高20%
+<color=#lightgrey>位于<color=#lightblue>林地、森林</color>地形时，提气、架势恢复提高</color>
 Empty Stream
-Stamina recovery speed increased by 100%
-<color=#lightgrey>When located in <color=#brightblue>River Beach, River Valley, or Gorge</color> tiles, the Stamina recovery speed is greatly improved</color>
+脚力恢复速度提高20%
+<color=#lightgrey>位于<color=#lightblue>河滩、河谷、溪谷</color>地形时，脚力恢复速度提高</color>
 Smoky Wave
-Footwork charge speed (?) increased by 50%
-<color=#lightgrey>When located in  <color=#brightblue>Lake</color> tiles, the jump Footwork's charging speed is greatly increased</color>
+身法蓄力速度提高20%
+<color=#lightgrey>位于<color=#lightblue>湖泊</color>地形时，身法蓄力速度提高</color>
 Moro Roach
-Style Change acquisition speed increased by 50%
-<color=#lightgrey>When located in <color=#brightblue>Dense Forest</color> tile, the Style Change acquisition speed is greatly increased</color>
+变招获取速度提高20%
+<color=#lightgrey>位于<color=#lightblue>密林</color>地形时，变招获取速度提高</color>
 Cave All Night
-Increase the cooldown of enemy's Deflect by 100%
-<color=#lightgrey>When located in <color=#brightblue>Cave</color> tiles, the cooldown of enemy's Deflect is greatly increased</color>
+敌人招架的冷却时间增加50%
+<color=#lightgrey>位于<color=#lightblue>洞穴</color>地形时，敌人招架的冷却时间增加</color>
 Pond Sink
-Increase the amount of toxin applied to the enemy in battle by 100% and increase the toxin level by one level
-<color=#lightgrey>When located in <color=#brightblue>Swamp</color> tiles, the amount of poison applied to the enemy during the battle is greatly increased, and the poison level is increased by one level</color>
+战斗中对敌人施加的毒素量提高50%，毒素级别提升一级
+<color=#lightgrey>位于<color=#lightblue>沼泽</color>地形时，战斗中对敌人施加的毒素量提高，毒素级别提升一级</color>
 The Peach Blossom
 Recover all consumed internal energy after the battle
-<color=#lightgrey>When you are in <color=#brightblue>Wonderland</color> tiles, all consumed internal energy will be restored after the battle</color>
+<color=#lightgrey>位于<color=#lightblue>桃源</color>地形时，战斗结束后恢复所有消耗的内力</color>
 Wuming's Mythic Poison
 Because of Mythic Poison, Wuming's power has increased dramatically
 
@@ -528,8 +528,8 @@ Controlling Suanni
 Because of controlling a Suanni: Fatal Wound damage dealt by the user is increased; Whenever the user deals a direct External or Internal damage to the enemy, there's a chance that it will change into Fatal Wound damage.
 Controlling Suanni: <color=#brightblue>Fatal Wound damage dealt by the user is increased; Whenever the user deals a direct External or Internal damage to the enemy, there's a chance that it will change into Fatal Wound damage</color>.
 Controlling Baxia
-Because of controlling a Baxia: User will not suffer penalties for exceeding equipment weight limit; The more the user exceeds the equipment weight limit, the more the power limit of user's Weapons and Armor will increase.
-Controlling Baxia: <color=#brightblue>User will not suffer penalties for exceeding equipment weight limit; The more the user exceeds the equipment weight limit, the more the power limit of user's Weapons and Armor will increase</color>.
+因驭使霸下：运用者不会受到兵器、护具负重超重的影响；运用者全身的装备重量总和越重，运用者的兵器、护具的威力上限也增加越多
+驭使霸下：<color=#brightblue>运用者不会受到兵器、护具负重超重的影响；运用者全身的装备重量总和越重，运用者的兵器、护具的威力上限也增加越多</color>
 Controlling Bian
 Because of controlling a Bian, when the user attack an enemy with negative Fame, user's Ext. and Int. Pen. get increased based on how negative the enemy's Fame is; When the user gets attacked by an enemy with negative Fame, user's Ext. and Int. Def. get increased based on how negative the enemy's Fame is.
 Controlling Bian: <color=#brightblue>When the user attacks an enemy with negative Fame, user's Ext. and Int. Pen. get increased based on how negative the enemy's Fame is; When the user gets attacked by an enemy with negative Fame, user's Ext. and Int. Def. get increased based on how negative the enemy's Fame is</color>.
@@ -634,4 +634,7 @@ Soul-Falling Bell
 Being captured by the Soul-Falling Bell, all Secondary Attributes are reduced by half. If the master can be seriously injured, there may be a chance of survival in this battle...
 
 Being attacked by the Soul-Falling Bell, all secondary attributes were reduced by half, the mind was scattered, and there was no way to resist the enemy...
+
+狩猎野兽
+与野兽战斗时，人物的命中、化解、攻击、防御提高…
 
