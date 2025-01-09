@@ -251,7 +251,7 @@ Buddhism\nLion Roar
 Remove Enemy's Footwork
 压制敌之属性
 增敌身法消耗
-Whenever the user starts performing a "Break" technique, if the enemy is within the user's Attack Range, enemy's Footwork will be removed, and while the user is performing the technique, Stamina cost of enemy's Footworks will be doubled, and their Movement Speed, Attack Speed, and Cast Speed will be lowered to minimum
+每当运用者主动开始施展「摧破」类功法，如果敌人在运用者的攻击范围之内，消除敌人运起的身法，且运用者施展功法的过程中，敌人施展身法所需消耗的脚力加倍，敌人的移动速度、施展速度、攻击速度也会变化为最低
 Hunyuan\nBreathing
 Changing Int. Def. to Ext. Def.
 Avoid direct internal injuries
@@ -2110,7 +2110,7 @@ Reverse - Small Arhat\nRod Formation
 When using "Defend" order, it will greatly increase the power of teammate's "Aegis" technique
 Reverse - Buddhism\nLion Roar
 增敌护体消耗
-Whenever the user starts performing a "Break" technique, if the enemy is within the user's Attack Range, enemy's "Aegis" technique will be removed, and while the user is performing the technique, Stance and Inhale cost of enemy's "Aegis" techniques will be doubled, and their Equipment Efficiency, Ext. Recovery, and Int. Recovery will be lowered to minimum
+每当运用者主动开始施展「摧破」类功法，如果敌人在运用者的攻击范围之内，消除敌人运起的护体，且运用者施展功法的过程中，敌人施展护体所需消耗的气势加倍，敌人的步伐稳定、引气冲关、武具运用也会变化为最低
 Reverse - Hunyuan\nBreathing
 Increase internal injury reflect
 When defending with this technique, as long as the attacked body part of the user doesn't have Sealed Acupoints, the Internal Reflect of this technique will be greatly increased
@@ -4272,7 +4272,7 @@ When Unleashed, based on this weapon's Power, next attack will deal a large amou
 以解封攻击敌人时，此兵器将受发挥威力的影响，对敌人造成不可避免且不可招架的大量直接伤害，且可多次增加敌人的内息紊乱
 烟霞神铸
 生铸己之护具
-生铸护具的耐久会随时间持续减少；敌人对此护具保护的部位进行兵器攻击时，有50%的几率必然被化解，且敌人攻击此部位的可能性加倍；此特性仅能持续到此装备完全损坏或战斗结束
+生铸护具的耐久会随时间持续减少；敌人对此护具保护的部位进行兵器攻击时，有33%的几率必然被化解，且敌人攻击此部位的可能性加倍；此特性仅能持续到此装备完全损坏或战斗结束
 山河神解
 生铸己之兵器
 生铸兵器的耐久会随时间持续减少；此兵器能够代替所有其它非山河神解的装备承受50%的耐久损失；此特性仅能持续到此装备完全损坏或战斗结束
