@@ -16,7 +16,7 @@ MOV·Spd
 Ext. Recovery
 Cast Speed
 Int. Recovery
-Wp·Switch CD
+武具运用
 Attack Speed
 Int Ratio Bonus
 Internal Breath
