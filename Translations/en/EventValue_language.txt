@@ -1,9 +1,9 @@
-太吾人物
-游戏时间
-当前月份
-当前年份
-剩余天数
-侵袭等级
+Person of Taiwu
+Playtime
+Current Month
+Current Year
+Remaining Days
+Invasion Level
 Shaolin
 Emei Sect
 Hundred Flowers Valley
@@ -35,4 +35,4 @@ Five Immortals
 Shouchun
 Hangzhou
 Yangzhou
-对话人物
+Dialogue Character
