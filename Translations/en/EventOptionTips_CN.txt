@@ -1,6 +1,6 @@
 Amount of Taiwu's teammates is less than {0}
 Amount of Taiwu's teammates is not less than {0}
-Time required: {0}
+Energy required: {0}
 {0} is not Taiwu's teammate
 Cooldown after using: {0} months
 Favor required: {0}
@@ -23,7 +23,7 @@ Amount of Taiwu's teammates is less than {0}
 Aspiration's Seniority is high enough to use aspiration's skill
 Aspiration's Seniority has to reach {0}'s identity to use this skill
 {0} doesn't Despise Taiwu
-Taiwu has the resources needed to use aspiration's skill and it's not on cooldown
+Taiwu has the resources needed to use Aspiration's skill and it's not on cooldown
 {0} needs to be Enthralled by Xiangshu
 Taiwu needs to have {0}
 {0} Qi Disorder needs to be lower than {1}
@@ -44,3 +44,18 @@ Obtained support of upper three tiers of Shaolin
 Taiwu's {0} is not less than {1}
 Cooldown after using: {0} months
 This Jiao can be tamed only once per month
+News required: {0}
+The other party has an item that can be gifted, and the gift's tier does not exceed {0}
+The other party possesses a Martial Art that can be taught, and its tier does not exceed {0}
+The Identity of the other party isn't higher than {0}
+There needs to be an adult character among Taiwu's teammates
+Taiwu's detention slot has to have a Possessed person
+This character hasn't been used this month
+Taiwu has no less than {0} living crickets
+Taiwu doesn't possess the Lost in Sichuan trait
+{0} isn't affected by Sponsorship Support skill
+Inventory contains crickets that aren't T1 or T2, and haven't been turned Extraordinary
+Inventory contains crickets that aren't T1 or T2, are Extraordinary, with much more victories than losses, and that haven't been transformed yet
+Taiwu's {1} Aspiration Seniority reaches the requirements for {0} to use this Aspiration's skill
+Taiwu's Lifespan isn't lower than {0}
+The other party's Health isn't in an abnormal state
