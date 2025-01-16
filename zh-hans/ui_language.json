@@ -5646,6 +5646,8 @@
   "LK_GearMate_ExitAttentionItem": "已选中物品，是否确认退出？",
   "LK_GearMate_UpgradeMaxTip": "{0}的{1}已成长至上限...",
   "LK_Pinned_TeammateCommand_Tips_GearMate": "{0}战斗指令不会随月份更替而变化...",
+  "LK_CombatSkillEquipment_Version74_Alert_Title": "运功栏位调整",
+  "LK_CombatSkillEquipment_Version74_Alert_Content": "因版本优化迭代及BUG修复，\\n可能导致少数存档中的运功栏位与此前存档时的状态不同，\\n还需您重新运功，以免走火入魔，\\n由此给您造成的不良体验，我们深表歉意，祝您神功早成，天下无敌…",
   "Event_ItemGot_Notify_Title": "道具获得提示",
   "Event_ItemGot_Notify_Content": "获得了\\n{0}",
   "EventEditor_Error_DuplicateGroupKey": "出现了重复的事件组Key：{0}",
