@@ -1026,7 +1026,7 @@ In order to pray for the arrival of a true dragon, the Fulong Altar sent envoys 
 
 {0}已经抵达{1}，还需{2}个月方能到达目的地{3}。此地文化值过低，商队意外收益率提升至{4}%。
 
-{0}已经抵达{1}，还需{2}个月方能到达目的地{3}。此地文化值较高，商队收益比例提升至{4}%。
+{0} has arrived to {1}, and will take {2} more months to reach {3}. The Culture of this place is high, causing the Caravan's Income Ratio to increase to {4}%.
 
 {0}已经抵达{1}，还需{2}个月方能到达目的地{3}。此地安定值过低，商队遇劫几率提升至{4}%。
 
@@ -1034,11 +1034,11 @@ In order to pray for the arrival of a true dragon, the Fulong Altar sent envoys 
 
 {0}已经抵达{1}，还需{2}个月方能到达目的地{3}。此地安定值过低，商队遇劫几率提升至{4}%。此地文化值过低，商队意外收益率提升至{5}%。
 
-{0}已经抵达{1}，还需{2}个月方能到达目的地{3}。此地安定值过低，商队遇劫几率提升至{4}%。此地文化值较高，商队收益比例提升至{5}%。
+{0} has arrived to {1}, and will take {2} more months to reach {3}. The Stability of this place is low, causing the Caravan's Robbery Chance to increase to {4}%. The Culture of this place is high, causing the Caravan's Income Ratio to increase to {5}%.
 
 {0}已经抵达{1}，还需{2}个月方能到达目的地{3}。此地安定值较高，商队遇劫几率降低至{4}%。此地文化值过低，商队意外收益率提升至{5}%。
 
-{0}已经抵达{1}，还需{2}个月方能到达目的地{3}。此地安定值较高，商队遇劫几率降低至{4}%。此地文化值较高，商队收益比例提升至{5}%。
+{0} has arrived to {1}, and will take {2} more months to reach {3}. The Stability of this place is high, causing the Caravan's Robbery Chance to decrease to {4}%. The Culture of this place is high, causing the Caravan's Income Ratio to increase to {5}%.
 
 商队到达
 {0}已经抵达终点{1}，太吾因投资获得{2}银钱收入…
@@ -1047,5 +1047,5 @@ In order to pray for the arrival of a true dragon, the Fulong Altar sent envoys 
 {0}在{1}遭逢匪徒拦路抢劫，十分危险！
 
 商队被劫
-{0}在{1}遭逢匪徒拦路抢劫，因无力反抗，收益比例下降至{2}%。
+{0} encountered robbery on the road at {1}, and was unable to resist, causing the Income Ratio to decrease to {2}%.
 
