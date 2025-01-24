@@ -1013,7 +1013,7 @@ Fulong's Plunder
 In order to pray for the arrival of a true dragon, the Fulong Altar sent envoys to spread the power of the true dragon and force the people to offer their treasures in worship of the true dragon...
 
 神木长成
-琪花瑶草傍生，白鹤青鸾翔舞。位于{0}的神木已然长成，正可前往觅取灵宝……
+琪花瑶草傍生，白鹤青鸾翔舞，位于{0}的神木已然长成……
 
 试剑大典
 时隔多年，试剑大典于铸剑山庄再次举办…
@@ -1048,4 +1048,7 @@ In order to pray for the arrival of a true dragon, the Fulong Altar sent envoys 
 
 商队被劫
 {0} encountered robbery on the road at {1}, and was unable to resist, causing the Income Ratio to decrease to {2}%.
+
+扩建搁置
+{0}的{1}持续扩建中断…
 
