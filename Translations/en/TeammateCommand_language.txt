@@ -13,6 +13,7 @@ Push
 Can use「Push」order to bring main fighter closer to the opponent.
 Follow you heart, and quickly advance!
 MOV·Dist
+Use Cooldown
 Pull
 Can use「Pull」order to bring main fighter away from the opponent.
 The closer the enemy, the more dangerous it is!
@@ -42,6 +43,7 @@ MIG
 FIN 
 SWI 
 BRE 
+Duration
 Warn
 Can use「Warn」order to increase main fighter's Diversion, Parry, Evasion, and Focus for a short amount of time.
 I will be on guard from the side, leaving the enemy no chance to attack!
@@ -59,7 +61,6 @@ Can use「Sacrifice」order to share Injuries and Fatal Wounds of the main fight
 Restrain
 Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time.
 Let me hold them back so that you won’t be distracted!
-Duration
 Break
 Can use「Break」order to attack enemy with a "Break" technique with increased power.
 I've prepared my technique, now watch this move!
@@ -67,7 +68,6 @@ Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve sta
 Can use「Haste」order to increase cast progress of the main fighter's skill. <color=#brightblue>When boosted by Lion War Drum, the increase in cast progress will be higher.</color>
 Can use「Push」order to bring main fighter closer to the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color></color> <color=#brightred>but its cooldown will be increased.</color>
 Use Count
-Use Cooldown
 Can use「Pull」order to bring main fighter away from the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color> <color=#brightred>but its cooldown will be increased.</color>
 Can use「Attack」order to attack the enemy. <color=#brightblue>When boosted by Lion War Drum, will deal extra damage to enemy's Deflect.</color>
 Deflect Damage
