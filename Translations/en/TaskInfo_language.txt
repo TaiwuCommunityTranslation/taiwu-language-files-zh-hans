@@ -1372,17 +1372,17 @@ Since Ranshan has the reputation of "answering every question, and fulfilling ev
 
 Dream of Qinglang
 Enter the <color=#orange>「Dream of Qinglang」</color> adventure
-Enter the <color=#orange>「Dream of Qinglang」</color> adventure.
+前往奇遇<color=#orange>「青琅一梦」</color>。然山之事，扑朔迷离，若有意插手其中，或需<color=#orange>十数月光景</color>周旋其间，<color=#orange>无暇顾及他事</color>……
 I don't know why Lord Qinglang sent me this invitation...
 
 Reflect and Ruminate
 <color=#orange>Stay in the Ranshan Sect</color> to make sense of what you see in the fog
-<color=#orange>Stay in the Ranshan Sect</color> to make sense of what you see in the fog.
+<color=#orange>留在然山派</color>理清雾中所见之事。然山之事，扑朔迷离，若有意插手其中，或需<color=#orange>十数月光景</color>周旋其间，<color=#orange>无暇顾及他事</color>……
 The matters concerning Qinglang Pavilion are truly like a mystery within a mystery, I really should ponder about it carefully...
 
 Worldly Affairs Refine Mind
 Wait for <color=#orange>{0} months</color> before returning to Ranshan
-I might as well leave Ranshan, travel around, and wait for <color=#orange>{0} months</color> before replying...
+不妨先行离开然山，继续游历，静待<color=#orange>{0}个月</color>后再作答复。三宗比武事关仙家，扑朔迷离，若要玉成其事，或可于此期间，<color=#orange>成人之美，结交善缘</color>。
 It is useless to keep thinking about it, i might as well put the matters concerning Ranshan aside for a while...
 
 Enter the <color=#orange>「Three Sects Competition」</color> adventure
@@ -1496,17 +1496,17 @@ Lately, wild beasts have been howling during the night, causing distress to the 
 
 Guidance to Huaju
 
-<color=#orange>Huaju</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
+华居为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往与<color=#orange>华居互动</color>，赠予书籍，切磋指导，<color=#orange>相约同游，为其开悟</color>……
 
 
 Guidance to Xuanzhi
 
-<color=#orange>Xuanzhi</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
+玄质为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往与<color=#orange>玄质互动</color>，赠予书籍，切磋指导，<color=#orange>相约同游，为其开悟</color>……
 
 
 Guidance to Yingjiao
 
-<color=#orange>Yingjiao</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
+迎娇为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往与<color=#orange>迎娇互动</color>，赠予书籍，切磋指导，<color=#orange>相约同游，为其开悟</color>……
 
 
 Return to Ranshan
