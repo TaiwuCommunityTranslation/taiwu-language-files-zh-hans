@@ -155,7 +155,7 @@ Golden Liver
 （{0}如今饮酒更觉纵情欢畅，行酒令的效果越发显著……）
 豪侠研武
 酒后竞风采，三杯弄宝刀。豪客因酒结缘，广交良朋，共究武学之道。研习功法时，则呼召群雄，各抒己见，众人多从中受益。只是来者并非皆投契，虽有一见如故，引为知己之人，亦有大打出手，反目成仇之事……
-<color=#brightblue>选择持有的功法书籍与当前地格所选众人一同研读、修习，促进众人精进武学，更能交流感情，结成关系</color>
+<color=#brightblue>选择持有的功法书籍与所在城镇村寨当前地格众人一同研读、修习，促进众人精进武学，更能交流感情，结成关系</color>
 {0}心有凌云之志，\n每以武会友，其豪情壮志常激励众人。\n如今与人共研武学时，可激发潜能，促人武学精进，\n其间可见众人或情投意合，或互生怨怼，宛然众生百态……
 （{0}现与众人研读武学书籍时，可促人武学精进，\n其间还可促进众人交流感情，结成关系……）
 Sponsorship Support
@@ -288,11 +288,11 @@ Divination
 <color=#brightblue>为他人占卜天降横福或天降横祸，占得之后可为其消除，或闭口不言，任由福祸临门；</color>\n<color=#orange>云游道资历</color>越高，可为越高<SpName=mousetip_character><color=#pinkyellow>身份</color>的人物占卜凶吉
 {0}云游四方，进德修业未曾懈怠，\n如今已是小有所成，纵灵云玄妙，亦可察之，\n以此窥仙探道之能，或可问天买卦，趋吉避凶……
 （{0}现可为他人占卜凶吉，预知其祸福灾祥……）
-Eternal Change of Fate
+Heavenly Fate Exchange
 果真是死生有命，富贵在天，半点不由人？云游道遍览凡人命数，逐渐参透天机，悟得改命之法，而今终能将命运握于自己掌中，不再凭天论定，纵然代价是遭受天谴，有损健康，又有何妨？
 <color=#brightblue>与他人交换自选的特性，并消耗云游道的<SpName=mousetip_shouming><color=#pinkyellow>寿元</color>；</color>\n<color=#orange>云游道资历</color>越高，交换时消耗的<SpName=mousetip_shouming><color=#pinkyellow>寿元</color>越少
 {0}阅世人间，修真养性而立身行道，\n日往月来，仙骨略得，天音得闻，灵霄可探，\n如今若欲为他人改换天命，也未尝不可……
-（{0}现可为他人易天改命，交换自身与他人的特性……）
+（{0} can now use Heavenly Fate Exchange to exchange traits with other people...）
 Unchained Spirit
 古往今来，多少帝王倾国之力寻求长生之术，却皆是一无所获。而云游道只求身心逍遥，向来任情恣性，时而放纵山水之间，时而游走闹市之中，却已在不知不觉间超脱人寿……
 <color=#brightred>年龄变化为每6个月增加1岁；</color>\n<color=#brightblue>但云游道的<SpName=mousetip_shouming><color=#pinkyellow>寿元</color>会同时增加1年</color>
@@ -335,7 +335,7 @@ Full Immersion
 （{0}如今品茗可涤净昏寐，饮茶后可恢复当月可用的精力……）
 Immortal Recognition
 贵客才艺卓然，身侧常有求教之人，久而久之，便聚得众人一同研学技艺。人多论艺，虽有言谈甚欢之时，亦有心生不睦之事，而谈笑往来间，众人各有所得……
-<color=#brightblue>选择持有的技艺书籍与当前地格所选众人一同研读，促进众人精进技艺，更能交流感情，结成关系</color>
+<color=#brightblue>选择持有的技艺书籍与所在城镇村寨当前地格众人一同研读，促进众人精进技艺，更能交流感情，结成关系</color>
 {0}诗情常有茶助，\n每与茶朋诗友往来，其文思才能常艳绝众人。\n如今与人共研技艺时，可启迪心智，促人技艺精进，\n其间可见众人或情投意合，或互生怨怼，宛然众生百态……
 （{0}现与众人研读技艺书籍时，可促人技艺精进，\n其间还可促进众人交流感情，结成关系……）
 Eye for Crickets
