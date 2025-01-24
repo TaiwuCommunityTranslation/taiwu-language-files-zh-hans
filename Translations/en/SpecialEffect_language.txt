@@ -1202,7 +1202,7 @@ Mt.Tai Lock
 此功法发挥$0$成威力时：立即封闭敌人双腿上相当于运用者拥有的「机」式数量的穴道，并消耗运用者所有的「机」式；由此功法造成的封穴，无法被任何效果提升
 Mechanic Hawk
 此功法发挥$0$成威力后，运用者获得6层此效果：每当运用者以直接外伤对敌人造成外伤标记，如果运用者额外消耗1个「机」式，就会对敌人造成2层非直接的随机部位的外伤，且此外伤将立即变化为更难恢复的旧伤
-The Impulse
+Profound Tianshu Engine
 Transferring your mark
 标记变为蓄式
 此功法发挥$0$成威力后，运用者获得1层此效果：当运用者的战败标记总数达到战败条件时，消除运用者所有可消除的伤势标记和重创标记，并将消除的伤势标记和重创标记的一半转移给敌人，一半变化为运用者的「机」式，随后此功法将不可避免地被「封禁」，持续直到战斗结束
@@ -2419,7 +2419,7 @@ Reverse - Wick of Lamp
 Reverse - Jade Step
 When retreating with this Footwork, the user needs to prepare to jump 3 distance at once. After jumping, a random Injury on the user's body will be reduced by 2
 Reverse - Flower Listen Rain
-Increase Focus Debuffs
+增强动心损害
 Slow Daze Lodging
 During this Footwork: Enemy's Breath will not be increased by any effect; The effect of all Breath-reducing technique effects and buffs received by the enemy will be greatly increased; The progress of Lodged Daze markers being applied to the user due to the non-lodged Daze markers disappearing is halved
 Reverse - 5 Steps of Plum Poling
@@ -2920,7 +2920,7 @@ Reverse - Mt.Tai Lock
 此功法发挥$0$成威力时：立即封闭敌人双手上相当于运用者拥有的「机」式数量的穴道，并消耗运用者所有的「机」式；由此功法造成的封穴，无法被任何效果提升
 Reverse - Mechanic Hawk
 此功法发挥$0$成威力后，运用者获得6层此效果：每当运用者以直接内伤对敌人造成内伤标记，如果运用者额外消耗1个「机」式，就会对敌人造成2层非直接的随机部位的内伤，且此内伤将立即变化为更难恢复的旧伤
-Reverse - The Impulse
+Reverse - Profound Tianshu Engine
 此功法发挥$0$成威力后，运用者获得1层此效果：当运用者的战败标记总数达到战败条件时，消除运用者所有可消除的妨害标记和重创标记，并将消除的妨害标记和重创标记的一半转移给敌人，一半变化为运用者的「机」式，随后此功法将不可避免地被「封禁」，持续直到战斗结束
 Reverse - Ancestor's\nLong Fist
 Reverse - Scorpion Hand
@@ -3472,7 +3472,7 @@ At the start of the battle, user gains 6 layers of this effect: Whenever the tot
 Reverse - Yin-Yang Invert
 Restraint against practicing strange tricks
 封禁逆练奇窍
-此功法造成的直接内伤改由敌人的御体抵挡；施展此功法的过程中，敌人所有的逆练「奇窍」功法无法生效，此功法施展结束后，极短时间内封禁敌人所有的正练「奇窍」功法
+此功法造成的直接内伤改由敌人的御体抵挡；施展此功法的过程中，敌人所有的逆练「奇窍」功法无法生效，此功法施展结束后，极短时间内封禁敌人所有的逆练「奇窍」功法
 Reverse - The Ultra One\nSwipe
 When this technique reaches $0$0% completion, the higher the Qi Disorder of the enemy, the higher the number and level of Sealed Acupoints caused by this technique will be.
 Reverse - Heavy Swipe
