@@ -1189,7 +1189,7 @@
 如果人物同时身中<color=#redpoison>赤毒</color>、<color=#gloomypoison>郁毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>获得「<color=#hotpoison>烈毒</color>获取量提升」的减益</color>，直到驱除此混合毒素，提升量受上述标记数量影响。
 如果人物同时身中<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>标记，在<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，<color=#brightred>额外衍生多次<color=#hotpoison>烈毒</color>，且加快人物下一次<color=#hotpoison>烈毒</color>的发作速度</color>。\n所中的<color=#gloomypoison>郁毒</color>、<color=#redpoison>赤毒</color>、<color=#rottenpoison>腐毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 坏血断肠
-在月份更替时，如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>人物会将所中<color=#rottenpoison>腐毒</color>扩散给同地格的人物</color>，扩散人数受上述标记数量影响。
+在月份更替时，如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记， <color=#brightred>人物会将所中<color=#rottenpoison>腐毒</color>扩散给同地格的人物</color>，扩散的毒素量受上述标记数量影响。
 如果人物同时身中<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>标记，在<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>发作时，根据人物所中的<color=#rottenpoison>腐毒</color>标记数量，<color=#brightred>人物受到随机的降低化解的损害状态，且将人物所中的<color=#rottenpoison>腐毒</color>的一部分扩散给己方助战的同伴</color>。\n所中的<color=#redpoison>赤毒</color>、<color=#coldpoison>寒毒</color>、<color=#rottenpoison>腐毒</color>的标记总量越多，此毒害就能在一场战斗中生效越多次数。
 毒火焚心
 在月份更替时，如果人物同时身中<color=#hotpoison>烈毒</color>、<color=#redpoison>赤毒</color>、<color=#illusorypoison>幻毒</color>标记， <color=#brightred>人物会迷失心性，对随机人物进行数次作恶</color>，作恶次数受上述标记数量影响。

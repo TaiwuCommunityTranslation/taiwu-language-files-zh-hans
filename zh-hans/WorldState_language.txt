@@ -27,17 +27,17 @@
 资源上限不足
 所储存的{0}超过了最大储存上限！\n<color=#red>会因此在月份更替时丢失若干资源！</color>
 身受外伤
-你的<color=#E4504DFF>{0}</color>受到<color=#f26824>外伤</color>，在月份更替后你的健康会因此减少！<color=#E4504DFF>当你的健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
+太吾传人的<color=#E4504DFF>{0}</color>受到<color=#f26824>外伤</color>，在月份更替后健康会因此减少！<color=#E4504DFF>当健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
 身受内伤
-你的<color=#E4504DFF>{0}</color>受到<color=#a970ff>内伤</color>，在月份更替后你的健康会因此减少！<color=#E4504DFF>当你的健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
+太吾传人的<color=#E4504DFF>{0}</color>受到<color=#a970ff>内伤</color>，在月份更替后健康会因此减少！<color=#E4504DFF>当健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
 内息紊乱
-你的内息已经紊乱，你的所有能力发挥都会降低，如果你的内息紊乱达到最大值，在月份更替后你的健康会因此减少！<color=#E4504DFF>当你的健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
+太吾传人的内息已经紊乱，所有能力发挥都会降低，如果内息紊乱达到最大值，在月份更替后健康会因此减少！<color=#E4504DFF>当健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
 毒气攻心
-你中{0}太深，毒气已经攻心，在月份更替后你的健康会因此减少！<color=#E4504DFF>当你的健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
+太吾传人中{0}太深，毒气已经攻心，在月份更替后健康会因此减少！<color=#E4504DFF>当健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
 相枢入邪
-你已经出现了相枢入邪的危险状态！<color=#red>如果你的心情再次降低，你有可能完全被相枢控制而失去心智！</color>
+太吾传人已经出现了相枢入邪的危险状态！<color=#red>如果心情再次降低，有可能完全被相枢控制而失去心智！</color>
 相枢魔通
-<color=#red>相枢马上就会控制你全部的心智，你已经无药可救！</color><color=#E3C66DFF>请尽快准备好“你”的下一位传人！</color>
+<color=#red>相枢马上就会控制太吾传人全部的心智，已经无药可救！</color><color=#E3C66DFF>请尽快准备好下一位传人！</color>
 剑冢异动
 太吾村附近的{0}接连显现出可怕的异象，似乎有什么东西将要破冢而出！
 破冢而出
@@ -100,3 +100,5 @@
 
 辟魔御邪
 辟魔之法护体，精纯境界达到<color=#ffffff>洗浊</color>之前，不会被剑冢真身杀死…
+同道垂危
+{0}性命垂危，<color=#darkred>当其健康降至0时，就会迎来死亡！</color>

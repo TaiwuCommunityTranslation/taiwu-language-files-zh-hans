@@ -64,12 +64,12 @@
 
 回村寻船
 回村寻船离开此处
-返回<color=#orange>「隐秘小村」</color>，获取道具<color=#orange>「牢靠的小船」</color>。
+返回<color=#orange>「隐秘小村」</color>，获取物品<color=#orange>「牢靠的小船」</color>。
 出谷后如此种种，但愿义父能解答，且回小村寻船，离开此处吧……
 
 以船渡河
 携带<color=#orange>小船</color>离开此处
-前往奇遇<color=#orange>「山底暗河」</color>，使用道具<color=#orange>「牢靠的小船」</color>开启奇遇。
+前往奇遇<color=#orange>「山底暗河」</color>，使用物品<color=#orange>「牢靠的小船」</color>开启奇遇。
 出谷后如此种种，但愿义父能解答，既已取得船，速离开此处吧……
 
 寻找顽童
@@ -674,8 +674,8 @@
 似乎已然寻至筠儿所说之人，为何我这心中却隐有不安……
 
 逆练功法
-<color=#orange>突破逆练</color>武当派功法
-<color=#orange>突破逆练</color>任意武当派功法，或可引道人现身。
+<color=#orange>逆练参悟</color>武当派功法
+以<color=#orange>逆练参悟</color>任意武当派功法，或可引道人现身。
 不知这道人是何身份，我若逆练武当功法，他可当真会现身？
 
 等待道长
@@ -1039,9 +1039,9 @@
 
 
 
-潜心修习
-潜心<color=#orange>修习</color>少林功法
-将老僧传授的少林功法<color=#orange>{0}</color>修习度提升至100%。
+潜心突破
+潜心<color=#orange>突破</color>少林功法
+将老僧传授的少林功法<color=#orange>{0}</color>完成突破。
 老僧梦中相授，自当不负嘱托，潜心修习……
 
 老僧再临
@@ -1146,8 +1146,9 @@
 <color=#orange>前往狮相门</color>寻找门主商议狮相谣言之事。
 流言蹊跷，不如前往狮相门尽快与门主商议……
 
-<color=#orange>修习</color>璇女功法
-将筠儿传授的璇女功法<color=#orange>{0}</color>修习度提升至100%后，前往一明珏<color=#orange>寻找筠儿入镜修习</color>。
+突破功法
+<color=#orange>突破</color>璇女功法
+将筠儿传授的璇女功法<color=#orange>{0}</color>完成突破后，前往一明珏<color=#orange>寻找筠儿入镜修习</color>。
 筠儿姑娘所授功法，自当勤加修炼，不负拳拳之心……
 
 天意弄人
@@ -1197,7 +1198,7 @@
 
 孤鸾镜水
 收集各地名曲乐谱
-到达<color=#orange>门派、主城、州域（未毁坏地区）</color>时，当地的乐曲便会抄录至《孤鸾镜水谣》中。\n在行囊中选取道具<color=#orange>《孤鸾镜水谣》</color>并开启，主界面右上角「手记」上方会出现<color=#orange>乐谱栏</color>。点击乐谱栏，可播放已收录的乐曲，并替换当前的音乐。
+到达<color=#orange>门派、主城、州域（未毁坏地区）</color>时，当地的乐曲便会抄录至《孤鸾镜水谣》中。\n在行囊中选取物品<color=#orange>《孤鸾镜水谣》</color>并开启，主界面右上角「手记」上方会出现<color=#orange>乐谱栏</color>。点击乐谱栏，可播放已收录的乐曲，并替换当前的音乐。
 游历天下之时，凡是听闻各地名曲，皆可一一抄录于此谱之中……
 
 等候白猿
