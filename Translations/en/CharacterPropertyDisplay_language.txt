@@ -5,7 +5,7 @@ AGI
 WIL
 定力代表人物的意志力、判断力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_mingzhong_1_3>动心、<SpName=mousetip_huajie_3>守心\n·增加需要<SpName=mousetip_zhuyao_2>定力的功法、兵器、护具的威力\n·随着年龄的增长，定力将更易恢复</color>
 CON
-体质代表人物的强健度、忍耐力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_gongji_0>破体、<SpName=mousetip_fangyu_0>御体\n·增加需要<SpName=mousetip_zhuyao_3>体质的功法、兵器、护具的威力\n·增加人物每个月能够服食的道具的数量\n·随着年龄的增长，体质将更难恢复</color>
+体质代表人物的强健度、忍耐力等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_gongji_0>破体、<SpName=mousetip_fangyu_0>御体\n·增加需要<SpName=mousetip_zhuyao_3>体质的功法、兵器、护具的威力\n·增加人物每个月能够服食的物品的数量\n·随着年龄的增长，体质将更难恢复</color>
 VIT
 根骨代表人物的先天素质、骨血品质等…\n\n<color=#pinkyellow>·增加人物的<SpName=mousetip_gongji_1>破气、<SpName=mousetip_fangyu_1>御气\n·增加需要<SpName=mousetip_zhuyao_4>根骨的功法、兵器、护具的威力\n·随着年龄的增长，根骨将更易恢复</color>
 COM
@@ -251,3 +251,5 @@ Demonic
 Study Efficiency
 
 
+实战
+可用于替代功法需求中最低的一项
