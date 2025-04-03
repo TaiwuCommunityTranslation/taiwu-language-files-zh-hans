@@ -1,27 +1,27 @@
 Martial by Zen
-Shaolin's martial arts are based on <color=#pinkyellow>「Buddhism」</color>.\nDuring Practice and Breakthrough of Shaolin martial arts, you can use <color=#pinkyellow>「Buddhism」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+少林派武学以<color=#pinkyellow>「佛学」</color>为根基，\n突破少林派武学时，能以<color=#pinkyellow>「佛学」</color>资质取代突破所需的其它较低的资质。
 Following Traditions
 Emei's martial arts follow orthodox teachings.\nThe Study Efficiency of Orthodox pages is <color=#brightblue>increased by 50%</color>；The Study Efficiency of Heterodox pages is <color=#brightred>decreased by 50%</color>.
 Common Origin
-Hundred Flowers Valley's martial arts are based on <color=#pinkyellow>「Medicine」</color>.\nDuring Practice and Breakthrough of Hundred Flowers Valley's martial arts, you can use <color=#pinkyellow>「Medicine」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+百花谷武学以<color=#pinkyellow>「医术」</color>为根基，\n突破百花谷武学时，能以<color=#pinkyellow>「医术」</color>资质取代突破所需的其它较低的资质。
 Dao of Nature
-Wudang Sect's martial arts are based on <color=#pinkyellow>「Taoism」</color>.\nDuring Practice and Breakthrough of Wudang Sect's martial arts, you can use <color=#pinkyellow>「Taoism」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+武当派武学以<color=#pinkyellow>「道法」</color>为根基，\n突破武当派武学时，能以<color=#pinkyellow>「道法」</color>资质取代突破所需的其它较低的资质。
 Just and Honorable
 Yuanshan Sect's martial arts are just and honorable.\nIf practitioner's Standpoint is <color=#behaviortype_just>Just</color> or <color=#behaviortype_kind>Kind</color>, the Study Efficiency of Yuanshan Sect's books will be <color=#brightblue>increased by 50%</color>；If practitioner's Standpoint is <color=#behaviortype_rebel>Rebel</color> or <color=#behaviortype_egoistic>Egoist</color>, the Study Efficiency of Yuanshan Sect's books will be <color=#brightred>decreased by 50%</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
 Learning Through Practice
-Lion-Face Clan's martial arts are hard to learn through written records.\nThe Study Efficiency of Lion-Face Clan's books is <color=#brightred>decreased by 50%</color>；Learning Lion-Face Clan's books through actual combat is <color=#brightblue>200% more efficient</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
+狮相门武学不擅文字记录，\n狮相门秘籍的研读效率<color=#brightred>降低50%</color>；以实战的方式领悟狮相门秘籍时<color=#brightblue>提高500%</color>研读效率。\n<color=#brightred>此效果无法对总纲生效…\n每月只能触发1次实战领悟…</color>
 Words of Mystery
 Ranshan Sect's martial arts are full of mnemonic chants, formulas, and incantations.\nThe Study Efficiency of Ranshan Sect's books is <color=#brightblue>increased by 100%</color>；Learning Ranshan Sect's books through actual combat is <color=#brightred>80% less efficient</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
 Heavenly Beauty
 Xuannyu Sect's martial arts are best suited for <color=#famale>Women</color>.\nIf practitioner is a <color=#famale>Woman</color>, the Study Efficiency of Xuannyu Sect's books will be <color=#brightblue>increased by 50%</color>, and learning Xuannyu Sect's books through actual combat will be <color=#brightblue>200% more efficient</color>.\nIf practitioner is a <color=#male>Man</color>, the Study Efficiency of Xuannyu Sect's books will be <color=#brightred>decreased by 50%</color>, and learning Xuannyu Sect's books through actual combat will be <color=#brightred>80% less efficient</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
 Skillful Craft
-Sword Manor's martial arts are based on merits and drawbacks of weapons.\nDuring Practice and Breakthrough of Sword Manor's martial arts, you can use <color=#pinkyellow>「Smithing」</color>, <color=#pinkyellow>「Carpentry」</color>,<color=#pinkyellow>「Gemcutting」</color>, or <color=#pinkyellow>「Weaving」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+铸剑山庄武学以兵器优劣为根基，\n突破铸剑山庄武学时，能以<color=#pinkyellow>「锻造」</color>或<color=#pinkyellow>「制木」</color>或<color=#pinkyellow>「巧匠」</color>或<color=#pinkyellow>「织锦」</color>资质取代突破所需的其它较低的资质。
 Accumulating Knowledge
 Kongsang Sect's martial arts are difficult at first, but get easier as you go on.\nThe earlier the Kongsang Sect's book page is, the <color=#brightred>lower</color> the Study Efficiency；The later the Kongsang Sect's book page is, the <color=#brightblue>higher</color> the Study Efficiency.\n<color=#brightred>This effect does not apply to general outline pages...</color>
 Wisdom King's Mantra
 Vajrayana's martial arts are best suited for <color=#male>Men</color>.\nIf practitioner is a <color=#male>Man</color>, the Study Efficiency of Vajrayana's books will be <color=#brightblue>increased by 50%</color>, and learning Vajrayana's books through actual combat will be <color=#brightblue>200% more efficient</color>.\nIf practitioner is a <color=#famale>Woman</color>, the Study Efficiency of Vajrayana's books will be <color=#brightred>decreased by 50%</color>, and learning Vajrayana's books through actual combat will be <color=#brightred>80% less efficient</color>.\n<color=#brightred>This effect does not apply to general outline pages...</color>
 Poisonous Gu Soul
-Five Immortals Cult's martial arts are based on <color=#pinkyellow>「Toxicology」</color>.\nDuring Practice and Breakthrough of Five Immortals Cult's martial arts, you can use <color=#pinkyellow>「Toxicology」</color> talent and attainment to substitute other lower talents and attainments required for Practice and Breakthrough.
+五仙教武学以<color=#pinkyellow>「毒术」</color>为根基，\n突破五仙教武学时，能以<color=#pinkyellow>「毒术」</color>资质取代突破所需的其它较低的资质。
 Alternate Route
 Jieqing Gate's martial arts pay attention to being innovative and taking a different approach.\nThe Study Efficiency of Heterodox pages is <color=#brightblue>increased by 50%</color>；The Study Efficiency of Orthodox pages is <color=#brightred>decreased by 50%</color>.
 Easy to Learn, Hard to Master
