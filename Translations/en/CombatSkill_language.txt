@@ -16,8 +16,8 @@ Jade pillow point
 Ying Xiang point
 Way of\nBodhicitta Attainment
 The basic of all greater Buddha dharma. With Bodhi heart,  you can resolve murderous spirits and reach a higher level of martial arts.
-Affection
-Compassion
+Baihui acupoint
+Upper Star Point
 Za-A-Han\nScripture
 Za-A-Han Scripture contains countless methods and forms,  which can be used to clear demonic or chaotic minds,  makes you know how to solve complex problems and realize new mystiques.
 Yin Yang Point
@@ -64,7 +64,6 @@ brain cavity
 Great Nirvana
 All creatures live and die, the greatest methods also follow the rule. Nirvana makes you silent as dead and come to a new life. The power first goes weak then become strong,  the weaker it was the stronger it will be,  feels as if you have the long-lasting power of Buddha.
 Body pillar point
-Baihui acupoint
 Diagram of\nAcupunture Points
 The Illustrated Manual of Acupuncture Points on a Bronze Figure are arranged in the order of the twelve meridians, with diagrams and a bronze figure of an acupuncture needle, which is an important basis for martial arts practitioners to find acupuncture points and identify veins.
 Punching Point
@@ -197,7 +196,6 @@ Yingu acupoint
 Jade Mirror\nof Yin
 The three yin are separated and united, and Shao Yin is the pivot. Shao Yin a Ming Jue with Yin to form, the realization of the true spirit, the success of the body can dissipate the heat and pass through all the meridians, and even the heart and breath, no distracting thoughts.
 Suspended Pivot Point
-Upper Star Point
 Xihua\nScripture
 Xihua, Xiwangmu, the woman who has attained immortality, is attached to the place. Xihua true scriptures follow the Xihua of the most subtle, hole Yin of the ultimate dignity, clear and silent, Zhan body inaction, can make the heart without labor and effort, God is not chaotic and gas is not exhausted.
 Yunmen Point
@@ -613,6 +611,8 @@ Liangqiu point
 Trapped Valley Point
 Perilous Cliff\nGathering
 "Perilous Cliff Gathering" technique emphasizes observing six directions with the eyes and listening to eight directions with the ears. It utilizes the terrain effectively, alternating between speed and slowness. This technique was developed by the ancestor of Kongsang while gathering herbs and finding paths in perilous cliffs, steep valleys, and dangerous rapids.
+Wounded Gate
+景门
 Water Floating\nSteps
 Shatang comes from the hill of Kunlun, and eating it makes people not drown. Shatang Treading Water is a set of footwork techniques that enables one to run and leap on water as if one were treading on water, without sinking or drowning.
 Mountain Wind Gu
@@ -747,7 +747,7 @@ Golden Bell\nCover
 Although it is extremely difficult to practice, it can eliminate the dead points around the body and make the muscles and bones, blood and flesh as solid and stable as a golden bell.
 Small Arhat\nRod Formation
 The Small Arhat Rod Formation originates from the Shaolin Eighteen Arhats Great Formation, created by warrior monks to protect the temple. Those in formation link seamlessly, circulating endlessly, resembling an indestructible vajra ring, impregnable to attack.
-The square circle does not move
+方圆不乱
 Heavy as a mountain
 Buddhism\nLion Roar
 "The great sound of the Buddha's dharma is destroyed by all foreigners. Like the roar of the master, all the beasts are terrified". The Buddha's lion's roar needs to be based on pure internal strength, and its sound is like a bang on the head and a thunderstorm, which can deafen and deafen and deter evil.
@@ -1592,7 +1592,6 @@ Head down and feet up
 upside down
 One Step Turn
 Chai Shan step to step on the strange door recluse, step directly on the evil door, seemingly dangerous, but actually dynamic and static corresponding, although the danger is actually safe, the attack and defense of the situation only in one step will be able to turn.
-Wounded Gate
 Surprise Gate
 Cuckoo's\nPecking
 The cuckoo pecking spider style is light and agile, fast and dense jumping off, walking and turning, as if the foot does not point to the ground, the leg is as fast as a sudden rain, precise and incomparable, is the tip of the foot to attack the enemy acupuncture points of the strange leg technique.
@@ -1882,6 +1881,8 @@ blood sacrifice
 subdue
 Sword Intent of Pure Soul
 Pure jun sword qi is the essence of the soul of the sword issued, its Wah like sunlight, like clear water, five colors and see, instantly a hundred miles, can break things without sound, can cut gold like mud, the more precious sword, the more pure its qi.
+中脊
+脑心
 Way of the\nZhanlu Sword
 Zhanlu Sword Technique was handed down by Ouyezi, the ancestor of sword casting, and is the most precious treasure of the Sword Casting Villa. This sword method exhausts the body and use of the sword, and reaches the nature and spirit of the sword, and the sword is happy to sound itself, and the sword is powerful when killing the enemy.
 the ultimate use of the body
@@ -2362,6 +2363,7 @@ Pleasing to the eye and mind
 My heart is bursting with joy
 Imperial\nConcubine
 The Jade Princess caused when the piano and the music, flowers before the dance neon, fall when the same sound as the drums and drums, the alarm broke a thousand military division, sometimes lingering and meandering, only to daughter's mind, and sometimes thrilling, but about the moth to the flame, self-destruction of the demented mood long.
+Affection
 fall in love with
 Flowers Sigh
 Qiong Hua sighs euphoniously and feminine, singing and whispering, composing a song that is endless, citing the wind and moon of Yangzhou and singing it, picking new Qiong on the branch to make words for thee, whose feelings are also deep and whose meaning is also very cut.
@@ -3185,3 +3187,7 @@ Great Power Brave Ability
 神工如意塔共九万九千九百九十九个部件组成，能变作八种“城器”、八种“阵器”、八种“人器”，城器者，可建城拔寨；阵器者，可供卫千军；人器者，可万般如意。
 变髓
 活骨
+封解出元篇
+封解出元篇阐述解封禁制、破障铸元之法，剖析玄锁机关，亦探究心志枷锁。修习者可以自身元神铸入金铁竹石，与物合一，取万物本元为己用，化为至大威力，正所谓“解千钧之缚，启冲天之途”。
+破封
+铸元
