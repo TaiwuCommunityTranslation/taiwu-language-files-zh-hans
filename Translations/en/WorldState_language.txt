@@ -27,17 +27,17 @@ The total weight of the items stored in the Storage exceeds the maximum capacity
 Not Enough Resource Limit
 {0} In your Storage have exceeded the storage limit!\nIn this state, <color=#red>you will lose the overflowing resources when going to the next month!</color>
 Externally Injured
-Your <color=#E4504DFF>{0}</color> <color=#f26824>has External Injuries</color>, causing your Health to decrease every month! <color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
+太吾传人的<color=#E4504DFF>{0}</color>受到<color=#f26824>外伤</color>，在月份更替后健康会因此减少！<color=#E4504DFF>当健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
 Internally Injured
-Your <color=#E4504DFF>{0}</color> <color=#a970ff>has Internal Injuries</color>, causing your Health to decrease every month! <color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
+太吾传人的<color=#E4504DFF>{0}</color>受到<color=#a970ff>内伤</color>，在月份更替后健康会因此减少！<color=#E4504DFF>当健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
 Qi Disorientation
-Your Inner Breath has been disordered. All your abilities will be reduced. If your Qi Disorder reaches it's limit, your Health will be reduced every month! <color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
+太吾传人的内息已经紊乱，所有能力发挥都会降低，如果内息紊乱达到最大值，在月份更替后健康会因此减少！<color=#E4504DFF>当健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
 Extreme poisoning
-The {0} has penetrated too deeply, the poison is attacking your heart, causing your Health to drop every month! <color=#E4504DFF>If your Health reaches <color=#FBFBFBFF>0</color>, you will die!</color>
+太吾传人中{0}太深，毒气已经攻心，在月份更替后健康会因此减少！<color=#E4504DFF>当健康降至<color=#FBFBFBFF> 0 </color>时，就会迎来死亡！</color>
 Enthralled by XiangShu
-You've become Enthralled! <color=#red>If your mood gets worse, you might lose your mind and become completely controlled by Xiangshu!</color>
+太吾传人已经出现了相枢入邪的危险状态！<color=#red>如果心情再次降低，有可能完全被相枢控制而失去心智！</color>
 Possessed by XiangShu
-<color=#red>Xiangshu is about to completely dominate your mind, you are beyond saving</color><color=#E3C66DFF>Please prepare your successor as soon as possible!</color>
+<color=#red>相枢马上就会控制太吾传人全部的心智，已经无药可救！</color><color=#E3C66DFF>请尽快准备好下一位传人！</color>
 Sword Tomb's Anomaly
 The {0} near Taiwu Village showed terrifying visions one after another, as if something was about to break out of the tomb!
 Break out from the tomb
@@ -100,3 +100,5 @@ Escaping Calamity
 
 辟魔御邪
 辟魔之法护体，精纯境界达到<color=#ffffff>洗浊</color>之前，不会被剑冢真身杀死…
+同道垂危
+{0}性命垂危，<color=#darkred>当其健康降至0时，就会迎来死亡！</color>
