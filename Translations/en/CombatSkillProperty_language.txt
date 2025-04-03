@@ -38,8 +38,8 @@ Attack Waist
 Attack Head
 Attack Arms
 Attack Legs
-Severity of sealed acupoints
-Severity of flaws
+封穴级别
+破绽级别
 Apply Acritoxin
 Apply Umbritoxin
 Apply Cryotoxin
