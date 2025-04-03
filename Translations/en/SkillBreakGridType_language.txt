@@ -2,47 +2,47 @@ Start
 Start of this Breakthrough.
 End
 End of this Breakthrough.\nAll progress will be lost if you cannot reach this cell.
-Summary
+玄机
 No Description
 Normal
 No special effect.
 Succession
-After connecting to this cell, <color=#brightblue>Success Rate of all surrounding cells will be increased by 30%</color>.
+打通此格时，周围所有格子的<color=#brightblue>打通成功率提高30%。</color>
 Flexibility
-For every successfully connected cell around this cell, <color=#brightblue>this cell's Success Rate will be increased by 30%</color>.
-Perseverence
-For every failed connection around this cell, <color=#brightblue>this cell's Success Rate will be increased by 60%</color>.
+打通此格时，下次连接<color=#orange>必须选择距离2的突破格为连接目标。</color>
+魔障
+打通此格时，此格周围的所有“如常”格变化为随机的“特殊突破格”。
 Foundation
-This cell's <color=#brightred>Success Rate is decreased by 100%</color>.\n<color=#brightblue>Success Rate of all cells surrounding this cell will be increased by 60%</color>.
+此格的<color=#brightred>打通成功率降低100%。</color>\n此格周围所有格子的<color=#brightblue>打通成功率提高60%。</color>
 Transition
-After connecting to this cell, <color=#brightblue>1 next connection will always be successful</color>.
+与此格相连的下1个格子<color=#brightblue>必然可以打通。</color>
 Inspiration
-Connecting to this cell <color=#brightblue>won't increase attempt count</color>.
+连接此格<color=#brightblue>不会消耗天资上限或入魔上限。</color>
 Refreshment
-This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 1</color>.
+此格的<color=#brightred>打通成功率减少30%</color>，但<color=#brightblue>不会消耗天资上限或入魔上限。</color>打通此格时，将周围随机1个“如常”格变化为“忘我”。
 Reversal
-This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 2</color>.
+此格的<color=#brightred>打通成功率降低60%。</color>\n打通此格时，<color=#brightblue>天资上限+3。</color>
 Steady
-This cell's <color=#brightblue>Success Rate is increased by 60%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 1</color>.
+此格的<color=#brightred>打通成功率降低60%。</color>此格周围每有1个打通的突破格，此格的<color=#brightblue>打通成功率提高20%，且威力上限+1。</color>
 Hard Work
-This cell's <color=#brightblue>Success Rate is increased by 100%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 2</color>.
+打通此格时，周围突破格的<color=#brightred>打通成功率降低50%</color>，<color=#brightblue>威力上限+2，并且在打通失败时会重新变成可连接状态。</color>
 Clarity
-Connecting to this cell <color=#brightblue>will reveal multiple undiscovered cells</color>.
+打通此格时，<color=#brightblue>揭示多个未显示的格子。</color>
 Challenge
-This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>restores all failed surrounding cells</color>.
+打通此格时，将周围<color=#brightred>随机3个格子变为打通失败状态</color>，并<color=#brightblue>将它们的威力上限转移至此格上。</color>
 Simplify
-This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell will turn all "special cells" around this cell into "basic cells"
+此格的<color=#brightblue>打通成功率提高30%。</color>\n打通此格时，此格周围的所有“特殊突破格”变化为“如常”。
 Support
-When you connect to this cell, 1 unconnected "golden" cell will be transferred to one of the "basic" cells around it.
+打通此格时，周围的突破格<color=#brightblue>威力上限+1。</color>
 Culmination
-Connecting to this cell <color=#brightblue>will reduce attempt count by 3</color>.\nBut <color=#brightred>1 unconnected "golden cell" will turn into a "basic cell"</color>.
+打通此格时，<color=#brightblue>天资上限+3</color>，并<color=#brightred>将周围突破格的威力上限变为0。</color>
 Humility
-The higher the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
+当前天资超过天资上限的一半越多，此格及此格周围所有格子的<color=#brightblue>打通成功率就提高越多</color>。
 Ambition
-The lower the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
+当前天资相比天资上限的一半越少，此格及此格周围所有格子的<color=#brightblue>打通成功率就提高越多</color>。
 Advice
-Connecting to this cell <color=#brightred>will increase attempt count by 1</color>.\nConnecting to this cell <color=#brightblue>will immediately connect 1 unconnected "golden cell"</color>.
+打通此格时，下次连接<color=#orange>可以选择任意“诀窍”突破格为连接目标。</color>
 Complete
 You are already familiar with the key points of this technique.\nThis cell <color=#brightblue>will always connect successfully</color>.
 Mistake
-Already suffered setbacks on this cell.\nThis cell's <color=#brightblue>Success Rate will be increased by 100%</color>.\nBut <color=#brightred>you will always lose Health when connecting to this cell, regardless of it's success or failure</color>.
+曾在此格遭受挫折。\n此格的打通<color=#brightblue>成功率提高100%</color>，但连接此格无论成功或失败均会<color=#brightred>损失一定的健康</color>。
