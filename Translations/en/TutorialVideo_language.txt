@@ -8,7 +8,7 @@ Go to the tile where Adoptive Father is
 Equip a mount
 View Character Menu
 Click on the character portrait at the bottom left to enter the Character Menu
-Click on an item you wish to equip, it will be automatically equipped to the corresponding equipment slot
+点击物品，会自动装备到对应的装备栏
 Equip a Thin horse
 Restore weight
 Weight limit increases
@@ -38,7 +38,7 @@ Go to the next month
 Look for a tile
 View Tile Information
 Automatic pathfinding
-The higher the resource value on a tile, the more resources you can collect from it, and the higher the probability of obtaining materials is.
+鼠标移动到地块上，会显示该地块的资源信息，资源数值越高，能采集到的对应资源量也越多，同时获得珍贵资源物品的概率也越高
 Clicking on a tile will automatically generate the fastest path to that tile, and by clicking on it again you will immediately start moving there
 Taiwu Practice - Part 3
 Learn about resources
@@ -58,8 +58,8 @@ Choose tool
 Select Materials
 Add resources
 To make items you need <color=#orange>Tool</color>, <color=#orange>Material</color> and <color=#orange>Resources</color> 
-Switch to the <color=#orange>Storage</color> tab in the Tools panel on the left and tap on the <color=#orange>Tool·Carpentry box</color> 
-Switch to the <color=#orange>Storage</color> tab on the right and tap on the <color=#orange>Bamboo piece</color>
+在左侧的工具面板中切换到<color=#orange>仓库</color>栏，点选物品<color=#orange>木工箱</color>
+在右侧的引子面板中切换到<color=#orange>仓库</color>栏，点选物品<color=#orange>青竹片</color>
 Add the required <color=#orange>Resources</color>, the quantity can be adjusted via <color=#orange>+</color> and <color=#orange>-</color> buttons
 Click <color=#orange>Craft 1</color> button to craft the item.
 Crafting Bamboo Spikes
