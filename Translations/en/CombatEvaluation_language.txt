@@ -29,7 +29,7 @@ Bully·A
 Defeat enemy who have fewer companions. 
 
 Bully·M
-Defeat an opponent who is younger than you
+击败尚未成年且比自己年幼的对手。
 
 Equipped with weaknesses
 Defeat an opponent whose equipment is weaker overall than your own.
@@ -50,7 +50,7 @@ OT·A
 Overturn·amount. Defeat enemy who have more companions. 
 
 Newborn
-Beating an opponent when you are not yet an adult and your opponent is older than you.
+在尚未成年且对方比自己年长的情况下击败对手。
 
 Equipped for victory
 Defeat an opponent whose equipment is overall better than your own.
@@ -136,3 +136,6 @@ Since it is just a casual practice, you cannot gain Experience and Prestige, nor
 消灭魔道爪牙。
 消灭精纯不低于自己的相枢爪牙。
 消灭精纯不低于自己的魔道爪牙。
+魔高一丈
+在诛魔试炼中落败，心念迷乱，功法未能获得实战积累…
+
