@@ -64,12 +64,12 @@ Since the boat has been obtained, quickly follow along the dark river to leave a
 
 Pick up a boat
 Return to the Hidden Village and find a boat to leave
-Go back to the <color=#orange>「Hidden Village」</color> and get the <color=#orange>「A secure boat」</color> item.
+返回<color=#orange>「隐秘小村」</color>，获取物品<color=#orange>「牢靠的小船」</color>。
 So many things happened after i've left the valley, i hope Adoptive Father will be able to explain them to me. I should pick up the boat from the village and leave this place...
 
 Cross the River
 Take <color=#orange>A Secure Boat</color> and leave this place
-Go to the adventure <color=#orange>「Dark River」</color> and use the item <color=#orange>「A secure boat」</color> to enter it.
+前往奇遇<color=#orange>「山底暗河」</color>，使用物品<color=#orange>「牢靠的小船」</color>开启奇遇。
 So many things happened after i've left the valley, i hope Adoptive Father will be able to explain them to me. I have already obtained the boat, now i should leave this place...
 
 Find Young Urchiin
@@ -674,8 +674,8 @@ Unexpected Meeting
 It seems that I have finally found the person Yun'er was looking for, but why does my heart feel so uneasy...
 
 Heterodox Training
-<color=#orange>Heterodox Breakthrough</color> of a Wudang Sect technique
-Do a <color=#orange>Heterodox Breakthrough</color> of any Wudang Sect technique to lead the Taoist to you.
+<color=#orange>逆练参悟</color>武当派功法
+以<color=#orange>逆练参悟</color>任意武当派功法，或可引道人现身。
 I don’t know who this Taoist is. If I practice a heterodox version of Wudang Sect's technique, will he really show up?
 
 Wait for Daoist
@@ -1039,9 +1039,9 @@ Battle of Zen and Martial Arts
 
 
 
-Concentrate on Practice
-Concentrate on <color=#orange>practicing</color> Shaolin skills
-Increase the practice level of Shaolin skill <color=#orange>{0}</color> taught by the Old Monk to 100%
+潜心突破
+潜心<color=#orange>突破</color>少林功法
+将老僧传授的少林功法<color=#orange>{0}</color>完成突破。
 The Old Monk taught me in my dream, so I will live up to his instructions and practice with dedication...
 
 Old Monk is back
@@ -1146,8 +1146,9 @@ Discuss Rumors
 <color=#orange>Visit Lion-Face Clan</color> and find their Sect Master to discuss rumors about Lion Face.
 The rumors are strange, it is better to go to the Lion-Face Clan to discuss with the Sect Master as soon as possible...
 
-<color=#orange>Practice</color> Xuannyu skills
-After you practice the Xuannyu technique <color=#orange>{0}</color> taught to you by Yun'er to 100%, go to the Jade Mirror and <color=#orange>look for Yun'er to enter the mirror for practice</color>.
+Broke through Martial Arts
+<color=#orange>突破</color>璇女功法
+将筠儿传授的璇女功法<color=#orange>{0}</color>完成突破后，前往一明珏<color=#orange>寻找筠儿入镜修习</color>。
 Young Lady Yun'er taught me this technique, so i will practice it earnestly to live up to her expectations...
 
 Heaven's Will is Unpredictable
@@ -1197,7 +1198,7 @@ It seems like White Ape and Shi Houjiu have returned, i should go and investigat
 
 Lone Luan's Mirror
 Gather sheet music of famous songs from all over the world
-When you arrive at any <color=#orange>Sect, City, or Prefecture (Undestroyed Area)</color>, their local music will be recorded into "Lone Luan's Ballad Mirror".\nIf you open your inventory and select <color=#orange>"Lone Luan's Ballad Mirror"</color>, a <color=#orange>Music Bar</color> will appear above the "Note" button. Click on the Music Bar to play any recorded music instead of the current one.
+到达<color=#orange>门派、主城、州域（未毁坏地区）</color>时，当地的乐曲便会抄录至《孤鸾镜水谣》中。\n在行囊中选取物品<color=#orange>《孤鸾镜水谣》</color>并开启，主界面右上角「手记」上方会出现<color=#orange>乐谱栏</color>。点击乐谱栏，可播放已收录的乐曲，并替换当前的音乐。
 When traveling around the world, any famous song heard from various places can be copied one by one into this score...
 
 Wait for White Ape
@@ -1693,7 +1694,7 @@ Penta-Lake Commerce
 于<color=#orange>秦州</color>地图寻找掌柜以外的五湖商会商人，向其打听贡品失窃之事。
 若欲替掌柜擒住窃取监守自盗的金刚宗弟子，不妨先向邻里五湖商会商人打听一番……
 
-手足俱全
+Brothers of All Kinds
 前往奇遇<color=#orange>「手足俱全」</color>
 交代之事已然办妥，返回秦州主城进入奇遇<color=#orange>「手足俱全」</color>答复五湖商会掌柜。
 诸事已毕，该返回襄阳，向五湖商会掌柜讨要最后一个青铜组件了……
@@ -1723,7 +1724,7 @@ Penta-Lake Commerce
 试剑大典将近，带领铜生前往<color=#orange>铸剑山庄</color>。
 既至湛卢，即刻前往铸剑山庄，赶赴试剑大典罢……
 
-试剑大典
+Sword Testing Ceremony
 前往奇遇<color=#orange>「试剑大典」</color>
 于<color=#orange>铸剑山庄静待</color>试剑大典召开，并进入奇遇<color=#orange>「试剑大典」</color>参加大典，若到期未能参加奇遇，局势将会无法挽回……
 试剑大典已然召开，是非成败，皆在此举……
