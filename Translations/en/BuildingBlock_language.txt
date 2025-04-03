@@ -205,46 +205,46 @@ The Meditation Wall is made of extreme ice and crafted cold jade. It's a special
 Must be built adjacent to the "Training Hall" building and the "Eternal Ice" resource, using the "Cold Jade Terrace" as the core material. \nIncreases the upper limit of martial talent when performing a "Breakthrough" for characters within the influence of the town and sect they belong to.
 Silence Room
 The Silence Room is hidden in a quiet place. Black clothes are hung on the interior doors and windows to isolate the indoor and outdoor,  so that those who practice Inner Arts can concentrate on one’s mind and forget about the outter world.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Inner Arts".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「内功」时所需要的「历练」。
 Forest of Poles
 A large forest of poles,  with a huge number of extremely high stakes and stone piles. There is no other place to rest except those thin stakes and piles.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "Footwork".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「身法」时所需要的「历练」。
 Stunt Room
 The Stunt Room is built in a clean and uninhabited place. Although small in size,  it is guarded by strict garrison. It is the place to practice secret martial arts.
-An expansion building built next to the "Training Hall". \n reduces the amount of "training" required for characters within the influence of the town or sect they belong to practice and break through "Stunt".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「绝技」时所需要的「历练」。
 Wooden Dummies
 Equipped with sixty wooden dummies controlled by rail slings of subtle design. Practicing Fist with them is like practicing with 60 masters at the same time.
-An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Fist".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「拳掌」时所需要的「历练」。
 Bronze Dummies
 The Bronze Dummies are carefully crafted. Each bronze dummy has many acupoints which are connected to contraptions inside. When the acupoints are hit with different finger forces,  different sounds will be made.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and breakthrough "Finger Techniques".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「指法」时所需要的「历练」。
 Mire
 The Mire is full of dense and heavy mud mixed with sand and iron,  and  the depth is just at the waist and abdomen position of ordinary people. One’s leg strength can be greatly advanced if he/she practice Kick here.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Kick Techniques".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「腿法」时所需要的「历练」。
 Dart Range
 The Dart Range has seventy big wooden targets,  seventy small wooden targets,  seventy automatic targets and a number of moving birds and animals. It is a place dedicated to the practice of eyesight and flying needles.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Hidden Weapons".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「暗器」时所需要的「历练」。
 Swordplay Room
 The Swordplay Room is a place to specialize in Sword. Swordplay requires one to follow the heart so it’s important to keep a peace mind. Therefore,  the room is built in the open air at a high place,  away from noises.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Sword Technique".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「剑法」时所需要的「历练」。
 Blade Room
 A place for specializing in Blade. There are all kinds of blades in the hall: long blades,  short blades,  double blades,  western blades and so on.
-An extended building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect they belong to to practice and break through the "Blade Technique".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「刀法」时所需要的「历练」。
 Polearm Room
 The open space surrounded by low mud walls. Huge drums stand on the side of the central stage,  various long weapons are listed aside.
-An expansion building built next to the "Training Hall". \n reduces the amount of "training" required for characters in the area of influence of the town or sect to which they belong to practice and break through the "Polearm".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「长兵」时所需要的「历练」。
 Trick Battle
 It is a place where all kinds of odd-shaped blades are collected and studied. It also has a number of rooms for practicers to share their opinions on Special martial arts.
-An extension building built next to the "Training Hall". \n can reduce the "training" required for characters in the area of influence of the town and sect they belong to when they practice and break through the "Exotic Weapons".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「奇门」时所需要的「历练」。
 Wind Room
 The wind room has a series of intricate gust generating mechanisms. A soft weapon practicioner must maintain his control in order not to hit himself.
-An extension building built next to the "Training Hall". \n reduces the amount of "training" required for characters within the influence of the town or sect to which they belong to practice and break through "Soft Weapons".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「软兵」时所需要的「历练」。
 Contraptions Room
 Contraptions Room is a quiet and tidy workshop. The room is equipped with all kinds of clever instruments,  ranging from small awls,  tapers to large slings and lathes. Range weapon is the art of using contraptions to deal damage at a distance.
-An extension building built next to the "Training Hall". \n reduces the "training" required for characters in the area of influence of the town or sect they belong to to practice and break through "Ranged Weapons".
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「御射」时所需要的「历练」。
 Empty Valley
 The Empty Valley is artificially opened up, surrounded by hills, and is completely silent. There are piano platforms and small buildings in the valley. Whenever an instrument is played, the sound echoes in all directions, just like the resonance of a hundred people playing together, and even the slightest flaw in the music cannot escape the ears.
-An extension building built next to the "Training Hall".\nReduces the amount of "Experience" cost of practice and breakthrough of "Melody" techniques for characters in the influence range of the power it is built in.
+建造在「练功房」旁边的扩展建筑。\n可降低所属城镇、门派影响范围内的人物在突破「乐器」时所需要的「历练」。
 Isolated Tower
 The Isolated tower havs 9 levels,  symbolizing the 9 steps into immortality. There is only very spartan provisions inside the tower which help force practitioners concentrate.
 This is an extension building built next to the "Training Hall" using the "Noise Blocking Stone" as the core material. \nIt can increase the success rate of "Inner Arts" for characters within the influence of the town and sect to which they belong.
@@ -516,7 +516,7 @@ The Shennong Ravine is the most spiritual place in the world,  no matter what ki
 Using "Farming God's Blood" as the heart material, an extension building is built next to the "Herbal Room", which needs to be adjacent to the "Everspring Ravine". \n can reduce the requirement of "Medicine" when making potions.
 Cellar
 The cellar was built in the deep and cold underground. There are utensils for the preparation of poisons in the room,  which also breeds highly venomous snakes and plants.
-You can make poisons and quench poisons for items. \nIncreases the efficiency of characters within the influence of the town or sect to which they belong when studying "Toxicology" books. \nThe larger the size of the chamber, the greater the increase in efficiency, but the effects of multiple chambers do not stack.
+可制造毒药、给物品淬毒。\n可提高所属城镇、门派影响范围内的人物在研读「毒术」书籍时的效率。\n规模越大的幽室，效率提高的越多，但多个幽室的效果不会叠加。
 Poison Market
 The poison market sells ordinary poisons such as arsenic to kill rats and pests, and has detailed records of sales and purchases. However, the ordinary people do not know, here will also be hidden to sell other terrible poison that hurts people's lives.
 This is an extension building built next to the "Cellar" and needs to be operated by the villagers. \nThe main purpose of the building is to sell poisons to earn money.
@@ -954,7 +954,7 @@ All the monks in Shaolin Temple respectfully built the Eminent Sarira Pagoda. Th
 
 Big Treasury
 This place is a treasury used to store supplies. Food, silver, gold, stone, jade, as well as precious objects, toys, ancient swords and famous musical instruments, all kinds of things are kept here, and someone is assigned to guard it strictly. It can be said that it is as secure as a city protected by a wall of metal and a moat of boiling water.
-Can be accessed by people in the current faction to store and retrieve items.\nIf you want to access the items in the Treasury, you need to deposit items with a contribution value not less than the contribution value of the items you want to exchange for.\nDepositing items will be favored and supported by characters in that faction.\nCharacters who are not in this faction and trespass, disrupt, or plunder the treasury will be severely punished by the guards, and will receive disgust from people of that faction...
+可供当前势力中人存取物品。\n如若取用库房物品，需存入不低于其对应贡献值的物品一一进行交换。\n捐赠物品会得到本势力中人的喜爱与支持。\n非本势力中人擅闯、扰乱、掠夺库房会遭到守卫的严惩，并引起本势力中人的厌恶…
 
 Town Treasury
 
