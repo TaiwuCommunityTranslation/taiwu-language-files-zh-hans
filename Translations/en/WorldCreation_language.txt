@@ -26,7 +26,7 @@ The basic efficiency of Cultivation.\n<color=#yellow>(The higher the Cultivation
 <color=#pinkyellow>Fast</color>
 <color=#FF5331FF>Hard Work</color>
 Outlaws
-The number of Villains and Outlaws scattered throughout the world.\n<color=#E3C66DFF>(The more Villains and Outlaws there are, the easier it is for you to be attacked.)</color>
+散布于世界各地的恶徒与外道的数量。\n<color=#E3C66DFF>（恶徒与外道的数量越多，越容易遭遇袭击。）</color>
 <color=#pinkyellow>Less</color>
 <color=#FFE78FFF>More</color>
 <color=#FF5331FF>A lot</color>
@@ -36,7 +36,7 @@ Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean 
 <color=#FFE78FFF>Fast</color>
 <color=#FF5331FF>Extreme</color>
 World's Resources
-A prosperous world will be conducive to Taiwu's development.\nBut even the most desolate world can gradually come back to life.\n<color=#E3C66DFF>(The World's Resources directly affect the recovery amount of various resources in various locations in the world, the income of Taiwu Village, the income of selling items, the resources held by the world, etc.; In Wonderland difficulty, the amount of resources gained when collecting resources will also be different.)</color>
+繁荣的世界将有利于太吾的发展。\n但即使是最荒芜的世界，也能够逐渐恢复生机。\n<color=#E3C66DFF>（世界的资源直接影响着世界中各个地点的各类资源的恢复量、太吾村的收益、售卖物品的收益、世人的持有资源等；在桃源难度下，采集资源时的资源收获量也会有所不同。）</color>
 <color=#pinkyellow>Wonderland</color>
 <color=#FFE78FFF>Barren</color>
 <color=#FF5331FF>Desolate</color>
@@ -58,8 +58,14 @@ Determines enemies' skill practice percentage, and how many chapters of a skill 
 <color=#FFE78FFF>Extreme</color>
 <color=#FF5331FF>Master</color>
 Favor Change
-The difficulty of changing Favor between people. \n<color=#E3C66DFF>(The more difficult it is, the more difficult it is for others to accumulate Favor towards you.)</color>
+人与人之间好感度变化的难度。\n<color=#E3C66DFF>（变化难度越大，好感累积就越困难。）</color>
 <color=#FF5331FF>Harsh</color>
 志向的成长
 志向资历的成长速度。\n<color=#E3C66DFF>（成长难度越大，志向资历的获取速度也会越慢。）</color>
 <color=#FF5331FF>艰难</color>
+战利品收益
+击败敌人后能够获得的战利品数量。\n<color=#E3C66DFF>（获取难度越大，能够获得的战利品数量就越少。）</color>
+<color=#pinkyellow>丰富</color>
+<color=#9FE0DCFF>Normal</color>
+<color=#FFE78FFF>稀少</color>
+<color=#FF5331FF>罕见</color>
