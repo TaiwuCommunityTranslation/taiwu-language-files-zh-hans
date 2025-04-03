@@ -17,9 +17,9 @@ For a dreamland visitor, appearance is not important...\nYou have a unique charm
 White Forehead Snake
 Spiritual snake with a white forehead, spiritual becomes real...\nOne time you've played with a white-headed spiritual snake in the Deep Valley, and since then you've been impervious to all kinds of poisons.\nYou receive the "White Forehead Snake" trait that greatly increases your Poison Resistance. This trait will always be inherited by your children.
 Consumed Herbs and Jade
-Consuming herbs and jade will make you transcend the ordinary...\nOne time you've consumed many immortal herbs and spiritual jades, causing you to not only be extremely talented, but also to have a much longer lifespan than ordinary people.\nYou will receive the "Consumed Herbs and Jade" trait that greatly increases your maximum Lifespan, and gives you 3 extra Nadis slots. This trait will always be inherited by your children.
+服芝食玉，超凡入圣，你曾服食了许多仙芝灵玉，不仅天赋异禀，且寿元远高于常人。
 East and West Collection
-Search east and west, and gather a collection...\nYou've spent many years collecting all sorts of resources.\nYou start with 1000 of each type of resources.
+东搜西罗，日积月累，你多年来搜集了各种各样的资源。
 Ten Pieces Of Gold
 Ten pieces of gold, can be used for child's play...\nYou have ten pieces of gold that other children confused with stones and used them to play.\nYour starting Money increases from 1000 to 10000.
 Brocade Of Swaddle
@@ -51,7 +51,7 @@ Unpolished jade awaits to be polished into a precious stone...\nYour efficiency 
 Restrained Sharp Edge
 The sharp edge is restrained, the hidden dragon awaits to break free...\nYour efficiency in studying Martial Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Martial Art books (by 30%). You also receive the "Restrained Sharp Edge" trait that increases your Fortitude by 20. This trait will always be inherited by your children.
 Treasures from Nature
-Treasures from nature, given by Heaven and Earth...\nYou've found a secret place in the Deep Valley, and gathered some valuable materials from it.\nYou start with 1-2 t3 Wood, Ore, Jade, and Fabric materials.
+天材地宝，天地所授，你拥有于深谷一处秘境中觅得的众多宝贵引子。
 Prepare Your Tools
 Prepare your tools to do your job well...\nYou've spent several years of your time to repair some discarded intricate tools.\nYou start with three random t4 tools.
 Celestial Being by Nature
