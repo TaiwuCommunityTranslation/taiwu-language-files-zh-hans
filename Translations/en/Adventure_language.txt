@@ -40,10 +40,10 @@ Three Sects Competition
 Years have passed, and the Three Sects Competition is once again held at Ranshan...\nThe disciples prepare themselves by washing their bodies, dressing formally, and patiently waiting for the arrival of their seniors within the sect.
 Ultimate Art of Lion Face
 The Lion-Face Clan is holding a "Secret Ultimate Art" competition. The outside of the venue is heavily guarded, and it is difficult for ordinary people to enter...
-试剑大典
-月明星稀，炉火还明。试剑大典已然召开，是非成败，传承延续，皆在此举……
-手足俱全
-四关藏神机，五脏作巧枢。此番青铜组件搜集齐全，铜生自可拼凑成形……
+Sword Testing Ceremony
+The moon is bright and the stars are sparse, but the fire is still burning. The Sword Testing Ceremony is being held. Right or wrong, success or failure, continuation of the inheritance, all happens at this place...
+Brothers of All Kinds
+The four joint points conceal divine mechanisms, and the five internal organs are skillfully made to act as pivots. Now, the bronze components have been collected, and can be finally assembled...
 Five Saints Heart Poison
 The bloodstains of the Five Immortals Sect were spreading, and for some reason the smell was fishy...
 Sudden Change in Five Immortals
@@ -85,6 +85,8 @@ Evil Spirit Shows Up
 Fight with and Eccentric
 Resurrected Person
 As expected, that "Resurrected Person" did indeed return to Taiwu Village. However, instead of moving or making any changes, they merely stood there looking at the village from a distance, seemingly waiting for "Taiwu" to come to them...
+Town Fair
+Long streets are bustling with people, and thousands of stalls are filled with various goods. With the help of local businessmen, merchant groups from all over the country are gathered in here...
 Home Tea Party
 Preparing for a home-cooked tea party with the help of local scribes...
 Home Banquet
@@ -372,4 +374,4 @@ An otherworldly peerless manual - 《Dragon Imitating Painting》 - has been dis
 An otherworldly peerless manual - 《Mind's Eye Tattered Scroll》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
 《Single Stroke Splits Heavens》
 An otherworldly peerless manual - 《Single Stroke Splits Heavens》 - has been discovered! The masters of the orthodox and unorthodox factions in the martial arts world are gradually gathering here, and a great battle is inevitable! Who can surpass the others and win the peerless manual? 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
