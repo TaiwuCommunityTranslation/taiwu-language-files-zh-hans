@@ -1,38 +1,38 @@
 Early February
-The bucket handle returned to Yin. Metal and Jade resources in some locations in \n have recovered to some extent.
+建正之月，斗柄回寅。\n部分地点的「金石」、「玉石」资源有一定程度的恢复。\n所有人恢复胸背外伤、内伤各一层…
 
 Early March
-In the month of Jian Mao, Yang and Bu Qi. The resources of 'food', 'wood' and 'medicinal herbs' in \n some locations have recovered to some extent.
+建卯之月，阳和布气。\n部分地点的「食物」、「木材」、「药材」资源有一定程度的恢复。\n所有人恢复腰腹外伤、内伤各一层…
 
 Early April
-In the month of Jianchen, the bucket handle points east. \nSome locations have some degree of recovery of "food", "wood" and "medicinal herbs" resources.
+建辰之月，斗柄东指。\n部分地点的「食物」、「木材」、「药材」资源有一定程度的恢复。\n所有人恢复左臂、右臂的外伤、内伤各一层…
 
 Early May
-In the month of Jian Si, the grass and trees are in full bloom. \nFood", "wood" and "medicinal herbs" resources in some locations have recovered to some extent.
+建巳之月，草木舒荣。\n部分地点的「食物」、「木材」、「药材」资源有一定程度的恢复。\n所有人恢复左腿、右腿的外伤、内伤各一层…
 
 Early June
-In the month of Jianwu, the rice seedlings are firstly gathered. \nFood", "wood" and "fabric" resources in some places have recovered to some extent.
+建午之月，秧稻初齐。\n部分地点的「食物」、「木材」、「织物」资源有一定程度的恢复。\n伤势无法自然恢复…
 
 Early July
-In the month of Jianwei, the bucket handle points south. \nSome locations have some degree of recovery of "food," "wood," and "fabric" resources.
+建未之月，斗柄南指。\n部分地点的「食物、「木材」、「织物」资源有一定程度的恢复。\n所有人恢复头颈的外伤、内伤各一层…
 
 Early August
-In the month of Jian Shen, the cicadas are shrill. \nResources of "food", "wood" and "fabric" in some locations have recovered to some extent.
+建申之月，蝉鸣嘒嘒。\n部分地点的「食物」、「木材」、「织物」资源有一定程度的恢复。\n所有人恢复胸背的外伤、内伤各一层…
 
 Early September
-In the month of Jian You, the star of Shang flows westward. \n Some locations have recovered their "food", "wood", "fabric" and "medicinal" resources to some extent.
+建酉之月，商星西流。\n部分地点的「食物」、「木材」、「织物」、「药材」资源有一定程度的恢复。\n所有人恢复腰腹的外伤、内伤各一层…
 
 Early October
-In the month of Jianxu, the bucket handle points west. The resources of "food", "wood", "fabric" and "medicinal herbs" in \n some locations have recovered to some extent.
+建戌之月，斗柄西指。\n部分地点的「食物」、「木材」、「织物」、「药材」资源有一定程度的恢复。\n所有人恢复左臂、右臂的外伤、内伤各一层…
 
 Early November
-In the month of Jianhai, the willow declines and the valley shows. \nThe resources of "gold and stone" and "fabric" in some locations have recovered to some extent.
+建亥之月，柳衰谷秀。\n部分地点的「金石」、「织物」资源有一定程度的恢复。\n所有人恢复左腿、右腿的外伤、内伤各一层…
 
 Early December
-In the month of Kenshi, all things are collected. \n Some locations have a certain degree of recovery of "gold stone" resources.
+建子之月，万物收藏。\n部分地点的「金石」资源有一定程度的恢复。\n伤势无法自然恢复…
 
 Early January
-In the month of Jian Chou, the bucket handle points north. \n Some locations have a certain degree of recovery of "gold stone" resources.
+建丑之月，斗柄北指。\n部分地点的「金石」资源有一定程度的恢复。\n所有人恢复头颈的外伤、内伤各一层…
 
 Grave Withered
 The grave of {0} was completely damaged and disappeared because it had not been taken care of for a long time.
@@ -515,7 +515,7 @@ The tea and horse gang returned to Taiwu Village without incident...
 Gain prestige
 As the secret news from {0} got spread, {0} gained {1} prestige...
 
-You are in {0} preparing for a prestigious match that has gathered guests!
+太吾传人在{0}筹备的一场声势浩大的比武招亲已经宾客齐聚！
 
 Sect Competition
 Rumor has it that {0} is holding a disciples gathering for a sect competition...
@@ -1015,7 +1015,7 @@ In order to pray for the arrival of a true dragon, the Fulong Altar sent envoys 
 神木长成
 琪花瑶草傍生，白鹤青鸾翔舞，位于{0}的神木已然长成……
 
-试剑大典
+Sword Testing Ceremony
 时隔多年，试剑大典于铸剑山庄再次举办…
 
 商队移动
