@@ -60,7 +60,7 @@ Unreal to Real
 （{0}志在精益求精，能够加倍发挥精制物品的效果……）
 Person of Jianghu
 闹市州城，乡野村井，凡有人之处必有江湖。武师身处其中，与一众豪杰仗剑交游，情谊非比寻常，若是酬酢赠礼以示友善，关系自然愈发亲厚……
-<color=#brightblue>提升向门派人物送礼时增加的<SpName=mousetip_multilove><color=#pinkyellow>好感</color>，并增加所选物品的礼物级别，使<SpName=mousetip_character><color=#pinkyellow>身份</color>较高的人物愿意收下品级较低的物品；</color>\n<color=#orange>武师资历</color>越高，赠礼<SpName=mousetip_multilove><color=#pinkyellow>好感</color>提升越多，且<SpName=mousetip_character><color=#pinkyellow>身份</color>更高的人物将接受品级更低的物品
+<color=#brightblue>提升与门派人物初次见面及向门派人物送礼时增加的<SpName=mousetip_multilove><color=#pinkyellow>好感</color>，并增加所选物品的礼物级别，使<SpName=mousetip_character><color=#pinkyellow>身份</color>较高的人物愿意收下品级较低的物品；</color>\n<color=#orange>武师资历</color>越高，初次见面及赠礼<SpName=mousetip_multilove><color=#pinkyellow>好感</color>提升越多，且<SpName=mousetip_character><color=#pinkyellow>身份</color>更高的人物将接受品级更低的物品
 {0}身游江湖，常与门派中人往来，\n久而久之，竟已能揣摩人心，更深谙人情世故，\n从此往来交际皆能投其所好，应对自如，{1}亦越发得人喜爱……
 （{0}与门派人物往来交际时，将会更得人心，\n所赠之礼亦会更受对方喜爱……）
 自强不息
@@ -155,7 +155,7 @@ Golden Liver
 （{0}如今饮酒更觉纵情欢畅，行酒令的效果越发显著……）
 豪侠研武
 酒后竞风采，三杯弄宝刀。豪客因酒结缘，广交良朋，共究武学之道。研习功法时，则呼召群雄，各抒己见，众人多从中受益。只是来者并非皆投契，虽有一见如故，引为知己之人，亦有大打出手，反目成仇之事……
-<color=#brightblue>选择持有的功法书籍与所在城镇村寨当前地格众人一同研读、修习，促进众人精进武学，更能交流感情，结成关系</color>
+<color=#brightblue>选择持有的功法书籍与所在城镇村寨当前地格众人一同研读、修习以交流感情，结成关系；参与研读的人数越多，书籍对应的人物造诣越高，其精进功法的效果越好</color>
 {0}心有凌云之志，\n每以武会友，其豪情壮志常激励众人。\n如今与人共研武学时，可激发潜能，促人武学精进，\n其间可见众人或情投意合，或互生怨怼，宛然众生百态……
 （{0}现与众人研读武学书籍时，可促人武学精进，\n其间还可促进众人交流感情，结成关系……）
 Sponsorship Support
@@ -190,7 +190,7 @@ Swearing
 （{0}现可进行芜行俚语之行为，驱赶附近人物，暂且盘踞一地……）
 Thousands of brothers
 乞儿混迹市井，久而久之，便有了万千兄弟，耳目何其多？茫茫人海之中，若想寻人踪迹，定能依靠这番市井交情，顺藤摸瓜……
-<color=#brightblue>号令万千兄弟于各处寻人，并在月份更替后将其带来相见</color>
+<color=#brightblue>号令万千兄弟于各处寻人，或可于月份更替后将其带来相见</color>
 {0}常年走街串巷，\n与丐为伍，终于在一天清晨，得众丐推举，\n成为了乞丐当中字号最老的一方乞丐之主，\n乱世之中，多有苦命之人，众丐遍布四海，自此皆为{1}之耳目……
 （{0}现在可唤来万千兄弟相助寻人……）
 天地为食
@@ -200,7 +200,7 @@ Thousands of brothers
 （{0}现可强行服食附近行人随身之物，\n非但不会招致怨恨，反能令人心生欢喜，增进好感……）
 Folks and Elders
 平民度日，常常淳朴自然，亲仁善邻。较之金银钱财，平民更重邻里乡情，相扶相持，既然互相知晓冷暖，便更知晓“千里送鹅毛，礼轻人意重”……
-<color=#brightblue>提升向非门派人物送礼时增加的<SpName=mousetip_multilove><color=#pinkyellow>好感</color>，并增加所选物品的礼物级别，使身份较高的人物愿意收下品级较低的物品；</color>\n<color=#orange>平民资历</color>越高，赠礼<SpName=mousetip_multilove><color=#pinkyellow>好感</color>提升越多，且<SpName=mousetip_character><color=#pinkyellow>身份</color>更高的人物将接受品级更低的物品
+<color=#brightblue>提升与非门派人物初次见面及向非门派人物送礼时增加的<SpName=mousetip_multilove><color=#pinkyellow>好感</color>，并增加所选物品的礼物级别，使身份较高的人物愿意收下品级较低的物品；</color>\n<color=#orange>平民资历</color>越高，初次见面及赠礼<SpName=mousetip_multilove><color=#pinkyellow>好感</color>提升越多，且<SpName=mousetip_character><color=#pinkyellow>身份</color>更高的人物将接受品级更低的物品
 {0}恬然安居，常与邻里往来，\n久而久之，竟已能揣摩人心，更深谙人情世故，\n从此往来交际皆能投其所好，应对自如，{1}亦越发得人喜爱……
 （{0}与寻常百姓往来交际时，将会更得人心，\n所赠之礼亦会更受对方喜爱……）
 Settling grudges
@@ -335,7 +335,7 @@ Full Immersion
 （{0}如今品茗可涤净昏寐，饮茶后可恢复当月可用的精力……）
 Immortal Recognition
 贵客才艺卓然，身侧常有求教之人，久而久之，便聚得众人一同研学技艺。人多论艺，虽有言谈甚欢之时，亦有心生不睦之事，而谈笑往来间，众人各有所得……
-<color=#brightblue>选择持有的技艺书籍与所在城镇村寨当前地格众人一同研读，促进众人精进技艺，更能交流感情，结成关系</color>
+<color=#brightblue>选择持有的技艺书籍与所在城镇村寨当前地格众人一同研读以交流感情，结成关系；参与研读的人数越多，书籍对应的人物造诣越高，其精进技艺的效果越好</color>
 {0}诗情常有茶助，\n每与茶朋诗友往来，其文思才能常艳绝众人。\n如今与人共研技艺时，可启迪心智，促人技艺精进，\n其间可见众人或情投意合，或互生怨怼，宛然众生百态……
 （{0}现与众人研读技艺书籍时，可促人技艺精进，\n其间还可促进众人交流感情，结成关系……）
 Eye for Crickets
