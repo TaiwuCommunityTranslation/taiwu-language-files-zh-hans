@@ -58,7 +58,7 @@ Choose tool
 Select Materials
 Add resources
 To make items you need <color=#orange>Tool</color>, <color=#orange>Material</color> and <color=#orange>Resources</color> 
-In the tool panel on the left, switch to the <color=#orange>Inventory</color> tab, and click the item <color=#orange>Tool·Carpentry Box.</color>
+Switch to the <color=#orange>Personal</color> tab in the Tools panel on the left, and click on the <color=#orange>Tool·Carpentry Box</color>
 Switch to the <color=#orange>Inventory</color> tab on the right and click on the <color=#orange>Bamboo piece</color>
 Add the required <color=#orange>Resources</color>, the quantity can be adjusted via <color=#orange>+</color> and <color=#orange>-</color> buttons
 Click <color=#orange>Craft 1</color> button to craft the item.
