@@ -8,7 +8,7 @@ Go to the tile where Adoptive Father is
 Equip a mount
 View Character Menu
 Click on the character portrait at the bottom left to enter the Character Menu
-Click an item, and it will automatically equip to the corresponding equipment slot.
+Click on an item you wish to equip, and it will be automatically equipped to the corresponding equipment slot
 Equip a Thin horse
 Restore weight
 Weight limit increases
