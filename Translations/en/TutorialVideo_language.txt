@@ -38,7 +38,7 @@ Go to the next month
 Look for a tile
 View Tile Information
 Automatic pathfinding
-Hover your mouse over a tile to display its resource information. Higher resource values mean more resources gathered and a higher chance of obtaining valuable resource items.
+Hover your mouse over a tile to see its resource information. The higher the resource value on a tile, the more resources can be collected from it, and the higher the probability of obtaining materials from it
 Clicking on a tile will automatically generate the fastest path to that tile, and by clicking on it again you will immediately start moving there
 Taiwu Practice - Part 3
 Learn about resources
