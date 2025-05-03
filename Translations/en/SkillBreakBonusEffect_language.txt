@@ -76,6 +76,6 @@ Poison
 Acri
 Umbri
 Pyro
-Cryotoxin
-Necrotoxin
+Cryo
+Necro
 Oneirotoxin
