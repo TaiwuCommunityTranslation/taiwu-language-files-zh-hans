@@ -1,5 +1,5 @@
 Current Power
-Power Cap
+Power Limit
 Cast Time
 Stance/Inhale Cost
 Ext/Int Ratio
