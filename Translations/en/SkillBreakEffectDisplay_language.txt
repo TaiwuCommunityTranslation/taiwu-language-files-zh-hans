@@ -1,21 +1,21 @@
 Inhale Cost
 Stance Cost
-Music ATT.
-Chess ATT.
-Literature ATT.
-Painting ATT.
-Astrology ATT.
-Appreciation ATT.
-Smithing ATT.
-Carpentry ATT.
-Medicine ATT.
-Toxicology ATT.
-Weaving ATT.
-Gemcutting ATT.
-Taoism ATT.
-Buddhism ATT.
-Culinary Arts ATT.
-Lore ATT.
+Music Req.
+Chess Req.
+Literature Req.
+Painting Req.
+Astrology Req.
+Appreciation Req.
+Smithing Req.
+Carpentry Req.
+Medicine Req.
+Toxicology Req.
+Weaving Req.
+Gemcutting Req.
+Taoism Req.
+Buddhism Req.
+Culinary Arts Req.
+Lore Req.
 Head HP
 Chest HP
 Waist HP
