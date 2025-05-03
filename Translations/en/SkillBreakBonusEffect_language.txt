@@ -73,8 +73,8 @@ Food
 Liquor
 Blood Essence
 Poison
-Acritoxin
-Umbritoxin
+Acri
+Umbri
 Pyrotoxin
 Cryotoxin
 Necrotoxin
