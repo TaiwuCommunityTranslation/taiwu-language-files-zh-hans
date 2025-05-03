@@ -47,7 +47,7 @@ Acc.
 Accuracy Medicine
 Res.
 Resolve Medicine
-Momentum
+Mome.
 Momentum Medicine
 Cast Speed 
 Cast Speed Medicine
