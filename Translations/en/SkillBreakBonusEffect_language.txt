@@ -49,7 +49,7 @@ Res.
 Resolve Medicine
 Mome.
 Momentum Medicine
-Cast Speed 
+Cast
 Cast Speed Medicine
 Movement Speed 
 Mov. Speed Medicine
