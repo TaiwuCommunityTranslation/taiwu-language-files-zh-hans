@@ -43,9 +43,9 @@ Attack
 Attack Medicine
 Defend
 Defend Medicine
-Accuracy
+Acc.
 Accuracy Medicine
-Resolve
+Res.
 Resolve Medicine
 Momentum
 Momentum Medicine
