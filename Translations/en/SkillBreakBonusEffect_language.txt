@@ -51,7 +51,7 @@ Mome.
 Momentum Medicine
 Cast
 Cast Speed Medicine
-Movement Speed 
+Move
 Mov. Speed Medicine
 Attack Speed 
 Attack Speed Medicine
