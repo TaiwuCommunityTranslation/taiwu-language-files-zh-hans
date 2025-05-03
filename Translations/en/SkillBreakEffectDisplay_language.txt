@@ -1,42 +1,42 @@
 Inhale Cost
 Stance Cost
-音律发挥
-弈棋发挥
-诗书发挥
-绘画发挥
-术数发挥
-品鉴发挥
-锻造发挥
-制木发挥
-医术发挥
-毒术发挥
-织锦发挥
-巧匠发挥
-道法发挥
-佛学发挥
-厨艺发挥
-杂学发挥
-头颈强健
-胸背强健
-腰腹强健
-左臂强健
-右臂强健
-左腿强健
-右腿强健
-重创强健
-失神强健
-威力上限-摧破类
-摧破威限
-威力上限-轻灵类
-轻灵威限
-威力上限-护体类
-护体威限
-威力上限-奇窍类
-奇窍威限
-攻击范围-最小距离
-最小范围
-攻击范围-最大距离
-最大范围
-造成伤害
-移动间隔-影响增强
-移动增强
+Music Effect
+Chess Effect
+Literature Effect
+Painting Effect
+Astrology Effect
+Appreciation Effect
+Smithing Effect
+Carpentry Effect
+Medicine Effect
+Toxicology Effect
+Weaving Effect
+Gemcutting Effect
+Taoism Effect
+Buddhism Effect
+Culinary Arts Effect
+Lore Effect
+Head HP
+Chest HP
+Waist HP
+L. Arm HP
+R. Arm HP
+L. Leg HP
+R. Leg HP
+Fatal Wound HP
+Daze HP
+Power Limit - Break
+Break Power Limit
+Power Limit - Quick
+Quick Power Limit
+Power Limit - Aegis
+Aegis Power Limit
+Power Limit - Nadis
+Nadis Power Limit
+Attack Range - Closer
+Closer
+Attack Range - Farther
+Farther
+Damage Dealt
+Jump Intervals - Effect Increase
+Movement Increase
