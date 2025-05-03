@@ -2,47 +2,47 @@ Start
 Start of this Breakthrough.
 End
 End of this Breakthrough.\nAll progress will be lost if you cannot reach this cell.
-玄机
+Profound Theory
 No Description
 Normal
 No special effect.
 Succession
-打通此格时，周围所有格子的<color=#brightblue>打通成功率提高30%。</color>
+After connecting to this cell, <color=#brightblue>the Success Rate of all surrounding cells will be increased by 30%.</color>
 Flexibility
-打通此格时，下次连接<color=#orange>必须选择距离2的突破格为连接目标。</color>
-魔障
-打通此格时，此格周围的所有“如常”格变化为随机的“特殊突破格”。
+After connecting to this cell, your next connection <color=#orange>must be a breakthrough cell 2 cells away.</color>
+Mara
+After connecting to this cell, all the "Basic" cells around this cell will change to random "Special" breakthrough cells
 Foundation
-此格的<color=#brightred>打通成功率降低100%。</color>\n此格周围所有格子的<color=#brightblue>打通成功率提高60%。</color>
+This cell's <color=#brightred>Success Rate is decreased by 100%.</color>\nAll surrounding cells' <color=#brightblue>Success Rate is increased by 60%.</color>
 Transition
-与此格相连的下1个格子<color=#brightblue>必然可以打通。</color>
+After connecting to this cell, the next 1 connection <color=#brightblue>will be guaranteed to succeed.</color>
 Inspiration
-连接此格<color=#brightblue>不会消耗天资上限或入魔上限。</color>
-Refreshment
-此格的<color=#brightred>打通成功率减少30%</color>，但<color=#brightblue>不会消耗天资上限或入魔上限。</color>打通此格时，将周围随机1个“如常”格变化为“忘我”。
+Connecting to this cell <color=#brightblue>doesn't consume Talent Limit or Obsession Limit.</color>
+Selflessness
+This cell's <color=#brightred>Success Rate is decreased by 30%</color>, but <color=#brightblue>connecting to it doesn't consume Talent Limit or Obsession Limit.</color> After connecting to this cell, 1 random "Basic" cell around it will change to "Selflessness".
 Reversal
-此格的<color=#brightred>打通成功率降低60%。</color>\n打通此格时，<color=#brightblue>天资上限+3。</color>
+This cell's <color=#brightred>Success Rate is decreased by 60%.</color>\nWhen connecting to this cell, <color=#brightblue>Talent Limit +3.</color>
 Steady
-此格的<color=#brightred>打通成功率降低60%。</color>此格周围每有1个打通的突破格，此格的<color=#brightblue>打通成功率提高20%，且威力上限+1。</color>
+This cell's <color=#brightred>Success Rate is decreased by 60%.</color> For every 1 connected cell around this cell, this cell's <color=#brightblue>Success Rate is increased by 20%, and its Power Limit is increased by +1.</color>
 Hard Work
-打通此格时，周围突破格的<color=#brightred>打通成功率降低50%</color>，<color=#brightblue>威力上限+2，并且在打通失败时会重新变成可连接状态。</color>
+After connecting to this cell, the surrounding cells' <color=#brightred>Success Rate is decreased by 50%</color>, but their <color=#brightblue>Power Limit is increased by +2, and if the connection fails, they won't become unconnectable.</color>
 Clarity
-打通此格时，<color=#brightblue>揭示多个未显示的格子。</color>
-Challenge
-打通此格时，将周围<color=#brightred>随机3个格子变为打通失败状态</color>，并<color=#brightblue>将它们的威力上限转移至此格上。</color>
+After connecting to this cell, <color=#brightblue>many unrevealed cells will be revealed.</color>
+Robbery
+After connecting to this cell, <color=#brightred>3 random cells around it will become unconnectable</color>, and their <color=#brightblue>Power Limits will be transferred to this cell.</color>
 Simplify
-此格的<color=#brightblue>打通成功率提高30%。</color>\n打通此格时，此格周围的所有“特殊突破格”变化为“如常”。
+This cell's <color=#brightblue>Success Rate is increased by 30%.</color>\nAfter connecting to this cell, all "Special" cells around it will change into "Basic" cells.
 Support
-打通此格时，周围的突破格<color=#brightblue>威力上限+1。</color>
+After connecting to this cell, all surrounding cells' <color=#brightblue>Power Limit is increased by +1.</color>
 Culmination
-打通此格时，<color=#brightblue>天资上限+3</color>，并<color=#brightred>将周围突破格的威力上限变为0。</color>
+After connecting to this cell, <color=#brightblue>Talent Limit +3</color>, and <color=#brightred>Power Limit of surrounding cells will change to 0.</color>
 Humility
-当前天资超过天资上限的一半越多，此格及此格周围所有格子的<color=#brightblue>打通成功率就提高越多</color>。
+The more the current Talent exceeds half of the Talent Limit, the more this cell's and its surrounding cells' <color=#brightblue>Success Rate will increase</color>.
 Ambition
-当前天资相比天资上限的一半越少，此格及此格周围所有格子的<color=#brightblue>打通成功率就提高越多</color>。
-Advice
-打通此格时，下次连接<color=#orange>可以选择任意“诀窍”突破格为连接目标。</color>
+The lower the current Talent compared to half of the Talent Limit, the more this cell's and its surrounding cells' <color=#brightblue>Success Rate will increase</color>.
+Trick
+After connecting to this cell, your next connection  <color=#orange>can connect to any other "Trick" cell as the target.</color>
 Complete
 You are already familiar with the key points of this technique.\nThis cell <color=#brightblue>will always connect successfully</color>.
 Mistake
-曾在此格遭受挫折。\n此格的打通<color=#brightblue>成功率提高100%</color>，但连接此格无论成功或失败均会<color=#brightred>损失一定的健康</color>。
+Already suffered setbacks on this cell.\nThis cell's <color=#brightblue>Success Rate will be increased by 100%</color>, but <color=#brightred>you will always lose Health when connecting it</color>, regardless of its success or failure.
