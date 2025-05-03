@@ -133,7 +133,7 @@ Advance skill practice
 Combat Skill Breakthrough
 Breakthrough Preparation
 Selecting Breakthrough Pages
-A breakthrough requires you to have 6 pages read: 1 <color=#white>White</color> page that is a general outline, and 5 pages of any combination of <color=#red>Red</color> (Heterodox) or <color=#darkcyan>Blue</color> (Orthodox) pages
+A breakthrough requires you to have 6 pages read: 1 <color=#white>White</color> page that is a Main Pages, and 5 pages of any combination of <color=#red>Red</color> (Heterodox) or <color=#darkcyan>Blue</color> (Orthodox) pages
 When page's study progress reaches 100% in a book, you will be able to select that page before the breakthrough of that technique. You have to choose 1 general outline page (White), and 5 Orthodox/Heterodox pages (Blue/Red) for a total of 6 pages before being able to breakthrough.
 Advance skill breakthrough
 Breakthrough Rules
