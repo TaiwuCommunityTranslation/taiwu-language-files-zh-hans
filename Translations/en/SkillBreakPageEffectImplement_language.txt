@@ -2,45 +2,45 @@
 <SpName=mousetip_requirements>Usage Requirements：<color=#brightred>+15%</color>
 <SpName=mousetip_maxpower>Power Limit：<color=#brightblue>+30</color>
 <SpName=mousetip_power>Current Power：<color=#brightblue>+10</color>
-<SpName=mousetip_requirements>发挥需求：<color=#brightblue>-15%</color>
-<SpName=mousetip_maxpower>威力上限：<color=#brightred>-30</color>
-<SpName=mousetip_ciyao_0>提气恢复：<color=#brightblue>+{2}</color>
-<SpName=mousetip_ciyao_4>调息吐纳：<color=#brightblue>+{2}</color>
-<SpName=mousetip_ciyao_3>引气冲关：<color=#brightblue>+{2}</color>
-<SpName=mousetip_ciyao_0>架势恢复：<color=#brightblue>+{2}</color>
-<SpName=mousetip_ciyao_4>内功发挥：<color=#brightblue>+{2}</color>
-<SpName=mousetip_ciyao_3>施展速度：<color=#brightblue>+{2}</color>
-<SpName=mousetip_attackrangeforward>攻击范围-最小距离：<color=#brightblue>+0.5</color>
-<SpName=mousetip_tiqi>提气消耗：<color=#brightblue>-20%</color>
-<SpName=mousetip_jiashi>架势消耗：<color=#brightblue>-20%</color>
-<SpName=mousetip_mingzhong_0>力道：<color=#brightblue>+20%</color>
-<SpName=mousetip_mingzhong_1>精妙：<color=#brightblue>+20%</color>
-<SpName=mousetip_mingzhong_2>迅疾：<color=#brightblue>+20%</color>
-<SpName=mousetip_mingzhong_3>动心：<color=#brightblue>+20%</color>
-<SpName=mousetip_attackrangeforward>攻击范围-最大距离：<color=#brightblue>+0.5</color>
-<SpName=mousetip_ciyao_2>施展时间：<color=#brightblue>-20%</color>
-<SpName=mousetip_makedirectdamage>造成伤害：<color=#brightblue>+20%</color>
-<SpName=mousetip_ciyao_3>武具运用：<color=#brightblue>+{2}</color>
-<SpName=mousetip_ciyao_1>步伐稳健：<color=#brightblue>+{2}</color>
-<SpName=mousetip_shenfachixu>身法衰减：<color=#brightblue>-10%</color>
-<SpName=mousetip_shenfachixu>攻击速度：<color=#brightblue>+{2}</color>
-<SpName=mousetip_ciyao_1>移动速度：<color=#brightblue>+{2}</color>
-<SpName=mousetip_shenfaxiaohao>身法消耗：<color=#brightblue>-10%</color>
-运起护体时，如果运用者未出现重创标记，所受直接伤害降低<color=#brightblue>20%</color>
-<SpName=mousetip_pozhanjibie>破绽消除：<color=#brightblue>+25%</color>
-运起护体时，如果运用者已出现重创标记，所受直接伤害降低<color=#brightblue>20%</color>
-<SpName=mousetip_dianxuejibie>封穴消除：<color=#brightblue>+25%</color>
-<SpName=mousetip_fangyu_0>御体：<color=#brightblue>+{1}</color>
-<SpName=mousetip_fangyu_1>御气：<color=#brightblue>+{1}</color>
-<SpName=mousetip_huajie_0>卸力：<color=#brightblue>+{1}</color>
-<SpName=mousetip_huajie_1>拆招：<color=#brightblue>+{1}</color>
-<SpName=mousetip_huajie_2>闪避：<color=#brightblue>+{1}</color>
-<SpName=mousetip_huajie_3>守心：<color=#brightblue>+{1}</color>
-<SpName=mousetip_fengjinggailv>被封概率：<color=#brightblue>-33%</color>
-<SpName=mousetip_gongji_0>破体：<color=#brightblue>+{1}</color>
-<SpName=mousetip_gongji_1>破气：<color=#brightblue>+{1}</color>
-<SpName=mousetip_mingzhong_0>力道：<color=#brightblue>+{1}</color>
-<SpName=mousetip_mingzhong_1>精妙：<color=#brightblue>+{1}</color>
-<SpName=mousetip_mingzhong_2>迅疾：<color=#brightblue>+{1}</color>
-<SpName=mousetip_mingzhong_3>动心：<color=#brightblue>+{1}</color>
-<SpName=mousetip_fengjingshijian>被封时间：<color=#brightblue>-33%</color>
+<SpName=mousetip_requirements>Usage Requirements：<color=#brightblue>-15%</color>
+<SpName=mousetip_maxpower>Power Limit：<color=#brightred>-30</color>
+<SpName=mousetip_ciyao_0>Inhale Recovery：<color=#brightblue>+{2}</color>
+<SpName=mousetip_ciyao_4>Internal Breath：<color=#brightblue>+{2}</color>
+<SpName=mousetip_ciyao_3>Int. Recovery：<color=#brightblue>+{2}</color>
+<SpName=mousetip_ciyao_0>Stance Recovery：<color=#brightblue>+{2}</color>
+<SpName=mousetip_ciyao_4>Int Ratio Bonus：<color=#brightblue>+{2}</color>
+<SpName=mousetip_ciyao_3>Cast Speed：<color=#brightblue>+{2}</color>
+<SpName=mousetip_attackrangeforward>Attack Range - Closer：<color=#brightblue>+0.5</color>
+<SpName=mousetip_tiqi>Inhale Cost：<color=#brightblue>-20%</color>
+<SpName=mousetip_jiashi>Stance Cost：<color=#brightblue>-20%</color>
+<SpName=mousetip_mingzhong_0>Might：<color=#brightblue>+20%</color>
+<SpName=mousetip_mingzhong_1>Finesse：<color=#brightblue>+20%</color>
+<SpName=mousetip_mingzhong_2>Swiftness：<color=#brightblue>+20%</color>
+<SpName=mousetip_mingzhong_3>Breath：<color=#brightblue>+20%</color>
+<SpName=mousetip_attackrangeforward>Attack Range - Farther：<color=#brightblue>+0.5</color>
+<SpName=mousetip_ciyao_2>Cast Time：<color=#brightblue>-20%</color>
+<SpName=mousetip_makedirectdamage>Direct Damage：<color=#brightblue>+20%</color>
+<SpName=mousetip_ciyao_3>Equipment Efficiency：<color=#brightblue>+{2}</color>
+<SpName=mousetip_ciyao_1>Ext. Recovery：<color=#brightblue>+{2}</color>
+<SpName=mousetip_shenfachixu>Footwork Upkeep：<color=#brightblue>-10%</color>
+<SpName=mousetip_shenfachixu>Attack Speed：<color=#brightblue>+{2}</color>
+<SpName=mousetip_ciyao_1>Movement Speed：<color=#brightblue>+{2}</color>
+<SpName=mousetip_shenfaxiaohao>Footwork Cost：<color=#brightblue>-10%</color>
+When using Aegis technique, if the user's body has no Fatal Wound markers, direct damage taken will be reduced by <color=#brightblue>20%</color>
+<SpName=mousetip_pozhanjibie>Weak Point Removal：<color=#brightblue>+25%</color>
+When using Aegis technique, if the user's body already has Fatal Wound markers, direct damage taken will be reduced by <color=#brightblue>20%</color>
+<SpName=mousetip_dianxuejibie>Sealed Acupoints Removal：<color=#brightblue>+25%</color>
+<SpName=mousetip_fangyu_0>External Defense：<color=#brightblue>+{1}</color>
+<SpName=mousetip_fangyu_1>Internal Defense：<color=#brightblue>+{1}</color>
+<SpName=mousetip_huajie_0>Diversion：<color=#brightblue>+{1}</color>
+<SpName=mousetip_huajie_1>Parry：<color=#brightblue>+{1}</color>
+<SpName=mousetip_huajie_2>Evasion：<color=#brightblue>+{1}</color>
+<SpName=mousetip_huajie_3>Focus：<color=#brightblue>+{1}</color>
+<SpName=mousetip_fengjinggailv>Sealing Chance：<color=#brightblue>-33%</color>
+<SpName=mousetip_gongji_0>External Penetration：<color=#brightblue>+{1}</color>
+<SpName=mousetip_gongji_1>Internal Penetration：<color=#brightblue>+{1}</color>
+<SpName=mousetip_mingzhong_0>Might：<color=#brightblue>+{1}</color>
+<SpName=mousetip_mingzhong_1>Finesse：<color=#brightblue>+{1}</color>
+<SpName=mousetip_mingzhong_2>Swiftness：<color=#brightblue>+{1}</color>
+<SpName=mousetip_mingzhong_3>Breath：<color=#brightblue>+{1}</color>
+<SpName=mousetip_fengjingshijian>Sealing Time：<color=#brightblue>-33%</color>
