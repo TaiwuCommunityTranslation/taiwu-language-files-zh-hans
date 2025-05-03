@@ -53,7 +53,7 @@ Cast
 Cast Speed Medicine
 Move
 Mov. Speed Medicine
-Attack Speed 
+A.Sp.
 Attack Speed Medicine
 Ore
 Ore Item
