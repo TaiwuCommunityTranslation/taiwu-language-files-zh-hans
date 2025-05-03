@@ -1,21 +1,21 @@
 Inhale Cost
 Stance Cost
-Music Effect
-Chess Effect
-Literature Effect
-Painting Effect
-Astrology Effect
-Appreciation Effect
-Smithing Effect
-Carpentry Effect
-Medicine Effect
-Toxicology Effect
-Weaving Effect
-Gemcutting Effect
-Taoism Effect
-Buddhism Effect
-Culinary Arts Effect
-Lore Effect
+Music Req.
+Chess Req.
+Literature Req.
+Painting Req.
+Astrology Req.
+Appreciation Req.
+Smithing Req.
+Carpentry Req.
+Medicine Req.
+Toxicology Req.
+Weaving Req.
+Gemcutting Req.
+Taoism Req.
+Buddhism Req.
+Culinary Arts Req.
+Lore Req.
 Head HP
 Chest HP
 Waist HP
