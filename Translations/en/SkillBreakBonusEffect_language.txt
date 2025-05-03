@@ -1,81 +1,81 @@
 Music
-音律技艺书
+Music Manual
 Chess
-弈棋技艺书
+Chess Manual
 Literature
-诗书技艺书
+Literature Manual
 Painting
-绘画技艺书
+Painting Manual
 Medicine
-医术技艺书
+Medicine Manual
 Toxicology
-毒术技艺书
+Toxicology Manual
 Smithing
-锻造技艺书
+Smithing Manual
 Carpentry
-制木技艺书
+Carpentry Manual
 Weaving
-织锦技艺书
+Weaving Manual
 Gemcutting
-巧匠技艺书
+Gemcutting Manual
 Astrology
-术数技艺书
+Astrology Manual
 Appreciation
-品鉴技艺书
+Appreciation Manual
 Culinary Arts
-厨艺技艺书
+Culinary Arts Manual
 Lore
-杂学技艺书
+Lore Manual
 Buddhism
-佛学技艺书
+Buddhism Manual
 Taoism
-道法技艺书
-Team Heal
-外伤丹药
-内伤丹药
-解毒
-解毒丹药
-BRE
-内息丹药
+Taoism Manual
+Healing
+Ext. Inj. Medicine
+Int. Inj. Medicine
+Detoxify
+Detox Medicine
+Inner Breath
+Inner Breath Medicine
 Health
-健康丹药
-攻击
-攻击丹药
+Health Medicine
+Attack
+Attack Medicine
 Defend
-防御丹药
+Defend Medicine
 Accuracy
-命中丹药
+Accuracy Medicine
 Resolve
-化解丹药
+Resolve Medicine
 Momentum
-气势丹药
+Momentum Medicine
 Cast Speed 
-施展丹药
+Cast Speed Medicine
 Movement Speed 
-移速丹药
+Mov. Speed Medicine
 Attack Speed 
-攻速丹药
+Attack Speed Medicine
 Ore
-金铁引子
+Ore Item
 Wood
-木材引子
+Wood Item
 Jade
-玉石引子
-织锦引子
+Jade Item
+Fabric Item
 Adore
-相互爱慕
-仇恨
-相互仇恨
-水果
+Adore Each Other
+Hate
+Hate Each Other
+Fruit
 Tea
 EXP
 Food
 Liquor
 Blood Essence
 Poison
-烈毒毒药
-郁毒毒药
-赤毒毒药
-寒毒毒药
-腐毒毒药
-幻毒毒药
+Acritoxin
+Umbritoxin
+Pyrotoxin
+Cryotoxin
+Necrotoxin
+Oneirotoxin
